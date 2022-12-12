@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s、他 %2$d ファイル</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">入力できるのはあと%d回です。この回数を超えるとSIMがロックされます。</item>
+    </plurals>
+</resources>

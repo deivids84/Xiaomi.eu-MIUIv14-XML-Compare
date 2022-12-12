@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s і ще %2$d файлу</item>
+        <item quantity="one">%1$s і ще %2$d файл</item>
+        <item quantity="few">%1$s і ще %2$d файли</item>
+        <item quantity="many">%1$s і ще %2$d файлів</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">У вас залишилося %d спроби. Після цього SIM-карту буде заблоковано.</item>
+        <item quantity="one">У вас залишилась %d спроба. Після цього SIM-карту буде заблоковано.</item>
+        <item quantity="few">У вас залишилося %d спроби. Після цього SIM-карту буде заблоковано.</item>
+        <item quantity="many">У вас залишилося %d спроб. Після цього SIM-карту буде заблоковано.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibre quand ça sonne</item>
+        <item>Vibrer à la réception d\'un message</item>
+        <item>Vibrer avec l\'alarme</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Prendre une photo</item>
+        <item>Trouver un téléphone</item>
+        <item>Trouver Mi-key</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utiliser la préférence de système (par défaut)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item> | Activé</item>
+        <item> | Activé (média)</item>
+        <item> | Activé (téléphone)</item>
+    </string-array>
+</resources>

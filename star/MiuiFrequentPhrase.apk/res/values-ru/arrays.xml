@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Заголовок счета: *** Inc.</item>
+        <item>Адрес: улица, номер дома/квартиры, населенный пункт, страна, почтовый индекс</item>
+        <item>Оставьте посылку возле двери. Спасибо!</item>
+        <item>"Одну минуту. Скоро вернусь."</item>
+        <item>"На совещании. Отправьте текстовое сообщение."</item>
+        <item>"Не могу говорить. Перезвоню позже."</item>
+        <item>Спасибо!</item>
+    </string-array>
+</resources>

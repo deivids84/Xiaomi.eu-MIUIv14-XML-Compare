@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d日</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%dか月</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">歳</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d個のアイテム</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">返済の詳細（%d年）</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">返済の詳細（%d年）、CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d個を選択済み</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d年 (%2$dか月)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%dか月</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d年</item>
+    </plurals>
+</resources>

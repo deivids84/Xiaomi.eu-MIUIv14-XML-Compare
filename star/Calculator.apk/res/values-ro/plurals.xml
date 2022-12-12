@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+        <item quantity="few">%d luni</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">ani</item>
+        <item quantity="one">an</item>
+        <item quantity="few">ani</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Detaliere rambursare (%d ani)</item>
+        <item quantity="one">Detaliere rambursare (%d an)</item>
+        <item quantity="few">Detaliere rambursare (%d ani)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Detaliere rambursare (%d ani), CNY</item>
+        <item quantity="one">Detaliere rambursare (%d an), CNY</item>
+        <item quantity="few">Detaliere rambursare (%d ani), CNY</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+        <item quantity="few">%d elemente selectate</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d ani (%2$d luni)</item>
+        <item quantity="one">%1$d an (%2$d luni)</item>
+        <item quantity="few">%1$d ani (%2$d luni)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+        <item quantity="few">%d luni</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d ani</item>
+        <item quantity="one">%d an</item>
+        <item quantity="few">%d ani</item>
+    </plurals>
+</resources>

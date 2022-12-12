@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>přístup na síť</item>
+        <item>číst SMS</item>
+        <item>upravit SMS</item>
+        <item>přijmout SMS</item>
+        <item>odeslat SMS</item>
+        <item>hovorům</item>
+        <item>číst kontakty</item>
+        <item>upravit kontakty</item>
+        <item>číst seznam hovorů</item>
+        <item>upravit seznam hovorů</item>
+        <item>fotoaparát</item>
+        <item>poloze</item>
+    </string-array>
+</resources>

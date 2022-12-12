@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Računi</item>
+        <item>Dodajanje in urejanje računov tretjih ponudnikov</item>
+        <item>Računi;SNS;Facebook;Google;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+        <item>Dodajanje in urejanje računov tretjih ponudnikov</item>
+        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun;Xiaomi Račun</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Spremeni geslo</item>
+        <item>Zamenjaj geslo Mi Računa</item>
+        <item>Mi Račun;Račun;Račun pomoč;Center za pomoč</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Pomoč</item>
+        <item>Dobite pomoč in podporo za Mi Račun</item>
+        <item>Xiaomi;Račun;Mi Račun;Pomoč;Podpora;Pokaži</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Preverjanje v dveh korakih</item>
+        <item>Nastavite dvonivojsko preverjanje za vaš Mi Račun</item>
+        <item>Prijava;Prijava;v 2 korakih;Preverjanje;Xiaomi;Račun;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Varnost računa</item>
+        <item>Telefon in e-poštni naslov za obnovitev, urejanje gesla</item>
+        <item>Varnost računa;Vpis;Telefon za obnovitev;E-pošta za obnovitev;Zaščita računa;Tel.številka;E-pošta;Spremeni geslo;Dodaj tel.štev.;Dodaj e-pošto;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Naprave</item>
+        <item>Urejajte naprave povezane z vašim Mi Računom</item>
+        <item>Urejajte naprave;Moje naprave;Naprave;Seznam naprav;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Pravilnik o zasebnosti</item>
+        <item>Pokaži Pravila o zasebnosti Mi Računa</item>
+        <item>Xiaomi;Račun;Mi Račun;Zasebnost;Pravila;Pokaži</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-poštni naslov za obnovitev</item>
+        <item>Dodaj e-poštni naslov za obnovitev</item>
+        <item>E-pošta za obnovitev;E-pošta;Dodaj e-pošto;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon za obnovitev</item>
+        <item>Dodaj telefon za obnovitev</item>
+        <item>Telefon za obnovitev;Dodaj telefon;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Oglasi</item>
+        <item>Uredi sistemske oglase</item>
+        <item>Oglasi;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Podatki računa</item>
+        <item>Ogled vaše fotografije profila in urejanje podatkov o računu</item>
+        <item>Osebne info;fotografija;vzdevek;račun info;Mi ID;ID;Mi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Uporabniški dogovor</item>
+        <item>Uporabniški dogovor</item>
+        <item>Mi Račun;Račun;Pogoji uporabe;EULA</item>
+    </string-array>
+</resources>

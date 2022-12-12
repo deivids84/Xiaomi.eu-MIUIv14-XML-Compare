@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">In 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Sofort</item>
+        <item quantity="other">Sofort</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d Minuten</item>
+        <item quantity="one">in 1 Min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Gerade eben</item>
+        <item quantity="other">Gerade eben</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Vor %d Minuten</item>
+        <item quantity="one">Vor 1 Minute</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ ungelesen</item>
+        <item quantity="one">%1$d+ ungelesen</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ungelesen</item>
+        <item quantity="one">%1$d ungelesen</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d Kontakte hinzugefügt</item>
+        <item quantity="one">%d Kontakt hinzugefügt</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d andere Personen</item>
+        <item quantity="one">+%1$d andere Person</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Entwürfe</item>
+        <item quantity="one">Entwurf</item>
+    </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Sie können bis zu %1$d Bedingungen hinzufügen</item>
+        <item quantity="one">Sie können bis zu %1$d Bedingung hinzufügen</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Blende %1$d Anlagen aus</item>
+        <item quantity="one">Blende %1$d Anlage aus</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">In 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Stunde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Sofort</item>
+        <item quantity="other">Sofort</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">In %d Min</item>
+        <item quantity="one">In 1 Minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Gerade eben</item>
+        <item quantity="other">Gerade eben</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d Anhänge übrig</item>
+        <item quantity="one">%1$d Anhang übrig</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d neue Nachrichten</item>
+        <item quantity="one">%1$d neue Nachricht</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Vor %d Minuten</item>
+        <item quantity="one">Vor 1 Minute</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d Tage danach</item>
+        <item quantity="one">%1$d Tag danach</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d Tage zuvor</item>
+        <item quantity="one">%1$d Tag zuvor</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d Stunden danach</item>
+        <item quantity="one">%1$d Stunde danach</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d Stunden zuvor</item>
+        <item quantity="one">%1$d Stunde zuvor</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d Minuten danach</item>
+        <item quantity="one">%1$d Minute danach</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d Minuten zuvor</item>
+        <item quantity="one">%1$d Minute zuvor</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d Sekunden danach</item>
+        <item quantity="one">%1$d Sekunde danach</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d Sekunden zuvor</item>
+        <item quantity="one">%1$d Sekunde zuvor</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d Wochen danach</item>
+        <item quantity="one">%1$d Woche danach</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d Wochen zuvor</item>
+        <item quantity="one">%1$d Woche zuvor</item>
+    </plurals>
+</resources>

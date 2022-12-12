@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="aritst_gender_filter_api">
+        <item>tudo</item>
+        <item>masculino</item>
+        <item>feminino</item>
+        <item>grupo</item>
+    </string-array>
+    <string-array name="recommendation_desc_week">
+        <item>Recomendações de domingo</item>
+        <item>Recomendações de segunda-feira</item>
+        <item>Recomendações de terça-feira</item>
+        <item>Recomendações de quarta-feira</item>
+        <item>Recomendações de quinta-feira</item>
+        <item>Recomendações de sexta-feira</item>
+        <item>Recomendações de sábado</item>
+    </string-array>
+</resources>

@@ -504,6 +504,10 @@
         <item quantity="other">%1$d rooms</item>
         <item quantity="one">%1$d room</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d screens</item>
+        <item quantity="one">%1$d screen</item>
+    </plurals>
     <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d screens</item>
         <item quantity="one">%1$d screen</item>

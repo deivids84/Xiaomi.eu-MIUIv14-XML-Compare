@@ -247,6 +247,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="annual_babies_title">They grow so fast</string>
     <string name="annual_group_people_title">Together</string>
     <string name="annual_pets_title">Paw in paw</string>
+    <string name="annual_speci_year_title">Looking back at %d</string>
     <string name="annual_year_title">This year</string>
     <string name="annula_sports_title">Moving forward</string>
     <string name="app_is_launching">%s is launching…</string>
@@ -1303,10 +1304,12 @@ Send this code to the supervisor."</string>
     <string name="error_build_thumbnail_tip">"Couldn't download thumbnail."</string>
     <string name="error_change_storage_action">Switch storage</string>
     <string name="error_change_storage_msg">Go to Settings > Storage, switch storage there, and try again.</string>
+    <string name="error_check_network_later">Check your network settings and try again</string>
     <string name="error_cloud_not_active">No photos in Xiaomi Cloud</string>
     <string name="error_connect_timeout_action">Select network</string>
     <string name="error_connect_timeout_msg">Connect to a different network and try again.</string>
     <string name="error_connect_timeout_tip">Connection timed out.</string>
+    <string name="error_create_share_album_fail_default">"Couldn't create due to an unknown error"</string>
     <string name="error_decode_tip">"File format isn't supported or files are corrupted."</string>
     <string name="error_download_tip">"Couldn't download"</string>
     <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
@@ -1721,6 +1724,8 @@ are available"</string>
     <string name="group_header_title_user_create_album">My albums</string>
     <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
     <string name="have_known">Got it</string>
+    <string name="hdr_show_hint">Adjust the display to show more details in the shadows and highlights on items with high dynamic range</string>
+    <string name="hdr_show_title">Show HDR</string>
     <string name="header_help">Help</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
@@ -1864,7 +1869,7 @@ are available"</string>
     <string name="last_some_day_travel_title_two">Memories of %1$s</string>
     <string name="last_some_performance_title">Things I saw</string>
     <string name="lenovo">Lenovo</string>
-    <string name="lenovo_phone">Lenovo phone</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_isOpenSource">true</string>
@@ -2819,6 +2824,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="privacy_rejected_map_detail">"Your withdrawal of consent to the Privacy Policy of Gallery Map will be held as refusing to accept its services. Other basic features and services of Gallery won't be affected. Withdraw anyway?"</string>
     <string name="privacy_rejected_map_new">Withdrawal of consent to Gallery Map Third Party Data Sharing Statement</string>
     <string name="privacy_rejected_pos_btn">Withdraw</string>
+    <string name="privacy_share_album_confirm">Terms and conditions</string>
+    <string name="privacy_share_album_confirm_detail">Shared albums are powered by Xiaomi Cloud. Before using this feature, read and agree to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">User Agreement>&lt;/a>&lt;/font> and &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Release to open private folder</string>
     <string name="private_entry_lock_state_enterd_text">Pull down to open private folder</string>
     <string name="problem_feedback">Feedback</string>
@@ -2853,7 +2860,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="qq_login_btn_content_description">Sign in with QQ</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qr_invite_scan_hint">Scan QR code</string>
-    <string name="qr_invite_time_hint">This QR code is valid for 7 days</string>
+    <string name="qr_invite_time_hint">This QR code is valid for %d days</string>
     <string name="qr_invite_title">QR code invitation</string>
     <string name="quarterly_pets_title">Fluffy companions</string>
     <string name="quotation">\"%s\"</string>
@@ -2984,7 +2991,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
     <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
     <string name="samsung">Samsung</string>
-    <string name="samsung_phone">Samsung phone</string>
+    <string name="samsung_phone">Samsung</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -3109,13 +3116,16 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="secret_album_display_name">Private album</string>
     <string name="secret_album_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
     <string name="secret_album_password_first_use_title">Privacy protection password</string>
+    <string name="secret_album_password_first_use_with_sms_msg">Privacy protection password will be used. It works for messages, photos, notes, and hidden folders.</string>
     <string name="secret_album_password_update_dialog_msg">Privacy protection password works for photos, notes, hidden folders, etc.</string>
     <string name="secret_album_password_update_dialog_title">Upgrade password</string>
     <string name="secret_album_password_update_first_user_dialog_msg">Privacy protection password works for photos, notes, hidden folders, etc.</string>
     <string name="secret_album_password_update_first_user_dialog_title">Upgrade password</string>
+    <string name="secret_album_password_update_with_sms_dialog_msg">Privacy protection password works for messages, photos, notes, and hidden folders.</string>
     <string name="secret_album_set_pc_password_dialog_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
     <string name="secret_album_set_pc_password_dialog_ok">Set a new password</string>
     <string name="secret_album_set_pc_password_dialog_title">Set password</string>
+    <string name="secret_album_set_pc_password_with_sms_dialog_msg">Privacy protection password will be used. It works for messages, photos, notes, and hidden folders.</string>
     <string name="secret_reason_space_full">Cloud albums are full</string>
     <string name="secret_reason_too_large">This file is too big</string>
     <string name="secret_reason_type_not_support">"This file type isn't supported"</string>
@@ -3213,7 +3223,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="share_album_home_pref_operation_open">Turn on</string>
     <string name="share_album_home_pref_unshare_nonOwner_summary">Not shared</string>
     <string name="share_album_home_share_to_home">Smart home</string>
-    <string name="share_album_home_text_tip">This album will be played as a slideshow on the screens available to your family group members</string>
+    <string name="share_album_home_switch_family">Switch</string>
+    <string name="share_album_home_text_tip">This album will be shared with your family group. It will also be played as a slideshow on the screens available to your family group members.</string>
     <string name="share_album_invite_send_failed">"Couldn't send invitation. Wait a minute or two and try again."</string>
     <string name="share_album_invite_send_success">Sent invitation successfully</string>
     <string name="share_album_manage">Manage shared items</string>
@@ -3348,6 +3359,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="solar_valentines_day_title">"Valentine's Day"</string>
     <string name="sort">Sort</string>
+    <string name="sort_and_showmode">Sort and view</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_ai_audio">AI Audio</string>
     <string name="special_type_eye_repair">Fixed closed eyes using AI</string>
@@ -3683,9 +3695,19 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="title_dynamicfeature_7350">Feature_7350</string>
     <string name="title_dynamicfeature_8450">Feature_8450</string>
     <string name="title_dynamicfeature_8550">Feature_8550</string>
-    <string name="title_dynamicfeature_basefeature">Feature_baseFeature</string>
-    <string name="title_dynamicfeature_default">Feature_default</string>
-    <string name="title_dynamicfeature_mtk">Feature_mtk</string>
+    <string name="title_dynamicfeature_aimode_7350">Feature_aimode_7350</string>
+    <string name="title_dynamicfeature_aimode_8450">Feature_aimode_8450</string>
+    <string name="title_dynamicfeature_aimode_8550">Feature_aimode_8550</string>
+    <string name="title_dynamicfeature_basefeature_ffmpeg">Feature_basefeature_ffmpeg</string>
+    <string name="title_dynamicfeature_basefeature_imagefeature">Feature_basefeature_imagefeature</string>
+    <string name="title_dynamicfeature_basefeature_map">Feature_baseFeature_map</string>
+    <string name="title_dynamicfeature_basefeature_videocompress">Feature_basefeature_videocompress</string>
+    <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
+    <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
+    <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
+    <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
+    <string name="title_dynamicfeature_story_default">Feature_story_default</string>
+    <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
     <string name="title_set_name">Enter name</string>
     <string name="title_tip">Hint</string>
     <string name="title_warn">Warning</string>

@@ -463,10 +463,6 @@
         <item quantity="other">%s search requests</item>
         <item quantity="one">%s search request</item>
     </plurals>
-    <plurals name="second">
-        <item quantity="other">%d secs</item>
-        <item quantity="one">%d sec</item>
-    </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s every %1$s months</item>
         <item quantity="one">%2$s every %1$s month</item>

@@ -1,0 +1,3 @@
+files:
+  - source: /star/**/values/*.xml
+    translation: /star/**/values-%two_letters_code%/%original_file_name%

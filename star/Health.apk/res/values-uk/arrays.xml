@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Здоров\'я</item>
+        <item>Тренування</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Зображення</item>
+        <item>Маршрут</item>
+        <item>Мапа</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Біг</item>
+        <item>Ходьба</item>
+        <item>Велосипед</item>
+        <item>Бігова доріжка</item>
+        <item>Тренування</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Достатньо</item>
+        <item>Довго</item>
+        <item>Дуже довго</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Час розім\'ятися!</item>
+        <item>Докладніше</item>
+        <item>Випийте води та пройдіться.</item>
+        <item>Докладніше</item>
+        <item>Підніміться по драбині</item>
+        <item>Докладніше</item>
+        <item>"Не сидіть дуже долго"</item>
+        <item>Докладніше</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 година</item>
+        <item>2 години</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Не вказано</item>
+        <item>Батьки</item>
+        <item>Сестра</item>
+        <item>Брат</item>
+        <item>Чоловік</item>
+        <item>Партнер(ша)</item>
+        <item>Друг</item>
+        <item>Колега</item>
+        <item>Однокласник</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>"ккал"</item>
+        <item>"кДж"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Не вказана</item>
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>"см"</item>
+        <item>"м"</item>
+        <item>"км"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Не вказана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>День</item>
+        <item>Тиждень</item>
+        <item>Місяц</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Пн, Ср, Пт</item>
+        <item>Вт, Чт, Сб</item>
+        <item>Ср, Пт, Вс</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Кожен Понеділок</item>
+        <item>Кажен Вівторок</item>
+        <item>Кожну Середу</item>
+        <item>Кожен Четвер</item>
+        <item>Кожну П\'ятницю</item>
+        <item>Кожну Суботу</item>
+        <item>Щонеділі</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Не вказано</item>
+        <item>Негативний</item>
+        <item>Позитивний</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Без обмежень</item>
+        <item>Обмежити фонову активність</item>
+        <item>Закрити через 10 хвилин</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>"км/ч"</item>
+        <item>"м/с"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Сидячий спосіб життя викликає багато проблем зі здоров'ям. Якщо загальна тривалість часу сидячи не може бути зменшена, періодична активність може покращити ситуацію."</item>
+        <item>Xiaomi Health буде нагадувати про необхідність активності принаймні на 1 хвилину під час для досягнення щоденної мети, щоб уникнути проблем сидячого життя.</item>
+        <item>Натисніть кнопку \"Продовжитищоб увімкнути функцію.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health може відстежувати та записувати вашу активність. Якщо протягом години не буде зафіксовано жодної активності, буде надіслано нагадування про розминку:</item>
+        <item>Ця функція відстежує вашу активність і надсилає нагадування на основі результатів.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П\'ятниця</item>
+        <item>Субота</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" г"</item>
+        <item>" кг"</item>
+        <item>" т"</item>
+        <item>" лян"</item>
+        <item>" цзінь"</item>
+        <item>" фунт"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Не вказано</item>
+        <item>Так</item>
+        <item>Ні</item>
+    </string-array>
+</resources>

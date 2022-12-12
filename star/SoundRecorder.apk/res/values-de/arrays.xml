@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musik</item>
+        <item>Stimme</item>
+        <item>Interview</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musik</item>
+        <item>Sprache</item>
+        <item>Interview</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Hoch</item>
+        <item>Normal</item>
+        <item>Niedrig</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musik</item>
+        <item>Sprache</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Musik mit besserer Qualität aufzeichnen</item>
+        <item>Bringe das Mikrofon näher an die Audioquelle um die Qualität zu erhöhen</item>
+        <item>Platziere das Telefon zwischen 2 Personen um deren Konversation aufzuzeichnen</item>
+        <item>HDR-Technologie bietet detaillierte Tonaufzeichnung über das Mikrofon</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Zeichne über 2 Kanäle auf, höre über Kopfhörer Stereoaufzeichnungen</item>
+        <item>Bringe das Mikrofon näher an die Audioquelle um die Qualität zu erhöhen</item>
+        <item>Platziere das Telefon zwischen 2 Personen um deren Konversation aufzuzeichnen</item>
+        <item>HDR-Technologie bietet detaillierte Tonaufzeichnung über das Mikrofon</item>
+    </string-array>
+</resources>

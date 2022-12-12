@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Hlas</item>
+        <item>Rozhovor</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Hlas</item>
+        <item>Rozhovor</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Vysoká</item>
+        <item>Štandardná</item>
+        <item>Nízka</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Hudba</item>
+        <item>Hlas</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Nahrať hudbu vo vyššej kvalite</item>
+        <item>Premiestnite mikrofón bližšie k zdroju zvuku pre lepšiu kvalitu nahrávky</item>
+        <item>Položte telefón do stredu medzi dvoch ľudí pre jasnejšiu zrozumiteľnosť</item>
+        <item>Technológia s vysokým dynamickým rozsahom umožňuje mikrofónu zachytiť detailnejší zvuk</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nahrávať hudbu vo vyššej kvalite</item>
+        <item>Dajte mikrofón bližšie ku zdroju zvuku pre lepšiu kvalitu nahrávky</item>
+        <item>Položte telefón do stredu medzi dvoch ľudí pre jasnejšiu zrozumiteľnosť</item>
+        <item>Technológia s vysokým dynamickým rozsahom umožňuje mikrofónu zachytiť detailnejší zvuk</item>
+    </string-array>
+</resources>

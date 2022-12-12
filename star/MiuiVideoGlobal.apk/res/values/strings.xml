@@ -89,7 +89,6 @@
     <string name="afternoon">Afternoon</string>
     <string name="agree">Agree</string>
     <string name="agree_and_continue">Agree</string>
-    <string name="agree_label">Agree</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
     <string name="ai_music_save_cancel">Cancel</string>
     <string name="ai_music_save_dialog_title">Save</string>
@@ -148,7 +147,6 @@
     <string name="btn_playlist_play_all">Play</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_choose">Deselect</string>
-    <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Unfollow now?</string>
     <string name="canceled">Canceled</string>
     <string name="cast_ad_label">Ad</string>
@@ -291,7 +289,6 @@
     <string name="cloud_online_player">Player</string>
     <string name="cloud_online_switch">Personalized recommendations</string>
     <string name="cloud_online_switch_open_time">Show personalized content recommendations</string>
-    <string name="cmp_tier_privacy_policy">Third party privacy policies</string>
     <string name="collect_diagnosis_log">Collect logs</string>
     <string name="columbus_ad_flag_text">AD</string>
     <string name="columbus_player_close_desc">You will lose your reward</string>
@@ -304,8 +301,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">f4be0571d9f147da869599a9e6a70903</string>
-    <string name="com.miapm.build_id">3a2e3bc868d64a548892246c559c5b82</string>
+    <string name="com.crashlytics.android.build_id">e23d8b8c4fdb4a71a94c3f157862801c</string>
+    <string name="com.miapm.build_id">6a93e86d13e94d078da8c2309dc775b9</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -374,8 +371,6 @@
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="day">day</string>
     <string name="default_localization_key">system</string>
-    <string name="default_message_body">message body</string>
-    <string name="default_title">Title</string>
     <string name="default_upgrade_hint">"Hi there!
 Mi Video is ready for an update.
 Update the app now to check out our new cool features!
@@ -404,11 +399,8 @@ Send this code to the supervisor."</string>
     <string name="dialog_clearn_title">Clear history</string>
     <string name="dialog_confirm">OK</string>
     <string name="dialog_delete_bookmarks_content">Delete bookmark now?</string>
-    <string name="dialog_disagree_continue">Continue</string>
-    <string name="dialog_disagree_info">"If you don't agree to the Mi Video Privacy Policy, you won't be able to use our online services, and will only be able to watch videos stored on your device. Continue anyway?"</string>
     <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
     <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_disagree_title">Privacy Policy</string>
     <string name="dialog_edit_bookmarks">Edit bookmark</string>
     <string name="dialog_edit_hint_bookmarks_name">Bookmark name</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -1892,7 +1884,6 @@ Increase the security of your account."</string>
     <string name="recommend_slide_to_more">Swipe for more</string>
     <string name="recommend_switch_alert">To remove this section, go to settings in Mi Video</string>
     <string name="recommend_to_you">Recommended to you</string>
-    <string name="reject_all_label">Reject All</string>
     <string name="reload_sub_title">Tap to try again.</string>
     <string name="reload_title">"Couldn't connect to the network."</string>
     <string name="remaining_space">Available: %s</string>
@@ -1975,7 +1966,6 @@ Increase the security of your account."</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">Generating link…</string>
-    <string name="show_options_label">Show Options</string>
     <string name="show_the_location">Notification types</string>
     <string name="sign_in">Signing in</string>
     <string name="sign_in_google_account">Sign in with Google</string>
@@ -2340,11 +2330,6 @@ Increase the security of your account."</string>
     <string name="welcome_tip_into_mivideo">Get started</string>
     <string name="welcome_tip_skip">Skip</string>
     <string name="welcome_tip_title">Welcome to Mi Video</string>
-    <string name="widget_add_dialog_button_add">Add</string>
-    <string name="widget_add_dialog_button_cancel">Cancel</string>
-    <string name="widget_add_dialog_desc_local">With this widget, you can play audio and video files stored on your device with one tap from your Home screen. Add it now?</string>
-    <string name="widget_add_dialog_desc_online">"With this widget, you can watch today's popular videos with one tap from your Home screen. Add it now?"</string>
-    <string name="widget_add_dialog_title">Add widget</string>
     <string name="widget_local_video">Local videos</string>
     <string name="widget_local_video_click">Tap to watch videos stored on your device</string>
     <string name="widget_more_channel">More channels</string>

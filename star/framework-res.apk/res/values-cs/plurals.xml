@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d souborů</item>
+        <item quantity="one">%1$s + %2$d soubor</item>
+        <item quantity="few">%1$s + %2$d soubory</item>
+        <item quantity="many">%1$s + %2$d souboru</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Počet zbývajících pokusů, po jejichž vyčerpání bude SIM karta uzamčena: %d.</item>
+        <item quantity="one">Máte ještě %d pokus. Poté bude SIM karta uzamčena.</item>
+        <item quantity="few">Počet zbývajících pokusů, po jejichž vyčerpání bude SIM karta uzamčena: %d.</item>
+        <item quantity="many">Počet zbývajících pokusů, po jejichž vyčerpání bude SIM karta uzamčena: %d.</item>
+    </plurals>
+</resources>

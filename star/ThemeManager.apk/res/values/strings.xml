@@ -566,7 +566,6 @@
     <string name="has_mamual_hide_aod">This item is hidden now</string>
     <string name="has_mamual_hide_font">Hidden</string>
     <string name="has_mamual_hide_icons">Hidden icons</string>
-    <string name="has_mamual_hide_large_icons">Super icon hidden successfully</string>
     <string name="has_mamual_hide_theme">Hidden</string>
     <string name="has_mamual_hide_wallpaper">Hidden</string>
     <string name="head_portraits">Profile photo</string>
@@ -591,7 +590,6 @@
     <string name="hide_mamual_hide_aod">"Don't show manually hidden items"</string>
     <string name="hide_mamual_hide_font">"Don't show hidden fonts"</string>
     <string name="hide_mamual_hide_icons">"Don't show manually hidden icons"</string>
-    <string name="hide_mamual_hide_large_icons">"Don't show hidden Super icons"</string>
     <string name="hide_mamual_hide_miwallpaper">"Don't show hidden Home screen effects"</string>
     <string name="hide_mamual_hide_theme">"Don't show hidden themes"</string>
     <string name="hide_mamual_hide_wallpaper">"Don't show hidden wallpapers"</string>
@@ -639,23 +637,6 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kuyin_user_agreement_content_href">iFlytek Privacy Policy</string>
     <string name="lab">Themes lab</string>
     <string name="label">Label</string>
-    <string name="large_icon_apply_fail_for_in_dock">"Can't use Super icons for apps in the app dock"</string>
-    <string name="large_icon_apply_fail_for_in_folder">"Can't use Super icons for apps in folders"</string>
-    <string name="large_icon_apply_fail_for_in_oldmode">"Super icons aren't supported in Lite mode"</string>
-    <string name="large_icon_apply_fail_for_not_in_launcher">"Can't use Super icons for apps that aren't on the Home screen"</string>
-    <string name="large_icon_card_image_bias">w,1:1</string>
-    <string name="large_icon_detail_title">%s Super icons</string>
-    <string name="large_icon_no_more">Nothing here yet</string>
-    <string name="large_icon_no_network">"Couldn't connect to the network"</string>
-    <string name="large_icon_not_support">"Can't set icons for %s"</string>
-    <string name="large_icon_official">Official</string>
-    <string name="large_icon_picker_haven">Available icons</string>
-    <string name="large_icon_picker_more">More</string>
-    <string name="large_icon_picker_size">Icon size</string>
-    <string name="large_icon_to_find_more">View more</string>
-    <string name="large_icon_warning_install">Install</string>
-    <string name="large_icon_warning_not_install">Install %s</string>
-    <string name="large_icon_warning_not_install_msg">Install %s to be able to use a Super icon. Install now?</string>
     <string name="like_list">My likes</string>
     <string name="live_wallpaper">Dynamic wallpapers</string>
     <string name="load_from_local_photos">Gallery</string>
@@ -1434,7 +1415,6 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="show_mamual_hide_aod">Show manually hidden items</string>
     <string name="show_mamual_hide_font">Show hidden fonts</string>
     <string name="show_mamual_hide_icons">Show manually hidden icons</string>
-    <string name="show_mamual_hide_large_icons">Show hidden Super icons</string>
     <string name="show_mamual_hide_miwallpaper">Show hidden Home screen effects</string>
     <string name="show_mamual_hide_theme">Show hidden themes</string>
     <string name="show_mamual_hide_wallpaper">Show hidden wallpapers</string>
@@ -1586,7 +1566,6 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_component_title_framework">Borders</string>
     <string name="theme_component_title_homepage">Home</string>
     <string name="theme_component_title_icon">Icons</string>
-    <string name="theme_component_title_large_icon">Super icons</string>
     <string name="theme_component_title_launcher">Favorites tray</string>
     <string name="theme_component_title_lockstyle">Lock style</string>
     <string name="theme_component_title_lockwallpaper">Lock screen</string>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">In 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Stunde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Sofort</item>
+        <item quantity="other">Sofort</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d Minuten</item>
+        <item quantity="one">in 1 Min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Gerade eben</item>
+        <item quantity="other">Gerade eben</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Vor %d Minuten</item>
+        <item quantity="one">Vor 1 Minute</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">%d Antworten ansehen</item>
+        <item quantity="one">%d Antwort ansehen</item>
+    </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s Sterne gewählt</item>
+        <item quantity="one">%s Stern gewählt</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d Sek vorspulen</item>
+        <item quantity="one">%d Sek vorspulen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d Sek zurückspulen</item>
+        <item quantity="one">%d Sek zurückspulen</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">%s mehr Sek eines Videos ansehen, um Punkte zu sammeln und Prämien einzulösen</item>
+        <item quantity="one">%s mehr Sek eines Videos ansehen, um Punkte zu sammeln und Prämien einzulösen</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Auf die Starseite zurückgehen in %1$d Sekunden…</item>
+        <item quantity="one">Auf die Starseite zurückgehen in %1$d Sekunde…</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Vor einer halben Stunde</item>
+        <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s Aufrufe</item>
+        <item quantity="one">%s Aufruf</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">In 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">In einer halben Stunde</item>
+        <item quantity="other">In einer halben Stunde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Sofort</item>
+        <item quantity="other">Sofort</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">In %d Min</item>
+        <item quantity="one">In 1 Minute</item>
+    </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"Sie haben %d Punkte gesammelt!"</item>
+        <item quantity="one">"Sie haben %d Punkt gesammelt!"</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d Punkte</item>
+        <item quantity="one">%d Punkt</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Anmelden, um %d zusätzliche Punkte zu sammeln</item>
+        <item quantity="one">Anmelden, um %d zusätzlichen Punkt zu sammeln</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d Sek</item>
+        <item quantity="one">%d Sek</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Insgesamt %d Minuten ansehen, um Punkte zu sammeln! Aufgabe jetzt abschließen?</item>
+        <item quantity="one">Insgesamt %d Minute ansehen, um Punkte zu sammeln! Aufgabe jetzt abschließen?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"\"Sie können %d Punkte sammeln.\nNur heute erhältlich."</item>
+        <item quantity="one">"\"Sie können %d Punkt sammeln.\nNur heute erhältlich."</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"Sie haben heute %d Minuten angeschaut"</item>
+        <item quantity="one">"Sie haben heute %d Minute angeschaut"</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Erfolgreich geteilt. Sie haben %d Punkte verdient.</item>
+        <item quantity="one">Erfolgreich geteilt. Sie haben %d Punkt verdient.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Erfolgreich abonniert. Sie haben %d Punkte verdient.</item>
+        <item quantity="one">Erfolgreich abonniert. Sie haben %d Punkt verdient.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">%d Punkte sammeln!</item>
+        <item quantity="one">%d Punkt sammeln!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Heutige Aufgaben abgeschlossen! Sie haben %d Punkte gesammelt."</item>
+        <item quantity="one">"Heutige Aufgaben abgeschlossen! Sie haben %d Punkt gesammelt."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Sie haben %1$1d gesehen und %2$2d Punkte gesammelt!</item>
+        <item quantity="one">Sie haben %1$1d gesehen und %2$2d Punkt gesammelt!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Zufälliges Video anschauen, um %d Punkte zu sammeln</item>
+        <item quantity="one">Zufälliges Video anschauen, um %d Punkt zu sammeln</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">%1$1d Sekunden eines Videos anschauen, um %2$2d Punkte zu sammeln</item>
+        <item quantity="one">%1$1d Sekunden eines Videos anschauen, um %2$2d Punkt zu sammeln</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">%d Punkte gesammelt. Weiter teilen, um mehr zu sammeln.</item>
+        <item quantity="one">%d Punkt gesammelt. Weiter teilen, um mehr zu sammeln.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">%d Punkte gesammelt. Weiter abonnieren, um mehr zu sammeln.</item>
+        <item quantity="one">%d Punkt gesammelt. Weiter abonnieren, um mehr zu sammeln.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Gerade eben</item>
+        <item quantity="other">Gerade eben</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d Ordner</item>
+        <item quantity="one">%d Ordner</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d Staffeln</item>
+        <item quantity="one">%d Staffel</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Untertitel werden %.1f Sekunden früher angezeigt</item>
+        <item quantity="one">Untertitel wird %.1f Sekunde früher angezeigt</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Untertitel werden %.1f Sekunden später angezeigt</item>
+        <item quantity="one">Untertitel wird %.1f Sekunde später angezeigt</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Größe: %.2fKB</item>
+        <item quantity="one">Größe: %.2fKB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d von %2$2d Episoden verfügbar</item>
+        <item quantity="one">%1$1d von %2$2d Episode verfügbar</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d von %2$2d Episoden verfügbar</item>
+        <item quantity="one">%1$1d von %2$2d Episode verfügbar</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">Insgesamt %d Episoden</item>
+        <item quantity="one">Insgesamt %d Episode</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s Sek. verbleibend</item>
+        <item quantity="one">%s Sek. verbleibend</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d Titel</item>
+        <item quantity="one">%d Titel</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Erfolgreich geteilt. Sie haben %d Punkte gesammelt. Holen Sie sie sich im Punktecenter."</item>
+        <item quantity="one">"Erfolgreich geteilt. Sie haben %d Punkt gesammelt. Holen Sie ihn sich im Punktecenter."</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Erfolgreich abonniert. Holen Sie sie sich im Punktecenter."</item>
+        <item quantity="one">"Erfolgreich abonniert.Holen Sie sie sich im Punktecenter."</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Dein Inhalt enthält Elemente (%1$s), die gegen unsere Community-Vorgaben verstoßen. Dein Konto wird für %2$d Tage bis %3$s gesperrt.</item>
+        <item quantity="one">Dein Inhalt enthält Elemente (%1$s), die gegen unsere Community-Vorgaben verstoßen. Dein Konto wird für %2$d Tag bis %3$s gesperrt.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Diese Funktion wird für %s Tage ausgeschaltet</item>
+        <item quantity="one">Diese Funktion wird für %s Tag ausgeschaltet</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Vor %d Minuten</item>
+        <item quantity="one">Vor 1 Minute</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Jetzt %s Elemente löschen?</item>
+        <item quantity="one">Jetzt %s Element löschen?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s Elemente ausgewählt</item>
+        <item quantity="one">%s Element ausgewählt</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">%s Dateien jetzt endgültig löschen?</item>
+        <item quantity="one">%s Datei jetzt endgültig löschen?</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Dateigröße: %.2fKB</item>
+        <item quantity="one">Dateigröße: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s Ergebnisse für \"%1$s\"</item>
+        <item quantity="one">%2$s Ergebnis für \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d Bilder</item>
+        <item quantity="one">%d Bild</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Doppeltipp zum Zurückspulen um %d Sekunden</item>
+        <item quantity="one">Doppeltipp zum Zurückspulen um %d Sekunde</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Doppeltipp zum Vorspulen um %d Sekunden</item>
+        <item quantity="one">Doppeltipp zum Vorspulen um %d Sekunde</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s Sek</item>
+        <item quantity="one">%1$s Sek</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s Abonnenten</item>
+        <item quantity="one">%s Abonnent</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Untertitel werden %.1f Sekunden nach vorne verschoben</item>
+        <item quantity="one">Untertitel werden %.1f Sekunde nach vorne verschoben</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Untertitel werden für %.1f Sekunden verzögert</item>
+        <item quantity="one">Untertitel werden für %.1f Sekunde verzögert</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Bis zu %d Lesezeichen hinzufügen</item>
+        <item quantity="one">Bis zu %d Lesezeichen hinzufügen</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">%d ausgewählte Dateien ausblenden?</item>
+        <item quantity="one">%d ausgewählte Datei ausblenden?</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s mögen es</item>
+        <item quantity="one">%s mag es</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d Aufrufe</item>
+        <item quantity="one">%d Aufruf</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d de fișiere</item>
+        <item quantity="one">%1$s + %2$d fișier</item>
+        <item quantity="few">%1$s + %2$d fișiere</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">V-au mai rămas %d de încercări până la blocarea cardului SIM.</item>
+        <item quantity="one">V-a mai rămas %d încercare până la blocarea cardului SIM.</item>
+        <item quantity="few">V-au mai rămas %d încercări până la blocarea cardului SIM.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrează când sună</item>
+        <item>Vibrează la recepționare SMS</item>
+        <item>Vibrează când sună alarma</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Realizează o fotografie</item>
+        <item>Găsește telefonul</item>
+        <item>Găsește butonul Mi-key</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utilizează preferințele sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, activ</item>
+        <item>, activ (media)</item>
+        <item>, activ (telefon)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="zero">%1$s و%2$d ملف</item>
+        <item quantity="other">%1$s و%2$d ملف</item>
+        <item quantity="one">%1$s وملف (%2$d)</item>
+        <item quantity="two">%1$s وملفان (%2$d)</item>
+        <item quantity="few">%1$s و%2$d ملفات</item>
+        <item quantity="many">%1$s و%2$d ملفًا</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="zero">‏لم يتبق لديك أي محاولات (%d) يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="other">‏يتبقى لديك %d من المحاولات يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="one">‏يتبقى لديك محاولة واحدة (%d) يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="two">‏يتبقى لديك محاولتان (%d) يتم بعدهما قفل شريحة SIM.</item>
+        <item quantity="few">‏يتبقى لديك %d محاولات يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="many">‏يتبقى لديك %d محاولة يتم بعدها قفل شريحة SIM.</item>
+    </plurals>
+</resources>

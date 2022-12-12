@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Музика</item>
+        <item>Глас</item>
+        <item>Интервју</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Музика</item>
+        <item>Глас</item>
+        <item>Интервју</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Високo</item>
+        <item>Стандарднo</item>
+        <item>Ниско</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Музика</item>
+        <item>Глас</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Снимајте музику бољег квалитета</item>
+        <item>Приближите микрофон извору звука за бољи квалитет</item>
+        <item>Поставите телефон између 2 особе да јасно забележите разговор</item>
+        <item>Технологија високoг динамичкoг опсега омогућава микрофону да снима детаљнији звук</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Снимајте кроз 2 канала, слушајте стерео звук у слушалицама</item>
+        <item>Приближите микрофон извору звука за бољи квалитет</item>
+        <item>Поставите телефон између 2 особе да јасно забележите разговор</item>
+        <item>Технологија високoг динамичкoг опсега омогућава микрофону да снима детаљнији звук</item>
+    </string-array>
+</resources>

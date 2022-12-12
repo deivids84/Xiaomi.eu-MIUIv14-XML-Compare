@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godzinę temu</item>
+        <item quantity="many">Godzinę temu</item>
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godzinę temu</item>
+        <item quantity="many">Godzinę temu</item>
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+        <item quantity="few">za %d min</item>
+        <item quantity="many">za %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">1 min temu</item>
+        <item quantity="few">%d min temu</item>
+        <item quantity="many">%d min temu</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">ponad %1$d nieprzeczytanych</item>
+        <item quantity="one">ponad %1$d nieprzeczytana</item>
+        <item quantity="few">ponad %1$d nieprzeczytane</item>
+        <item quantity="many">ponad %1$d nieprzeczytanych</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nieprzeczytane: %1$d</item>
+        <item quantity="one">%1$d nieprzeczytana</item>
+        <item quantity="few">%1$d nieprzeczytane</item>
+        <item quantity="many">Nieprzeczytane: %1$d</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Dodano %d kontaktów</item>
+        <item quantity="one">Dodano %d kontakt</item>
+        <item quantity="few">Dodano %d kontakty</item>
+        <item quantity="many">Dodano %d kontaktów</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d innych osób</item>
+        <item quantity="one">+%1$d inna osoba</item>
+        <item quantity="few">+%1$d inne osoby</item>
+        <item quantity="many">+%1$d innych osób</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Wersje robocze</item>
+        <item quantity="one">Wersja robocza</item>
+        <item quantity="few">Wersje robocze</item>
+        <item quantity="many">Wersje robocze</item>
+    </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Możesz dodać maks. %1$d warunków</item>
+        <item quantity="one">Możesz dodać maks. %1$d warunek</item>
+        <item quantity="few">Możesz dodać maks. %1$d warunki</item>
+        <item quantity="many">Możesz dodać maks. %1$d warunków</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+        <item quantity="many">Pół godziny temu</item>
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Ukryj %1$d załączników</item>
+        <item quantity="one">Ukryj %1$d załącznik</item>
+        <item quantity="few">Ukryj %1$d załączniki</item>
+        <item quantity="many">Ukryj %1$d załączników</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Za godzinę</item>
+        <item quantity="few">Za godzinę</item>
+        <item quantity="many">Za godzinę</item>
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Za pół godziny</item>
+        <item quantity="few">Za pół godziny</item>
+        <item quantity="many">Za pół godziny</item>
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+        <item quantity="many">Natychmiast</item>
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="many">za %d minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+        <item quantity="many">Teraz</item>
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+        <item quantity="many">%d zaznaczonych elementów</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">Pozostało %1$d załączników</item>
+        <item quantity="one">Pozostał %1$d załącznik</item>
+        <item quantity="few">Pozostały %1$d załączniki</item>
+        <item quantity="many">Pozostało %1$d załączników</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nowych wiadomości</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+        <item quantity="few">%1$d nowe wiadomości</item>
+        <item quantity="many">%1$d nowych wiadomości</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">1 minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="many">%d minut temu</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d zaznaczonych</item>
+        <item quantity="one">%d zaznaczony</item>
+        <item quantity="few">%d zaznaczone</item>
+        <item quantity="many">%d zaznaczonych</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dni po</item>
+        <item quantity="one">%1$d dzień po</item>
+        <item quantity="few">%1$d dni po</item>
+        <item quantity="many">%1$d dni po</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d dni wcześniej</item>
+        <item quantity="one">%1$d dzień wcześniej</item>
+        <item quantity="few">%1$d dni wcześniej</item>
+        <item quantity="many">%1$d dni wcześniej</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d godzin po</item>
+        <item quantity="one">%1$d godzinę po</item>
+        <item quantity="few">%1$d godziny po</item>
+        <item quantity="many">%1$d godzin po</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d godzin wcześniej</item>
+        <item quantity="one">%1$d godzinę wcześniej</item>
+        <item quantity="few">%1$d godziny wcześniej</item>
+        <item quantity="many">%1$d godzin wcześniej</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minut po</item>
+        <item quantity="one">%1$d minutę po</item>
+        <item quantity="few">%1$d minuty po</item>
+        <item quantity="many">%1$d minut po</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minut wcześniej</item>
+        <item quantity="one">%1$d minutę wcześniej</item>
+        <item quantity="few">%1$d minuty wcześniej</item>
+        <item quantity="many">%1$d minut wcześniej</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d sekund po</item>
+        <item quantity="one">%1$d sekundę po</item>
+        <item quantity="few">%1$d sekundy po</item>
+        <item quantity="many">%1$d sekund po</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d sekund wcześniej</item>
+        <item quantity="one">%1$d sekundę wcześniej</item>
+        <item quantity="few">%1$d sekundy wcześniej</item>
+        <item quantity="many">%1$d sekund wcześniej</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d tygodni po</item>
+        <item quantity="one">%1$d tydzień po</item>
+        <item quantity="few">%1$d tygodnie po</item>
+        <item quantity="many">%1$d tygodni po</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d tygodni wcześniej</item>
+        <item quantity="one">%1$d tydzień wcześniej</item>
+        <item quantity="few">%1$d tygodnie wcześniej</item>
+        <item quantity="many">%1$d tygodni wcześniej</item>
+    </plurals>
+</resources>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">pred 1 uro</item>
+        <item quantity="two">pred 1 uro</item>
+        <item quantity="few">pred 1 uro</item>
+        <item quantity="other">pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">pred 1 uro</item>
+        <item quantity="two">pred 1 uro</item>
+        <item quantity="few">pred 1 uro</item>
+        <item quantity="other">pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+        <item quantity="other">Pred pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+        <item quantity="other">Čez 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+        <item quantity="other">Čez pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+        <item quantity="other">Takoj</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+        <item quantity="two">čez %d min</item>
+        <item quantity="few">čez %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+        <item quantity="other">Pravkar</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred 1 min</item>
+        <item quantity="two">Pred %d min</item>
+        <item quantity="few">Pred %d min</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"Ni uporabljeno %d dni"</item>
+        <item quantity="one">"Ni uporabljeno %d dan"</item>
+        <item quantity="two">"Ni uporabljeno %d dni"</item>
+        <item quantity="few">"Ni uporabljeno %d dni"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"Ni uporabljeno %d mesecev"</item>
+        <item quantity="one">"Ni uporabljeno %d mesec"</item>
+        <item quantity="two">"Ni uporabljeno %d meseca"</item>
+        <item quantity="few">"Ni uporabljeno %d mesece"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"Ni uporabljeno %d let"</item>
+        <item quantity="one">"Ni uporabljeno %d leto"</item>
+        <item quantity="two">"Ni uporabljeno %d leti"</item>
+        <item quantity="few">"Ni uporabljeno %d leta"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Čiščenje %1$d datotek (%2$d%%)
+"</item>
+        <item quantity="one">"Čiščenje %1$d datoteke (%2$d%%)
+"</item>
+        <item quantity="two">"Čiščenje %1$d datotek (%2$d%%)
+"</item>
+        <item quantity="few">"Čiščenje %1$d datotek (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d stvari/sek. | Preostali čas: %2$s</item>
+        <item quantity="one">%1$d stvar/sek. | Preostali čas: %2$s</item>
+        <item quantity="two">%1$d stvari/sek. | Preostali čas: %2$s</item>
+        <item quantity="few">%1$d stvari/sek. | Preostali čas: %2$s</item>
+    </plurals>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Napravite %1$d korakov za osvoboditev %2$s</item>
+        <item quantity="one">Napravite %1$d korak za osvoboditev %2$s</item>
+        <item quantity="two">Napravite %1$d koraka za osvoboditev %2$s</item>
+        <item quantity="few">Napravite %1$d korake za osvoboditev %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; namestitvenih paketov&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Lahko izbrišete &lt;font color=#0097FF&gt;%d&lt;/font&gt; namestitveni paket&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Lahko izbrišete &lt;font color=#0097FF&gt;%d&lt;/font&gt; namestitvena paketa&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Lahko izbrišete &lt;font color=#0097FF&gt;%d&lt;/font&gt; namestitvene pakete&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data&gt;Izbrišete lahko podatke za &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikacij&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Lahko izbrišete podatke za &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikacijo&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Lahko izbrišete podatke za &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikaciji&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Lahko izbrišete podatke za &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikacije&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data&gt;Lahko izbrišete &lt;font color=#0097FF&gt;%d&lt;/font&gt; nepotrebnih fotografij&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; nepotrebno fotografijo&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; nepotrebni fotografiji&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; nepotrebne fotografije&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; velikih datotek&lt;/Data&gt;</item>
+        <item quantity="one">Lahko izbrišete &lt;font color=#0097FF&gt;%d&lt;/font&gt; veliko datoteko</item>
+        <item quantity="two">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; veliki datoteki&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; velike datoteke&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data&gt;Odstranite lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; redko uporabljenih aplikacij&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Odstranite lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; redko uporabljeno aplikacijo&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Lahko odstranite &lt;font color=#0097FF&gt;%d&lt;/font&gt; redko uporabljeni aplikaciji&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Odstranite lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; redko uporabljene aplikacije&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; videoposnetkov&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; video&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; videoposnetka&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Izbrišete lahko &lt;font color=#0097FF&gt;%d&lt;/font&gt; videoposnetke&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Najdeno aplikacij: %d, lahko izbrišete nepotrebne.</item>
+        <item quantity="one">Najdena %d aplikacija, to lahko izbrišete.</item>
+        <item quantity="two">Najdeni aplikaciji: %d, lahko izbrišete nepotrebne.</item>
+        <item quantity="few">Najdene aplikacije: %d, lahko izbrišete nepotrebne.</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d aplikacij nameščenih, lahko izbrišete redko uporabljane</item>
+        <item quantity="one">%d aplikacija nameščena, lahko jo izbrišete</item>
+        <item quantity="two">%d aplikaciji nameščeni, lahko izbrišete redko uporabljane</item>
+        <item quantity="few">%d aplikacije nameščene, lahko izbrišete redko uporabljane</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Lahko izbrišete nepomembne podatke za %d aplik.</item>
+        <item quantity="one">Lahko izbrišete nepomembne podatke za %d aplik.</item>
+        <item quantity="two">Lahko izbrišete nepomembne podatke za %d aplik.</item>
+        <item quantity="few">Lahko izbrišete nepomembne podatke za %d aplik.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d nameščenih aplikacij</item>
+        <item quantity="one">%d nameščena aplikacija</item>
+        <item quantity="two">%d nameščeni aplikaciji</item>
+        <item quantity="few">%d nameščene aplikacije</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Najdeno %d velikih datotek, lahko izbrišete nepomembne</item>
+        <item quantity="one">Najdena %d velika datoteka, to lahko izbrišete</item>
+        <item quantity="two">Najdeni %d veliki datoteki, lahko izbrišete nepomembne</item>
+        <item quantity="few">Najdene %d velike datoteke, lahko izbrišete nepomembne</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Najdeno %d fotografij, lahko izbrišete dvojnike ali odvečne slike</item>
+        <item quantity="one">Najdena %d fotografija, lahko izbrišete dvojnike ali odvečne slike</item>
+        <item quantity="two">Najdeni %d fotografiji, lahko izbrišete dvojnike ali odvečne slike</item>
+        <item quantity="few">Najdene %d fotografije, lahko izbrišete dvojnike ali odvečne slike</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Najdeno %d videoposnetkov, lahko izbrišete nepotrebne.​</item>
+        <item quantity="one">Najden %d videoposnetek, tega lahko izbrišete.</item>
+        <item quantity="two">Najdena %d videoposnetka, lahko izbrišete nepotrebne.​</item>
+        <item quantity="few">Najdeni %d videoposnetki, lahko izbrišete nepotrebne.​</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Izbrišem %d fotografij?</item>
+        <item quantity="one">Izbrišem %d fotografijo?</item>
+        <item quantity="two">Izbrišem %d fotografiji?</item>
+        <item quantity="few">Izbrišem %d fotografije?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Izbrišem %1$s fotografij iz vseh naprav?</item>
+        <item quantity="one">Izbrišem %1$s fotografijo iz vseh naprav?</item>
+        <item quantity="two">Izbrišem %1$s fotografiji iz vseh naprav?</item>
+        <item quantity="few">Izbrišem %1$s fotografije iz vseh naprav?</item>
+    </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Vsakih %d dni</item>
+        <item quantity="one">Vsak %d dan</item>
+        <item quantity="two">Vsaka %d dni</item>
+        <item quantity="few">Vsake %d dni</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; pesmi)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; pesem)&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; pesmi)&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; pesmi)&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotografij)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotografijo)&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotografiji)&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Osvobojeno &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (dovolj za &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotografije)&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+        <item quantity="two">%1$d stvari</item>
+        <item quantity="few">%1$d stvari</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+        <item quantity="two">%1$d stvari</item>
+        <item quantity="few">%1$d stvari</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data&gt;Najdeno &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; glasovnih sporočil&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Najdeno &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; glasovno sporočilo&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;Najdeni &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; glasovni sporočili&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;Najdena &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; glasovna sporočila&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+        <item quantity="other">Pred pol ure</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d skupin</item>
+        <item quantity="one">%d skupina</item>
+        <item quantity="two">%d skupini</item>
+        <item quantity="few">%d skupine</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+        <item quantity="two">%1$d uri</item>
+        <item quantity="few">%1$d ure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+        <item quantity="other">Čez 1 uro</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+        <item quantity="other">Čez pol ure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+        <item quantity="other">Takoj</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+        <item quantity="two">čez %d min</item>
+        <item quantity="few">čez %d min</item>
+    </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Išči med %d aplikacijami</item>
+        <item quantity="one">Išči med %d aplikacijo</item>
+        <item quantity="two">Išči med %d aplikacijama</item>
+        <item quantity="few">Išči med %d aplikacijami</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Najdeno %d aplikacij</item>
+        <item quantity="one">Najdena %d aplikacija</item>
+        <item quantity="two">Najdeni %d aplikaciji</item>
+        <item quantity="few">Najdene %d aplikacije</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Zadnjih %d dni</item>
+        <item quantity="one">Zadnji %d dan</item>
+        <item quantity="two">Zadnja %d dni</item>
+        <item quantity="few">Zadnje %d dni</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+        <item quantity="other">Pravkar</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d stvari izbrano</item>
+        <item quantity="one">%d stvar izbrana</item>
+        <item quantity="two">%d stvari izbrani</item>
+        <item quantity="few">%d stvari izbrane</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Izbriši %d namestitvenih paketov</item>
+        <item quantity="one">Izbriši %d namestitveni paket</item>
+        <item quantity="two">Izbriši %d namestitvena paketa</item>
+        <item quantity="few">Izbriši %d namestitvene pakete</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 minuto</item>
+        <item quantity="two">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Preneslo %1$d oseb</item>
+        <item quantity="one">Prenesla %1$d oseba</item>
+        <item quantity="two">Prenesli %1$d osebi</item>
+        <item quantity="few">Prenesle %1$d osebe</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Preneslo %1$d oseb</item>
+        <item quantity="one">Prenesla %1$d oseba</item>
+        <item quantity="two">Prenesli %1$d osebi</item>
+        <item quantity="few">Prenesle %1$d osebe</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data&gt;\"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplikacij že dolgo niste uporabljali, poglejte.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\" Aplikacija&lt;font color=#ff0000 &gt;%d&lt;/font&gt; že dolgo ni bila uporabljena, poglejte.\"&lt;/Data&gt;</item>
+        <item quantity="two">&lt;Data&gt;\" Aplikaciji&lt;font color=#ff0000 &gt;%d&lt;/font&gt; že dolgo nista bili uporabljeni, poglejte.\"&lt;/Data&gt;</item>
+        <item quantity="few">&lt;Data&gt;\" Aplikacije&lt;font color=#ff0000 &gt;%d&lt;/font&gt; že dolgo niso bile uporabljene, poglejte.\"&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+        <item quantity="two">%1$d sek</item>
+        <item quantity="few">%1$d sek</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$s ogledov</item>
+        <item quantity="one">%1$s ogled</item>
+        <item quantity="two">%1$s ogleda</item>
+        <item quantity="few">%1$s ogledi</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">"%d videoposnetkov ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova"</item>
+        <item quantity="one">"%d videoposnetka ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova."</item>
+        <item quantity="two">"%d videoposnetkov ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova"</item>
+        <item quantity="few">"%d videoposnetkov ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova"</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d praznih datotek)</item>
+        <item quantity="one">(%1$d prazna datoteka)</item>
+        <item quantity="two">(%1$d prazni datoteki)</item>
+        <item quantity="few">(%1$d prazne datoteke)</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="two">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="two">%1$s</item>
+        <item quantity="few">%1$s</item>
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">Izbrišem%1$d stvari?</item>
+        <item quantity="one">Izbrišem %1$d stvar?</item>
+        <item quantity="two">Izbrišem%1$d stvari?</item>
+        <item quantity="few">Izbrišem%1$d stvari?</item>
+    </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s zvočnih datotek</item>
+        <item quantity="one">%1$s zvočna datoteka</item>
+        <item quantity="two">%1$s zvočni datoteki</item>
+        <item quantity="few">%1$s zvočne datoteke</item>
+    </plurals>
+</resources>

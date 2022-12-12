@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Raftul cu cărți</item>
+        <item>Librarie</item>
+        <item>Raftul cu cărți</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Alb</item>
+        <item>Galben</item>
+        <item>Gri</item>
+        <item>Maro</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Neinteresant</item>
+        <item>Se repetă</item>
+        <item>Calitate inferioară</item>
+        <item>Fotografie nepotrivită</item>
+        <item>Informații frauduloase</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Conținut explicit</item>
+        <item>Falsitate</item>
+        <item>Știri vechi</item>
+        <item>Vederi extreme</item>
+        <item>Publicitate subliminală</item>
+        <item>"Nu îmi place"</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Du-te înapoi/înainte</item>
+        <item>Comutați filele</item>
+        <item>Niciunul</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Pagina implicită de pornire</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vedere verticală</item>
+        <item>Vedere orizontală</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Pornit</item>
+        <item>Doar în Modul Incognito</item>
+        <item>Oprit</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Minuscul</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Imens</item>
+        <item>Imens</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Ecran monitor</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+        <item>Permiteți</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restricționați</item>
+        <item>Permiteți</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Auto</item>
+        <item>Nimic</item>
+        <item>Utilizator nou</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Caută</item>
+        <item>Știri</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Șterge</item>
+        <item>Nu, mulțumesc</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Urmărește</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Mesaj din browser</item>
+        <item>Urmăriți Jocurile Olimpice cu Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>"Conexiunea curentă la rețea este foarte lentă. Se pare că te afli într-o zonă cu acoperire slabă a rețelei."</item>
+        <item>Conexiunea curentă la rețea este lentă.</item>
+        <item>Nu s-au găsit probleme cu conexiunea la rețea.</item>
+        <item>"Conexiunea curentă la rețea este rapidă. Este suficientă pentru streaming de filme!"</item>
+        <item>"Conexiunea curentă la rețea este foarte rapidă! Sunteți în cea mai bună formă."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Descărcați videoclipuri și fotografii din platformele sociale</item>
+        <item>Salvează imagini și videoclipuri din stările WhatsApp</item>
+        <item>Gestionați fișierele de pe dispozitivul dvs. și faceți-le private</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Descarcă videoclipuri</item>
+        <item>Salvează stările WhatsApp</item>
+        <item>Fișiere private</item>
+    </string-array>
+</resources>

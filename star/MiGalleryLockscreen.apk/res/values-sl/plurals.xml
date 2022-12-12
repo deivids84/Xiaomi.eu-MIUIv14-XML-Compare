@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Pred 1 uro</item>
+        <item quantity="two">Pred 1 uro</item>
+        <item quantity="few">Pred 1 uro</item>
+        <item quantity="other">Pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Pred 1 uro</item>
+        <item quantity="two">Pred 1 uro</item>
+        <item quantity="few">Pred 1 uro</item>
+        <item quantity="other">Pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+        <item quantity="other">Pred pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+        <item quantity="other">Čez 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+        <item quantity="other">Čez pol ure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+        <item quantity="other">Takoj</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+        <item quantity="two">čez %d minuti</item>
+        <item quantity="few">čez %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+        <item quantity="other">Pravkar</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pred %d minut</item>
+        <item quantity="one">Pred 1 min</item>
+        <item quantity="two">Pred %d minutami</item>
+        <item quantity="few">Pred %d minut</item>
+    </plurals>
+    <plurals name="article_num">
+        <item quantity="other">%d člankov</item>
+        <item quantity="one">%d članek</item>
+        <item quantity="two">%d člankov</item>
+        <item quantity="few">%d člankov</item>
+    </plurals>
+    <plurals name="feed_article_entrance_title">
+        <item quantity="other">%s člankov v tej temi</item>
+        <item quantity="one">%s članek v tej temi</item>
+        <item quantity="two">%s člankov v tej temi</item>
+        <item quantity="few">%s člankov v tej temi</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Pred pol ure</item>
+        <item quantity="two">Pred pol ure</item>
+        <item quantity="few">Pred pol ure</item>
+        <item quantity="other">Pred pol ure</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Čez 1 uro</item>
+        <item quantity="two">Čez 1 uro</item>
+        <item quantity="few">Čez 1 uro</item>
+        <item quantity="other">Čez 1 uro</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Čez pol ure</item>
+        <item quantity="two">Čez pol ure</item>
+        <item quantity="few">Čez pol ure</item>
+        <item quantity="other">Čez pol ure</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Takoj</item>
+        <item quantity="two">Takoj</item>
+        <item quantity="few">Takoj</item>
+        <item quantity="other">Takoj</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez 1 minuto</item>
+        <item quantity="two">čez %d minuti</item>
+        <item quantity="few">čez %d minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Pravkar</item>
+        <item quantity="two">Pravkar</item>
+        <item quantity="few">Pravkar</item>
+        <item quantity="other">Pravkar</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">Stvari: %s</item>
+        <item quantity="one">%s stvar</item>
+        <item quantity="two">Stvari: %s</item>
+        <item quantity="few">Stvari: %s</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s naprav</item>
+        <item quantity="one">%s naprava</item>
+        <item quantity="two">%s naprav</item>
+        <item quantity="few">%s naprav</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">Sledilcev: %1$s</item>
+        <item quantity="one">%1$s sledilec</item>
+        <item quantity="two">Sledilcev: %1$s</item>
+        <item quantity="few">Sledilcev: %1$s</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s ozadij</item>
+        <item quantity="one">%1$s ozadje</item>
+        <item quantity="two">%1$s ozadji</item>
+        <item quantity="few">%1$s ozadja</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d predmetov izbranih</item>
+        <item quantity="one">%d predmet izbran</item>
+        <item quantity="two">%d predmeta izbrana</item>
+        <item quantity="few">%d predmetov izbranih</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nova obvestila: %d</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">Nova obvestila: %d</item>
+        <item quantity="few">Nova obvestila: %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pred %d minut</item>
+        <item quantity="one">pred 1 minuto</item>
+        <item quantity="two">Pred %d minutami</item>
+        <item quantity="few">Pred %d minut</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotografij</item>
+        <item quantity="one">%s fotografija</item>
+        <item quantity="two">%s fotografij</item>
+        <item quantity="few">%s fotografij</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">pred %d dni</item>
+        <item quantity="one">pred %d dan</item>
+        <item quantity="two">pred %d dni</item>
+        <item quantity="few">pred %d dni</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">pred %d ur</item>
+        <item quantity="one">pred %d uro</item>
+        <item quantity="two">pred %d ur</item>
+        <item quantity="few">pred %d ur</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+        <item quantity="two">pred %d min</item>
+        <item quantity="few">pred %d min</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d slik</item>
+        <item quantity="one">%d slika</item>
+        <item quantity="two">%d slik</item>
+        <item quantity="few">%d slik</item>
+    </plurals>
+</resources>

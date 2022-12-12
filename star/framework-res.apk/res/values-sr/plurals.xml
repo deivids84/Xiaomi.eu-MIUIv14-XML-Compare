@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s и још %2$d датотека</item>
+        <item quantity="one">%1$s и још %2$d датотека</item>
+        <item quantity="few">%1$s и још %2$d датотеке</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Имате још %d покушаја пре него што се SIM картица закључа.</item>
+        <item quantity="one">Имате још %d покушај пре него што се SIM картица закључа.</item>
+        <item quantity="few">Имате још %d покушаја пре него што се SIM картица закључа.</item>
+    </plurals>
+</resources>

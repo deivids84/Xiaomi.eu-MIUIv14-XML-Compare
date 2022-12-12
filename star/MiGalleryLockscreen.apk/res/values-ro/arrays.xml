@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
+    <string-array name="feature_desc">
+        <item>Optimizat pentru utilizatorii de pe tot globul de către xiaomi.eu</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+</resources>

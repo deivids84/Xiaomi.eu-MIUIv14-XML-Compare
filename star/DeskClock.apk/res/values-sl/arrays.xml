@@ -13,8 +13,8 @@
     <string-array name="alarm_repeat_type">
         <item>Enkrat</item>
         <item>Dnevno</item>
-        <item>Delovni dnevi</item>
-        <item>Dnevi dopusta</item>
+        <item>Delovniki</item>
+        <item>Prosti dnevi</item>
         <item>Pon do Pet</item>
         <item>Po meri</item>
     </string-array>
@@ -40,11 +40,11 @@
         <item>Zmerno onesnaženo</item>
         <item>Slabo</item>
         <item>Zelo slabo</item>
-        <item>Resno</item>
+        <item>Kritično</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Nikoli</item>
-        <item>1 minuto</item>
+        <item>1 minuta</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
@@ -60,8 +60,8 @@
     <string-array name="bedtime_repeat_entries">
         <item>Vsak dan</item>
         <item>Ponedeljek - Petek</item>
-        <item>Delovni dni</item>
-        <item>Prilagojeno</item>
+        <item>Delovnik</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidžan</item>
@@ -146,25 +146,25 @@
         <item>Port of Spain</item>
         <item>Port-au-Prince</item>
         <item>São Paulo</item>
-        <item>St. John\'s</item>
-        <item>Sveti Krištof</item>
+        <item>St Johns</item>
+        <item>St. Kitts</item>
         <item>Castries</item>
-        <item>Saint Thomas</item>
+        <item>St. Thomas</item>
         <item>Tijuana</item>
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
         <item>Longyearbyen</item>
-        <item>Almati</item>
-        <item>Aman</item>
-        <item>Anadir</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
         <item>Aktau</item>
         <item>Bagdad</item>
         <item>Manama</item>
         <item>Baku</item>
         <item>Bangkok</item>
         <item>Bejrut</item>
-        <item>Kolkata</item>
+        <item>Kalkuta</item>
         <item>Damask</item>
         <item>Daka</item>
         <item>Dubaj</item>
@@ -181,14 +181,14 @@
         <item>Kuvajt</item>
         <item>Macau</item>
         <item>Manila</item>
-        <item>Muškat</item>
+        <item>Muscat</item>
         <item>Phnom Penh</item>
         <item>Pjongjang</item>
         <item>Doha</item>
-        <item>Jangon</item>
+        <item>Rangoon</item>
         <item>Riad</item>
         <item>Seul</item>
-        <item>Shanghai</item>
+        <item>Šanghaj</item>
         <item>Singapur</item>
         <item>Tajpej</item>
         <item>Teheran</item>
@@ -209,10 +209,10 @@
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
-        <item>Victoria</item>
+        <item>Viktorija</item>
         <item>Nova Fundlandija</item>
         <item>Saskatchewan</item>
-        <item>Velikonočni otok</item>
+        <item>Velikonočni otoki</item>
         <item>Amsterdam</item>
         <item>Andorra la Vella</item>
         <item>Atene</item>
@@ -252,7 +252,7 @@
         <item>Talin</item>
         <item>Vatikan</item>
         <item>Dunaj</item>
-        <item>Vilna</item>
+        <item>Vilnius</item>
         <item>Varšava</item>
         <item>Zagreb</item>
         <item>Zürich</item>
@@ -329,20 +329,20 @@
         <item>Cambridge</item>
         <item>Kirkland</item>
         <item>Madison</item>
-        <item>Guangdžov</item>
+        <item>Guangzhou</item>
         <item>Hyderabad</item>
         <item>Reston</item>
         <item>Belo Horizonte</item>
         <item>Santiago</item>
-        <item>Monrovija</item>
-        <item>Kolombo</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
         <item>Chihuahua</item>
         <item>Gurugram</item>
         <item>Manchester</item>
         <item>Kijev</item>
         <item>Sankt Peterburg</item>
         <item>Krakov</item>
-        <item>Vroclav</item>
+        <item>Wroclaw</item>
         <item>Hamburg</item>
         <item>Oulu</item>
         <item>Haifa</item>
@@ -354,7 +354,7 @@
     <string-array name="clock_bg_setting_entries">
         <item>Bela</item>
         <item>Črna</item>
-        <item>Samod.</item>
+        <item>Samodejno</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Slonokoščena obala"</item>
@@ -362,7 +362,7 @@
         <item>Etiopija</item>
         <item>Alžirija</item>
         <item>Malavi</item>
-        <item>Zahodni Kongo</item>
+        <item>Republika Kongo</item>
         <item>Egipt</item>
         <item>Maroko</item>
         <item>Gvineja</item>
@@ -380,7 +380,7 @@
         <item>Lesoto</item>
         <item>Somalija</item>
         <item>Kenija</item>
-        <item>Sveti Tomaž in Princ</item>
+        <item>Sao Tome in Principe</item>
         <item>Mali</item>
         <item>Libija</item>
         <item>Tunizija</item>
@@ -393,10 +393,10 @@
         <item>Argentina</item>
         <item>Mehika</item>
         <item>Venezuela</item>
-        <item>Kajmanji otoki</item>
+        <item>Kajmanski otoki</item>
         <item>Združene države Amerike</item>
         <item>Kostarika</item>
-        <item>Curacao</item>
+        <item>Curaçao</item>
         <item>Kanada</item>
         <item>Združene države Amerike</item>
         <item>Združene države Amerike</item>
@@ -423,7 +423,7 @@
         <item>Združene države Amerike</item>
         <item>Združene države Amerike</item>
         <item>Nikaragva</item>
-        <item>Martinik</item>
+        <item>Martinique</item>
         <item>Združene države Amerike</item>
         <item>Mehika</item>
         <item>Združene države Amerike</item>
@@ -442,7 +442,7 @@
         <item>Kanada</item>
         <item>Sveti Krištof in Nevis</item>
         <item>Sveta Lucija</item>
-        <item>Deviški otoki Združenih držav</item>
+        <item>Ameriški Deviški otoki</item>
         <item>Mehika</item>
         <item>Kanada</item>
         <item>Kanada</item>
@@ -490,7 +490,7 @@
         <item>Mongolija</item>
         <item>Bermudi</item>
         <item>Španija</item>
-        <item>Cape Verde</item>
+        <item>Zelenortski otoki</item>
         <item>Islandija</item>
         <item>Falklandski otoki</item>
         <item>Avstralija</item>
@@ -509,7 +509,7 @@
         <item>Nizozemska</item>
         <item>Andora</item>
         <item>Grčija</item>
-        <item>Velika Britanija</item>
+        <item>Združeno kraljestvo</item>
         <item>Srbija</item>
         <item>Nemčija</item>
         <item>Slovaška</item>
@@ -524,7 +524,7 @@
         <item>Otok Man</item>
         <item>Turčija</item>
         <item>Portugalska</item>
-        <item>Velika Britanija</item>
+        <item>Združeno kraljestvo</item>
         <item>Luksemburg</item>
         <item>Španija</item>
         <item>Malta</item>
@@ -535,7 +535,7 @@
         <item>Francija</item>
         <item>Češka</item>
         <item>Latvija</item>
-        <item>Latvija</item>
+        <item>Italija</item>
         <item></item>
         <item>Bosna in Hercegovina</item>
         <item></item>
@@ -554,7 +554,7 @@
         <item>Mavricij</item>
         <item>Nova Zelandija</item>
         <item>Fidži</item>
-        <item>Gvam</item>
+        <item>Guam</item>
         <item>Združene države Amerike</item>
         <item>Nova Kaledonija</item>
         <item>Francoska Polinezija</item>
@@ -608,14 +608,14 @@
         <item>Indija</item>
         <item>Španija</item>
         <item>Nemčija</item>
-        <item>Latvija</item>
+        <item>Italija</item>
         <item>Nemčija</item>
         <item>Vietnam</item>
         <item>Turčija</item>
         <item>Indija</item>
         <item>Brazilija</item>
-        <item>San Antonio</item>
         <item>Južna Afrika</item>
+        <item>Pakistan</item>
         <item>Brazilija</item>
         <item>Združene države Amerike</item>
         <item>Združene države Amerike</item>
@@ -641,12 +641,12 @@
         <item>Finska</item>
         <item>Portoriko</item>
         <item>Honduras</item>
-        <item>Honduras</item>
         <item>Surinam</item>
+        <item>Ekvador</item>
     </string-array>
     <string-array name="days_of_week">
         <item>Ned</item>
-        <item>Pon </item>
+        <item>Pon</item>
         <item>Tor</item>
         <item>Sre</item>
         <item>Čet</item>
@@ -657,8 +657,8 @@
         <item>Ob določenem času</item>
         <item>15 minut prej</item>
         <item>30 minut prej</item>
-        <item>1 huro prej</item>
-        <item>Brez</item>
+        <item>1 uro prej</item>
+        <item>Nič</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuta</item>
@@ -679,7 +679,7 @@
         <item>Skupaj %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Ne stori ničesar</item>
+        <item>Ne naredi nič</item>
         <item>Dremež</item>
         <item>Odloži</item>
     </string-array>

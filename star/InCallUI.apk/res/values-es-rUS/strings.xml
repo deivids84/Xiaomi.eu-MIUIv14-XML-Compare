@@ -424,7 +424,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="video_crbt_title">Reproduciendo vídeo de perfil…</string>
     <string name="voice_control_deny_permission_msg">"No pueden usar los controles de voz ahora. Permita que esta aplicación grabe audio primero."</string>
     <string name="voicemail">Buzón de Voz</string>
-    <string name="volte_call">Llamada VoLTE</string>
     <string name="volume_boost_text">Volumen aumentado con éxito</string>
     <string name="wait_prompt_str">"¿Enviar los tonos siguientes?
 "</string>
@@ -432,7 +431,6 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
-    <string name="wifi_call">Llamada VoWiFi</string>
     <string name="xiaoai_assistant">Asistente de Llamada IA</string>
     <string name="yesterday">Ayer</string>
 </resources>

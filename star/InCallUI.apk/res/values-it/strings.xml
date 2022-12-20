@@ -424,7 +424,6 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="video_crbt_title">Il tono di richiamata video dell\'altro utente è in riproduzione</string>
     <string name="voice_control_deny_permission_msg">"Impossibile utilizzare i controlli vocali ora. Prima consenti a questa app di registrare l'audio."</string>
     <string name="voicemail">Segreteria telefonica</string>
-    <string name="volte_call">Chiamata VoLTE</string>
     <string name="volume_boost_text">Volume amplificato</string>
     <string name="wait_prompt_str">"Inviare i seguenti toni?
 "</string>
@@ -432,7 +431,6 @@ Tocca \"%1$s\" e quindi seleziona \"%2$s\"."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="wifi_call">Chiamata VoWifi</string>
     <string name="xiaoai_assistant">Assistente Chiamata Mi AI</string>
     <string name="yesterday">Ieri</string>
 </resources>

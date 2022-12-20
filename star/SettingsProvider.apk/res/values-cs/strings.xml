@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Paměť pro nastavení</string>
+    <string name="wifi_softap_config_change">Nastavení hotspotu se změnilo</string>
+    <string name="wifi_softap_config_change_summary">Klepnutím zobrazíte podrobnosti</string>
+</resources>

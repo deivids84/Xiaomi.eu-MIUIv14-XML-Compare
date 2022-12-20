@@ -210,7 +210,6 @@ tus dispositivos?"</string>
     <string name="config_wifi_label_china">Conferencia Xiaomi Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Conferencia Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"No se pudo conectar al dispositivo"</string>
-    <string name="connect_success">%1$s conectado</string>
     <string name="console_guide_btn_got_it">Entendido</string>
     <string name="console_guide_subtitle_hang_up">Puedes seguir emitiendo con la pantalla del dispositivo apagada. Esto reduce el consumo de energía.</string>
     <string name="console_guide_subtitle_private">"Las notificaciones flotantes, llamadas entrantes y demás elementos privados no se mostrarán en el monitor externo"</string>
@@ -323,6 +322,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
     <string name="hang_up_alert_dialog_pos">Ok</string>
     <string name="hang_up_alert_dialog_title">A punto de emitir con la pantalla apagada…</string>
+    <string name="headset_circulate_connect_success">conectado</string>
     <string name="help_page_text_01">Ayuda</string>
     <string name="help_page_text_02">¿Qué es emitir?</string>
     <string name="help_page_text_03">"Emitir consiste en proyectar elementos desde la pantalla del dispositivo en un monitor externo. Así puedes compartir imágenes y vídeos con amigos y familiares sin usar datos móviles."</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lưu trữ bộ nhớ</string>
+    <string name="wifi_softap_config_change">Đã thay đổi các tùy chọn cài đặt điểm phát sóng</string>
+    <string name="wifi_softap_config_change_summary">Nhấn để xem chi tiết</string>
+</resources>

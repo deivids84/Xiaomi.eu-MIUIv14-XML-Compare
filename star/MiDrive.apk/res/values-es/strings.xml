@@ -479,6 +479,8 @@ Comprueba que estás usando la cuenta Xiaomi actual como tu cuenta del sistema M
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="talkback_close">Cerrar</string>
+    <string name="talkback_close_open_picture">Cancelar</string>
     <string name="talkback_continue">Reanudar</string>
     <string name="talkback_doc_filter">Botón de filtro</string>
     <string name="talkback_list_play">Reproducir todo</string>

@@ -400,7 +400,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="video_crbt_title">S\'està reproduint el vídeo del perfil…</string>
     <string name="voice_control_deny_permission_msg">"No es poden utilitzar els controls de veu ara. Permeteu que aquesta aplicació enregistri àudio primer."</string>
     <string name="voicemail">Bústia de veu</string>
-    <string name="volte_call">Trucada VoLTE</string>
     <string name="volume_boost_text">S\'ha augmentat el volum amb èxit</string>
     <string name="wait_prompt_str">"Voleu enviar els tons següents?
 "</string>
@@ -408,7 +407,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="wifi_call">Trucada VoWifi</string>
     <string name="xiaoai_assistant">Assistent de trucades Mi IA</string>
     <string name="yesterday">Ahir</string>
 </resources>

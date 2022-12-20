@@ -100,7 +100,6 @@
     <string name="help_content">"Ehtiyacınız olan cihazı tapa bilmirsinizsə, digər şəxsdən Mi Share-i açmasını xahiş edin."</string>
     <string name="image_decode_failed">"Şəklin kodu açıla bilmədi"</string>
     <string name="image_not_found">"Şəkil tapıla bilmədi"</string>
-    <string name="lenovo_phone">Lenovo telefonu</string>
     <string name="loading_text_format" formatted="false">Fotolardan şəxsi məlumatlar silinir (%d/%d)…</string>
     <string name="long_screenshot_error">Xəta baş verdi. Yenidən sınayın.</string>
     <string name="long_screenshot_guide_text">"Sürüşən ekran şəkli
@@ -219,7 +218,6 @@
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="remover_menu_processing">Emal olunur</string>
-    <string name="samsung_phone">Samsung telefonu</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>

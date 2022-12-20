@@ -100,7 +100,6 @@
     <string name="help_content">"Si no trobeu el dispositiu que necessiteu, demaneu a l'altra persona que activi Mi Share."</string>
     <string name="image_decode_failed">"No s'ha pogut descodificar la imatge"</string>
     <string name="image_not_found">"No s'ha pogut trobar la imatge"</string>
-    <string name="lenovo_phone">Telèfon Lenovo</string>
     <string name="loading_text_format" formatted="false">Eliminant informació privada de les fotos (%d/%d)…</string>
     <string name="long_screenshot_error">No s\'ha pogut fer la captura de pantalla. Torneu-ho a provar.</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
@@ -219,7 +218,6 @@ una captura de pantalla de desplaçament"</string>
     <string name="pm">PM</string>
     <string name="preference_copied">S\'ha copiat \"%1$s\" al porta-retalls.</string>
     <string name="remover_menu_processing">S\'està processant</string>
-    <string name="samsung_phone">Telèfon Samsung</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

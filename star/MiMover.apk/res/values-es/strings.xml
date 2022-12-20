@@ -313,6 +313,22 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="lack_perm_msg">Mi Mover necesita los siguientes permisos para funcionar con normalidad: <b>%s</b>.</string>
     <string name="lack_perm_title">Permisos necesarios</string>
     <string name="launcher">Diseño de la pantalla de inicio</string>
+    <string name="league_acquire_accept">Acepto</string>
+    <string name="league_acquire_message1">Para transferir aplicaciones de terceros, y sus datos, desde éste a tu nuevo dispositivo %s, se necesitan los siguientes permisos:</string>
+    <string name="league_acquire_message2">Permitir que Mi Mover acceda a datos de aplicaciones de terceros</string>
+    <string name="league_acquire_message3">Este es un permiso único usado solo para transferir datos. Una vez finalizada la transferencia, automáticamente Mi Mover dejará de usarlo.</string>
+    <string name="league_acquire_message4">"Si no concedes este permiso, no podrás transferir aplicaciones de terceros ni sus datos."</string>
+    <string name="league_acquire_refuse">"No acepto"</string>
+    <string name="league_acquire_title">Permisos necesarios</string>
+    <string name="league_check_service_content">"Mi Mover proporciona servicios de transferencia para %s y no está disponible en este momento."</string>
+    <string name="league_check_service_title">Transferir usando %s</string>
+    <string name="league_client_acquire">Abrir %s</string>
+    <string name="league_client_hint_text">Cloning Alliance ayuda a transferir datos de aplicaciones de terceros (ej. WeChat e historial de chat QQ). Pulsa \"%s\" para continuar, o pulsa \"Ahora No\" para no transferir datos y aplicaciones de terceros.</string>
+    <string name="league_client_install">Instalar %s</string>
+    <string name="league_client_title">Transferir con Mi Mover</string>
+    <string name="league_client_traditional">Ahora No</string>
+    <string name="league_client_update">Actualizar %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Menos de 1 minutos</string>
     <string name="loading_data">Un momento...</string>
     <string name="location_permission_desc">Para encontrar dispositivos cercanos</string>
@@ -593,6 +609,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
 - Mensajes de texto
 - Almacenamiento"</string>
     <string name="request_all_permission_title">Permisos requeridos</string>
+    <string name="request_permission">Permitir</string>
     <string name="restore_data_to_device_content">"Tus elementos se sincronizaron con la nube Xiaomi Cloud.
 Inicia sesión en tu cuenta Xiaomi para restaurarlos."</string>
     <string name="restore_data_to_device_title">Restaurar elementos a este dispositivo</string>

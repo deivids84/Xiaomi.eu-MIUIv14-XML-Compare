@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ที่เก็บข้อมูลการตั้งค่า</string>
+    <string name="wifi_softap_config_change">การตั้งค่าฮอตสปอตมีการเปลี่ยนแปลง</string>
+    <string name="wifi_softap_config_change_summary">แตะเพื่อดูรายละเอียด</string>
+</resources>

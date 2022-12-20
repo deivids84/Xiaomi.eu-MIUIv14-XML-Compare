@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lagring af indstillinger</string>
+    <string name="wifi_softap_config_change">Indstillingerne for hotspots har ændret sig</string>
+    <string name="wifi_softap_config_change_summary">Tryk for at se flere oplysninger</string>
+</resources>

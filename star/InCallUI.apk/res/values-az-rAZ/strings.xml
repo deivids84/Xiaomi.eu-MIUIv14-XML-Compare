@@ -399,14 +399,12 @@
     <string name="video_crbt_title">Profil videosu oynadılır…</string>
     <string name="voice_control_deny_permission_msg">"Səs yoxlanışı indi istifadə edilə bilmir. Əvvəlcə bu tətbiqin səs yazmasına icazə verin."</string>
     <string name="voicemail">Səsli mesaj</string>
-    <string name="volte_call">VoLTE zəngi</string>
     <string name="volume_boost_text">Səs uğurla artırıldı</string>
     <string name="wait_prompt_str">"Aşağıdakı səslər göndərilsin?"</string>
     <string name="waiting_close_airplane_mode">Bir saniyə…</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="wifi_call">VoWifi zəngi</string>
     <string name="xiaoai_assistant">Mi AI Zəng Köməkçisi</string>
     <string name="yesterday">Dünən</string>
 </resources>

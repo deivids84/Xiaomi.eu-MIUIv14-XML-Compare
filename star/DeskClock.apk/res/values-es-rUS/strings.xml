@@ -194,6 +194,8 @@
     <string name="fmt_date_short_year_month_day">d \'de\' MMM. yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"H 'en punto'"</string>
+    <string name="force_start_permission_desc">"Permite que las alarmas funcionen normalmente, incluso si has cerrado la aplicación"</string>
+    <string name="force_start_permission_title">Inicio automático</string>
     <string name="force_touch_add_alarm">Agregar alarma</string>
     <string name="force_touch_enter_stopwatch">Cronómetro</string>
     <string name="force_touch_enter_timer">Temporizador</string>

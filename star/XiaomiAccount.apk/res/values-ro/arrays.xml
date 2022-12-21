@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Conturi</item>
+        <item>Adaugă și gestionează conturi de la terță parte</item>
+        <item>Conturi;SNS;Facebook;Google;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Conturi</item>
+        <item>Adaugă și gestionează conturi de la terță parte</item>
+        <item>Conturi;SNS;WeChat;QQ;Weibo;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Schimbă parola</item>
+        <item>Modificați parola contului Xiaomi</item>
+        <item>Modificați parola;Actualizați parola;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Ajutor</item>
+        <item>Obțineți ajutor și suport referitor la Contul Xiaomi</item>
+        <item>Cont Xiaomi;Cont;Ajutor cont;Centrul de ajutor</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Verificare în 2 pași</item>
+        <item>Setați verificarea în 2 pași pentru contul dvs. Xiaomi</item>
+        <item>Conectați-vă;Autentificați-vă;2 pași;verificare;Xiaomi;Cont;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Securitate cont</item>
+        <item>Telefon și e-mail de recuperare, administrare parolă</item>
+        <item>Securitate cont;Conectare;Telefon pentru recuperare;E-mail pentru recuperare;Protecție cont;Număr de telefon;E-mail;Modificați parola;Adăugați numărul de telefon;Adăugați adresa de e-mail;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Dispozitive</item>
+        <item>Gestionați dispozitivele asociate contului dvs. Xiaomi</item>
+        <item>Gestionați dispozitivele;Dispozitivele mele;Dispozitive;Lista dispozitivelor;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Politica de confidențialitate</item>
+        <item>Vedeți Politica de confidențialitate a contului Xiaomi</item>
+        <item>Cont Xiaomi;Cont;Politica de Confidențialitate</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-mail de recuperare</item>
+        <item>Adăugați e-mail de recuperare</item>
+        <item>E-mail pentru recuperare;E-mail;Adăugați adresa de e-mail;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon de recuperare</item>
+        <item>Adaugă telefon de recuperare</item>
+        <item>Telefon pentru recuperare;Adăugați un număr de telefon;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Anunțuri</item>
+        <item>Gestionează anunțurile de sistem</item>
+        <item>Reclame;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informații cont</item>
+        <item>Vizualizați fotografia de profil și gestionați informațiile contului</item>
+        <item>Informații personale;fotografia de profil;pseudonim;informații despre cont;ID Cont Xiaomi;ID;Cont Xiaomi;Cont</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Acordul Utilizatorului</item>
+        <item>Acordul Utilizatorului</item>
+        <item>Cont Xiaomi;Cont;Acordul Utilizatorului;EULA</item>
+    </string-array>
+</resources>

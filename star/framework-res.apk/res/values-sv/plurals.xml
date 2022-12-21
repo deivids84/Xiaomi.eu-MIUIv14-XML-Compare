@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d filer</item>
+        <item quantity="one">%1$s + %2$d fil</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Du har %d försök kvar innan SIM-kortet låses.</item>
+        <item quantity="one">Du har %d försök kvar innan SIM-kortet låses.</item>
+    </plurals>
+</resources>

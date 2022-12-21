@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">tahun</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Pembayaran kembali terinci (%d tahun)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Pembayaran kembali terinci (%d tahun), RMB</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d item terpilih</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d tahun (%2$d bulan)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Asetuksien tallennus</string>
+    <string name="wifi_softap_config_change">Hotspot-asetuksia on muutettu</string>
+    <string name="wifi_softap_config_change_summary">Katso lisätiedot napauttamalla</string>
+</resources>

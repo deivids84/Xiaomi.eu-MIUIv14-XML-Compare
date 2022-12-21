@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d file</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Sisa %d percobaan sebelum SIM terkunci.</item>
+    </plurals>
+</resources>

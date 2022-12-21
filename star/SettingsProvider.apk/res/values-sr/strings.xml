@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Подешавања складишта</string>
+    <string name="wifi_softap_config_change">Подешавања хотспота су промењена</string>
+    <string name="wifi_softap_config_change_summary">Додирните да бисте видели детаље</string>
+</resources>

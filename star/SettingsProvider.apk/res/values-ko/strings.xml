@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">설정 저장소</string>
+    <string name="wifi_softap_config_change">핫스팟 설정 변경됨</string>
+    <string name="wifi_softap_config_change_summary">세부정보를 보려면 탭하세요.</string>
+</resources>

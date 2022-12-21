@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Armazenamento de configurações</string>
+    <string name="wifi_softap_config_change">As configurações de ponto de acesso mudaram</string>
+    <string name="wifi_softap_config_change_summary">Toque para ver os detalhes</string>
+</resources>

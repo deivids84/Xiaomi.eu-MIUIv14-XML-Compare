@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Comptes</item>
+        <item>Ajouter et gérer des comptes tiers</item>
+        <item>Accounts;SNS;Facebook;Google;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Comptes</item>
+        <item>Ajouter et gérer des comptes tiers</item>
+        <item>Accounts;SNS;WeChat;QQ;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Modifier le mot de passe</item>
+        <item>Modifier le mot de passe du Compte Xiaomi</item>
+        <item>Change password;Update password;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Aide</item>
+        <item>Obtenir de l\'aide et du soutien pour le Compte Xiaomi</item>
+        <item>Mi Account;Account;Account help;Help center</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Vérification à 2 étapes</item>
+        <item>Règle la vérification double facteur pour votre Compte Xiaomi</item>
+        <item>Sign in;Log in;2-step;verification;Xiaomi;Account;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Sécurité du compte</item>
+        <item>Téléphone et e-mail de récupération, gestion des mots de passe</item>
+        <item>Account security;Signing in;Recovery phone;Recovery email;Account protection;Phone number;Email;Change password;Add phone number;Add email;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Appareils</item>
+        <item>Gestion des appareils associés à votre Compte Xiaomi</item>
+        <item>Manage devices;My devices;Devices;Device list;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Politique de Confidentialité</item>
+        <item>Voir la Politique de confidentialité du Compte Xiaomi</item>
+        <item>Mi Account;Account;Privacy Policy</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-mail de récupération</item>
+        <item>Ajouter un e-mail de récupération</item>
+        <item>Recovery email;Email;Add email;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Numéro de récupération</item>
+        <item>Ajouter un numéro de récupération</item>
+        <item>Recovery phone;Add phone;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Publicités</item>
+        <item>Gérer les publicités du système</item>
+        <item>Ads;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informations du compte</item>
+        <item>Affichez votre photo de profil et gérez les informations de votre compte</item>
+        <item>Personal info;profile photo;nickname;account info;Mi ID;ID;Mi Account;Account</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Accord Utilisateur</item>
+        <item>Voir l\'Accord d\'utilisation du Compte Xiaomi</item>
+        <item>Mi Account;Account;User Agreement;EULA</item>
+    </string-array>
+</resources>

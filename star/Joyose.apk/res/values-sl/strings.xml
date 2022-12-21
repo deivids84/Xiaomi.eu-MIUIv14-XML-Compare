@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Nastavitve</string>
+    <string name="activity_title_fakecell">Zaščita pred lažnimi baznimi postajami</string>
+    <string name="app_name">Ponudnik korakov</string>
+    <string name="booster_config_version">"Trenutna verzija: "</string>
+    <string name="cc_version">"Trenutna verzija: "</string>
+    <string name="connect_wifi">Poveži se na WiFi</string>
+    <string name="detect_fakecell">Prepoznajte SMS z lažnih baznih postaj</string>
+    <string name="end_title">Igre je konec</string>
+    <string name="forbidden_fakecell">"Ne povezuj se z lažnimi baznimi postajami"</string>
+    <string name="forbidden_fakecell_summary">Preprečite povezovanje telefona z lažnimi baznimi postajami</string>
+    <string name="foreground_text">Uporabite storitve v ospredju za dvig ravni prioritete</string>
+    <string name="foreground_title">Storitve v ospredju</string>
+    <string name="hello_world">Pozdravljen svet!</string>
+    <string name="lab_switch_server">Zamenjaj strežnike</string>
+    <string name="not_resurge_title">Oživljanje</string>
+    <string name="not_support_forbidden_fakecell">"Vaša naprava ne podpira zaščite na ravni čipov zaradi ponarejenih osnovnih postaj."</string>
+    <string name="open_cta">Dovolite tej aplikaciji, da se poveže s spletom v Varnosti.</string>
+    <string name="permstep_description">Dovoli tej aplikaciji dostop do števca korakov</string>
+    <string name="permstep_label">Dostop do števca korakov</string>
+    <string name="restart_details">Če želite vklopiti ali izklopiti to funkcijo, morate znova zagnati napravo. Ponovno zaženem?</string>
+    <string name="restart_later">Kasneje</string>
+    <string name="restart_now">Ponovno zaženi</string>
+    <string name="resurged_content">Pridi!</string>
+    <string name="resurged_title">Oživljeno</string>
+    <string name="stop_sync">Samodejna ustavitev sinhronizacije?</string>
+    <string name="support_forbidden_fakecell">Opomba: Omejitev povezave z lažnimi baznimi postajami lahko zmanjša signal na območjih s slabo pokritostjo.</string>
+    <string name="switch_international">Preklopi na globalni strežnik</string>
+    <string name="switch_to_official">Preklopi na uradni strežnik</string>
+    <string name="switch_to_russia">Preklopi na ruski strežnik</string>
+    <string name="switch_to_staging">Preklopi na uprizoritveni strežnik</string>
+    <string name="unknown_error">Neznana napaka</string>
+    <string name="update_success">Uspešno posodobljeno</string>
+</resources>

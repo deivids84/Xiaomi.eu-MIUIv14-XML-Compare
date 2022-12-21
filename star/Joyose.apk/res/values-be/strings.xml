@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Налады</string>
+    <string name="activity_title_fakecell">Абарона ад падробленых базавых станцый</string>
+    <string name="app_name">Правайдэр крокаў</string>
+    <string name="booster_config_version">"Бягучая версія: "</string>
+    <string name="cc_version">"Бягучая версія: "</string>
+    <string name="connect_wifi">Падключэнне да Wi-Fi адсутнічае</string>
+    <string name="detect_fakecell">Распазнанне SMS ад несапраўдных базавых станцый</string>
+    <string name="end_title">Канец гульні</string>
+    <string name="forbidden_fakecell">"Абарона ад падробленых базавых станцый"</string>
+    <string name="forbidden_fakecell_summary">Прадухіляць падключэнне тэлефона да падробленых базавых станцый</string>
+    <string name="foreground_text">Выкарыстоўваць актыўны сэрвіс для павелічэння прыярытэту</string>
+    <string name="foreground_title">Актыўныя сэрвісы</string>
+    <string name="hello_world">Прывітанне, свет!</string>
+    <string name="lab_switch_server">Пераключэнне сервераў</string>
+    <string name="not_resurge_title">Аднаўленне</string>
+    <string name="not_support_forbidden_fakecell">"Прылада не падтрымлівае на апаратным узроўні абарону ад несапраўдных базавых станцый"</string>
+    <string name="open_cta">Дазвольце праграме падключэнне да Інтэрнэту ў дадатку Бяспека</string>
+    <string name="permstep_description">Дазволіць праграме доступ да інфармацыі пра крокі</string>
+    <string name="permstep_label">Інфармацыя пра крокі</string>
+    <string name="restart_details">Уключэнне або выключэнне гэтай функцыі патрабуе перазагрузкі прылады. Перазагрузіць?</string>
+    <string name="restart_later">Пазней</string>
+    <string name="restart_now">ОК</string>
+    <string name="resurged_content">Давайце!</string>
+    <string name="resurged_title">Адноўлена</string>
+    <string name="stop_sync">Спыніць сінхранізацыю аўтаматычна?</string>
+    <string name="support_forbidden_fakecell">Папярэджаньне: абмежаванне падлучэння да падробленых базавых станцый можа знізіць сігнал у абласцях з дрэнным пакрыццём.</string>
+    <string name="switch_international">Пераключыцца на міжнародны сервер</string>
+    <string name="switch_to_official">Пераключыцца на афіцыйны сервер</string>
+    <string name="switch_to_russia">Пераключыцца на сервер у Расеі</string>
+    <string name="switch_to_staging">Пераключыцца на тэставы сервер</string>
+    <string name="unknown_error">Невядомая памылка</string>
+    <string name="update_success">Паспяхова абноўлена</string>
+</resources>

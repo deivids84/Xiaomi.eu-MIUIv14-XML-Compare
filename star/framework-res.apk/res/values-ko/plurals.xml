@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s 및 파일 %2$d개</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">%d번 더 실패하면 SIM이 잠깁니다.</item>
+    </plurals>
+</resources>

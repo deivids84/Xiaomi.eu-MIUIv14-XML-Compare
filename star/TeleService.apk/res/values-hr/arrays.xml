@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo matično</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Zadana postavka mreže</item>
+        <item>Sakrij broj</item>
+        <item>Prikaži broj</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalni</item>
+        <item>Dugo</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Napredno pozivanje</item>
+        <item>4G pozivanje</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>engleski</item>
+        <item>francuski</item>
+        <item>španjolski</item>
+        <item>japanski</item>
+        <item>korejski</item>
+        <item>kineski</item>
+        <item>hebrejski</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Preporučeno: GSM/WCDMA</item>
+        <item>Samo GSM</item>
+        <item>Samo WCDMA</item>
+        <item>Automatski GSM/WCDMA</item>
+        <item>Automatski CDMA/EvDo</item>
+        <item>CDMA bez EvDo-a</item>
+        <item>Samo EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Globalno</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Samo TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Samo NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Isključen je TTY</item>
+        <item>TTY je pun</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>Truy cập mạng</item>
+        <item>Đọc SMS</item>
+        <item>Chỉnh sửa SMS</item>
+        <item>Nhận SMS</item>
+        <item>Gửi SMS</item>
+        <item>Gọi điện thoại</item>
+        <item>Đọc liên hệ</item>
+        <item>Chỉnh sửa liên hệ</item>
+        <item>Đọc Nhật ký cuộc gọi</item>
+        <item>Chỉnh sửa Nhật ký cuộc gọi</item>
+        <item>Truy cập máy ảnh</item>
+        <item>Truy cập vị trí</item>
+    </string-array>
+</resources>

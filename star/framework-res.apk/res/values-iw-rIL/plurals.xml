@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d קבצים</item>
+        <item quantity="one">%1$s + קובץ אחד (%2$d)</item>
+        <item quantity="two">%1$s + %2$d קבצים</item>
+        <item quantity="many">%1$s + %2$d קבצים</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
+        <item quantity="one">‏נותר לך ניסיון %d לפני נעילת כרטיס ה-SIM.</item>
+        <item quantity="two">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
+        <item quantity="many">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
+    </plurals>
+</resources>

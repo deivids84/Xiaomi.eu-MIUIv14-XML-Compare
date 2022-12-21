@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s และอีก %2$d ไฟล์</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">คุณพยายามได้อีก %d ครั้งก่อนที่ซิมจะล็อก</item>
+    </plurals>
+</resources>

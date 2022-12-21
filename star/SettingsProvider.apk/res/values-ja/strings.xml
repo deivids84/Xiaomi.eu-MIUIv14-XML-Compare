@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ストレージの設定</string>
+    <string name="wifi_softap_config_change">アクセス ポイントの設定が変更されました</string>
+    <string name="wifi_softap_config_change_summary">タップして詳細を確認してください</string>
+</resources>

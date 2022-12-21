@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">تنظیم محل فضای ذخیره‌سازی</string>
+    <string name="wifi_softap_config_change">تنظیمات نقطه اتصال تغییر کرده است</string>
+    <string name="wifi_softap_config_change_summary">برای مشاهده جزئیات ضربه بزنید</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Memoria impostazioni</string>
+    <string name="wifi_softap_config_change">Le impostazioni di hotspot sono state modificate</string>
+    <string name="wifi_softap_config_change_summary">Tocca per vedere i dettagli</string>
+</resources>

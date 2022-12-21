@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lagring av innstillinger</string>
+    <string name="wifi_softap_config_change">Innstillingene for Wi-Fi-sone er endret</string>
+    <string name="wifi_softap_config_change_summary">Trykk for å se detaljer</string>
+</resources>

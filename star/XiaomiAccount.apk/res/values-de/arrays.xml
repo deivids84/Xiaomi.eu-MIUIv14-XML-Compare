@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Männlich</item>
+        <item>Weiblich</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Konten</item>
+        <item>Hinzufügen und Verwalten von Drittkonten</item>
+        <item>Konten;SNS;Facebook;Google;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Konten</item>
+        <item>Hinzufügen und Verwalten von Drittkonten</item>
+        <item>Konten;SNS;Facebook;Google;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Passwort ändern</item>
+        <item>Mi-Kontopasswort ändern</item>
+        <item>Passwort ändern;Passwort aktualisieren;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Hilfe</item>
+        <item>Hilfe und Unterstützung für Xiaomi-Konto erhalten</item>
+        <item>Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto;Kontohilfe;Hilfe-Center</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>2-Wege Anmeldung</item>
+        <item>2-Schritt-Verifizierung für Ihr Xiaomi-Konto einstellen</item>
+        <item>Anmelden;2-Schritt;Verifizierung;Xiaomi;Konto;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Kontosicherheit</item>
+        <item>Telefon und E-Mail zur Wiederherstellung, Passwortmanagement</item>
+        <item>Kontosicherheit;Anmelden;Telefon wiederherstellen;E-Mail wiederherstellen;Konto schützen;Rufnummer;E-Mail;Passwort ändern;Rufnummer hinzufügen;E-Mail hinzufügen;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Geräte</item>
+        <item>Mit Ihrem Xiaomi-Konto verbundene Geräte verwalten</item>
+        <item>Geräte verwalten;Meine Geräte;Geräte;Geräteliste;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Datenschutzerklärung</item>
+        <item>Xiaomi-Konto Datenschutzerklärung anzeigen</item>
+        <item>Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto;Datenschutzerklärung</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-Mail zum Wiederherstellen</item>
+        <item>E-Mail zum Wiederherstellen hinzufügen</item>
+        <item>Wiederherstellungs-E-Mail;E-Mail;E-Mail hinzufügen;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon zum Wiederherstellen</item>
+        <item>Telefon zum Wiederherstellen hinzufügen</item>
+        <item>Wiederherstellungstelefon;Telefon hinzufügen;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Werbung</item>
+        <item>System-Werbung verwalten</item>
+        <item>Werbung;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Kontodaten</item>
+        <item>Ihr Profilfoto ansehen und Kontodaten verwalten</item>
+        <item>Persönliche Daten;Profilfoto;Spitzname;Kontodaten;Mi-ID;ID;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Nutzervereinbarung</item>
+        <item>Nutzervereinbarung</item>
+        <item>Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto; Nutzervereinbarung;EULA</item>
+    </string-array>
+</resources>

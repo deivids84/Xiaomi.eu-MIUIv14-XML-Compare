@@ -40,7 +40,7 @@
         <item quantity="other">čez %d minut</item>
         <item quantity="one">čez 1 minuto</item>
         <item quantity="two">čez %d minuti</item>
-        <item quantity="few">čez %d minut</item>
+        <item quantity="few">čez %d minute</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Pravkar</item>
@@ -49,10 +49,10 @@
         <item quantity="other">Pravkar</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Pred %d minut</item>
+        <item quantity="other">Pred %d minutami</item>
         <item quantity="one">Pred 1 min</item>
-        <item quantity="two">Pred %d minutami</item>
-        <item quantity="few">Pred %d minut</item>
+        <item quantity="two">Pred %d minutama</item>
+        <item quantity="few">Pred %d minutami</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Odlog alarma za %d min.</item>
@@ -73,10 +73,10 @@
         <item quantity="few">Želite izbrisati izbrane alarme?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Želite izbrisati izbrane časovne naslove?</item>
+        <item quantity="other">Želite izbrisati izbrane časovne pasove?</item>
         <item quantity="one">Želite izbrisati ta časovni pas?</item>
-        <item quantity="two">Želite izbrisati izbrana časovna naslova?</item>
-        <item quantity="few">Želite izbrisati izbrane časovne naslove?</item>
+        <item quantity="two">Želite izbrisati izbrana časovna pasova?</item>
+        <item quantity="few">Želite izbrisati izbrane časovne pasove?</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Pred pol ure</item>
@@ -112,7 +112,7 @@
         <item quantity="other">čez %d minut</item>
         <item quantity="one">čez 1 minuto</item>
         <item quantity="two">čez %d minuti</item>
-        <item quantity="few">čez %d minut</item>
+        <item quantity="few">čez %d minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Pravkar</item>

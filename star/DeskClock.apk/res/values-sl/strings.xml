@@ -351,22 +351,22 @@
     <string name="month_july_shortest">J</string>
     <string name="month_june">Junij</string>
     <string name="month_june_short">Jun</string>
-    <string name="month_june_shortest">Jun</string>
+    <string name="month_june_shortest">J</string>
     <string name="month_march">Marec</string>
     <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
+    <string name="month_march_shortest">M</string>
     <string name="month_may">Maj</string>
     <string name="month_may_short">Maj</string>
-    <string name="month_may_shortest">Maj</string>
+    <string name="month_may_shortest">M</string>
     <string name="month_november">November</string>
     <string name="month_november_short">Nov</string>
-    <string name="month_november_shortest">Nov</string>
+    <string name="month_november_shortest">N</string>
     <string name="month_october">Oktober</string>
     <string name="month_october_short">Okt</string>
-    <string name="month_october_shortest">Okt</string>
+    <string name="month_october_shortest">O</string>
     <string name="month_september">September</string>
     <string name="month_september_short">Sep</string>
-    <string name="month_september_shortest">Sep</string>
+    <string name="month_september_shortest">S</string>
     <string name="more">Več</string>
     <string name="more_alert_setting">Dodatne nastavitve alarma</string>
     <string name="more_setting">Več nastavitev</string>
@@ -374,14 +374,14 @@
     <string name="morning">Jutro</string>
     <string name="net_permission_cancel">"Ne strinjam se"</string>
     <string name="net_permission_ok">Strinjam se</string>
-    <string name="network_privacy">&lt;Data&gt;Da bi pridobili ustrezne podatke o lokalnim državnim prazniki in uskladili alarme, Uro je treba povezati z omrežjem. Pred uporabo Ure, morate tudi prebrati in se strinjati z našim &lt;a href=\"%1$s\"&gt;Uporabniškim dogovorom&lt;/a&gt; in &lt;a href=\"%2$s\"&gt;Pravilnikom o zasebnosti&lt;/a&gt;. Se strinjate?&lt;/Data&gt;</string>
-    <string name="network_privacy_global">&lt;Data&gt;Da bi priskrbili vama prilagojene storitve, Uro je treba povezati z omrežjem. Pred uporabo Ure, morate tudi prebrati in se strinjati z našim &lt;a href=\"%1$s\"&gt;Uporabniškim dogovorom&lt;/a&gt; in &lt;a href=\"%2$s\"&gt;Pravilnikom o zasebnosti&lt;/a&gt;. Se strinjate?&lt;/Data&gt;</string>
+    <string name="network_privacy"><Data>Če želite pridobiti ustrezne informacije o lokalnih praznikih in prilagoditi alarme, mora ura vzpostaviti povezavo s spletom. Preden začnete uporabljati uro morate prebrati in se strinjati z &lt;a href=\"%1$s\"&gt;Pogoji uporabe&lt;/a&gt; in&lt;a href=\"%2$s\"&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?</Data></string>
+    <string name="network_privacy_global"><Data>S ciljem ponujanja prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &lt;a href=\"%1$s\"&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href=\"%2$s\"&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?</Data></string>
     <string name="never">Enkrat</string>
     <string name="new_label">Dodaj oznako alarma</string>
     <string name="night">Večer</string>
     <string name="no_alarm_setting">Ni alarmov</string>
     <string name="no_worldclock">Tukaj ni ur</string>
-    <string name="noon">Opoldne</string>
+    <string name="noon">Poldne</string>
     <string name="normal_settings">Splošne nastavitve</string>
     <string name="not_set">Ni nastavljeno</string>
     <string name="not_set_temporarily">Ne, hvala</string>
@@ -396,7 +396,7 @@
     <string name="permission_granted">Odobreno</string>
     <string name="permission_rejected">Ni odobreno</string>
     <string name="permission_related">Dovoljenja</string>
-    <string name="personal_recommend">Priporočene Vama prilagojene vsebine</string>
+    <string name="personal_recommend">Priporočila osebne narave</string>
     <string name="pm">pop.</string>
     <string name="preference_copied">»%1$s« je bilo kopirano v odložišče.</string>
     <string name="privacy_policy">Pravila o zasebnosti</string>
@@ -584,7 +584,7 @@
     <string name="timer_desc_use_facial_mask">Ličenje</string>
     <string name="timer_desc_use_sleep">Dremež</string>
     <string name="timer_end_time">Časovnik se bo ustavil ob %s</string>
-    <string name="timer_end_time_format">HH:mm d. MMM</string>
+    <string name="timer_end_time_format">HH:mm dd.MM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">V redu</string>
     <string name="timer_got_it_new">Tiho</string>
@@ -604,7 +604,7 @@
     <string name="timer_start_alarm">"Čas je potekel!"</string>
     <string name="timer_start_timer">Zaženi časovnik</string>
     <string name="timer_title">Časovnik</string>
-    <string name="timezone_exist_error_message">"Ta časovni pas je prikazan"</string>
+    <string name="timezone_exist_error_message">"Ta časovni pas je že prikazan"</string>
     <string name="today">Danes</string>
     <string name="tomorrow">Jutri</string>
     <string name="tuesday">Torek</string>

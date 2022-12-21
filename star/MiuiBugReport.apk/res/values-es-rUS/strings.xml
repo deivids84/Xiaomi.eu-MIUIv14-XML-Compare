@@ -181,6 +181,8 @@ Envíe este código al supervisor."</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_to_fetch_fql">"No se pudo obtener información de preguntas frecuentes, compruebe su conexión de red"</string>
+    <string name="feedback_account_inconsistent_login_hint">Parece que cambiaste de cuenta. Inicia sesión en tu cuenta Xiaomi anterior.</string>
+    <string name="feedback_account_login_hint">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="feedback_answer_detail_feedback_result">¡Gracias por sus comentarios!</string>
     <string name="feedback_answer_detail_feedback_title">¿Fue de ayuda?</string>
@@ -360,6 +362,7 @@ Envíe este código al supervisor."</string>
     <string name="login_by_local_phone_long_text">Iniciar sesión ahora</string>
     <string name="login_by_local_phone_short_text">Iniciar sesión</string>
     <string name="login_other">Otra cuenta Mi</string>
+    <string name="login_out">Cerrar sesión</string>
     <string name="login_register_by_local_phone_long_text">Crear una cuenta</string>
     <string name="login_with_sns">Otras formas de iniciar sesión</string>
     <string name="logo_title">Comentarios</string>

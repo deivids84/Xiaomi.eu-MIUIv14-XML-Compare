@@ -139,16 +139,16 @@
         <item quantity="few">"  min"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d predmetov izbranih</item>
-        <item quantity="one">%d predmet izbran</item>
-        <item quantity="two">%d predmeta izbrana</item>
-        <item quantity="few">%d predmetov izbranih</item>
+        <item quantity="other">%d stvari izbranih</item>
+        <item quantity="one">%d stvar izbrana</item>
+        <item quantity="two">%d stvari izbrani</item>
+        <item quantity="few">%d stvari izbrane</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">Pred %d minut</item>
+        <item quantity="other">Pred %d minutami</item>
         <item quantity="one">pred 1 minuto</item>
-        <item quantity="two">Pred %d minutami</item>
-        <item quantity="few">Pred %d minut</item>
+        <item quantity="two">pred %d minutama</item>
+        <item quantity="few">pred %d minutami</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d sekund</item>
@@ -160,16 +160,16 @@
         <item quantity="other">%1$s ur</item>
         <item quantity="one">%1$s ura</item>
         <item quantity="two">%1$s uri</item>
-        <item quantity="few">%1$s ur</item>
+        <item quantity="few">%1$s ure</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
         <item quantity="other">%1$s ur</item>
         <item quantity="one">%1$s ura</item>
         <item quantity="two">%1$s uri</item>
-        <item quantity="few">%1$s ur</item>
+        <item quantity="few">%1$s ure</item>
     </plurals>
     <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s minute</item>
+        <item quantity="other">%1$s minut</item>
         <item quantity="one">%1$s minuta</item>
         <item quantity="two">%1$s minuti</item>
         <item quantity="few">%1$s minute</item>
@@ -184,19 +184,19 @@
         <item quantity="other">Interval dremeža je bil spremenjen na %d minut</item>
         <item quantity="one">Interval dremeža je bil spremenjen na %d minuto</item>
         <item quantity="two">Interval dremeža je bil spremenjen na %d minuti</item>
-        <item quantity="few">Interval dremeža je bil spremenjen na %d minut</item>
+        <item quantity="few">Interval dremeža je bil spremenjen na %d minute</item>
     </plurals>
     <plurals name="snooze_duration_count">
-        <item quantity="other">Oglasi se %1$s-krat</item>
-        <item quantity="one">Oglasi se %1$s-krat</item>
-        <item quantity="two">Oglasi se %1$s-krat</item>
-        <item quantity="few">Oglasi se %1$s-krat</item>
+        <item quantity="other">Izklopi %1$s krat</item>
+        <item quantity="one">Izklopi %1$s krat</item>
+        <item quantity="two">Izklopi %1$s krat</item>
+        <item quantity="few">Izklopi %1$s krat</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">Vsakih %1$s min, se bo oglasil %2$s-krat</item>
-        <item quantity="one">Vsako %1$s min, se bo oglasil %2$s-krat</item>
-        <item quantity="two">Vsakih %1$s min, se bo oglasil %2$s-krat</item>
-        <item quantity="few">Vsakih %1$s min, se bo oglasil %2$s-krat</item>
+        <item quantity="other">Vsakih %1$s min, izkl. %2$s krat</item>
+        <item quantity="one">Vsako %1$s min, izkl. %2$s krat</item>
+        <item quantity="two">Vsaki %1$s min, izkl. %2$s krat</item>
+        <item quantity="few">Vsake %1$s min, izkl. %2$s krat</item>
     </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Vsakih %1$s min</item>
@@ -205,10 +205,10 @@
         <item quantity="few">Vsake %1$s min</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Alarm se bo oglasil %2$s-krat (vsakih %1$s minut)</item>
-        <item quantity="one">Alarm se bo oglasil %2$s-krat (vsako %1$s minuto)</item>
-        <item quantity="two">Alarm se bo oglasil %2$s-krat (vsake %1$s minuti)</item>
-        <item quantity="few">Alarm se bo oglasil %2$s-krat (vsake %1$s minute)</item>
+        <item quantity="other">Alarm se bo izključil %2$s X (%1$s min vsakič)</item>
+        <item quantity="one">Alarm se bo izključil %2$s krat(%1$s min.)</item>
+        <item quantity="two">Alarm se bo izključil %2$s krat(%1$s min vsakič)</item>
+        <item quantity="few">Alarm se bo izključil %2$s krat(%1$s min vsakič)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Odloži alarm za %d min</item>
@@ -232,30 +232,30 @@
         <item quantity="other">"%1$d ur "</item>
         <item quantity="one">"%1$d ura "</item>
         <item quantity="two">"%1$d uri "</item>
-        <item quantity="few">"%1$d ur "</item>
+        <item quantity="few">"%1$d ure "</item>
     </plurals>
     <plurals name="timer_message_minute">
         <item quantity="other">"%1$d minut "</item>
         <item quantity="one">"%1$d minuta "</item>
         <item quantity="two">"%1$d minuti "</item>
-        <item quantity="few">"%1$d minut "</item>
+        <item quantity="few">"%1$d minute "</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d sekund</item>
         <item quantity="one">%1$d sekunda</item>
         <item quantity="two">%1$d sekundi</item>
-        <item quantity="few">%1$d sekund</item>
+        <item quantity="few">%1$d sekunde</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">%s ur naprej</item>
         <item quantity="one">%s uro naprej</item>
         <item quantity="two">%s uri naprej</item>
-        <item quantity="few">%s ur naprej</item>
+        <item quantity="few">%s ure naprej</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s ur nazaj</item>
         <item quantity="one">%s uro nazaj</item>
         <item quantity="two">%s uri nazaj</item>
-        <item quantity="few">%s ur nazaj</item>
+        <item quantity="few">%s ure nazaj</item>
     </plurals>
 </resources>

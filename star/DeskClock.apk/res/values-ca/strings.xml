@@ -193,6 +193,8 @@
     <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"H 'en punt'"</string>
+    <string name="force_start_permission_desc">"Permet que les alarmes funcionin amb normalitat fins i tot quan hagiu tancat l'aplicació"</string>
+    <string name="force_start_permission_title">Inici automàtic</string>
     <string name="force_touch_add_alarm">Afegiu una alarma</string>
     <string name="force_touch_enter_stopwatch">Cronòmetre</string>
     <string name="force_touch_enter_timer">Temporitzador</string>

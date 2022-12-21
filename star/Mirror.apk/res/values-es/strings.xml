@@ -287,7 +287,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="phone_pad_message_introduction_title">Portapapeles compartido</string>
     <string name="phone_pad_video_introduction_summary">Reproduce vídeo, desde donde lo dejaste, en una pantalla diferente</string>
     <string name="phone_pad_video_introduction_title">Vídeos</string>
-    <string name="phone_pad_wifi_introduction_summary">"Conéctate al punto de acceso personal de tu dispositivo sin usar contraseña"</string>
+    <string name="phone_pad_wifi_introduction_summary">"Conecta al punto de acceso personal de tu dispositivo sin usar contraseña"</string>
     <string name="phone_pad_wifi_introduction_title">Conexión automática</string>
     <string name="phone_pc_app_introduction_summary">Usa aplicaciones de tu dispositivo en el ordenador</string>
     <string name="phone_pc_app_introduction_title">Aplicaciones</string>

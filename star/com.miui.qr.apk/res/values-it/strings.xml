@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_version">120</string>
+    <string name="close_app">Chiudi</string>
+    <string name="close_drawer">Chiudi il menu di navigazione</string>
+    <string name="close_sheet">Chiudi il foglio</string>
+    <string name="default_error_message">Inserimento non valido</string>
+    <string name="default_popup_window_title">Finestra Pop-up</string>
+    <string name="dropdown_menu">Menu a discesa</string>
+    <string name="hint_close_app">Doppio clic rapido per chiudere</string>
+    <string name="in_progress">In corso</string>
+    <string name="indeterminate">Né controllati né non controllati</string>
+    <string name="navigation_menu">Menu di navigazione</string>
+    <string name="not_selected">Non selezionato</string>
+    <string name="off">Disattiva</string>
+    <string name="on">Attiva</string>
+    <string name="range_end">Fine intervallo</string>
+    <string name="range_start">Inizio intervallo</string>
+    <string name="selected">Selezionata</string>
+    <string name="tab">Scheda</string>
+    <string name="template_percent">%1$d percento.</string>
+</resources>

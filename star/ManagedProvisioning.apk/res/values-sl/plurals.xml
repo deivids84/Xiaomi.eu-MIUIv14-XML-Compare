@@ -3,7 +3,7 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novih obvestil</item>
         <item quantity="one">%d novo obvestilo</item>
-        <item quantity="two">%d novi obvestili</item>
-        <item quantity="few">%d nova obvestila</item>
+        <item quantity="two">%d novih obvestil</item>
+        <item quantity="few">%d novih obvestil</item>
     </plurals>
 </resources>

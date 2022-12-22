@@ -64,7 +64,7 @@
         <item quantity="other">Izbrisano %s prenosov</item>
         <item quantity="one">Izbrisan %s prenos</item>
         <item quantity="two">Izbrisana %s prenosa</item>
-        <item quantity="few">Izbrisano %s prenosov</item>
+        <item quantity="few">Izbrisani %s prenosi</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Pred pol ure</item>
@@ -105,8 +105,8 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
-        <item quantity="two">%d stvari izbrano</item>
-        <item quantity="few">%d stvari izbrano</item>
+        <item quantity="two">%d stvari izbrani</item>
+        <item quantity="few">%d stvari izbrane</item>
     </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">Prenos %d datotek</item>
@@ -121,10 +121,10 @@
         <item quantity="few">%d datoteke na čakanju</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">"Ne morem prenesti %1$d predmetov"</item>
-        <item quantity="one">"Ne morem prenesti %1$d predmeta"</item>
-        <item quantity="two">"Ne morem prenesti %1$d predmetov"</item>
-        <item quantity="few">"Ne morem prenesti %1$d predmetov"</item>
+        <item quantity="other">"Ne morem prenesti %1$d stvari"</item>
+        <item quantity="one">"Ne morem prenesti %1$d stvari"</item>
+        <item quantity="two">"Ne morem prenesti %1$d stvari"</item>
+        <item quantity="few">"Ne morem prenesti %1$d stvari"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

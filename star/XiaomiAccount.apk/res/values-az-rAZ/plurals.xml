@@ -40,6 +40,10 @@
         <item quantity="other">%d nəticə tapıldı</item>
         <item quantity="one">%d nəticə tapıldı</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d nəfər</item>
+        <item quantity="one">%d nəfər</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>

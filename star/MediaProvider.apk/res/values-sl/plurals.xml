@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+        <item quantity="two">Hitro naprej %d sekund</item>
+        <item quantity="few">Hitro naprej %d sekund</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Previj nazaj %d sekund</item>
+        <item quantity="one">Previj nazaj %d sekundo</item>
+        <item quantity="two">Previj nazaj %d sekund</item>
+        <item quantity="few">Previj nazaj %d sekund</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novih obvestil</item>
+        <item quantity="few">%d novih obvestil</item>
+    </plurals>
+</resources>

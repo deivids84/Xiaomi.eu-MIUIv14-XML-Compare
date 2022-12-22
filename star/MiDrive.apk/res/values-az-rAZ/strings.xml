@@ -480,6 +480,8 @@ Hazırkı Mi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyinizə �
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+    <string name="talkback_close">Bağla</string>
+    <string name="talkback_close_open_picture">İmtina</string>
     <string name="talkback_continue">Davam et</string>
     <string name="talkback_doc_filter">Filtr düyməsi</string>
     <string name="talkback_list_play">Hamısını oynat</string>

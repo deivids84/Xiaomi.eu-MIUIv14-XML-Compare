@@ -123,7 +123,6 @@
     <string name="clock_bg_button_setting_summary_common">Izberite barvo ozadja za aplikacijo Ura</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Črna bo nastavljena kot barva ozadja vsakič, ko preklopite na Temni način</string>
     <string name="clock_bg_button_setting_title">Barva ozadja</string>
-    <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
     <string name="close">Zapri</string>
     <string name="close_alarm">Izključi</string>
     <string name="close_alarm_new">Ustavi</string>
@@ -178,7 +177,6 @@
     <string name="edit_label">Uredi oznako alarma</string>
     <string name="edit_systemtime">Uredi sistemski čas</string>
     <string name="edit_systemtime_setting_summary">Datum, čas in Dvojna ura</string>
-    <string name="elapsed_time_format">+</string>
     <string name="eras_ad">n. št.</string>
     <string name="eras_bc">pr. n. št.</string>
     <string name="evening">Popoldne</string>
@@ -492,12 +490,6 @@
     <string name="star_wy_alarm_speech">Spoznajte Roya Wanga</string>
     <string name="start">Začni</string>
     <string name="start_up">Začni</string>
-    <string name="stat_repeat_everyday">Vsak dan</string>
-    <string name="stat_repeat_legal_off_day">Vikend</string>
-    <string name="stat_repeat_legal_workday">Delavnik</string>
-    <string name="stat_repeat_none">Enkrat</string>
-    <string name="stat_repeat_self_define">Po meri</string>
-    <string name="stat_repeat_weekends">Vikend</string>
     <string name="stopwatch_lap_empty_text">Ni krogov</string>
     <string name="stopwatch_reset_notification">Štoparica je bila ponastavljena</string>
     <string name="stopwatch_running_notification">Štoparica</string>
@@ -516,7 +508,6 @@
     <string name="the_armed_forces_day">Dan oboroženih sil</string>
     <string name="the_armys_day">Dan vojske</string>
     <string name="the_childrens_day">"Dan otrokov"</string>
-    <string name="the_chinese_youth_day">Dan mladosti</string>
     <string name="the_christmas_day">Božič</string>
     <string name="the_double_ninth_festival">Festival dvojnih devetk</string>
     <string name="the_dragon_boat_festival">Festival zmajevih čolnov</string>

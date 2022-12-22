@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">Scegli un\'applicazione</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="auto_frontflash_description">Tutte le luci flash della fotocamera anteriore sono accese, clicca se passa il test, altrimenti clicca per fallire il test</string>
+    <string name="auto_frontflash_title">Test del flash della fotocamera anteriore</string>
+    <string name="auto_rearflash_description">Tutte le luci flash della fotocamera posteriore sono accese, clicca se passa il test, altrimenti clicca per fallire il test</string>
+    <string name="auto_rearflash_title">Test del flash della fotocamera posteriore</string>
+    <string name="back_mic_check_record_tip">In registrazione... Per favore parla nel mic. posteriore del telefono</string>
+    <string name="battery_third_connector">Tensione del Connettore della Batteria</string>
+    <string name="bottom_right_low_speaker">Test woofer inferiore destro</string>
+    <string name="bottom_speaker_title">Test altoparlante inferiore</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
+Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
+    <string name="cit_audio_hw_check_summary">Verifica Hardware Audio</string>
+    <string name="cit_audio_hw_check_tips">Prova In Esecuzione</string>
+    <string name="cit_audio_hw_check_title">Verifica Hardware Audio</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test feedback del microfono principale alla capsula auricolare.
+
+Tenere il telefono come se si stesse facendo una chiamata, parlare con il microfono principale, si dovrebbe sentire la voce dalla capsula auricolare"</string>
+    <string name="cit_camera_check_summary">"Istruzioni di prova:
+
+1.Tocca il pulsante Fotocamera qui sotto per inserire l'interfaccia di anteprima della videocamera
+2.Tocca il pulsante otturatore
+3. il sistema salverà automaticamente la foto dopo la cattura
+4.La foto scattata deve essere visualizzata sullo schermo, Tocca Passa per completare il test."</string>
+    <string name="cit_camera_rearsub">Sub camera test in corso, attendere prego....</string>
+    <string name="cit_charger_test_tips_pd">Il dispositivo corrente deve testare USB_PD</string>
+    <string name="cit_light_sensor_check_summary">Il valore DAC dovrebbe comparire di seguito</string>
+    <string name="cit_nfc_check_summary">"Si prega di mettere la scheda sulla parte superiore del retro del dispositivo"</string>
+    <string name="cit_nfc_check_tip">inserisci la scheda nella parte superiore del retro del telefono</string>
+    <string name="cit_proximity_data_check_summary">"Copri il sensore di prossimità (situato nella parte superiore del telefono vicino al ricevitore) con la tua mano, dopodiché smetti di coprirlo. Il valore dovrebbe aumentare da 0.0, quando allontanerai la mano dal dispositivo."</string>
+    <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
+Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
+    <string name="cit_reverse_charge_check_summary">"Si prega d'inserire la modalità OTG per la ricarica inversa per caricare gli altri dispositivi vicini"</string>
+    <string name="cit_reverse_wireless_charge_check_tips">Si prega di mettere il telefono e il dispositivo da caricare come richiesto e avviare il test</string>
+    <string name="cit_soft_light_check_title">Luce soffusa</string>
+    <string name="cit_tool_current_size">Dimensioni Attuali</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">richiedi posizione</string>
+    <string name="cit_tool_gps_path_loss_title">Strumento di test di perdita di percorso Gnss</string>
+    <string name="cit_tool_modem_mbn_opt_fail_notfiy">scelta fallita, si prega di riavviare il telefono e riprovare</string>
+    <string name="cit_tool_opt_fail_info_notify">Scelta fallita, è necessario riavviare il telefono per la modalità offline.</string>
+    <string name="cit_tool_wlan_circular_capture">Cattura Circolarmente</string>
+    <string name="cit_tool_wlan_clear">cancella</string>
+    <string name="cit_tool_wlan_export">Esporta</string>
+    <string name="cit_tool_wlan_update_ap_list">Aggiorna Lista AP</string>
+    <string name="cit_wifi_address_check_summary">Di seguito è riportato l\'indirizzo della rete Wi-Fi a cui il telefono è connesso. Confermare che le informazioni evidenziate in verde siano corrette.</string>
+    <string name="cold_light_title">Luce fredda</string>
+    <string name="edittextdisplay">Benvenuti negli strumenti SAR !!!</string>
+    <string name="edittextdisplayf">I permessi sono stati limitati !!!</string>
+    <string name="fod_check_start_error">"Impossibile avviare il programma di controllo del sensore
+Test fallito!"</string>
+    <string name="fod_check_summary">"Istruzioni test:
+Test automatico basato sul tipo di sensore
+Basare il risultato del test sui pulsanti Riuscito o Fallito"</string>
+    <string name="front_mic_check_record_tip">Registrazione in corso... Per favore parla al mic anteriore del telefono</string>
+    <string name="headset_plug_check_tip">Ora riproduci la traccia attraverso l\'utilizzo degli auricolari, per favore scollega gli auricolari al termine del test</string>
+    <string name="main_mic_check_record_tip">Registrazione in corso... Prego parla nel mic principale del telefono</string>
+    <string name="mtb_tool_modem_cdma_manager">Gestione della modalità per il CDMA</string>
+    <string name="radio_info_data_connected">Connesso</string>
+    <string name="radio_info_data_disconnected">Disconnesso</string>
+    <string name="sar_algo_data_check_description">Raccogli dati sensore SAR</string>
+    <string name="sar_mtk_test_title">Prova Di Autenticazione SAR per Mtk</string>
+    <string name="sar_sensor_collect_test_summary">"Ruota il telefono, posizionalo sulla fixture
+Tocca il tasto di avvio acquissizione dati
+Controlla la fixture vicino e lontano dal telefono"</string>
+    <string name="sar_sensor_test_err_angle">Il telefono non è posizionato nel giusto angolo</string>
+    <string name="sar_sensor_test_next_step">Deflettore di controllo vicino al telefono</string>
+    <string name="sar_sensor_test_summary">"Ruota il telefono, posizionalo sull'apparecchio
+Clicca sul pulsante Avvia calibrazione
+Dopo aver terminato con successo la calibrazione, verifica le emissioni del telefono vicino e lontano dall'apparecchio"</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="soft_light_title">Luce soffusa</string>
+    <string name="tips_not_placed_right_angle">Il telefono non è correttamente angolato</string>
+    <string name="top_mic_check_record_tip">Registrazione in corso.... Per favore parla al mic. situato nella parte superiore del telefono</string>
+    <string name="top_speaker_title">Test altoparlante superiore</string>
+    <string name="warm_light_title">Luce calda</string>
+</resources>

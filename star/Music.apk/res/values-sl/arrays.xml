@@ -11,12 +11,12 @@
         <item>skupina</item>
     </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Nedeljna priporočila</item>
-        <item>Ponedeljkova priporočila</item>
-        <item>Torkova priporočila</item>
-        <item>Sredina priporočila</item>
-        <item>Četrtkova priporočila</item>
-        <item>Petkova priporočila</item>
-        <item>Sobotnja priporočila</item>
+        <item>Priporočila nedelja</item>
+        <item>Priporočila ponedeljek</item>
+        <item>Priporočila torek</item>
+        <item>Priporočila sreda</item>
+        <item>Priporočila četrtek</item>
+        <item>Priporočila petek</item>
+        <item>Priporočila sobota</item>
     </string-array>
 </resources>

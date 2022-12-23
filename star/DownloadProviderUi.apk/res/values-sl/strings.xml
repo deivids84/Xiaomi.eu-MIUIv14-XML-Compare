@@ -98,7 +98,7 @@
     <string name="download_from">Vir</string>
     <string name="download_in_process">Prenašanje</string>
     <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
-    <string name="download_list_intoAuthAlert">Nalagam</string>
+    <string name="download_list_intoAuthAlert">Delam…</string>
     <string name="download_list_open_xl_cancel">Prekliči</string>
     <string name="download_list_open_xl_message">Xunlei pospeševalnik pripomore pohitriti prenose</string>
     <string name="download_list_open_xl_ok">V redu</string>
@@ -107,22 +107,22 @@
     <string name="download_no_application">Ni aplikacij ki podpirajo ta format</string>
     <string name="download_no_application_title">"Datoteke ni mogoče odpreti"</string>
     <string name="download_pending">Prenos v teku</string>
-    <string name="download_remain_time">Preostalo še:</string>
+    <string name="download_remain_time">Preostalo še</string>
     <string name="download_running">Prenos…</string>
     <string name="download_share_dialog">Skupna raba preko…</string>
-    <string name="download_speed">Hitrost prenosa:</string>
+    <string name="download_speed">Hitrost prenosa</string>
     <string name="download_status_continue">Nadaljuj</string>
     <string name="download_status_fail">Poskusi ponovno</string>
     <string name="download_status_paused">Premor</string>
     <string name="download_success">Končano</string>
-    <string name="download_wait_connect">Prenos čaka na povezavo</string>
+    <string name="download_wait_connect">Čakanje povezave</string>
     <string name="downloaded_empty">Prazno</string>
-    <string name="downloading">Prenos…</string>
+    <string name="downloading">Prenašam…</string>
     <string name="downloading_empty">Prazno</string>
     <string name="early_morning">Jutro</string>
     <string name="edit_hint2">Vnesite HTTP, FTP, magnet, ali ed2k naslov</string>
     <string name="editmode_menu_delete">Izbriši</string>
-    <string name="editmode_menu_share">Deli</string>
+    <string name="editmode_menu_share">Skupna raba</string>
     <string name="engine_open">Odpri</string>
     <string name="eras_ad">pr.n.št</string>
     <string name="eras_bc">n.št</string>
@@ -132,12 +132,12 @@
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Ta datoteka že obstaja</string>
     <string name="file_picker">Izberite lokacijo</string>
-    <string name="file_size">Velikost:</string>
+    <string name="file_size">Velikost</string>
     <string name="fmt_date_long_month_day">dd.MM</string>
     <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd.MM.</string>
+    <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">dd.MM.</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
@@ -190,7 +190,7 @@
     <string name="miuix_indexer_selected">Izbrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Podrsaj dol za osvežitev</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"To je za zdaj vse"</string>
@@ -205,11 +205,11 @@
     <string name="month_august">Avgust</string>
     <string name="month_august_short">Avg</string>
     <string name="month_august_shortest">A</string>
-    <string name="month_december">Decenber</string>
+    <string name="month_december">December</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">D</string>
     <string name="month_february">Februar</string>
-    <string name="month_february_short">Fer</string>
+    <string name="month_february_short">Feb</string>
     <string name="month_february_shortest">F</string>
     <string name="month_january">Januar</string>
     <string name="month_january_short">Jan</string>
@@ -295,9 +295,9 @@
     <string name="recommend_other_downloads">Popularno</string>
     <string name="restart_download">Zaženi znova</string>
     <string name="retry_after_network_available">"Povezave ni mogoče vzpostaviti. Preverite povezavo 
-  in poskusite znova."</string>
-    <string name="retry_download">Poskusi ponovno</string>
-    <string name="revert_download_path">Uporabitim privzeto lokacijo za prenose?</string>
+in poskusite znova."</string>
+    <string name="retry_download">Poskusite znova</string>
+    <string name="revert_download_path">Uporabim privzeto lokacijo za prenose?</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -323,7 +323,7 @@
     <string name="sniff_shortcut_failed">"Ne morem napraviti bližnjice"</string>
     <string name="start_download">Prenesi</string>
     <string name="starting_analysis">Pridobivanje podrobnosti…</string>
-    <string name="storage_dialog_content">Dovolite Prenosom dostop do pomnilnika naprave, da lahko uporabljate njegove funkcije.</string>
+    <string name="storage_dialog_content">Dovolite Prenosom dostop do pomnilnika naprave, da lahko uporabljate njegove storitve.</string>
     <string name="storage_dialog_go">Nastavitve</string>
     <string name="storage_dialog_title">Dostop do pomnilnika naprave</string>
     <string name="storage_internal">Notranja shramba</string>

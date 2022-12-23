@@ -52,7 +52,7 @@
     <string name="close">Zapri</string>
     <string name="close_ad">Zapri OGLAS</string>
     <string name="complete_time">Končano</string>
-    <string name="confirm">V redu</string>
+    <string name="confirm"> V redu</string>
     <string name="continue_download">Nadaljuj</string>
     <string name="copy">Kopiraj</string>
     <string name="copy_info">Kopirano v odložišče. Lahko podelite s prijatelji!</string>
@@ -83,7 +83,7 @@
     <string name="dialog_title_recommend">Izključi priporočene vire</string>
     <string name="dialog_user_know_button1">Izhod</string>
     <string name="dialog_user_know_button2">Strinjam se</string>
-    <string name="dialog_user_know_content"><Data>\"Te funkcije ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico &lt;a href=\"%1$s\"&gt;Pravila uporabe&lt;/a&gt;. Se strinjate s posodobitvijo?\"</Data></string>
+    <string name="dialog_user_know_content"><Data>\"Te storitve ne boste mogli še naprej uporabljati, če se ne strinjate z novo različico &lt;a href=\"%1$s\"&gt;Pogoji uporabe&lt;/a&gt;. Se strinjate s posodobitvijo?\"</Data></string>
     <string name="dialog_user_know_title">Pozor</string>
     <string name="download">Prenosi</string>
     <string name="downloadCount">Prenosi</string>
@@ -94,9 +94,9 @@
     <string name="download_error">"Ne morem prenesti"</string>
     <string name="download_error_download_file_not_exists">"Datoteka ne obstaja"</string>
     <string name="download_error_insufficient_space">Ni dovolj prostora</string>
-    <string name="download_filesize_unknown">neznano</string>
-    <string name="download_from">Vir:</string>
-    <string name="download_in_process">PRENOS</string>
+    <string name="download_filesize_unknown">Neznano</string>
+    <string name="download_from">Vir</string>
+    <string name="download_in_process">Prenašanje</string>
     <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
     <string name="download_list_intoAuthAlert">Nalagam</string>
     <string name="download_list_open_xl_cancel">Prekliči</string>
@@ -149,20 +149,20 @@
     <string name="guess_like">Morda vam bo všeč</string>
     <string name="hint">Pozor</string>
     <string name="info_flow_only_load_wifi">Vsebino nalagaj samo prek WiFi</string>
-    <string name="info_flow_setting">Nastavitve</string>
-    <string name="info_flow_show">Priporočeni viri</string>
+    <string name="info_flow_setting">Nastavitve vsebine</string>
+    <string name="info_flow_show">Pokaži priporočeno vsebino</string>
     <string name="info_rank_show">Priporočene popularne stvari</string>
     <string name="input_valid_address">Vnesite veljaven naslov</string>
     <string name="install">Namesti</string>
     <string name="installing">Nameščanje…</string>
     <string name="insufficient_space">Ni dovolj prostora za shranjevanje</string>
     <string name="invalid_address">Naslov ki ste ga vnesli ni veljaven</string>
-    <string name="jump_rank_hint">"Preglejte današnje prevzeme &gt;"</string>
+    <string name="jump_rank_hint">"Oglejte si današnjo lestvico prenosov &gt;"</string>
     <string name="jump_rank_hint2">Oglejte si najbolj priljubljene prenose</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Lahko nadaljujete jutri</string>
     <string name="loading">Samo trenutek…</string>
-    <string name="marketSdkVersion">3.2.6</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_des_vip">Xunlei članstvo</string>
     <string name="menu_title_fileexplore">Raziskovalec</string>
@@ -188,7 +188,7 @@
     <string name="miuix_appcompat_select_item">Izberi stvari</string>
     <string name="miuix_indexer_collect">Zbirke</string>
     <string name="miuix_indexer_selected">Izbrano %s</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Podrsaj dol za osvežitev</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
@@ -244,7 +244,7 @@
     <string name="no_downloads">Ni datotek</string>
     <string name="no_file_hint">Datoteka je že v čakalni vrsti</string>
     <string name="no_net">"Ne morem se povezati na omrežje"</string>
-    <string name="no_share_file">"Ne morem deliti te slike"</string>
+    <string name="no_share_file">"Ne morem deliti te datoteke"</string>
     <string name="no_share_file_content">Izbrana datoteka je že izbrisana</string>
     <string name="no_share_files">"Ne morem deliti datotek ki so bile izbrisane"</string>
     <string name="no_share_files_content">"Nekatere datoteke ki jih želite deliti so izbrisane. Ostale datoteke so uspešno podeljene."</string>
@@ -258,14 +258,14 @@
     <string name="only_support_torrent">Podprte so samo torrent datoteke</string>
     <string name="open">Odpri</string>
     <string name="open_folder">Odpri mapo</string>
-    <string name="open_vip_speedup">Postanite član za povečanje hitrosti &gt;</string>
+    <string name="open_vip_speedup">Postanite član za povečanje hitrosti </string>
     <string name="other">Ostalo</string>
     <string name="path_no_available">"Pot ni na voljo"</string>
     <string name="pause_download">Premor</string>
     <string name="paused">Premor</string>
     <string name="paused_by_app">Premor</string>
     <string name="paused_insufficient_space">Na čakanju</string>
-    <string name="paused_queued_for_wifi">Čakam na WiFi</string>
+    <string name="paused_queued_for_wifi">Čakam na omrežje</string>
     <string name="paused_unknown">Neznana napaka</string>
     <string name="paused_waiting_for_network">Čakam na omrežje</string>
     <string name="paused_waiting_to_retry">Čakam na ponovitev</string>
@@ -277,7 +277,7 @@
     <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
     <string name="pref_download_storage_path_2">Lokacija za prenesene stvari</string>
     <string name="pref_permission_description">Podrobnosti o dovoljenjih</string>
-    <string name="pref_sniff_shortcut">Naredi bližnjico</string>
+    <string name="pref_sniff_shortcut">Ustvari bližnjico na domačem zaslonu za spletno iskanje</string>
     <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
     <string name="preferences_title">Nastavitve</string>
     <string name="privacy">Zasebnost</string>
@@ -353,8 +353,7 @@
     <string name="toast_download_icon_restore_fail">"Bližnjice ni bilo mogoče dodati"</string>
     <string name="toast_download_icon_restore_success">Uspešno dodano</string>
     <string name="toast_update_data_limit_fail">"Ne morem nastaviti"</string>
-    <string name="toast_xunlei_engine_open">Xunlei pohitritev prenosov vključena.      
-  Ta storitev ni priporočljiva izven Kitajske</string>
+    <string name="toast_xunlei_engine_open">Vklopljen pospeševalnik prenosa Xunlei</string>
     <string name="today">Danes</string>
     <string name="tomorrow">Jutri</string>
     <string name="torrent_file_error">"Ne morem analizirati te torrent datoteke"</string>
@@ -369,7 +368,7 @@
     <string name="v7_preference_off">IZKLJUČENO</string>
     <string name="v7_preference_on">VKLJUČENO</string>
     <string name="version">Verzija %s</string>
-    <string name="vip_speedup">Pohitritev:</string>
+    <string name="vip_speedup">Pohitritev</string>
     <string name="wednesday">Sreda</string>
     <string name="wednesday_short">Sre</string>
     <string name="wednesday_shortest">S</string>
@@ -382,10 +381,10 @@
     <string name="xl_privilege_support">Več naprav</string>
     <string name="xl_privilege_title">Xunlei članstvo</string>
     <string name="xunlei_account_has_unbind_message">Xunlei Račun odstanjen</string>
-    <string name="xunlei_close_tips_button">Pohitri prenose</string>
-    <string name="xunlei_close_tips_content">Samo za Kitajsko</string>
-    <string name="xunlei_close_tips_title">To opravilo se ne priporoča izven Kitajske</string>
-    <string name="xunlei_open_info">Uporabim Xunlei za odpiranje takih povezav</string>
+    <string name="xunlei_close_tips_button">Vključi</string>
+    <string name="xunlei_close_tips_content">Pospeševalec prenosa Xunlei.</string>
+    <string name="xunlei_close_tips_title">Pospešite prenose</string>
+    <string name="xunlei_open_info">Uporabim Xunlei za odpiranje takih povezav?</string>
     <string name="xunlei_switch">Xunlei prevzemnik</string>
     <string name="yesterday">Včeraj</string>
 </resources>

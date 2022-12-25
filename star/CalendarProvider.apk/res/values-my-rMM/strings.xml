@@ -22,6 +22,5 @@
     <string name="holiday_update_summary">ပြက္ခဒိန်အချက်အလက်ကို မွမ်းမံရန် နှိပ်ပါ။</string>
     <string name="holiday_update_title">မွမ်းမံမှု ရရှိနိုင်သည်</string>
     <string name="provider_label">ပြက္ခဒိန်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="upgrade_msg">"ပြက္ခဒိန်၏ ဒေတာဘေ့စ်အား အသစ်မွမ်းမံနေ…"</string>
 </resources>

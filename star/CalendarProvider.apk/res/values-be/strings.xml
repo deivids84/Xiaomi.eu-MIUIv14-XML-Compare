@@ -22,6 +22,5 @@
     <string name="holiday_update_summary">Націсніце, каб абнавіць дадзеныя календара.</string>
     <string name="holiday_update_title">Даступна абнаўленне</string>
     <string name="provider_label">Каляндар</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">"Абнаўленне базы дадзеных календара…"</string>
 </resources>

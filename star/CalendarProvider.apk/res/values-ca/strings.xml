@@ -22,6 +22,5 @@
     <string name="holiday_update_summary">Toqueu per actualitzar la informació del calendari.</string>
     <string name="holiday_update_title">Actualització disponible</string>
     <string name="provider_label">Calendari</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">"Actualitzant la base de dades del Calendari…"</string>
 </resources>

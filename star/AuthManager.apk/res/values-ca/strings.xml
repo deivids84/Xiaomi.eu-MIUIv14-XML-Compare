@@ -94,7 +94,7 @@
     <string name="HIPS_Perm_mediaVolume">Ajusta el volum de reproducció</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permet que l\'aplicació ajusti el volum de reproducció</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Accedir al número de telèfon per iniciar la sessió</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Adquireix el número de telèfon de l’operadora per iniciar la sessió</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obtenir el número de telèfon de l\'operador per iniciar la sessió</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si ara no heu pogut iniciar la sessió amb un sol toc, torneu a la pàgina d'inici de sessió i torneu-ho a provar."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Aquesta aplicació vol adquirir el vostre número de telèfon de l’operador de telefonia mòbil per iniciar la sessió. Voleu permetre-ho?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
@@ -161,7 +161,7 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">La ubicació aproximada està activada</string>
     <string name="blur_location_title">Ubicació aproximada</string>
-    <string name="carwith_grant_permission_tips_when_lock">Desbloqueu primer el telèfon</string>
+    <string name="carwith_grant_permission_tips_when_lock">Desbloquegeu primer el telèfon</string>
     <string name="cetus_invisible_mode_notice_audio">"Esteu d’incògnit. Ara no es pot utilitzar el micròfon."</string>
     <string name="cetus_invisible_mode_notice_camera">"Esteu d'incògnit. Ara no es pot utilitzar la càmera."</string>
     <string name="cetus_invisible_mode_notice_location">"Esteu d'incògnit. Ara no es poden utilitzar els serveis d'ubicació."</string>

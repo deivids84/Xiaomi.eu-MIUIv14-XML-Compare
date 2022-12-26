@@ -55,15 +55,15 @@
         <item quantity="many">%d хв. таму</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d файлаў праграм</item>
+        <item quantity="other">%d файлаў праграмы</item>
         <item quantity="one">%d файл праграмы</item>
-        <item quantity="few">%d файлы праграм</item>
-        <item quantity="many">%d файлаў праграм</item>
+        <item quantity="few">%d файлы праграмы</item>
+        <item quantity="many">%d файлаў праграмы</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d сістэмных файлаў</item>
         <item quantity="one">%d сістэмны файл</item>
-        <item quantity="few">%d сістэмныя файлы</item>
+        <item quantity="few">%d сістэмных файла</item>
         <item quantity="many">%d сістэмных файлаў</item>
     </plurals>
     <plurals name="custom_progress">
@@ -151,10 +151,10 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"Імпартавана %d аб'ектаў. "</item>
+        <item quantity="other">"Імпартаваны %d аб'ектаў. "</item>
         <item quantity="one">"Імпартаваны %d аб'ект. "</item>
-        <item quantity="few">"Імпартавана %d аб'екты. "</item>
-        <item quantity="many">"Імпартавана %d аб'ектаў. "</item>
+        <item quantity="few">"Імпартаваны %d аб'екты. "</item>
+        <item quantity="many">"Імпартаваны %d аб'ектаў. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Імпартуйце %d аб\'ектаў яшчэ раз.</item>
@@ -163,15 +163,15 @@
         <item quantity="many">Імпартуйце %d аб\'ектаў яшчэ раз.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">Імпартавана і адноўлена %d аб\'ектаў</item>
+        <item quantity="other">Імпартавана і адноўлена %d аб\'екта</item>
         <item quantity="one">Імпартаваны і адноўлены %d аб\'ект</item>
-        <item quantity="few">Імпартавана і адноўлена %d аб\'екты</item>
+        <item quantity="few">Імпартаваны і адноўлены %d аб\'екты</item>
         <item quantity="many">Імпартавана і адноўлена %d аб\'ектаў</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">Адноўлена %d аб\'ектаў</item>
+        <item quantity="other">Адноўлена %d аб\'екта</item>
         <item quantity="one">Адноўлены %d аб\'ект</item>
-        <item quantity="few">Адноўлена %d аб\'екты</item>
+        <item quantity="few">Адноўлены %d аб\'екты</item>
         <item quantity="many">Адноўлена %d аб\'ектаў</item>
     </plurals>
     <plurals name="select_item_count_unit">

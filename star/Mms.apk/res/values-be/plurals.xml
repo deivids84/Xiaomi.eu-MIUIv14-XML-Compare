@@ -144,6 +144,36 @@
         <item quantity="few">Пазначана як %2$s %1$d людзьмі</item>
         <item quantity="many">Пазначана як %2$s %1$d людзьмі</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Аўдыё можа доўжыцца да %1$4d сек.</item>
+        <item quantity="one">Аўдыё можа доўжыцца да %1$4d сек.</item>
+        <item quantity="few">Аўдыё можа доўжыцца да %1$4d сек.</item>
+        <item quantity="many">Аўдыё можа доўжыцца да %1$4d сек.</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+        <item quantity="one">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+        <item quantity="few">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+        <item quantity="many">Можна адпраўляць файлы памерам да %1$4d Мб</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Можна адправіць паведамленне %1$4d кантактам</item>
+        <item quantity="one">Можна адправіць паведамленне %1$4d кантакту</item>
+        <item quantity="few">Можна адправіць паведамленне %1$4d кантактам</item>
+        <item quantity="many">Можна адправіць паведамленне %1$4d кантактам</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Паведамленні могуць змяшчаць да %1$4d сімвалаў</item>
+        <item quantity="one">Паведамленні могуць змяшчаць да %1$4d сімвала</item>
+        <item quantity="few">Паведамленні могуць змяшчаць да %1$4d сімвалаў</item>
+        <item quantity="many">Паведамленні могуць змяшчаць да %1$4d сімвалаў</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Відэа можа доўжыцца да %1$4d сек.</item>
+        <item quantity="one">Відэа можа доўжыцца да %1$4d сек.</item>
+        <item quantity="few">Відэа можа доўжыцца да %1$4d сек.</item>
+        <item quantity="many">Відэа можа доўжыцца да %1$4d сек.</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s паведамленняў</item>
         <item quantity="one">%1$s паведамленне</item>

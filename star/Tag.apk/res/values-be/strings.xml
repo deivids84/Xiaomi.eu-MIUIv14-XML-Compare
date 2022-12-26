@@ -8,7 +8,7 @@
     <string name="empty_tag_prompt">Гэты тэг пусты.</string>
     <string name="external_storage_permission_denied">Каб мець доступ да файлаў, праграме неабходна мець дазвол на працу са знешнім сховішчам. Дазволамі можна кіраваць у Наладах</string>
     <string name="import_vcard">Імпарт ^1</string>
-    <string name="mime_display_name">Даныя з пазнакі NFC</string>
+    <string name="mime_display_name">Дадзеныя ад тэгу NFC</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tag_empty">Пусты тэг</string>
     <string name="tag_unknown">Невядомы тып тэга</string>

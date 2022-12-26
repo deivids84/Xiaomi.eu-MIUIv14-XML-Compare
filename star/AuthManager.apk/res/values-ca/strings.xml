@@ -47,7 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (basada en el GPS i en la xarxa)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Connexió als dispositius propers</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobrir i connectar-se als dispositius propers</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobriu i connecteu-vos a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobrir i connectar-se a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obtén informació del dispositiu</string>
     <string name="HIPS_Perm_PhoneID_Desc">accedir al número de telèfon, IMEI i IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accès al número de telèfon i a l\'estat del dispositiu</string>

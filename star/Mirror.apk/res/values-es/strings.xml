@@ -41,7 +41,9 @@
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configuración</string>
     <string name="cast_mcc_tips_message">Para evitar demoras al usar MIUI+, conecte ambos dispositivos a la misma red Wi-Fi.</string>
+    <string name="cast_mcc_tips_message_china">Para usar MIUI+ con el máximo rendimiento, conecta ambos dispositivos a la misma red Wi-Fi.</string>
     <string name="cast_mcc_tips_title">Cambiar la configuración de Wi-Fi</string>
+    <string name="cast_mcc_tips_title_china">Cambiar la configuración Wi-Fi</string>
     <string name="circulate_cta_agree">Acepto</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">¡Te damos la bienvenida a Mi Smart Hub! Esta aplicación te permite hacer difusión de la pantalla, usar Mi Smart Play y MIU+ además de transferir la reproducción multimedia de un dispositivo a otro. Se necesita conexión a Internet y los siguientes permisos para funcionar normalmente:</string>
@@ -52,7 +54,9 @@
     <string name="circulate_cta_premission_storage_subtitle">Para enviar y recibir archivos</string>
     <string name="circulate_cta_premission_storage_title">Acceder y guardar elementos en el almacenamiento</string>
     <string name="circulate_cta_premission_wlan_subtitle">Para transferir elementos y conectar dispositivos por Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Para transferir elementos y conectar dispositivos por Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Activar y desactivar Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title_china">Activar y desactivar Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Lee y acepta nuestro &lt;txt href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/txt&gt; y la &lt;txt href=\"%2$s\"&gt;Política de Privacidad&lt;/txt&gt; antes de continuar.</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
     <string name="clipboard_tip">Copiado de %1$s</string>
@@ -86,6 +90,7 @@
     <string name="enable_wifi_alert_cancel">Cancelar</string>
     <string name="enable_wifi_alert_message">MIUI+ conecta dispositivos mediante Wi-Fi. ¿Activar Wi-Fi ahora?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ conecta dispositivos mediante Wi-Fi. ¿Activar Wi-Fi ahora?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ permite cambiar entre dispositivos para editar las fotos tomadas con tu teléfono en tu tableta. ¿Activar Wi-Fi?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ te permite cambiar sin problemas entre dispositivos cuando necesitas editar las fotos tomadas con tu teléfono en tu tableta. ¿Activar Wi-Fi para usar la transferencia?</string>
     <string name="enable_wifi_alert_ok">Activar</string>
     <string name="enable_wifi_alert_title">Activar el Wi-Fi</string>
@@ -117,6 +122,12 @@
     <string name="generic_error_no_device_credential">No se ha establecido PIN, patrón ni contraseña.</string>
     <string name="generic_error_no_keyguard">Este dispositivo no admite PIN, patrón ni contraseña.</string>
     <string name="generic_error_user_canceled">Autenticación cancelada por usuario.</string>
+    <string name="global_cta_agree">De acuerdo</string>
+    <string name="global_cta_desc">¡Te damos la bienvenida a %s! Nuestra aplicación proporciona los siguientes servicios:</string>
+    <string name="global_cta_exit">"No estoy de acuerdo"</string>
+    <string name="global_cta_feature_connect">Conectar teléfonos y tablets usando la cuenta Xiaomi</string>
+    <string name="global_cta_feature_control">Ver y usar aplicaciones del smartphone en la tablet</string>
+    <string name="global_cta_user_agreement">Antes de usar %1$s, lee y acepta nuestro &lt;txt href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/txt&gt; y la &lt;txt href=\"%3$s\"&gt;Política de Privacidad&lt;/txt&gt;.</string>
     <string name="guide_window_btn_know">Entiendo</string>
     <string name="guide_window_operation">Deslícese de un lado al centro de la pantalla</string>
     <string name="guide_window_title">Regresar</string>
@@ -134,9 +145,16 @@ Cierra esta página y vuelve a intentarlo."</string>
     <string name="loading_view_load_timeout_close">Entendido</string>
     <string name="loading_view_load_timeout_sub">"Comprueba que el Wi-Fi está activado en ambos dispositivos y que están cerca entre sí.
 Puedes iniciar otra sesión en tu ordenador."</string>
+    <string name="loading_view_load_timeout_sub_china">"Comprueba que el Wi-Fi está activado en ambos dispositivos y que están cerca entre sí.
+Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="lock_layout_sub">Desbloquea para continuar</string>
     <string name="lock_layout_title">El ordenador está bloqueado</string>
     <string name="log_warning">"Si alternas los interruptores de registro puedes aumentar el riesgo de seguridad y afectar el rendimiento. Usa estos interruptores solo cuando sea necesario."</string>
+    <string name="login_xiaomi_account_cancel">Cancelar</string>
+    <string name="login_xiaomi_account_goto_login">Iniciar sesión</string>
+    <string name="login_xiaomi_account_summary_pad">Para conectar a otro dispositivo, usa la misma cuenta Xiaomi en ambos. ¿Iniciar sesión?</string>
+    <string name="login_xiaomi_account_summary_phone">Para conectar a otra tablet, usa la misma cuenta Xiaomi en ambos dispositivos. ¿Iniciar sesión?</string>
+    <string name="login_xiaomi_account_title">Iniciar sesión en la cuenta Xiaomi</string>
     <string name="low_battery_notification_action">Activar</string>
     <string name="low_battery_notification_content">Menos del %2$d%% de batería restante en %1$s. Activa el ahorro de batería.</string>
     <string name="low_battery_notification_title">Nivel de batería bajo</string>
@@ -219,6 +237,9 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="not_set">Sin definir</string>
     <string name="notification_channel_description_download">Mostrar el progreso de la descarga en el tono de notificación</string>
     <string name="notification_channel_name_download">Mostrar progreso de descarga</string>
+    <string name="notification_state_cancel">Desconectar</string>
+    <string name="notification_state_content">"Este dispositivo está conectado al ordenador %1$s. Puedes compartir dispositivos, archivos e imágenes."</string>
+    <string name="notification_state_title">Conectado</string>
     <string name="notify_clip_action_browser">Visitar</string>
     <string name="notify_clip_action_call">Llamar</string>
     <string name="notify_clip_action_navigation">Navegar</string>
@@ -233,6 +254,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="pad_mirror_device_locked_tips_3">Toca dos veces para despertar</string>
     <string name="pad_mirror_disconnect_tips_1">Conexión perdida</string>
     <string name="pad_mirror_disconnect_tips_2">Asegúrese de que Wi-Fi y Bluetooth estén activados en ambos dispositivos y vuelva a intentarlo.</string>
+    <string name="pad_mirror_disconnect_tips_2_china">Comprueba que Wi-Fi y Bluetooth están activados en ambos dispositivos e inténtalo otra vez.</string>
     <string name="pad_pc_app_introduction_summary">Usar aplicaciones de tablet en el ordenador</string>
     <string name="pad_pc_app_introduction_title">Aplicaciones</string>
     <string name="pad_pc_extend_introduction_summary">Extiende la pantalla del ordenador a tu tablet</string>
@@ -241,6 +263,8 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="pad_pc_message_introduction_title">Portapapeles compartido</string>
     <string name="pad_pc_mirror_introduction_summary">Duplicar la pantalla del ordenador en tu tablet</string>
     <string name="pad_pc_mirror_introduction_title">Pantalla duplicada</string>
+    <string name="pad_pc_share_introduction_summary">"Usa el ratón y el teclado del ordenador con esta tablet"</string>
+    <string name="pad_pc_share_introduction_title">Dispositivos de entrada</string>
     <string name="pad_settings_bluetooth_enable_summary">Activa Bluetooth para encontrar dispositivos cercanos. ¿Activar?</string>
     <string name="pad_settings_bluetooth_enable_title">Activar Bluetooth</string>
     <string name="pad_settings_click_toast_msg">Conecta usando Mi Smart Hub en el ordenador</string>
@@ -302,6 +326,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="privacy_all_purpose">¡Te damos la bienvenida a MIUI+ Beta! Con esta aplicación puedes conectar tu dispositivo a un ordenador y combinar ambos como una única estación de trabajo.</string>
     <string name="privacy_describe_change_wifi_state">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
+    <string name="privacy_describe_change_wifi_state_china">Para conectar dispositivos y transferir archivos mediante Wi-Fi</string>
     <string name="privacy_describe_location">Para encontrar ordenadores cercanos y transferir archivos</string>
     <string name="privacy_describe_record_audio">Para redirigir la reproducción de audio al ordenador</string>
     <string name="privacy_describe_storage">Para enviar y recibir archivos</string>
@@ -373,6 +398,17 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="settings_trusted_device_none">No hay dispositivos aquí</string>
     <string name="settings_trusted_tips">Conecta automáticamente a dispositivos cercanos seleccionados cuando Bluetooth y Wi-Fi estén activados</string>
     <string name="settings_trusted_tips_china">Conecta automáticamente a dispositivos cercanos seleccionados cuando Bluetooth y Wi-Fi estén activados</string>
+    <string name="share_pc_abort_dialog_message">Comprueba que Bluetooth y Wi-Fi están activados en ambos dispositivos e inicia otra vez la sesión en el ordenador.</string>
+    <string name="share_pc_abort_dialog_message_china">Comprueba que Bluetooth y Wi-Fi están activados en ambos dispositivos e inicia otra vez la sesión en el ordenador.</string>
+    <string name="share_pc_abort_dialog_ok">Entendido</string>
+    <string name="share_pc_abort_dialog_title">La conexión se ha interrumpido</string>
+    <string name="share_pc_file_transfer_finish">Transferencia realizada</string>
+    <string name="share_pc_folder_error_dialog_message">"Actualmente no se puede arrastrar carpetas para transferirlas."</string>
+    <string name="share_pc_folder_error_dialog_ok">Entendido</string>
+    <string name="share_pc_folder_error_dialog_title">"No se pudo transferir"</string>
+    <string name="share_pc_folder_multi_error_dialog_message">"Los archivos seleccionados se han transferido. Actualmente no se puede transferir carpetas."</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">Entendido</string>
+    <string name="share_pc_folder_multi_error_dialog_title">"No se pudo transferir todos los elementos"</string>
     <string name="softap_notification_action">Conectar</string>
     <string name="softap_notification_message">No hay redes Wi-Fi disponibles. ¿Conectarse a este punto de acceso?</string>
     <string name="softap_notification_message_china">No hay redes Wi-Fi disponibles. ¿Conectarse a este punto de acceso?</string>
@@ -409,9 +445,12 @@ para continuar"</string>
     <string name="switch_wlan_action">Conectar</string>
     <string name="switch_wlan_failed">"No se pudo conectar"</string>
     <string name="switch_wlan_failed_desc">"No se pudo conectar automáticamente a esta red Wi-Fi. Intenta conectar manualmente en Ajustes."</string>
+    <string name="switch_wlan_failed_desc_china">"No se pudo conectar automáticamente a esta red Wi-Fi. Intenta conectar manualmente en Ajustes."</string>
     <string name="switch_wlan_success">Conectado</string>
     <string name="switch_wlan_tips">Conectar a la misma red</string>
+    <string name="switch_wlan_tips_china">Conectar a la misma red</string>
     <string name="switch_wlan_tips_desc">Puedes conectar a la misma red Wi-Fi que el otro dispositivo para una mejor experiencia. ¿Conectar?</string>
+    <string name="switch_wlan_tips_desc_china">Puedes conectar a la misma red Wi-Fi que el otro dispositivo para una mejor experiencia. ¿Conectar?</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>

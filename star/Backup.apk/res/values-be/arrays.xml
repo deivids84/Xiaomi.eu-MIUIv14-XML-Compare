@@ -4,7 +4,7 @@
         <item>Агульнае ўражанне</item>
         <item>Працягласць перадачы</item>
         <item>Прастата працэсу</item>
-        <item>Выразнасць інструкцый</item>
+        <item>Яснасць інструкцый</item>
         <item>Гэтая функцыя карысная</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
@@ -15,7 +15,7 @@
         <item>Вельмі задаволены(-ая)</item>
     </string-array>
     <string-array name="trans_succeed_survey_title">
-        <item>Агульны рэйтынг</item>
+        <item>Агульная адзнака</item>
         <item>Працягласць перадачы</item>
         <item>Прастата працэсу</item>
         <item>Дакладнасць інструкцый</item>

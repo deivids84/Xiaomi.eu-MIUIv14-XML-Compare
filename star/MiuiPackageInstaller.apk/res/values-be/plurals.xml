@@ -73,10 +73,10 @@
         <item quantity="many">%1$s канфідэнцыйных дазволаў</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%1$s водгук</item>
-        <item quantity="one">%1$s водгукаў</item>
+        <item quantity="other">%1$s водгукаў</item>
+        <item quantity="one">%1$s водгук</item>
         <item quantity="few">%1$s водгука</item>
-        <item quantity="many">%1$s водгук</item>
+        <item quantity="many">%1$s водгукаў</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Паўгадзіны таму</item>
@@ -122,8 +122,8 @@
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d новых апавяшчэнняў</item>
-        <item quantity="one">%d новых апавяшчэння</item>
-        <item quantity="few">%d новае апавяшчэнне</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
         <item quantity="many">%d новых апавяшчэнняў</item>
     </plurals>
     <plurals name="num_minutes_ago">

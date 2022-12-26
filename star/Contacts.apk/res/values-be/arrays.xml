@@ -60,6 +60,6 @@
         <item>Э</item>
     </string-array>
     <string-array name="bh_required_permission_list_all_desc">
-        <item>Для прадастаўлення паслуг пэўнай прыладзе</item>
+        <item>Для забеспячэння сэрвісаў на прыладзе</item>
     </string-array>
 </resources>

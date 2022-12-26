@@ -150,13 +150,21 @@
     <string name="app_cache">Caché</string>
     <string name="app_id">ID de aplicación de Firebase (haga clic para exportar)</string>
     <string name="app_library_category_entertainment">Entretenimiento</string>
+    <string name="app_library_category_financial_management">Finanzas</string>
     <string name="app_library_category_games">Juegos</string>
+    <string name="app_library_category_health_and_exercise">Salud</string>
+    <string name="app_library_category_individualization">Personalización</string>
     <string name="app_library_category_information">Multimedia</string>
     <string name="app_library_category_lifestyle">Estilo de vida</string>
+    <string name="app_library_category_originality">Creatividad</string>
     <string name="app_library_category_others">Otros</string>
     <string name="app_library_category_productivity">Productividad</string>
+    <string name="app_library_category_reading_and_information">Noticias</string>
+    <string name="app_library_category_shopping_and_food">Compras</string>
     <string name="app_library_category_social">Social</string>
+    <string name="app_library_category_travel">Viajes</string>
     <string name="app_library_category_utility">Herramientas</string>
+    <string name="app_library_category_work_and_efficiency">Productividad</string>
     <string name="app_library_title">Aplicaciones</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cámara</string>
@@ -482,6 +490,7 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="close_all_tab_alert_title">Cerrar todas las pestañas</string>
     <string name="close_cant_recommand">"No recibirá servicios de contenido personalizado si desactiva esta función."</string>
     <string name="close_cloud_tab_tip">¿Cerrar las pestañas en la nube de %s?</string>
+    <string name="close_desktop">Versión de escritorio desactivada</string>
     <string name="cloud_loading_tips">Deslice hacia abajo para sincronizar</string>
     <string name="cloud_no_new_data_toast">"Todo está actualizado"</string>
     <string name="cloud_sync_closed_toast">"No se puedo actualizar porque la sincronización está apagada"</string>
@@ -1758,6 +1767,7 @@ Dejar esta página ahora?"</string>
     <string name="ok">Aceptar</string>
     <string name="one_prefect_author">Creador</string>
     <string name="open_app_confirm_message">¿Permitir a esta página abrir %s?</string>
+    <string name="open_desktop">Versión de escritorio activada</string>
     <string name="open_google_gaid">"Para poder utilizar esta función, asegúrate de no haber desactivado la personalización de anuncios en Ajustes &gt; Google &gt; Anuncios"</string>
     <string name="open_personalized_services">Activa los servicios personalizados para poder usar esta función.</string>
     <string name="open_private_folder">Suelte para ver carpetas ocultas</string>

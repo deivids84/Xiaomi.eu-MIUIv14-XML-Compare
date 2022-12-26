@@ -2,8 +2,8 @@
 <resources>
     <string name="ErrorTooManyRequests">S\'estan processant massa sol·licituds. Torneu-ho a provar més tard.</string>
     <string name="a2dp_sink_mbs_label">Àudio per Bluetooth</string>
-    <string name="abc_action_bar_home_description">Navega a la pàgina d\'inici</string>
-    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
     <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
@@ -85,7 +85,6 @@
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Configura la data i l\'hora</string>
     <string name="defaultname">Equip per a l\'automòbil</string>
-    <string name="defaultnumber">000000</string>
     <string name="deleteAll_record">Suprimeix tots els registres</string>
     <string name="delete_record">Suprimeix el registre</string>
     <string name="download_cancel">Atura</string>
@@ -108,12 +107,7 @@
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
     <string name="evening">Tarda</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>

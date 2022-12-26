@@ -32,6 +32,12 @@
         <item>Mikrofon</item>
         <item>Sistem səsləri</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Yoxdur</item>
+        <item>Mikrofon</item>
+        <item>Sistem</item>
+        <item>Hər ikisi</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Daxili anbar</item>
         <item>Xarici anbar</item>

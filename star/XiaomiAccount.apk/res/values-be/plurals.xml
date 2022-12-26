@@ -60,6 +60,12 @@
         <item quantity="few">Знойдзена %d выніка</item>
         <item quantity="many">Знойдзена %d вынікаў</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d чалавек</item>
+        <item quantity="one">%d чалавек</item>
+        <item quantity="few">%d чалавека</item>
+        <item quantity="many">%d чалавек</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Паўгадзіны таму</item>
         <item quantity="few">Паўгадзіны таму</item>

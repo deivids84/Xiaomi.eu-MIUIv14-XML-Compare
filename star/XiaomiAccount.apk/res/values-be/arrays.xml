@@ -19,6 +19,16 @@
         <item>Змяніць пароль Xiaomi акаўнта</item>
         <item>Змяніць пароль;Абнавіць пароль;Xiaomi акаўнт;Акаўнт</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Сямейнае сховішча</item>
+        <item>Прагляд/уключэнне Сямейнага сховішча</item>
+        <item>Сямейнае сховішча;Сумеснае выкарыстанне сховішча</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Сямейныя службы</item>
+        <item>Прагляд/уключэньне сямейных службаў</item>
+        <item>Сям\'я; Сямейныя службы;Сумеснае выкарыстанне сям\'ёй</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Дапамога</item>
         <item>Дапамога і падтрымка Xiaomi акаўнта</item>

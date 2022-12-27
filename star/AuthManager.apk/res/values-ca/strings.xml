@@ -284,7 +284,7 @@
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
     <string name="miuix_indexer_collect">Col·leccions</string>
-    <string name="miuix_indexer_selected">S’ha seleccionat %s</string>
+    <string name="miuix_indexer_selected">%s seleccionat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>

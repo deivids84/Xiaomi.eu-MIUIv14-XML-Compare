@@ -2,18 +2,18 @@
 <resources>
     <string name="HIPS_ACTION_REJECT_CLEAR">Restringeix i neteja el porta-retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
-    <string name="HIPS_Action_Accept_Once">Permetre un cop</string>
-    <string name="HIPS_Action_Accept_This">Permetre un cop</string>
+    <string name="HIPS_Action_Accept_Once">Permet-ho una vegada</string>
+    <string name="HIPS_Action_Accept_This">Permet-ho una vegada</string>
     <string name="HIPS_Action_Reject">Denega</string>
     <string name="HIPS_Action_Reject_Once">Denega-ho una vegada</string>
     <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
-    <string name="HIPS_Perm_Access_Gallery">Accedir a la Galeria</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi als elements de la vostra Galeria</string>
-    <string name="HIPS_Perm_AudioRecorder">Enregistra àudio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">enregistra àudio i trucades telefòniques</string>
+    <string name="HIPS_Perm_Access_Gallery">Accés a la Galeria</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi als elements de la Galeria</string>
+    <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
     <string name="HIPS_Perm_AutoStart_Desc">inici automàtic</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity">Canvia la connectivitat Bluetooth</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activa o desactiva el Bluetooth</string>
     <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex., sensor de ritme cardíac)</string>
@@ -343,7 +343,7 @@
     <string name="ok">D\'acord</string>
     <string name="perm_action_allow">Permet</string>
     <string name="perm_action_deny">No ho permetis mai</string>
-    <string name="perm_educate_post_notification">Les notificacions poden anunciar-se amb so i vibració, donat que es mostren a la barra de notificacions i a les icones de la pantalla inicial. Podeu canviar les vostres preferències de notificació a Configuració.</string>
+    <string name="perm_educate_post_notification">Les notificacions poden anar acompanyades de so i vibració, ja que apareixen a l\'àrea de notificacions i a les icones de la pantalla d\'inici. Podeu canviar les preferències de notificació a Configuració.</string>
     <string name="perm_manager_suggest_operation">Gestiona permisos</string>
     <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
     <string name="perm_modem_location">Accés a la teva ubicació</string>
@@ -363,7 +363,7 @@
     <string name="permdesc_read_contacts">Voleu permetre que %1$s accedeixi als contactes?</string>
     <string name="permdesc_read_mms">Voleu permetre que %1$s llegeixi missatges multimèdia?</string>
     <string name="permdesc_read_phone_numbers">Voleu permetre que %1$s llegeixi els números de telèfon d\'aquest dispositiu?</string>
-    <string name="permdesc_read_phone_state">Vols permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
+    <string name="permdesc_read_phone_state">Voleu permetre que %1$s accedeixi a l\'estat del dispositiu i a la informació de la xarxa mòbil?</string>
     <string name="permdesc_read_sms">Voleu permetre que %1$s llegeixi missatges de text i multimèdia?</string>
     <string name="permdesc_read_storage">Accedir a fotos i arxius emmagatzemats al dispositiu</string>
     <string name="permdesc_recognition">Accedir a dades de salut i activitat</string>
@@ -397,7 +397,7 @@
     <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
     <string name="pm">p. m.</string>
     <string name="pp_privacy_lab_operator_introduction">Atenció</string>
-    <string name="precise_location_title">Localització precisa</string>
+    <string name="precise_location_title">Ubicació precisa</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="real_location_off">La ubicació aproximada està activada</string>
     <string name="real_location_on">La ubicació aproximada està desactivada</string>

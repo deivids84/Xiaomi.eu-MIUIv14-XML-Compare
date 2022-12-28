@@ -2,9 +2,9 @@
 <resources>
   <string-array name="additional_cal_dialog_labels">
     <item>Cap</item>
-    <item>Calendari islàmic</item>
-    <item>Calendari Nacional de l\'Índia</item>
-    <item>Calendari Vikram</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikram Samvat</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>aquarius</item>
@@ -95,8 +95,8 @@
   </string-array>
   <string-array name="prefEntries_alerts_popup_new">
     <item>Desactivat</item>
-    <item>En qualsevol cas</item>
-    <item>Pels esdeveniments temporals</item>
+    <item>Per a tots els esdeveniments</item>
+    <item>Per a esdeveniments sensibles al temps</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
@@ -223,12 +223,12 @@
     <item>quart dissabte</item>
     <item>quart diumenge</item>
     <item>dilluns passat</item>
-    <item>l’últim dimarts</item>
-    <item>l’últim dimecres</item>
-    <item>l\'últim dijous</item>
+    <item>dimarts passat</item>
+    <item>dimecres passat</item>
+    <item>dijous passat</item>
     <item>divendres passat</item>
-    <item>l\'últim dissabte</item>
-    <item>últim diumenge</item>
+    <item>el passat dissabte</item>
+    <item>diumenge passat</item>
   </string-array>
   <string-array name="response_labels1">
     <item>Sense resposta</item>
@@ -359,7 +359,7 @@
     <item>23/8 - 22/9</item>
   </string-array>
   <string-array name="weather_forecasts">
-    <item>Clar</item>
+    <item>Serè</item>
     <item>Nuvolós</item>
     <item>Cobert</item>
     <item>Boira</item>
@@ -400,6 +400,15 @@
     <item>Fons blanc</item>
   </string-array>
   <string-array name="year_view_week_header_name">
+    <item>7</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
+  <string-array name="year_view_week_header_name_other">
     <item>7</item>
     <item>1</item>
     <item>2</item>

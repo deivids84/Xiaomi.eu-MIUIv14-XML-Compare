@@ -15,13 +15,13 @@
         <item>Diàriament</item>
         <item>Dies de feina</item>
         <item>Dies de festa</item>
-        <item>Dill a Div</item>
+        <item>De Dl a Dv</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>Dill a Div</item>
+        <item>De dll a dv</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_set">
@@ -118,7 +118,7 @@
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Cada dia</item>
-        <item>De dilluns a divendres</item>
+        <item>De dilluns a Divendres</item>
         <item>Dies laborables</item>
         <item>Personalitzar</item>
     </string-array>
@@ -581,7 +581,7 @@
         <item>Gibraltar</item>
         <item>Finlàndia</item>
         <item>Illa de Man</item>
-        <item>Türkiye</item>
+        <item>Turquia</item>
         <item>Portugal</item>
         <item>Regne Unit</item>
         <item>Luxemburg</item>
@@ -598,7 +598,7 @@
         <item></item>
         <item>Bòsnia i Hercegovina</item>
         <item></item>
-        <item>North Macedonia</item>
+        <item>Macedònia</item>
         <item>Bulgària</item>
         <item>Suècia</item>
         <item>Estònia</item>
@@ -670,7 +670,7 @@
         <item>Itàlia</item>
         <item>Alemanya</item>
         <item>Vietnam</item>
-        <item>Türkiye</item>
+        <item>Turquia</item>
         <item>Índia</item>
         <item>Brasil</item>
         <item>Sud-àfrica</item>
@@ -728,6 +728,24 @@
         <item>25 minuts</item>
         <item>30 minuts</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
     <string-array name="timer_duration">
         <item>Total %1$s</item>
         <item>Total %2$s</item>
@@ -767,7 +785,12 @@
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No fer res</item>
-        <item>Postposar</item>
+        <item>Repetiu</item>
         <item>Rebutgeu</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

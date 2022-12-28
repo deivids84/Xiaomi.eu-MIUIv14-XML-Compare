@@ -86,6 +86,6 @@
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Queden uns %s min</item>
-        <item quantity="one">Queda %s min</item>
+        <item quantity="one">Queden uns %s min</item>
     </plurals>
 </resources>

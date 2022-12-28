@@ -49,7 +49,7 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d minuts</item>
+        <item quantity="other">en %d mins</item>
         <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -57,11 +57,11 @@
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="after_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d mins</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="anniversary_day">
@@ -165,8 +165,16 @@
         <item quantity="one">Següent període en %1$d dia</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elements seleccionats</item>
-        <item quantity="one">%d \'element seleccionat</item>
+        <item quantity="other">%d elements sel·leccionats</item>
+        <item quantity="one">%d element sel·leccionat</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%1$d个邀请对象</item>
+        <item quantity="one">1个邀请对象</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">dies</item>
@@ -177,7 +185,7 @@
         <item quantity="one">setmana</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">fa %d minuts</item>
+        <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="num_picker_hint">
@@ -257,20 +265,20 @@
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="widget_normal_agenda_going_counts">
-        <item quantity="other">%d esdeveniments en curs</item>
-        <item quantity="one">%d esdeveniment en curs</item>
+        <item quantity="other">%d esdeveniments en progrés</item>
+        <item quantity="one">%d esdeveniment en progrés</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
-        <item quantity="other">Pròxim esdeveniment d\'aquí a %d min</item>
-        <item quantity="one">Pròxim esdeveniment d\'aquí a %d min</item>
+        <item quantity="other">El següent esdeveniment en %d mins</item>
+        <item quantity="one">El següent esdeveniment en %d min</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
         <item quantity="other">%d esdeveniments demà</item>
         <item quantity="one">%d esdeveniment demà</item>
     </plurals>
     <plurals name="widget_weekN">
-        <item quantity="other">Setmana %d</item>
-        <item quantity="one">Setmana %d</item>
+        <item quantity="other">%d setmanes</item>
+        <item quantity="one">%d setmana</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d dies laborables</item>

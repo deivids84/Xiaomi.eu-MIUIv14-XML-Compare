@@ -223,7 +223,7 @@
     <string name="refocus_type_movie_relighting">Cinematográfico</string>
     <string name="refocus_type_relighting">Estudio</string>
     <string name="refocus_type_relighting_no_face">"No se pudo encontrar la cara"</string>
-    <string name="refocus_type_relighting_small_face">La iluminación de estudio funciona en fotos donde los rostros toman más espacio que aquí.</string>
+    <string name="refocus_type_relighting_small_face">La iluminación de estudio actúa en fotos donde las caras ocupan más espacio que aquí.</string>
     <string name="refocus_type_static">Desenfoque</string>
     <string name="refocus_type_video">Estelas de luz</string>
     <string name="saf_operation_guide_1">"El editor de Gallería necesita permiso para proteger y administrar tus datos. "</string>

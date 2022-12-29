@@ -107,6 +107,16 @@
         <item>Xiaomi Hesabının parolunu dəyişdir</item>
         <item>Parolu dəyişdir;Parolu güncəllə;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Ailə üçün anbar sahəsi</item>
+        <item>Ailə üçün anbar sahəsini görüntülə/işə sal</item>
+        <item>Ailə üçün anbar sahəsi;Anbar sahəsi paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Ailə xidmətləri</item>
+        <item>Ailə xidmətlərini görüntülə/işə sal</item>
+        <item>Ailə;Ailə xidmətləri;Ailə paylaşımı</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Kömək</item>
         <item>Xiaomi Hesabı üçün kömək və dəstək al</item>

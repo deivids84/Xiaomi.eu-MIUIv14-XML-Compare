@@ -136,7 +136,6 @@
     <string name="miui_feedback_edit_toast_module_required">Element auswählen</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Deine Beschreibung sollte länger sein</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Kategorie auswählen</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"Bilder oder Videos größer als 100 MB können nicht hochgeladen werden"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">App-Name eingeben</string>
     <string name="miui_feedback_main_answer_title">"Auf diese Frage gibt es eine Antwort"</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Service-Hotline: 0120-300-521

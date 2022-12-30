@@ -252,18 +252,6 @@
         <item quantity="few">%d аб\'екты выдзелены</item>
         <item quantity="many">%d аб\'ектаў выдзелена</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%1$d个邀请对象</item>
-        <item quantity="one">1个邀请对象</item>
-        <item quantity="few">%1$d个邀请对象</item>
-        <item quantity="many">%1$d个邀请对象</item>
-    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">дзён</item>
         <item quantity="one">дзень</item>

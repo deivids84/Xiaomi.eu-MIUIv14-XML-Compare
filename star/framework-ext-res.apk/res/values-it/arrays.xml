@@ -131,11 +131,4 @@
         <item>com.android.quicksearchbox</item>
         <item>com.miui.player</item>
     </string-array>
-    <string-array name="smart_power_broadcast_white_list">
-        <item>android.appwidget.action.APPWIDGET_UPDATE</item>
-        <item>android.appwidget.action.APPWIDGET_ENABLED</item>
-        <item>android.intent.action.LOCALE_CHANGED</item>
-        <item>android.intent.action.TIME_SET</item>
-        <item>android.intent.action.EVENT_REMINDER</item>
-    </string-array>
 </resources>

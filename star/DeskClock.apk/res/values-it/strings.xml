@@ -260,6 +260,15 @@
     <string name="menu_item_sort_by_gmt_offset">Ordina per ora</string>
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="midnight">Notte</string>
+    <string name="miui_clock_city_name_local">Locale</string>
+    <string name="miui_clock_city_name_second">Secondo orologio</string>
+    <string name="miui_lock_screen_date">AAA, MMM GG</string>
+    <string name="miui_lock_screen_date_12">AAA, MMM GG</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM GG AAA"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM GG AAA"</string>
+    <string name="miui_lock_screen_large_date">"HHH M/g"</string>
+    <string name="miui_lock_screen_large_date_12">"AAA
+M/g"</string>
     <string name="miuix_access_state_desc">Selezionato</string>
     <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>

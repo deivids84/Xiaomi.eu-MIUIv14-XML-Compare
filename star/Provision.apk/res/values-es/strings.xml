@@ -80,6 +80,8 @@
     <string name="cm_terms_title">Acuerdo del Operador de Red Móvil</string>
     <string name="compass_introduction">Puedes usar esta aplicación para navegar, así como ver coordenads, presión atmosférica y altitud.</string>
     <string name="congratulation_label">"¡Listo para disfrutar!​"</string>
+    <string name="congratulation_pre_label">Un momento…</string>
+    <string name="congratulation_pre_title">Preparando el sistema…</string>
     <string name="congratulation_swipe">Deslice hacia arriba para acceder al sistema</string>
     <string name="congratulation_title">Configuración completada</string>
     <string name="content_description_complete">Completado</string>

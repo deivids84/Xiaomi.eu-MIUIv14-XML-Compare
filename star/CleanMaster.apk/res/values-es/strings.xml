@@ -325,6 +325,15 @@
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
+    <string name="exo_download_completed">Descarga completada</string>
+    <string name="exo_download_description">Descargar</string>
+    <string name="exo_download_downloading">Descargando</string>
+    <string name="exo_download_failed">Error en la descarga</string>
+    <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_paused">Descargas en pausa</string>
+    <string name="exo_download_paused_for_network">Descargas esperando por la red</string>
+    <string name="exo_download_paused_for_wifi">Descargas esperando por Wi-Fi</string>
+    <string name="exo_download_removing">Eliminando descargas</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="facebook_clean_exit_confirm_cancel">Seguir escaneando</string>
     <string name="facebook_clean_exit_confirm_msg">"Aún no se ha terminado de escanear Facebook. ¿Detener ahora?"</string>
@@ -990,6 +999,11 @@
     <string name="wqfile_group_chat_pic">Imágenes de mensajeros</string>
     <string name="wqfile_group_chat_video">Vídeos de mensajeros</string>
     <string name="wqfile_group_chat_voice">Mensajes de voz</string>
+    <string name="yandex_ads_internal_tools_domain_text">dominio</string>
+    <string name="yandex_ads_internal_tools_price_text">precio</string>
+    <string name="yandex_ads_internal_tools_rating_text">valoración</string>
+    <string name="yandex_ads_internal_tools_review_count_text">recuento de reseñas</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">patrocinado</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ayer</string>
 </resources>

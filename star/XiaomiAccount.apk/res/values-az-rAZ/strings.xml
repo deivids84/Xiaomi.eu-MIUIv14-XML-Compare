@@ -190,6 +190,8 @@
     <string name="common_signin_button_text_long">Google ilə daxil olun</string>
     <string name="completed">Hər şey hazırdır!</string>
     <string name="confirm_activate_email">Təsdiqləndi</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Təsdiqlə</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Təsdiqlə (%d s)</string>
     <string name="confirm_bundled_phone_dialog_title">Əlaqəli telefon nömrəsini təsdiqlə</string>
     <string name="confirm_new_pwd">Yeni parolu təsdiqlə</string>
     <string name="confirm_phone_number_dialog_message">Təsdiqləmə kodu %s nömrəsinə göndəriləcək.</string>

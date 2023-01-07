@@ -389,12 +389,14 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="base_btn_download">Continuar</string>
     <string name="begin_share">Álbum del bebé \"%s\" creado, ahora puede compartirlo</string>
     <string name="begin_share_toast">¿Crear un álbum independiente para este niño antes de compartir?</string>
+    <string name="blur_refocus_enter">Bokeh (desenfoque)</string>
     <string name="browse_category_title">Explorar</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="btn_cancel_send">Cancelar esta transferencia</string>
     <string name="btn_exit_send">Salir</string>
     <string name="btn_sure">Aceptar</string>
     <string name="burst_image_download_item_title" formatted="false">Descargar original (%s|%s)</string>
+    <string name="burst_photo_enter">Ráfaga</string>
     <string name="burst_preview_title">Ráfaga de fotos</string>
     <string name="burst_save_all">Mantener todas las fotos</string>
     <string name="burst_save_choice_title">%1$d de %2$d seleccionadas</string>
@@ -685,11 +687,12 @@ Conecta el cargador y apaga la pantalla para que aparezcan los recuerdos."</stri
     <string name="delete_album_msg_format_local">¿Eliminar %1$s %2$s?</string>
     <string name="delete_album_success">Álbum eliminado</string>
     <string name="delete_from_all_devices_and_cloud">de todos los dispositivos y Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Eliminar elementos de Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Eliminar también de la nube</string>
     <string name="delete_from_this_album_and_cloud">de este álbum y Xiaomi Cloud</string>
     <string name="delete_in_album">Los elementos seleccionados se eliminarán de la nube y de todos los dispositivos conectados y se almacenarán junto a los eliminados recientemente durante %d días, si tienes un plan de almacenamiento gratuito en la nube. ¿Eliminar?</string>
     <string name="delete_in_home_page">Los elementos seleccionados se eliminarán de la nube y de todos los dispositivos conectados y se almacenarán junto a los eliminados recientemente durante %d días, si tienes un plan de almacenamiento gratuito en la nube. ¿Eliminar?</string>
     <string name="delete_in_process">Eliminando…</string>
+    <string name="delete_media_for_cloud">Los elementos seleccionados se eliminarán de la nube y de todos los dispositivos sincronizados con los elementos eliminados recientemente.</string>
     <string name="delete_origin">Eliminar objetos del álbum original</string>
     <string name="delete_other_shared_images">"No se puede borrar las fotos compartidas por otras personas"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d eliminado, %2$d guardado</string>
@@ -722,6 +725,7 @@ Remite este código al supervisor."</string>
     <string name="disconnect_migration_msg">Las fotos y vídeos que ya se han transferido permanecerán en Google Fotos.</string>
     <string name="disconnect_migration_title">¿Detener la transferencia?</string>
     <string name="do_not_remind_me">"No volver a mostrar"</string>
+    <string name="doc_photo_enter">Editar en el documento</string>
     <string name="document_provider_guide_step_1">%d. Toque el botón \"Más\".</string>
     <string name="document_provider_guide_step_2">%d. Toque \"Mostrar almacenamiento interno\".</string>
     <string name="document_provider_guide_step_3">%d. Toque el botón del menú lateral.</string>
@@ -771,6 +775,7 @@ Remite este código al supervisor."</string>
     <string name="dump_db_info">Volcar información de la base de datos</string>
     <string name="early_morning">AM</string>
     <string name="edit_baby_info">Ver información del bebé</string>
+    <string name="edit_subtitle_enter">Editar subtítulos</string>
     <string name="editor_cancel">Cancelar</string>
     <string name="editor_export">Guardar</string>
     <string name="editor_talkback_redo">Rehacer</string>
@@ -1104,6 +1109,7 @@ disponibles"</string>
     <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Álbum creado para \"%s\" en Xiaomi Cloud</string>
     <string name="finish_fill_baby">Crear</string>
+    <string name="first_delete_media_for_cloud">Los elementos seleccionados se eliminarán de la nube y de todos los dispositivos sincronizados con elementos eliminados recientemente. Se borrarán permanentemente después de %d días, salvo que tengas un plan de almacenamiento. ¿Eliminar?</string>
     <string name="first_time_add_video_to_secret_tips">Actualizar Galería para poder agregar videos a un álbum privado</string>
     <string name="flash_off">Sin flash</string>
     <string name="flash_on">Flash activado</string>
@@ -1995,6 +2001,8 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="permission_optional_category">Permisos opcionales</string>
     <string name="permission_phone_desc">Para asignar dispositivos correspondientes a elementos eliminados recientemente en Xiaomi Cloud</string>
     <string name="permission_phone_name">Teléfono</string>
+    <string name="permission_post_notification_desc">Para enviar notificaciones sobre álbumes compartidos y actualizar el estado de sincronización</string>
+    <string name="permission_read_media_images_desc">Para acceder y guardar fotos y vídeos mientras usas la Galería</string>
     <string name="permission_require_category">Permisos obligatorios</string>
     <string name="permission_storage_desc">Para ordenar, mostrar, editar, sincronizar y descargar sus fotos y videos</string>
     <string name="permission_storage_name">Almacenamiento</string>
@@ -2594,6 +2602,21 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="share_album_pref_auto_add_photos_summary">Selecciona personas para añadir automáticamente sus fotos nuevas a este álbum</string>
     <string name="share_album_pref_auto_add_photos_title">Añadir sus fotos automáticamente</string>
     <string name="share_album_qr_code">"Código QR del álbum"</string>
+    <string name="share_album_risk_control_invalid_name">"No se puede usar este nombre de álbum. Elige otro e inténtalo otra vez."</string>
+    <string name="share_album_risk_control_tip_off">Informar</string>
+    <string name="share_album_risk_control_tip_off_cate">Tipo de contenido</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Ilegal</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Otros</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Político</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Sexual</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Violento</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Si denuncias contenido de álbumes compartidos, solo la persona que cargó este contenido podrá verlo. ¿Reportar ahora?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Denunciar</string>
+    <string name="share_album_risk_control_tip_off_select">Selecciona el tipo de contenido</string>
+    <string name="share_album_risk_control_tip_off_success">Denunciado correctamente</string>
+    <string name="share_album_risk_control_too_many_albums">"No se pueden crear más álbumes compartidos"</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">"No se pueden agregar más miembros"</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">"No se puede invitar a más miembros"</string>
     <string name="share_album_sync_textline_action_continue">Reanudar</string>
     <string name="share_album_sync_textline_action_login">Iniciar sesión</string>
     <string name="share_album_sync_textline_action_retry">Inténtalo otra vez</string>
@@ -2676,6 +2699,7 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="slim_stop">Detener optimización</string>
     <string name="slim_stop_v2">Parar</string>
     <string name="slim_success_tip">Liberado %s de almacenamiento</string>
+    <string name="slow_motion_enter">Cámara lenta</string>
     <string name="sns_access_token_expired_warning">Sesión caducada. Inicia la sesión otra vez para conectar esta cuenta.</string>
     <string name="sns_bind_limit">Demasiados intentos. Prueba otras formas de iniciar sesión.</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
@@ -2817,6 +2841,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">S</string>
+    <string name="super_slow_motion_enter">Cámara superlenta</string>
     <string name="support_single_image">Seleccionar una foto</string>
     <string name="support_single_video">Seleccionar video</string>
     <string name="switch_account_continue">Reanudar</string>
@@ -3096,8 +3121,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="trash_menu_delete">Eliminar</string>
     <string name="trash_menu_recovery">Restaurar</string>
     <string name="trash_purge_all">Todos los elementos eliminados recientemente se borrarán permanentemente de la nube y de los dispositivos sincronizados. ¿Eliminar?</string>
-    <string name="trash_purge_all_cloud">Todos los elementos eliminados recientemente se borrarán permanentemente de la nube y de los dispositivos sincronizados. ¿Eliminar?</string>
-    <string name="trash_purge_all_local">Todos los elementos eliminados recientemente se borrarán permanentemente. ¿Eliminar?</string>
+    <string name="trash_purge_all_media">"¿Eliminar permanentemente todos los elementos de la nube y todos los dispositivos sincronizados? Esta acción no se puede deshacer."</string>
     <string name="trash_purge_dialog_title">Limpiar la basura</string>
     <string name="trash_purge_positive_button">Eliminar</string>
     <string name="trash_size">Elementos eliminados (%s)</string>
@@ -3309,6 +3333,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="video_quality_720p_original">720P (sin comprimir)</string>
     <string name="video_quality_8k">8K</string>
     <string name="video_quality_title_sub">Resolución actual: %1$s (≈%2$s)</string>
+    <string name="video_tags_enter">Mostrar etiquetas</string>
     <string name="video_with_time">Video grabado en %s</string>
     <string name="video_with_time_and_location">Video grabado en %1$s. Ubicación: %2$s.</string>
     <string name="view_by_gallery_tip">Galería MIUI</string>

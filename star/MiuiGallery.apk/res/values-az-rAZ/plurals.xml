@@ -172,9 +172,9 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d ardıcıl çəkiliş Xiaomi Cloud və bütün sinxronlaşdırılmış cihazlardan silinsin?</item>
-        <item quantity="one">%d ardıcıl çəkiliş Xiaomi Cloud və bütün sinxronlaşdırılmış cihazlardan silinsin?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">%d ardıcıl çəkiliş silinsin?</item>
+        <item quantity="one">%d ardıcıl çəkiliş silinsin?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">%d ardıcıl çəkiliş silinsin?</item>
@@ -192,17 +192,13 @@
         <item quantity="other">%d element silinsin?</item>
         <item quantity="one">%d element silinsin?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d foto bütün cihazlardan və \"Xiaomi Cloud\"dan silinsin?</item>
-        <item quantity="one">%d foto bütün cihazlardan və \"Xiaomi Cloud\"dan silinsin?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">%d element silinsin?</item>
+        <item quantity="one">%d element silinsin?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">%d ardıcıl çəkiliş cihazınızdan silinsin?</item>
         <item quantity="one">%d ardıcıl çəkiliş cihazınızdan silinsin?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d video bütün cihazlardan və \"Xiaomi Cloud\"dan silinsin?</item>
-        <item quantity="one">%d video bütün cihazlardan və \"Xiaomi Cloud\"dan silinsin?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"%1$d fayl endirilə bilmədi"</item>

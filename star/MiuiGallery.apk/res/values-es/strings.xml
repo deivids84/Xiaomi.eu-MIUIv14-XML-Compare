@@ -1449,7 +1449,7 @@ disponibles"</string>
     <string name="magic_protrait_art_dsc">Prueba nuestros efectos más avanzados</string>
     <string name="magic_recycler_empty_msg">"No se pudo encontrar resultados"</string>
     <string name="magic_save">Guardar</string>
-    <string name="magic_save_ok">Guardado</string>
+    <string name="magic_save_ok">Guardado en creatividad</string>
     <string name="magic_select_people">Seleccionar personas</string>
     <string name="magic_special_guide_text">Funciona mejor con vídeos de una persona</string>
     <string name="magic_special_guide_title">Vídeos de retratos</string>
@@ -3523,7 +3523,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="vlog_unzip_file_fail">"No se pudo descomprimir el archivo"</string>
     <string name="vlog_video_adjust_order">Reorganizar vídeos</string>
     <string name="vlog_video_importing">Importando vídeo…</string>
-    <string name="vlog_video_saved_in_my_create">Vídeo guardado</string>
+    <string name="vlog_video_saved_in_my_create">Guardado en creatividad</string>
     <string name="vlog_video_selected_not_support">"No se puede editar el vídeo seleccionado"</string>
     <string name="vlog_video_trans_code_cons">Importando…</string>
     <string name="voice_assistant">Entrada de voz</string>

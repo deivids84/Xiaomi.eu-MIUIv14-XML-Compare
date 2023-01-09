@@ -838,7 +838,7 @@ en su iPhone"</string>
     <string name="transfer_snap_new_waiting_receive">Esperando para recibir...</string>
     <string name="transfer_snap_new_waiting_restore">Esperando para restaurar...</string>
     <string name="transfer_snap_old_backup">Respaldando...</string>
-    <string name="transfer_snap_old_send_finish">Envío exitoso</string>
+    <string name="transfer_snap_old_send_finish">Enviado</string>
     <string name="transfer_snap_old_sending">Enviando...</string>
     <string name="transfer_snap_old_waiting_backup">Esperando los respaldos...</string>
     <string name="transfer_snap_old_waiting_send">Esperando para enviar...</string>
@@ -850,7 +850,7 @@ en su iPhone"</string>
     <string name="transfer_title_new_finish">Transferencia realizada</string>
     <string name="transfer_title_new_receiving">Recibiendo...</string>
     <string name="transfer_title_new_restoring">Restaurando...</string>
-    <string name="transfer_title_old_finish">Envío exitoso</string>
+    <string name="transfer_title_old_finish">Enviado</string>
     <string name="transfer_title_old_sending">Enviando...</string>
     <string name="try_again">Intenta otra vez</string>
     <string name="tuesday">Martes</string>

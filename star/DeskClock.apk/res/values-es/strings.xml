@@ -314,7 +314,7 @@ d/M"</string>
     <string name="module_download_msg_timer">Reloj necesita descargar archivos de audio para los temporizadores de ruidos ambientales. ¿Descargar?</string>
     <string name="module_download_no_network">Reloj necesita conexión a Internet para descargar audios. Comprueba los ajustes de la red e inténtalo otra vez.</string>
     <string name="module_download_ok">Permitir</string>
-    <string name="module_download_success">Se ha de descargado el audio</string>
+    <string name="module_download_success">Se ha descargado el audio</string>
     <string name="module_download_title">Se necesita audio adicional</string>
     <string name="module_downloading">Descargando audio…</string>
     <string name="module_unzipping">Descomprimiendo audio…</string>

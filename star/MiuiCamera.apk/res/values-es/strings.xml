@@ -353,12 +353,12 @@ y autoajustar las preferencias"</string>
     <string name="beauty_body_body">Esbelto</string>
     <string name="beauty_body_head">Cabeza</string>
     <string name="beauty_body_legged">Piernas</string>
-    <string name="beauty_body_reset_tip">Efectos de figura eliminados</string>
+    <string name="beauty_body_reset_tip">Efectos de belleza eliminados</string>
     <string name="beauty_body_shoulder">Hombros</string>
     <string name="beauty_body_slim_count_tip">Los efectos de figura solo funcionan en fotos de una persona</string>
     <string name="beauty_body_whole">Cuerpo</string>
     <string name="beauty_clear">Limpiar</string>
-    <string name="beauty_clear_toast">Efectos del Modo belleza restablecidos</string>
+    <string name="beauty_clear_toast">Efectos de belleza restablecidos</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Modo belleza</string>
     <string name="beauty_fragment_tab_name_3d_makeup">Maquillaje</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelando</string>
@@ -400,7 +400,7 @@ y autoajustar las preferencias"</string>
     <string name="beauty_no_t">Modo belleza desactivado</string>
     <string name="beauty_origin_skincolor">Original</string>
     <string name="beauty_reset">Restablecer</string>
-    <string name="beauty_reset_toast">Efectos del Modo belleza restablecidos</string>
+    <string name="beauty_reset_toast">Efectos de belleza restablecidos</string>
     <string name="beauty_s_cl">Aspecto</string>
     <string name="beauty_skincolor_caramel">Caramelo</string>
     <string name="beauty_skincolor_lotus">Sol</string>
@@ -897,7 +897,7 @@ parezcan más grandes en las fotos"</string>
     <string name="makeup_effect_entry_palm">Palmera</string>
     <string name="makeup_effect_entry_taro">Taro</string>
     <string name="makeup_effect_entry_vitality">Brío</string>
-    <string name="makeup_reset_toast">Efectos del modo belleza eliminados</string>
+    <string name="makeup_reset_toast">Efectos de maquillaje eliminados</string>
     <string name="manual_picture_style">Parámetros</string>
     <string name="manually_raw_hint">CRUDO</string>
     <string name="manually_raw_tip">"No se puede usar el zoom con formato RAW"</string>

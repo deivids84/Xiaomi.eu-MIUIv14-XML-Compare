@@ -650,7 +650,7 @@ Las páginas que visites no aparecerán en el historial."</string>
     <string name="delete_task_dialog_msg">¿Eliminar la tarea seleccionada?</string>
     <string name="detail_guide_tips">Desliza hacia arriba para más artículos relacionados</string>
     <string name="diagnosis_log_send_failed">"No se pudo enviar los registros. Vuelve a intentarlo."</string>
-    <string name="diagnosis_log_sent_format">"Se han enviados los registros
+    <string name="diagnosis_log_sent_format">"Se han enviado los registros
 ID:%s
 Remite este código al supervisor."</string>
     <string name="dialog_channel_cancel">Cancelar</string>

@@ -591,7 +591,7 @@ No perderás datos de aplicaciones."</string>
     <string name="app_predict_classification_search_empty">"No se pudieron encontrar resultados"</string>
     <string name="app_predict_dialog_button">Añadir a la pantalla principal</string>
     <string name="app_predict_dialog_message">La IA sugerirá aplicaciones que podría necesitar en este momento</string>
-    <string name="app_predict_dialog_success">Agregado a la pantalla de inicio</string>
+    <string name="app_predict_dialog_success">Añadido a la pantalla de inicio</string>
     <string name="app_predict_folder_name">Buscar</string>
     <string name="app_predict_folder_tips">Sugerencias derivadas de tus hábitos de uso</string>
     <string name="app_predict_go_shop_search_app">Buscar en GetApps</string>
@@ -2062,7 +2062,7 @@ voluntario"</string>
     <string name="gamebox_wechat_not_find">Instala WeChat y vuelve a intentarlo.</string>
     <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamecenter_install_fail">"No se pudo instalar"</string>
-    <string name="gamecenter_install_sucessfull">Instalado correctamente</string>
+    <string name="gamecenter_install_sucessfull">Instalado</string>
     <string name="gateway_exception_summary">Comprueba el router e inténtalo otra vez.</string>
     <string name="gateway_exception_summary2">"No se puede conectar con el servidor"</string>
     <string name="gateway_exception_title">Comprobar el router</string>
@@ -4424,7 +4424,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="send_msg_to_query">Envía una mensaje de texto para comprobarlo</string>
     <string name="send_sms_title">¿Permitir a %s enviar mensajes?</string>
     <string name="set_applock_password">Establecer contraseña</string>
-    <string name="set_complete">Establecido con éxito</string>
+    <string name="set_complete">Establecido</string>
     <string name="set_exit_condition">set_exit_condition</string>
     <string name="set_location">Establecer ubicación</string>
     <string name="set_mixed_password_name">Establecer contraseña</string>

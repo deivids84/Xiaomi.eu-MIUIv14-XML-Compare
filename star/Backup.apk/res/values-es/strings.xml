@@ -834,7 +834,7 @@ para descargar e instalar Mi Mover."</string>
     <string name="trans_intro_desc_5">Se utiliza espacio de almacenamiento del dispositivo antiguo para crear paquetes de transferencia. Comprueba que tienes entre 500 MB - 1 GB de espacio disponible en tu dispositivo antiguo antes de empezar.</string>
     <string name="trans_intro_desc_6">Razones posibles son: problemas de compatibilidad de sistema y versión de la aplicación, problemas de red, problemas de compatibilidad específicos de un dispositivo particular, etc.</string>
     <string name="trans_intro_desc_7">Algunos perfiles de aplicaciones (e-banking, finanzas, etc) están asociados a un dispositivo específico por razones de seguridad. Prueba a borrar los datos de la aplicación o a reinstalarla en un nuevo dispositivo.</string>
-    <string name="trans_intro_desc_8">"Los datos de WeChat y el historial de chat podrían no transferirse completamente con Mi Mover. Ve a los ajustes de WeChat y cierra sesión para tener más oportunidades de éxito."</string>
+    <string name="trans_intro_desc_8">"Los datos de WeChat podrían no transferirse completamente con Mi Mover. Vete a los ajustes de WeChat y cierra la sesión para tener más posibilidades."</string>
     <string name="trans_intro_desc_9_method_1_dec">Ve a la Pantalla de Inicio &gt; Herramientas &gt; Comentarios.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Comparte tus comentarios usando la aplicación \"Comentarios\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Envía tus comentarios a miui-mover@xiaomi.com.</string>

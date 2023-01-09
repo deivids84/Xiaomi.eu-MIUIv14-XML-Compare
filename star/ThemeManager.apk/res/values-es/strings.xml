@@ -102,7 +102,7 @@
     <string name="apply_sensor_video_wallpaper_dialog_message">Este fondo se aplicará a las pantallas de bloqueo interior y exterior y a las pantallas de inicio.</string>
     <string name="apply_succeed">Aplicado</string>
     <string name="apply_success_not_enable_aod">Primero active la pantalla Siempre encendida en la Configuración</string>
-    <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre Encendida con los temas en este dispositivo. El resto de componentes de este tema se han aplicado."</string>
+    <string name="apply_success_not_support_aod">"No se puede combinar la pantalla Siempre encendida con los temas del dispositivo. El resto de componentes del tema se han aplicado."</string>
     <string name="apply_theme_with_ringtones">Aplicar tema con tonos</string>
     <string name="apply_wallpaper_after_three_theme">"Estás usando un tema de terceros. Al cambiar el fondo de la pantalla de bloqueo, es posible que el estilo del reloj de la pantalla de bloqueo se restablezca al estilo por defecto. ¿Aplicar?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo, y la pantalla siempre encendida volverá a su configuración anterior. ¿Aplicar?"</string>
@@ -455,7 +455,7 @@
     <string name="incall_show_apply_fail">"No se pudo establecer"</string>
     <string name="incall_show_apply_success">Aplicado</string>
     <string name="incall_show_apply_success_without_ringtone">"Aplicado. Como este vídeo no tiene sonido se utilizará el tono original.
-Para desactivar esto, vete a Ajustes, Sonido y vibración, Perfil de vídeo."</string>
+Para desactivar esto, vete a Ajustes &gt; Sonido y vibración &gt; Perfil de vídeo."</string>
     <string name="incall_show_find_more">Encontrar más</string>
     <string name="incall_show_not_set">No hay videos de perfil</string>
     <string name="incall_show_remove">Eliminar video de perfil</string>
@@ -1420,7 +1420,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="transparency_pref_summary">Elige qué tan transparente quieres que sea tu fondo de pantalla</string>
     <string name="transparency_pref_title">Nivel de opacidad</string>
     <string name="transparent_wallpaper">Fondo transparente</string>
-    <string name="transparent_wallpaper_apply_success">"Establecido. Puedes desactivar esto en Temas &gt; Perfil &gt; Características beta."</string>
+    <string name="transparent_wallpaper_apply_success">"Establecido. Puedes desactivarlo en Temas &gt; Mi cuenta &gt; Laboratorio de temas."</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Siga usando fondos de pantalla transparentes después de reiniciar su dispositivo</string>
     <string name="transparent_wallpaper_auto_start_pref_title">Inicio automático</string>
     <string name="transparent_wallpaper_disable">Desactivado</string>

@@ -84,7 +84,7 @@
     <string name="catch_full_log_action_start">Generar registro</string>
     <string name="catch_full_log_add_original_photo">Añade una imagen original o un vídeo corto</string>
     <string name="catch_full_log_add_photo">Añadir foto</string>
-    <string name="catch_full_log_add_photo_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Si el problema del que estás informando se relaciona con la calidad de imagen de la cámara, añade una foto original como muestra (sin recortar) para ayudar a localizar el problema. ¿Añadir la foto?"</string>
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir a la Pantalla de inicio</string>
     <string name="catch_full_log_dialog_content">"MIUI está generando un registro. Esto podría afectar al rendimiento general de tu dispositivo. Si no puedes reproducir el problema que quieres reportar, vuelve a los registros y pulsa \"Cancelar\"."</string>
@@ -797,7 +797,7 @@ Tamaño: %2$s"</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_must_known">Atención</string>
-    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="user_must_known_content">"No podrás seguir utilizando nuestros servicios si no estás de acuerdo con la nueva versión de nuestro %s. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="user_name_phone_number">Número de teléfono</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
@@ -811,7 +811,7 @@ Tamaño: %2$s"</string>
     <string name="withdraw_consent_failed">"No se pudo retirar el consentimiento"</string>
     <string name="withdraw_consent_failed_hint">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="withdraw_consent_failed_hint_connect_net">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
-    <string name="withdraw_consent_hint">"Si continúa, retirará su consentimiento a la Política de privacidad de %1$s. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar %3$s servicios. ¿Retirar el consentimiento ahora?"</string>
+    <string name="withdraw_consent_hint">"Si continúas, retirarás el consentimiento a la Política de Privacidad de %1$s. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, el retirrar el consentimiento se considerará como una negativa a aceptar los servicios de %3$s. ¿Retirar el consentimiento?"</string>
     <string name="withdrawing">Retirar el consentimiento…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falló la conexion Download Manager, compruebe el estado de Download Manager en la Gestión de aplicaciones.eck the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentando la versión %1$s

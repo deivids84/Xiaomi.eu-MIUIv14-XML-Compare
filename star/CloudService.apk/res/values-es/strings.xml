@@ -661,7 +661,7 @@ Puede que esta información no se envíe con una conexión de red deficiente."</
     <string name="share_sdk_btn_send_share_text">Enviar invitación</string>
     <string name="share_sdk_btn_stop_share_confirm_text">¿Dejar de compartir elementos con esta persona?</string>
     <string name="share_sdk_btn_stop_share_text">Dejar de compartir</string>
-    <string name="share_sdk_btn_undo_invitation_confirm_text">¿Retirar la invitación ahora?</string>
+    <string name="share_sdk_btn_undo_invitation_confirm_text">¿Retirar la invitación?</string>
     <string name="share_sdk_btn_undo_invitation_text">Retirar invitación</string>
     <string name="share_sdk_business_btn_grant_permission_text">Aceptar y continuar</string>
     <string name="share_sdk_business_family_invite_preference_summary">"Comparte la ubicación y controla los dispositivos de los demás"</string>

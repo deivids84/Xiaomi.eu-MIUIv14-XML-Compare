@@ -250,8 +250,8 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
 %2$d. Vea \"Ayuda\" para obtener más información."</string>
     <string name="dialog_scanning_device">Buscando dispositivos cercanos…</string>
     <string name="dialog_scanning_precondition">Activa el Wi-Fi y Bluetooth en tu teléfono para usar la Pantalla inalámbrica.</string>
-    <string name="dialog_scanning_precondition_new_china">Activa los servicios de ubicación, WLAN y Bluetooth para poder emitir. ¿Activar ahora?</string>
-    <string name="dialog_scanning_precondition_new_global">Activar Wi-Fi y servicios de ubicación para poder usar la función. ¿Activar ahora?</string>
+    <string name="dialog_scanning_precondition_new_china">Activa Wi-Fi, Bluetooth y los servicios de ubicación para emitir. ¿Activar ahora?</string>
+    <string name="dialog_scanning_precondition_new_global">Activar Wi-Fi y los servicios de ubicación para emitir. ¿Activar ahora?</string>
     <string name="dialog_select_tv">Seleccionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ayuda</string>
     <string name="disconnect">Detener la emisión</string>
@@ -631,7 +631,7 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="privacy_revoke_confirm_sure">OK</string>
     <string name="privacy_revoke_confirm_title">"No se pueden utilizar los servicios"</string>
     <string name="privacy_revoke_dialog_agree">De acuerdo</string>
-    <string name="privacy_revoke_dialog_message">"Si continúa, retirará su consentimiento a la Política de privacidad de HappyCast. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como HappyCast proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar los servicios de HappyCast. ¿Retirar el consentimiento ahora?"</string>
+    <string name="privacy_revoke_dialog_message">"Si continúas, retirarás el consentimiento a la Política de Privacidad de HappyCast. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como HappyCast proporciona sus servicios en base a la recopilación de la información personal necesaria, el retirar el consentimiento se considerará como una negativa a aceptar los servicios de HappyCast. ¿Retirar el consentimiento?"</string>
     <string name="privacy_revoke_dialog_revoke">Retirar</string>
     <string name="privacy_revoke_dialog_title">Retiro del consentimiento</string>
     <string name="privacy_setting_category_1">Política de privacidad</string>

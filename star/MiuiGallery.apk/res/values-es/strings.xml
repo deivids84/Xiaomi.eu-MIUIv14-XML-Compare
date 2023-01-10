@@ -379,7 +379,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="backup_sync_off_desc">Activa la sincronización con la nube para hacer copias de fotos y vídeos</string>
     <string name="backup_sync_off_title">Sincronización con la nube desactivada</string>
     <string name="backup_with_gprs_dialog_btn">Copia de seguridad</string>
-    <string name="backup_with_gprs_dialog_message">Se requieren %s de datos para copiar elementos. ¿Copiar ahora?</string>
+    <string name="backup_with_gprs_dialog_message">Se usarán %s de datos para la copia de seguridad. ¿Continuar?</string>
     <string name="backup_with_gprs_dialog_title">Copiar usando datos móviles</string>
     <string name="backuped_desc">Lasa fotos y vídeos son copiados en Xiaomi Cloud</string>
     <string name="backuped_title">Copia de seguridad correcta</string>
@@ -741,7 +741,7 @@ Remite este código al supervisor."</string>
     <string name="double_tap_for_hr_preview_200m">Pulsa dos veces, otra vez, para cambiar a la vista previa de 200MP</string>
     <string name="double_tap_to_higher_definition">Pulsa dos veces otra vez para abrir la previsualización en HD</string>
     <string name="download_canceled">Descarga cancelada</string>
-    <string name="download_delete_error_desc">"No se puede restaurar este elemento porque lo eliminó de este dispositivo y de la nube. ¿Eliminar archivo vacío ahora?"</string>
+    <string name="download_delete_error_desc">"No se puede restaurar este elemento porque está eliminado del dispositivo y de la nube. ¿Eliminar el archivo vacío?"</string>
     <string name="download_delete_error_positive">Eliminar</string>
     <string name="download_delete_error_title">Elemento perdido</string>
     <string name="download_error_format">"No se pudo descargar %s"</string>
@@ -1291,7 +1291,7 @@ disponibles"</string>
     <string name="install_media_editor_download_title">Descargando el complemento Editor de Galería…</string>
     <string name="install_media_editor_function_message">Descarga la última versión de Gallery Editor para poder usar \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Para poder editar elementos, primero descargue el último complemento.</string>
-    <string name="install_media_editor_message">Para poder editar elementos, primero descargue el complemento. ¿Descargar ahora?</string>
+    <string name="install_media_editor_message">Para editar elementos, descarga el complemento. ¿Descargar ahora?</string>
     <string name="install_media_editor_title">Descargar complemento</string>
     <string name="internal_storage_device">Almacenamiento interno</string>
     <string name="invalid_invition_url">URL de invitación no válida</string>
@@ -2039,7 +2039,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="photo_editor_miui_beauty_no_face">"No es posible detectar la cara"</string>
     <string name="photo_editor_mosaic">Mosaico</string>
     <string name="photo_editor_navigator_cancel">Cancelar</string>
-    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Descargar %s necesita alrededor de %2$d MB de datos móviles. ¿Descargar ahora?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">La descarga de %s usará %2$d MB de datos móviles. ¿Descargar ahora?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Aviso de consumo de datos</string>
     <string name="photo_editor_navigator_download_title">Cargando…</string>
     <string name="photo_editor_navigator_export">Guardar</string>
@@ -2228,7 +2228,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="privacy_permission_shotcut_detail">Para crear accesos directos en la pantalla de Inicio</string>
     <string name="privacy_permission_storage">Almacenamiento</string>
     <string name="privacy_permission_storage_detail">Para almacenar fotos y videos</string>
-    <string name="privacy_reject_map_detail_new"><Data>\"Su retirada de consentimiento a &lt;a href=\"%1$s\"&gt;Declaración de uso compartido de datos de terceros de Gallery Map&lt;/a&gt; se considerará que se niega a aceptar los servicios de Gallery Map. Aún podrá utilizar otras funciones de la Galería normalmente. ¿Retirar el consentimiento ahora?\"</Data></string>
+    <string name="privacy_reject_map_detail_new"><Data>\"La retirada de consentimiento a la &lt;a href=\"%1$s\"&gt;Declaración de uso compartido de datos de terceros de Gallery Map&lt;/a&gt; se considera como una negativa a aceptar los servicios de Gallery Map. Aún podrás utilizar otras funciones de la Galería normalmente. ¿Retirar el consentimiento?\"</Data></string>
     <string name="privacy_rejected">Retiro del consentimiento</string>
     <string name="privacy_rejected_map">Retirar el consentimiento a la Política de Privacidad del Mapa de la Galería</string>
     <string name="privacy_rejected_map_detail">"Su retiro de consentimiento a la Política de privacidad de Mapa de la Galería se considerará como una negativa a aceptar sus servicios. Otras funciones y servicios básicos de la Galería no se verán afectados. ¿Retirar de todos modos?"</string>

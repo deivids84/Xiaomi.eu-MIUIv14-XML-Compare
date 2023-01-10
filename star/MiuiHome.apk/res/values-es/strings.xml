@@ -422,7 +422,7 @@
     <string name="group_folder">Nueva carpeta</string>
     <string name="group_live_folders">Carpetas</string>
     <string name="group_shortcuts">Accesos directos</string>
-    <string name="guide_install_app_msg">"Esta aplicación no está instalada en el dispositivo. ¿Quieres encontrar e instalar la aplicación ahora?"</string>
+    <string name="guide_install_app_msg">"Esta aplicación no está instalada. ¿Quieres encontrarla e instalarla ahora?"</string>
     <string name="guide_install_app_title">¿Encontrar e instalar aplicación?</string>
     <string name="guide_permission_title">Permisos requeridos</string>
     <string name="guide_privacy_dialog_title">Términos de Servicio</string>

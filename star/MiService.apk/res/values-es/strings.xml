@@ -79,7 +79,7 @@
     <string name="miui_feedback_answer_detail_title">Detalles</string>
     <string name="miui_feedback_edit_action_submit">Enviar</string>
     <string name="miui_feedback_edit_add_original_images">Añadir foto</string>
-    <string name="miui_feedback_edit_add_original_images_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">"Si el problema del que estás informando se relaciona con la calidad de imagen de la cámara, añade una foto original como muestra (sin recortar) para ayudar a localizar el problema. ¿Añadir la foto?"</string>
     <string name="miui_feedback_edit_choose_module">Seleccionar elemento</string>
     <string name="miui_feedback_edit_choose_module_hint">Requerido</string>
     <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
@@ -363,7 +363,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="user_must_known">Atención</string>
-    <string name="user_must_known_content">"No podrá seguir utilizando nuestros servicios a menos que esté de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="user_must_known_content">"No podrás seguir usando nuestros servicios si no estás de acuerdo con la nueva versión de nuestro %s. ¿Acepta la Política de Privacidad actualizada?"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="wednesday">Miércoles</string>

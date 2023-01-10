@@ -770,7 +770,7 @@ Libere al menos %s."</string>
     <string name="trans_calculating_app_sd_description">Datos en la tarjeta SD</string>
     <string name="trans_calculating_media_description">Archivos multimedia</string>
     <string name="trans_calculating_tip">Calculando %s…</string>
-    <string name="trans_cancel_confirm">Transferencia en curso, ¿detener ahora?</string>
+    <string name="trans_cancel_confirm">Transferencia en curso, ¿detenerla?</string>
     <string name="trans_cancel_selection_message">Si sales de Mi Mover, la transferencia en curso será interrumpida. Espera hasta que la transferencia se haya completado.</string>
     <string name="trans_cancel_selection_title">Permanecer en Mi Mover</string>
     <string name="trans_cancelling">Cancelando…</string>

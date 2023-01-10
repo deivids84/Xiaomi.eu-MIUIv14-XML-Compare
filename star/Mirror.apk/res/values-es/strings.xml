@@ -512,7 +512,7 @@ para continuar"</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="worker_authorization_loading">Un momento…</string>
     <string name="worker_authorization_message">Después de conectar, puedes usar el ordenador para administrar elementos en este dispositivo.</string>
-    <string name="worker_authorization_title">¿Conecte ahora?</string>
+    <string name="worker_authorization_title">¿Conectar ahora?</string>
     <string name="worker_authorization_trusted">Siempre conecta</string>
     <string name="worker_authorization_trusted_only_once">Conectar una vez</string>
     <string name="worker_connect_fail_btn_retry">Inténtalo otra vez</string>

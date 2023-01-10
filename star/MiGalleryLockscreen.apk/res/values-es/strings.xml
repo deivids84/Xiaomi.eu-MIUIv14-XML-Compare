@@ -93,7 +93,7 @@
     <string name="am">AM</string>
     <string name="app_name">Carrusel de fondos</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versión</string>
-    <string name="app_self_upgrade_dlg_content">Una nueva version esta disponible. ¿Actualizar ahora?</string>
+    <string name="app_self_upgrade_dlg_content">Hay una versión nueva disponible. ¿Actualizar ahora?</string>
     <string name="app_self_upgrade_dlg_negative_btn">Más tarde</string>
     <string name="app_self_upgrade_dlg_postive_btn">Actualizar ahora</string>
     <string name="app_self_upgrade_dlg_title">Actualización disponible</string>
@@ -687,7 +687,7 @@ mm"</string>
     <string name="privacy_update_quit">Salir</string>
     <string name="privacy_update_summary1">Se actualizó la Política de privacidad de carrusel de fondos de pantalla:</string>
     <string name="privacy_update_summary2">"Lea y acepte la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
-    <string name="privacy_update_summary3">"No podrá seguir usando Wallpaper Carousel a menos que acepte la nueva versión de su &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_update_summary3">"No podrás seguir usando Carousel de Fondos de Pantalla si no aceptas la nueva versión de su &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt;. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_update_title1">Política de privacidad actualizada</string>
     <string name="privacy_update_title2">Atención</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>

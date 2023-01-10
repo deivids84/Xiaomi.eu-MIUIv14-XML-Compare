@@ -314,7 +314,7 @@ Cómo otorgar permiso
 Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Siguiente</string>
     <string name="saf_permission_later">Ahora no</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Para poder guardar grabaciones, desbloquea tu dispositivo primero. ¿Desbloquear ahora?</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Para guardar grabaciones, antes desbloquea el dispositivo. ¿Desbloquear?</string>
     <string name="saf_permission_refused">"No se pueden grabar llamadas debido a la falta de permisos"</string>
     <string name="saf_permission_title">Permisos requeridos</string>
     <string name="saf_permission_use_this_folder">Usar esta carpeta</string>

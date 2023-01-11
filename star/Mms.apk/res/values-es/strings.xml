@@ -463,10 +463,10 @@ añadidos a la lista de bloqueos"</string>
     <string name="leave_group_failed">"No has salido del chat. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="leave_group_success">Has salido del chat</string>
     <string name="leave_mms_tips_context_app">¿Dejar mensajería y abrir la aplicación ahora?</string>
-    <string name="leave_mms_tips_context_app_name">¿Dejar mensajes y abrir \"%s\" ahora?</string>
+    <string name="leave_mms_tips_context_app_name">¿Dejar mensajería y abrir \"%s\" ahora?</string>
     <string name="leave_mms_tips_context_browser">¿Dejar mensajería y abrir el navegador ahora?</string>
     <string name="leave_mms_tips_context_email">¿Dejar la mensajería y abrir el cliente de correo ahora?</string>
-    <string name="leave_mms_tips_context_map">¿Dejar Mensajes y abrir el mapa ahora?</string>
+    <string name="leave_mms_tips_context_map">¿Dejar mensajería y abrir el mapa ahora?</string>
     <string name="loading_all_messages">Un momento…</string>
     <string name="loading_conversations">Un momento…</string>
     <string name="loading_mms">Un momento…</string>
@@ -907,11 +907,11 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="priority_normal">Texto normal</string>
     <string name="privacy_dialog_error_service">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="privacy_dialog_text_policy_link">Política de privacidad</string>
-    <string name="privacy_dialog_tips_revoke" formatted="false">"Si continúa, retirará su consentimiento a la Política de privacidad de %s. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %s proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar %s servicios. ¿Retirar el consentimiento ahora?"</string>
+    <string name="privacy_dialog_tips_revoke" formatted="false">"Si continúas, retirarás el consentimiento a la Política de Privacidad de %s. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como %s proporciona sus servicios en base a la recopilación de la información personal necesaria, retirar el consentimiento a %s se considerará como una negativa a aceptar sus servicios. ¿Retirar el consentimiento?"</string>
     <string name="privacy_dialog_tips_update" formatted="false">"%s Se actualizó la Política de privacidad:
 %s
 Lea y acepte la nueva versión de la Política de privacidad antes de continuar."</string>
-    <string name="privacy_dialog_tips_update_confim" formatted="false">"No podrá seguir usando %s menos que esté de acuerdo con la nueva versión de la Política de privacidad %s ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_dialog_tips_update_confim" formatted="false">"No podrás seguir usando %s a menos que aceptes la nueva versión de la Política de Privacidad de %s. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_dialog_title_revoke_confim">Retiro del consentimiento</string>
     <string name="privacy_dialog_title_update">Política de privacidad actualizada</string>
     <string name="privacy_dialog_title_update_confim">"No se puede usar la aplicación"</string>
@@ -1333,7 +1333,7 @@ Active los datos móviles y vuelva a abrir esta página."</string>
     <string name="small_window_log_text">"La cámara no se puede utilizar en el modo de ventanas múltiples"</string>
     <string name="smart_message_title">Mensajes Inteligentes</string>
     <string name="smart_message_upgrade_title">Actualización de la Política de privacidad de mensajería inteligente</string>
-    <string name="smart_messages_network_allow_message">Mi Message necesita conectarse a Internet para que el servicio funcione con normalidad. ¿Permitirlo ahora?</string>
+    <string name="smart_messages_network_allow_message">Mensajes necesita conexión a Internet para funcionar normalmente. ¿Lo permites?</string>
     <string name="smart_messages_network_allow_title">Se requiere conexión a Internet</string>
     <string name="smart_msg_main_purpose">Mensajes Inteligentes ofrece reconocimiento de identidad del remitente y menús de servicio inteligentes.</string>
     <string name="smart_msg_privacy_policy">Política de Privacidad de Mensajes Inteligentes</string>

@@ -144,7 +144,7 @@ Asegúrate de que el nombre de tu empresa es correcto. Lee y acepta la Política
     <string name="ent_agency_code_invalid">El código empresarial que has introducido es inválido.</string>
     <string name="ent_agree_privacy_policy">"He leído y aceptado la Política de Privacidad"</string>
     <string name="ent_app_verified">Parece que hay aplicaciones de empresa instaladas en tu dispositivo. ¿Activar Modo empresa?</string>
-    <string name="ent_confirm_dialog_content">"No podrá volver al estado actual de su sistema después de activar el modo Empresa. Sin embargo, todos sus datos se almacenarán en este dispositivo. Tendrá que reiniciar su dispositivo para activar el modo Empresa. ¿Activar ahora?"</string>
+    <string name="ent_confirm_dialog_content">"Después de activar el modo Empresa no podrás volver al estado actual del sistema. Sin embargo, todos los datos se almacenarán en el dispositivo. Tendrás que reiniciarlo para activar el modo Empresa. ¿Activar ahora?"</string>
     <string name="ent_disallow_running">La aplicación está bloqueada para funcionar</string>
     <string name="ent_download_install_dialog_content">Debes instalar aplicaciones corporativas para activar el Modo empresa. ¿Instalar ahora?</string>
     <string name="ent_download_install_dialog_title">Descargar aplicaciones corporativas</string>

@@ -372,7 +372,7 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_paytool_error_install">No se pudo instalar el complemento de seguridad móvil %1$s</string>
     <string name="mibi_paytool_error_msp">%1$s falló</string>
     <string name="mibi_paytool_mipay">pago airstar</string>
-    <string name="mibi_paytool_msp_not_installed">No ha instalado el complemento de seguridad móvil %1$s , ¿instalarlo ahora?</string>
+    <string name="mibi_paytool_msp_not_installed">No has instalado el complemento %1$s de seguridad móvil. ¿Instalarlo?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_wechat_return_cancel">Cancelar devolución de WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permite que la cámara use las funciones, en Ajustes.</string>

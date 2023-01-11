@@ -51,7 +51,7 @@
     <string name="beam_outgoing">Transmitiendo…</string>
     <string name="beam_progress">Transmisión entrante…</string>
     <string name="beam_requires_external_storage_permission">Permita que esta aplicación acceda al almacenamiento externo para poder transmitir este archivo.</string>
-    <string name="beam_requires_nfc_enabled">Android Beam requiere NFC. ¿Activar ahora?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam necesita NFC. ¿Activar ahora?</string>
     <string name="beam_tap_to_view">Toca para ver</string>
     <string name="beam_try_again">Vuelve a juntar los dispositivos</string>
     <string name="cancel">Cancelar</string>
@@ -63,7 +63,7 @@
     <string name="connected_peripheral">Conectado a %1$s</string>
     <string name="connecting_peripheral">Conectando a %1$s…</string>
     <string name="content_bluetooth_pair">¿Emparejar \"%1$s\" ahora?</string>
-    <string name="content_connect_network">¿Conectarse a \"%1$s\" ahora?</string>
+    <string name="content_connect_network">¿Conectar a \"%1$s\" ahora?</string>
     <string name="content_create_contact">Crear un contacto para \"%1$s\"?</string>
     <string name="content_dial_number">¿Marcar \"%s\" ahora?</string>
     <string name="content_disable_rw">"Parece que no has interactuado con las etiquetas NFC detectadas durante mucho tiempo. Su dispositivo no leerá ni escribirá etiquetas por ahora. Al desbloquear el dispositivo, se volverá a activar esta función."</string>

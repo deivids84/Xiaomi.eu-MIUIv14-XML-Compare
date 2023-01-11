@@ -1007,7 +1007,7 @@ Remite este código al supervisor."</string>
     <string name="online_switch_message">Apagar servicios online afectará a los servicios VIP y recomendaciones. ¿Apagarlo de todas formas?</string>
     <string name="online_switch_setting">Servicios de contenido online</string>
     <string name="only_pro_can_choose_hd_sound_quality">El audio HD solo está disponible para miembros Gold</string>
-    <string name="open_online_service">Tienes que encender los servicios online para usar esta característica. ¿Encender ahora?</string>
+    <string name="open_online_service">Necesitas activar los servicios en línea para utilizar esta función. ¿Activarlos?</string>
     <string name="open_service">Activar</string>
     <string name="open_settings">Ajustes</string>
     <string name="operation_done_close">Cerrar</string>
@@ -1153,7 +1153,7 @@ Remite este código al supervisor."</string>
     <string name="please_download_first">Debes descargar esta canción antes de poder usarla como tono de llamada</string>
     <string name="please_select_song">Selecciona una canción primero</string>
     <string name="pm">PM</string>
-    <string name="power_save_mode_dialog_msg">El Ahorro de batería está encendido. ¿Comenzar a descargar ahora?</string>
+    <string name="power_save_mode_dialog_msg">Ahorro de batería activado. ¿Comenzar la descarga?</string>
     <string name="pre_watched">Visto</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preset_music_playlist">Lista de reproducción de Mi Música</string>

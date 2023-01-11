@@ -606,7 +606,7 @@
     <string name="permission_intro_phone">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_storage">Para guardar notas y archivos adjuntos</string>
     <string name="permission_microphone_desc">Para grabar notas de voz</string>
-    <string name="permission_network_for_cloud_desc">Para sincronizar notas con la nube necesitas conectarte a internet. Los datos móviles podrían ser usados para sincronizar elementos. ¿Conectar ahora?</string>
+    <string name="permission_network_for_cloud_desc">La sincronización de Notas con la nube necesita conexión a Internet. Puede usar datos móviles para sincronizar elementos. ¿Conectar?</string>
     <string name="permission_phone_state_desc">Para dejar de grabar notas de voz durante las llamadas</string>
     <string name="permission_photos_desc">Para añadir imágenes a las notas</string>
     <string name="permission_photos_desc_pad">Para añadir imágenes a las notas</string>

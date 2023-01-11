@@ -844,10 +844,10 @@ No perderás datos de aplicaciones."</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_please_select_item">Seleccionar elemento</string>
     <string name="auto_task_result_summary_text">Establecer tareas automatizadas para el Ahorro de batería</string>
-    <string name="auto_task_rule_bluetooth">Puede abrir %2$s automáticamente cuando usa Bluetooth con %1$s. ¿Crear esta tarea ahora?</string>
-    <string name="auto_task_rule_map_location">Puede activar los servicios de ubicación automáticamente mientras usa mapas. ¿Crear esta tarea ahora?</string>
-    <string name="auto_task_rule_read_mode">Puede activar el modo de lectura automáticamente mientras usa aplicaciones de lectura. ¿Crear esta tarea ahora?</string>
-    <string name="auto_task_rule_zen_mode">Puede activar el modo DND durante las siestas entre las 12:00 y las 14:00 de forma automática. ¿Crear esta tarea ahora?</string>
+    <string name="auto_task_rule_bluetooth">Puedes abrir %2$s automáticamente cuando uses Bluetooth con %1$s. ¿Crear esta tarea ahora?</string>
+    <string name="auto_task_rule_map_location">Puedes activar los servicios de ubicación automáticamente mientras usas mapas. ¿Crear esta tarea ahora?</string>
+    <string name="auto_task_rule_read_mode">Puedes activar el modo lectura automáticamente mientras usas aplicaciones de lectura. ¿Crear esta tarea ahora?</string>
+    <string name="auto_task_rule_zen_mode">Puedes activar el modo No molestar automáticamente en las siestas entre las 12:00 y las 14:00. ¿Crear esta tarea ahora?</string>
     <string name="auto_task_select_address_company">Trabajo</string>
     <string name="auto_task_select_address_home">Hogar</string>
     <string name="auto_task_select_address_leave">Abandonar</string>
@@ -1712,7 +1712,7 @@ voluntario"</string>
     <string name="ew_settings_push_tips">Las advertencias sobre áreas fuera de su ubicación vendrán en forma de notificaciones únicamente.</string>
     <string name="ew_settings_set_level_summary">Recibe avisos sobre terremotos cuando su intensidad sea %s o superior</string>
     <string name="ew_settings_set_level_title">Establecer umbral de advertencia de terremoto</string>
-    <string name="ew_sleep_mode_alert_content">"Para asegurarte de que puede recibir alertas tempranas de terremotos, MIUI desactivará el modo de suspensión. Las aplicaciones en segundo plano, NFC, Bluetooth, GPS, datos móviles y Wi-Fi funcionarán normalmente incluso cuando esté durmiendo. ¿Activar la advertencia de terremoto ahora?"</string>
+    <string name="ew_sleep_mode_alert_content">"Para asegurar que puedes recibir alertas tempranas de terremotos, MIUI desactivará el modo de suspensión. Las aplicaciones en segundo plano, NFC, Bluetooth, GPS, datos móviles y Wi-Fi funcionarán normalmente incluso cuando estés durmiendo. ¿Activar la advertencia de terremoto?"</string>
     <string name="ew_sleep_mode_alert_title">Alerta de terremoto</string>
     <string name="ew_subscribe_area_title">Administrar áreas agregadas</string>
     <string name="ew_subscribe_city">Áreas agregadas</string>
@@ -1735,7 +1735,7 @@ voluntario"</string>
     <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;El Limpiador puede liberar &lt;font color=#0099ff&gt;%s&lt;/font&gt; de espacio de almacenamiento. ¿Limpiar ahora?&lt;/Data&gt;</string>
     <string name="exit_dialog_garbage_clean_positive_button">Limpiar</string>
     <string name="exit_dialog_garbage_clean_title">Libera espacio de almacenamiento</string>
-    <string name="exit_dialog_homepage_optimise_message">"El rendimiento de tu dispositivo está por debajo de 80 puntos. ¿Optimizar ahora?"</string>
+    <string name="exit_dialog_homepage_optimise_message">"El rendimiento del dispositivo es inferior a 80 puntos. ¿Optimizarlo ahora?"</string>
     <string name="exit_dialog_release_memory_positive_button">Cerrar</string>
     <string name="exit_dialog_release_memory_title">&lt;Data&gt;Acelera tu dispositivo en un &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="exit_dialog_release_memory_title_new"><Data>Dispositivo acelerado un &lt;font color=#0099ff&gt;%s&lt;/font&gt;</Data></string>
@@ -1743,7 +1743,7 @@ voluntario"</string>
     <string name="exit_dialog_release_storage_message_new">Más de %s espacio de almacenamiento en su dispositivo está ocupado. Libere espacio desinstalando las aplicaciones que nunca usa.</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espacio</string>
     <string name="exit_dialog_release_storage_title">Liberar espacio</string>
-    <string name="exit_dialog_scan_message">"El rendimiento de tu dispositivo está por debajo de 75 puntos. ¿Optimizar ahora?"</string>
+    <string name="exit_dialog_scan_message">"El rendimiento del dispositivo es inferior a 75 puntos. ¿Optimizarlo ahora?"</string>
     <string name="exit_dialog_scan_positive_button">Optimizar</string>
     <string name="exit_dialog_scan_title">Optimizar rendimiento</string>
     <string name="exo_controls_cc_disabled_description">Habilitar subtítulos</string>
@@ -2011,7 +2011,7 @@ voluntario"</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
     <string name="gamebooster_lowbattery_notification_summary">Carga tu dispositivo antes de que se apague.</string>
     <string name="gamebooster_main_activity_back">Atrás</string>
-    <string name="gamebooster_network_dialog_cn_message">"No puede usar Game Turbo cuando Seguridad no tiene permiso para conectarse a Internet y acceder a su ubicación. ¿Permitir ahora?"</string>
+    <string name="gamebooster_network_dialog_cn_message">"No puedes usar Game Turbo si Seguridad no tiene permisos de conexión a Internet y acceso a la ubicación. ¿Permitir ahora?"</string>
     <string name="gamebooster_network_dialog_message">¿Permitir a la Seguridad conectarse a la red para poder usar todas las funciones de Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Algunas funciones no están disponibles"</string>
     <string name="gamebooster_push_expiring_soon_button">Renovar</string>
@@ -2294,7 +2294,7 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_signed_title">Registrado este mes</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s restantes</string>
     <string name="gb_sound_audition">Probar</string>
-    <string name="gb_storage_game_dialog_message">"Puede almacenar juegos en Game Turbo automáticamente. No aparecerán en la pantalla de inicio si activa esta función. ¿Activar ahora?"</string>
+    <string name="gb_storage_game_dialog_message">"Puedes almacenar juegos en Game Turbo automáticamente. No aparecerán en la pantalla de inicio si activas esta función. ¿Activarla?"</string>
     <string name="gb_storage_game_uninstall">Desinstalar juegos</string>
     <string name="gb_storage_summary">"No mostrar los juegos que se añadieron a la caja de juegos en la Pantalla de inicio"</string>
     <string name="gb_storage_title">Eliminar juegos añadidos de la Pantalla de inicio</string>
@@ -3987,7 +3987,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="privacy_apps_close">Cerrar</string>
     <string name="privacy_apps_enable_summary">Mueve aplicaciones a una carpeta oculta y elimina sus accesos directos en la pantalla de Inicio</string>
     <string name="privacy_apps_go_to_use">Iniciar</string>
-    <string name="privacy_apps_manager_dialog_message">"El icono de esta aplicación no se mostrará en la Pantalla de inicio después de ocultar esta aplicación. ¿Ocultar esta aplicación ahora?"</string>
+    <string name="privacy_apps_manager_dialog_message">"El icono de la aplicación no se mostrará en la pantalla de inicio después de ocultarla. ¿Ocultar esta aplicación?"</string>
     <string name="privacy_apps_next_stup">Siguiente</string>
     <string name="privacy_apps_password_enable_summay">Proteja los archivos privados con el bloqueo de aplicaciones</string>
     <string name="privacy_apps_password_enable_title">Bloqueo de aplicación</string>
@@ -4122,9 +4122,9 @@ Durante la calibración, MIUI enviará un mensaje de texto al operador para reci
     <string name="privacy_recommend_title">Recomendaciones personalizadas</string>
     <string name="privacy_revoke_category_title">Retirada del consentimiento y cancelación del servicio</string>
     <string name="privacy_revoke_dialog_content">Al desactivar el interruptor, retiras tu consentimiento a la Política de Privacidad de Seguridad. Dejaremos de recopilar tu información personal. La información personal ya recopilada y retenida se eliminará dentro de un período específico según lo requieran las leyes aplicables. Seguridad necesita recopilar la información personal necesaria para brindarte los servicios básicos. Tu retirada del consentimiento a su Política de Privacidad se considerará como una negativa a aceptar sus servicios en función de la información personal recopilada.</string>
-    <string name="privacy_revoke_dialog_content_cn">"Si continúa, retirará su consentimiento a la Política de privacidad de %1$s. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario.
-Dado que %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, su retiro de consentimiento se considerará como negarse a aceptar %3$s servicios.
-Retirar el consentimiento ahora?"</string>
+    <string name="privacy_revoke_dialog_content_cn">"Si continúas, retirarás el consentimiento a la Política de Privacidad de %1$s. Dejaremos de recopilar información personal. La ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario.
+Como %2$s proporciona sus servicios en base a la recopilación de la información personal necesaria, retirar el consentimiento de %3$s se considerará como una negativa a aceptar sus servicios.
+¿Retirar el consentimiento?"</string>
     <string name="privacy_revoke_dialog_negetive_text">Cancelar</string>
     <string name="privacy_revoke_dialog_positive_text">Retirar</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Retirar (%ds)</string>
@@ -4132,7 +4132,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="privacy_revoke_dialog_title_cn">Atención</string>
     <string name="privacy_revoke_failed_dialog_content">Ocurrió un error en el servidor. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="privacy_revoke_failed_dialog_title">"No se pudo retirar el consentimiento"</string>
-    <string name="privacy_revoke_tip_dialog_content"><Data>\"No podrá seguir usando %1$s menos que acepte la nueva versión de su Política de privacidad. ¿Acepta la %2$s &lt;a href=\"%3$s\"&gt;Política de privacidad&lt;/a&gt; actualizada ahora?\"</Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>\"No podrás seguir usando %1$s menos que aceptes la nueva versión de su Política de Privacidad. ¿Aceptas la %2$s &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt; actualizada?\"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">"No puedo usar la aplicación"</string>
     <string name="privacy_revoke_title">Retiro del consentimiento</string>
     <string name="privacy_risk_app">Aplicaciones peligrosas</string>
@@ -4570,7 +4570,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sim_lock_start_confirm_password_title">Confirmar bloqueo de pantalla</string>
     <string name="sim_lock_start_keyguard_dialog_cancel">Cancelar</string>
     <string name="sim_lock_start_keyguard_dialog_enable">Fijar</string>
-    <string name="sim_lock_start_keyguard_dialog_message">Establecer un bloqueo de pantalla antes de encender la seguridad de la SIM. ¿Establecer ahora?</string>
+    <string name="sim_lock_start_keyguard_dialog_message">Establecer un bloqueo de pantalla antes de activar la seguridad de la SIM. ¿Establecerlo ahora?</string>
     <string name="sim_lock_start_keyguard_dialog_title">Fijar bloqueo de pantalla</string>
     <string name="sim_lock_start_lock_summary">Confirmar PIN manualmente</string>
     <string name="sim_lock_start_lock_superscript">En</string>

@@ -712,7 +712,7 @@ Remite este código al supervisor."</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="privacy_policy_reject_confirm_msg">"No podrás seguir usando la cuenta Xiaomi a menos que aceptes la nueva versión de la Política de privacidad. ¿Estás de acuerdo con la Política de privacidad&lt;/a&gt; actualizada &lt;a href=%1$s&gt;ahora?"</string>
+    <string name="privacy_policy_reject_confirm_msg">"No podrás seguir usando la cuenta Xiaomi a menos que aceptes la nueva versión de la Política de Privacidad. ¿Aceptas la Política de Privacidad&lt;/a&gt; actualizada&lt;a href=%1$s&gt;?"</string>
     <string name="privacy_policy_reject_confirm_title">"No se puede usar la cuenta Xiaomi"</string>
     <string name="privacy_policy_update_msg">Se actualizó la Política de privacidad de la cuenta Xiaomi:&lt;br/&gt;%1$s&lt;br/&gt;Lee y acepta la nueva versión de la &lt;a href=%2$s&gt;&lt;u&gt;Política de privacidad&lt;/u&gt;&lt;/a&gt; antes de continuar.</string>
     <string name="privacy_policy_update_title">Política de privacidad actualizada</string>

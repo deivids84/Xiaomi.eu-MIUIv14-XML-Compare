@@ -68,7 +68,7 @@
     <string name="already_newest_version">Estás usando la última versión de MIUI</string>
     <string name="am">AM</string>
     <string name="anonymous_resource_link_error">"No se pudo añadir"</string>
-    <string name="anonymous_resource_link_hint">"Algunos elementos no se agregan a su cuenta. ¿Añadir ahora?"</string>
+    <string name="anonymous_resource_link_hint">"Algunos elementos no se han añadido a tu cuenta. ¿Añadir ahora?"</string>
     <string name="anonymous_resource_link_now">Añadir</string>
     <string name="anonymous_resource_link_retry">Ha ocurrido un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="anonymous_resource_link_retry_cancel">Cancelar</string>
@@ -511,7 +511,7 @@ Para desactivar esto, vete a Ajustes &gt; Sonido y vibración &gt; Perfil de ví
     <string name="loading_resource_detail_info">Un momento…</string>
     <string name="local_mode">Modo sin conexión</string>
     <string name="local_mode_close">¿Desactivar modo sin conexión?</string>
-    <string name="local_mode_close_desc">Desactive el modo sin conexión si desea utilizar los servicios en línea. ¿Desactivar ahora?</string>
+    <string name="local_mode_close_desc">Desactiva el modo sin conexión para usar los servicios en línea. ¿Desactivar ahora?</string>
     <string name="local_mode_desc">"El modo sin conexión solo usa contenido local y no usa servicios en línea"</string>
     <string name="local_mode_hint">"Estás usando el modo sin conexión.
 Toca para desactivar."</string>
@@ -842,7 +842,7 @@ Todos los elementos de personalización que se utilizan actualmente en este disp
 Siempre que utilice los elementos almacenados en este dispositivo para personalizarlos (por ejemplo, configurarlos como fondos de pantalla o tonos de llamada), le pediremos que permita que esta aplicación acceda al almacenamiento del dispositivo."</string>
     <string name="privacy_permission_management_description">Detalles de permisos</string>
     <string name="privacy_permission_related_content">Permisos</string>
-    <string name="privacy_permit_privacy_policy_content">"No podrá seguir usando nuestro a menos que esté de acuerdo con la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt;. ¿Acepta la Política de privacidad actualizada ahora?"</string>
+    <string name="privacy_permit_privacy_policy_content">"No podrás seguir usando nuestro sistema a menos que aceptes la nueva versión de &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt;. ¿Aceptas la Política de Privacidad actualizada?"</string>
     <string name="privacy_phone_important_prompt_content">"Parece que aún no ha aceptado nuestro Acuerdo de usuario y nuestra Política de privacidad. Sin embargo, las funciones y servicios básicos de Temas siguen estando disponibles.
 Siempre que utilice los elementos almacenados en este dispositivo para personalizarlos (por ejemplo, configurarlos como fondos de pantalla o tonos de llamada), le pediremos que permita que esta aplicación acceda al almacenamiento del dispositivo."</string>
     <string name="privacy_phone_logoff_service_content">Cancelar servicios de Temas</string>

@@ -474,8 +474,8 @@
     <string name="cfnry_time_twenty_sec">%d seg</string>
     <string name="cfnry_title">Desviar si no hay respuesta</string>
     <string name="cfu_title">Desviar siempre las llamadas</string>
-    <string name="change_data_preference_4g_only_prompt">Parece que tienes una tarjeta SIM que solo soporta 4G. Para asegurarte de que funciona con normalidad establécela por defecto para datos móviles. ¿Establecer ahora?</string>
-    <string name="change_data_sim_4g_only_prompt">"La tarjeta SIM %1$s solo soporta 4G. Cuando la SIM %2$s no sea tu SIM por defecto para datos móviles, la tarjeta SIM podría no funcionar con normalidad. ¿Cambiar ahora?"</string>
+    <string name="change_data_preference_4g_only_prompt">Parece que tienes una tarjeta SIM que solo soporta 4G. Para comprobar que funciona normalmente establécela por defecto para datos móviles. ¿Establecer?</string>
+    <string name="change_data_sim_4g_only_prompt">"La SIM %1$s solo soporta 4G. Cuando la SIM %2$s no sea la SIM por defecto para datos móviles, podría no funcionar normalmente. ¿Cambiar ahora?"</string>
     <string name="change_default_data_card">Datos móviles SIM predeterminados</string>
     <string name="change_default_data_card_summary">Parece que las tarjetas SIM se cambiaron. ¿Establezcer esta tarjeta SIM como predeterminada para su conexión de datos móviles?</string>
     <string name="change_num">Actualizar</string>
@@ -952,7 +952,7 @@ esperando para el código de desbloqueo"</string>
     <string name="kr_emergency_119">Cuerpo de bomberos, ambulancia (119)</string>
     <string name="kr_emergency_122">Emergencia guardacostas (122)</string>
     <string name="kr_emergency_125">Informe de contrabando (125)</string>
-    <string name="kr_emergency_message">Confirme para marcar %s. ¿Marcar ahora?</string>
+    <string name="kr_emergency_message">Confirma para marcar %s. ¿Marcar ahora?</string>
     <string name="kr_emergency_with_number">Ingrese el número de teléfono para marcar</string>
     <string name="kt_lte_emm_cause_19_22">Registrando red… Espera un par de minutos e inténtalo otra vez.</string>
     <string name="kt_lte_emm_cause_3">"No se pudo verificar el usuario. Apaga el dispositivo, vuelve a encenderlo e inténtalo otra vez. Si continúas con problemas, visita un centro de atención al cliente."</string>

@@ -2610,12 +2610,12 @@ La transcodificación puede llevar algo de tiempo cuando utiliza esta función p
     <string name="share_album_risk_control_tip_off_cate_political">Político</string>
     <string name="share_album_risk_control_tip_off_cate_sex">Sexual</string>
     <string name="share_album_risk_control_tip_off_cate_violence">Violento</string>
-    <string name="share_album_risk_control_tip_off_dialog_message">Si denuncias contenido de álbumes compartidos, solo la persona que cargó este contenido podrá verlo. ¿Reportar ahora?</string>
-    <string name="share_album_risk_control_tip_off_dialog_title">Denunciar</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Si informas sobre el contenido de álbumes compartidos, solo podrá verlo quién cargó ese contenido. ¿Informar?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Informar</string>
     <string name="share_album_risk_control_tip_off_select">Selecciona el tipo de contenido</string>
-    <string name="share_album_risk_control_tip_off_success">Denunciado correctamente</string>
-    <string name="share_album_risk_control_too_many_albums">"No se pueden crear más álbumes compartidos"</string>
-    <string name="share_album_risk_control_too_many_sharers_accept">"No se pueden agregar más miembros"</string>
+    <string name="share_album_risk_control_tip_off_success">Informado</string>
+    <string name="share_album_risk_control_too_many_albums">"No se puede crear más álbumes compartidos"</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">"No se puede añadir más miembros"</string>
     <string name="share_album_risk_control_too_many_sharers_invite">"No se puede invitar a más miembros"</string>
     <string name="share_album_sync_textline_action_continue">Reanudar</string>
     <string name="share_album_sync_textline_action_login">Iniciar sesión</string>

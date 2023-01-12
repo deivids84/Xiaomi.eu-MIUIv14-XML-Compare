@@ -141,8 +141,8 @@
         <item quantity="one">L\'alarma sonarà %2$s vegada (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Retardar %d mins</item>
-        <item quantity="one">Retardar %d min</item>
+        <item quantity="other">Postposar %d mins</item>
+        <item quantity="one">Postposar %d min</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">El cronòmetre s’ha estat executant durant %s dies. Toca per veure-ho.</item>

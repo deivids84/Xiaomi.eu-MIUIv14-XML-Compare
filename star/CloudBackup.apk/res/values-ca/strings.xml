@@ -137,11 +137,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_back_up_task">Còpia en curs…</string>
     <string name="cloud_backup">Còpies de seguretat al núvol</string>
     <string name="cloud_backup_derail_size_summary">Mida: %s</string>
-    <string name="cloud_backup_detail_app_data">Totes les dades de WeChat</string>
+    <string name="cloud_backup_detail_app_data">Feu una còpia de seguretat de les dades de WeChat</string>
     <string name="cloud_backup_detail_app_data_summary">Inclou historials i fitxers de xat</string>
     <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
-    <string name="cloud_backup_detail_frequence_every_7_day">Cada %d dies</string>
-    <string name="cloud_backup_detail_frequence_every_day">Cada dia</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Fes una còpia de seguretat cada %d dies</string>
+    <string name="cloud_backup_detail_frequence_every_day">Fes una còpia de seguretat cada dia</string>
     <string name="cloud_backup_detail_header_msg">"Ara pots fer una còpia de seguretat de la disposició de la pantalla d'inici, les aplicacions, la configuració del sistema i les dades de WeChat del teu dispositiu. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toca per obtenir més informació.&lt;/a&gt;&lt;/font&gt;"</string>
     <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Feu una còpia de seguretat del disseny de la pantalla d'inici, de la llista d'aplicacions i de la configuració del sistema del vostre dispositiu. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toqueu per obtenir més informació&lt;/a&gt;&lt;/font&gt;."</string>
     <string name="cloud_backup_detail_local_backup_size">Mida de la còpia de seguretat estimada: %s</string>

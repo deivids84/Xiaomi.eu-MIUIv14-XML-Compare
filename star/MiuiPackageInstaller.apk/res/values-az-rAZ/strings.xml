@@ -240,7 +240,6 @@
     <string name="miui_install_fail_reason">Səbəb</string>
     <string name="miui_install_failed_reason">"Bu tətbiq, cihazınızla uyğunlaşmır"</string>
     <string name="miui_install_failed_suggestion">Bu tətbiqin uyğun bir versiyasını istifadə edin</string>
-    <string name="miui_install_source_unkown">Bilinmir</string>
     <string name="miui_install_success">Uğurla quraşdırıldı</string>
     <string name="miui_no_perms">Heç bir icazə tələb olunmur</string>
     <string name="miui_not_uninstall_system_app">"Sistem tətbiqləri silinə bilmir"</string>
@@ -352,7 +351,6 @@
     <string name="net_work_error_retry">Yenidən sına</string>
     <string name="night">Axşam</string>
     <string name="no_check_risk">Heç bir risk aşkarlanmadı</string>
-    <string name="no_install_permission_tip">"%1$s - quraşdırma icazəsi yoxdur"</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="ok">Oldu</string>

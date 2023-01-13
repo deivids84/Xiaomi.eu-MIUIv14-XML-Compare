@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Bağlantı qurmuş cihazlar</item>
+        <item>Bağlantı və paylaşım/Bağlantı qurmuş cihazlar</item>
+        <item>MIUI+, MIUIPLUS, handoff, multiscreen, interconnectivity, screen mirroring, mouse and keyboard, screen extension, app handoff, Mi Smart Hub, mirror, extension, multitask, share, mouse, keyboard, connect devices</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Bu özəlliyi istifadə etməzdən əvvəl mobil cihazınızdakı portativ hotspotu, Mi Share-i və ya yayımı söndürün.
+2. Mobil cihazınızda və kompüterinizdə Wi-Fi-ı söndürün.
+3. Mobil cihazınızın kompüterinizə yaxın olduğuna əmin olun. Fərqli yerlərdə olsalar, bağlantı qura bilməyəcəksiniz."</item>
+        <item>Kompüteriniz, daha əvvəl bağlantı qurulmuş yaxınlıqdakı mobil cihazları aşkarlamaq üçün Bluetooth-u istifadə edir. Mobil cihazınızda Bluetooth-un açıq olub-olmadığını yoxlayın.</item>
+        <item>"Mobil cihazlar, ekran kilidli olduqda verilənləri kompüterlərlə sinxronlaşdıra bilmir. İlkin olaraq, bu tətbiq, mobil cihazınız bir kompüterə bağlananda ekranın kilidlənməsinə icazə vermir. Bunu Tənzimləmələrdən dəyişdirə bilərsiniz."</item>
+        <item>"1. Uyğun mobil cihazlar: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. QR kodu skan etdikdən sonra rəsmi veb saytımıza yönləndirilmisinizsə, cihazınız hələ dəstəklənmir.
+2. Uyğun kompüterlər: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. \"MIUI+ Beta\"nı kompüterinizə buradan endirin: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"QR kod ilə bağlantı qurula bilmir?"</item>
+        <item>"Kompüterinizlə mobil cihazları tapa bilmirsiniz?"</item>
+        <item>"Mobil cihazınızı kilidləyə bilmirsiniz?"</item>
+        <item>Uyğunluq</item>
+    </string-array>
+</resources>

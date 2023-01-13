@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Accedir a la Galeria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi als elements de la vostra Galeria</string>
     <string name="HIPS_Perm_AudioRecorder">Enregistra àudio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">enregistreu l\'àudio</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
     <string name="HIPS_Perm_AutoStart_Desc">inici automàtic</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Canvia la connectivitat Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">editant contactes</string>
     <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers en l\'emmagatzematge intern</string>
     <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">enregistreu l\'àudio</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">enregistrar àudio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Iniciar aplicacions en segon pla automàticament</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Accedir als esdeveniments del calendari</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Accedir i editar l\'historial de trucades</string>
@@ -47,7 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (basada en el GPS i en la xarxa)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Connecteu-vos a dispositius propers</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Descobriu i connecteu-vos als dispositius propers</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobriu i connecteu-vos a dispositius propers mitjançant Bluetooth i WLAN</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobrir i connectar-se a dispositius propers mitjançant Bluetooth i Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Obtén informació del dispositiu</string>
     <string name="HIPS_Perm_PhoneID_Desc">accedir al número de telèfon, IMEI i IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Accès al número de telèfon i a l\'estat del dispositiu</string>

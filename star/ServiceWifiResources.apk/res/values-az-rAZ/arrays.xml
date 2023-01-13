@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_oemPrivilegedWifiAdminPackages"/>
+    <array name="config_wifiBackgroundScanThrottleExceptionList"/>
+    <integer-array name="">
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+    </integer-array>
+    <integer-array name="config_wifiConnectedScanType">
+        <item>2</item>
+    </integer-array>
+    <integer-array name="config_wifiDisconnectedScanIntervalScheduleSec">
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="config_wifiDisconnectedScanType">
+        <item>2</item>
+    </integer-array>
+    <array name="config_wifiExcludedFromUserApprovalForD2dInterfacePriority"/>
+    <array name="config_wifiForceDisableMacRandomizationSsidList"/>
+    <array name="config_wifiForegroundScanThrottleExceptionList"/>
+    <array name="config_wifiInterfacePriorityTreatAsForegroundList"/>
+    <integer-array name="config_wifiRssiLevelThresholds">
+        <item>-88</item>
+        <item>-77</item>
+        <item>-66</item>
+        <item>-55</item>
+    </integer-array>
+    <array name="config_wifiSingleSavedNetworkConnectedScanIntervalScheduleSec"/>
+    <array name="config_wifiSingleSavedNetworkConnectedScanType"/>
+    <array name="config_wifi_fatal_firmware_alert_error_code_list"/>
+    <array name="config_wifi_non_persistent_randomization_ssid_allowlist"/>
+    <array name="config_wifi_non_persistent_randomization_ssid_blocklist"/>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : 16384 xətasına görə sizi Verizon Wi-Fi Access-ə bağlayarkən bir problem baş verdi.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : 16385 xətasına görə sizi Verizon Wi-Fi Access-ə bağlayarkən bir problem baş verdi.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
+        <item>:::1839:::</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon əhatə dairəsinin xaricində Verizon Wi-Fi Access-ə bağlana bilməzsiniz. </item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item> </item>
+    </string-array>
+    <string-array name="">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item>  </item>
+    </string-array>
+    <string-array name="">
+        <item> </item>
+    </string-array>
+    <string-array name="">
+        <item/>
+    </string-array>
+</resources>

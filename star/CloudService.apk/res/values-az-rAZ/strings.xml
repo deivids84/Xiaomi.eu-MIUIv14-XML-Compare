@@ -60,8 +60,12 @@
     <string name="cloud_find_device_off">Bağla</string>
     <string name="cloud_find_device_on">Aç</string>
     <string name="cloud_lab_title">Laboratoriya</string>
+    <string name="cloud_manage_storage_text">Bulud anbar sahəsini idarə et</string>
     <string name="cloud_service_open_authorization">"Xiaomi Cloud xidmətlərinə xoş gəldiniz! Xiaomi Cloud-u qeydləri, fotoları və videoları, səsyazmaları və sistem tətbiqlərindən digər elementləri bağlantı qurulmuş bütün cihazlardan sinxronlaşdırmaq üçün istifadə edə bilərsiniz. Əsas ekran düzüm nüsxələri də Xiaomi Cloud-da saxlanılacaq. Bütün sinxronlaşdırılmış elementlərə i.mi.com-da baxa bilərsiniz."</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Anbar demək olar ki, dolub. Fotolar sinxronlaşdırılmaya bilər.</string>
+    <string name="cloud_storage_common_functions_text">Tez-tez istifadə edilən</string>
     <string name="cloud_storage_default_title">Cloud anbarı</string>
+    <string name="cloud_storage_full_upgrade_default_text">"Yetərsiz anbar. Fotolar sinxronlaşdırıla bilmədi."</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Ailə</string>
@@ -70,6 +74,10 @@
     <string name="cloud_storage_loading_data">Bir saniyə…</string>
     <string name="cloud_storage_manage_title">Anbarı idarə et</string>
     <string name="cloud_storage_no_data">Cloud-da heç bir element yoxdur</string>
+    <string name="cloud_storage_sufficient_text">%d TB-a qədər anbar sahəsi əldə etmək üçün yüksəldin</string>
+    <string name="cloud_storage_upgrade_text">Yüksəlt</string>
+    <string name="cloud_storage_upgrade_text_now">Yüksəlt</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Ödənişsiz yüksəldin</string>
     <string name="confirm_save">Saxla</string>
     <string name="connect_network">Wi-Fi-a bağlanın və ya SIM kart taxın</string>
     <string name="connect_network_china">Wi-Fi-a bağlanın və ya SIM kart taxın</string>
@@ -79,6 +87,7 @@
     <string name="copy">Kopyala</string>
     <string name="cta_notification_content_text">%s tətbiqinin elementləri bərpa edə bilmək üçün internetə bağlanmasına icazə verin</string>
     <string name="cta_notification_content_title">"Elementlər buradan bərpa edilə bilmir: %s"</string>
+    <string name="customize_notification_btn_text">Yüksəlt</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Bu hesab başqa bir cihazda da istifadə edilir. Çoxlu tətbiqlərdəki (%1$s və %2$s daxil olmaqla) elementlər, bu cihazdakı elementlərlə birləşdirilsin?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Bu hesab başqa bir cihazda da istifadə edilir. %s tətbiqindən olan elementlər, bu cihazdakı elementlərlə birləşdirilsin?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Bu hesab başqa bir cihazda da istifadə edilir. %1$s və %2$s tətbiqindən olan elementlər, bu cihazdakı elementlərlə birləşdirilsin?</string>
@@ -92,6 +101,7 @@
     <string name="data_merge_dialog_title">Elementləri birləşdir</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="default_noti_quota_full_title">Bulud anbarı dolub</string>
     <string name="detect_sim_card">SIM kartı axtar</string>
     <string name="device_activation_card_cannot_get_yet">"Məlumat alına bilmədi. 3-5 gün ərzində yenidən sınayın."</string>
     <string name="device_activation_card_description">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşdirmə vəziyyətini yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
@@ -530,11 +540,12 @@
     <string name="noti_quota_button_text">Yüksəlt</string>
     <string name="noti_quota_full_sum">Elementləri sinxronlaşdırmağa davam etmək üçün anbar planınızı yüksəldin.</string>
     <string name="noti_quota_full_sum_without_button">Elementləri sinxronlaşdırmağa davam etmək üçün daha çox anbar sahəsi alın.</string>
-    <string name="noti_quota_full_title">Cloud anbar sahəsi dolub</string>
+    <string name="noti_quota_full_title">Bulud anbarı &lt;font color=#F22424&gt;dolub&lt;/font&gt;</string>
     <string name="noti_quota_full_title_without_button">Cloud anbar sahəsi dolub</string>
     <string name="noti_quota_low_sum">Elementləri sinxronlaşdırmağa davam etmək üçün anbar planınızı yüksəldin.</string>
     <string name="noti_quota_low_sum_without_button">Elementləri sinxronlaşdırmağa davam etmək üçün daha çox anbar sahəsi alın.</string>
     <string name="noti_quota_low_title">Yetərsiz cloud anbar sahəsi</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424&gt;Qalan bulud anbar sahəsi &lt;xliff:g id=remaining_storage_space example=0.5&gt;%s&lt;/xliff:g&gt; GB-dan&lt;/font&gt; azdır</string>
     <string name="noti_quota_low_title_without_button">Yetərsiz cloud anbar sahəsi</string>
     <string name="notification_sync_fail_title">"Parollar sinxronlaşdırıla bilmədi"</string>
     <string name="notification_update_key_text">Parol menecerinin parolu dəyişdirildi. Yeni parolu təsdiqləyin.</string>
@@ -598,7 +609,7 @@
     <string name="privacy_runtime_perm_call_log_title">Zəng səsyazmalarına müraciət et və onlara düzəliş et</string>
     <string name="privacy_runtime_perm_contacts_desc">Kontaktları sinxronlaşdırmaq üçün</string>
     <string name="privacy_runtime_perm_contacts_title">Kontaktlara müraciət et və onlara düzəliş et</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Kontakt profil fotolarını və mesaj qoşmalarını sinxronlaşdırmaq üçün</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Kontakt profil fotolarını sinxronlaşdırmaq üçün</string>
     <string name="privacy_runtime_perm_external_storage_title">Anbara müraciət</string>
     <string name="privacy_runtime_perm_phone_state_desc">Telefon nömrəsinə və cihazın vəziyyətinə müraciət etmək üçün</string>
     <string name="privacy_runtime_perm_phone_state_title">Cihaz məlumatlarına müraciət</string>

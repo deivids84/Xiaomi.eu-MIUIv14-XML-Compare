@@ -147,6 +147,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>

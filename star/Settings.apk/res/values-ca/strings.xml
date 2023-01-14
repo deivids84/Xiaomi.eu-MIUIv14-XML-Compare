@@ -4875,7 +4875,6 @@ Connecta almenys 4 punts."</string>
     <string name="low_storage_summary">Queda poc espai: %1$s utilitzat; %2$s lliures</string>
     <string name="macaddr_label">Adreça MAC:</string>
     <string name="magic_list_empty_text_pad">Ara no hi ha cap aplicació compatible amb aquesta funció</string>
-    <string name="magic_window_name_pad">Optimització de la vista horitzontal</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 

@@ -36,6 +36,10 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Yetərsiz anbar. %d foto sinxronlaşdırıla bilmədi."</item>
+        <item quantity="one">"Yetərsiz anbar. %d foto sinxronlaşdırıla bilmədi."</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d əngəlli siyahısı girişi</item>
         <item quantity="one">%d əngəlli siyahısı girişi</item>
@@ -108,6 +112,10 @@
         <item quantity="other">%d saniyə ərzində yenidən sınayın</item>
         <item quantity="one">%d saniyə ərzində yenidən sınayın</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"&lt;font color=#F22424&gt;%s element&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
+        <item quantity="one">"&lt;font color=#F22424&gt;%s element&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"%s element sinxronlaşdırıla bilmədi"</item>
         <item quantity="one">"%s element sinxronlaşdırıla bilmədi"</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
+        <item quantity="one">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>

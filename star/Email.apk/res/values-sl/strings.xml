@@ -207,9 +207,9 @@
     <string name="attachment_decoding">Odpiranje priponke…</string>
     <string name="attachment_detail_empty_prompt">Izberite datoteke</string>
     <string name="attachment_download_all">Prenesi vse</string>
-    <string name="attachment_drag_add_inline">Vdelaj</string>
-    <string name="attachment_drag_add_picture_prompt">Ali želite vdelati ali priložiti izbrane slike?</string>
-    <string name="attachment_drag_create_email_prompt">Izbrane datoteke priloži novemu e-poštnemu sporočilu?</string>
+    <string name="attachment_drag_add_inline">Vstavi</string>
+    <string name="attachment_drag_add_picture_prompt">Ali želite vstaviti ali priložiti izbrane slike?</string>
+    <string name="attachment_drag_create_email_prompt">Izbrane datoteke priložim novemu e-poštnemu sporočilu?</string>
     <string name="attachment_image">Slika</string>
     <string name="attachment_list_search_hint">Išči priponke</string>
     <string name="attachment_mgr_name">Priponke</string>
@@ -228,7 +228,7 @@
     <string name="attachments_security_alert_install_title">Pozor</string>
     <string name="attachments_security_alert_message">To sporočilo vsebuje namestitveni paket. Preden ga odprete, se prepričajte, da zaupate viru.</string>
     <string name="attachments_security_install">Namesti</string>
-    <string name="attendee_needed">Dodajte vsaj enega udeleženca.</string>
+    <string name="attendee_needed">Dodajte vsaj enega povabljenca.</string>
     <string name="auto_login_fail">"Samodejna prijava ni uspela"</string>
     <string name="auto_login_fail_to_retry">"Samodejna prijava ni uspela, poskusite ponovno."</string>
     <string name="bContact_list_search_hint">Poišči blokirane stike</string>
@@ -239,7 +239,7 @@
     <string name="bcc">Skp</string>
     <string name="blank_feedback_toast">Napisati morate povratno informacijo</string>
     <string name="body_forward_email_text">[Posreduj]</string>
-    <string name="body_hint">Sestavi E-pošto</string>
+    <string name="body_hint">Telo</string>
     <string name="body_inline_pic_text">[Slika]</string>
     <string name="bottom_bar_more_pdf">Izvozi v PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Izvoz…</string>
@@ -506,11 +506,11 @@
     <string name="font_color_purple">Vijoličasta</string>
     <string name="font_color_red">Rdeča</string>
     <string name="font_color_white">Bela</string>
-    <string name="font_italic_add">Italic Font</string>
-    <string name="font_italic_remove">Odpovej FontSlant</string>
+    <string name="font_italic_add">Poševno</string>
+    <string name="font_italic_remove">Odstrani poševno</string>
     <string name="font_size">Trenutna velikost pisave je %s</string>
     <string name="font_underline">Podčrtano</string>
-    <string name="font_underline_remove">Odpovej Underline</string>
+    <string name="font_underline_remove">Odpovej podčrtano</string>
     <string name="forever">Zmeraj</string>
     <string name="forget_app_password">Pozabljeno geslo</string>
     <string name="forward">Posreduj</string>
@@ -533,15 +533,15 @@
     <string name="general_preference_trash_contact_sum">Filtriraj pošto pošiljateljev, o katerih so poročali v velikem številu</string>
     <string name="generic_attachment_problem">"Datoteke ni mogoče pripeti."</string>
     <string name="get_database_exception">"Izbrišite podatke te aplikacije v Nastavitve &gt; Aplikacije sistema in poskusite ponovno."</string>
-    <string name="get_oauth_code">Dobi kodo</string>
-    <string name="gmail_invalid_tip_cancel">Pekliči</string>
+    <string name="get_oauth_code">Dobite kodo</string>
+    <string name="gmail_invalid_tip_cancel">Prekliči</string>
     <string name="gmail_invalid_tip_confirm">Vpišite se</string>
-    <string name="gmail_invalid_tip_message">"Googlovi pogoji in določila so se spremenili. Znova se prijavite v Gmail."</string>
+    <string name="gmail_invalid_tip_message">"Googlovi pogoji in pravila so se spremenili. Znova se prijavite v Gmail."</string>
     <string name="gmail_invalid_tip_title">Vpišite se v Gmail</string>
     <string name="gmail_login_failed_non_proxy_title">"Ne morem dostopiti do Gmail strežnika"</string>
     <string name="gmail_server_authorization_deleted">"Ne morem potrditi avtentičnost računa. Poskusite ponovno dodati ta račun."</string>
     <string name="go_to_mail_content">Pokaži e-pošto</string>
-    <string name="graph_name">Corporate(Graf)</string>
+    <string name="graph_name">Podjetje(graf)</string>
     <string name="have_download">Preneseno</string>
     <string name="help_email_title">MI pošta</string>
     <string name="help_me_get_qq_auth">Dobite kodo</string>
@@ -602,36 +602,36 @@
     <string name="login_des_rediff">Prijavi se v Rediffmail</string>
     <string name="login_des_yahoo">Prijavi se v Yahoo Mail</string>
     <string name="login_des_yangdex">Prijavi se v Yandex Mail</string>
-    <string name="login_err_message">Uporabite pooblaščena gesla za prijavo v %1$s. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
+    <string name="login_err_message">Uporabite pooblaščena gesla za prijavo v %1$s. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate ponastaviti geslo obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
     <string name="login_err_outlook_msg">"%s
 To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusite vnesti geslo ali izklopiti dvostopenjsko preverjanje pristnosti"</string>
-    <string name="login_err_sina_message">%1$s Za prijavo boste morda potrebovali tudi kontrolno kodo. Če morate ponastaviti geslo obiščite https://mail.sina.com.cn/ da boste videli katere opcije so vam na voljo.</string>
+    <string name="login_err_sina_message">Uporabite pooblaščena gesla za prijavo v %1$s, če ste že izbrali to možnost. Če morate ponastaviti geslo obiščite https://mail.sina.com.cn/ da boste videli katere opcije so vam na voljo.</string>
     <string name="login_failed">"Ni se bilo mogoče prijaviti"</string>
     <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
     <string name="login_failed_tip">"Kontaktirajte nas v WeChat-u za pomoč: "</string>
-    <string name="login_failed_title">"Neuspešna prijava"</string>
-    <string name="login_mail">Prijavi se</string>
+    <string name="login_failed_title">"Ne morem se vpisati"</string>
+    <string name="login_mail">Vpišite se</string>
     <string name="login_manual">Ročna nastavitev</string>
     <string name="login_qq_psw">Vnesite kodo ročno</string>
     <string name="login_tip">%s protokol bo privzeto uporabljen za prijavo. Če želite uporabiti drug protokol, ga med možnostmi prijave izberite ročno.</string>
-    <string name="mail_header_network_not_available">"Povezava ni vzpostavljena."</string>
-    <string name="mail_outlook_login_tips">"Preusmerjeni boste v Microsoft da vnesetw geslo"</string>
+    <string name="mail_header_network_not_available">"Spletna povezava ni vzpostavljena."</string>
+    <string name="mail_outlook_login_tips">"Preusmerjeni boste v Microsoft da vnesete geslo"</string>
     <string name="mail_outlook_oauth_login">"Prijavite se z OAuth"</string>
     <string name="mail_outlook_psw_login">Prijavite se z geslom</string>
     <string name="mail_spam_notify_title">Obvesti o spamu</string>
     <string name="mailbox_folder">Mape</string>
     <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
-    <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
+    <string name="mailbox_name_display_ad">Oglasi</string>
     <string name="mailbox_name_display_circular">Obvestila</string>
     <string name="mailbox_name_display_drafts">Osnutki</string>
     <string name="mailbox_name_display_inbox">Prejeto</string>
-    <string name="mailbox_name_display_junk">Vsiljena pošta</string>
-    <string name="mailbox_name_display_outbox">V pošiljanju</string>
+    <string name="mailbox_name_display_junk">Neželena e-pošta</string>
+    <string name="mailbox_name_display_outbox">Odhodno</string>
     <string name="mailbox_name_display_sent">Poslano</string>
-    <string name="mailbox_name_display_starred">Označeno</string>
+    <string name="mailbox_name_display_starred">Z zvezdico</string>
     <string name="mailbox_name_display_trash">Koš</string>
     <string name="mailbox_name_display_unread">Neprebrano</string>
-    <string name="mailbox_setting_preference_sync_summary_close">Sinhronizacija je zkl.</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Sinhronizacija je izkl.</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sinhronizacija je vklj.</string>
     <string name="mailbox_settings_activity_title">Možnosti sinhronizacije</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Sinhr. e-pošto iz</string>
@@ -653,12 +653,12 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
         %s
     "</string>
     <string name="meeting_tentative">"
-        Začasno:
+        Pogojno:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Priponke</string>
-    <string name="menu_att_mgr_order_default">Nedavno pregledano</string>
+    <string name="menu_att_mgr_order_default">Nedavno ogledano</string>
     <string name="menu_compose">Novo sporočilo</string>
     <string name="menu_contact_edit">Uredi</string>
     <string name="menu_folder_options">Možnosti sinhroniziranja</string>
@@ -822,16 +822,16 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
     <string name="notification_message">Obvestim o novih sporočilih samo v izbranih mapah?</string>
     <string name="notification_off">Izkl.</string>
     <string name="notification_on">Vkl.</string>
-    <string name="notify_channel_new_mail">Obvestila o novih sporočilih</string>
-    <string name="notify_channel_no_disterb">DND način</string>
-    <string name="notify_channel_permission_notice">Opomnik obvestil o dovoljenju</string>
+    <string name="notify_channel_new_mail">Obvesti o novih sporočilih</string>
+    <string name="notify_channel_no_disterb">Način Ne moti</string>
+    <string name="notify_channel_permission_notice">Zahtevana so dovoljenja</string>
     <string name="notify_channel_send_fail">Obvesti o neuspešni dostavi</string>
     <string name="notify_channel_service">Obvesti o sinhronizaciji v ozadju</string>
     <string name="ntes_authorization_code_to_login">Prijavite se s to kodo za preverjanje</string>
     <string name="ntes_copy_and_login">Kopirajte in se prijavite</string>
     <string name="ntes_do_not_sms_uplink">Pošljite SMS s povezane telefonske številke in tapnite \"Sporočilo poslano\".</string>
     <string name="ntes_had_send">Sporočilo poslano</string>
-    <string name="ntes_had_send_to_content">"Če ste s povezane telefonske številke že poslali sporočilo SMS, tapnite \"Sporočilo poslano\" to continue."</string>
+    <string name="ntes_had_send_to_content">"Če ste s povezane telefonske številke že poslali sporočilo SMS, tapnite \"Sporočilo poslano\" za nadaljevanje."</string>
     <string name="ntes_login_auth_too_much">"Ne morem dodati več kot 5 kod za preverjanje. Prijavite se v mapo »Prejeto« v računalniku in izbrišite kode, ki jih niste uporabili."</string>
     <string name="ntes_login_error_message" formatted="false">"Ne morem dobiti podatkov o računu (Napaka %s). %s."</string>
     <string name="ntes_password_error_hint">"Če se med vnosom gesla pojavijo napake, zaprite to stran in jo znova odprite."</string>
@@ -850,8 +850,8 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
     <string name="one_month">1 mesec</string>
     <string name="one_week">1 teden</string>
     <string name="open_custom_folder">Pokaži podmape</string>
-    <string name="open_notification_kingagent">Vključite obvestila kingagent</string>
-    <string name="open_pdf_error">"Datoteke Pdf ne morem odpreti. Prenesite druga orodja za odpiranje PDF in poskusite znova."</string>
+    <string name="open_notification_kingagent">Vklopite obvestila o grobnih točkah</string>
+    <string name="open_pdf_error">"Datoteke PDF ne morem odpreti. Prenesite orodja za odpiranje PDF in poskusite znova."</string>
     <string name="operation_settging">Dejanja</string>
     <string name="optimization_suggestion">Predlogi optimizacije</string>
     <string name="others_mail">Ostalo</string>
@@ -1013,7 +1013,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
     <string name="search_tabs_name_all">Vse</string>
     <string name="search_tabs_name_recipient">Prejemnik</string>
     <string name="search_tabs_name_sender">Pošiljatelj</string>
-    <string name="search_tabs_name_subject">Stvar</string>
+    <string name="search_tabs_name_subject">Zadeva</string>
     <string name="security_notification_content_unsupported_title">"Ne morem izpolniti varnostnih pravil"</string>
     <string name="security_unsupported_ticker_fmt">"Račun \"%s\" ne more biti sinhroniziran zaradi varnostnih zahtev."</string>
     <string name="see_more_content">Poglejte več vsebine</string>

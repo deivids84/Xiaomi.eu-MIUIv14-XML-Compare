@@ -577,7 +577,6 @@
     <string name="noti_quota_button_text">Actualitza</string>
     <string name="noti_quota_full_sum">Actualitzeu el pla d\'emmagatzematge per continuar sincronitzant els elements.</string>
     <string name="noti_quota_full_sum_without_button">Obteniu més espai d\'emmagatzematge per continuar sincronitzant elements.</string>
-    <string name="noti_quota_full_title">L\'emmagatzematge al núvol està ple</string>
     <string name="noti_quota_full_title_without_button">L\'emmagatzematge al núvol està ple</string>
     <string name="noti_quota_low_sum">Actualitzeu el pla d\'emmagatzematge per continuar sincronitzant els elements.</string>
     <string name="noti_quota_low_sum_without_button">Obteniu més espai d\'emmagatzematge per continuar sincronitzant elements.</string>
@@ -643,7 +642,6 @@ Pot ser que la informació sobre la ubicació no es notifiqui quan la connexió 
     <string name="privacy_runtime_perm_call_log_title">Accediu i editeu l\'historial de registres</string>
     <string name="privacy_runtime_perm_contacts_desc">Per sincronitzar contactes</string>
     <string name="privacy_runtime_perm_contacts_title">Accediu i editeu contactes</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Per sincronitzar fotos de perfil de contacte i fitxers adjunts de missatges</string>
     <string name="privacy_runtime_perm_external_storage_title">Accedir a l\'emmagatzematge</string>
     <string name="privacy_runtime_perm_phone_state_desc">Per accedir al número de telèfon i a l\'estat del dispositiu</string>
     <string name="privacy_runtime_perm_phone_state_title">Accedir a la informació del dispositiu</string>

@@ -9,7 +9,7 @@ Si no has sol·licitat la còpia de seguretat tu mateix, no permetis que continu
     <string name="backup_enc_password_optional">Si vols xifrar les dades de la còpia de seguretat completa, introdueix una contrasenya a continuació:</string>
     <string name="backup_enc_password_text">Introdueix una contrasenya que utilitzaràs per a l\'encriptació de les dades de còpia de la seguretat completa. Si es deixa en blanc, s\'utilitzarà la teva contrasenya de còpia de seguretat actual:</string>
     <string name="current_password_text">Introdueix la teva contrasenya actual de còpia de seguretat a continuació:</string>
-    <string name="deny_backup_button_label">No en facis una còpia de seguretat</string>
+    <string name="deny_backup_button_label">No facis una còpia de seguretat</string>
     <string name="deny_restore_button_label">No ho restauris</string>
     <string name="device_encryption_backup_text">Introdueix la contrasenya d\'encriptació del dispositiu a continuació. També es farà servir per encriptar l\'arxiu de seguretat.</string>
     <string name="device_encryption_restore_text">Introdueix la contrasenya d\'encriptació del dispositiu a continuació.</string>

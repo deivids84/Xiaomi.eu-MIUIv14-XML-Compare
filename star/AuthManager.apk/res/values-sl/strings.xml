@@ -97,6 +97,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Za prijavo pridobite telefonsko številko od operaterja</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Če se zdaj niste mogli prijaviti z enim dotikom, se vrnite na stran za prijavo in poskusite znova."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacija želi od operaterja pridobiti vašo telefonsko številko za prijavo. Dovolite?</string>
+    <string name="HIPS_Perm_operator_shake">Dostop do podatkov merilnika pospeška</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Podatki merilnika pospeška se uporabljajo za sledenje orientaciji in gibanju (npr. tresenje, nagibanje in vrtenje)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">dostop do Near Field Communication (NFC) strojne opreme</string>
     <string name="HIPS_Perm_process_outgoing_calls">Dostop do aplikacije Telefon</string>
@@ -324,6 +326,7 @@
     <string name="permdesc_recognition">Dovolim %1$s dostop do podatkov o aktivnostih?</string>
     <string name="permdesc_send_sms">Dovolim %1$s pošiljanje besedilnih sporočil?</string>
     <string name="permdesc_sensors">Dovolim %1$s dostop do podatkov telesnih senzorjev?</string>
+    <string name="permdesc_shake">Dovolim %1$s dostop do podatkov merilnika pospeška?</string>
     <string name="permdesc_use_sip">Dovolim %1$s, da za pretakanje videoposnetkov uporablja protokol za zagon seje?</string>
     <string name="permdesc_write_calendar">Dovolim %1$s ustvarjanje in shranjevanje koledarskih dogodkov?</string>
     <string name="permdesc_write_call_log">Dovolim %1$s urejanje zgodovine klicev?</string>

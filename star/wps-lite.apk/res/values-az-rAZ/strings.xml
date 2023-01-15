@@ -193,6 +193,7 @@
     <string name="public_cut">Kəs</string>
     <string name="public_decryptDocument">Şifrəsini aç</string>
     <string name="public_displayPasswd">Parolu göstər</string>
+    <string name="public_display_privacy_policy">Gizlilik Siyasətinə bax</string>
     <string name="public_doc_end_preview_tip">WPS Office tərəfindən dəstəklənir</string>
     <string name="public_edit">Düzəliş et</string>
     <string name="public_enter_phonemode">Mobil görünüşə daxil olun</string>
@@ -219,6 +220,7 @@
     <string name="public_lite_update_cloud_dialog_message">WPS Office-i güncəlləyin, %s xidmətindən zövq alın</string>
     <string name="public_lite_update_right_now">İndi güncəllə</string>
     <string name="public_lite_use_right_now">İndi istifadə et</string>
+    <string name="public_loadDocumentError">"Fayl mövcud deyil və ya açıla bilmir"</string>
     <string name="public_loadDocumentFormatError">"Fayl formatı xətası, fayl açıla bilmir."</string>
     <string name="public_loadDocumentLackOfStorageError">"Yetərsiz anbar sahəsi, fayl açıla bilmir."</string>
     <string name="public_loadDocumentOutOfMemoryError">"Yetərsiz anbar sahəsi, fayl açıla bilmir."</string>
@@ -256,6 +258,7 @@
     <string name="public_permission_storage_disallow_msg">"İcazəni ləğv etdikdən sonra sənədlərlə işləyə bilməyəcəksiniz."</string>
     <string name="public_play">Oynat</string>
     <string name="public_ppt_label">Mi Təqdimat Göstərici</string>
+    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və verilənlərinizi necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
     <string name="public_readOnlyMode">Yalnız oxunan</string>
     <string name="public_recory_edit_not_save_tips">Sizin üçün saxlanılmamış məzmun artıq bərpa edildi.</string>
@@ -264,6 +267,10 @@
     <string name="public_refuse_jurisdiction">Tələb olunan icazələr</string>
     <string name="public_replace">Əvəz et</string>
     <string name="public_request_senior_password">Ən yüksək icazə parolunu daxil edin</string>
+    <string name="public_revoke">Geri götür%s</string>
+    <string name="public_revoke_privacy_content">"Davam etsəniz, \"Mi Doc Viewer\"in (Powered by WPS) Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Razılığı geri götürməyiniz, Mi Doc Viewer (Powered by WPS) tərəfindən göstərilən xidmətlərin qəbulunu rədd etmək olaraq nəzərə alınacaq."</string>
+    <string name="public_revoke_privacy_desc">\"Mi Doc Viewer\"in (Powered by WPS) Gizlilik Siyasətinə verdiyiniz razılığı geri götürün</string>
+    <string name="public_revoke_privacy_title">Razılığı geri götür</string>
     <string name="public_ribbon_font">Şrift</string>
     <string name="public_save">Saxla</string>
     <string name="public_saveAs">Fərqli saxla</string>
@@ -285,6 +292,7 @@
     <string name="public_sensor_ratation_land_tip">Üfüqi yön</string>
     <string name="public_sensor_ratation_port_tip">Şaquli yön</string>
     <string name="public_service_disable_error_tips">"Əlaqəli xidmət sıradan çıxarıldığı üçün bu özəllik istifadə edilə bilmir."</string>
+    <string name="public_share">Paylaş</string>
     <string name="public_share_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="public_share_retry">Yenidən sına</string>
     <string name="public_shareplay_connect_fail">Şəbəkə bağlantınızı yoxlayın</string>

@@ -1304,7 +1304,7 @@ para añadir libros al mismo"</string>
     <string name="lockpattern_need_to_unlock_wrong">Vuelve a intentarlo</string>
     <string name="lockpattern_pattern_confirmed_header">"Este es tu patrón de desbloqueo:"</string>
     <string name="lockpattern_pattern_entered_header">¡Listo!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Vuelve a intentarlo. Conecta al menos %1$d puntos.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Inténtalo otra vez. Conecta al menos %1$d puntos.</string>
     <string name="lockpattern_recording_inprogress">Suelta cuando completes tu patrón</string>
     <string name="lockpattern_recording_intro_header">Conecta al menos %1$d puntos</string>
     <string name="lockpattern_retry_button_text">Restablecer</string>

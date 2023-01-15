@@ -442,6 +442,7 @@
     <string name="hide_pull_down_negative">"Gizlətməyin"</string>
     <string name="hide_pull_down_positive">Gizlət</string>
     <string name="hide_retract_button">Gizlət</string>
+    <string name="historical_wallpaper">Daha əvvəl istifadə olunan</string>
     <string name="home_apply_failured">"Əsas ekran divar kağızı tətbiq edilə bilmir"</string>
     <string name="home_apply_success">Əsas ekran divar kağızı tətbiq edildi</string>
     <string name="home_daily">Gündəlik vurğulananlar</string>

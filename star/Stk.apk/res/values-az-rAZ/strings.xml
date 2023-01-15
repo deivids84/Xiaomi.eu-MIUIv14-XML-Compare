@@ -190,6 +190,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="night">Axşam</string>
+    <string name="no_sim_card_inserted">SIM Alət dəstini başlatmaq üçün SIM-i daxil edin.</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="password_toggle_content_description">Parolu göstər</string>

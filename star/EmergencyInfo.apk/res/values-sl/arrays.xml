@@ -94,9 +94,9 @@
         <item>, aktivno (telefon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Privzeto)</item>
+        <item>AVRCP 1.5 (privzeto)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -167,13 +167,13 @@
         <item>256 KB /medpomnilnik dnevnika</item>
         <item>1 MB /medpomnilnik dnevnika</item>
         <item>4 MB /medpomnilnik dnevnika</item>
-        <item>16 MB/medpomnilnik dnevnika</item>
+        <item>8 MB /medpomnilnik dnevnika</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Izključeno</item>
-        <item>Vsi medpomnilniki zapisov</item>
-        <item>Vse razen medpomnilnika zapisnika radija</item>
-        <item>samo medpomnilniki zapisnika jedra</item>
+        <item>Vsi zapisniki medpomnilnika</item>
+        <item>Vse razen radio zapisnika medpomnilnika</item>
+        <item>samo medpomnilnik dnevnika jedra</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Izključeno</item>
@@ -206,7 +206,7 @@
         <item>Normalno</item>
         <item>Hitro</item>
         <item>Hitreje</item>
-        <item>Precej hitro</item>
+        <item>Zelo hitro</item>
         <item>Hitrost</item>
         <item>Velika hitrost</item>
         <item>Najhitreje</item>

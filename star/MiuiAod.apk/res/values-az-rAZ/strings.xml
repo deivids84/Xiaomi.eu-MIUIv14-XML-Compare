@@ -47,7 +47,7 @@
     <string name="ambient_display_screen_title">Həmişə açıq ekran</string>
     <string name="ambient_display_screen_title_sp">Mühit ekranı</string>
     <string name="animation_clock_panel">Dalğalı yığım</string>
-    <string name="aod_close_color_inversion">"Bu özəllik, rəng tərs çevirməsi ilə birgə istifadə edilə bilməz. Əvvəlcə rəng tərs çevirməni söndürün."</string>
+    <string name="aod_close_color_inversion">"Bu özəllik, rəng inversiyası ilə birləşdirilə bilməz. Əvvəlcə rəng inversiyasını söndürün."</string>
     <string name="aod_component">Göstərilən elementlər</string>
     <string name="aod_dual_clock_date">HH:mm dd//MM</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>

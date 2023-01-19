@@ -826,7 +826,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Ni mogoče vzpostaviti povezave. Poskusite znova kasneje."</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Zmogljivost omrežja je presežena. Poskusite znova kasneje.</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Šibek signal. Poskusite se približati usmerjevalniku.</string>
-    <string name="wifitrackerlib_wifi_metered_label">Merjeno</string>
+    <string name="wifitrackerlib_wifi_metered_label">Z omejenim prenosom podatkov</string>
     <string name="wifitrackerlib_wifi_network_not_found">"Ni mogoče vzpostaviti povezave. Poskusite znova kasneje."</string>
     <string name="wifitrackerlib_wifi_no_internet">Ni dostopa do spleta</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Povezava ne bo samodejno vzpostavljena</string>
@@ -838,7 +838,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Zastarelo</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Neznano</string>
-    <string name="wifitrackerlib_wifi_unmetered_label">Nemerjeno</string>
+    <string name="wifitrackerlib_wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi se trenutno ne bo samodejno povezal</string>
     <string name="window_animation_scale_title">Lestvica animacije okna</string>
     <string name="window_blurs">Dovoli zameglitve na ravni okna</string>

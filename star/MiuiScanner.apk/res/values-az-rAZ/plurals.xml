@@ -36,9 +36,21 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
+    <plurals name="are_you_sure_you_want_delete_file">
+        <item quantity="other">%1$d fayl indi silinsin?</item>
+        <item quantity="one">%1$d fayl indi silinsin?</item>
+    </plurals>
+    <plurals name="are_you_sure_you_want_delete_this">
+        <item quantity="other">%1$d təsvir indi silinsin?</item>
+        <item quantity="one">%1$d təsvir indi silinsin?</item>
+    </plurals>
     <plurals name="choosed">
         <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
+    </plurals>
+    <plurals name="document_duplicate_data_tip">
+        <item quantity="other">Uğurla daxilə köçürüldü (%1$d təkrarlanan element filtrləndi)</item>
+        <item quantity="one">Uğurla daxilə köçürüldü (%1$d təkrarlanan element filtrləndi)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

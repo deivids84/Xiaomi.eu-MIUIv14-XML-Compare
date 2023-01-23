@@ -30,7 +30,34 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_name">Divar kağızı</string>
+    <string name="default_wallpaper_type">ilkin</string>
     <string name="early_morning">Səhər</string>
+    <string name="earth_coordinate_latitude_0">13.910°E</string>
+    <string name="earth_coordinate_latitude_1">110.152°E</string>
+    <string name="earth_coordinate_latitude_2">51.100°W</string>
+    <string name="earth_coordinate_latitude_3">20.624°E</string>
+    <string name="earth_coordinate_latitude_4">11.733°E</string>
+    <string name="earth_coordinate_longitude_0">44.767°N</string>
+    <string name="earth_coordinate_longitude_1">25.803°N</string>
+    <string name="earth_coordinate_longitude_2">69.217°N</string>
+    <string name="earth_coordinate_longitude_3">37.859°N</string>
+    <string name="earth_coordinate_longitude_4">46.601°N</string>
+    <string name="earth_position_content_0">"Xorvatiyadakı Cape Kamenjak Təbiət Parkı, Aralıq dənizi sahilləri boyunca ən heyrətamiz mənzərələrə ev sahibliyi edir. Buradakı təsiredici geoloji birləşmələr buranı dalğıclar cənnətinə çevirir. Hər yay göz qamaşdıran günəş və isti Aralıq dənizi suları saysız-hesabsız açıq hava həvəskarlarını cəlb edir."</string>
+    <string name="earth_position_content_1">"Terraslı sahələr insan fəaliyyətinin nəticəsidir, ancaq həm də görkəmli təbiət mənzərəli yer kimi xidmət edir.
+Çində düyü terrasları əsasən yağışların ümumi olduğu və dağ silsilələrinin bol olduğu Yantszı çayının cənubunda yerləşir. Longji terrasları 700 ildən çoxdur ki, mövcuddur və yaxınlıqdakı kəndlərdə kifayət qədər çox sayda tarixi abidə var."</string>
+    <string name="earth_position_content_2">İlulissat Qrenlandiyanın qərbində, Arktika Dairəsindən 200 kilometr şimalda yerləşir. Möhtəşəm 56 kilometrlik Ilulissat Icefjord, Jakobshavn Isbræ buzlaqının düz yanında yerləşir. Şimal yarımkürəsində ən böyük buzlaq olmaqla, hər il 2 milyard ton aysberq ərsəyə gətirir. Şimal istiqamətində qısa bir dövrə vurduqdan sonra cənuba dönür və Atlantik okeanına axır.</string>
+    <string name="earth_position_content_3">"Navagio, Yunanıstanın İon adalarında yerləşən Zakintos sahilindəki ən gözəl çimərliklərdən biridir. Buranın məşhur bir gəminin evi olduğu deyilir, buna görə də çimərliyə \"Qaçaqmalçılar körfəzi\" də deyilir."</string>
+    <string name="earth_position_content_4">Dolomitlər İtaliyanın şimal-şərqində yerləşən dağ silsiləsidir. Seceda dağı həqiqətən də oradakı ən mənzərəli yerlərdən biridir.</string>
+    <string name="earth_position_title_0">"Xorvatiya
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Çin
+Longji Terraced Fields"</string>
+    <string name="earth_position_title_2">"Qrenlandiya
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Yunanıstan
+Navayo çimərliyi"</string>
+    <string name="earth_position_title_4">"İtaliya
+Dolomites"</string>
     <string name="earth_summary">Dünya, bəşər sivilizasiyasının beşiyidir</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Ev</string>
@@ -52,6 +79,10 @@
     <string name="geometry_summary">Formalar, işıq və rənglər</string>
     <string name="geometry_super_wallpaper_label">Həndəsə</string>
     <string name="geometry_title">Həndəsə</string>
+    <string name="mars_coordinate_latitude_3">137.379°E</string>
+    <string name="mars_coordinate_latitude_4">303.208°E</string>
+    <string name="mars_coordinate_longitude_3">4.676°S</string>
+    <string name="mars_coordinate_longitude_4">20.953°N</string>
     <string name="mars_position_content_0">"Bu bölgədə dağıntılarla örtülmüş buzlaqların səbəb olduğuna inanılan qayalıqlar, təpələr və geniş düz vadilər var. Qədim Marsda həyatın olduğuna dair sübutların axtarışında böyük maraq doğuran gil mineralları da burada aşkarlanıb.
 
 NASA/JPL/Arizona Universiteti"</string>
@@ -61,14 +92,25 @@ NASA/JPL/Arizona Universiteti"</string>
     <string name="mars_position_content_2">"Mawrth Vallis, açıq rəngli gillə zəngin qayaları olan qədim su axını kanalıdır. Gil mineralları Yerdəki mikroskopik həyatı asanlıqla qoruyur, buna görə də \"Mawrth\"da bəlkə də qədim həyatın izləri tapıla bilər.
 
 NASA/JPL/Arizona Universiteti"</string>
+    <string name="mars_position_content_3">"Bu görüntülər Mars roveri Curiosity tərəfindən Geyl kraterində Pahrump təpələrini tədqiq edərkən çəkilib. Bu bölgədə elm adamlarının suyun varlığında əmələ gəldiyinə inandığı çöküntü süxurları var. Qaranlıq yerlər isə qumdur.
+
+NASA/JPL/Arizona Universiteti"</string>
+    <string name="mars_position_content_4">"Bəhram Vallis, bəzi yerlərdə çəpərli divarları olan tək gövdəli çay vadisidir. Döşəməsində rasional eroziya xüsusiyyətlərinin olması onu göstərir ki, onun əmələ gəlməsində maye iştirak etmişdir.
+
+NASA/JPL/Arizona Universiteti"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Mensae Bölgəsi"</string>
     <string name="mars_position_title_1">Qeyl Krateri</string>
     <string name="mars_position_title_2">"\"Mawrth Vallis\"dəki
 krater"</string>
+    <string name="mars_position_title_3">Pahrump Hills</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Marsın geniş səhraları insanlığı həmişə heyrət içində saxlayıb</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Qırmızı planet</string>
+    <string name="mars_view_height_3">268.0 km</string>
+    <string name="mars_view_height_4">283.8 km</string>
+    <string name="mi_wallpaper_loading">Mi Divar kağızı yüklənir…</string>
     <string name="mi_wallpaper_title">Mi Divar Kağızı</string>
     <string name="midnight">Gecə</string>
     <string name="monday">Bazar ertəsi</string>

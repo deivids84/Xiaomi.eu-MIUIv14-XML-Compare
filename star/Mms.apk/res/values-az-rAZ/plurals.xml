@@ -96,6 +96,26 @@
         <item quantity="other">%1$d nəfər %2$s olaraq işarələdi</item>
         <item quantity="one">%1$d nəfər %2$s olaraq işarələdi</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Səsli mesajların uzunluğu ən çox %1$4d saniyəlik ola bilər</item>
+        <item quantity="one">Səsli mesajların uzunluğu ən çox %1$4d saniyəlik ola bilər</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">%1$4d MB-a qədər fayllar göndərin</item>
+        <item quantity="one">%1$4d MB-a qədər fayllar göndərin</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Ən çox %1$4d kontakta mesaj göndərin</item>
+        <item quantity="one">Ən çox %1$4d kontakta mesaj göndərin</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Mesajlar ən çox %1$4d simvoldan ibarət ola bilər</item>
+        <item quantity="one">Mesajlar ən çox %1$4d simvoldan ibarət ola bilər</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videoların uzunluğu ən çox %1$4d saniyəlik ola bilər</item>
+        <item quantity="one">Videoların uzunluğu ən çox %1$4d saniyəlik ola bilər</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaj</item>
         <item quantity="one">%1$s mesajı</item>

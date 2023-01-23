@@ -18,12 +18,12 @@
     <string-array name="settings_search_saturn">
         <item>Saturnun halqaları</item>
         <item>Divar kağızı/Super divar kağızları/Saturnun halqaları</item>
-        <item>Saturn;Rings of Saturn;Super wallpaper;Wallpaper</item>
+        <item>Saturn;Saturnun halqaları;Super divar kağızı;Divar kağızı</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Qarlı zirvələr</item>
         <item>Divar kağızı/Super divar kağızları/Qarlı zirvələr</item>
-        <item>Snowy peaks;Mountains;Super wallpapers;Wallpaper</item>
+        <item>Qarlı zirvələr;Dağlar;Super divar kağızları;Divar kağızı</item>
     </string-array>
     <string-array name="settings_search_superwp">
         <item>Super divar kağızları</item>

@@ -202,6 +202,7 @@
     <string name="copy">Kopyala</string>
     <string name="copy_link">URL-ni kopyala</string>
     <string name="copy_to_clipboard_successful">Uğurla kopyalandı</string>
+    <string name="current_account_can_use_pwd_login">Daxil olmaq üçün parolunuzu daxil edin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="delete_action">Sil</string>
@@ -307,6 +308,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
     <string name="io_error_title">Şəbəkənizi təsdiqləyin</string>
     <string name="just_a_second">Bir saniyə…</string>
+    <string name="keep_phone_ticket_login">Təsdiqləmə kodu ilə daxil ol</string>
     <string name="kr_license_desc">Xiaomi Hesabı və Xiaomi Bulud xidmətlərini istifadə etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməlisiniz.</string>
     <string name="kr_permission_contacts_desc">Kontakt məlumatlarına müraciət üçün</string>
     <string name="kr_permission_desc">Tələb olunan icazələr</string>
@@ -326,6 +328,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="login_with_other">Daha çox seçim</string>
     <string name="logout_account">Çıxış et</string>
     <string name="logout_failed">"Çıxış edilə bilmir"</string>
+    <string name="messenger_send_button_text">Göndər</string>
     <string name="mi_account">Hesabım</string>
     <string name="mi_account_identity_title">Kimliyinizi təsdiqləyin</string>
     <string name="mi_finance">Maliyyə vəziyyətim</string>
@@ -709,6 +712,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="personal_info_desc">Foto, ləqəb və daha çoxu</string>
     <string name="phone_num_use_for">Telefon nömrəsinin istifadə sahəsi:</string>
     <string name="phone_register">Telefon nömrəsini istifadə et</string>
+    <string name="phone_ticket_login">Təsdiqləmə kodu ilə daxil ol</string>
+    <string name="phone_ticket_register">Telefon nömrəsi ilə hesab yarat</string>
     <string name="photoPickerNotFoundText">İstifadə ediləcək foto yoxdur.</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
@@ -872,6 +877,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="update_email_address_dialog_title">E-poçtu güncəllə</string>
     <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>
     <string name="update_phone_number_notice_message">Telefon nömrənizi güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="use_google_account_login">Google ilə daxil olun</string>
     <string name="used_cloud_storage_info">İstifadə edilən: %s</string>
     <string name="user_agreement_device_permission_desc">Giriş mühitinin güvənliyini təmin etmək üçün</string>
     <string name="user_agreement_device_permission_title">Cihaz məlumatlarına müraciət</string>

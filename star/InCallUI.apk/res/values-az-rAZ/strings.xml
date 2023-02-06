@@ -146,7 +146,7 @@
     <string name="dsda_not_incall_sim_mo_fail_desc">"İndi zənglər üçün SIM %1$d istifadə edilə bilmir. Hazırkı şəbəkə mühiti ikili SIM funksionallığını dəstəkləmir."</string>
     <string name="dsda_swap_call_prompt">"Davam etsəniz səsli zəngə keçəcəksiniz."</string>
     <string name="early_morning">Səhər</string>
-    <string name="emergency_call_dialog_number_for_display">Fövqəladə nömrə</string>
+    <string name="emergency_call_dialog_number_for_display">Fövqəladə hal nömrəsi</string>
     <string name="enter_ai_assistant">İstifadə et</string>
     <string name="enter_ai_assistant_tip">"İndi danışmaq üçün əlverişli deyilsə, AI mətni nitqə çevirə bilər. Bu zəng üçün AI istifadə edilsin?"</string>
     <string name="eras_ad">E.S.</string>

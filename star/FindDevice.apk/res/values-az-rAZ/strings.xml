@@ -54,7 +54,7 @@ kilidlənib.
     <string name="disable_find_device_success">\"Cihazı tap\" bağlıdır</string>
     <string name="doing_extra_login_steps">Daxil olma təsdiqlənir…</string>
     <string name="early_morning">Səhər</string>
-    <string name="emergency_call">Fövqəladə vəziyyət zəngi</string>
+    <string name="emergency_call">Fövqəladə hal zəngi</string>
     <string name="enable_find_device_error">"\"Cihazı tap\" açıla bilmədi. %1$s"</string>
     <string name="enable_find_device_success">\"Cihazı tap\" açıqdır</string>
     <string name="eras_ad">E.S.</string>

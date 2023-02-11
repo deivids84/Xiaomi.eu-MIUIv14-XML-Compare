@@ -319,6 +319,7 @@
     <string name="permdesc_call_phone">¿Permitir a %1$s realizar llamadas?</string>
     <string name="permdesc_camera">¿Permitir a %1$s tomar fotos y grabar vídeos?</string>
     <string name="permdesc_get_account">¿Permitir a %1$s acceder a todas las cuentas almacenadas en este dispositivo?</string>
+    <string name="permdesc_isolate_storage">¿Permitir que %1$s acceda a fotos, vídeos y audio en este dispositivo?</string>
     <string name="permdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permdesc_location_background">¿Permitir a %1$s acceder a la información de ubicación en segundo plano?</string>
     <string name="permdesc_microphone">¿Permitir a %1$s usar el micrófono para grabar audio?</string>
@@ -349,6 +350,8 @@
     <string name="permgroupdesc_location">¿Permitir a %1$s acceder a la información de ubicación?</string>
     <string name="permgroupdesc_microphone">¿Permitir a %1$s grabar audio?</string>
     <string name="permgroupdesc_phone">¿Permitir a %1$s hacer llamadas y acceder a la información del dispositivo?</string>
+    <string name="permgroupdesc_read_media_aural">¿Permitir que %1$s acceda a los archivos de audio del dispositivo?</string>
+    <string name="permgroupdesc_read_media_visual">¿Permitir que %1$s acceda a las fotos y vídeos del dispositivo?</string>
     <string name="permgroupdesc_recognition">¿Permitir a %1$s acceder a datos de salud y actividad?</string>
     <string name="permgroupdesc_sensors">¿Permitir a %1$s acceder a los datos del sensor corporal?</string>
     <string name="permgroupdesc_sms">¿Permitir a %1$s leer o enviar SMS?</string>

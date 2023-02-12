@@ -10,6 +10,15 @@
         <item>Zəngli saat %2$s %3$s ərzində çalacaq</item>
         <item>Zəngli saat %1$s %2$s %3$s ərzində çalacaq</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Zəngli saat %1$s ərzində çalacaq</item>
+        <item>Zəngli saat %2$s ərzində çalacaq</item>
+        <item>Zəngli saat %1$s %2$s ərzində çalacaq</item>
+        <item>Zəngli saat %3$s ərzində çalacaq</item>
+        <item>Zəngli saat %1$s %3$s ərzində çalacaq</item>
+        <item>Zəngli saat %2$s %3$s ərzində çalacaq</item>
+        <item>Zəngli saat %1$s %2$s %3$s ərzində çalacaq</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Bir dəfə</item>
         <item>Gündəlik</item>
@@ -31,7 +40,16 @@
         <item>Zəngli saat %1$s və %2$s ərzində sönəcək.</item>
         <item>Zəngli saat %3$s ərzində sönəcək.</item>
         <item>Zəngli saat %1$s və %3$s ərzində sönəcək.</item>
-        <item>Zəngli saat%2$s və %3$s ərzində sönəcək.</item>
+        <item>Zəngli saat %2$s və %3$s ərzində sönəcək.</item>
+        <item>Zəngli saat %1$s %2$s və %3$s ərzində sönəcək.</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Zəngli saat %1$s ərzində sönəcək.</item>
+        <item>Zəngli saat %2$s ərzində sönəcək.</item>
+        <item>Zəngli saat %1$s və %2$s ərzində sönəcək.</item>
+        <item>Zəngli saat %3$s ərzində sönəcək.</item>
+        <item>Zəngli saat %1$s və %3$s ərzində sönəcək.</item>
+        <item>Zəngli saat %2$s və %3$s ərzində sönəcək.</item>
         <item>Zəngli saat %1$s %2$s və %3$s ərzində sönəcək.</item>
     </string-array>
     <string-array name="aqi_value">

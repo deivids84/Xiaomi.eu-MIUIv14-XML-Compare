@@ -97,6 +97,7 @@
     <string name="bh_card_order_name">Xidmət paketi</string>
     <string name="bh_card_order_pay_price">Ödənilən miqdar</string>
     <string name="bh_card_order_price">Qiymət</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">%1$s üçün %2$s CNY əlavə edilsin?</string>
     <string name="bh_charge_continue">Vəsait yüklə</string>
     <string name="bh_charge_number">Vəsait yüklənilir: %1$s</string>
@@ -126,6 +127,7 @@
     <string name="bh_funtion_desc">Mi Operator Xidmətlərinə xoş gəldiniz! Telefon balansınızı yoxlamaq, zəng dəqiqəsi və mobil internet satın almaq və daha çoxu üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiq, normal işləməsi üçün şəbəkəyə bağlanmalıdır.</string>
     <string name="bh_get_balance_success">Uğurla yoxlanıldı. Burada məlumatlar gecikmə ilə güncəllənə bilər.</string>
     <string name="bh_get_charge_phone_number">Kontaktlardan seçin</string>
+    <string name="bh_goto_granted">İcazə vermə</string>
     <string name="bh_goto_open">İcazə verilmədi</string>
     <string name="bh_goto_set">Tənzimlə</string>
     <string name="bh_i_got_it">Anladım</string>
@@ -256,6 +258,8 @@
     <string name="call_feature_vilte">ViLTE</string>
     <string name="call_home">Evə zəng et</string>
     <string name="call_isdn">ISDN-ə zəng et</string>
+    <string name="call_limit">Zəng məhdudiyyətləri</string>
+    <string name="call_limit_content">"\"%s\" - zəng edilə bilmədi. Yalnız kontaktlar siyahınızdakı təsdiqlənmiş telefon nömrələrinə zəng edə bilərsiniz."</string>
     <string name="call_main">Əsas nömrəyə zəng et</string>
     <string name="call_mms">MMS-ə zəng et</string>
     <string name="call_mobile">Mobilə zəng et</string>
@@ -701,6 +705,7 @@ Səbəb: \"%s\""</string>
     <string name="item_offical">Rəsmi</string>
     <string name="keep_local">"Sinxronlaşdırma"</string>
     <string name="keep_local_btn">"Cihazın daxili anbarını istifadə edin"</string>
+    <string name="know">Anladım</string>
     <string name="label_custom_type">Xüsusi</string>
     <string name="label_no_duplicate_contacts">Dublikat tapılmadı</string>
     <string name="label_notes">Qeydlər</string>

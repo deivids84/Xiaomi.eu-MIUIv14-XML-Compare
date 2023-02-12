@@ -139,6 +139,7 @@
     <string name="head_set_tip_dialog_msg">Xüsusi ön tənzimləmələri olan səsləri (məs. Musiqi, Danışıq səsi) yaza bilmək üçün qulaqlıqları çıxardın.</string>
     <string name="head_set_tip_dialog_ok">Anladım</string>
     <string name="head_set_tip_dialog_title">Daxili mikrofonu istifadə edin</string>
+    <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="invalid_argument">Yararsız arqument</string>
     <string name="invisible_mode_error_tip">Mikrofonu istifadə edə bilmək üçün Tənzimləmələrdə Gizli rejimi söndürün</string>
@@ -157,10 +158,11 @@
     <string name="loading_more">Bir saniyə…</string>
     <string name="loading_order_list">Bir saniyə…</string>
     <string name="loading_order_list_empty">Burada sifariş yoxdur.</string>
-    <string name="low_battery_error">"Batareya səviyyəsi 5%-dən aşağıdır. Səsyazmanın itməməsi üçün onu dayandırıb yaddaşda saxlayın."</string>
+    <string name="low_battery_error">"Batareya səviyyəsi %s-dən aşağıdır. Səsyazmanın itməməsi üçün onu dayandırıb yaddaşda saxlayın."</string>
     <string name="low_battery_error_confirm">Oldu</string>
     <string name="low_battery_error_for_pad">"Batareya, %s səviyyəsindən aşağıdır. Səsyazmanın itməməsi üçün onu dayandırıb yaddaşda saxlayın."</string>
     <string name="low_battery_error_title">Zəif batareya</string>
+    <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
     <string name="manage_external_storage">Bütün fayllara müraciət et</string>
     <string name="mark_point_list_title">İşarələr</string>
@@ -180,9 +182,9 @@
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="menu">Menyu</string>
     <string name="message_file_size_error">Səsyazma %s tərəfindən dəstəklənən maksimum uzunluğa çatdı</string>
-    <string name="mi_account_msg">Buluddakı faylları mətnə çevirmək və ilk 60 dəqiqəsini ödənişsiz əldə etmək üçün Xiaomi Hesabınızla giriş edin.</string>
     <string name="mi_account_ok">Daxil olun</string>
     <string name="mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
+    <string name="middle_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
@@ -317,7 +319,6 @@
     <string name="offline_recognize_transfer_format">Mətnə çevrilir…</string>
     <string name="online_recognize_btn">Mətnə çevir</string>
     <string name="online_recognize_desp">Xərclərin hesablanması və mətnə çevrilməsi üçün səsyazmanız serverə yüklənəcək.</string>
-    <string name="online_recognize_duration_limite">(10 dəqiqədən başlayaraq)</string>
     <string name="online_recognize_fail">"Mətnə çevrilə bilmədi"</string>
     <string name="online_recognize_login_fail">"Daxil oluna bilmədi"</string>
     <string name="online_recognize_order_create">Daxil olun</string>
@@ -351,6 +352,9 @@
     <string name="permission_desc">İcazə detalları</string>
     <string name="permission_dialog_cancel">İmtina</string>
     <string name="permission_dialog_ok">Tənzimləmələr</string>
+    <string name="permission_notification_description">Səs yazarkən, oxudarkən və məzmun endirərkən xəbərdarlıqlar göndərmək üçün</string>
+    <string name="permission_notification_dialog_description">"Tətbiqin hazırkı vəziyyəti haqqında xəbərdarlıqlar göndərmək üçün"</string>
+    <string name="permission_notification_title">Tələb olunan icazələr</string>
     <string name="permission_read_phone_state">Cihaz məlumatlarına müraciət</string>
     <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq üçün zəng vəziyyətinə müraciət üçün</string>
     <string name="permission_record">Səs yaz</string>
@@ -390,7 +394,7 @@
     <string name="recognition_error_cancel">Ləğv edildi</string>
     <string name="recognition_error_code">Xəta kodu: %d</string>
     <string name="recognition_error_download_cancel">Daha sonra</string>
-    <string name="recognition_error_download_data_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin. Bu endirmə üçün təxminən 20 MB-lıq mobil internet lazımdır.</string>
+    <string name="recognition_error_download_data_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin. Bu endirmə üçün təxminən %d MB-lıq mobil internet lazımdır.</string>
     <string name="recognition_error_download_fail">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
     <string name="recognition_error_download_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin.</string>
     <string name="recognition_error_download_ok">Endir</string>
@@ -419,7 +423,6 @@
     <string name="recognize_choose_dialog_offline_desp">Səsyazmaları internetə bağlanmadan mətnə çevirin</string>
     <string name="recognize_choose_dialog_online">Buludda mətnə çevir</string>
     <string name="recognize_choose_dialog_online_desp">Dəqiq transkriptləri sürətlə əldə edin</string>
-    <string name="recognize_choose_dialog_online_free_duration">İlk 60 dəqiqəni ödənişsiz al</string>
     <string name="recognize_choose_dialog_online_price">%s CNY/saat</string>
     <string name="recognize_choose_dialog_service_desp">Mətnə çevirmə xidmətləri iflyrec.com tərəfindən təmin edilir</string>
     <string name="recognize_choose_dialog_service_intruction">Xidmət Şərtləri</string>
@@ -451,6 +454,14 @@
     <string name="record_permission_dialog_title">Mikrofon icazələri tələb edilir</string>
     <string name="record_quliaty_preference_title">Səsyazma keyfiyyəti</string>
     <string name="record_resotre">Səsyazmaları geri qaytar</string>
+    <string name="record_scenes_summaries_HD">Yüksək dinamik aralıq texnologiyası mikrofonun daha detallı səs əldə etməsinə imkan verir</string>
+    <string name="record_scenes_summaries_interview">%d nəfər arasındakı söhbəti daha aydın yazmaq üçün telefonu onların arasında yerləşdirin</string>
+    <string name="record_scenes_summaries_music">Daha yaxşı keyfiyyətlə musiqi yazın</string>
+    <string name="record_scenes_summaries_stereo_HD">Yüksək dinamik aralıq texnologiyası mikrofonun daha detallı səs əldə etməsinə imkan verir</string>
+    <string name="record_scenes_summaries_stereo_interview">%d nəfər arasındakı söhbəti daha aydın yazmaq üçün telefonu onların arasında yerləşdirin</string>
+    <string name="record_scenes_summaries_stereo_music">%d kanal üzərindən yazın, qulaqlıqlarla stereo səsi dinləyin</string>
+    <string name="record_scenes_summaries_stereo_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
+    <string name="record_scenes_summaries_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
     <string name="recorder_record">Səs</string>
     <string name="recording">Səs yazılır</string>
     <string name="recording_quality_high">Yüksək keyfiyyət</string>
@@ -461,7 +472,6 @@
     <string name="recovery_failed_dialog_button">Anladım</string>
     <string name="recovery_failed_dialog_title">Diqqət</string>
     <string name="reg_error_audio_exist">Bu fayl artıq mövcuddur.</string>
-    <string name="reg_error_audio_large">"Səs faylları 500MB-dən böyük ola bilməz."</string>
     <string name="reg_error_audio_short">Səs faylı çox kiçikdir.</string>
     <string name="reg_error_business">"Fayl mətnə çevrilə bilmədi. Bu xətanı bizə bildirib yenidən sınayın."</string>
     <string name="reg_error_client">Tətbiq məlumat xətası baş verdi. Bizə bildirib yenidən sınayın.</string>
@@ -528,9 +538,9 @@
     <string name="tab_call">Zənglər</string>
     <string name="tab_fm">FM</string>
     <string name="tap_to_record">Səs yazmağa başlamaq üçün düyməyə toxunun</string>
-    <string name="text_btn_backward_3_seconds">3 saniyə geri</string>
+    <string name="text_btn_backward_3_seconds">%d saniyə geri</string>
     <string name="text_btn_complete">Dayandır</string>
-    <string name="text_btn_forward_3_seconds">3 saniyə irəli</string>
+    <string name="text_btn_forward_3_seconds">%d saniyə irəli</string>
     <string name="text_btn_list">Səsyazmalar</string>
     <string name="text_btn_mark">İşarələ</string>
     <string name="text_btn_pause">Fasilə ver</string>

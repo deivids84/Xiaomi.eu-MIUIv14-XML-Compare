@@ -276,6 +276,7 @@
     <string name="onscreen_add_call_text">Zəng əlavə et</string>
     <string name="onscreen_audio_mode_handset">Qulaqlıq</string>
     <string name="onscreen_audio_mode_headset">Qulaqlıq</string>
+    <string name="onscreen_audio_mode_mirror">Planşet</string>
     <string name="onscreen_audio_mode_speaker">Dinamik</string>
     <string name="onscreen_call_record">Səsyazma</string>
     <string name="onscreen_change_to_video">Görüntülü zəng</string>

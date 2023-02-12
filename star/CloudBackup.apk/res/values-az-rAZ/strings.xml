@@ -45,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Daha çox anbar sahəsi əldə et</string>
     <string name="backup_action_check_network">Şəbəkə tənzimləmələrini yoxla</string>
     <string name="backup_action_clean_disk_space">Sahəni boşalt</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Elementlərinizi nüsxələyin</string>
     <string name="backup_action_long_time_not_backup_action">Nüsxələ</string>
     <string name="backup_action_long_time_not_backup_title">Təzəlikcə heç bir nüsxələmə yoxdur</string>
     <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdakı elementləri nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Mövcud bulud anbar seçimlərinə baxmaq üçün toxunun.</string>
@@ -152,6 +153,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin verilənləri Xiaomi Cloud-da nüsxəl
     <string name="cloud_backup_detail_state_summary_china">Cihaz Wi-Fi-a bağlı olmalıdır, enerji yığmalı və kilidli olmalıdır</string>
     <string name="cloud_backup_detail_time">Son nüsxələmə: %1$s</string>
     <string name="cloud_backup_detail_title">Elementləri nüsxələ</string>
+    <string name="cloud_backup_get_installed_apps_summary">Əsas ekran tətbiqlərini nüsxələmək və bərpa etmək üçün</string>
+    <string name="cloud_backup_get_installed_apps_title">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
     <string name="cloud_backup_have_data">Xiaomi Cloud-da nüsxə tapıldı</string>
     <string name="cloud_backup_in_cancel">İmtina</string>
     <string name="cloud_backup_in_process">Nüsxələnir</string>
@@ -171,6 +174,9 @@ Qeyd: Quraşdırdığınız tətbiqlərin verilənləri Xiaomi Cloud-da nüsxəl
     <string name="confirm_restore_summary">Əsas ekranınız yenidən başladıcaq. Nüsxələnmiş tətbiqlər avtomatik olaraq endiriləcək.</string>
     <string name="confirm_restore_title">Bərpa et</string>
     <string name="copy">Kopyala</string>
+    <string name="cta_dialog_all_purpose">"Cloud nüsxələməsinə xoş gəldiniz! Bu tətbiqi Əsas ekran düzümünüzü, tətbiqlərinizi, sistem tənzimləmələrinizi və WeChat məlumatlarınızı buluda nüsxələmək üçün istifadə edə bilərsiniz. Bütün özəlliklərimizdən faydalana bilmək üçün ən son versiyanı istifadə etdiyinizə əmin olun."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Tətbiqləri nüsxələmək və bərpa etmək üçün</string>
+    <string name="cta_dialog_permission_description_storage">Elementləri nüsxələmək və bərpa etmək üçün</string>
     <string name="customization"><u>Özəlləşdir</u></string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
@@ -189,6 +195,10 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_app_usage_consent_message">Bu özəlliyin WeChat nüsxələrinin həcmini təxmin edə bilməsi üçün tətbiq istifadə verilənlərinə müraciətinə ehtiyacı var.</string>
     <string name="dialog_app_usage_consent_title">Tətbiq istifadəsi verilənlərinə müraciətə icazə verin</string>
     <string name="dialog_app_usage_denied">Elementləri nüsxələyə bilmək üçün Tənzimləmələrdə Nüsxələmə üçün \"İstifadə müraciəti\" icazəsini verin.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Bütün vacib elementləri müntəzəm olaraq avtomatik nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Bütün vacib elementləri müntəzəm olaraq avtomatik nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Anladım</string>
+    <string name="dialog_auto_backup_condition_normal_title">Elementlərinizi nüsxələyin</string>
     <string name="dialog_backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="dialog_btn_cancel_backup">İmtina</string>
     <string name="dialog_btn_confirm2">Anladım</string>
@@ -214,6 +224,11 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_negative_btn_cancel_restore">Bərpa etməni dayandır</string>
     <string name="dialog_positive_btn_cancel_backup">"Ləğv et"</string>
     <string name="dialog_positive_btn_cancel_restore">"Dayandırma"</string>
+    <string name="dialog_recommend_wechat_backup_content">Artıq WeChat danışıqlarınızı və digər məlumatlarınızı Xiaomi Cloud-a nüsxələyə bilərsiniz. Elementləriniz nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Artıq WeChat danışıqlarınızı və digər məlumatlarınızı Xiaomi Cloud-a nüsxələyə bilərsiniz. Elementləriniz nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Anladım</string>
+    <string name="dialog_recommend_wechat_backup_positive">Daha ətraflı</string>
+    <string name="dialog_recommend_wechat_backup_title">WeChat məlumatlarını nüsxələ</string>
     <string name="dialog_title_cancel_backup">Nüsxələməni ləğv et</string>
     <string name="dialog_title_cancel_restore">Bərpa etməni dayandır</string>
     <string name="dialog_title_require_wlan">Wi-Fi-a bağlan</string>
@@ -380,6 +395,8 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="remove_task_in_process">Silinir…</string>
     <string name="remove_task_unfinished">Silmə tamamlanmadı</string>
     <string name="remove_unfinished">Silinir, daha sonra yenidən sınayın</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Artıq WeChat məlumatlarını nüsxələyə bilərsiniz. Detallar üçün toxunun.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">WeChat məlumatlarını nüsxələ</string>
     <string name="restore_app_order_finish">Hazırdır</string>
     <string name="restore_app_order_loading">Bir saniyə…</string>
     <string name="restore_app_order_retry">Yenidən sına</string>
@@ -478,6 +495,8 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Əsas ekran tətbiqləri üçün nüsxələmə açıldı</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">WeChat məlumatları nüsxələndi. Detallar üçün toxunun.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Avto-nüsxələmə tamamlandı</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>

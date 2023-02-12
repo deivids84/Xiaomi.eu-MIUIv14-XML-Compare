@@ -55,6 +55,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="can_not_delete_when_calling">"Zəng əsnasında sahələr silinə bilmir"</string>
     <string name="can_not_switch_when_calling">"Zəng əsnasında sahələr dəyişdirilə bilmir"</string>
     <string name="can_not_switch_when_green_kid_active">İkinci sahəyə keçid valideyn nəzarəti tərəfindən məhdudlaşdırıldı</string>
+    <string name="can_not_switch_when_green_kid_active_new">"Ailə Qoruma açıq olduqda İkinci sahəyə keçilə bilməz"</string>
     <string name="can_not_switch_when_super_power_active">"Ultra batareya qənaəti açıq olduqda sahələr dəyişdirilə bilmir"</string>
     <string name="cancelClosePassword">"Söndürməyin"</string>
     <string name="cancel_button">İmtina</string>

@@ -233,6 +233,8 @@
     <string name="item_view_role_description">Pestaña</string>
     <string name="label">Etiqueta</string>
     <string name="learn_more">Más información</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite de Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="lock_finger">Verifica la huella dactilar para instalar</string>
     <string name="lock_screen_authrioze_subtitle_password">Autorizar con bloqueo de pantalla</string>
     <string name="lock_screen_password_authrioze">Verifica el bloqueo de pantalla para instalar</string>

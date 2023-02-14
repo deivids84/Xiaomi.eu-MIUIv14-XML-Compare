@@ -5045,7 +5045,7 @@ Como mínimo conecta 4 puntos."</string>
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio. %1$s usado - %2$s libre</string>
     <string name="macaddr_label">Dirección MAC:</string>
-    <string name="magic_list_empty_text_pad">No hay aplicaciones compatibles con esta característica ahora</string>
+    <string name="magic_list_empty_text_pad">No se han encontrado aplicaciones que soporten ventanas paralelas</string>
     <string name="magic_window_name_pad">Ventanas paralelas</string>
     <string name="main_clear_accounts">"
 

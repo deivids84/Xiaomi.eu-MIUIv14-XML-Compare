@@ -7,6 +7,14 @@
         <item>Yüksək</item>
         <item>Ən yüksək</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Tarazlı</item>
+        <item>Yüksək keyfiyyət</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Tarazlı</item>
+        <item>İlkin</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Yüksək sürət</item>
         <item>Tarazlı</item>

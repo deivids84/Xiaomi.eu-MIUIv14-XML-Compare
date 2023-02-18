@@ -211,8 +211,8 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="enable_encrypt_title">Nüsxələri şifrələ</string>
     <string name="enable_local_backup">Yerli nüsxələmələri işə sal</string>
     <string name="enable_local_backup_and_restore">Yerli nüsxələmələri işə sal</string>
-    <string name="enable_local_backup_tips">Bu cihazdakı nüsxələmələri saxlaya bilmək və onları kompüterinizə və ya USB anbar cihazınıza kopyalaya bilmək üçün bu özəlliyi işə salın. İndi işə salınsın?</string>
-    <string name="enable_local_backup_tips_global">Bu cihazdakı nüsxələmələri saxlaya bilmək və onları kompüterinizə kopyalaya bilmək üçün bu özəlliyi işə salın. İndi işə salınsın?</string>
+    <string name="enable_local_backup_tips">Bu cihazdakı nüsxələri saxlaya bilmək və onları kompüterinizə və ya USB anbar vahidinə kopyalaya bilmək üçün bu özəlliyi işə salın. İndi işə salınsın?</string>
+    <string name="enable_local_backup_tips_global">Bu cihazdakı nüsxələri saxlaya bilmək və onları kompüterinizə kopyalaya bilmək üçün bu özəlliyi işə salın. İndi işə salınsın?</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="err_acquire_system_service">"Sistem xidmətləri başladıla bilmədi."</string>

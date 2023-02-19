@@ -615,7 +615,7 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_settins">Tənzimlə</string>
     <string name="xspace_start">Yarat</string>
     <string name="xspace_uninstall_completed">İkili tətbiq uğurla silindi</string>
-    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq verilənləri silinəcək.</string>
+    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
     <string name="xspace_uninstall_dialog_title">İkili tətbiqi sil</string>
     <string name="xspace_uninstalling">Silinir…</string>
     <string name="yesterday">Dünən</string>

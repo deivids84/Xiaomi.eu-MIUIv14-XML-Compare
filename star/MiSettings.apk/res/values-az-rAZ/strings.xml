@@ -879,7 +879,7 @@ Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aş
     <string name="usage_state_open_focus_mode">Fokus rejimini işə sal</string>
     <string name="usage_state_over_p">Daha yaxşı</string>
     <string name="usage_state_remind_new_summary">Ekran vaxtı təyin edilən limitə çatanda bir bildiriş al</string>
-    <string name="usage_state_remind_summary">Ekran vaxtı xəbərdarlıqları almaq üçün işə salın</string>
+    <string name="usage_state_remind_summary">Ekran vaxtı xəbərdarlıqlarını almaq üçün işə salın</string>
     <string name="usage_state_remind_title">Ekran vaxtı xəbərdarlığı</string>
     <string name="usage_state_rest_day">Həftə sonları</string>
     <string name="usage_state_running_days">Seriya (günlər)</string>

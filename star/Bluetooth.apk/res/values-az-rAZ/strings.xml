@@ -85,8 +85,8 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="defaultname">Avtomobil dəsti</string>
-    <string name="deleteAll_record">Bütün səsyazmaları sil</string>
-    <string name="delete_record">Səsyazmanı sil</string>
+    <string name="deleteAll_record">Bütün yazıları sil</string>
+    <string name="delete_record">Yazını sil</string>
     <string name="download_cancel">Dayandır</string>
     <string name="download_fail_line1">Fayl alınmadı</string>
     <string name="download_fail_line2">Fayl: %1$s</string>
@@ -131,7 +131,7 @@
     <string name="incoming_line1">Buradan:</string>
     <string name="incoming_line2">Fayl adı</string>
     <string name="incoming_line3">Həcmi</string>
-    <string name="insert_record">Qeyd daxil et</string>
+    <string name="insert_record">Yazı daxil et</string>
     <string name="localPhoneName">Adım</string>
     <string name="midnight">Gecə</string>
     <string name="miui_transfer_history_title">Bluetooth köçürmələri</string>
@@ -336,7 +336,7 @@
     <string name="unknown_file">Bilinməyən fayl</string>
     <string name="unknown_file_desc">"Bu fayl növünü açmaq üçün heç bir tətbiq yoxdur.
 "</string>
-    <string name="update_record">Səsyazmanı təsdiqlə</string>
+    <string name="update_record">Yazını təsdiqlə</string>
     <string name="upload_fail_cancel">Bağla</string>
     <string name="upload_fail_line1">"Fayl göndərilmədi: \"%1$s\"."</string>
     <string name="upload_fail_line1_2">Fayl: %1$s</string>

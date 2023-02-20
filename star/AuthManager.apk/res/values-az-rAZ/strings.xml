@@ -9,7 +9,7 @@
     <string name="HIPS_Action_Reject_This">Bir dəfə məhdudlaşdır</string>
     <string name="HIPS_Perm_Access_Gallery">Qalereyaya müraciət</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Bu tətbiqin Qalereyanızdakı elementlərə müraciətinə icazə verir</string>
-    <string name="HIPS_Perm_AudioRecorder">Səsyazma</string>
+    <string name="HIPS_Perm_AudioRecorder">Səs yaz</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">səs yaz</string>
     <string name="HIPS_Perm_AutoStart">Başlanğıcda işə salma</string>
     <string name="HIPS_Perm_AutoStart_Desc">başlanğıcda işə salır</string>
@@ -97,6 +97,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Daxil olmaq üçün operatordan telefon nömrəsini alır</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"İndi bir toxunuşla daxil ola bilmirsinizsə, daxil olma səhifəsinə geri qayıdın və yenidən sınayın."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu tətbiq, daxil olmaq üçün opetordan telefon nömrənizi almaq istəyir. İcazə verilsin?</string>
+    <string name="HIPS_Perm_operator_shake">Akselerometr məlumatlarına müraciət</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Akselerometr məlumatları istiqamət və hərəkəti izləmək üçün istifadə olunur (məs. silkələnmə, əymə və döndərmə)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">yaxın sahə rabitəsi (NFC) təchizatına müraciət edər</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon tətbiqinə müraciət</string>
@@ -305,11 +307,12 @@
     <string name="perm_modem_location_desc">Operatorunuz yerləşmə məlumatlarınıza müraciət etməyə çalışır. Yerləşmə məlumatları operatorunuzla paylaşılsın?</string>
     <string name="permdesc_add_voicemail">%1$s üçün sistem səsli mesajı əlavə etmə icazəsi verilsin?</string>
     <string name="permdesc_call_phone">%1$s üçün zəng etmə icazəsi verilsin?</string>
-    <string name="permdesc_camera">%1$s üçün foto və video çəkmə icazəsi verilsin?</string>
+    <string name="permdesc_camera">%1$s üçün foto çəkmə və video yazma icazəsi verilsin?</string>
     <string name="permdesc_get_account">%1$s üçün bu cihazda saxlanılan bütün hesablara müraciət icazəsi verilsin?</string>
+    <string name="permdesc_isolate_storage">%1$s üçün bu cihazda saxlanılan foto, video və səslərə müraciət icazəsi verilsin?</string>
     <string name="permdesc_location">%1$s üçün yerləşmə məlumatlarına müraciət icazəsi verilsin?</string>
     <string name="permdesc_location_background">%1$s üçün arxaplanda yerləşmə məlumatlarına müraciət icazəsi verilsin?</string>
-    <string name="permdesc_microphone">%1$s üçün səsyazma üçün mikrofonu istifadə etmə icazəsi verilsin?</string>
+    <string name="permdesc_microphone">%1$s tətbiqinə səsyazma üçün mikrofonu istifadə etmə icazəsi verilsin?</string>
     <string name="permdesc_nearby_devices">%1$s üçün yaxınlıqdakı cihazları aşkarlama və onlara bağlanma icazəsi verilsin?</string>
     <string name="permdesc_post_notification">%1$s üçün bildiriş göndərmə icazəsi verilsin?</string>
     <string name="permdesc_process_outgoing_call">%1$s üçün zəngləri cavablandırma və sonlandırma icazəsi verilsin?</string>
@@ -324,6 +327,7 @@
     <string name="permdesc_recognition">%1$s üçün fəaliyyət məlumatlarınıza müraciət icazəsi verilsin?</string>
     <string name="permdesc_send_sms">%1$s üçün mətn mesajlarını göndərmə icazəsi verilsin?</string>
     <string name="permdesc_sensors">%1$s üçün bədən sensorları tərəfindən yaradılmış verilənləri oxuma icazəsi verilsin?</string>
+    <string name="permdesc_shake">%1$s üçün akselerometr məlumatlarına müraciət icazəsi verilsin?</string>
     <string name="permdesc_use_sip">%1$s üçün video yayımlamaq üçün Seans Başlatma Protokolunu (SIP) istifadə etmə icazəsi verilsin?</string>
     <string name="permdesc_write_calendar">%1$s üçün təqvim tədbirlərini yaratma və saxlama icazəsi verilsin?</string>
     <string name="permdesc_write_call_log">%1$s üçün zəng tarixçəsinə düzəliş etmə icazəsi verilsin?</string>
@@ -331,11 +335,13 @@
     <string name="permdesc_write_storage">%1$s üçün bu cihazda faylları və fotoları saxlama icazəsi verilsin?</string>
     <string name="permgroupdesc_calendar">%1$s üçün təqvim tədbirlərinə müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_calllog">%1$s üçün elementlərə müraciət etməyə və onların zəng tarixçəsində saxlama icazəsi verilsin?</string>
-    <string name="permgroupdesc_camera">%1$s üçün foto və video çəkmə icazəsi verilsin?</string>
+    <string name="permgroupdesc_camera">%1$s üçün foto çəkmə və video yazma icazəsi verilsin?</string>
     <string name="permgroupdesc_contacts">%1$s üçün kontaktlara müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_location">%1$s üçün yerləşmə məlumatlarına müraciət icazəsi verilsin?</string>
-    <string name="permgroupdesc_microphone">%1$s üçün səsyazma icazəsi verilsin?</string>
+    <string name="permgroupdesc_microphone">%1$s üçün səsi yazma icazəsi verilsin?</string>
     <string name="permgroupdesc_phone">%1$s üçün zəng etmə və cihaz məlumatlarına müraciət icazəsi verilsin?</string>
+    <string name="permgroupdesc_read_media_aural">%1$s üçün cihazınızda saxlanılan səs fayllarına müraciət icazəsi verilsin?</string>
+    <string name="permgroupdesc_read_media_visual">%1$s üçün cihazınızda saxlanılan foto və videolara müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_recognition">%1$s üçün sağlamlıq və fəaliyyət verilənlərinə müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_sensors">%1$s üçün bədən senson verilənlərinə müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_sms">%1$s üçün SMS oxuma və ya göndərmə icazəsi verilsin?</string>

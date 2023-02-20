@@ -135,7 +135,7 @@
     <string name="cancel_restore">Dayandır</string>
     <string name="check_privacy_policy">Gizlilik Siyasətinə bax</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_soft_ap_to_link">Bağlanmaq üçün giriş nöqtəsi seçin</string>
+    <string name="click_soft_ap_to_link">Bağlanmaq üçün bir hotspot seçin</string>
     <string name="click_to_view">Baxmaq üçün toxunun</string>
     <string name="close">Bağla</string>
     <string name="close_twice_auth_btn">İki mərhələli kimlik təsdiqləməni söndür</string>
@@ -664,8 +664,8 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="sms_title">Mesajlaşma</string>
-    <string name="soft_ap_create_failed">"Giriş nöqtəsi yardıla bilmədi"</string>
-    <string name="soft_ap_creating">Giriş nöqtəsi yaradılır…</string>
+    <string name="soft_ap_create_failed">"Hotspot yaradıla bilmədi"</string>
+    <string name="soft_ap_creating">Hotspot yaradılır…</string>
     <string name="software_backup_info">Tətbiq verilənləri</string>
     <string name="start_backup">Nüsxələ</string>
     <string name="start_restore">Bərpa et</string>
@@ -847,7 +847,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_intro_desc_old_market">\"Başlat\"a toxunun. Yeni telefonda QR kodu skan edin, Mi Mover-in göndəriləcək faylları müəyyən etməsini gözləyin və \"Göndər\"ə toxunun.</string>
     <string name="trans_intro_desc_private">"Mi Mover, gizli albomdakı fotolara şifrəli olduğu üçün müraciət edə bilmir. Bu fotoları yeni cihazda Xiaomi Cloud-dan bərpa edə bilərsiniz."</string>
     <string name="trans_intro_question_1">%d. iOS cihazından məlumat daşımaq üçün Mi Mover-i necə istifadə edə bilərəm?</string>
-    <string name="trans_intro_question_10">"%d. Bağlantı nöqtəsini köhnə cihazda tapa bilmirsiniz?"</string>
+    <string name="trans_intro_question_10">"%d. Hotspot-u köhnə cihazda tapa bilmirsiniz?"</string>
     <string name="trans_intro_question_2">%d. Android cihazından məlumat daşımaq üçün Mi Mover-i necə istifadə edə bilərəm?</string>
     <string name="trans_intro_question_3">%d. Mi Mover müəyyən bir addımda ilişərsə nə etməliyəm?</string>
     <string name="trans_intro_question_4">"%d. Köçürmələr zamanı niyə Wi-Fi-ı istifadə edə bilmirəm?"</string>
@@ -905,7 +905,7 @@ Sonra QR kodu yaratmaq üçün \"Yenidən bağlantı qur\"a toxunun."</string>
     <string name="trans_progress_subdescript_waiting">%s qəbul edilməsi gözlənilir</string>
     <string name="trans_receiver">"Alıcıyam"</string>
     <string name="trans_receiver_time_remained">"%s qaldı.
-Wi-Fi Giriş nöqtəsini bağlamayın.
+Wi-Fi Hotspot-u söndürməyin.
 Cihazları bir-birinə yaxın saxlayın."</string>
     <string name="trans_receiving_completed">Uğurla alındı</string>
     <string name="trans_restoring">Bərpa edilir…</string>
@@ -984,8 +984,8 @@ Boş yer açın və ya yalnız vacib elementləri köçürün."</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_password_description">Parolu göstər</string>
     <string name="wait_link">"Köhnə cihazda \"Mi Mover\"i açın,
-\"Mən göndərənəm\"ə toxunun və bağlantı qurulacaq bir giriş nöqtəsi seçin.
-Bağlantı qurulmazdan əvvəl səhifəni bağlamayın."</string>
+\"Mən göndərənəm\"ə toxunun və bağlanmaq üçün bir hotspot seçin.
+Bağlantı qurulmadan səhifəni bağlamayın."</string>
     <string name="waiting">Bir saniyə…</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>

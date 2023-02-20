@@ -569,6 +569,7 @@
     <string name="partner_compatibility">Tərəfdaş uyğunluğu</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="path_calendar_settings">Sistem tətbiqləri/Təqvim/Tənzimləmələr</string>
+    <string name="permission_denial">Bu özəlliyi istifadə edə bilmək üçün icazələri verin</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="picker_day">Seçilmiş gün: %1$d. Seçmək üçün şaquli olaraq sürüşdür.</string>
     <string name="picker_month">Seçilmiş ay: %1$d. Seçmək üçün şaquli olaraq sürüşdür.</string>
@@ -603,6 +604,7 @@
     <string name="preferences_week_start_day_title">Həftənin başlanğıcı</string>
     <string name="prefsx_notify_sound_none">Səssiz</string>
     <string name="premission_description_log">Jurnalları yaddaşda saxlamaq üçün</string>
+    <string name="premission_description_notice">Tədbirlər və bayramlar haqqında bildiriş göndərmək üçün</string>
     <string name="premission_description_ringtone">Zəng səslərini tənzimləmək üçün</string>
     <string name="privacy_and_permissions">Gizlilik və icazələr</string>
     <string name="privacy_card_description">Bütün özəlliklərə müraciət etmək üçün Gizlilik Siyasətimizi qəbul edin.</string>

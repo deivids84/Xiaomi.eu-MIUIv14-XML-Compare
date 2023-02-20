@@ -40,6 +40,7 @@
     <string name="all_share_files_content">Seçdiyiniz fayllar artıq silinib.</string>
     <string name="am">GƏ</string>
     <string name="app_label">Endirilənlər</string>
+    <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="bt_download">Endir</string>
     <string name="bt_path_not_exit">"Bu yol mövcud deyil"</string>
     <string name="bt_xunlei_open_info">Bu növ bağlantıları açmaq üçün Xunlei Engine istifadə edilsin?</string>
@@ -157,9 +158,11 @@
     <string name="insufficient_space">Yetərli anbar sahəsi yoxdur</string>
     <string name="invalid_address">Daxil etdiyiniz fayl yolu yararsızdır</string>
     <string name="jump_rank_hint">"Bugünkü endirmə sıralamasına nəzər yetirin &gt;"</string>
+    <string name="jump_rank_hint2">Başlıca endirmələr bax</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">Sabah baxmağa davam edə bilərsiniz</string>
     <string name="loading">Bir saniyə…</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_des_vip">Xunlei üzvlüyü</string>
     <string name="menu_title_fileexplore">Fayl Meneceri</string>

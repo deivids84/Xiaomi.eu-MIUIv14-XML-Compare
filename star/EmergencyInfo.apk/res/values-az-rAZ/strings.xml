@@ -316,13 +316,13 @@ seçimi"</string>
     <string name="debug_input_category">Giriş</string>
     <string name="debug_layout">Düzüm sərhədlərini göstər</string>
     <string name="debug_layout_summary">Kəsmə sərhədləri, haşiyələri və s. göstər</string>
-    <string name="debug_monitoring_category">Nəzarət</string>
+    <string name="debug_monitoring_category">Monitorinq</string>
     <string name="debug_networking_category">Şəbəkə qurma</string>
     <string name="debug_view_attributes">Baxış atributunun müayinəsini fəallaşdır</string>
     <string name="default_user_icon_description">İlkin istifadəçi nişanı</string>
     <string name="delete_blob_confirmation_text">Bu paylaşılan verilənləri silmək istədiyinizə əminsiniz?</string>
     <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
-    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydedici ilə nəzarət etmədiyinizdə, cihazınızda olan jurnal qeydedici verilənlərini silməyimiz lazımdır.</string>
+    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydedici ilə monitorinq etmədiyinizdə, cihazınızda olan jurnal qeydedici verilənlərini silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydedicinin davamlı anbar sahəsi təmizlənsin?</string>
     <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
     <string name="dev_settings_warning_title">Tərtibatçı tənzimləmələrinə icazə verilsin?</string>

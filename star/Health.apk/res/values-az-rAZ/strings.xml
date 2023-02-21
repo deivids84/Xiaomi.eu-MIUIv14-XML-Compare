@@ -1550,10 +1550,10 @@ tapıla bilmədi"</string>
     <string name="tb_go_next_a_day">Əvvəlki gün</string>
     <string name="tb_go_on_detection">Davam et</string>
     <string name="tb_has_snore_dream_talk">Danışma və xoruldama aşkarlandı</string>
-    <string name="tb_hearing_card">Eşitmə | Qulaqlıq pozlama: %1$s | Qeyd edildi: %2$s.</string>
-    <string name="tb_hearing_column">%1$s | Qulaqlıq pozlama: %2$s | Yüksək səslər: %3$s.</string>
-    <string name="tb_hearing_daily_card">%1$s | Qulaqlıq pozlama: %2$s | Yüksək səslər: %3$s.</string>
-    <string name="tb_hearing_wm_card">%1$s | Ortalama qulaqlıq pozlama: %2$s | Ortalama yüksək səs pozlama: %3$s.</string>
+    <string name="tb_hearing_card">Eşitmə | Qulaqlıq ekspozisiyası: %1$s | Qeyd edildi: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Qulaqlıq ekspozisiyası: %2$s | Yüksək səslər: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Qulaqlıq ekspozisiyası: %2$s | Yüksək səslər: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Ortalama qulaqlıq ekspozisiyası: %2$s | Ortalama yüksək səs ekspozisiyası: %3$s.</string>
     <string name="tb_heart_rate_max_min">Nəbz. Yuxarı: %1$d. Aşağı: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Qan təzyiqi. Yuxarı: %1$d. Aşağı: %2$d. Qeyd edildi: %3$s. Vəziyyət: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Qan təzyiqi. Məlumat yoxdur.</string>

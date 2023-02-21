@@ -5,11 +5,11 @@
         <item>Qadın</item>
     </string-array>
     <string-array name="net_diag_err_link_quality">
-        <item>Poor Wi-Fi connection. Switch wireless bands or reboot the router.</item>
+        <item>Zəif Wi-Fi bağlantısı. Naqilsiz zolaqları dəyişdirin və ya ruteri yenidən başladın.</item>
         <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor Wi-Fi connection. Switch wireless bands or reboot the router.</item>
+        <item>Zəif Wi-Fi bağlantısı. Naqilsiz zolaqları dəyişdirin və ya ruteri yenidən başladın.</item>
         <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">

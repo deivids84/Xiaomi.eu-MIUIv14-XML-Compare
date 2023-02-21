@@ -145,7 +145,7 @@
     <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_right_now">Bərpa et</string>
     <string name="retry">Yenidən sına</string>
-    <string name="sar">RF Məruz qalma məlumatları</string>
+    <string name="sar">RF Ekspozisiya Məlumatı</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şən</string>

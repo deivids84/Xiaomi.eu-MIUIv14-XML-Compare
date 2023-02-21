@@ -36,6 +36,7 @@
     <string name="accessibility_data_signal_full">Data siqnalı tamdır.</string>
     <string name="accessibility_data_three_bars">Data siqnalı üç xətdir.</string>
     <string name="accessibility_data_two_bars">Data siqnalı iki xətdir.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Rəng korreksiyası bunları etmək istəyərkən faydalı ola bilər:&lt;br/&gt; &lt;ol&gt; &lt;li&gt;&amp;nbsp;Rəngləri daha dəqiq görmək&lt;/li&gt; &lt;li&gt;&amp;nbsp;Fokuslanmağınıza kömək etməsi üçün rəngləri aradan qaldırmaq&lt;/li&gt; &lt;/ol&gt;</string>
     <string name="accessibility_display_daltonizer_preference_title">Rəng düzəltmə</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kəsildi.</string>
@@ -91,7 +92,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Cihaz cütləşdirilir…</string>
     <string name="adbwifi_warning_message">Wi‑Fi sazlama yalnız inkişaf məqsədləri üçün nəzərdə tutulub. Kompüterinizlə cihazınız arasında məlumat kopyalamaq, cihazınızda tətbiqləri bildirişsiz quraşdırmaq və jurnal verilənlərini oxumaq üçün istifadə edin.</string>
     <string name="adbwifi_warning_title">Wi-Fi sazlamasına icazə verilsin?</string>
-    <string name="add_emergency_contact">Kontakt əlavə et</string>
+    <string name="add_emergency_contact">Əlaqə əlavə et</string>
     <string name="add_guest_failed">Yeni bir qonaq yaradılmadı</string>
     <string name="add_medical_info">Məlumat əlavə et</string>
     <string name="add_user_failed">Yeni istifadəçi yaradılmadı</string>
@@ -113,7 +114,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="allow_turn_screen_on_description">Bir tətbiqin ekranı açmasına icazə verin. İcazə versəniz, tətbiq istənilən vaxt sizin müdaxiləniz olmadan ekranı aça bilər.</string>
     <string name="animator_duration_scale_title">Animator müddəti miqyası</string>
     <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) tənzimləmələri bu istifadəçi üçün əlçatan deyil</string>
-    <string name="app_label">Fövqəladə vəziyyət məlumatı</string>
+    <string name="app_label">Fövqəladə hal məlumatı</string>
     <string name="app_process_limit_title">Arxaplan proses limiti</string>
     <string name="available_via_carrier">%1$s vasitəsilə əlçatandır</string>
     <string name="available_via_passpoint">%1$s vasitəsilə əlçatandır</string>
@@ -128,7 +129,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="battery_info_status_charging_slow">Yavaş enerji yığır</string>
     <string name="battery_info_status_charging_wireless">Naqilsiz enerji yığır</string>
     <string name="battery_info_status_discharging">Enerji yığmır</string>
-    <string name="battery_info_status_full">Enerji yığdı</string>
+    <string name="battery_info_status_full">Doldu</string>
     <string name="battery_info_status_full_charged">Tam dolub</string>
     <string name="battery_info_status_not_charging">Bağlantı quruldu, enerji yığmır</string>
     <string name="battery_info_status_unknown">Bilinmir</string>
@@ -342,11 +343,11 @@ seçimi"</string>
     <string name="dream_complication_title_date">Tarix</string>
     <string name="dream_complication_title_time">Vaxt</string>
     <string name="dream_complication_title_weather">Hava</string>
-    <string name="edit_info">Fövqəladə vəziyyət məlumatına düzəliş et</string>
+    <string name="edit_info">Fövqəladə hal məlumatına düzəliş et</string>
     <string name="emergency_action_subtitle">%1$s üçün bir zəng hazırlanır</string>
-    <string name="emergency_action_title">Fövqəladə vəziyyət SOS</string>
-    <string name="emergency_contacts_title">Fövqəladə vəziyyət kontaktları</string>
-    <string name="emergency_info_footer">"Tibbi məlumatları və fövqəladə vəziyyətdə zəng ediləcək şəxsləri əlavə etmək, fövqəladə vəziyyətdə ilk müdaxilə edənlərə kömək edə bilər.
+    <string name="emergency_action_title">Fövqəladə halda SOS</string>
+    <string name="emergency_contacts_title">Fövqəladə hal əlaqələri</string>
+    <string name="emergency_info_footer">"Tibbi məlumatları və fövqəladə hallarda zəng ediləcək şəxsləri əlavə etmək, fövqəladə hallarda ilk müdaxilə edənlərə kömək edə bilər.
 
 Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adlara toxunaraq telefonun kilidini açmadan onlara zəng edə bilər."</string>
     <string name="enable_adb">USB sazlama</string>
@@ -562,7 +563,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="profile_info_settings_title">Profil məlumatı</string>
     <string name="remaining_length_format">%1$s qalıb</string>
     <string name="remove">Sil</string>
-    <string name="remove_contact">%1$s, fövqəladə vəziyyət kontaktlarından silinsin?</string>
+    <string name="remove_contact">%1$s, fövqəladə hal əlaqələrindən silinsin?</string>
     <string name="remove_contact_icon_text">Kontaktı sil</string>
     <string name="remove_dob_icon_text">Doğum tarixini sil</string>
     <string name="retail_demo_reset_message">Demo rejimində fabrik tənzimləmələrinə qayıtmaq üçün parolu daxil edin</string>
@@ -594,7 +595,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
     <string name="settings_label">Tənzimləmələr</string>
     <string name="settings_suggestion_body">İlk cavab verənlərin məlumatlarınıza baxmasına icazə verin</string>
-    <string name="settings_suggestion_title">Fövqəladə vəziyyət məlumatı əlavə et</string>
+    <string name="settings_suggestion_title">Fövqəladə hal məlumatı əlavə et</string>
     <string name="settingslib_learn_more_text">Daha ətraflı</string>
     <string name="shared_data_delete_failure_text">Paylaşılan verilənlər silinərkən bir xəta baş verdi.</string>
     <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan verilənlər üçün icarə yoxdur. Silmək istəyirsiniz?</string>
@@ -633,12 +634,13 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="sud_next_button_label">Növbəti</string>
     <string name="tab_title_contacts">Kontaktlar</string>
     <string name="tab_title_info">Məlumat</string>
+    <string name="tap_pencil">Telefonunuzun kilidi açıq olduqda, fövqəladə hallarda burada göstəriləcək məlumatları əlavə etmək üçün qələb nişanına toxunun</string>
     <string name="tap_to_sign_up">Qeydiyyatdan keçmək üçün toxunun</string>
-    <string name="tether_settings_title_all">İnternet paylaşma və hotspot</string>
+    <string name="tether_settings_title_all">İnternet paylaşımı və portativ hotspot</string>
     <string name="tether_settings_title_bluetooth">Bluetooth internet paylaşımı</string>
     <string name="tether_settings_title_usb">USB internet paylaşımı</string>
     <string name="tether_settings_title_usb_bluetooth">İnternet paylaşımı</string>
-    <string name="tether_settings_title_wifi">Daşına bilən hotspot</string>
+    <string name="tether_settings_title_wifi">Portativ hotspot</string>
     <string name="tethering_hardware_offload">İnternet paylaşımı təchizat sürətləndirmə</string>
     <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı təchizat sürətləndirməni istifadə et</string>
     <string name="tethering_settings_not_available">İnternet paylaşım tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
@@ -754,6 +756,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wifi_connected_low_quality">Aşağı keyfiyyət</string>
     <string name="wifi_connected_no_internet">İnternet yoxdur</string>
     <string name="wifi_coverage_extend">Wi‑Fi əhatə dairəsi genişləndirmə özəlliyini fəallaşdır</string>
+    <string name="wifi_coverage_extend_summary">Hotspot ilə Wi-Fi əhatə dairəsini genişləndirməni fəallaşdır</string>
     <string name="wifi_disabled_by_recommendation_provider">Aşağı keyfiyyətli şəbəkəyə görə bağlantı qurulmadı</string>
     <string name="wifi_disabled_generic">Sıradan çıxarıldı</string>
     <string name="wifi_disabled_network_failure">IP Konfiqurasiya Xətası</string>
@@ -784,7 +787,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wifi_security_short_none_owe">Heç biri/OWE</string>
     <string name="wifi_ssid_is_empty">SSID səhəsi boş buraxıla bilməz</string>
     <string name="wifi_ssid_length_is_max">SSID 32 simvoldan çox ola bilməz</string>
-    <string name="wifi_status_mac_randomized">MAC randomizə olunub</string>
+    <string name="wifi_status_mac_randomized">MAC ünvanı təsadüfi seçilir</string>
     <string name="wifi_status_no_internet">İnternet yoxdur</string>
     <string name="wifi_status_sign_in_required">Daxil olma tələb edilir</string>
     <string name="wifi_unmetered_label">Ölçülməyən</string>
@@ -799,6 +802,7 @@ Zəhmət olmasa sertifikatların etibarlılığını yoxlayın"</string>
 Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifi_wapi_psk_type">Parol növü</string>
     <string name="wifi_wapi_user_certificate">İstifadəçi sertifikatı</string>
+    <string name="wifitrackerlib_admin_restricted_network">Təşkilatınız icazə vermir</string>
     <string name="wifitrackerlib_auto_connect_disable">Avto-bağlantı qurma bağlıdır</string>
     <string name="wifitrackerlib_available_via_app">%1$s ilə əlçatandır</string>
     <string name="wifitrackerlib_connected_via_app">%1$s ilə bağlantı quruldu</string>

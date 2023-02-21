@@ -469,7 +469,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_detail">Vergi detalları</string>
     <string name="tax_detail_amount">Vergi miqdarı</string>
     <string name="tax_detail_rate">Vergi dərəcəsi</string>
-    <string name="tax_detail_take_off">Tutulma</string>
+    <string name="tax_detail_take_off">Çıxarma</string>
     <string name="tax_detail_tax_payed">Ödənilən miqdar</string>
     <string name="tax_endowment">Pensiya fondu</string>
     <string name="tax_fixed_salary_hint">Vergidən əvvəlki gəlirinizi daxil edin</string>

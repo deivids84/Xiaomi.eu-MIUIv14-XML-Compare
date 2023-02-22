@@ -51,6 +51,7 @@
     <string name="back_double_tap">İki dəfə geri düyməsinə toxun</string>
     <string name="back_tap">Geri düyməsinə toxun</string>
     <string name="back_triple_tap">Üç dəfə geri düyməsinə toxun</string>
+    <string name="backup_suspend_hint">Bu tətbiq indi nüsxələnir. Nüsxələmə tamamlanana qədər gözləyib yenidən sınayın.</string>
     <string name="battery_authentic_failed_button">Anladım</string>
     <string name="battery_authentic_failed_title">Diqqət</string>
     <string name="beep">Bip</string>
@@ -114,7 +115,7 @@
     <string name="dark_mode_suggest_message">Daha rahat baxış təcrübəsi əldə etmək üçün gün batanda avtomatik Qaranlıq rejimə keçə bilərsiniz</string>
     <string name="dark_mode_suggest_title">"Qaranlıq olur"</string>
     <string name="dark_mode_suggest_toast">Qaranlıq rejim, indidən etibarən gün batanda avtomatik olaraq açılacaq və gün çıxanda söndürüləcək</string>
-    <string name="data_usage_context">Wi-Fi açıq deyilsə, cihazınız bir mobil şəbəkəyə qoşulacaq, istifadə etdiyiniz tarifə görə sizdən əlavə ödəniş tutula bilər. Təşəkkürlər!</string>
+    <string name="data_usage_context">Wi-Fi açıq deyilsə, cihazınız bir mobil şəbəkəyə bağlanacaq, istifadə etdiyiniz tarifə görə sizdən əlavə ödəniş tutula bilər. Təşəkkürlər!</string>
     <string name="daydream">Xəyal</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
     <string name="default_name">İlkin</string>
@@ -140,7 +141,7 @@
     <string name="dump_log">Problemlə əlaqəli jurnalları al</string>
     <string name="echo">Əks-səda</string>
     <string name="eighthours">8 saat</string>
-    <string name="enable_livetalk_summary">Zəng qiymətlərində 70% qənaət edin</string>
+    <string name="enable_livetalk_summary">Zəng xərclərinə 70% qənaət edin</string>
     <string name="enable_livetalk_title">Balans paketini aç</string>
     <string name="enable_midrop">Aç</string>
     <string name="enable_nfc">Artıq enerji yığmır. NFC yenidən açıldı.</string>
@@ -172,6 +173,8 @@
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
     <string name="fp_nav_center_action_choose_dlg_title">Cəld toxunmanı aç</string>
     <string name="freeform_exchange_tip">Tətbiqi açmaq üçün buraxın</string>
+    <string name="freeform_exchange_tip2">Ləğv etmək üçün küncə sürüşdürün</string>
+    <string name="freeform_exchange_tip3">Tam ekran rejimində üzən pəncərəni aç</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">Tez-tez istifadə edilən e-poçt</string>
     <string name="frequent_phrases">Çox istfdə olunan ifadələr</string>
@@ -324,6 +327,7 @@
     <string name="nps_description">gps vəziyyət bildirişi</string>
     <string name="nps_mock_description">virtual yerləşmə istifadə edilir, bərpa üçün yenidən başlatma lazımdır</string>
     <string name="nps_monitor_name">GPS yerləşməsi</string>
+    <string name="nps_noise_description">Hazırkı mühitdə GPS siqnalına müdaxilə edilir</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 dəqiqə</string>
@@ -396,6 +400,9 @@
     <string name="relaunch_unfold_notification_content">Bu tətbiq bu ekranda düzgün görüntülənməyə bilər. Düzümləri nizamlamaq üçün tətbiqi yenidən başladın.</string>
     <string name="remain">Qalan: %s</string>
     <string name="replace">Dəyişdir</string>
+    <string name="rescueparty_package_tips">Sistem xidməti {0} pozuntu aşkarlandı</string>
+    <string name="rescuepartyplus_config_reset_context">Bəzi məlumatlar təmizlənmiş ola bilər. Detallara baxmaq üçün toxunun.</string>
+    <string name="rescuepartyplus_config_reset_title">Sistemin təmiri tamamlandı</string>
     <string name="rescuepartyplus_config_reset_url">https://new.c.mi.com/global/post/109818</string>
     <string name="resolver_app_recommend_flag">Tövsiyə et</string>
     <string name="resolver_checkbox_always">Həmişə</string>
@@ -438,6 +445,7 @@
     <string name="security_permission_open_wifi_settings">Wi-Fi tənzimləmələrini aç</string>
     <string name="security_permission_validate_warning">MIUI-ni daha yaxşı etməyə kömək etdiyiniz üçün təşəkkür edirik!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi və mobil internet açıldı</string>
+    <string name="security_permission_xiaomi_account_missed_text">Xiaomi Hesab Kimliyinizi daxil edin</string>
     <string name="security_share_text">Gizlilik qoruması</string>
     <string name="select">Seç</string>
     <string name="select_all">Hamısını seç</string>
@@ -480,6 +488,7 @@
     <string name="standard_description">Gələn zənglər və bildirişlər üçün zəng səslərini susdur</string>
     <string name="standard_title">Səssiz</string>
     <string name="start_dump_log">Problemlə əlaqəli jurnal almağa başlayın</string>
+    <string name="start_security_permission_verify_text">Xiaomi Hesabınızla icazələri təsdiqləyin</string>
     <string name="status_bar_toggle_auto_brightness">Parlaqlıq</string>
     <string name="status_bar_toggle_battery_saver">Batareyaya qənaət</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -560,16 +569,19 @@ cihazınızı qatlayın"</string>
     <string name="wallpaper_group_concerto_title">Konsert</string>
     <string name="wallpaper_group_crystallization_subtitle">Elmin gözəlliyi</string>
     <string name="wallpaper_group_crystallization_title">Kristallaşma</string>
+    <string name="wallpaper_group_curves_title">Əyrilər</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dinamik nebula</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Həndəsə</string>
+    <string name="wallpaper_group_light_cycles_title">Neon dairələr</string>
     <string name="wallpaper_group_macaron_title">Çınqıllar</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalizm</string>
     <string name="wallpaper_group_molten_glass_title">Ərimiş şüşə</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Daha çox sistem divar kağızları</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen və digərləri</string>
     <string name="wallpaper_group_natural_texture_title">Təbiət naxışları</string>
+    <string name="wallpaper_group_petros_koublis_title">Xəyallar</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Arizona Universiteti</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>

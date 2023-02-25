@@ -269,6 +269,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="miheadset_notification_Disconnect">Bağlantını kəs</string>
     <string name="miheadset_notification_LeftEar">Sol</string>
     <string name="miheadset_notification_RightEar">Sağ</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Bu cihazda ölçülü səsə keçildi</string>
     <string name="mihome_app_download">İndi quraşdır</string>
     <string name="mihome_app_update">İndi güncəllə</string>
     <string name="mihome_download_tips">Mi Home tətbiqini quraşdırın, daxil olun və telefonunuzu cihazın yaxınlığında saxlayın.</string>

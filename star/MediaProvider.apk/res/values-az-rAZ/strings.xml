@@ -144,12 +144,28 @@
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permission_delete_image">{count, plural, one {}=1 {^1 üçün bu fotonu silmə icazəsi verilsin?} other {^1 üçün ^2 fotonu silmə icazəsi verilsin?} }</string>
     <string name="permission_delete_video">{count, plural, one {}=1 {^1 üçün bu videonu silmə icazəsi verilsin?} other {^1 üçün ^2 videonu silmə icazəsi verilsin?} }</string>
+    <string name="permission_progress_trash_audio">{count, plural, one {}=1 {Səs faylı tullantı qutusuna daşınır…} other {^1 səs faylı tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_generic">{count, plural, one {}=1 {Element tullantı qutusuna daşınır…} other {^1 element tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_image">{count, plural, one {}=1 {Foto tullantı qutusuna daşınır…} other {^1 foto tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_trash_video">{count, plural, one {}=1 {Video tullantı qutusuna daşınır…} other {^1 video tullantı qutusuna daşınır…} }</string>
+    <string name="permission_progress_untrash_audio">{count, plural, one {}=1 {Səs faylı tullantı qutusundan daşınır…} other {^1 səs faylı tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_generic">{count, plural, one {}=1 {Element tullantı qutusundan daşınır…} other {^1 element tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_image">{count, plural, one {}=1 {Foto tullantı qutusundan daşınır…} other {^1 foto tullantı qutusundan daşınır…} }</string>
+    <string name="permission_progress_untrash_video">{count, plural, one {}=1 {Video tullantı qutusundan daşınır…} other {^1 video tullantı qutusundan daşınır…} }</string>
     <string name="permission_progress_write_audio">{count, plural, one {}=1 {Səs faylı dəyişdirilir…} other {^1 səs faylı dəyişdirilir…} }</string>
     <string name="permission_progress_write_generic">{count, plural, one {}=1 {Element dəyişdirilir…} other {^1 element dəyişdirilir…} }</string>
     <string name="permission_progress_write_image">{count, plural, one {}=1 {Foto dəyişdirilir…} other {^1 foto dəyişdirilir…} }</string>
     <string name="permission_progress_write_video">{count, plural, one {}=1 {Video dəyişdirilir…} other {^1 video dəyişdirilir…} }</string>
     <string name="permission_required">Bu elementi dəyişdirmək və ya silmək üçün icazə tələb olunur.</string>
     <string name="permission_required_action">Davam et</string>
+    <string name="permission_trash_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 səs faylını tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_generic">{count, plural, one {}=1 {^1 üçün bu elementi tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 elementi tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_image">{count, plural, one {}=1 {^1 üçün bu fotonu qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 fotonu tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_trash_video">{count, plural, one {}=1 {^1 üçün bu videonu tullantı qutusuna daşıma icazəsi verilsin?} other {^1 üçün ^2 videonu tullantı qutusuna daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 səs faylını tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_generic">{count, plural, one {}=1 {^1 üçün bu elementi tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 elementi tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_image">{count, plural, one {}=1 {^1 üçün bu fotonu qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 fotonu tullantı qutusundan daşıma icazəsi verilsin?} }</string>
+    <string name="permission_untrash_video">{count, plural, one {}=1 {^1 üçün bu videonu tullantı qutusundan daşıma icazəsi verilsin?} other {^1 üçün ^2 videonu tullantı qutusundan daşıma icazəsi verilsin?} }</string>
     <string name="permission_write_audio">{count, plural, one {}=1 {^1 üçün bu səs faylını dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 səs faylını dəyişdirmə icazəsi verilsin?} }</string>
     <string name="permission_write_generic">{count, plural, one {}=1 {^1 üçün bu elementi dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 elementi dəyişdirmə icazəsi verilsin?} }</string>
     <string name="permission_write_image">{count, plural, one {}=1 {^1 üçün bu fotonu dəyişdirmə icazəsi verilsin?} other {^1 üçün ^2 fotonu dəyişdirmə icazəsi verilsin?} }</string>
@@ -193,6 +209,7 @@
     <string name="root_videos">Videolar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="select">Seç</string>
+    <string name="select_up_to">{count, plural, one {}=1 {Ən çox ^1 element seçin} other {Ən çox ^1 element seçin} }</string>
     <string name="selected">Seçildi</string>
     <string name="storage_description">Yerli anbar</string>
     <string name="transcode_cancel">İmtina</string>

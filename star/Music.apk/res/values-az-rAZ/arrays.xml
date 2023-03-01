@@ -4,6 +4,12 @@
         <item>Kişi</item>
         <item>Qadın</item>
     </string-array>
+    <string-array name="aritst_gender_filter_api">
+        <item>hamısı</item>
+        <item>kişi</item>
+        <item>qadın</item>
+        <item>qrup</item>
+    </string-array>
     <string-array name="recommendation_desc_week">
         <item>Bazar günü tövsiyələri</item>
         <item>Bazar ertəsi tövsiyələri</item>

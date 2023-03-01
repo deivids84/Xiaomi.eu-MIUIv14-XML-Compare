@@ -23,22 +23,22 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
         <item quantity="one">Pleyer %d dəqiqə ərzində dayanacaq</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"%1$s cihazında yaradıldı
-ümumi %2$d mahnı"</item>
-        <item quantity="one">"%1$s cihazında yaradıldı
-ümumi %2$d mahnı"</item>
+        <item quantity="other">"%1$s üzərində cəmi 
+%2$d mahnı yaradıldı"</item>
+        <item quantity="one">"%1$s üzərində cəmi 
+%2$d mahnı yaradıldı"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d mahnı oynatma siyahısına əlavə edildi</item>
-        <item quantity="one">%d mahnı oynatma siyahısına əlavə edildi</item>
+        <item quantity="other">%d mahnı pleylistə əlavə edildi</item>
+        <item quantity="one">%d mahnı pleylistə əlavə edildi</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d mahnı</item>
         <item quantity="one">%d mahnı</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d mahnı oynatma siyahısından silindi</item>
-        <item quantity="one">%d mahnı oynatma siyahısından silindi</item>
+        <item quantity="other">%d mahnı pleylistdən silindi</item>
+        <item quantity="one">%d mahnı pleylistdən silindi</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d oxşar mahnı</item>
@@ -107,8 +107,8 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%d mahnı silinsin?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
-        <item quantity="other">%d of the selected songs are stored in an external folder. Grant the required permissions to delete them.</item>
-        <item quantity="one">%d of the selected songs is stored in an external folder. Grant the required permissions to delete it.</item>
+        <item quantity="other">%d seçilmiş mahnı xarici bir qovluqda saxlanıldı. Onları silmək üçün tələb olunan icazələri verin.</item>
+        <item quantity="one">%d seçilmiş mahnı xarici bir qovluqda saxlanıldı. Onu silmək üçün tələb olunan icazələri verin.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\"&gt;%d mahnı&lt;/font&gt; endirildi</item>
@@ -135,8 +135,8 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%s baxış</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d ədəd ödənişsiz endirmə qaldı</item>
-        <item quantity="one">%d ədəd ödənişsiz endirmə qaldı</item>
+        <item quantity="other">%d ödənişsiz endirmə qaldı</item>
+        <item quantity="one">%d ödənişsiz endirmə qaldı</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -163,7 +163,7 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d izləyən</item>
+        <item quantity="other">%d izləyici</item>
         <item quantity="one">%d izləyici</item>
     </plurals>
     <plurals name="list_header_follow_count">
@@ -187,8 +187,8 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%1$d fayl endirilir</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">"%1$d elementi endirilə bilmədi"</item>
-        <item quantity="one">"%1$d elementi endirilə bilmədi"</item>
+        <item quantity="other">"%1$d element endirilə bilmədi"</item>
+        <item quantity="one">"%1$d element endirilə bilmədi"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
@@ -203,8 +203,8 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%d mahnı göndəriləcək</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d mahnı buraxıldı. Mahnıları dinləmək üçün onlayn xidmətləri açın.</item>
-        <item quantity="one">%d mahnı buraxıldı. Mahnı dinləmək üçün onlayn xidmətləri açın.</item>
+        <item quantity="other">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
+        <item quantity="one">%d mahnı ötürüldü. Dinləmək üçün tənzimləmələrdə onlayn xidmətləri işə salın.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Mahnılar sevimlilərə əlavə edildi.</item>
@@ -215,15 +215,15 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%d mahnı</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Mahnılar arasındakı kəsişmə %d saniyə</item>
-        <item quantity="one">Mahnılar arasındakı kəsişmə %d saniyə</item>
+        <item quantity="other">Mahnılar arasında keçid: %d saniyə</item>
+        <item quantity="one">Mahnılar arasında keçid: %d saniyə</item>
     </plurals>
     <plurals name="task_guide">
         <item quantity="other">Bu gün %1$d qazan</item>
         <item quantity="one">Bu gün %1$d qazan</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Video</item>
+        <item quantity="other">Videolar</item>
         <item quantity="one">Video</item>
     </plurals>
     <plurals name="video_play_count">
@@ -231,7 +231,7 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="one">%1$s baxış</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d gün qalır</item>
-        <item quantity="one">%d gün qalır</item>
+        <item quantity="other">%d gün qaldı</item>
+        <item quantity="one">%d gün qaldı</item>
     </plurals>
 </resources>

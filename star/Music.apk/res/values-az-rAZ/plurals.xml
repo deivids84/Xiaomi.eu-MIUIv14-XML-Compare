@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Ümumi %d mahnı</item>
-        <item quantity="one">Ümumi %d mahnı</item>
+        <item quantity="other">Cəmi %d mahnı</item>
+        <item quantity="one">Cəmi %d mahnı</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Albom üzlükləri və mahnı sözləri axtarılır (%1$d/%2$d)</item>
-        <item quantity="one">Albom üzlükləri və mahnı sözləri axtarılır (%1$d/%2$d)</item>
+        <item quantity="other">Albom üzü və mahnı sözləri axtarılır (%1$d/%2$d)</item>
+        <item quantity="one">Albom üzü və mahnı sözləri axtarılır (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Abunəliyiniz %d günündə müddəti bitir.
-Abunəliyinizi yeniləmək üçün sizə kömək etməyimizi istəyirsiniz?"</item>
-        <item quantity="one">"Abunəliyiniz %d günündə müddəti bitir.
-Abunəliyinizi yeniləmək üçün sizə kömək etməyimizi istəyirsiniz?"</item>
+        <item quantity="other">"Abunəliyiniz %d günə bitir.
+Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
+        <item quantity="one">"Abunəliyiniz %d günə bitir.
+Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
         <item quantity="other">%1$d ödənişsiz mahnı endirə bilərsiniz. %2$s indi endirilsin?</item>
         <item quantity="one">%1$d ödənişsiz mahnı endirə bilərsiniz. %2$s indi endirilsin?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Oynadıcı %d dəqiqə ərzində dayandırılacaq</item>
-        <item quantity="one">Oynadıcı %d dəqiqə ərzində dayandırılacaq</item>
+        <item quantity="other">Pleyer %d dəqiqə ərzində dayanacaq</item>
+        <item quantity="one">Pleyer %d dəqiqə ərzində dayanacaq</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"%1$s cihazında yaradıldı
@@ -122,6 +122,18 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirilir</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d mahnı&lt;/font&gt; endirilir</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniyə irəli çək</item>
+        <item quantity="one">%d saniyə irəli çək</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniyə geri çək</item>
+        <item quantity="one">%d saniyə geri çək</item>
+    </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s baxış</item>
+        <item quantity="one">%s baxış</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d ədəd ödənişsiz endirmə qaldı</item>
         <item quantity="one">%d ədəd ödənişsiz endirmə qaldı</item>
@@ -161,6 +173,10 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d element seçildi</item>

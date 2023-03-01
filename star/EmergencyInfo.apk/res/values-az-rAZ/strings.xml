@@ -449,7 +449,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="medical_info_title">Tibbi məlumat</string>
     <string name="medications">Dərmanlar</string>
     <string name="medications_hint">Məsələn, aspirin</string>
-    <string name="mobile_data_always_on">Mobil internet həmişə aktiv</string>
+    <string name="mobile_data_always_on">Mobil internet həmişə aktivdir</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi aktiv olsa belə mobil interneti həmişə aktiv saxla (şəbəkələr arasında sürətli keçid etmək üçün).</string>
     <string name="mock_location_app">Saxta yerləşmə tətbiqini seçin</string>
     <string name="mock_location_app_not_set">Saxta yerləşmə tətbiqi tənzimlənməyib</string>

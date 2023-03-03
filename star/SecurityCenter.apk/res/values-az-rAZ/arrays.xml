@@ -177,6 +177,10 @@
         <item>"Təsdiqlənməyən üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>
         <item>Bəzi üçüncü tərəf tətbiqlərdə şəxsi məlumatlarınızı riskə atan zərərli proqram ola bilər.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>İlkin</item>
+        <item>Hamısı</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Daxili anbar</item>
         <item>Xarici anbar</item>

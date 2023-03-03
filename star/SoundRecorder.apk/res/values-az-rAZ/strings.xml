@@ -462,6 +462,7 @@
     <string name="record_scenes_summaries_stereo_music">%d kanal üzərindən yazın, qulaqlıqlarla stereo səsi dinləyin</string>
     <string name="record_scenes_summaries_stereo_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
     <string name="record_scenes_summaries_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
+    <string name="record_while_in_call_tip">"Zəng əsnasında səs yazıla bilmir"</string>
     <string name="recorder_record">Səs</string>
     <string name="recording">Səs yazılır</string>
     <string name="recording_quality_high">Yüksək keyfiyyət</string>

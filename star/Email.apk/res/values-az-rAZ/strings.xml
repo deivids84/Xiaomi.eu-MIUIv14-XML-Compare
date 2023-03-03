@@ -667,6 +667,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="message_all_body">Tam mesaj</string>
     <string name="message_body_load_set_description">Mobil internet istifadə edərkən e-poçtları yüklə</string>
     <string name="message_discarded">Qaralama silindi</string>
+    <string name="message_forward_has_signature_pdf">İmzalı PDF qoşmaları ilə yönləndirirsiniz?</string>
     <string name="message_invite_accept">Bəli</string>
     <string name="message_invite_calendar_download_prompt">Bu özəlliyi istifadə edə bilmək üçün Təqvimi endirin</string>
     <string name="message_invite_calendar_view">Təqvimdə bax</string>

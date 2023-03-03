@@ -43,6 +43,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree">Razıyam</string>
     <string name="alarm_alert_alert_silenced">Zəngli saat %1$s sonra susduruldu.</string>
+    <string name="alarm_alert_close_entrance">Söndür</string>
     <string name="alarm_alert_disabled">Bağlı</string>
     <string name="alarm_alert_now">%s zəngli saatı</string>
     <string name="alarm_alert_snooze_button">Ertələ</string>
@@ -57,6 +58,7 @@
     <string name="alarm_list_title">Zəngli saat</string>
     <string name="alarm_notify_snooze_label">%s ertələmə</string>
     <string name="alarm_notify_text">Zəngli saatı ertələ və ya ləğv et.</string>
+    <string name="alarm_permanent_alert">Çağırır</string>
     <string name="alarm_repeat">Təkrarla</string>
     <string name="alarm_ringtone">Zəngli saat səsləri</string>
     <string name="alarm_ringtone_picker">Zəngli saatlar</string>
@@ -421,8 +423,10 @@ d/M"</string>
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> dəqiqə əvvəl</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> saat əvvəl</string>
     <string name="notification_adv_time_entries5">Heç nə</string>
+    <string name="notification_permission_desc">"Bildiriş icazəsini verməsəniz, çağıranda siqnalları söndürə bilməyəcəksiniz. İndi icazə verilsin?"</string>
     <string name="oneshot_alarm">Çaldıqdan sonra sil</string>
     <string name="open_keep_screen">Ekran açıq qalacaq</string>
+    <string name="open_notification_permission_remind">Bildirişlərin siqnalları söndürə bilməsinə icazə verin</string>
     <string name="open_sleep_record">Aç</string>
     <string name="other_category_title">Digər</string>
     <string name="other_settings">Əlavə tənzimləmələr</string>

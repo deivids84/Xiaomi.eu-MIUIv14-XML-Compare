@@ -165,7 +165,7 @@
     <string name="community_community_message_trigger_summary">Mi Hesab kimliyinizi istifadə edərək cavablar, bəyənmələr və Mi Cəmiyyətindəki status güncəlləmələri ilə bağlı bildirişlər alın</string>
     <string name="community_community_message_trigger_title">Fəaliyyəti bildir</string>
     <string name="community_cta_dialog_cancel">Xeyr, təşəkkür</string>
-    <string name="community_cta_dialog_des">Üçüncü tərəf temalar, artıq Mi Cəmiyyət vicetini dəstəkləyir. \"Temalar\"ın burada baxa bilməsi üçün hesabla əlaqələndirilmiş Mi Hesabı kimliyinizə və Mi Cəmiyyətindəki statuslarınıza müraciət etməsinə icazə verin.</string>
+    <string name="community_cta_dialog_des">Üçüncü tərəf temalar, artıq Xiaomi Cəmiyyət vicetini dəstəkləyir. \"Temalar\"ın burada baxa bilməsi üçün hesabla əlaqələndirilmiş Xiaomi Hesabı kimliyinizə və Xiaomi Cəmiyyətindəki statuslarınıza müraciət etməsinə icazə verin.</string>
     <string name="community_cta_dialog_ok">İcazə ver</string>
     <string name="community_cta_dialog_title">Tələb olunan icazələr</string>
     <string name="community_entrance_summary">Mi Cəmiyyətində tema ilə əlaqəli məzmunu tapın. Bu özəllik seçilmiş temalar tərəfindən dəstəklənir.</string>
@@ -302,7 +302,7 @@
     <string name="evening">Günortadan sonra</string>
     <string name="exchange_alert">Tədbirlərimiz zamanı kodları əldə edə və burada istifadə edə bilərsiniz</string>
     <string name="exchange_code_dialog_title">Diqqət</string>
-    <string name="exchange_code_not_match_account_dialog_content">Bu kod artıq başqa bir Mi Hesabı tərəfindən istifadə edilib. Həmin Mi Hesabına daxil olub yenidən sınayın.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Bu kod artıq başqa bir Xiaomi Hesabı tərəfindən istifadə edilib. Həmin Xiaomi Hesabına daxil olub yenidən sınayın.</string>
     <string name="exit_extreme_mode_dialog_agree">Razıyam</string>
     <string name="exit_extreme_mode_dialog_cancel">İmtina</string>
     <string name="exit_extreme_mode_dialog_title">Ekstremal rejimi söndür</string>
@@ -749,7 +749,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Çıxış etdikdən sonra aşağıdakı əməliyyatları icra edə bilməyəcəksiniz.
 Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün və istifadə edin."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">\"Divar kağızı və fərdiləşdirmə\"dən çıxılsın?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="pad_fold_log_in_wallpaper">\"Divar kağızı və fərdiləşdirmə\"yə daxil olun</string>
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
@@ -779,7 +779,7 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
 2. Rəy və bəyənmə əlavə etmə, digər şəxsləri izləmə və onlarla qarşılıqlı əlaqədə olma."</string>
     <string name="phone_exit_theme_warning_title">\"Temalar\"dan çıxılsın?</string>
     <string name="phone_log_in_theme">\"Temalar\"a daxil olun</string>
-    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="playing_ringtone">Oynadılır</string>
     <string name="pm">GS</string>
     <string name="pref_lockscreen_magazine_summary">Divar kağızını müxtəlif kateqoriyalardan olan şəkillərin slayd şouları ilə əvəz edin</string>
@@ -1060,6 +1060,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_list_title">Son seçilənlər</string>
     <string name="resource_local_picker">Yerli zəng səsi seçin</string>
     <string name="resource_menu_refresh">Təzələ</string>
+    <string name="resource_mi_ai_picker">Mi AI zəng səsini seçin</string>
     <string name="resource_mute">Yoxdur</string>
     <string name="resource_my">Xətdən kənar</string>
     <string name="resource_network_diagnostics"><u>Şəbəkəni test et</u></string>
@@ -1250,7 +1251,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Yüksəklik</string>
     <string name="supersave_mode_toast_message">"Bu özəllik, Ultra batareya qənaəti istifadə edərkən əlçatmazdır. Bunu istifadə edə bilmək üçün Ultra batareya qənaətini söndürün."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Bu divar kağızı artıq başqa bir Mi Hesabı ilə əlaqələndirilib. Həmin Mi Hesabınıza daxil olub yenidən sınayın.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Bu divar kağızı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib. Həmin Xiaomi Hesabınıza daxil olub yenidən sınayın.</string>
     <string name="support_theme_store_des">Yaxşı temalar, hər zaman istedadlı dizaynerlər tərəfindən hazırlanır. Tətbiqimiz, onların işlərini dəstəkləməyə imkan verən az miqdarda reklam ehtiva edir.</string>
     <string name="support_theme_store_supported">Dəstəyiniz üçün təşəkkürlər!</string>
     <string name="support_theme_store_title">Dizaynerlərimizi dəstəkləyin</string>
@@ -1360,7 +1361,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_is_external_priority_storage_summary">Bu tənzimləmənin tətbiq edilməsi üçün Temalar tətbiqi dərhal yenidən başladılacaq.</string>
     <string name="theme_log_out">Çıxış et</string>
     <string name="theme_multiple_button_title_customize">Özəlləşdir</string>
-    <string name="theme_need_login_dialog_content">Davam etmək üçün Mi Hesabınıza daxil olun.</string>
+    <string name="theme_need_login_dialog_content">Davam etmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="theme_no">Xeyr</string>
     <string name="theme_not_include_module_desc">"Bu temada aşağıdakı elementlər yoxdur: %s"</string>
     <string name="theme_on_the_phone_alert">"Zəng əsnasında oynadıla bilmir"</string>

@@ -165,7 +165,7 @@
     <string name="community_community_message_trigger_summary">Reciba notificaciones sobre respuestas, Me gusta y actualizaciones de estado de Mi Community usando su ID de Mi Cuenta</string>
     <string name="community_community_message_trigger_title">Notificar sobre actividad</string>
     <string name="community_cta_dialog_cancel">No, gracias</string>
-    <string name="community_cta_dialog_des">Los temas de terceros ahora son compatibles con el widget Mi Community. Permita que Themes acceda a su ID de Mi Cuenta y los estados de Mi Comunidad asociados con la cuenta para poder verlos aquí.</string>
+    <string name="community_cta_dialog_des">Los temas de terceros ahora soportan el widget de la Comunidad Xiaomi. Permite que Temas acceda a tu ID de cuenta Xiaomi y a los estados de la Comunidad asociados con tu cuenta para verlos aquí.</string>
     <string name="community_cta_dialog_ok">Permitir</string>
     <string name="community_cta_dialog_title">Solicitud de permiso</string>
     <string name="community_entrance_summary">Encuentra contenido relacionado con el tema en Mi Community. Esta función es compatible con temas seleccionados.</string>
@@ -302,7 +302,7 @@
     <string name="evening">Tarde</string>
     <string name="exchange_alert">Puede obtener códigos durante nuestros eventos y canjearlos aquí</string>
     <string name="exchange_code_dialog_title">Atención</string>
-    <string name="exchange_code_not_match_account_dialog_content">Este código ya ha sido canjeado por otra cuenta Mi. Inicia sesión con esa cuenta Mi e inténtalo de nuevo.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Este código ya se ha canjeado con otra cuenta Xiaomi. Inicia sesión con esa cuenta e inténtalo otra vez.</string>
     <string name="exit_extreme_mode_dialog_agree">Aceptar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
     <string name="exit_extreme_mode_dialog_title">Desactivar modo extremo</string>
@@ -751,7 +751,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"No podrá realizar las siguientes acciones después de cerrar sesión:
 Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">¿Cerrar sesión en Fondo de pantalla y personalización?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>\"He leído y acepto el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;, así como el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt; (para iniciar sesión utilizando la cuenta del sistema) \".</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>\"He leído y acepto el &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; de Fondo de pantalla y personalización, así como el &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; y la &lt;a href=\"%4$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; de la cuenta de Xiaomi (para iniciar sesión con la cuenta del sistema).</Data></string>
     <string name="pad_fold_log_in_wallpaper">Iniciar sesión en Fondo de pantalla y personalización</string>
     <string name="pad_fold_no_permission">Se requieren permisos de almacenamiento</string>
     <string name="pad_fold_no_permission_detail">Para poder cambiar las preferencias de personalización y guardar los elementos descargados, primero permita que esta función acceda al almacenamiento.</string>
@@ -781,7 +781,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
 2. Agrega comentarios y me gusta, sigue a otras personas e interactúa con ellas."</string>
     <string name="phone_exit_theme_warning_title">¿Cerrar sesión en Temas?</string>
     <string name="phone_log_in_theme">Iniciar sesión en Temas</string>
-    <string name="phone_log_in_theme_detail"><Data>\"He leído y acepto el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;, así como el Acuerdo de usuario &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; y &lt;a href=\"%4$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt; (para iniciar sesión usando la cuenta del sistema) \".</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>\"He leído y acepto el &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; de Temas, así como el &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; y la &lt;a href=\"%4$s\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt; de la cuenta de Xiaomi (para iniciar sesión con la cuenta del sistema).</Data></string>
     <string name="playing_ringtone">Reproduciendo</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Reemplace el fondo de pantalla con presentaciones de diapositivas de imágenes de varias categorías</string>
@@ -1062,6 +1062,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="resource_list_title">Seleccionado recientemente</string>
     <string name="resource_local_picker">Elija un tono de llamada local</string>
     <string name="resource_menu_refresh">Actualizar</string>
+    <string name="resource_mi_ai_picker">Elegir tono de llamada Mi IA</string>
     <string name="resource_mute">Ninguno</string>
     <string name="resource_my">Fuera de línea</string>
     <string name="resource_network_diagnostics"><u>Test de red</u></string>
@@ -1250,7 +1251,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
     <string name="supersave_mode_toast_message">"Esta función no está disponible cuando se usa el ahorro de batería Ultra. Desactive el ahorro de batería Ultra para poder utilizarlo."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Este fondo de pantalla ya está asociado con otra cuenta Mi. Inicie sesión con esa cuenta Mi y vuelva a intentarlo.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Este fondo de pantalla está asociado con otra cuenta Xiaomi. Inicia sesión con esa cuenta e inténtalo otra vez.</string>
     <string name="support_theme_store_des">Los buenos temas siempre son creados por diseñadores talentosos. Nuestra aplicación contiene una pequeña cantidad de anuncios que nos permiten respaldar su trabajo.</string>
     <string name="support_theme_store_supported">¡Gracias por tu apoyo!</string>
     <string name="support_theme_store_title">Apoya a nuestros diseñadores</string>
@@ -1360,7 +1361,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="theme_is_external_priority_storage_summary">La app Temas se reiniciará inmediatamente para que surta efecto.</string>
     <string name="theme_log_out">Cerrar sesión</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
-    <string name="theme_need_login_dialog_content">Inicie sesión en su cuenta Mi para continuar.</string>
+    <string name="theme_need_login_dialog_content">Inicia sesión en tu cuenta Xiaomi para continuar.</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Este tema no contiene los siguientes elementos: %s"</string>
     <string name="theme_on_the_phone_alert">"No puedo jugar durante las llamadas"</string>

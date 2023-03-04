@@ -323,6 +323,9 @@
     <string name="callrecordview_item_op_time_rejected">Rechazada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Saliente: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Respuesta automática</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Asistente de llamada Mi IA</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Activación manual</string>
     <string name="callrecordview_item_op_video">Vídeo</string>
     <string name="callrecordview_menu_add_call_note">Añadir nota de llamada</string>
     <string name="callrecordview_menu_aiphone">Llamadas IA</string>
@@ -1104,7 +1107,8 @@ Para empezar, pulsa el botón Combinar de la parte inferior de la pantalla."</st
     <string name="scan_business_card">Escanear tarjeta de visita</string>
     <string name="scan_bussiness_card_merge_tip">Los datos conflictivos han sido sustituidos</string>
     <string name="scan_merge">\"Buscando contactos duplicados…\"</string>
-    <string name="scan_not_installed">Instala el Escáner primero</string>
+    <string name="scan_not_installed_china">Instalar antes el escaner Mi IA</string>
+    <string name="scan_not_installed_global">Instalar antes el Escanner</string>
     <string name="scan_qrcode_card_hint1">Escanear el código QR superior</string>
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">"La memoria interna no pudo analizarse"</string>

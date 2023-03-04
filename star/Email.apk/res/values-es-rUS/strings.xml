@@ -669,6 +669,7 @@ Declinado:
     <string name="message_all_body">Mensaje completo</string>
     <string name="message_body_load_set_description">Cargar correos cuando se estén usando datos móviles</string>
     <string name="message_discarded">Borrador descartado</string>
+    <string name="message_forward_has_signature_pdf">¿Reenvía con archivos adjuntos en PDF firmados?</string>
     <string name="message_invite_accept">Sí</string>
     <string name="message_invite_calendar_download_prompt">Descargar el calendario para usar esta función</string>
     <string name="message_invite_calendar_view">Ver en Calendario</string>

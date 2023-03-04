@@ -187,6 +187,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cannot_download_to_sdcard_hint">"No se puede descargar elementos en la tarjeta SD debido a restricciones de derechos de autor. Los elementos serán descargados en el almacenamiento interno en su lugar."</string>
+    <string name="card_content_descriptor">tarjeta</string>
     <string name="change_activate_email">Cambiar dirección de correo electrónico</string>
     <string name="change_download_quality">Cambiar calidad de descarga</string>
     <string name="change_password">Cambiar contraseña</string>
@@ -576,6 +577,9 @@ Remite este código al supervisor."</string>
     <string name="headset_and_audio_effect_category">Auriculares y efectos de audio</string>
     <string name="headset_and_audio_effect_summary">Auriculares y ecualizador</string>
     <string name="headset_and_audio_effect_title">Auriculares y efectos de audio</string>
+    <string name="hgm_vip_btn_desc">Comenzar la prueba gratuita</string>
+    <string name="hgm_vip_high_quality">Descargas de alta calidad</string>
+    <string name="hgm_vip_no_ads">Sin anuncios ni limitaciones</string>
     <string name="hide_album">Ocultar cubierta del álbum</string>
     <string name="hide_lyric">Ocultar letras</string>
     <string name="hifi_quality">Calidad Hi-Fi</string>
@@ -689,6 +693,7 @@ Remite este código al supervisor."</string>
     <string name="just_hit_next">Solo presiona siguiente</string>
     <string name="keep_queued_download">Mantener</string>
     <string name="ktv_playlist">Lista de reproducción KTV</string>
+    <string name="label">Etiqueta</string>
     <string name="language_page_confirm">Confirmar</string>
     <string name="language_preference">Preferencias de idioma</string>
     <string name="language_preference_desc">Selecciona tu idioma preferido para recibir las recomendaciones más relevantes</string>
@@ -810,6 +815,8 @@ Remite este código al supervisor."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudieron cargar los elementos"</string>
     <string name="mobile_recommended_title">Uso de datos móviles</string>
+    <string name="modal_content_descriptor">modal</string>
+    <string name="modal_inner_content_descriptor">modal interno</string>
     <string name="modify_lyric">Editar letra</string>
     <string name="modify_pic">Cambiar cubierta</string>
     <string name="modify_progress">Cambiar la velocidad de desplazamiento de la letra</string>

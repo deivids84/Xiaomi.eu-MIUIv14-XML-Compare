@@ -554,6 +554,7 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cloud_bacup_disable_processing">Procesando…</string>
     <string name="cloud_camera_display_name">Fotos de la cámara</string>
     <string name="cloud_cancel_authorizing_to_device">Cancelando autorización…</string>
+    <string name="cloud_data_size">Fotos y vídeos en la nube: %1$s</string>
     <string name="cloud_full_space_tip_message">Actualiza tu plan de almacenamiento en la nube para poder sincronizar todas tus fotos y vídeos en la nube.</string>
     <string name="cloud_full_space_tip_negative">Ahora no</string>
     <string name="cloud_full_space_tip_positive">Actualizar</string>
@@ -1264,6 +1265,7 @@ disponibles"</string>
     <string name="id_photo_module_finish">Se ha descargado el plug-in \"ID\"</string>
     <string name="id_photo_module_loading">Descargando el plug-in \"ID\"…</string>
     <string name="ignore_album">"No mostrar"</string>
+    <string name="ignore_alert_dialog_title">¿Ignorar a esta persona?</string>
     <string name="ignore_alert_title">"¿No mostrar este álbum? Pulsa la esquina superior derecha para ver las fotos ignoradas."</string>
     <string name="ignore_face">Ignorar a esta persona</string>
     <string name="ignore_faces_title">Ignorado</string>

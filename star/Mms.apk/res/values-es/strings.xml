@@ -819,7 +819,7 @@ Se requiere enviar un mensaje SMS para activar Mi Message. Tu operador te cobrar
     <string name="pref_rcs_show_report_message">Recibir informes de entrega</string>
     <string name="pref_rcs_show_report_message_tip">Reciba informes cuando sus mensajes se entreguen a la otra persona</string>
     <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueados en la lista de conversaciones</string>
-    <string name="pref_show_list_avatar_summary">Mostrar en lista fotos de perfil e información de contacto</string>
+    <string name="pref_show_list_avatar_summary">Mostrar fotos del perfil e información de contacto en la lista</string>
     <string name="pref_show_photo_word_summary">Asignar automáticamente una imagen a los contactos sin una</string>
     <string name="pref_show_sms_template_entry_summary">Detectar contraseñas de una sola vez y mostrar menús rápidos</string>
     <string name="pref_show_sms_template_in_summary">Detectar automáticamente las contraseñas incluidas en sus mensajes SMS</string>
@@ -1538,7 +1538,7 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="title_not_show_read_mms_perm_req">Permisos necesarios</string>
     <string name="title_pref_cm_smart_sms">China SMS elegante móvil</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
-    <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
+    <string name="title_show_list_avatar">Mostrar fotos del perfil</string>
     <string name="title_show_photo_word">Asignar fotos a contactos</string>
     <string name="title_show_sms_template">Mensajes Inteligentes</string>
     <string name="title_show_sms_template_in">Comprobar OTP en sus SMS</string>

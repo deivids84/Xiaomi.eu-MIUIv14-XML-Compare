@@ -112,7 +112,7 @@
     <string name="delete_file_success">Borrado</string>
     <string name="delete_operation_record">¿Eliminar este registro?</string>
     <string name="delete_operation_record_timeout">"No se pudo borrar el registro. Espera un par de minutos e inténtalo otra vez."</string>
-    <string name="delete_record_only">"Los elementos a los que se refieren los registros seleccionados no serán eliminados."</string>
+    <string name="delete_record_only">Solo se eliminarán los registros seleccionados. No se eliminará ningún archivo.</string>
     <string name="delete_success">Eliminado correctamente</string>
     <string name="detail_download_path">"Ubicación: "</string>
     <string name="detail_download_time">"Descargado: "</string>
@@ -364,7 +364,7 @@ Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI
     <string name="operation_move">Mover</string>
     <string name="operation_rename">Renombrar</string>
     <string name="operation_save">Guardar</string>
-    <string name="operation_sure_to_delete">¿Eliminar?</string>
+    <string name="operation_sure_to_delete">¿Eliminar el historial?</string>
     <string name="operation_transport_success">Añadido a transferencias</string>
     <string name="operation_will_not_show_after_delete">El registro ya no aparecerá aquí si lo borra.</string>
     <string name="pause_all">Pausar todo</string>

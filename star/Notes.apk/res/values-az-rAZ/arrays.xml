@@ -18,13 +18,13 @@
         <item>Qeyd</item>
     </string-array>
     <string-array name="first_guide_contents">
-        <item>Qeydlərə xoş gəlmisiniz!</item>
-        <item>Qeyd edin</item>
-        <item>Qeydlərinizdə, mətn, şəkil və səs yazmaları istifadə edə bilərsiniz. Stillər və yazı şriftlərinə sahib olan zəngin kitabxana, qaralamalarınızı möhtəşəm göstərər.</item>
+        <item>\"Qeydlər\"ə xoş gəldiniz!</item>
+        <item>Qeyd aparın</item>
+        <item>Qeydlərinizdə mətn, təsvir və səs yazılarını istifadə edə bilərsiniz. Zəngin bir stil və şriftlərə sahib kitabxana, sadə qaralamalarınızı heyrətamiz göstərəcək.</item>
         <item>Yoxlama siyahıları və xatırlatmalar, növbəti səfərinizi planlaşdırmaq və ya mağaza siyahısını birləşdirmək üçün əsas və effektiv vasitələrə ehtiyac olduqda kömək etmək üçün gəlir.</item>
         <item>Qeydləri paylaş</item>
         <item>Qeydlərdə avtomatik olaraq sürüşən ekran görüntüləri yarada bilərsiniz, və sonra onları dostlarınız ilə paylaşa bilərsiniz.</item>
-        <item>Yarat &amp; qovluqlar arasında dəyişdir</item>
+        <item>Yarat və qovluqlar arasında keçid</item>
         <item>Yeni bir qovluq yaratmaq və ya mövcud qovluqlar arasında keçid etmək üçün aşağıdakı oxa basın.</item>
     </string-array>
     <string-array name="folder_operations">
@@ -39,7 +39,7 @@
     </string-array>
     <string-array name="note_sort_way">
         <item>Yaradılma tarixinə görə</item>
-        <item>Dəyişiklik tarixinə görə</item>
+        <item>Dəyişdirilmə tarixinə görə</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Səs qeydləri</item>

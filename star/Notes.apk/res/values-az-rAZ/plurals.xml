@@ -52,13 +52,17 @@
         <item quantity="other">%1$d gün əvvəl</item>
         <item quantity="one">%1$d gün əvvəl</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s qovluq</item>
+        <item quantity="one">%1$s qovluq</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s qeyd qovluqdan silindi</item>
         <item quantity="one">%1$s qeyd qovluqdan silindi</item>
     </plurals>
     <plurals name="format_move_notes_to_folder">
-        <item quantity="other">%1$s qeyd %2$s qovluğuna köçürüldü</item>
-        <item quantity="one">%1$s qeyd %2$s qovluğuna köçürüldü</item>
+        <item quantity="other">%1$s qeyd %2$s qovluğuna daşındı</item>
+        <item quantity="one">%1$s qeyd %2$s qovluğuna daşındı</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -92,17 +96,25 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s qeyd</item>
+        <item quantity="one">%1$s qeyd</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pc_notes_search_result">
-        <item quantity="other">%1$s Qeydlər tapıldı</item>
-        <item quantity="one">%1$s Qeyd tapıldı</item>
+        <item quantity="other">%1$s qeyd tapıldı</item>
+        <item quantity="one">%1$s qeyd tapıldı</item>
     </plurals>
     <plurals name="pc_todo_search_result">
-        <item quantity="other">%1$s Tapşırıqlar tapıldı</item>
-        <item quantity="one">%1$s Tapşırıq tapıldı</item>
+        <item quantity="other">%1$s tapşırıq tapıldı</item>
+        <item quantity="one">%1$s tapşırıq tapıldı</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d saniyə qaldı</item>

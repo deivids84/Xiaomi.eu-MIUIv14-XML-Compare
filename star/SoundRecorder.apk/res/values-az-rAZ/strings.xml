@@ -476,12 +476,12 @@
     <string name="reg_error_audio_short">Səs faylı çox kiçikdir.</string>
     <string name="reg_error_business">"Fayl mətnə çevrilə bilmədi. Bu xətanı bizə bildirib yenidən sınayın."</string>
     <string name="reg_error_client">Tətbiq məlumat xətası baş verdi. Bizə bildirib yenidən sınayın.</string>
-    <string name="reg_error_create_order">"Sifariş yaradıla bilmədi, yenidən sınayın."</string>
-    <string name="reg_error_ifly_account">Hesab xətası baş verdi, yenidən sınayın.</string>
+    <string name="reg_error_create_order">"Sifariş yaradıla bilmədi. Yenidən sınayın."</string>
+    <string name="reg_error_ifly_account">Hesab xətası baş verdi. Yenidən sınayın.</string>
     <string name="reg_error_price">Xərc hesablama xətası baş verdi. Bizə bildirib yenidən sınayın.</string>
     <string name="reg_error_server">Bir server xətası baş verdi. Bizə bildirib yenidən sınayın.</string>
-    <string name="reg_error_upload_audio">"Fayl yüklənə bilmədi, yenidən sınayın."</string>
-    <string name="reg_error_upload_order">"Yüklənə bilmədi, yenidən sınayın."</string>
+    <string name="reg_error_upload_audio">"Fayl yüklənə bilmədi. Yenidən sınayın."</string>
+    <string name="reg_error_upload_order">"Yüklənə bilmədi. Yenidən sınayın."</string>
     <string name="remind_settings_pref_title">Bildirişlər</string>
     <string name="remove_icon_description_content">"Səsyazan, bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra səsyazmaları idarə edə bilməyəcəksiniz."</string>
     <string name="remove_icon_description_title">\"Səsyazan\" Əsas ekrandan silinsin?</string>

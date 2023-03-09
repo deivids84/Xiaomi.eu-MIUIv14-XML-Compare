@@ -112,7 +112,7 @@
     <string name="delete_file_success">Uğurla silindi</string>
     <string name="delete_operation_record">Bu qeyd silinsin?</string>
     <string name="delete_operation_record_timeout">"Qeyd silinə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
-    <string name="delete_record_only">"Seçilmiş qeydlərin istinad etdiyi elementlər silinməyəcək."</string>
+    <string name="delete_record_only">Bu əməliyyat yalnız seçilmiş yazıları siləcək. Heç bir fayl silinməyəcək.</string>
     <string name="delete_success">Uğurla silindi</string>
     <string name="detail_download_path">"Yerləşmə: "</string>
     <string name="detail_download_time">"Endirildi: "</string>
@@ -365,7 +365,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="operation_move">Daşı</string>
     <string name="operation_rename">Yenidən adlandır</string>
     <string name="operation_save">Saxla</string>
-    <string name="operation_sure_to_delete">İndi silinsin?</string>
+    <string name="operation_sure_to_delete">Tarixçə silinsin?</string>
     <string name="operation_transport_success">Uğurla köçürmələrə əlavə edildi</string>
     <string name="operation_will_not_show_after_delete">Silsəniz qeyd artıq burada görünməyəcək.</string>
     <string name="pause_all">Hamısına fasilə ver</string>

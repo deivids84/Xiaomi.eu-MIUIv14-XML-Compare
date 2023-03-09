@@ -133,6 +133,8 @@
     <string name="cloud_drive_settings">Mi Drive tənzimləmələri</string>
     <string name="cloud_empty_hint_text">"Burada hələ heç nə yoxdur.
 Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
+    <string name="cloud_empty_hint_text_pad">"Burada hələ heç nə yoxdur.
+Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="cloud_guide_summary_text">Elementlərinizi avtomatik olaraq bütün cihazlarınızla sinxronlaşdırın</string>
     <string name="cloud_guide_title_text">Mi Drive ilə sinxronlaşdır</string>
     <string name="cloud_permission_storage_desc">Fotoları və sənədləri cihazınızda saxlamaq üçün</string>
@@ -255,6 +257,9 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="exit">Çıxış</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
+    <string name="extend_service_setting">Əlavə xidmətlər</string>
+    <string name="extend_service_summary">"Bu xidməti söndürsəniz, Mi Drive ilə əlaqəli özəllikləri istifadə edə bilməyəcəksiniz"</string>
+    <string name="extend_service_title">Mi Drive fayllarını idarə et</string>
     <string name="extended_storage_file_can_not_open">"Fayl açıla bilmir. Onu daxili anbara kopyalayın."</string>
     <string name="extract">Arxivdən çıxart</string>
     <string name="fab_menu_ball">Cəld əməliyyatlar</string>
@@ -803,6 +808,9 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="start_server">Başlat</string>
     <string name="stay_awake_summary">"FTP istifadə edilərkən ekran yuxu rejiminə keçməsin"</string>
     <string name="stay_awake_title">Ekranı oyaq saxla</string>
+    <string name="stop_extend_service_dialog_confirm">Söndür</string>
+    <string name="stop_extend_service_dialog_summary">"Bu özəlliyi söndürsəniz, Mi Drive-da saxlanılan fayllarınızı idarə edə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
+    <string name="stop_extend_service_dialog_tilte">Əlavə xidmətlər</string>
     <string name="stop_server">Dayandır</string>
     <string name="storage_cloned_app">İkili tətbiqlər üçün anbar</string>
     <string name="storage_info_detail">Mövcud: %1$s Cəmi: %2$s</string>

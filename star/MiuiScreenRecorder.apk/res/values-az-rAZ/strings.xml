@@ -67,7 +67,7 @@ Baxmaq üçün toxunun"</string>
     <string name="first_using_mic_dialog_message">Ekran yazıcı, səs yazmaq üçün mikrofonunuza müraciət etməlidir. İcazə verilsin?</string>
     <string name="first_using_mic_dialog_title">Tələb olunan icazələr</string>
     <string name="fixed_frame_rate">Sabit kadr sürəti</string>
-    <string name="fixed_frame_rate_summary">Videoların sabit kadr sürəti ilə yazılması, sosial media platformalarında oynatmanı təkmilləşdirir və batareya ömrünü azaldır.</string>
+    <string name="fixed_frame_rate_summary">Videoların sabit kadr sürəti ilə yazılması, sosial media platformalarında oxutmanı təkmilləşdirir və batareya ömrünü azaldır.</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>

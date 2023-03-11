@@ -190,7 +190,7 @@
     <string name="picker_photo">Foto</string>
     <string name="picker_photos">Fotolar</string>
     <string name="picker_photos_empty_message">Foto və ya video yoxdur</string>
-    <string name="picker_play_video">Videonu oynat</string>
+    <string name="picker_play_video">Videonu oxut</string>
     <string name="picker_preview">Önbaxış</string>
     <string name="picker_privacy_message">Bu tətbiq, yalnız seçdiyiniz fotolara müraciət edə bilər</string>
     <string name="picker_profile_admin_msg_from_personal">Şəxsi bir tətbiqdən iş məlumatlarına müraciət etməyə icazə verilmir</string>

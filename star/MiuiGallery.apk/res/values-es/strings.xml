@@ -1648,7 +1648,7 @@ para personalizar la Galería"</string>
     <string name="mosaic_item_talkback_eraser">Eraser</string>
     <string name="motion_photo_enter">Disparo dinámico</string>
     <string name="motion_photo_play">Play</string>
-    <string name="move_to_other_albums_tip">¿Mover este álbum a Otros álbumes?</string>
+    <string name="move_to_other_albums_tip">¿Mover este álbum a \"Otros álbumes\"?</string>
     <string name="move_to_rubbish_albums_tip">¿Mover los elementos seleccionados a álbumes redundantes?</string>
     <string name="movie_add_disable">Puedes seleccionar hasta %d fotos</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -1822,7 +1822,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="operation_hide_time">Ocultar fechas</string>
     <string name="operation_in_process">Procesando…</string>
     <string name="operation_move">Mover</string>
-    <string name="operation_move_to_other_albums">Mover a otros álbumes</string>
+    <string name="operation_move_to_other_albums">Mover a \"Otros álbumes\"</string>
     <string name="operation_move_to_rubbish_albums">Mover a álbumes redundantes</string>
     <string name="operation_not_show_in_photos_tab">"No mostrar en Fotos"</string>
     <string name="operation_photo_rename">Renombrar</string>
@@ -1831,7 +1831,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="operation_projection">Proyectar</string>
     <string name="operation_remove_face">Eliminar</string>
     <string name="operation_remove_from_face_album">Eliminar del álbum</string>
-    <string name="operation_remove_from_other_albums">Mover desde otros álbumes</string>
+    <string name="operation_remove_from_other_albums">Eliminar de \"Otros álbumes\"</string>
     <string name="operation_remove_from_rubbish_albums">Restaurar</string>
     <string name="operation_remove_rubbish">Restaurar</string>
     <string name="operation_remove_secret">Eliminar del álbum privado</string>
@@ -1868,7 +1868,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="origin_video_name">vídeo</string>
     <string name="other_album">Otros álbumes</string>
     <string name="other_album_operation_move_to_rubbish_albums">Mover a álbumes redundantes</string>
-    <string name="other_album_operation_remove_from_other_albums">Eliminar de álbumes redundantes</string>
+    <string name="other_album_operation_remove_from_other_albums">Eliminar de \"Otros álbumes\"</string>
     <string name="other_settings">Ajustes adicionales</string>
     <string name="owner_album_subtitle">Compartido con %1$s personas</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -2236,7 +2236,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="privacy_rejected_map_new">Retirada del consentimiento a la Declaración de intercambio de datos de terceros de Gallery Map</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Términos y condiciones</string>
-    <string name="privacy_share_album_confirm_detail">Los álbumes compartidos se mantienen mediante Xiaomi Cloud. Antes de usar esta característica, lee y acepta nuestro &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Acuerdo de Usuario&gt;&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="privacy_share_album_confirm_detail">Los álbumes compartidos funcionan a través de Xiaomi Cloud. Antes de usar esta función, lee y acepta nuestro &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="private_entry_lock_state_activated_text">Suelta para abrir la carpeta privada</string>
     <string name="private_entry_lock_state_enterd_text">Arrastra hacia abajo para abrir la carpeta privada</string>
     <string name="problem_feedback">Comentarios</string>
@@ -2297,7 +2297,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="remove_from_album_title">Eliminar de este álbum</string>
     <string name="remove_from_current_album">Eliminar de este álbum</string>
     <string name="remove_from_favorites_failed">"No se pudo eliminar de los favoritos"</string>
-    <string name="remove_from_other_albums_tip">¿Mover este álbum desde Otros álbumes?</string>
+    <string name="remove_from_other_albums_tip">¿Eliminar este álbum de \"Otros álbumes\"?</string>
     <string name="remove_from_secret_fail">"No se pudo eliminar del álbum privado"</string>
     <string name="remove_from_secret_failed_with_reason">"No se puede eliminar del álbum privado. %1$s."</string>
     <string name="remove_from_secret_successful">Eliminado del álbum privado</string>
@@ -2628,8 +2628,8 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="show_cloud_albumlist_summary">"Los nuevos elementos de los álbumes seleccionados no se cargarán en la nube después de que desactive la sincronización."</string>
     <string name="show_hidden_album_summary">Ver y gestionar álbumes ocultos</string>
     <string name="show_hidden_album_title">Ver álbumes ocultos</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Movido. Ir a otros álbumes para verlo</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido. Ir a álbumes para verlo</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Eliminado. Ahora puedes verlo entre \"Álbumes\".</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido. Ahora puedes verlo en \"Otros álbumes\".</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Se ha movido a los álbumes redundantes</string>
     <string name="show_nearby_photos">Mostrar fotos y vídeos cercanos</string>
     <string name="signature_dialog_clear">Borrar</string>

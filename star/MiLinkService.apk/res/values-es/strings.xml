@@ -55,6 +55,7 @@ tus dispositivos?"</string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Buscando dispositivos cercanos…</string>
     <string name="appcirculate_toast_busy">Parece que el otro dispositivo está transfiriendo archivos ahora. Espera hasta que termine e inténtalo otra vez.</string>
     <string name="appcirculate_toast_cancel">Cancelado</string>
+    <string name="appcirculate_toast_connected">Emisión iniciada</string>
     <string name="appcirculate_toast_fail">"No se pudo cambiar a otro dispositivo"</string>
     <string name="appcirculate_toast_loading">Cambiando a otro dispositivo…</string>
     <string name="appcirculate_toast_not_support_device_pad">"Esta aplicación no se puede usar en una tablet"</string>
@@ -91,8 +92,7 @@ Inicia sesión en tu cuenta Xiaomi para sincronizar los permisos."</string>
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">Televisor</string>
     <string name="circulate_card_mirror_help"><u>Dispositivos compatibles</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Arrastra la pantalla del tablet a un 
-televisor para duplicar su imagen"</string>
+    <string name="circulate_card_mirror_pad_subtitle">"Arrastra la \"pantalla de la tablet\" a un televisor para duplicar la pantalla"</string>
     <string name="circulate_card_mirror_pad_title">"Pantalla de la tablet"</string>
     <string name="circulate_card_mirror_phone_subtitle">"Arrastra la pantalla del dispositivo
 al otro para duplicar la imagen"</string>
@@ -130,6 +130,8 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Bajar volumen</string>
     <string name="circulate_card_sticker_selected">Seleccionado</string>
     <string name="circulate_common_retry_later">Espera un par de minutos e inténtalo otra vez</string>
+    <string name="circulate_controlphone_button_hint">Ver pantalla</string>
+    <string name="circulate_controlphone_title">Administrar el dispositivo</string>
     <string name="circulate_cta_agree">Acepto</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">¡Te damos la bienvenida a Mi Smart Hub! Esta aplicación te permite hacer difusión, usar Mi Smart Play y transferir la reproducción multimedia de un dispositivo a otro. Se necesita conexión a Internet y los siguientes permisos para funcionar normalmente:</string>
@@ -190,6 +192,13 @@ tus dispositivos?"</string>
     <string name="circulate_help_feedback_button">Comentarios</string>
     <string name="circulate_local_pad_name">Mi tablet</string>
     <string name="circulate_local_phone_name">Mi teléfono</string>
+    <string name="circulate_ringfind_button_hint_play">Reproducir sonido</string>
+    <string name="circulate_ringfind_button_hint_stop">Parar la reproducción de sonido</string>
+    <string name="circulate_ringfind_error_hint_ringing">El sonido ya se está reproduciendo</string>
+    <string name="circulate_ringfind_error_hint_start">"No se pudo reproducir el sonido. Inténtalo otra vez."</string>
+    <string name="circulate_ringfind_error_hint_stop">"No se pudo detener la reproducción del sonido. Inténtalo otra vez."</string>
+    <string name="circulate_ringfind_title">Reproducir sonido</string>
+    <string name="circulate_ringfind_title_stop">Parar la reproducción de sonido</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">"Has configurado el televisor para que se apague o que apague su pantalla. El control remoto y el televisor desaparecerán de aquí cuando se apague el televisor."</string>
     <string name="circulate_tv_power_alter_title">Atención</string>
@@ -219,6 +228,8 @@ tus dispositivos?"</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="device_desc_trust">Dispositivos de confianza</string>
+    <string name="device_type_name_pad">Tablet</string>
+    <string name="device_type_name_phone">Teléfono</string>
     <string name="dialog_can_not_find_device">"No se pudo encontrar dispositivos cercanos"</string>
     <string name="dialog_cancle">Cancelar</string>
     <string name="dialog_connect_fail">"No se pudo conectar"</string>
@@ -276,6 +287,16 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
     <string name="file_read_des">Para mostrar fotos y otros archivos en monitores externos</string>
+    <string name="find_device_close">Entendido</string>
+    <string name="find_device_notification_content_phone">%1$s está buscando este dispositivo usando %2$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_single_phone">Se está buscando este dispositivo usando %1$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_single_tablet">Se está buscando este dispositivo usando %1$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_notification_content_tablet">%1$s está buscando este dispositivo usando %2$s. Desbloquea para detener la reproducción de sonido.</string>
+    <string name="find_device_popup_content_phone">%1$s está buscando este dispositivo usando %2$s.</string>
+    <string name="find_device_popup_content_single_phone">Se está buscando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_single_tablet">Se está buscando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_tablet">%1$s está buscando este dispositivo usando %2$s.</string>
+    <string name="find_device_title">Reproduciendo sonido en el dispositivo</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -310,6 +331,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="guide_page_subtitle_2">"Arrastra la tarjeta con la pantalla del dispositivo a una tablet, ordenador o televisor para reproducir la misma imagen allí."</string>
     <string name="guide_page_subtitle_2_pad">"Arrastra la tarjeta con la pantalla del dispositivo a un televisor para reproducir la misma imagen en él."</string>
     <string name="guide_page_subtitle_3">"Arrastra la aplicación a Mi Smart Hub y selecciona el dispositivo en el que deseas continuar la tarea actual."</string>
+    <string name="guide_page_subtitle_earphones">"Arrastra tus audífonos entre el teléfono, tablet y TV para cambiar su conexión entre dispositivos"</string>
     <string name="guide_page_title_0">¡Te damos la bienvenida a Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">¡Te damos la bienvenida a Mi Smart Hub!</string>
     <string name="guide_page_title_1">Reproducción de audio</string>
@@ -317,6 +339,7 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="guide_page_title_2">Pantalla duplicada</string>
     <string name="guide_page_title_2_pad">Pantalla duplicada</string>
     <string name="guide_page_title_3">Aplicaciones</string>
+    <string name="guide_page_title_earphones">Cambio rápido</string>
     <string name="hang_up">Emitir con la pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Sigue emitiendo contenido con la pantalla de tu dispositivo apagada. Esta función reduce el consumo de energía. Presiona el botón de Encendido para activar la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
@@ -699,7 +722,6 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="stat_src_pull">tirar</string>
     <string name="stat_src_push">empujar</string>
     <string name="stat_success">correcto</string>
-    <string name="stat_unit_ms">ms</string>
     <string name="status_bar_in_casting">Emitiendo…</string>
     <string name="status_bar_in_casting_long">Toca para ver más funciones de emisión</string>
     <string name="sunday">Domingo</string>

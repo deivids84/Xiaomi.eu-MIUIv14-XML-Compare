@@ -6536,7 +6536,6 @@ Read and agree to %s before using this service."</string>
     <string name="picture_in_picture_title">Imagen en Imagen</string>
     <string name="pin_failed">Error al intentar desbloquear la tarjeta SIM con el código PIN</string>
     <string name="ping_test_label">Ejecutar prueba de ping</string>
-    <string name="placeholder_activity">*Esta es una actividad alternativa de marcador de posición temporal.</string>
     <string name="platform_compat_dashboard_summary">Activa o desactiva el cambio de compatibilidad de la aplicación</string>
     <string name="platform_compat_dashboard_title">Compatibilidad de aplicaciones</string>
     <string name="platform_compat_default_disabled_title">Cambios inhabilitados de manera predeterminada</string>
@@ -8037,11 +8036,13 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Desactivar</string>
     <string name="shoulder_key_switch_status_open">Activar</string>
+    <string name="show_alarm_icon_title">Mostrar icono de alarma</string>
     <string name="show_all_anrs">Mostrar fallo en segundo plano</string>
     <string name="show_all_anrs_summary">Se mostrará el diálogo \"Aplicación no responde\" al fallar una aplicación en segundo plano</string>
     <string name="show_all_apps">Mostrar uso completo del dispositivo</string>
     <string name="show_background_processes">Procesos en caché</string>
     <string name="show_badge_notifications_short">Iconos</string>
+    <string name="show_bt_icon_title">Mostrar icono Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar nombre del operador en dispositivo bloqueado</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animación de carga al desbloquear</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">La animación de carga seguirá en pantalla después de desbloquear. Se ocultará al reproducir vídeo y escenas de pantalla completa</string>
@@ -8063,7 +8064,9 @@ Nota: No puedes usar tu huella dactilar para desbloquear este dispositivo. Para 
     <string name="show_ime_summary">Lo mantiene en pantalla mientras el teclado físico está activo</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar menú</string>
+    <string name="show_mute_icon_title">Mostrar icono de modo silencioso</string>
     <string name="show_network_speed_title">Mostrar velocidad de conexión</string>
+    <string name="show_nfc_icon_title">Mostrar icono NFC</string>
     <string name="show_non_rect_clip">Depurar recortes no rectangulares</string>
     <string name="show_notification_channel_warnings">Mostrar aviso canal inválido</string>
     <string name="show_notification_channel_warnings_summary">Se verá una advertencia cuando una aplicación muestre una notificación sin un canal válido</string>

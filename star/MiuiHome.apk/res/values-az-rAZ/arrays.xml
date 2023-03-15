@@ -67,10 +67,4 @@
         <item>Sol</item>
         <item>Sağ</item>
     </string-array>
-    <string-array name="widget_component_delete_way">
-        <item>shortcut删除</item>
-        <item>拖拽</item>
-        <item>sil</item>
-        <item>shortcut更换</item>
-    </string-array>
 </resources>

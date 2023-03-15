@@ -1004,7 +1004,7 @@ Widget: %2$s
     <string name="available_via_carrier">Disponible vía %1$s</string>
     <string name="available_via_passpoint">Disponible vía %1$s</string>
     <string name="available_virtual_keyboard_category">Teclado en pantalla disponible</string>
-    <string name="avatar_picker_title">Selecciona una foto de perfil</string>
+    <string name="avatar_picker_title">Selecciona una foto del perfil</string>
     <string name="average_memory_use">Uso promedio de la memoria</string>
     <string name="average_used">Uso promedio (%)</string>
     <string name="avoid_ui">Bloquear respuesta táctil</string>
@@ -6536,7 +6536,6 @@ Read and agree to %s before using this service."</string>
     <string name="picture_in_picture_title">Pantalla en pantalla</string>
     <string name="pin_failed">Error al desbloquear la tarjeta SIM con el PIN</string>
     <string name="ping_test_label">Ejecutar prueba de ping</string>
-    <string name="placeholder_activity">*Esta es una actividad alternativa de marcador de posición temporal.</string>
     <string name="platform_compat_dashboard_summary">Activar o desactivar los cambios de compatibilidad de la app</string>
     <string name="platform_compat_dashboard_title">Cambios en la compatibilidad de la app</string>
     <string name="platform_compat_default_disabled_title">Cambios inhabilitados de manera predeterminada</string>
@@ -8037,11 +8036,13 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Desactivar</string>
     <string name="shoulder_key_switch_status_open">Activar</string>
+    <string name="show_alarm_icon_title">Mostrar icono de alarma</string>
     <string name="show_all_anrs">Mostrar ANR en segundo plano</string>
     <string name="show_all_anrs_summary">Mostrar el cuadro de diálogo \"La aplicación no responde\" para las aplicaciones en segundo plano</string>
     <string name="show_all_apps">Mostrar uso completo del dispositivo</string>
     <string name="show_background_processes">Procesos en caché</string>
     <string name="show_badge_notifications_short">Íconos</string>
+    <string name="show_bt_icon_title">Mostrar icono Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar nombre del operador con el dispositivo bloqueado</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animación de carga después de desbloquear el dispositivo</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Siga mostrando la animación de carga después de que su dispositivo esté desbloqueado, ocultándolo solo para la reproducción de video y otras escenas de pantalla completa similares</string>
@@ -8063,7 +8064,9 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_ime_summary">Mantener en la pantalla cuando el teclado físico esté activo</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar menú</string>
+    <string name="show_mute_icon_title">Mostrar icono de modo silencioso</string>
     <string name="show_network_speed_title">Mostrar velocidad de conexión</string>
+    <string name="show_nfc_icon_title">Mostrar icono NFC</string>
     <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangular</string>
     <string name="show_notification_channel_warnings">Mostrar avisos del canal de notificación</string>
     <string name="show_notification_channel_warnings_summary">Muestra una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>

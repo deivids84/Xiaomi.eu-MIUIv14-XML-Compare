@@ -260,9 +260,9 @@
     <string name="life_post_setting_wake_up_list_title">Historial de alarma</string>
     <string name="life_post_wake_up_acumu_day_title">Cuenta de días</string>
     <string name="life_post_wake_up_item_acumu_day_title">Cuenta de días</string>
-    <string name="life_post_wake_up_item_percentage_title">Mi Fans detrás suyo</string>
+    <string name="life_post_wake_up_item_percentage_title">Los fans de Xiaomi te apoyan</string>
     <string name="life_post_wake_up_item_time_title">Hora de despertarse</string>
-    <string name="life_post_wake_up_percentage_title">Mi Fans detrás suyo</string>
+    <string name="life_post_wake_up_percentage_title">Los fans de Xiaomi te apoyan</string>
     <string name="life_post_wake_up_time_title">Hora de despertarse</string>
     <string name="life_post_weather_invalid">Toque para ver información del tiempo</string>
     <string name="life_post_weather_no_network">Conéctese a internet para actualizar la información del tiempo</string>

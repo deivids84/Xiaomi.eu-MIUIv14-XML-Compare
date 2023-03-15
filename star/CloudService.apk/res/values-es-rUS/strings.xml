@@ -610,7 +610,7 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="privacy_runtime_perm_call_log_title">Acceder y editar registros de llamadas</string>
     <string name="privacy_runtime_perm_contacts_desc">Para sincronizar contactos</string>
     <string name="privacy_runtime_perm_contacts_title">Acceder y editar contactos</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil del contacto</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos del perfil del contacto</string>
     <string name="privacy_runtime_perm_external_storage_title">Acceso al almacenamiento</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para acceder al número de teléfono y al estado del dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Acceder a la información del dispositivo</string>

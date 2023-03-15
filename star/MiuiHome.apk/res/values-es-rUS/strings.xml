@@ -417,6 +417,7 @@
     <string name="gadget_weather_title">Tiempo</string>
     <string name="gadget_weather_title_14">Tiempo</string>
     <string name="gadget_weather_title_24">Tiempo</string>
+    <string name="global_search">Buscar</string>
     <string name="global_search_hint">Buscar</string>
     <string name="got_it_botton">Entendido</string>
     <string name="group_folder">Nueva carpeta</string>
@@ -431,8 +432,11 @@
     <string name="home_gesture_content_center">Centro de contenido</string>
     <string name="home_gesture_global_search">Buscar</string>
     <string name="home_gesture_no_action">Nada</string>
+    <string name="home_gesture_notification_and_control_center">Panel de notificación y centro de control</string>
     <string name="home_gesture_notification_bar">Notificaciones</string>
     <string name="home_pull_down_action">Deslice hacia abajo en la pantalla de inicio</string>
+    <string name="home_pull_down_know">Entendido</string>
+    <string name="home_pull_up_content">Puede abrir la búsqueda deslizando hacia abajo en la pantalla de inicio.</string>
     <string name="home_screen">Pantalla de inicio</string>
     <string name="home_slide_up_action">Deslice hacia arriba en la pantalla de inicio</string>
     <string name="home_switch_personal_assistant">-1 pantalla</string>
@@ -842,6 +846,7 @@ Seguridad mejorada."</string>
     <string name="reset_scene_prompt">La pantalla será restaurada al diseño por defecto.</string>
     <string name="reset_title">Restaurar</string>
     <string name="restore_icon_successful">Agregado con éxito</string>
+    <string name="risk_app_report">Denunciar esta aplicación</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>

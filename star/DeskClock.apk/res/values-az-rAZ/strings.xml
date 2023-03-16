@@ -257,9 +257,9 @@
     <string name="life_post_setting_wake_up_list_title">Oyanma tarixçəsi</string>
     <string name="life_post_wake_up_acumu_day_title">Gün sayı</string>
     <string name="life_post_wake_up_item_acumu_day_title">Gün sayı</string>
-    <string name="life_post_wake_up_item_percentage_title">Arxanızdakı Mi Pərəstişkarları</string>
+    <string name="life_post_wake_up_item_percentage_title">Xiaomi Pərəstişkarları arxanızdadır</string>
     <string name="life_post_wake_up_item_time_title">Oyanma vaxtı</string>
-    <string name="life_post_wake_up_percentage_title">Arxanızdakı Mi Pərəstişkarları</string>
+    <string name="life_post_wake_up_percentage_title">Xiaomi Pərəstişkarları arxanızdadır</string>
     <string name="life_post_wake_up_time_title">Oyanma vaxtı</string>
     <string name="life_post_weather_invalid">Hava durumu məlumatını üçün toxunun</string>
     <string name="life_post_weather_no_network">Hava durumu məlumatlarını güncəlləmək üçün şəbəkəyə bağlanın</string>

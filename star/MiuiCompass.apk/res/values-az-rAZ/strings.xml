@@ -63,7 +63,7 @@
     <string name="dialog_body_no_network">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
     <string name="dialog_body_no_network_china">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
     <string name="dialog_calibrat_altitude">Kalibrlənir…</string>
-    <string name="dialog_title_no_network">"Şəbəkə ilə bağlantı qurula bilmədi"</string>
+    <string name="dialog_title_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="direction_east">Şə</string>
     <string name="direction_north">Şm</string>
     <string name="direction_north_east">Şm-Şə</string>

@@ -68,7 +68,7 @@ kilidlənib.
     <string name="find_device_capture_notification_title">\"Cihazı tap\" şəkil çəkmək üzrədir</string>
     <string name="find_device_crash">\"Cihazı tap\" gözlənilmədən bağlandı.</string>
     <string name="find_device_error_access_denied">Müraciət rədd edildi.</string>
-    <string name="find_device_error_account_sys_timeout">"Mi Hesabı ilə bağlantı qurula bilmədi. "</string>
+    <string name="find_device_error_account_sys_timeout">"Mi Hesabına bağlana bilmədi. "</string>
     <string name="find_device_error_account_unknown_error">Mi Hesabı xətası (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Şəbəkə xətası.</string>

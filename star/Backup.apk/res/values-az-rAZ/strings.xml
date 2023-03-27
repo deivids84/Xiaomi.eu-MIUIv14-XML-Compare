@@ -824,7 +824,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_install_guide_step2_content">Quraşdırma tamamlandıqdan sonra, aşağıdakı \"Başlat\"a toxunun.</string>
     <string name="trans_install_guide_step2_title">Addım 2</string>
     <string name="trans_intro_desc_1">"Mi telefonunda, Wi-Fi-ya bağlanıb \"Alıcıyam\"a toxunun. iOS cihazınızı seçin, iCloud-a daxil olun və verilənləri daxilə köçürün."</string>
-    <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ilə bağlan\"a toxunun və bağlantını qurmaq üçün QR kodu skan edin.</string>
+    <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ilə bağlan\"a toxunun və bağlanmaq üçün QR kodu skan edin.</string>
     <string name="trans_intro_desc_3">Köçürməni ləğv edin, Mi Mover-dən çıxın və başdan başlayın. Yeni köçürmə zamanı dublikat faylların üzərinə yazılacaq.</string>
     <string name="trans_intro_desc_4">"Mi Mover fayl köçürmə üçün Wi-Fi istifadə edir. Buna görə köçürmə zamanı hər iki cihazda da Wi-Fi istifadə edərək internetə bağlana bilməzsiniz. Ancaq mobil internet istifadə edə bilərsiniz. Ancaq, bəzi yeni cihazlar (məsələn, Mi 6) köçürmə zamanı Wi-Fi istifadə edərək internetə bağlana bilir."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover fayl köçürmə üçün Wi-Fi istifadə edir. Buna görə köçürmə zamanı hər iki cihazda da Wi-Fi istifadə edərək internetə bağlana bilməzsiniz. Ancaq mobil internet istifadə edə bilərsiniz."</string>

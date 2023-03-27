@@ -129,12 +129,12 @@
         <item quantity="one">%1$d tətbiqi məhdudlaşdır</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d tətbiq şəbəkə ilə bağlantı qura bilir</item>
-        <item quantity="one">%d tətbiq şəbəkə ilə bağlantı qura bilir</item>
+        <item quantity="other">%d tətbiq şəbəkəyə bağlana bilir</item>
+        <item quantity="one">%d tətbiq şəbəkəyə bağlana bilir</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d tətbiq şəbəkə ilə bağlantı qura bilmir"</item>
-        <item quantity="one">"%d tətbiq şəbəkə ilə bağlantı qura bilmir"</item>
+        <item quantity="other">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
+        <item quantity="one">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
     </plurals>
     <plurals name="billing_cycle_days_left">
         <item quantity="other">%d gün qaldı</item>

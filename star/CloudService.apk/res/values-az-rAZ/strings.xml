@@ -35,7 +35,7 @@
     <string name="account_related">Cihazınız mövcud Xiaomi Hesabı (%s) ilə əlaqələndirilib. Cihazı təsdiqləmək üçün şəbəkəyə bağlanın.</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_find_device_success">Cihazı tap, uğurla aktivləşdirildi</string>
-    <string name="activate_finddevice">Cihazı aktivləşdirmək üçün şəbəkəyə bağlanın</string>
+    <string name="activate_finddevice">Cihazı aktivləşdirmək üçün şəbəkəyə bağlan</string>
     <string name="activating">Aktivləşdirilir…</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_and_continue">Razıyam</string>

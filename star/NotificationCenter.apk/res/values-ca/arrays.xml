@@ -65,17 +65,4 @@
         <item>Aplicacions que poden mostrar notificacions</item>
         <item>"Aplicacions que no poden mostrar notificacions"</item>
     </string-array>
-    <string-array name="lock_screen_display_rules_no_password">
-        <item>Mostreu el contingut de les notificacions</item>
-        <item>"No mostreu les notificacions de la pantalla de bloqueig"</item>
-    </string-array>
-    <string-array name="lock_screen_display_rules_with_password">
-        <item>Mostreu el contingut de les notificacions</item>
-        <item>Mostreu les notificacions però amagueu el contingut</item>
-        <item>"No mostreu les notificacions de la pantalla de bloqueig"</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
 </resources>

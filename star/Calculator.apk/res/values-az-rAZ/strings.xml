@@ -41,7 +41,7 @@
     <string name="app_name">Hesablayıcı</string>
     <string name="app_notification_info">Hesablayıcı arxaplanda işləyir</string>
     <string name="base_rate">Əsas faiz dərəcəsi</string>
-    <string name="bmi_error_text">"Bu BKG düzgün görünmür. Daxil etdiyiniz boy və çəkinin düzgün olduğuna əmin olun."</string>
+    <string name="bmi_error_text">Yararlı parametrləri daxil edin</string>
     <string name="bmi_label_information">Məlumat</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Artıq çəki</string>
@@ -173,6 +173,7 @@
     <string name="install_scanner_to_continued_use">Skaner silindi. Yenidən quraşdırılsın?</string>
     <string name="interest_rate_hint">Faiz dərəcəsini daxil edin</string>
     <string name="investment_invalid_duration">İnvestisiya müddəti sıfırdan böyük olmalıdır</string>
+    <string name="investment_loan_result">Detallar</string>
     <string name="investment_type_once">Bir dəfə</string>
     <string name="investment_type_recurring">Təkrarlanan</string>
     <string name="item_page_title_investment">İnvestisiya hesablayıcı</string>
@@ -496,7 +497,6 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_result_real_get">Vergidən sonra</string>
     <string name="tax_social_insurance">Sosial sığorta</string>
     <string name="tax_thershold_foreign">%s (Əcnəbi millətlər)</string>
-    <string name="tax_thershold_native">%s (Çin)</string>
     <string name="tax_thershold_native_new">%s (yeni)</string>
     <string name="tax_thershold_native_new_description">Vergilər 1 Oktyabr, 2018-ci il tarixindən yeni vergi qanununa əsasən hesablanacaq</string>
     <string name="tax_threshold">Vergisiz ərəfədə</string>
@@ -653,7 +653,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Qulaç</string>
     <string name="unit_data_display_length_ft">Ayaq</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Farlonq</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Düym</string>

@@ -162,14 +162,13 @@
     <string name="common_downloading">Endirilir…</string>
     <string name="common_format_date_no_year">dd-MM</string>
     <string name="common_skip">Ötür</string>
-    <string name="community_community_message_trigger_summary">Mi Hesab kimliyinizi istifadə edərək cavablar, bəyənmələr və Mi Cəmiyyətindəki status güncəlləmələri ilə bağlı bildirişlər alın</string>
+    <string name="community_community_message_trigger_summary">Xiaomi Hesab kimliyinizi istifadə edərək cavablar, bəyənmələr və Mi Cəmiyyətindəki status güncəlləmələri ilə bağlı bildirişlər alın</string>
     <string name="community_community_message_trigger_title">Fəaliyyəti bildir</string>
     <string name="community_cta_dialog_cancel">Xeyr, təşəkkür</string>
     <string name="community_cta_dialog_des">Üçüncü tərəf temalar, artıq Xiaomi Cəmiyyət vicetini dəstəkləyir. \"Temalar\"ın burada baxa bilməsi üçün hesabla əlaqələndirilmiş Xiaomi Hesabı kimliyinizə və Xiaomi Cəmiyyətindəki statuslarınıza müraciət etməsinə icazə verin.</string>
     <string name="community_cta_dialog_ok">İcazə ver</string>
     <string name="community_cta_dialog_title">Tələb olunan icazələr</string>
-    <string name="community_entrance_summary">Mi Cəmiyyətində tema ilə əlaqəli məzmunu tapın. Bu özəllik seçilmiş temalar tərəfindən dəstəklənir.</string>
-    <string name="community_entrance_title">Mi Cəmiyyəti saat viceti</string>
+    <string name="community_entrance_title">Xiaomi Cəmiyyəti saat viceti</string>
     <string name="community_message_trigger_disabled">Bağlı</string>
     <string name="community_message_trigger_triggered">Açıq</string>
     <string name="component_backup_preference_title">Temanı nüsxələ</string>
@@ -572,13 +571,13 @@ EEE"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Mi hesabını aktivləşdir</string>
+    <string name="miuishare_account_activate_confirmation">Xiaomi hesabını aktivləşdir</string>
     <string name="miuishare_account_activate_ok">Aktivləşdir</string>
     <string name="miuishare_account_login_cancel">İmtina</string>
-    <string name="miuishare_account_login_confirmation">Mi Hesabınızda daxil olun</string>
+    <string name="miuishare_account_login_confirmation">Xiaomi Hesabına daxil olun</string>
     <string name="miuishare_account_login_ok">Daxil ol</string>
-    <string name="miuishare_account_need_activate">Weibo-da paylaşma, Mi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Mi Hesabınızı aktivləşdirin.</string>
-    <string name="miuishare_account_need_login">Weibo-da paylaşma, Mi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Mi Hesabınıza daxil olun.</string>
+    <string name="miuishare_account_need_activate">Weibo-da paylaşma, Xiaomi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Xiaomi Hesabınızı aktivləşdirin.</string>
+    <string name="miuishare_account_need_login">Weibo-da paylaşma, Xiaomi Hesabınızla əlaqələndirilmiş Weibo hesabı tələb edir. Davam etmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="miuishare_app_name">MIUI Paylaşım</string>
     <string name="miuishare_mini_program_title">Tapdığım divar kağızına nəzər yetir!</string>
     <string name="miuishare_no_network">"Şəbəkəyə bağlana bilmədi."</string>
@@ -868,8 +867,8 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmək hüququnuzun olduğuna əmin olun.
 2. \"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Razılığın geri götürülməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, razılığı geri götürdükdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar razılıq geri götürüldükən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
-Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
+Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.
 Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
@@ -886,8 +885,8 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="privacy_remind_user_mode_content"><Data>Bu özəlliyi istifadə etmək üçün Gizlilik Siyasətimiz qəbul edin. \"Temalar\"ı istifadə edərkən bizə təqdim etdiyiniz şəxsi məlumatları necə yığdığımızı, istifadə etdiyimizi, açıqladığımızı, emal etdiyimizi və saxladığımızı öyrənmək üçün &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun.</Data></string>
     <string name="privacy_remind_user_mode_title">Diqqət</string>
     <string name="privacy_revoke_agree_content">Razılığın geri götürülməsi</string>
-    <string name="privacy_revoke_agree_content_1">1. Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.</string>
-    <string name="privacy_revoke_agree_content_2">2. Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.</string>
+    <string name="privacy_revoke_agree_content_1">1. Xiaomi Hesabını istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.</string>
+    <string name="privacy_revoke_agree_content_2">2. Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.</string>
     <string name="privacy_revoke_agree_content_5">5. Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək.</string>
     <string name="privacy_revoke_agree_data_warning">Aşağıdakı məlumatlar razılıq geri götürüldükdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):</string>
     <string name="privacy_revoke_succeed">Razılıq uğurla geri götürüldü</string>
@@ -899,8 +898,8 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmə hüququnuzun olduğuna əmin olun.
 2. \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi, digər Xiaomi məhsullarının normal istifadəsinə təsir etməyəcək.
 3. Razılığın geri götürülməsi əməliyyatının geri dönüşü yoxdur. Davam etməzdən əvvəl bütün vacib elementləri nüsxələyin, çünki onlar birdəfəlik silinə bilər. Unutmayın, razılığı geri götürdükdən sonra qərarınıza yenidən baxa bilməyəcəksiniz. Aşağıdakı məlumatlar razılıq geri götürüldükdən sonra birdəfəlik silinəcək və ya anonimləşdiriləcək (qanunlarda və qaydalarda başqa hal nəzərdə tutulmadıqda və ya tənzimləyici orqanlar tərəfindən əksi tələb olunmadıqda):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
-Mi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.
+Xiaomi Hesabınızı istifadə etdiyiniz Xiaomi cihazlarında yaradılmış bəyənmə, rəy, sıralama və izləyici haqqındakı bütün məlumatlar.
 Bu cihaza endirilən bütün divar kağızları, şriftlər və zəng səsləri.
 Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
@@ -916,7 +915,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="pull_down_view_refresh">Təzələ</string>
     <string name="pull_down_view_title">"Yeniliklər"</string>
     <string name="purchased">Sifarişlər</string>
-    <string name="read_and_agree_account_privacy"><Data>\"Mi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və qəbul edirəm.\"</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>\"Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və qəbul edirəm.\"</Data></string>
     <string name="recently_used">Təzəlikcə istifadə edilən</string>
     <string name="recommend_trigger">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="recommend_trigger_summary">Tərcihlərinizə görə tövsiyələr almaq üçün işə salın</string>
@@ -935,7 +934,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_account_abnormal_state">Hesab xətası. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="resource_account_fail_to_add">"Hesab əlavə edilə bilmir"</string>
     <string name="resource_account_login">Daxil ol</string>
-    <string name="resource_account_login_before_action">İndi Mi Hesabınıza daxil olun</string>
+    <string name="resource_account_login_before_action">Xiaomi Hesabınıza indi daxil olun</string>
     <string name="resource_account_login_title">Daxil ol</string>
     <string name="resource_account_switch">Dəyişdir</string>
     <string name="resource_alarm_default">Zəngli saat</string>
@@ -1208,7 +1207,6 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="share_save_to_photo">Qalereya</string>
     <string name="share_theme_content_text">"Möhtəşəm \"%1$s\" temasını buradan endirə bilərsiniz:
 %2$s. Kimdən "</string>
-    <string name="share_vipaccount">Mi Cəmiyyəti</string>
     <string name="share_wallpaper_content_text">"Möhtəşəm \"%1$s\" divar kağızını buradan endirə bilərsiniz:
 %2$s. Kimdən "</string>
     <string name="shortcut_add">Əlavə et</string>
@@ -1405,7 +1403,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="title_system_audio_notification_resource">Sistem bildirişləri</string>
     <string name="title_system_audio_resource">Sistem zəng səsləri</string>
     <string name="title_system_wallpaper_resource">Sistem divar kağızları</string>
-    <string name="to_activate_the_account">Mi Hesabınızı indi aktivləşdirin</string>
+    <string name="to_activate_the_account">Xiaomi Hesabınızı indi aktivləşdirin</string>
     <string name="toast_both_all_apply_failured">"Əsas və ya Kilid ekranına tətbiq edilə bilmədi"</string>
     <string name="toast_both_all_apply_success">Əsas və Kilid ekranlarına uğurla tətbiq edildi</string>
     <string name="toast_home_apply_failured">"Əsas ekrana tətbiq edilə bilmədi"</string>
@@ -1462,7 +1460,7 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="update_btn">İNDİ GÜNCƏLLƏ</string>
     <string name="update_check">Güncəlləmələri yoxla</string>
     <string name="update_checking">Güncəlləmələr yoxlanılır…</string>
-    <string name="update_community_tip">Bu özəlliyi istifadə edə bilmək üçün \"Mi Cəmiyyət\"i güncəlləyin</string>
+    <string name="update_community_tip">Bu özəlliyi istifadə edə bilmək üçün \"Xiaomi Cəmiyyət\"ini güncəlləyin</string>
     <string name="update_downloading">Güncəlləmələr endirilir…</string>
     <string name="update_fail">"Məlumat alına bilmədi. Yenidən sınayın."</string>
     <string name="update_flag">Güncəllə</string>

@@ -97,6 +97,7 @@
     <string name="cancel_moving_dialog_message">Daxilə köçürmə indi dayandırlsın?</string>
     <string name="cancel_moving_dialog_title">Daxilə köçürməni dayandır</string>
     <string name="cancel_tranfer">İmtina</string>
+    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Deyəsən, QQ Downloader sisteminizin nüsxələmə xidmətidir. \"Mi Mover\"i istifadə edə bilmək üçün onu silin və cihazınızı yenidən başladın."</string>
     <string name="cannot_use_mi_huanji_button">Anladım</string>
     <string name="cannot_use_mi_huanji_summary">Deyəsən, MIUI indi elementləri nüsxələyir. Davam edən nüsxələmələri dayandırın və ya \"Mi Mover\"in köçürməni başlatmasına icazə vermək üçün cihazı yenidən başladın.</string>
     <string name="cannot_use_mi_huanji_title">"İndi köçürülə bilmir"</string>

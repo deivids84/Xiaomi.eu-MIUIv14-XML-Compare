@@ -42,9 +42,9 @@
     <string name="app_description_title">Kompas silinsin?</string>
     <string name="app_label">Kompas</string>
     <string name="app_name">bulanıq</string>
-    <string name="calibrate_failed">Uğursuz yüksəklik kalibrəsi</string>
-    <string name="calibrate_failed_no_location">"Kalibrlənə bilmir"</string>
-    <string name="calibrate_failed_timeout">"Serverlə bağlantı qurula bilmir"</string>
+    <string name="calibrate_failed">"Yüksəklik kalibrlənə bilmədi"</string>
+    <string name="calibrate_failed_no_location">"Kalibrlənə bilmədi. Yerləşmə xətası baş verdi."</string>
+    <string name="calibrate_failed_timeout">"Kalibrlənə bilmədi. Server xətası baş verdi."</string>
     <string name="calibrate_new_tip">Topu dairə ətrafında yuvarlamaq üçün cihazınızı kəskin şəkildə əyin</string>
     <string name="calibrate_rotate_again">Yenidən sına</string>
     <string name="calibrate_success">Kalibrləndi</string>

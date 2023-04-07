@@ -77,8 +77,8 @@
         <item>Qualcomm® aptX™ səs</item>
         <item>Qualcomm® aptX™ HD səs</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ Adaptiv səs</item>
+        <item>Qualcomm® aptX™ TWS+ səs</item>
         <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -88,8 +88,8 @@
         <item>Qualcomm® aptX™ səs</item>
         <item>Qualcomm® aptX™ HD səs</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ Adaptiv səs</item>
+        <item>Qualcomm® aptX™ TWS+ səs</item>
         <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -113,8 +113,19 @@
         <item>Sıradan çıxarıldı</item>
         <item>Filtrləmə fəaldır</item>
         <item>Fəaldır</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
+        <item>Fəal başlıqlar filtrləndi</item>
+        <item>Fəal media paketləri filtrləndi</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabled</item>
+        <item>filtered</item>
+        <item>full</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values_enhanced">
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
     </string-array>
     <string-array name="clock_options">
         <item>Saat, dəqiqə və saniyəni göstər</item>
@@ -269,6 +280,11 @@
         <item>Bağlı</item>
         <item>Açıq</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Əlçatmazdır</item>
         <item>Bağlı</item>
@@ -315,6 +331,16 @@
         <item>Açıq</item>
     </string-array>
     <string-array name="tile_states_night">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>Əlçatmazdır</item>
         <item>Bağlı</item>
         <item>Açıq</item>
@@ -391,6 +417,12 @@
         <item>Tez</item>
         <item>Çox tez</item>
         <item>Ən sürətli</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola daşı</item>
+        <item>Aşağı daşı</item>
+        <item>Sağa daşı</item>
+        <item>Yuxarı daşı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Enerji yığır</item>

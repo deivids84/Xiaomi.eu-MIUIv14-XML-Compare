@@ -52,6 +52,10 @@
         <item quantity="other">%s idarəetmə əlavə edildi.</item>
         <item quantity="one">%s idarəetmə əlavə edildi.</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s tətbiq aktivdir</item>
+        <item quantity="one">%s tətbiq aktivdir</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>

@@ -17,7 +17,7 @@
     <string name="breeze">Meh</string>
     <string name="bubble">Qabarcıq</string>
     <string name="bullfrog">İri qurbağa</string>
-    <string name="burst">Partlayış</string>
+    <string name="burst">Ardıcıl</string>
     <string name="candy">Şəkər</string>
     <string name="carousel">Karusel</string>
     <string name="celesta">Çelesta</string>
@@ -49,6 +49,9 @@
     <string name="digitaluniverse">Rəqəmsal kainat (stereo)</string>
     <string name="early_morning">GƏ</string>
     <string name="echo">Əks-səda</string>
+    <string name="eras_ad">M.S.</string>
+    <string name="eras_bc">M.Ə.</string>
+    <string name="evening">GS</string>
     <string name="expect">Həyəcan</string>
     <string name="fadein">Artan</string>
     <string name="fadeout">Azalan</string>

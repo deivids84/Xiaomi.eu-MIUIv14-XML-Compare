@@ -116,6 +116,10 @@
     <string name="get_location">Yerləşməyə müraciət</string>
     <string name="gradienter_title">Səviyyə</string>
     <string name="guide_toast">Kalibrləmək üçün, cihazınızı aşağıdakı kimi hərəkət etdirin.</string>
+    <string name="invisible_mode_dialog_message">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Tənzimləmərdəki Gizli rejimi söndürün."</string>
+    <string name="invisible_mode_dialog_negative">İmtina</string>
+    <string name="invisible_mode_dialog_positive">Tənzimləmələr</string>
+    <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="keywords_search_compass">Kompas;Kompası
 kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanışı;MIUI Kompası;Kompas tətbiqi;MIUI Kompas tətbiqi;Kompas haradadır;Kompası endir;Atmosfer təzyiqi;Yüksəklik yoxlanışı;Hündürlük nə qədərdir</string>
     <string name="latitude">ENLİK</string>
@@ -133,15 +137,16 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

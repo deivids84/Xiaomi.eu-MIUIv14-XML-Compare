@@ -60,6 +60,7 @@
     <string name="ad_downloading_tip">Bu element endirilir. Bildiriş panelində irəliləyişə baxa bilərsiniz.</string>
     <string name="ad_experience_now">Aç</string>
     <string name="add">Əlavə et</string>
+    <string name="add_home_icon_success">Uğurla əlavə edildi</string>
     <string name="add_resource_detail_fail">"Mənbə əlavə edilə bilmədi"</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="all_resources">Hamısı</string>
@@ -592,15 +593,16 @@ mm"</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -1101,6 +1103,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_search_color_hint_red">Qırmızı</string>
     <string name="resource_search_color_hint_yellow">Sarı</string>
     <string name="resource_search_history">Axtarış tarixçəsi</string>
+    <string name="resource_search_hot_tag">Məşhur</string>
     <string name="resource_search_list_empty">"Heç nə tapılmadı."</string>
     <string name="resource_see_more">Hamısını göstər</string>
     <string name="resource_select">Seç</string>

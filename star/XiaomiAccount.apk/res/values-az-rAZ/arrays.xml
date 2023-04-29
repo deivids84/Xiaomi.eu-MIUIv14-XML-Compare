@@ -133,8 +133,8 @@
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Hesab təhlükəsizliyi</item>
-        <item>Bərpa telefonu və e-poçtu, şifrə idarəetmə</item>
-        <item>Hesab təhlükəsizliyi;Daxil olma;Bərpa telefonu;Bərpa e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Bərpa telefonu və e-poçtu, parol idarəetməsi</item>
+        <item>Hesab güvənliyi;Daxil olma;Bərpa telefonu;Bərpa e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Cihazlar</item>

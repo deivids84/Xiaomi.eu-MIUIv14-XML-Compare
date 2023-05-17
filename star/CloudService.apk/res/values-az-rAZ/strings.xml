@@ -611,6 +611,8 @@
     <string name="privacy_runtime_perm_contacts_title">Kontaktlara müraciət et və onlara düzəliş et</string>
     <string name="privacy_runtime_perm_external_storage_desc">Kontakt profil fotolarını sinxronlaşdırmaq üçün</string>
     <string name="privacy_runtime_perm_external_storage_title">Anbara müraciət</string>
+    <string name="privacy_runtime_perm_notification_desc">Xiaomi Cloud xidmətləri üzrə bildirişlər göndərmək üçün</string>
+    <string name="privacy_runtime_perm_notification_title">Bildirişlər</string>
     <string name="privacy_runtime_perm_phone_state_desc">Telefon nömrəsinə və cihazın vəziyyətinə müraciət etmək üçün</string>
     <string name="privacy_runtime_perm_phone_state_title">Cihaz məlumatlarına müraciət</string>
     <string name="privacy_runtime_perm_sms_desc">Mesajları sinxronlaşdırmaq üçün</string>

@@ -57,6 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Elementləri nüsxələmək üçün tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu nüsxəni saxlamaq üçün yetərli anbar sahəsi yoxdur. Planınızı yüksəldin və ya anbar sahənizdə boş yer açın.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yetərli anbar sahəsi yoxdur. Əvvəlcə anbarı sahəsində yer açın.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Elementləri nüsxələmək üçün Tənzimləmələrdə tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
     <string name="backup_finished_notification_content">Nüsxələnmiş Əsas ekran tətbiqləri, sistem tənzimləmələri və s.</string>
     <string name="backup_now">İndi nüsxələ</string>
@@ -208,6 +209,8 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_btn_restore_skip">Daha sonra bərpa et</string>
     <string name="dialog_button_agree">İcazə ver</string>
     <string name="dialog_button_disagree">"İcazə vermə"</string>
+    <string name="dialog_button_get_installed_apps_agree">Tənzimləmələr</string>
+    <string name="dialog_button_get_installed_apps_disagree">İmtina</string>
     <string name="dialog_buy_cloud_space">Yüksəlt</string>
     <string name="dialog_cancel_backup_cancel">İmtina</string>
     <string name="dialog_cancel_backup_confirm">Oldu</string>
@@ -216,6 +219,8 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_cloud_space_not_enough">Bu nüsxələmə, %1$s ödənişsiz bulud anbar sahəsi tələb edir. Elementlərin nüsxələnməsi üçün anbar planınızı yüksəldin.</string>
     <string name="dialog_content_cancel_backup">Nüsxəni ləğv etsəniz, artıq yüklənmiş verilənlər itəcək. Yenə də ləğv edilsin?</string>
     <string name="dialog_content_cancel_restore">Bərpa prosesini dayandırsanız, artıq bərpa edilmiş verilənlər saxlanılacaq. Bərpa indi dayandırılsın?</string>
+    <string name="dialog_get_installed_apps_consent_message">Avtomatik nüsxələyə bilmək üçün Tənzimləmələrdə bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
+    <string name="dialog_get_installed_apps_consent_title">Tələb olunan icazələr</string>
     <string name="dialog_msg_overwrite_backup">Yerli nüsxələmə, Xiaomi Cloud-dan fərqlidir. Əgər davam etsəniz, mövcud nüsxə əvvəlkinin üzərinə yazılacaq.</string>
     <string name="dialog_msg_restore_require_wlan">Nüsxələrin bərpa edilməsi, Wi-Fi-a bağlanma tələb edir.</string>
     <string name="dialog_msg_restore_require_wlan_china">Nüsxələrin bərpa edilməsi, Wi-Fi-a bağlanma tələb edir.</string>
@@ -282,6 +287,10 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="loading_progress_num">Yükləndi %s%%</string>
     <string name="loading_user_backup">İstifadəçi nüsxələri yüklənir…</string>
     <string name="managespace_delete_backup">Sil</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Bağla</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Tənzimləmələr</string>
+    <string name="manual_request_permissions_dialog_description">"\"%s\" üçün icazələri verməsəniz, uğursuz nüsxələmələr və digər vacib əməliyyatlar haqqında vaxtında bildirişlər almayacaqsınız. Bu icazəni Tənzimləmələrdə verə bilərsiniz."</string>
+    <string name="manual_request_permissions_dialog_title">Tələb olunan icazələr</string>
     <string name="menu_item_managespace">Sahəni idarə et</string>
     <string name="menu_item_sort">Sırala</string>
     <string name="menu_item_sort_name">Ad</string>
@@ -397,6 +406,11 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="remove_unfinished">Silinir, daha sonra yenidən sınayın</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Artıq WeChat məlumatlarını nüsxələyə bilərsiniz. Detallar üçün toxunun.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">WeChat məlumatlarını nüsxələ</string>
+    <string name="request_notification_permission_dialog_confirm">Anladım</string>
+    <string name="request_permission_post_notification">Bulud nüsxələmələri haqqında bildiriş göndərmək üçün</string>
+    <string name="request_permission_post_notification_title">Bildirişlər</string>
+    <string name="request_permissions_dialog_description">Cloud nüsxələmənin təklif etdiyi bütün xidmətlərdən yararlana bilmək üçün bildiriş və xatırladıcı göndərmə icazələrini verin.</string>
+    <string name="request_permissions_dialog_title">Tələb olunan icazələr</string>
     <string name="restore_app_order_finish">Hazırdır</string>
     <string name="restore_app_order_loading">Bir saniyə…</string>
     <string name="restore_app_order_retry">Yenidən sına</string>
@@ -466,6 +480,8 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="session_failed_disk_no_space_restore_detail">Elementləri bərpa etmək üçün ən azı %s tələb olunur.</string>
     <string name="session_failed_disk_no_space_title">Yetərsiz daxili anbar sahəsi. Anbarı təmizləyib yenidən sınayın.</string>
     <string name="session_failed_dist_no_space_btn_text">Anbarı təmizlə</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Avtomatik nüsxələyə bilmək üçün Tənzimləmələrdə bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Tələb olunan icazələr</string>
     <string name="session_failed_no_server_response_title">"Serverə bağlana bilmədi."</string>
     <string name="session_failed_override_detail">Yerli nüsxələmə, Xiaomi Cloud-dan fərqlidir. Əgər davam etsəniz, mövcud nüsxə əvvəlkinin üzərinə yazılacaq. İndi üzərinə yazılsın?</string>
     <string name="session_failed_override_title">Nüsxənin üzərinə yazılır</string>

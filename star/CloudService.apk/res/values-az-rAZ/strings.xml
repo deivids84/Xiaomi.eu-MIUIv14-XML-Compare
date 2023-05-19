@@ -273,7 +273,7 @@
     <string name="micloud_confusion_alert_title">Başqa cihaz hesabınızda dəyişiklik edir</string>
     <string name="micloud_confusion_cancel">İmtina</string>
     <string name="micloud_confusion_check_account_title">Xiaomi Cloud-u yenidən aktivləşdirmək üçün Xiaomi Hesabınıza daxil olun.</string>
-    <string name="micloud_confusion_entrance_hint">"Şəxsi olmayan cihazlarda Xiaomi Hesabınıza daxil olmayın"</string>
+    <string name="micloud_confusion_entrance_hint">"Hər kəsə açıq cihazlarda Xiaomi Hesabınıza daxil olmayın"</string>
     <string name="micloud_confusion_entrance_notify_text">Detallara baxmaq üçün toxunun.</string>
     <string name="micloud_confusion_entrance_notify_title">Başqa cihaz hesabınızda dəyişiklik edir</string>
     <string name="micloud_confusion_entrance_question">%s ilə təzəlikcə Xiaomi Hesabınızda dəyişiklik etdiniz?</string>

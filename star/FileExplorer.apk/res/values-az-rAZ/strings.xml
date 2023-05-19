@@ -317,8 +317,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_name_empty">"Qovluq adı boş ola bilməz"</string>
     <string name="folder_name_illegal">Yararsız qovluq adı</string>
-    <string name="found_router">Ruter bağlantısı quruldu</string>
-    <string name="found_usb">USB anbar bağlantısı quruldu</string>
+    <string name="found_router">Ruter bağlantılıdır</string>
+    <string name="found_usb">USB anbar bağlantılıdır</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>

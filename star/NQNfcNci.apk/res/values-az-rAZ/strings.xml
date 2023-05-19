@@ -60,7 +60,7 @@
     <string name="complete_with">"Tamamla "</string>
     <string name="confirm_pairing">İndi %1$s cütləşdirilsin?</string>
     <string name="connect_peripheral_failed">"%1$s ilə bağlantı qurula bilmədi"</string>
-    <string name="connected_peripheral">%1$s ilə bağlantı quruldu</string>
+    <string name="connected_peripheral">%1$s ilə bağlantılıdır</string>
     <string name="connecting_peripheral">%1$s ilə bağlantı qurulur…</string>
     <string name="content_bluetooth_pair">İndi \"%1$s\" cütləşdirilsin?</string>
     <string name="content_connect_network">İndi \"%1$s\" ilə bağlantı qurulsun?</string>
@@ -179,7 +179,7 @@
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
     <string name="status_unable_to_connect">"Şəbəkəyə bağlana bilmir"</string>
-    <string name="status_wifi_connected">Bağlantı quruldu</string>
+    <string name="status_wifi_connected">Bağlantılıdır</string>
     <string name="summary_confirm_url_open">"Cihazınız NFC vasitəsilə bir keçid aldı: "</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>

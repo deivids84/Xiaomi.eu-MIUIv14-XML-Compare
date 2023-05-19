@@ -613,8 +613,8 @@
         <item quantity="one">%d paylaşılan şəbəkə</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d cihazla bağlantı quruldu</item>
-        <item quantity="one">%1$d cihazla bağlantı quruldu</item>
+        <item quantity="other">%1$d cihaz bağlantılıdır</item>
+        <item quantity="one">%1$d cihaz bağlantılıdır</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">SIM PIN kodu yanlışdır, %d cəhdiniz qalıb.</item>

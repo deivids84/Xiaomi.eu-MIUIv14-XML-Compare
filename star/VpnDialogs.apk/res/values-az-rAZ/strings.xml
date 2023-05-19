@@ -29,8 +29,8 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="always_on_disconnected_message">"%1$s daim bağlantıda qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. Telefonunuz, %1$s ilə təkrar bağlantı qurana qədər hər kəsə açıq bir şəbəkə istifadə edəcək."</string>
-    <string name="always_on_disconnected_message_lockdown">"%1$s daim bağlantıda qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. VPN təkrar bağlantı qurana qədər bağlantınız olmayacaq."</string>
+    <string name="always_on_disconnected_message">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. Telefonunuz, %1$s ilə təkrar bağlantılı olana qədər hər kəsə açıq bir şəbəkə istifadə edəcək."</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. VPN təkrar bağlantılı olana qədər bağlantınız olmayacaq."</string>
     <string name="always_on_disconnected_message_settings_link">VPN tənzimləmələrini dəyişdir</string>
     <string name="always_on_disconnected_title">"Həmişə açıq VPN-ə bağlana bilmir"</string>
     <string name="am">GƏ</string>

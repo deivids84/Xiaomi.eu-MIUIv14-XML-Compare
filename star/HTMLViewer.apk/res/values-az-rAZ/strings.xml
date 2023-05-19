@@ -62,7 +62,7 @@
     <string name="instruction">Vacib güvənlik məlumatı</string>
     <string name="legal_written_offer">Yazılı təklif</string>
     <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Bu məlumata indi baxmaq üçün,
-başqa bağlantı qurulmuş cihazda %s ünvanına gedin."</string>
+digər bağlantılı cihazda %s ünvanına gedin."</string>
     <string name="loading">Bir saniyə…</string>
     <string name="mibi_license">Mi Kredit İstifadəçi Razılaşması</string>
     <string name="midnight">Gecə</string>
@@ -137,7 +137,7 @@ başqa bağlantı qurulmuş cihazda %s ünvanına gedin."</string>
     <string name="noon">Günorta</string>
     <string name="open_wifi_connect_and_use_data_summary">Mobil internet istifadə edilir. Wi-Fi-a keçmək üçün toxunun.</string>
     <string name="open_wifi_connect_summary">Detallara baxmaq üçün toxunun.</string>
-    <string name="open_wifi_connect_title">%1$s ilə bağlantı quruldu</string>
+    <string name="open_wifi_connect_title">%1$s ilə bağlantılıdır</string>
     <string name="permdesc_accessDrm">Tətbiqin DRM qorumalı məzmuna müraciət etməsinə icazə verin.</string>
     <string name="pm">GS</string>
     <string name="poco_launcher_privacy_policy">POCO Başladıcısı Gizlilik Siyasəti</string>

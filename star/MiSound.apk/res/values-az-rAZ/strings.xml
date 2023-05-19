@@ -400,7 +400,7 @@
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="not_support_sound_transmission_content">"Bu özəllik bağlantı qurulmuş cihaz tərəfindən dəstəklənmir. Başqa bir Bluetooth cihazını sınayın."</string>
+    <string name="not_support_sound_transmission_content">"Bu özəllik bağlantılı cihaz tərəfindən dəstəklənmir. Başqa bir Bluetooth cihazını sınayın."</string>
     <string name="not_support_sound_transmission_prompt">Diqqət</string>
     <string name="now_here">Bəs indi?</string>
     <string name="original_sound">Orijinal səsi oynat</string>

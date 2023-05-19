@@ -110,7 +110,7 @@
     <string name="bind_sns_description">%s ilə daxil olun</string>
     <string name="bind_weibo_description">Sina Weibo dostlarınızı əlavə edin</string>
     <string name="bind_weixin">WeChat hesabınızla bağlantı qurun</string>
-    <string name="binded">Bağlantı quruldu</string>
+    <string name="binded">Bağlantılıdır</string>
     <string name="binded_description" formatted="false">"%s Xiaomi Hesabınıza qoşuludur.
 İndi %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
@@ -1042,11 +1042,11 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="turning_off_find_device">\"Cihazı tap\" bağlanılır…</string>
     <string name="two_factor_auth">İki mərhələli kimlik təsdiqləmə</string>
     <string name="two_factor_auth_click_confirm">Daxil olmanı təsdiqlə</string>
-    <string name="two_factor_auth_click_confirm_summary">"Digər bağlantı qurulmuş Mi cihazlarında bildiriş görəcəksiniz. Yeni cihazda daxil olmağa icazə vermək üçün bildirişə toxunun."</string>
+    <string name="two_factor_auth_click_confirm_summary">"Digər bağlantılı Mi cihazlarında bildiriş görəcəksiniz. Yeni cihazda daxil olmağa icazə vermək üçün bildirişə toxunun."</string>
     <string name="two_factor_auth_method">Kimlik təsdiqləmə üsulu</string>
     <string name="two_factor_auth_need_code">Kodu daxil edin</string>
-    <string name="two_factor_auth_need_code_summary">"Digər bağlantı qurulmuş Mi cihazlarında kod görəcəksiniz. Daxil olmaq üçün bu kodu yeni cihazda daxil edin."</string>
-    <string name="two_factor_auth_summary">"Yeni bir cihazda və ya yeni bir məkanda daxil olmağa çalışanda, digər bağlantı qurulmuş cihazlarda bu haqda bildiriş alacaqsınız. Belə daxil olma cəhdlərinin siz tərəfdən icazə verildiyini təsdiqləməlisiniz."</string>
+    <string name="two_factor_auth_need_code_summary">"Digər bağlantılı Mi cihazlarında kod görəcəksiniz. Daxil olmaq üçün bu kodu yeni cihazda daxil edin."</string>
+    <string name="two_factor_auth_summary">"Yeni bir cihazda və ya yeni bir yerdə daxil olmağa çalışanda, digər bağlantılı cihazlarda bu haqda bildiriş alacaqsınız. Belə daxil olma cəhdlərinin siz tərəfdən icazə verildiyini təsdiqləməlisiniz."</string>
     <string name="unbind_sns_description">"Bu hesabla bağlantını kəsdikdən sonra, Xiaomi Hesabınıza daxil olmaq üçün %s Hesab məlumatlarınızı istifadə edə bilməyəcəksiniz."</string>
     <string name="unit_gb">" GB"</string>
     <string name="unit_mb">" MB"</string>

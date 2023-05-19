@@ -5,7 +5,7 @@
     <string name="add_frequent_phrases">Çox istifadə edilən ifadə əlavə et</string>
     <string name="africaanimals_preview">Savanna</string>
     <string name="alarmclock">Zəngli saat</string>
-    <string name="all_call_livetalk_enable">Ölkədaxili və beynəlxalq zənglər üçün balans paketi istifadə edilir</string>
+    <string name="all_call_livetalk_enable">Ölkədaxili və beynəlxalq zənglərdə artırma paketi istifadə edilir</string>
     <string name="all_call_livetalk_remain_mins">Qalan dəqiqə: %1$s ölkədaxili və ya %2$s beynəlxalq</string>
     <string name="always">Həmişə</string>
     <string name="alwaysUsePrompt">Seçimimi xatırla</string>
@@ -142,7 +142,7 @@
     <string name="echo">Əks-səda</string>
     <string name="eighthours">8 saat</string>
     <string name="enable_livetalk_summary">Zəng xərclərinə 70% qənaət edin</string>
-    <string name="enable_livetalk_title">Balans paketini aç</string>
+    <string name="enable_livetalk_title">Artırma paketini işə sal</string>
     <string name="enable_midrop">Aç</string>
     <string name="enable_nfc">Artıq enerji yığmır. NFC yenidən açıldı.</string>
     <string name="enable_nfc_haptic_reverse">Tərsinə enerji yığma dayandırıldı. NFC və titrəmə yenidən açıldı.</string>
@@ -214,8 +214,8 @@
     <string name="icelatte">Buzlu latte</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Barmağınızı Əsas ekran düyməsinə yerləşdirin</string>
     <string name="incomingmessage">Gələn mesaj</string>
-    <string name="internal_livetalk_enable">Ölkədaxili zənglər üçün balans paketi istifadə edilir</string>
-    <string name="international_livetalk_enable">Beynəlxalq zənglər üçün balans paketi istifadə edilir</string>
+    <string name="internal_livetalk_enable">Ölkədaxili zənglərdə artırma paketi istifadə edilir</string>
+    <string name="international_livetalk_enable">Beynəlxalq zənglərdə artırma paketi istifadə edilir</string>
     <string name="kb_reset_toast">Klaviatura uğurla sıfırlandı</string>
     <string name="key_btn_ok">Oldu</string>
     <string name="key_btn_space">Boşluq</string>
@@ -261,7 +261,7 @@
     <string name="leisure">İstirahət</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo telefonu</string>
-    <string name="livetalk_not_enable">Balans paketi bağlıdır</string>
+    <string name="livetalk_not_enable">Artırma paketi sönülüdür</string>
     <string name="location_usage_restricted_body">İcazə vermək üçün toxunun.</string>
     <string name="location_usage_restricted_title">Arxaplan yerləşməsi məhdudlaşdırıldı</string>
     <string name="lockscreen_access_pattern_cell_added">Hüceyrə əlavə edildi</string>

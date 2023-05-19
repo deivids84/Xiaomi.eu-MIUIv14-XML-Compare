@@ -504,8 +504,8 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="notif_backup_content">İstifadəçi verilənləri nüsxələnir</string>
     <string name="notif_backup_title">Verilənləri nüsxələ</string>
     <string name="notif_calculating_app">Hesablanır %1$s (%2$s)…</string>
-    <string name="notif_connect_miasist">\"Mi PC Suite\"ə bağlandı</string>
-    <string name="notif_disconnect_miasist">\"Mi PC Suite\"ə bağlanmadı</string>
+    <string name="notif_connect_miasist">Mi PC Suite ilə bağlantılıdır</string>
+    <string name="notif_disconnect_miasist">Mi PC Suite ilə bağlantılı deyil</string>
     <string name="notif_icloud_canceled_summary">Ləğv edildi</string>
     <string name="notif_icloud_canceling_summary">Ləğv edilir…</string>
     <string name="notif_icloud_import_title">Verilənləri iCloud-dan daxilə köçür</string>

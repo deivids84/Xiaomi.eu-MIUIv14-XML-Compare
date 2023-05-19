@@ -121,13 +121,13 @@ Yenidən sınayın"</string>
 *  Zəngli saat, saat və vaxt tənzimləmələri 
 *  Bildiriş tənzimləmələri 
 *  MIUI və sistem tənzimləmələri 
-Qeyd: Quraşdırdığınız tətbiqlərin verilənləri Xiaomi Cloud-da nüsxələnmir."</string>
+Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnmir."</string>
     <string name="cloud_back_up_detail_discription_china">"Cihazınız Wi-Fi-a bağlandıqda aşağıdakı elementlər Xiaomi Cloud-a nüsxələnəcək: 
 *  Tətbiqlər, Əsas ekran düzümü və divar kağızları 
 *  Zəngli saat, saat və vaxt tənzimləmələri 
 *  Bildiriş tənzimləmələri 
 *  MIUI və sistem tənzimləmələri 
-Qeyd: Quraşdırdığınız tətbiqlərin verilənləri Xiaomi Cloud-da nüsxələnmir."</string>
+Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnmir."</string>
     <string name="cloud_back_up_frequence_choice_title">Nüsxələmə cədvəli</string>
     <string name="cloud_back_up_frequence_long">Hər %d gün</string>
     <string name="cloud_back_up_frequence_short">Hər gün</string>

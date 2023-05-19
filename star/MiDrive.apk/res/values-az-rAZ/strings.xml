@@ -228,7 +228,7 @@ Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin."</string
     <string name="inner_storage_path">Daxili anbar</string>
     <string name="jump_to_directory">Qovluğu aç</string>
     <string name="just_now">İndicə</string>
-    <string name="license_host_unreachable">"Cihazınız bulud xidmətinə bağlanmayıb. Bu elementə baxmaq üçün istənilən bağlantı qurulmuş cihazda %s ünvanını ziyarət edin."</string>
+    <string name="license_host_unreachable">"Cihazınız bulud xidmətinə bağlanmayıb. Bu elementə baxmaq üçün istənilən bağlantılı cihazda %s ünvanını ziyarət edin."</string>
     <string name="load_label_up_no_data">Göstəriləcək element yoxdur</string>
     <string name="load_label_up_none">Göstəriləcək element yoxdur</string>
     <string name="load_label_up_refresh">Elementlər yüklənir…</string>

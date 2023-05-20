@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="abort_backup_confirm">"Nüsxələmə tamamlanmadı. Hər halda dayandırılsın?"</string>
+    <string name="abort_backup_confirm">"Nüsxələmə tamamlanmadı. Yenə də dayandırılsın?"</string>
     <string name="abort_restore_confirm">"Bərpa etmə tamamlanmadı. Hər halda dayandırılsın?"</string>
     <string name="account_contact_backup_info">Google hesabı, Mi hesabı və Kontaktlar verilənləri</string>
     <string name="account_login">Daxil ol</string>

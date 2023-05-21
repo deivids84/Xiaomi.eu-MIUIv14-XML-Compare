@@ -245,7 +245,7 @@
     <string name="micloud_space_duokan_detail">"Inicia Libro Electrónico en tu dispositivo y accede a Estantería &gt; Almacenamiento en la nube para administrar el espacio de almacenamiento.
 Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_duokan_title">Espacio de almacenamiento Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Abre la aplicación Grabadora en tu dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
+    <string name="micloud_space_soundrecorder_detail">"Abre la grabadora del dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
 Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Grabaciones de audio</string>
     <string name="midnight">Noche</string>

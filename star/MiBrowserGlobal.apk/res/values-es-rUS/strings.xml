@@ -520,6 +520,8 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="com.crashlytics.android.build_id">c307a5ad0f8346429a6d1a1937b4af8a</string>
+    <string name="com.miapm.build_id">6f00e236f15e428ebe42205d053439cd</string>
     <string name="com_facebook_device_auth_instructions">Ve a &lt;b&gt;facebook.com/device&lt;/b&gt; e ingresa el código que se muestra arriba.</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
@@ -759,6 +761,7 @@ Envíe este código al supervisor."</string>
     <string name="download_keep_queued_download">Mantener</string>
     <string name="download_list_no_items_tip">No hay elementos aquí.</string>
     <string name="download_list_open_xl_ok">Aceptar</string>
+    <string name="download_live_unsupported">"No se pueden descargar transmisiones en vivo"</string>
     <string name="download_memory_info_avai">" %s disponibles |"</string>
     <string name="download_memory_info_total">" %s total"</string>
     <string name="download_menu_title_clear_all">Borrar todo</string>
@@ -1373,15 +1376,16 @@ para añadir libros al mismo"</string>
     <string name="miuishare_title_share">Compartir</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -1759,7 +1763,7 @@ Dejar esta página ahora?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Multimedia</string>
-    <string name="notification_category_stickcard">StickCard</string>
+    <string name="notification_category_stickcard">Herramientas rápidas</string>
     <string name="notification_download_completed">Descargado con éxito</string>
     <string name="notification_download_failed">"No se pudo descargar."</string>
     <string name="notification_wechat_expired_empty">WeChat ha eliminado estos videos.</string>
@@ -2680,6 +2684,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="readmode_recommend">Ver recomendados</string>
     <string name="readmode_recommend_message">"Ya ha leído este libro. :)"</string>
     <string name="readmode_refresh">Actualizar</string>
+    <string name="readmode_tips">Activar modo de sólo texto</string>
     <string name="readmodelist_bookmarks_to_show">Lista de lectura</string>
     <string name="reboot">Reiniciar</string>
     <string name="recent_apk_status_install">INSTALADO</string>
@@ -2782,6 +2787,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
     <string name="save_to_camera_success">Guardado en Galería</string>
     <string name="save_to_private_folder">Agregar a archivos ocultos</string>
+    <string name="scan_type_empty_folder">Carpeta vacía</string>
     <string name="scanner_uninstalled_text">Instalar escáner para continuar</string>
     <string name="scanner_uninstalled_title">El escáner ha sido desinstalado</string>
     <string name="scanning_info">Elementos encontrados: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -2910,6 +2916,7 @@ recomendamos que uses el modo de lectura gratuita"</string>
     <string name="skip_current_version">Omitir esta versión</string>
     <string name="sku_all">Todo</string>
     <string name="sku_price_everymonth">%1$s cada mes</string>
+    <string name="slide_card">Desliza para más</string>
     <string name="sms_send_success">Enviado con éxito</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"No se pudo guardar la página"</string>
@@ -3208,6 +3215,7 @@ No muestra nada."</string>
     <string name="toast_exit_browser">Toque de nuevo para salir de Navegador</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
+    <string name="top_news">Historias destacadas</string>
     <string name="top_up">Recargar</string>
     <string name="topsite_click">Haga clic en TopSite</string>
     <string name="track_permission_name">No rastrear</string>
@@ -3489,6 +3497,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="year_month_day_format">dd \'de\' MMM. yyyy</string>
     <string name="yes">Yes</string>
     <string name="yesterday">Ayer</string>
+    <string name="youtube_dialog_content">"Estás a punto de salir del navegador y abrir YouTube. ¿Continuar?"</string>
     <string name="ytb_added_subscription">Suscrito con éxito</string>
     <string name="ytb_cancel">Cancelar</string>
     <string name="ytb_deleted_subscription">Suscripción cancelada con éxito</string>

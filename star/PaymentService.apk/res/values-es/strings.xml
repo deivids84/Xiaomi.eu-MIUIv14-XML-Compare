@@ -374,6 +374,7 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_paytool_mipay">pago airstar</string>
     <string name="mibi_paytool_msp_not_installed">No has instalado el complemento %1$s de seguridad móvil. ¿Instalarlo?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
+    <string name="mibi_paytool_unionpay">UnionPay</string>
     <string name="mibi_paytool_wechat_return_cancel">Cancelar devolución de WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permite que la cámara use las funciones, en Ajustes.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permite enviar mensajes SMS para usar las funciones, en Ajustes.</string>

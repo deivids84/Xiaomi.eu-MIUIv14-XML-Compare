@@ -8036,13 +8036,11 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Desactivar</string>
     <string name="shoulder_key_switch_status_open">Activar</string>
-    <string name="show_alarm_icon_title">Mostrar icono de alarma</string>
     <string name="show_all_anrs">Mostrar ANR en segundo plano</string>
     <string name="show_all_anrs_summary">Mostrar el cuadro de diálogo \"La aplicación no responde\" para las aplicaciones en segundo plano</string>
     <string name="show_all_apps">Mostrar uso completo del dispositivo</string>
     <string name="show_background_processes">Procesos en caché</string>
     <string name="show_badge_notifications_short">Íconos</string>
-    <string name="show_bt_icon_title">Mostrar icono Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar nombre del operador con el dispositivo bloqueado</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animación de carga después de desbloquear el dispositivo</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Siga mostrando la animación de carga después de que su dispositivo esté desbloqueado, ocultándolo solo para la reproducción de video y otras escenas de pantalla completa similares</string>
@@ -8064,9 +8062,7 @@ Nota: No puedes usar tu huella digital para desbloquear este dispositivo. Para o
     <string name="show_ime_summary">Mantener en la pantalla cuando el teclado físico esté activo</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar menú</string>
-    <string name="show_mute_icon_title">Mostrar icono de modo silencioso</string>
     <string name="show_network_speed_title">Mostrar velocidad de conexión</string>
-    <string name="show_nfc_icon_title">Mostrar icono NFC</string>
     <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangular</string>
     <string name="show_notification_channel_warnings">Mostrar avisos del canal de notificación</string>
     <string name="show_notification_channel_warnings_summary">Muestra una advertencia en pantalla cuando una aplicación publica una notificación sin un canal válido</string>
@@ -8459,6 +8455,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
     <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
     <string name="status_bar_app_enable_message">Íconos</string>
     <string name="status_bar_carrier_settings_no_sim_card">No hay tarjeta SIM</string>
+    <string name="status_bar_icons_title">Iconos de la barra de estado</string>
     <string name="status_bar_settings">Notificaciones y barra de estado</string>
     <string name="status_bar_settings_all_app_display_loading">Un momento…</string>
     <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>

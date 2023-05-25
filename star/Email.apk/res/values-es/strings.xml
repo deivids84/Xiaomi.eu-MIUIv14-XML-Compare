@@ -900,8 +900,6 @@ Declinado:
     <string name="pdf_signature_manager_max_count">"No se pueden agregar más firmas. Elimine firmas antiguas para agregar nuevas."</string>
     <string name="pdf_signature_manager_title">Gestionar firmas</string>
     <string name="pdf_signature_select">Seleccionar firma</string>
-    <string name="pdf_viewer_actionbar_more_other">Otras aplicaciones</string>
-    <string name="pdf_viewer_actionbar_more_wps">Abrir en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El archivo PDF está dañado. Verifique este archivo y vuelva a intentarlo.</string>
     <string name="pdf_viewer_new_email">Enviar</string>
     <string name="pdf_viewer_reply">Responder</string>

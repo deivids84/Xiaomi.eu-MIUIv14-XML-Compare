@@ -193,6 +193,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
     <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
     <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">Oldu</string>
     <string name="mtrl_picker_date_header_title">Tarix seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
     <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
@@ -214,6 +215,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
+    <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="night">Axşam</string>
     <string name="nonui_mode_config_description">"MIUI, cihazınızı istifadə etmədiyinizi aşkarlayanda, bildirişlər üçün ekran işığı yandırılmır, LED işığı, barmaq izi sensoru və toxunuş kontrolları batareyaya qənaət etmək üçün söndürülür."</string>
     <string name="nonui_mode_config_title">Qeyri-interaktiv rejim</string>

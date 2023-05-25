@@ -69,6 +69,7 @@
     <string name="effect_selection">Səs effektləri</string>
     <string name="effect_virtual_surround">Virtual immersiv səs</string>
     <string name="effect_virtual_surround_summary">"Qulaqlıqlarda səs və videoların oxudulması üçün səs dərinliyini zənginləşdirin. (Bu özəllik, səs %.1f ilə oxudulanda işləmir)"</string>
+    <string name="effect_virtual_surround_summary_spk">Səs və video oxutma üçün səs dərinliyini zənginləşdirin</string>
     <string name="end_wireless_transmission">Dayandır</string>
     <string name="eq_auto">Özəl</string>
     <string name="eq_blues">Blues</string>
@@ -206,15 +207,16 @@
     <string name="misound_effect_setting">Mi Səs</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

@@ -590,6 +590,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_compress">Sıxışdır</string>
     <string name="operation_compressing">Sıxışdırılır…</string>
     <string name="operation_copy">Kopyala</string>
+    <string name="operation_copy_clipboard">Lövhəyə kopyala</string>
+    <string name="operation_copy_local">Qovluğa kopyala</string>
     <string name="operation_create_folder">Qovluq yarat</string>
     <string name="operation_create_folder_message">Qovluq adını daxil edin</string>
     <string name="operation_create_folder_name_conflict">"Qovluq yaradıla bilmədi. Bu adda qovluq artıq mövcuddur."</string>
@@ -889,6 +891,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="title_select_volume">Qovluq seçin</string>
     <string name="to_open">Tənzimləmələr</string>
     <string name="to_setting">Tənzimləmələr</string>
+    <string name="toast_copy_clipboard">Lövhəyə əlavə edildi</string>
     <string name="toast_file_not_can_read">Bu əməliyyatı idarə etmək üçün heç bir tətbiq tapılmadı.</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>

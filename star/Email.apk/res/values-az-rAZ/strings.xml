@@ -898,8 +898,6 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="pdf_signature_manager_max_count">"Daha çox imza əlavə edilə bilmir. Yenisini əlavə etmək üçün köhnə imzaları silin."</string>
     <string name="pdf_signature_manager_title">İmzaları idarə et</string>
     <string name="pdf_signature_select">İmza seçin</string>
-    <string name="pdf_viewer_actionbar_more_other">Digər tətbiqlər</string>
-    <string name="pdf_viewer_actionbar_more_wps">WPS ilə aç</string>
     <string name="pdf_viewer_file_damage_toast">PDF faylı zədələnib. Bu faylı yoxlayıb yenidən sınayın.</string>
     <string name="pdf_viewer_new_email">Göndər</string>
     <string name="pdf_viewer_reply">Cavabla</string>

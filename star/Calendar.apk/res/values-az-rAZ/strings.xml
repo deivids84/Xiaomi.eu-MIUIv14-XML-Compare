@@ -52,6 +52,7 @@
     <string name="additional_calendar_note">Bəzi əlavə təqvimlər mövcud olmaya bilər və ya tutarsız amillərdən asılı olaraq dəyişə bilər</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agenda_month_empty_hint">Bu gün üçün tədbir yoxdur</string>
+    <string name="agenda_not_today_empty_hint">Burada hələ heç bir tədbir yoxdur. Yaratmaq üçün toxunun.</string>
     <string name="agenda_tomorrow">SABAH, %1$s</string>
     <string name="agenda_view">Tədbirlər</string>
     <string name="alarm_label">Ləğv et</string>
@@ -262,6 +263,7 @@
     <string name="event_info_when">Nə vaxt</string>
     <string name="event_info_where">Harada</string>
     <string name="event_reminder_allday_day_zero">Eyni gün %2$s</string>
+    <string name="event_reminder_custom">Özəl</string>
     <string name="event_reminder_value_zero">Tədbirdən əvvəl</string>
     <string name="event_title">Başlıq</string>
     <string name="event_view">Tədbirə bax</string>
@@ -543,6 +545,10 @@
     <string name="notes_week_name_two">%1$s və %2$s</string>
     <string name="notes_weekly">Həftəlik</string>
     <string name="notification_channel_name">Təqvim xatırladıcıları</string>
+    <string name="notification_open_setting_button_exit">Xeyr, təşəkkürlər</string>
+    <string name="notification_open_setting_button_ok">İcazə ver</string>
+    <string name="notification_open_setting_message">"\"Təqvim\"in sizə bildirişlər göndərməsinə icazə verməyincə, tədbirlər haqqında bildirişlər ala bilməyəcəksiniz."</string>
+    <string name="notification_open_setting_title">Təqvim bildirişlərinə icazə verilsin?</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Amanta ayı:</string>
     <string name="panchang_ayana">Ayana</string>
@@ -631,6 +637,8 @@
     <string name="remind_title_menstruation_start">Periodun nə vaxt başlayacağını xatırlat</string>
     <string name="remind_title_record">Qeyd etmək üçün xatırlat</string>
     <string name="repeat_activity_label">Təkrarla</string>
+    <string name="repeat_alarm_close_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı söndürülsün?</string>
+    <string name="repeat_alarm_open_title">Bu, təkrarlanan tədbirdir. Siqnal xatırladıcısı qurulsun?</string>
     <string name="repeat_custom_activity_label">Özəl</string>
     <string name="repeat_custom_prompt_daily">hər %1$s</string>
     <string name="repeat_custom_prompt_sentence">Tədbir hər %1$s təkrarlanacaq</string>

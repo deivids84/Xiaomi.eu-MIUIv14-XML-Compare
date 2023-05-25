@@ -48,6 +48,10 @@
         <item quantity="other">"%1$d element endirilə bilmədi"</item>
         <item quantity="one">"%1$d element endirilə bilmədi"</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Endirmək üçün gözlənilir. %1$s fayl qaldı.</item>
+        <item quantity="one">Endirmək üçün gözlənilir. %1$s fayl qaldı.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Endirilir… %1$d element qaldı (%2$s%%)</item>
         <item quantity="one">Endirilir… %1$d element qaldı (%2$s%%)</item>
@@ -123,6 +127,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"%1$d element yüklənilə bilmədi"</item>
         <item quantity="one">"%1$d element yüklənilə bilmədi"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Yükləmək üçün gözlənilir. %1$s fayl qaldı.</item>
+        <item quantity="one">Yükləmək üçün gözlənilir. %1$s fayl qaldı.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Yüklənilir… %1$d element qaldı (%2$s%%)</item>

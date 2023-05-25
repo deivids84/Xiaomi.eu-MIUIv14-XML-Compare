@@ -34,36 +34,7 @@
     <string name="about_newest">Divar kağızı Karuseli güncəldir.</string>
     <string name="about_permission">İcazələr</string>
     <string name="about_update">Güncəllə</string>
-    <string name="access_denied_info">Həddən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="account_crop_user_avatar">Fotonu kəs</string>
-    <string name="account_empty_user_name">Mi Hesabınızın istifadəçi adını daxil edin</string>
-    <string name="account_error_all_space_user_name">"İstifadəçi adı yalnız boşluq simvolunu ehtiva edə bilməz"</string>
-    <string name="account_error_invalid_user_name">"Adda bunlara icazə verilmir: &lt;, &gt;, və ya /"</string>
-    <string name="account_error_longer_user_name">"Ad 20 simvoldan uzun ola bilməz"</string>
-    <string name="account_error_shorter_user_name">Ad 2 simvoldan uzun olmalıdır</string>
-    <string name="account_error_user_birthday">Daxil etdiyiniz doğum günü yararsızdır</string>
-    <string name="account_error_user_name">Bu ləqəb yararsızdır. Fərqlisini yoxlayın.</string>
-    <string name="account_invalid_user_avatar">Bu foto yararsızdır. Fərqlisini yoxlayın.</string>
-    <string name="account_limit_update_birthday">"Doğum günü indi güncəllənə bilmir"</string>
-    <string name="account_no_set">Yoxdur</string>
-    <string name="account_none_bind_info">Yoxdur</string>
-    <string name="account_none_user_name">Yoxdur</string>
-    <string name="account_secure_info_pref_title">Hesab məlumatları</string>
-    <string name="account_security_info_pref_title">Güvənlik məlumatları</string>
-    <string name="account_user_avatar">Profil şəkli</string>
-    <string name="account_user_avatar_from_album">Qalereya</string>
-    <string name="account_user_avatar_from_camera">Kamera</string>
-    <string name="account_user_base_info">Təməl məlumatlar</string>
-    <string name="account_user_details">Şəxsi məlumatlar</string>
-    <string name="account_user_email">Bərpa e-poçtu</string>
-    <string name="account_user_gender">Cins</string>
-    <string name="account_user_id">Mi Hesabı Kimliyi</string>
-    <string name="account_user_name">Ləqəb</string>
-    <string name="account_user_name_dialog_title">İstifadəçi adını daxil edin</string>
-    <string name="account_user_phone">Bərpa telefonu</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="activate_email_notice">24 saat ərzində hesabınızın aktivləşdiriləcəyinə əmin olun</string>
-    <string name="activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
     <string name="ad_btn_connecting">Bağlantı qurulur</string>
     <string name="ad_btn_download_continue">Davam et</string>
     <string name="ad_btn_download_start">Endir</string>
@@ -85,7 +56,6 @@
     <string name="add_local_picture">Qalereya</string>
     <string name="add_online_picture">Onlayn şəkillər</string>
     <string name="add_to_cw">Slayd şouya əlavə et</string>
-    <string name="add_to_trust_device">Bu, güvənli cihazdır</string>
     <string name="add_wallpaper">Divar kağızları əlavə et</string>
     <string name="addcw_apply_btn_txt">Divar kağızı əlavə et</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -108,9 +78,7 @@
     <string name="apply_warning_title">Divar kağızını tətbiq et</string>
     <string name="article_item_hot">%s+ məşhur məqaləyə nəzər sal</string>
     <string name="at_least_one">Ən azı 1 kateqoriya seçin</string>
-    <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="auto_interval">Cihazın kilidi hər açılanda</string>
-    <string name="back">Geri</string>
     <string name="back_icon_content_description">Geri</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_button">Bəli</string>
@@ -133,8 +101,6 @@
     <string name="carousel_suggest1">Divar kağızı Karuseli ilə gündəlik olaraq birbaşa Kilid ekranınıza çatdırılıan yeni divar kağızları alın.</string>
     <string name="carousel_suggest2">Divar kağızı Karuseli açıqdır?</string>
     <string name="category_subscribe_failed">"Abunə ola bilmədi"</string>
-    <string name="change_activate_email">E-poçt ünvanını dəyişdir</string>
-    <string name="change_password">Parolu dəyişdir</string>
     <string name="change_time">Divar kağızını dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
@@ -144,13 +110,11 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="close_gallery">Söndür</string>
-    <string name="collect_diagnosis_log">Jurnalları yığ</string>
     <string name="comment_pop_cancel">İndi yox</string>
     <string name="comment_pop_content">\"Divar kağızı Karuseli\"ni bəyənirsinizsə, bizə bir rəy bildirin!</string>
     <string name="comment_pop_ok">Qiymətləndir</string>
     <string name="comment_pop_title">\"Divar kağızı Karuseli\"ni qiymətləndir</string>
     <string name="confirm">Aç</string>
-    <string name="confirm_activate_email">Təsdiqləndi</string>
     <string name="copy">Kopyala</string>
     <string name="create_shortcut">Əsas ekran qısayolu yarat</string>
     <string name="create_shortcut_btn">Yarat</string>
@@ -202,6 +166,7 @@
     <string name="delete_pic">Şəkli sil</string>
     <string name="deny_des">Divar kağızları Karuseli, normal işləyə bilməsi üçün Qalereyaya müraciət etməlidir.</string>
     <string name="detail_ad_type_ad">Reklam</string>
+    <string name="detail_ad_type_close_ad">Reklamı bağla</string>
     <string name="detail_ad_type_video">Məşhur videolar</string>
     <string name="detail_add_cw">Divar kağızı əlavə et</string>
     <string name="detail_add_shortcut">Əsas ekrana əlavə et</string>
@@ -235,10 +200,6 @@
     <string name="detail_toast_deny_favor">"Sevimlilərə əlavə edilə bilmir."</string>
     <string name="detail_toast_dislike_fail">"Silinə bilmədi"</string>
     <string name="detail_toast_favor_permission">\"Divar kağızı Karuseli\"nin \"Güvənlik\"də anbara müraciətinə icazə verin.</string>
-    <string name="diagnosis_log_send_failed">"Jurnallar göndərilə bilmədi. Yenidən sınayın."</string>
-    <string name="diagnosis_log_sent_format">"Jurnallar uğurla göndərildi.
-Kimlik: %s
-Bu kodu nəzarətçiyə göndərin."</string>
     <string name="disable_dlg_cancel">İmtina</string>
     <string name="disable_dlg_content">"\"Divar kağızı Karuseli\"ni söndürsəniz, Əsas ekran və Kilid ekranınıza yeni şəkillər göndərə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
     <string name="disable_dlg_ok">Söndür</string>
@@ -246,7 +207,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dislike">Sil</string>
     <string name="dlg_cancel">İmtina</string>
     <string name="dlg_ok">Tətbiq et</string>
-    <string name="doing_query_account">Hesab məlumatları yoxlanılır…</string>
     <string name="double_click_to_exit_activity">Çıxmaq üçün yenidən toxunun</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_wallpaper">Divar kağızlarını idarə et</string>
@@ -256,17 +216,13 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="enable_toast_subscribe">\"Divar kağızı Karuseli\" açıqdır və abunəliklər aktivləşdirildi.</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
-    <string name="error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Mi Hesabı ilə əlaqəlidir.</string>
     <string name="error_icon_content_description">Xəta</string>
-    <string name="error_invalid_bind_address">Daxil etdiyiniz e-poçt ünvanı yararsızdır.</string>
     <string name="evening">Günortadan sonra</string>
-    <string name="exceed_binded_phone_times_notice">Bu telefon nömrəsi artıq başqa bir Mi Hesabı ilə əlaqəlidir.</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="explorer_activity_title">Divar kağızı Karuseli</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="external_storage_permission">Anbara müraciət</string>
     <string name="external_storage_permission_summary">Özəl divar kağızlarını seçmək və endirilən elementləri saxlamaq üçün</string>
-    <string name="facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="favor_list_no_data">Burada element yoxdur.</string>
     <string name="favor_list_title">Sevimlilər</string>
     <string name="favor_success">Uğurla sevimlilərə əlavə edildi</string>
@@ -279,20 +235,15 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="for_diagnosis_usage_only">Jurnallar yalnız diaqnostika üçün istifadə edilir.</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="from_migallerylockscreen">\"Divar kağızı Karuseli\"ndən</string>
     <string name="get_account_no_permission">Daxil olmazdan əvvəl \"Divar kağızı Karuseli\"nin bu cihazdakı hesablara müraciət etməsinə icazə verin.</string>
-    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq çox təsdiqləmə kodu göndərilib. 24 saat gözləyin və yenidən sınayın.</string>
-    <string name="google_login_btn_content_description">Google ilə daxil olun</string>
     <string name="goto_confirm">Tənzimləmələr</string>
-    <string name="header_help">Kömək</string>
     <string name="history_list_no_data">Burada element yoxdur</string>
     <string name="hour_1">Hər saat</string>
     <string name="hour_3">Hər 3 saatda bir</string>
-    <string name="i_know">Anladım</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="idbct_desc">Şəbəkə növlərinə görə \"Divar kağızı Karuseli\"ni özəlləşdirin</string>
     <string name="idbct_opt_auto_select_desc_text">Standart şəkilləri mobil internetlə, HD şəkilləri Wi-Fi ilə endirin</string>
@@ -302,11 +253,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="idbct_opt_low_dev_desc_text">Şəkilləri həmişə standart keyfiyyətdə endir</string>
     <string name="idbct_opt_low_dev_main_text">Standard</string>
     <string name="idbct_title">Şəbəkə növləri</string>
-    <string name="input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
     <string name="later">"Söndürməyin"</string>
     <string name="launch_bg_permission_exception">\"Divar kağızı Karuseli\"nə \"Güvənlik\"dən arxaplanda işləyərkən açılan pəncərələri göstərməsinə icazə verin</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">SQLCipher əsaslı Android SQLite API-si</string>
-    <string name="library_android_database_sqlcipher_libraryName">Android üçün SQLCipher</string>
     <string name="like">Sevimlilərə əlavə et</string>
     <string name="liked">Sevimlilərə əlavə edildi</string>
     <string name="lks_cta_dont_mention">"Təkrar göstərmə"</string>
@@ -378,21 +326,14 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lockscreen_h5_back_tv">Geri</string>
     <string name="lockscreen_h5_close_tv">Bağlı</string>
     <string name="lockscreen_h5_refresh_btn_tv">Təzələ</string>
-    <string name="lockscreen_h5_refresh_tip">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
     <string name="lockscreen_magazine_summary">Kateqoriyaları seçin</string>
     <string name="lockscreen_magazine_system_title">İlkin</string>
     <string name="lockscreen_magazine_title">Divar kağızı Karuseli</string>
     <string name="login_app">Daxil ol</string>
     <string name="login_app_cancel">İmtina</string>
     <string name="login_app_confirm">Daxil ol</string>
-    <string name="login_by_local_phone_long_text">İndi daxil ol</string>
-    <string name="login_by_local_phone_short_text">Daxil ol</string>
-    <string name="login_other">Başqa bir Mi Hesabı</string>
-    <string name="login_register_by_local_phone_long_text">Hesab yarat</string>
-    <string name="login_with_sns">Digər daxil olma yolları</string>
     <string name="login_xiaomi_account_summary">"Mi Hesabı &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşması&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətini&lt;/font&gt;&lt;/a&gt; oxudum və qəbul edirəm."</string>
     <string name="logout">Çıxış et</string>
-    <string name="logout_account">Çıxış et</string>
     <string name="logout_cancel">İmtina</string>
     <string name="logout_confirm">Oldu</string>
     <string name="logout_summary">"Çıxış etdikdən sonra abunəliklərinizi və özəlləşdirilmiş tənzimləmələri cihazlarınız arasında sinxronlaşdıra bilməyəcəksiniz. Yenə də çıxış edilsin?"</string>
@@ -407,7 +348,6 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="midnight">Gecə</string>
     <string name="minutes_15">Hər 15 dəqiqədə bir</string>
     <string name="minutes_5">Hər 5 dəqiqədə bir</string>
-    <string name="mishop_login_other">Başqa hesab</string>
     <string name="miui_clock_city_name_local">Yerli</string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_lock_screen_date">dd/MM EEEE</string>
@@ -537,11 +477,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="need_open_gallery">\"Divar kağızı Karuseli\"ni aç</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
-    <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="new_feature_title">"Yeniliklər"</string>
     <string name="night">Axşam</string>
-    <string name="no_account">Daxil olunmadı</string>
     <string name="no_long_show">"Təkrar göstərmə"</string>
     <string name="no_networdk">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="no_pic_data">"Şəkil tapıla bilmədi"</string>
@@ -564,17 +501,47 @@ mm"</string>
     <string name="open_gallery">Divar kağızı Karuseli</string>
     <string name="open_gallery_tips">\"Divar kağızı Karuseli\"ni açmaq üçün bura toxunun</string>
     <string name="open_guid_des">Tənzimləmələr &gt; İcazələr &gt; Digər icazələr &gt; \"Divar kağızı Karuseli\"nə gedin və tətbiqə tələb olunan bütün icazələri verin.</string>
-    <string name="open_settings">Tənzimləmələr</string>
     <string name="open_sub_title">Kateqoriyaları seçin</string>
     <string name="open_title">Divar kağızı Karuseli</string>
     <string name="open_unable">"Divar kağızı Karuseli, yalnız MIUI-nin ilkin Kilid ekranı ilə işləyir."</string>
     <string name="opened">Açıq</string>
     <string name="pager_load_hd">Orijinal şəklə bax</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
+    <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
+    <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq simvolundan ibarət ola bilməz"</string>
+    <string name="passport_account_error_invalid_user_name">"Adda bunlara icazə verilmir: &lt;, &gt;, və ya /"</string>
+    <string name="passport_account_error_longer_user_name">"Ad %d simvoldan uzun ola bilməz"</string>
+    <string name="passport_account_error_shorter_user_name">Ad %d simvoldan uzun olmalıdır</string>
+    <string name="passport_account_error_user_name">Bu ləqəb yararsızdır. Fərqlisini yoxlayın.</string>
+    <string name="passport_account_invalid_user_avatar">Bu foto yararsızdır. Fərqlisini yoxlayın.</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
+    <string name="passport_account_no_set">Yoxdur</string>
+    <string name="passport_account_none_bind_info">Yoxdur</string>
+    <string name="passport_account_none_user_name">Yoxdur</string>
+    <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
+    <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
+    <string name="passport_account_user_avatar">Profil fotosu</string>
+    <string name="passport_account_user_avatar_from_album">Qalereya</string>
+    <string name="passport_account_user_avatar_from_camera">Kamera</string>
+    <string name="passport_account_user_base_info">Təməl məlumatlar</string>
+    <string name="passport_account_user_details">Şəxsi məlumatlar</string>
+    <string name="passport_account_user_email">Bərpa e-poçtu</string>
+    <string name="passport_account_user_gender">Cins</string>
+    <string name="passport_account_user_id">Xiaomi Hesabı kimliyi</string>
+    <string name="passport_account_user_name">Ləqəb</string>
+    <string name="passport_account_user_name_dialog_title">Adı daxil edin</string>
+    <string name="passport_account_user_phone">Bərpa telefonu</string>
+    <string name="passport_activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
+    <string name="passport_agree">Razıyam</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
+    <string name="passport_attention">Diqqət</string>
+    <string name="passport_auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
+    <string name="passport_back">Geri</string>
     <string name="passport_bad_authentication">Yararsız istifadəçi adı və ya parol</string>
     <string name="passport_can_not_recevie_verify_code">"Kodu almadınız?"</string>
+    <string name="passport_change_password">Parolu dəyişdir</string>
+    <string name="passport_check_security">Güvənlik problemləri yoxlanılır…</string>
     <string name="passport_checking_account">Parol yoxlanılır…</string>
     <string name="passport_clear_input">Daxil edilmiş məzmunu təmizlə</string>
     <string name="passport_copy_link">URL-ni kopyala</string>
@@ -588,16 +555,14 @@ mm"</string>
     <string name="passport_dialog_nick_name_prefix">Ləqəb: %s</string>
     <string name="passport_dialog_phone_number_prefix">Telefon nömrəsi: %s</string>
     <string name="passport_dialog_register_other">"Xeyr, yenisini yaradacam"</string>
-    <string name="passport_email">E-poçt ünvanı</string>
-    <string name="passport_empty_password">"Parol boş buraxıla bilməz"</string>
+    <string name="passport_doing_query_account">Hesab məlumatları yoxlanılır…</string>
     <string name="passport_error_auth_fail">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="passport_error_device_id">"Cihaz kimliyi alına bilmir"</string>
-    <string name="passport_error_dynamic_token_error">Təsdiqləmə kodu yanlışdır</string>
-    <string name="passport_error_email">Daxil etdiyiniz e-poçt ünvanı yararsızdır</string>
-    <string name="passport_error_empty_email">E-poçt ünvanınızı daxil edin</string>
+    <string name="passport_error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
     <string name="passport_error_empty_password">Parolunuzu daxil edin</string>
     <string name="passport_error_empty_pwd">"Parol boş buraxıla bilməz"</string>
     <string name="passport_error_empty_user_id">İstifadəçi adınızı daxil edin</string>
+    <string name="passport_error_invalid_bind_address">Daxil etdiyiniz e-poçt ünvanı yararsızdır.</string>
     <string name="passport_error_length_limit">Daxil etdiyiniz mətn çox uzundur</string>
     <string name="passport_error_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="passport_error_no_password_user">"Hələ ki, heç bir parol təyin etməmisiniz. SMS ilə daxil olun."</string>
@@ -611,42 +576,75 @@ mm"</string>
     <string name="passport_error_unknow_host_network_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="passport_error_unknow_network_error">Şəbəkə xətası baş verdi</string>
     <string name="passport_error_unknown">Bilinməyən xəta</string>
-    <string name="passport_error_user_agreement">Əvvəlcə İstifadəçi Razılaşmamızı qəbul edin</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır</string>
     <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
+    <string name="passport_exceed_binded_phone_times_notice">Bu telefon nömrəsi artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
+    <string name="passport_facebook_login_btn_content_description">Facebook ilə daxil olun</string>
+    <string name="passport_frequency_try_later">Həddindən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="passport_get_login_type_next">Növbəti</string>
-    <string name="passport_header_back">Geri</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Bu nömrəyə həddindən artıq təsdiqləmə kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
+    <string name="passport_google_login_btn_content_description">Google ilə daxil olun</string>
+    <string name="passport_help">Kömək</string>
+    <string name="passport_i_know">Anladım</string>
     <string name="passport_identification_expired">Təsdiqləmə kodunun müddəti bitdi. Başdan başlat.</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
+    <string name="passport_input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
     <string name="passport_input_verify_code">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_input_voice_captcha_hint">Səsli təsdiqləmə kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
+    <string name="passport_login_by_local_phone_long_text">İndi daxil ol</string>
+    <string name="passport_login_by_local_phone_short_text">Daxil olun</string>
+    <string name="passport_login_other">Başqa bir Xiaomi Hesabı</string>
+    <string name="passport_login_register_by_local_phone_long_text">Hesab yarat</string>
+    <string name="passport_login_with_sns">Digər daxil olma yolları</string>
+    <string name="passport_logout_account">Çıxış et</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
-    <string name="passport_network_error">Şəbəkə xətası baş verdi.</string>
+    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
+    <string name="passport_network_timeout">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="passport_next">Növbəti</string>
+    <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_oauth_actionbar_title">Mi Hesabı</string>
     <string name="passport_oauth_sucess_tip">Uğurla səlahiyyət verildi</string>
+    <string name="passport_open_settings">Tənzimləmələr</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parolu göstərməyin"</string>
-    <string name="passport_password_req_notice">Parol, 8-16 simvol uzunluğunda olmalıdır və ən azı bunlardan ikisini ehtiva etməlidir: rəqəmlər, hərflər və xüsusi simvollar (məs. 123abc@# və ya 123abc və ya abc@#).</string>
     <string name="passport_password_show">Parolu göstər</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Hesab yarat</string>
+    <string name="passport_photo_picker_not_found">İstifadə ediləcək foto yoxdur.</string>
+    <string name="passport_qq_login_btn_content_description">QQ ilə daxil olun</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb edilir…</string>
     <string name="passport_quick_login_title">Parolunuzu daxil edin</string>
     <string name="passport_reging">Hesab yaradılır…</string>
+    <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
+    <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddindən çox hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
+    <string name="passport_request_agree">İcazə ver</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil şəkilinizi tənzimləmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_cancel">İmtina</string>
+    <string name="passport_request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
+    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="passport_resend_email_reach_limit_message">"Həddindən artıq təsdiqləmə e-poçtu tələb etdiniz. Təsdiqləmə e-poçtunun Spam qovluğunda olmadığına əmin olun."</string>
+    <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
     <string name="passport_retry">Yenidən sına</string>
+    <string name="passport_same_new_and_old_pwd">"Hazırkı parolla eyni ola bilməz"</string>
     <string name="passport_send_sms_to">Kod göndərildi: %1$s</string>
     <string name="passport_send_too_many_code">Bu nömrəyə həddindən çox təsdiqləmə kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="passport_sending_vcode">Kod göndərilir…</string>
-    <string name="passport_set_password">Parol təyin et</string>
+    <string name="passport_service_error">Server xətası</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
+    <string name="passport_skip_query_account">Ötür</string>
+    <string name="passport_sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
+    <string name="passport_sns_bind_limit">Həddindən artıq cəhd. Digər daxil olma yollarını yoxlayın.</string>
+    <string name="passport_system_error">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli təsdiqləmə koduna keç</string>
@@ -655,11 +653,26 @@ mm"</string>
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil ol</string>
-    <string name="passport_unknow_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknown_error">Bilinməyən xəta</string>
+    <string name="passport_unknown_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum qəbul edirəm: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>\"Bunları oxudum qəbul edirəm: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_avatar_update_title">Profil fotosunu dəyişdir</string>
+    <string name="passport_user_avatar_uploading">Bir saniyə…</string>
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
-    <string name="passport_user_id_intro">%1$s üçün parol daxil edin</string>
+    <string name="passport_user_name_phone_number">Telefon nömrəsi</string>
     <string name="passport_user_password_hint">Parol</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz bərpa telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
+    <string name="passport_weibo_login_btn_content_description">Weibo ilə daxil olun</string>
+    <string name="passport_weixin_login_btn_content_description">WeChat ilə daxil olun</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
     <string name="passport_wrong_vcode">Daxil etdiyiniz kod yanlışdır</string>
@@ -670,14 +683,11 @@ mm"</string>
     <string name="permission_storage_read_tip">Cihazınızda saxlanılan fotolara müraciət</string>
     <string name="permission_storage_tip">Endirilən elementləri cihazınızda saxlayın</string>
     <string name="personalized">Şəxsiləşdirmə</string>
-    <string name="phone_auto_login_register_with_local_number">Hesab yarat</string>
-    <string name="photoPickerNotFoundText">Foto yoxdur.</string>
     <string name="platform_unavailable_qq">Əvvəlcə QQ-nu quraşdır</string>
     <string name="platform_unavailable_qzone">Qzone-u quraşdır</string>
     <string name="platform_unavailable_wechat">WeChat-ı quraşdır</string>
     <string name="platform_unavailable_wechatmoment">WeChat-ı quraşdır</string>
     <string name="platform_unavailable_weibo">Weibo-nu quraşdır</string>
-    <string name="please_agree_protocal">Protokolla razılaşın</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
@@ -690,9 +700,6 @@ mm"</string>
     <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını qəbul etmədiyiniz müddətcə \"Divar kağızı Karuseli\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
     <string name="privacy_update_title1">Güncəllənmiş gizlilik siyasəti</string>
     <string name="privacy_update_title2">Diqqət</string>
-    <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
-    <string name="protocal_dialog_confirm">Razıyam</string>
-    <string name="protocal_dialog_title">Diqqət</string>
     <string name="prv_end"><CDATA>\"İndilik bu qədər.\"</CDATA></string>
     <string name="prv_loading"><CDATA>Bir saniyə…</CDATA></string>
     <string name="prv_nodata"><CDATA>Məlumat yoxdur</CDATA></string>
@@ -701,7 +708,6 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Təzələmək üçün yuxarı çək</string>
     <string name="pull_to_refresh_refreshing_label">Təzələnir…</string>
     <string name="pull_to_refresh_release_label">Təzələmək üçün burax</string>
-    <string name="qq_login_btn_content_description">QQ ilə daxil olun</string>
     <string name="recommend_switch_desc">Tərcihlərinizə görə məzmun tövsiyələri alın</string>
     <string name="recommend_switch_dlg_close">Bağla</string>
     <string name="recommend_switch_dlg_desc">"Bu özəlliyi bağlasanız, tərcihlərinizə görə tövsiyələr ala bilməyəcəksiniz."</string>
@@ -709,23 +715,10 @@ mm"</string>
     <string name="recommend_switch_dlg_title">Tövsiyələr bağlanılsın?</string>
     <string name="recommend_switch_title">Şəxsiləşdirilmiş tövsiyələr</string>
     <string name="refresh_network">Təzələ</string>
-    <string name="register_by_local_phone_long_text">Hesab yarat</string>
-    <string name="register_by_local_phone_short_text">Hesab yarat</string>
     <string name="remove">Sil</string>
     <string name="req_permission_dis_tip">Tələb olunan icazələr</string>
-    <string name="request_agree">İcazə ver</string>
-    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
-    <string name="request_cancel">İmtina</string>
-    <string name="request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
-    <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
-    <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
     <string name="require_permission">Tələb olunan icazələr</string>
     <string name="require_permission_text">Elementləri saxlaya və görə bilmək üçün \"Divar kağızı Karuseli\"nin anbara müraciətinə icazə verin.</string>
-    <string name="resend_active_email">Yenidən göndər</string>
-    <string name="resend_email_reach_limit_message">"Həddən artıq çox təsdiqləmə e-poçtu tələb etdiniz. Təsdiqləmə e-poçtunun Spam qovluğunda olmadığına əmin olun."</string>
-    <string name="resend_email_reach_limit_title">Həddən artıq çox cəhd</string>
-    <string name="resend_email_success">Uğurla göndərildi</string>
     <string name="resource_apply">Tətbiq et</string>
     <string name="resource_no_network_text">Şəbəkə bağlantınızı yoxlayıb yenidən sınayın</string>
     <string name="revoke_button">Geri götür</string>
@@ -741,7 +734,6 @@ mm"</string>
     <string name="rv_with_footer_empty">Burada hələ heç nə yoxdur.</string>
     <string name="rv_with_footer_loading"><CDATA>Bir saniyə…</CDATA></string>
     <string name="rv_with_footer_pull_load_more">Daha çoxuna baxmaq üçün aşağı çəkin</string>
-    <string name="same_new_and_old_pwd">"Mövcud parolla eyni ola bilməz"</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -763,9 +755,6 @@ mm"</string>
     <string name="select_picture">Şəkilləri seç</string>
     <string name="select_picture_des">Slayd şouda avtomatik olaraq görünməsi üçün fotolarınızı və onlayn şəkilləri qarışığa əlavə edin.</string>
     <string name="send">Göndər</string>
-    <string name="send_diagnosis_log">Jurnalları göndər</string>
-    <string name="send_email_activate_message">Təsdiqləmə e-poçtu uğurla göndərildi</string>
-    <string name="service_error">Server xətası</string>
     <string name="setting_about_item_des">Versiya</string>
     <string name="setting_about_item_title">Divar kağızı Karuseli haqqında</string>
     <string name="setting_des">Slayd şou xidmətləri, Divar kağızı Karuseli tərəfindən təqdim edilir. Bütün mövcud seçimlərə baxmaq üçün Tənzimləmələrdə \"Divar kağızı Karuseli\"ni axtarın.</string>
@@ -791,11 +780,7 @@ mm"</string>
     <string name="shortcut_exist">Qısayol artıq mövcuddur</string>
     <string name="shortcut_failed">"Qısayol yaradıla bilmədi"</string>
     <string name="show_wallpaper_loop_entry_title">Slayd şou tənzimləmələri</string>
-    <string name="skip_query_account">Ötür</string>
     <string name="sliding_on_unlock">Kilid açmaq üçün yuxarı sürüşdür</string>
-    <string name="sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
-    <string name="sns_bind_limit">Həddən artıq çox cəhd. Digər daxil olma yollarını yoxlayın.</string>
-    <string name="sns_sign_in">Digər daxil olma yolları</string>
     <string name="sst_auto_recommand_desc">Kilid ekranınıza gündəlik olaraq göndərilən yeni şəkilləri və hekayələri almaq üçün sevimli kateqoriyalarınıza abunə olun.</string>
     <string name="sst_auto_recommand_title">Özəlləşdirilmiş divar kağızları üçün tövsiyələr alın</string>
     <string name="sst_change_wallpaper_desc">"Divar kağızını tətbiq etmək istədiyini yeri seçin"</string>
@@ -890,10 +875,8 @@ mm"</string>
     <string name="sure_close_gallery">Divar kağızı Karuseli söndürülsün?</string>
     <string name="sure_close_gallery_des">"\"Divar kağızı Karuseli\"ni söndürsəniz, Əsas ekran və Kilid ekranınıza yeni şəkillər göndərə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
     <string name="system_default">İlkin</string>
-    <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="tab_user_title_bar_text">Tənzimləmələr</string>
     <string name="tb_collapse_desc">\"Paylaş\" menyusunu gizlət</string>
-    <string name="temporary_not_available">"Bu özəllik hələ mövcud deyil"</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -976,25 +959,8 @@ mm"</string>
     <string name="uninstall_introduction_text_title">Divar kağızı Karuseli haqqında</string>
     <string name="uninstall_warning_text_desc">"\"Divar kağızı Karuseli\" olmadan, müntəzəm olaraq yeni Kilid ekranı divar kağızları ala bilməyəcəksiniz. Ancaq, tətbiqi yenidən endirib quraşdıra biləcəksiniz. \"Divar kağızı Karuseli\" silinsin?"</string>
     <string name="uninstall_warning_text_title">Divar kağızı Karuseli silinir</string>
-    <string name="unknown_error_info">Bilinməyən xəta</string>
-    <string name="update_email_address_dialog_message">Bərpa e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
-    <string name="update_email_address_dialog_title">Bərpa e-poçtunu güncəllə</string>
     <string name="user_ac_click_to_login">Daxil olmaq üçün toxunun</string>
     <string name="user_ac_not_login">Daxil olunmadı</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti.&lt;/a&gt; İlk giriş, avtomatik olaraq bir Xiaomi hesabı yaradacaq\"</Data></string>
-    <string name="user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_avatar_update_title">Profil fotosunu dəyişdir</string>
-    <string name="user_avatar_uploading">Bir saniyə…</string>
-    <string name="user_name_phone_number">Telefon nömrəsi</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_privacy_policy">Gizlilik Siyasəti</string>
@@ -1004,8 +970,6 @@ mm"</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="weibo_login_btn_content_description">Weibo ilə daxil olun</string>
-    <string name="weixin_login_btn_content_description">WeChat ilə daxil olun</string>
     <string name="wlan_download">Yalnız Wi-Fi üzərindən güncəllə</string>
     <string name="wlan_download_cn">Yalnız Wi-Fi üzərindən güncəllə</string>
     <string name="wm_storage_left">"Qalan: "</string>

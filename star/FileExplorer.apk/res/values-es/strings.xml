@@ -591,6 +591,8 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="operation_compress">Comprimir</string>
     <string name="operation_compressing">Comprimiendo…</string>
     <string name="operation_copy">Copiar</string>
+    <string name="operation_copy_clipboard">Copiar al portapapeles</string>
+    <string name="operation_copy_local">Copiar a carpeta</string>
     <string name="operation_create_folder">Crear carpeta</string>
     <string name="operation_create_folder_message">Introduce el nombre de la carpeta</string>
     <string name="operation_create_folder_name_conflict">"No se pudo crear la carpeta. Ya existe una con este nombre."</string>
@@ -914,6 +916,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="title_select_volume">Seleccionar carpeta</string>
     <string name="to_open">Ajustes</string>
     <string name="to_setting">Ajustes</string>
+    <string name="toast_copy_clipboard">Añadido al portapapeles</string>
     <string name="toast_file_not_can_read">No se ha encontrado ninguna aplicación para esta acción.</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

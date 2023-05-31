@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"No heu creat una còpia de seguretat dels vostres articles a %s Setmanes. Toca per veure com pots activar les còpies de seguretat automàtiques."</item>
+        <item quantity="one">"No heu creat una còpia de seguretat dels vostres articles a %s setmana. Toca per veure com pots activar les còpies de seguretat automàtiques."</item>
+    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Sembla que no heu fet una còpia de seguretat dels elements durant %s setmanes. Creeu còpies de seguretat per evitar perdre res important."</item>
         <item quantity="one">"Sembla que no heu fet una còpia de seguretat dels elements durant %s setmana. Creeu còpies de seguretat per evitar perdre res important."</item>

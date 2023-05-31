@@ -64,6 +64,10 @@
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">fa %d minuts</item>
         <item quantity="one">fa 1 minut</item>
@@ -191,6 +195,10 @@
     <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
         <item quantity="other">%d paquets lliurats</item>
         <item quantity="one">%d paquet lliurat</item>
+    </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Monedes Mi</item>
+        <item quantity="one">%s La meva moneda</item>
     </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">Voleu suprimir %d elements seleccionats ara?</item>

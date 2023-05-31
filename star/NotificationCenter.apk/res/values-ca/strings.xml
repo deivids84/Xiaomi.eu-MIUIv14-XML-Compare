@@ -31,17 +31,17 @@
     <string name="afternoon">Tarda</string>
     <string name="am">am</string>
     <string name="app_name">Notificacions</string>
-    <string name="back">Enrere</string>
     <string name="channel_keyguard_hide_content">Mostra totes les notificacions però amaga el contingut</string>
     <string name="channel_keyguard_show_content">Mostra totes les notificacions i els seu contingut</string>
     <string name="channel_keyguard_show_nothing">"No mostris les notificacions"</string>
-    <string name="channel_name_notification">Notificacions d\'aplicacions</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="default_list_type">Ordeneu per hora de recepció</string>
+    <string name="disable_description_content">"Notificacions és una aplicació del sistema. Si la desactives, no podràs gestionar les notificacions de les aplicacions. Desactiva de totes maneres?"</string>
+    <string name="disable_description_title">Desactiveu l\'aplicació del sistema?</string>
     <string name="disable_float_notification">"Les notificacions flotants no són permeses"</string>
     <string name="disable_lockscreen_notification">"Les notificacions a la Pantalla de bloqueig no estan permeses"</string>
     <string name="disable_show_badge_notification">"No es permeten les icones de notificació"</string>
@@ -87,7 +87,6 @@
     <string name="lockscreen_notifications_short">Pantalla de bloqueig</string>
     <string name="midnight">Nit</string>
     <string name="miui_snooze_always_float">"No ho amaguis"</string>
-    <string name="miui_snooze_cancel">Cancel·la</string>
     <string name="miui_snooze_default_time">Durant %d minut</string>
     <string name="miui_snooze_until_unlock_screen">Fins a tancat</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
@@ -174,7 +173,6 @@
     <string name="notification_keyguard_hide_content">Mostreu les notificacions però amagueu el contingut</string>
     <string name="notification_keyguard_show_content">Mostreu el contingut i les notificacions</string>
     <string name="notification_keyguard_show_nothing">"No mostreu les notificacions de la pantalla de bloqueig"</string>
-    <string name="notification_manager">Notificacions d\'aplicacions</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Desactivat</string>

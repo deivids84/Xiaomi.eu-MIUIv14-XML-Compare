@@ -30,7 +30,34 @@
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
     <string name="app_name">Fons de pantalla</string>
+    <string name="default_wallpaper_type">Omissió</string>
     <string name="early_morning">Matí</string>
+    <string name="earth_coordinate_latitude_0">13.910°E</string>
+    <string name="earth_coordinate_latitude_1">110.152°E</string>
+    <string name="earth_coordinate_latitude_2">51.100°O</string>
+    <string name="earth_coordinate_latitude_3">20.624°E</string>
+    <string name="earth_coordinate_latitude_4">11.733°E</string>
+    <string name="earth_coordinate_longitude_0">44.767°N,;</string>
+    <string name="earth_coordinate_longitude_1">25.803°N,;</string>
+    <string name="earth_coordinate_longitude_2">69.217°N,;</string>
+    <string name="earth_coordinate_longitude_3">37.859°N,;</string>
+    <string name="earth_coordinate_longitude_4">46.601°N,;</string>
+    <string name="earth_position_content_0">"El Parc Natural del Cap Kamenjak a Croàcia alberga possiblement les vistes més impressionants al llarg de la costa mediterrània. Impressionants formacions geològiques aquí converteixen aquest lloc en el paradís dels bussejadors. Cada estiu, el sol enlluernador i les càlides aigües mediterrànies atrauen innombrables entusiastes de l'aire lliure."</string>
+    <string name="earth_position_content_1">"Els camps abancalats són el resultat de l'activitat humana, però també serveixen com un espai paisatgístic excepcional per a la natura.
+A la Xina, les terrasses d'arròs es troben principalment al sud del riu Iang-Tsé, on les pluges són comunes i les serralades són abundants. Les terrasses de Longji existeixen des de fa més de 700 anys, i hi ha un bon nombre de monuments històrics als pobles propers."</string>
+    <string name="earth_position_content_2">Ilulissat es troba a l\'oest de Groenlàndia, a 200 quilòmetres al nord del cercle polar àrtic. El magnífic fiord de gel d\'Ilulissat, de 56 quilòmetres, està situat just al costat de la glacera Jakobshavn Isbræ. En ser la glacera més gran de l\'hemisferi nord, produeix 2.000 milions de tones d\'icebergs cada any. Després d\'un curt desviament en direcció nord, giren cap al sud i desemboquen a l\'oceà Atlàntic.</string>
+    <string name="earth_position_content_3">"Navagio és una de les platges més boniques de la costa de Zakynthos, a les Illes Jòniques de Grècia. Es diu que és la llar d'un famós naufragi, per això la platja també s'anomena \"Cala dels Contrabandistes\"."</string>
+    <string name="earth_position_content_4">Les Dolomites són una serralada muntanyosa situada al nord-est d\'Itàlia. La muntanya Seceda és realment un dels llocs més pintorescs que hi ha.</string>
+    <string name="earth_position_title_0">"Croàcia
+Cap Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Xina
+Camps aterrassats de Longji"</string>
+    <string name="earth_position_title_2">"Grenlàndia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grècia
+Platja de Navagio"</string>
+    <string name="earth_position_title_4">"Itàlia
+Dolomites"</string>
     <string name="earth_summary">La Terra és el bressol de la civilització humana</string>
     <string name="earth_super_wallpaper_label">terra</string>
     <string name="earth_title">Casa</string>
@@ -52,6 +79,10 @@
     <string name="geometry_summary">Formes, llum i colors</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
+    <string name="mars_coordinate_latitude_3">137.379°E</string>
+    <string name="mars_coordinate_latitude_4">303.208°E</string>
+    <string name="mars_coordinate_longitude_3">4.676°S</string>
+    <string name="mars_coordinate_longitude_4">20.953°N,;</string>
     <string name="mars_position_content_0">"Aquesta regió conté penya-segats, altiplans i àmplies valls plans, que es creu que van ser causades per glaceres cobertes de runes. Aquí també s'han detectat minerals d'argila, que són de gran interès en la recerca de proves de vida a l'antic Mart.
 
 NASA/JPL/Universitat d'Arizona"</string>
@@ -61,14 +92,25 @@ NASA/JPL/Universitat d’Arizona"</string>
     <string name="mars_position_content_2">"El Mawrth Vallis és un antic canal de sortida d'aigua amb roques argiloses de color clar. Els minerals d'argila preserven fàcilment la vida microscòpica a la Terra, així que potser es poden trobar rastres de vida antiga a Mawrth.
 
 NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_3">"Aquestes imatges van ser preses mentre el rover Mars Curiosity explorava els turons Pahrump al cràter Gale. Aquesta regió conté roques sedimentàries que els científics creuen que es van formar en presència d'aigua. Les zones més fosques són la sorra.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis és una vall fluvial d'un sol tronc, amb parets vieires en alguns llocs. La presència de característiques erosionals racionalitzades al seu sòl mostra que el fluid va participar en la seva formació.
+
+NASA/JPL/Universitat d'Arizona"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Regió mensae"</string>
     <string name="mars_position_title_1">Cráter de Gale</string>
     <string name="mars_position_title_2">"Cràter a
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Turons de Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Els vasts deserts de Mart han estat sempre captivadors per a l\'ésser humà</string>
     <string name="mars_super_wallpaper_label">mart</string>
     <string name="mars_title">El planeta vermell</string>
+    <string name="mars_view_height_3">268.0 km</string>
+    <string name="mars_view_height_4">283,8 km</string>
+    <string name="mi_wallpaper_loading">Carregant Mi-Wallpaper…</string>
     <string name="mi_wallpaper_title">Mi Wallpaper</string>
     <string name="midnight">Nit</string>
     <string name="monday">Dilluns</string>

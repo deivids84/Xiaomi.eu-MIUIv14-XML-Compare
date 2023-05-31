@@ -36,6 +36,14 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d Dispositius</item>
+        <item quantity="one">%1$d dispositiu</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d Dispositius</item>
+        <item quantity="one">%1$d dispositiu</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>

@@ -133,6 +133,8 @@
     <string name="cloud_drive_settings">Configuració de Mi Drive</string>
     <string name="cloud_empty_hint_text">"Aquí encara no hi ha res.
 Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Aquí encara no hi ha res.
+Proveu de moure fitxers del dispositiu a Mi Drive."</string>
     <string name="cloud_guide_summary_text">Sincronitza automàticament els vostres elements a tots els vostres dispositius</string>
     <string name="cloud_guide_title_text">Sincronitza amb Mi Drive</string>
     <string name="cloud_permission_storage_desc">Per desar fotos i documents al vostre dispositiu</string>
@@ -255,6 +257,9 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="exit">Surt</string>
     <string name="expand_button_title">Avançat</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
+    <string name="extend_service_setting">Serveis addicionals</string>
+    <string name="extend_service_summary">"Si desactiveu aquest servei, no podreu utilitzar les funcions relacionades amb Mi Drive"</string>
+    <string name="extend_service_title">Gestionar fitxers de Mi Drive</string>
     <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu-lo a l'emmagatzematge intern."</string>
     <string name="extract">Extreure</string>
     <string name="fab_menu_ball">Accions ràpides</string>
@@ -334,6 +339,9 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
     <string name="imm_str_storage">Emmagatzematge</string>
     <string name="import_files_from_old_phones">Importa des d\'un dispositiu antic</string>
+    <string name="install_media_editor_button_text">Descarregar</string>
+    <string name="install_media_editor_message">Per poder editar elements, primer baixeu el connector. Descarrega-la ara?</string>
+    <string name="install_media_editor_title">Es requereix un connector</string>
     <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
     <string name="instruction_pre_pad">Gestioneu els fitxers d\'aquest dispositiu mitjançant un ordinador</string>
     <string name="instruction_pre_phone">Gestioneu els fitxers d\'aquest dispositiu mitjançant un ordinador</string>
@@ -555,6 +563,8 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="operation_compress">Comprimiu</string>
     <string name="operation_compressing">Comprimint…</string>
     <string name="operation_copy">Copieu</string>
+    <string name="operation_copy_clipboard">Copiar al porta-retalls</string>
+    <string name="operation_copy_local">Copiar a la carpeta</string>
     <string name="operation_create_folder">Crea una carpeta</string>
     <string name="operation_create_folder_message">Introduïu el nom de la carpeta</string>
     <string name="operation_create_folder_name_conflict">"No s'ha pogut crear la carpeta. Ja existeix una carpeta amb aquest nom."</string>
@@ -608,19 +618,43 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="operation_show_sys">Mostreu els fitxers ocults</string>
     <string name="operation_sync_cloud_data_error">S\'ha produït un error del servidor. Espereu un o dos minuts i torneu-ho a provar.</string>
     <string name="operation_unfavorite">Suprimeix dels preferits</string>
+    <string name="operation_unknown_err">"Aquesta acció no s'ha pogut completar."</string>
+    <string name="operation_upload_buy_space">Rampa</string>
+    <string name="operation_upload_delete">Esborrar</string>
+    <string name="operation_upload_err_file_not_found">"Sembla que aquest fitxer no existeix."</string>
+    <string name="operation_upload_err_file_size_zero">"No es poden penjar fitxers buits."</string>
+    <string name="operation_upload_err_full_space">L\'emmagatzematge al núvol està ple. Actualitza el pla d\'emmagatzematge per poder penjar més ítems.</string>
+    <string name="operation_upload_err_illegal_char">Aquest nom de fitxer conté caràcters no admesos.</string>
+    <string name="operation_upload_err_larger_than_4g">"No es poden penjar fitxers més grans que %d GB."</string>
+    <string name="operation_upload_err_not_support_overseas">En aquest moment, només els usuaris de la Xina continental poden penjar articles.</string>
+    <string name="operation_upload_err_other">S\'ha produït un error del sistema. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="operation_upload_error_title">"No s'ha pogut penjar"</string>
+    <string name="operation_upload_retry">Prova una altra vegada</string>
+    <string name="operation_upload_save_to_local">Desar a…</string>
+    <string name="operation_upload_use_data">Pujar</string>
     <string name="otg_data_transfer_success">Transferència correcta</string>
     <string name="otg_data_transferring">"Transferència de fitxers… No desconnecteu l'emmagatzematge extern."</string>
     <string name="otg_file_security_note">OGTSeguretat</string>
     <string name="overwrite_msg">\"%s\" ja existeix. Toca per reemplaçar-lo pel nou fitxer.</string>
+    <string name="pad">Pastilla</string>
+    <string name="pad_homepage_tab_file_view_phone">Pastilla</string>
+    <string name="pad_start_phone">Emmagatzematge</string>
     <string name="partial_cancel_successful">"No s'han pogut suprimir alguns fitxers. S'han mogut la resta de fitxers a %s."</string>
     <string name="partial_delete_failure">"No s'han pogut suprimir alguns fitxers. Torneu-ho a provar."</string>
     <string name="partial_encrypt_success">"No s'han pogut fer privats alguns fitxers. Torneu-ho a provar."</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_name_email">Correu</string>
     <string name="perm_manage_external_storage">Accedeix a tots els fitxers</string>
+    <string name="permission_account_desc">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
+    <string name="permission_account_desc_pad">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
+    <string name="permission_account_title">Accedir als comptes de dispositiu</string>
+    <string name="permission_account_title_pad">Accedir als comptes de dispositiu</string>
     <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu al Gestor de fitxers accedir als fitxers des de la Configuració."</string>
     <string name="permission_description">Detalls dels permisos</string>
     <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu al Gestor de fitxers accedir als fitxers des de la Configuració.​"</string>
+    <string name="permission_storage_desc_pad">Per desar fotos i documents al dispositiu</string>
+    <string name="permission_storage_title">Accedir a l\'emmagatzematge del dispositiu</string>
+    <string name="permission_storage_title_pad">Accedir a l\'emmagatzematge del dispositiu</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Emmagatzematge</string>
     <string name="phone_storage">Emmagatzematge</string>
@@ -640,6 +674,7 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="pick_folder">Seleccioneu la carpeta</string>
     <string name="pm">pm</string>
     <string name="port_range">El número de port ha d\'estar entre 1024 i 65535</string>
+    <string name="pre_privacy_recall">Retirada del consentiment</string>
     <string name="pref_permission_allowed">Concedit</string>
     <string name="pref_permission_manage_key_storage">Accedir a fotos i fitxers al dispositiu</string>
     <string name="pref_permission_not_allowed">No concedit</string>
@@ -647,7 +682,14 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="privacy_policy_renew">Política de privadesa actualitzada</string>
     <string name="privacy_policy_renew_content"><Data>\"S\'ha actualitzat la Política de privadesa &lt;a href=\"%1$s\"&gt; del Gestor de fitxers&lt;/a&gt; Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu la nova versió de la Política de privadesa abans de continuar\".</Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">Esborreu tots els elements de Mi Drive per poder retirar el consentiment. Seguiu aquests passos per esborrar elements:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. A la pàgina d\'inici de Mi Drive, manteniu premut un element per fer que aparegui el botó \"Selecciona-ho tot\". Utilitzeu aquest botó per seleccionar fins a 200 fitxers alhora i suprimir-los.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Després d\'això, esborreu els elements suprimits recentment.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Et recomanem que facis una còpia de seguretat dels teus articles abans de suprimir-los. Per fer-ho, visiteu i.mi.com, feu clic a Mi Drive i descarregueu els vostres elements a un ordinador.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Tingues en compte que els elements suprimits recentment no es poden recuperar després de suprimir-los."</string>
     <string name="privacy_recall_confirm_button">Retira</string>
+    <string name="privacy_recall_confirm_description">"Si continueu, retirareu el vostre consentiment a la Política de privadesa del Gestor de fitxers. Deixarem de recopilar la seva informació personal. La informació personal ja recollida i conservada s'eliminarà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que es requereixi el contrari."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Els elements següents s\'eliminaran permanentment després de la retirada del consentiment:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Tots els elements de Mi Drive, inclosos, entre d\'altres, documents, fitxers privats i elements suprimits.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Permisos, configuracions i altres continguts emmagatzemats a la memòria cau del dispositiu.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Historial de càrregues i descàrregues de Mi Drive.</string>
+    <string name="privacy_recall_success">Consentiment retirat correctament</string>
+    <string name="privacy_recall_title">Retirada del consentiment</string>
+    <string name="privacy_recalling">Retirar el consentiment…</string>
     <string name="private_files">Privat</string>
     <string name="private_folder">Fitxers privats</string>
     <string name="private_folder_no_file_hints">Manteniu premut un fitxer o una carpeta per fer-lo privat</string>
@@ -659,11 +701,15 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="pull_to_enter_private">Estireu cap avall per obrir la carpeta privada</string>
     <string name="qq_msg">"A causa de les restriccions d'Android 11, el Gestor de fitxers no pot accedir ni mostrar documents QQ."</string>
     <string name="qq_title">"No es pot accedir als documents de WeChat"</string>
+    <string name="query_quota_exception">S\'ha produït un error del servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="query_quota_searching">Només un segon…</string>
     <string name="recent_hide_camera_and_screenshots">"No mostreu elements de la galeria ni captures de pantalla entre fitxers recents"</string>
+    <string name="recent_hide_cloud_drive_files">"No mostreu els fitxers de Mi Drive a Recents"</string>
     <string name="refresh_success">Actualització completa</string>
     <string name="reinstall_midriver_message">Voleu tornar a instal·lar-lo ara?</string>
     <string name="release_enter_private">Allibereu per obrir la carpeta privada</string>
     <string name="remainder_size">Restants: %s</string>
+    <string name="reminder_card_title">Atenció</string>
     <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, és possible que no pugueu obrir-lo."</string>
     <string name="rename_alert2">Fitxers amb els noms que comencen per \".\" són amagats automàticament pel sistema. Voleu utilitzar aquest nom de totes maneres?</string>
     <string name="rename_failed">"No s'ha pogut canviar el nom de %1$s"</string>
@@ -761,6 +807,9 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="start_server">Inicia</string>
     <string name="stay_awake_summary">"La pantalla no s'apagarà durant l'ús del FTP"</string>
     <string name="stay_awake_title">Mantén la pantalla encesa</string>
+    <string name="stop_extend_service_dialog_confirm">Apaga</string>
+    <string name="stop_extend_service_dialog_summary">"Si desactiveu aquesta funció, no podreu gestionar els fitxers emmagatzemats a Mi Drive. Apagar de totes maneres?"</string>
+    <string name="stop_extend_service_dialog_tilte">Serveis addicionals</string>
     <string name="stop_server">Atura</string>
     <string name="storage_cloned_app">Emmagatzematge per a aplicacions duals</string>
     <string name="storage_info_detail">Disponible: %1$s Total: %2$s</string>
@@ -835,6 +884,7 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="title_select_volume">Seleccioneu la carpeta</string>
     <string name="to_open">Configuració</string>
     <string name="to_setting">Configuració</string>
+    <string name="toast_copy_clipboard">Afegit al porta-retalls</string>
     <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
@@ -854,9 +904,12 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="unknown_error">S\'ha produït un error desconegut. Espereu un o dos minuts i torneu-ho a provar.</string>
     <string name="unlock_pattern_msg">La contrasenya de protecció de privadesa també funciona per a fotos, missatges i notes.</string>
     <string name="unlock_pattern_title">Nova contrasenya</string>
+    <string name="update_no_network">"No s'ha pogut connectar a la xarxa. Comprova la configuració de la xarxa i torna-ho a provar."</string>
     <string name="upload_user_photo">Pujar</string>
     <string name="usb_label">USB</string>
     <string name="use">Utilitza</string>
+    <string name="use_mobile_data_update_summary">Utilitzar dades mòbils per sincronitzar automàticament els canvis als fitxers baixats de Mi Drive</string>
+    <string name="use_mobile_data_update_title">Utilitzar dades mòbils per sincronitzar</string>
     <string name="use_to_all">Aplica a tots</string>
     <string name="used">Utilitzat</string>
     <string name="user_guide_continue_use">D\'acord</string>
@@ -865,7 +918,12 @@ Proveu de moure fitxers del vostre dispositiu a Mi Drive."</string>
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="video_data_consume_dialog_confirm">Continuar</string>
+    <string name="video_data_consume_dialog_title">Utilitzar les dades mòbils?</string>
     <string name="view_type">Mostra</string>
+    <string name="web_sso_login_fail">Heu de tornar a iniciar la sessió</string>
+    <string name="web_sso_login_message">Inici de sessió…</string>
+    <string name="webview_reload">Prova una altra vegada</string>
     <string name="wechat_msg">"A causa de les restriccions d'Android 11, el Gestor de fitxers no pot accedir ni mostrar els documents previsualitzats a WeChat. Obriu i deseu els documents a WeChat per fer-los aparèixer aquí."</string>
     <string name="wechat_title">"No es pot accedir als documents de WeChat"</string>
     <string name="wechat_video">Vídeo a %s</string>

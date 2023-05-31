@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d min</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Voleu suprimir %1$s elements?</item>
@@ -84,10 +84,6 @@
         <item quantity="other">en %d minuts</item>
         <item quantity="one">en 1 minut</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s elements</item>
-        <item quantity="one">%1$s element</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
@@ -119,10 +115,6 @@
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d segons restants</item>
         <item quantity="one">%d segon restant</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s notes s\'han ocultat amb èxit</item>
-        <item quantity="one">%1$s nota s\'ha ocultat amb èxit</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">%1$s notes s\'ha mostrat amb èxit</item>

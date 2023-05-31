@@ -60,14 +60,6 @@
         <item quantity="other">Ha sonat %1$d cops</item>
         <item quantity="one">Ha sonat %1$d cop</item>
     </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d números de telèfon</item>
-        <item quantity="one">%d número de telèfon</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">Suprimeix %d números de telèfon?</item>
-        <item quantity="one">Suprimeix %d número de telèfon?</item>
-    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"No s'han sincronitzat %1$d contactes o fotos"</item>
         <item quantity="one">"No s'ha sincronitzat %1$d contacte o foto"</item>
@@ -124,13 +116,13 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"Els SMS no poden tenir més de %d Destinataris."</item>
+        <item quantity="one">"Els SMS no poden tenir més de %d destinatari."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d elements</item>
-        <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactes</item>
@@ -219,10 +211,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d trobats</item>
         <item quantity="one">%d trobat</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s resultats</item>
-        <item quantity="one">%s resultat</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"No seleccioneu més de %1$d, no podeu seleccionar-ho tot"</item>

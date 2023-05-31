@@ -112,7 +112,7 @@
     <string name="delete_file_success">S\'ha eliminat correctament</string>
     <string name="delete_operation_record">Voleu suprimir aquest registre?</string>
     <string name="delete_operation_record_timeout">"No s'ha pogut suprimir el registre. Espereu un minut o dos i torneu-ho a provar."</string>
-    <string name="delete_record_only">"Els elements als quals fan referència els registres seleccionats no se suprimiran."</string>
+    <string name="delete_record_only">Aquesta acció només suprimirà els registres seleccionats. No se suprimirà cap fitxer.</string>
     <string name="delete_success">S\'ha eliminat correctament</string>
     <string name="detail_download_path">"Ubicació: "</string>
     <string name="detail_download_time">"Baixat: "</string>
@@ -236,16 +236,17 @@
     <string name="load_metered_network_dialog_ok">Carrega</string>
     <string name="load_metered_network_dialog_title">Utilitza les dades mòbils</string>
     <string name="loading">&lt;CDATA&gt;Un moment&amp;#8230;&lt;/CDATA&gt;</string>
+    <string name="member_menu_vipname_extend_package">Afegir emmagatzematge al núvol</string>
     <string name="member_menu_vipname_free">Gratuït</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="micloud_space_applist_detail">Podeu veure còpies de seguretat del disseny de la pantalla d\'inici al dispositiu mòbil.</string>
-    <string name="micloud_space_duokan_detail">"Obriu Duokan al telèfon i aneu a Bookshelf &gt; Cloud storage per gestionar l'espai d'emmagatzematge.
-Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
+    <string name="micloud_space_duokan_detail">"Obre Duokan al telèfon i ves a Bookshelf &gt; Emmagatzematge al núvol per gestionar l'espai d'emmagatzematge.
+Assegureu-vos que utilitzeu el compte actual de Xiaomi com a compte del sistema MIUI."</string>
     <string name="micloud_space_duokan_title">Espai d\'emmagatzematge de Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Obriu l'aplicació Recorder al dispositiu mòbil i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
-Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
+    <string name="micloud_space_soundrecorder_detail">"Obriu Recorder al dispositiu mòbil i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
+Assegureu-vos que utilitzeu el compte actual de Xiaomi com a compte del sistema MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Enregistraments d\'àudio</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
@@ -341,7 +342,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="no_recent_activity">No hi ha elements recents aquí</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
-    <string name="not_support_upload_file_for_overseas_users">"La càrrega no està disponible fora de la Xina continental"</string>
+    <string name="not_support_upload_file_for_overseas_users">"La funció de pujada no està disponible fora de la Xina continental"</string>
     <string name="notification_channel_remind">Recordatoris</string>
     <string name="notification_channel_service">Serveis</string>
     <string name="operation_copy">Copia</string>
@@ -363,16 +364,16 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="operation_move">Mou</string>
     <string name="operation_rename">Reanomena</string>
     <string name="operation_save">Desa</string>
-    <string name="operation_sure_to_delete">Voleu suprimir-ho ara?</string>
+    <string name="operation_sure_to_delete">Esborrar historial?</string>
     <string name="operation_transport_success">S\'ha afegit a les transferències correctament</string>
     <string name="operation_will_not_show_after_delete">El registre deixarà d\'aparèixer aquí si el suprimiu.</string>
     <string name="pause_all">Pausa-ho tot</string>
     <string name="pause_download">En pausa</string>
     <string name="pause_upload">Aturat</string>
-    <string name="permission_account_desc">Accediu a tots els comptes emmagatzemats en aquest dispositiu</string>
-    <string name="permission_account_desc_pad">Accediu a tots els comptes emmagatzemats al dispositiu</string>
-    <string name="permission_account_title">Comptes</string>
-    <string name="permission_account_title_pad">Accedir als comptes</string>
+    <string name="permission_account_desc">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
+    <string name="permission_account_desc_pad">Per accedir a la informació del compte emmagatzemada al dispositiu</string>
+    <string name="permission_account_title">Accedir als comptes de dispositiu</string>
+    <string name="permission_account_title_pad">Accedir als comptes de dispositiu</string>
     <string name="permission_accpeted">D\'acord</string>
     <string name="permission_camera_desc">Fer fotos i fent vídeos</string>
     <string name="permission_camera_title">Càmera</string>
@@ -433,9 +434,26 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="rename_ext_confirm_dialog_desc">Si canvieu el tipus de fitxer, el fitxer pot ser inutilitzable</string>
     <string name="rename_file_select_error">"No es pot canviar el nom de diversos elements"</string>
     <string name="rename_success">S\'ha reanomenat correctament</string>
+    <string name="request_permission_account_state">Per proporcionar un inici de sessió ràpid al compte Xiaomi</string>
     <string name="request_permission_confirm">D\'acord</string>
-    <string name="request_permission_content">Mi Drive ha d’accedir als comptes d’aquest dispositiu per poder utilitzar el vostre compte Mi per iniciar la sessió. El permís per accedir i desar fitxers al dispositiu permetrà a Mi Drive previsualitzar, penjar, baixar i sincronitzar elements.</string>
-    <string name="request_permission_content_with_phone_state">Per poder iniciar la sessió amb el compte Mi, previsualitzar, penjar, baixar i sincronitzar fitxers i comprovar si hi ha actualitzacions, Mi Drive requereix permisos per accedir als vostres comptes, fotos, fitxers i IMEI.</string>
+    <string name="request_permission_content">Mi Drive necessita permís per accedir als comptes, fotos i fitxers del dispositiu i enviar notificacions. Aquests permisos s\'utilitzaran per proporcionar un inici de sessió ràpid per al compte Xiaomi i previsualitzar, carregar, descarregar i sincronitzar elements.</string>
+    <string name="request_permission_content_with_phone_state">Perquè pugueu iniciar la sessió amb el compte Xiaomi, previsualitzar, carregar, descarregar i sincronitzar fitxers i comprovar si hi ha actualitzacions, Mi Drive requereix permisos per accedir als vostres comptes, fotos, fitxers i IMEI.</string>
+    <string name="request_permission_external_storage">Accedir a l\'emmagatzematge del dispositiu</string>
+    <string name="request_permission_external_storage_desc">Per previsualitzar, penjar, descarregar i sincronitzar elements</string>
+    <string name="request_permission_manual_authorized">Configuració</string>
+    <string name="request_permission_manual_desc">Es requereix el següent permís per poder utilitzar algunes funcions: %s. Podeu concedir aquest permís a Configuració.</string>
+    <string name="request_permission_manual_title">Permisos necessaris</string>
+    <string name="request_permission_manual_unauthorized">Cancel·lar</string>
+    <string name="request_permission_post_notification">Notificacions</string>
+    <string name="request_permission_post_notification_desc">Per enviar notificacions sobre càrregues i descàrregues de Mi Drive</string>
+    <string name="request_permission_read_media_audio">Accedir a fitxers d\'àudio</string>
+    <string name="request_permission_read_media_audio_desc">Per previsualitzar, penjar, descarregar i sincronitzar fitxers d\'àudio</string>
+    <string name="request_permission_read_media_aural">Per previsualitzar, penjar, descarregar i sincronitzar fitxers d\'àudio</string>
+    <string name="request_permission_read_media_image">Accedir a les fotos</string>
+    <string name="request_permission_read_media_image_desc">Per previsualitzar, penjar, descarregar i sincronitzar fotos</string>
+    <string name="request_permission_read_media_video">Accedir als vídeos</string>
+    <string name="request_permission_read_media_video_desc">Per previsualitzar, penjar, baixar i sincronitzar vídeos</string>
+    <string name="request_permission_read_media_visual">Per previsualitzar, penjar, baixar i sincronitzar fotos i vídeos</string>
     <string name="request_permission_title">Permisos necessaris</string>
     <string name="root_page_name">La meva unitat</string>
     <string name="saturday">Dissabte</string>
@@ -479,6 +497,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="talkback_close">Tancar</string>
+    <string name="talkback_close_open_picture">Cancel·lar</string>
     <string name="talkback_continue">Resum</string>
     <string name="talkback_doc_filter">Botó Filtre</string>
     <string name="talkback_list_play">Juga-ho tot</string>

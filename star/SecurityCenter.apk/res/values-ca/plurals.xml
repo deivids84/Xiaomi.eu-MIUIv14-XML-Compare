@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,20 +25,24 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d Aplicacions afegides</item>
+        <item quantity="one">%d aplicació afegida</item>
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicacions</item>
@@ -103,6 +107,10 @@
     <plurals name="app_behavior_privacy_manager_on">
         <item quantity="other">"Se us notificarà sobre les accions sensibles de %1$d aplicacions"</item>
         <item quantity="one">"Se us notificarà sobre les accions sensibles de %1$d aplicació"</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Els registres de comportament de l\'aplicació s\'emmagatzemen en aquest dispositiu per a %d Dies. Si desactiveu aquesta característica, els registres nous ja no apareixeran i se suprimiran els antics. Apagar de totes maneres?</item>
+        <item quantity="one">Els registres de comportament de l\'aplicació s\'emmagatzemen en aquest dispositiu per a %d dia. Si desactiveu aquesta característica, els registres nous ja no apareixeran i se suprimiran els antics. Apagar de totes maneres?</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s llançar %2$d aplicació</item>
@@ -212,6 +220,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">Rebobina %d segons</item>
         <item quantity="one">Rebobina %d segon</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s Hores</item>
+        <item quantity="one">%s H</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s Minuts</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
@@ -291,6 +307,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Aconseguit (%ds)</item>
         <item quantity="one">Aconseguit (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Nota:
+· Els elements visuals millorats no estaran disponibles quan l'estalvi de bateria estigui activat o el dispositiu estigui sobreescalfat.
+· La freqüència de fotogrames intel·ligent mostra els millors resultats quan el joc està configurat perquè es mostri, com a mínim, %d fotogrames per segon."</item>
+        <item quantity="one">"Nota:
+· Els elements visuals millorats no estaran disponibles quan l'estalvi de bateria estigui activat o el dispositiu estigui sobreescalfat.
+· La freqüència de fotogrames intel·ligent mostra els millors resultats quan el joc està configurat perquè es mostri, com a mínim, %d fotograma per segon."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Proveu el canviador de veu ara
@@ -504,6 +528,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>
         <item quantity="one">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicació"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d Aplicacions no afegides</item>
+        <item quantity="one">%d aplicació no afegida</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d dies sense exploracions de seguretat</item>
         <item quantity="one">%d dia sense exploracions de seguretat</item>
@@ -572,6 +600,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">%d aplicacions</item>
         <item quantity="one">%d aplicació</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d Aplicacions que inclouen: %1$s pot ser maliciós</item>
+        <item quantity="one">%2$d aplicació que inclou %1$s pot ser maliciós</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d aplicacions estan drenant la bateria</item>
         <item quantity="one">%d aplicació està drenant la bateria</item>
@@ -583,6 +615,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" mins"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">El dispositiu no té bateria. Entrant en mode d\'hibernació a %1$d Segons.</item>
+        <item quantity="one">El dispositiu no té bateria. Entrant en mode d\'hibernació a %1$d segon.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dies</item>
@@ -683,6 +719,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimitzar l\'ús de la bateria a %d Escenaris</item>
+        <item quantity="one">Optimitzar l\'ús de la bateria a %d escenari</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Soluciona %d problemes d’ús de la bateria</item>

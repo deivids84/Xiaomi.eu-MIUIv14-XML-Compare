@@ -36,9 +36,9 @@
     <string name="activate_feature_mi_roaming">Itinerància Mi</string>
     <string name="activate_feature_mms_sync">Sincronització dels missatges</string>
     <string name="activate_feature_mx">Missatges Mi</string>
-    <string name="activate_feature_register_xiaomi_account">Configuració del Compte Mi</string>
+    <string name="activate_feature_register_xiaomi_account">Configuració del compte Xiaomi</string>
     <string name="activate_feature_remote_assist">Assistència remota</string>
-    <string name="activate_feature_verify_mx_token">Verificació del Compte Mi</string>
+    <string name="activate_feature_verify_mx_token">Verificació del compte Xiaomi</string>
     <string name="activate_feature_voip">Missatge Mi de VoIP</string>
     <string name="activate_history_canceled_overview">S\'ha cancel·lat l\'activació de la targeta SIM. S\'ha d\'iniciar amb \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">S\'ha cancel·lat l\'activació de la targeta SIM %2$d. S\'ha d\'iniciar amb \"%1$s\".</string>
@@ -47,8 +47,8 @@
     <string name="activate_history_success_overview">Targeta SIM activada correctament. \"%1$s\" inicia l\'activació.</string>
     <string name="activate_history_title">Activació de targeta SIM</string>
     <string name="activate_phone_failed_notif_title_sim">"No s'ha pogut activar \"%2$s\" utilitzant la SIM %1$d"</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">S\'ha creat un Compte Mi utilitzant la SIM %d amb èxit</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"No s'ha pogut crear el Compte Mi utilitzant la SIM %d"</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">S\'ha creat el compte Xiaomi mitjançant SIM %d reeixidament</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"No s'ha pogut crear el compte Xiaomi mitjançant SIM %d"</string>
     <string name="activate_phone_server_failed_notif_title">"No s'ha pogut activar %s\""</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" activat amb èxit</string>
     <string name="activate_phone_success_notif_title_sim">S\'ha activat \"%2$s\" utilitzant la SIM %1$d amb èxit</string>
@@ -60,8 +60,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">Proveu de nou</string>
     <string name="activate_popup_confirm_failed_send_sms">Torna a enviar</string>
     <string name="activate_popup_confirm_failed_server">Proveu de nou</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacionals de pagament&lt;/b&gt; s’eran enviats. El vostre operador us cobrarà aquests missatges.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nacionals de pagament&lt;/b&gt; s’eran enviats. El vostre operador us cobrarà per aquests missatges.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament internacional&lt;/font&gt; s\'enviarà. El teu operador de telefonia mòbil et cobrarà aquests missatges.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament domèstic&lt;/font&gt; s\'enviarà. El teu operador de telefonia mòbil et cobrarà aquests missatges.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"No es pot trobar el vostre número de telèfon. Assegureu-vos que la vostra targeta SIM s'hagi activat.
 Introduïu el número de telèfon associat amb la vostra nova targeta SIM per reactivar %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"No s'ha pogut enviar el missatge d'activació. Assegureu-vos que la vostra targeta SIM s'hagi activat.
@@ -74,21 +74,22 @@ Introduïu el número de telèfon associat amb la vostra nova targeta SIM per re
     <string name="activate_popup_desc_failed_receive_sms">Assegureu-vos que el número de telèfon que heu introduït és correcte i que la vostra targeta SIM està activa.</string>
     <string name="activate_popup_desc_failed_server">Comproveu la vostra connexió de xarxa i proveu-ho de nou.</string>
     <string name="activate_popup_desc_failed_server_msg">S\'ha produït un error de servidor. Comproveu la vostra configuració de xarxa i proveu de nou.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per activar \"%3$s\", introduïu el número de telèfon de la SIM %2$d. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Per activar \"%2$s\", introduïu el vostre número de telèfon. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internacionals de pagament&lt;/b&gt; s’eran enviats. El vostre operador us cobrarà aquest missatge.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Adreçeu-vos al &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manual d\'usuari del Compte Mi&lt;/a&gt; si teniu cap pregunta. &lt;/Data&gt;</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per activar \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;un SMS de pagament nacional&lt;/b&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;Un SMS de pagament internacional&lt;/b&gt; serà enviat. El vostre operador us cobrarà aquests missatges.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s Per activar \"%3$s\", introduïu el número de telèfon de la SIM %2$d. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s Per activar \"%2$s\", introdueix el teu número de telèfon. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament internacional&lt;/font&gt; s\'enviarà. El teu operador de telefonia mòbil et cobrarà aquest missatge.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">\"%1$s
+\"<Data>Consulteu el &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manual d\'usuari del compte Xiaomi&lt;/a&gt; si tens qualsevol dubte.</Data></string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per activar \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament domèstic&lt;/font&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament internacional&lt;/font&gt; s\'enviarà. El teu operador de telefonia mòbil et cobrarà aquests missatges.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Per activar \"%2$s\", introduïu el número de telèfon de la SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Per activar %s, introduïu el vostre número de telèfon.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Per activar \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS internacionals&lt;/font&gt; s’eran enviats. El vostre operador us cobrarà aquest missatge.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Per activar \"%3$s\", introduïu el número de telèfon de la SIM %2$d. Weihuitel proporciona part del suport tècnic. Consulteu la Política de privadesa de Weihuitel per obtenir més informació.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Per activar \"%2$s\", introduïu el vostre número de telèfon. Weihuitel proporciona part del suport tècnic. Consulteu la Política de privadesa de Weihuitel per obtenir més informació.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s Per activar \"%3$s\", introduïu el número de telèfon de la SIM %2$d. El suport tècnic és proporcionat en part per Weihuitel. Consulteu la Política de privadesa de Weihuitel per obtenir més informació.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s Per activar \"%2$s\", introdueix el teu número de telèfon. El suport tècnic és proporcionat en part per Weihuitel. Consulteu la Política de privadesa de Weihuitel per obtenir més informació.</string>
     <string name="activate_popup_failed_send_sms_desc">"No s'han pogut enviar SMS d'activació. Assegureu-vos que la SIM %d funciona correctament i torneu-ho a provar."</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">"No s'han pogut enviar SMS d'activació. Assegureu-vos que la vostra targeta SIM funciona correctament i torneu-ho a provar."</string>
     <string name="activate_progress_status_title">S\'està activant \"%s\"…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">"No s'ha pogut crear el Compte Mi"</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">S\'ha creat un Compte Mi amb èxit</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">"No s'ha pogut crear el compte Xiaomi"</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">S\'ha creat el compte Xiaomi amb èxit</string>
     <string name="activate_sms_postfix">MI</string>
     <string name="activate_status_desc_acquire_phone_number">Verificant el número de telèfon…</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"No s'ha pogut verificar el número de telèfon. Assegureu-vos que la SIM %d funciona correctament i torneu-ho a provar."</string>
@@ -103,8 +104,8 @@ Introduïu el número de telèfon associat amb la vostra nova targeta SIM per re
     <string name="activate_status_desc_sending_sms">S\'està enviant l\'SMS d\'activació…</string>
     <string name="activate_status_desc_wait_for_sms">Esperant l\'SMS d\'activació del servidor…</string>
     <string name="activate_status_title_activating_sim">S\'està activant \"%2$s\" utilitzant la SIM %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">S\'està creant el Compte Mi…</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">S\'està creant un Compte Mi utilitzant la SIM %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Creació del compte Xiaomi…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">Creació del compte Xiaomi mitjançant SIM %d…</string>
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
     <string name="app_name">Servei d\'activació Xiaomi SIM</string>
@@ -123,7 +124,7 @@ Introduïu el número de telèfon associat amb la vostra nova targeta SIM per re
     <string name="error_sim_not_in_service_tip">"La SIM %d no es pot connectar a la xarxa. Assegureu-vos que la targeta SIM funcioni correctament i torneu-ho a provar."</string>
     <string name="error_sim_not_in_service_tip_one_sim">"No es pot connectar a la xarxa. Assegureu-vos que la vostra targeta SIM funcioni correctament i torneu-ho a provar."</string>
     <string name="evening">Tarda</string>
-    <string name="explain_activate_register_xiaomi_account_title">Crea un Compte Mi</string>
+    <string name="explain_activate_register_xiaomi_account_title">Crea un compte Xiaomi</string>
     <string name="explain_activate_send_sms_permission_msg">Per activar %s, el vostre dispositiu necessita permisos per enviar SMS d\'activació. El vostre operador us cobrarà aquest missatge.</string>
     <string name="explain_send_sms_permission_button">Comprova</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -265,7 +266,7 @@ Introduïu el número de telèfon associat amb la vostra nova targeta SIM per re
     <string name="sim_activated_failed_msg">"No s'ha pogut activar el servei. Toqueu per tornar-ho a provar."</string>
     <string name="sim_unactivated_feature_title">"\"%s\" no s'ha activat"</string>
     <string name="sim_unactivated_msg">"Aquest servei no està activat. Toqueu per tornar-ho a provar."</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">"El Compte Mi no s'ha creat"</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">"El compte Xiaomi no s'ha creat"</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Dia dels Difunts</string>

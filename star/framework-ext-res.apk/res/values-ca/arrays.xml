@@ -1,2 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="app_nativeheap_list">
+        <item>com.example.memleaktesttool,3072000</item>
+        <item>com.example.nativeapp,1000000</item>
+        <item>com.miui.miwallpaper,60000</item>
+        <item>com.android.phone,50000</item>
+        <item>com.miui.personalassistant,30000</item>
+        <item>com.xiaomi.mirror,70000</item>
+        <item>com.xiaomi.bluetooth,20000</item>
+        <item>com.android.bluetooth,2000</item>
+        <item>com.miui.daemon,30000</item>
+        <item>mqsasd,30000</item>
+        <item>com.miui.powerkeeper,30000</item>
+        <item>com.miui.greenguard,30000</item>
+        <item>com.miui.face,80000</item>
+        <item>com.xiaomi.mircs,35000</item>
+        <item>com.miui.securitycenter.remote,30000</item>
+        <item>com.miui.securitycore.remote,30000</item>
+        <item>com.android.systemui,100000</item>
+        <item>zygote,30000</item>
+        <item>zygote64,25000</item>
+        <item>surfaceflinger,300000</item>
+        <item>displayfeature,30000</item>
+        <item>vendor.qti.hardware.display.composer-service,30000</item>
+        <item>vendor.xiaomi.hardware.displayfeature@1.0-service,30000</item>
+        <item>netd,10000</item>
+        <item>android.hardware.audio.service_64,36000</item>
+        <item>mediaserver,65000</item>
+        <item>android.process.media,65000</item>
+        <item>drmserver,30000</item>
+        <item>media.codec,36000</item>
+        <item>media.audio.qc.code,36000</item>
+    </string-array>
+</resources>

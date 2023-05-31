@@ -264,7 +264,7 @@
     <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la Galeria i als missatges de les aplicacions de xarxes socials</string>
     <string name="grant_dialog_storage_gallery_title">Galeria</string>
     <string name="grant_dialog_storage_sociality_title">Missatges a les aplicacions de xarxes socials</string>
-    <string name="keep_blur_location">No</string>
+    <string name="keep_blur_location">Sí</string>
     <string name="keep_notice_me">Manté les notificacions</string>
     <string name="location_settings">Configuració d\'ubicació</string>
     <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar a la configuració d\'ubicació.</string>
@@ -354,6 +354,7 @@
     <string name="permdesc_call_phone">Vols permetre que %1$s faci trucades?</string>
     <string name="permdesc_camera">Vols permetre que %1$s faci fotos i enregistri vídeos?</string>
     <string name="permdesc_get_account">Vols permetre que %1$s accedeixi a tots els comptes emmagatzemats en aquest dispositiu?</string>
+    <string name="permdesc_isolate_storage">Permetre %1$s Per accedir a fotos, vídeos i àudio emmagatzemats en aquest dispositiu?</string>
     <string name="permdesc_location">Vols permetre que %1$s accedeixi a la informació d\'ubicació?</string>
     <string name="permdesc_location_background">Vols permetre que %1$s accedeixi a la informació d\'ubicació en segon pla?</string>
     <string name="permdesc_microphone">Vols permetre que %1$s utilitzi el micròfon per enregistrar àudio?</string>
@@ -384,6 +385,8 @@
     <string name="permgroupdesc_location">Vols permetre que %1$s accedeixi a la informació d\'ubicació?</string>
     <string name="permgroupdesc_microphone">Vols permetre que %1$s enregistri àudio?</string>
     <string name="permgroupdesc_phone">Vols permetre que %1$s faci trucades i accedeixi a la informació del dispositiu?</string>
+    <string name="permgroupdesc_read_media_aural">Permetre %1$s Per accedir als fitxers d\'àudio emmagatzemats al dispositiu?</string>
+    <string name="permgroupdesc_read_media_visual">Permetre %1$s Per accedir a les fotos i als vídeos emmagatzemats al dispositiu?</string>
     <string name="permgroupdesc_recognition">Vols permetre que %1$s accedeixi a les dades de salut i d\'activitat?</string>
     <string name="permgroupdesc_sensors">Vols permetre que %1$s accedeixi a les dades del sensor corporal?</string>
     <string name="permgroupdesc_sms">Vols permetre que %1$s llegeixi o enviï SMS?</string>
@@ -420,7 +423,7 @@
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stop_blur_location">Sí</string>
+    <string name="stop_blur_location">No</string>
     <string name="storage_policy_notify_both_title">"%1$s no està permès accedir a la Galeria i als missatges de les aplicacions de xarxes socials"</string>
     <string name="storage_policy_notify_content">Prem per a ajustar els permisos</string>
     <string name="storage_policy_notify_gallery_title">"%1$s no està permès accedir a la Galeria"</string>

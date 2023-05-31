@@ -34,6 +34,8 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="am">AM</string>
+    <string name="annotation_open">Mostra eines</string>
+    <string name="annotation_stow">Amaga les eines</string>
     <string name="app_name">Captura de pantalla</string>
     <string name="back">Enrere</string>
     <string name="base_btn_cancel">Cancel·la</string>
@@ -104,7 +106,7 @@
     <string name="long_screenshot_error">No s\'ha pogut fer la captura de pantalla. Torneu-ho a provar.</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
 una captura de pantalla de desplaçament"</string>
-    <string name="long_screenshot_intercepted_error">"No s'ha pogut fer la captura de pantalla. Torna-ho a provar."</string>
+    <string name="long_screenshot_intercepted_error">Es va produir una interrupció. La captura de pantalla s\'ha desat a la Galeria.</string>
     <string name="long_screenshot_out_of_memory_error">La imatge és massa gran</string>
     <string name="long_screenshot_processing">S\'està processant…</string>
     <string name="long_screenshot_processing_description_accessibility">Tramitació</string>
@@ -187,7 +189,7 @@ una captura de pantalla de desplaçament"</string>
     <string name="not_set">Sense establir</string>
     <string name="operation_send">Envia</string>
     <string name="partial_screenshot_edit">Edita</string>
-    <string name="partial_screenshot_failed_to_capture_title">"Aquesta aplicació no permet fer captures de pantalla"</string>
+    <string name="partial_screenshot_failed_to_capture_title">"No es poden fer captures de pantalla d'aquesta pàgina"</string>
     <string name="partial_screenshot_failed_to_save_title">"No s'ha pogut desar. No hi ha prou espai d'emmagatzematge."</string>
     <string name="partial_screenshot_insert_failed">"No s'ha pogut desar"</string>
     <string name="partial_screenshot_repaint">Torna a començar</string>
@@ -217,6 +219,10 @@ una captura de pantalla de desplaçament"</string>
     <string name="photo_save_to_msg">S\'ha desat a %s</string>
     <string name="pm">PM</string>
     <string name="preference_copied">S\'ha copiat \"%1$s\" al porta-retalls.</string>
+    <string name="privacy_mosaic_result_done">Es bloqueja la informació privada</string>
+    <string name="privacy_mosaic_result_fail">"No s'ha pogut bloquejar la informació privada. Prova una altra vegada."</string>
+    <string name="privacy_mosaic_result_none">No s\'ha trobat informació privada</string>
+    <string name="privacy_mosaic_tip">Toqueu per bloquejar la informació privada</string>
     <string name="remover_menu_processing">S\'està processant</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -260,6 +266,9 @@ una captura de pantalla de desplaçament"</string>
     <string name="screenshot_save">Desa</string>
     <string name="screenshot_send">Envia</string>
     <string name="screenshot_thumbnail">Miniatura de la captura de pantalla</string>
+    <string name="scroll_annotation">Desplaceu-vos i anoteu</string>
+    <string name="scroll_annotation_btn_quit">Anotacions de sortida</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Deseu les anotacions abans de sortir?</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
     <string name="send_files_by">Comparteix fitxers mitjançant</string>

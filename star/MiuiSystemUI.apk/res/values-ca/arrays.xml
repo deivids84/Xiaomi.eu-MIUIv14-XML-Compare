@@ -141,8 +141,8 @@
         <item>Àudio Qualcomm® aptX™</item>
         <item>Àudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ Àudio adaptatiu</item>
+        <item>Qualcomm® aptX™ TWS+ àudio</item>
         <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -152,8 +152,8 @@
         <item>Àudio Qualcomm® aptX™</item>
         <item>Àudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ Àudio adaptatiu</item>
+        <item>Qualcomm® aptX™ TWS+ àudio</item>
         <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -188,8 +188,19 @@
         <item>Desactivat</item>
         <item>Activat amb filtres</item>
         <item>Activat</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
+        <item>Capçaleres habilitades filtrades</item>
+        <item>Mitjans de comunicació activats Pkts filtrat</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabled</item>
+        <item>filtered</item>
+        <item>full</item>
+        <item>snoopheadersfiltered</item>
+        <item>MediaPktsfiltered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values_enhanced">
+        <item>snoopheadersfiltered</item>
+        <item>MediaPktsfiltered</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostra les hores, els minuts i els segons</item>
@@ -344,6 +355,11 @@
         <item>Desactivat</item>
         <item>Activat</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Disponible</item>
+        <item>Apagat</item>
+        <item>Sobre</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>No disponible</item>
         <item>Desactivat</item>
@@ -393,6 +409,16 @@
         <item>No disponible</item>
         <item>Desactivat</item>
         <item>Activat</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Disponible</item>
+        <item>Apagat</item>
+        <item>Sobre</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Disponible</item>
+        <item>Apagat</item>
+        <item>Sobre</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>No disponible</item>
@@ -466,6 +492,12 @@
         <item>Veloç</item>
         <item>Molt veloç</item>
         <item>Màxima</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mou-te a l\'esquerra</item>
+        <item>Moure cap avall</item>
+        <item>Mou-te a la dreta</item>
+        <item>Pujar</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>S\'està carregant</item>

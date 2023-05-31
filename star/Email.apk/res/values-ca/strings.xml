@@ -182,7 +182,6 @@ de l'IMAP"</string>
     <string name="allow_notify">Permet notificacions</string>
     <string name="always_bcc_myself">Fer sempre BCC a un mateix</string>
     <string name="am">a. m.</string>
-    <string name="app_loading">S\'està carregant…</string>
     <string name="app_name">Correu</string>
     <string name="appraise_des">Us agrada la nostra aplicació?</string>
     <string name="appraise_good">Sí</string>
@@ -243,12 +242,6 @@ de l'IMAP"</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Exporta PDF</string>
     <string name="bottom_bar_more_pdf_exporting">S\'està exportant…</string>
-    <string name="broker_helper_manifest">Filtre d\'intenció per a AndroidManifest.xml</string>
-    <string name="broker_helper_package">Nom del paquet que cal introduir en registrar l\'aplicació</string>
-    <string name="broker_helper_redirect">Redirecció de l\'URI per al fitxer json de configuració</string>
-    <string name="broker_helper_signature">Signatura a introduir en registrar-se a l\'aplicació</string>
-    <string name="broker_helper_title">Informació de l\'URI de redirecció MSAL</string>
-    <string name="broker_processing">Broker està processant</string>
     <string name="calendar_remind_dialog_title">Afegeix al calendari</string>
     <string name="calendar_remind_gridview_pick_date">Seleccionar data</string>
     <string name="cancel">Cancel·leu</string>
@@ -550,11 +543,6 @@ de l'IMAP"</string>
     <string name="hide_password">Amaga la contrasenya</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
     <string name="how_to_login_icloud">Com iniciar la sessió al correu de l\'iCloud</string>
-    <string name="http_auth_dialog_cancel">Cancel·la</string>
-    <string name="http_auth_dialog_login">Inicia sessió</string>
-    <string name="http_auth_dialog_password">Contrasenya</string>
-    <string name="http_auth_dialog_title">Introduïu les vostres credencials</string>
-    <string name="http_auth_dialog_username">Nom d\'usuari</string>
     <string name="icloud_login_tips">Pots crear una contrasenya per utilitzar-la amb el correu de l\'iCloud aquí: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Icona de diàleg</string>
@@ -670,6 +658,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="message_all_body">Missatge sencer</string>
     <string name="message_body_load_set_description">Carregar correus electrònics quan es facin servir dades mòbils</string>
     <string name="message_discarded">Esborrany descartat</string>
+    <string name="message_forward_has_signature_pdf">Reenvieu fitxers adjunts en PDF signats?</string>
     <string name="message_invite_accept">Sí</string>
     <string name="message_invite_calendar_download_prompt">Baixeu el Calendari per poder utilitzar aquesta funció</string>
     <string name="message_invite_calendar_view">Veure en el calendari</string>
@@ -900,8 +889,6 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="pdf_signature_manager_max_count">"No es poden afegir més signatures. Suprimiu signatures antigues per afegir-ne de noves."</string>
     <string name="pdf_signature_manager_title">Gestionar les signatures</string>
     <string name="pdf_signature_select">Seleccioneu la signatura</string>
-    <string name="pdf_viewer_actionbar_more_other">Altres aplicacions</string>
-    <string name="pdf_viewer_actionbar_more_wps">Obert en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El fitxer PDF està malmès. Comproveu aquest fitxer i torneu-ho a provar.</string>
     <string name="pdf_viewer_new_email">Envia</string>
     <string name="pdf_viewer_reply">Respon</string>

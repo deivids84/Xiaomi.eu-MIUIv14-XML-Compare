@@ -108,8 +108,8 @@
         <item>Discapacitat</item>
         <item>Filtrat habilitat</item>
         <item>Permès</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
+        <item>Capçaleres habilitades filtrades</item>
+        <item>Mitjans de comunicació activats Pkts filtrat</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>

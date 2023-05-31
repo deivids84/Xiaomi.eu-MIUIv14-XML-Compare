@@ -34,7 +34,7 @@
     <string name="abrupt_weather_settings_title">Avís meteorològic inusual</string>
     <string name="act_find_city_hint">Introduïu una ubicació</string>
     <string name="act_find_city_hot_city_title">Ciutats populars</string>
-    <string name="act_location_error_to_find_city">"No s'ha pogut obtenir la ubicació. Podeu afegir una ciutat manualment."</string>
+    <string name="act_location_error_to_find_city">"No s'ha pogut obtenir informació sobre la ubicació. Pots afegir una ubicació manualment."</string>
     <string name="act_set_city_find_side">S\'està ubicant</string>
     <string name="act_set_city_find_side_error">"No es pot ubicar el dispositiu"</string>
     <string name="act_weather_find_city_added">Afegida</string>
@@ -68,6 +68,8 @@
     <string name="aqi_alert_channel_name">Alertes IQA</string>
     <string name="aqi_data_source">Desenvolupat per Colorful Clouds</string>
     <string name="aqi_desc">Índex de qualitat de l\'aire</string>
+    <string name="aqi_detail_24_hours">%d-Previsió horària</string>
+    <string name="aqi_detail_5_days">%d-Previsió per dies</string>
     <string name="aqi_detail_co_unit">Unitat: mg/m³</string>
     <string name="aqi_detail_title">Índex de qualitat de l\'aire</string>
     <string name="aqi_detail_unit">Unitat: µg/m³</string>
@@ -198,7 +200,7 @@
     <string name="feedback_result_fail_no_choice">Trieu les condicions meteorològiques actuals</string>
     <string name="feedback_result_fail_no_reason">Gràcies pels vostres comentaris!</string>
     <string name="feedback_result_fail_same_type">"Sembla que el vostre informe no és diferent del temps actual. Torna-ho a provar."</string>
-    <string name="feedback_result_success">S\'ha enviat amb èxit, gràcies pels vostres comentaris</string>
+    <string name="feedback_result_success">Enviat correctament. Gràcies pels teus comentaris.</string>
     <string name="feedback_sandy">Sorra</string>
     <string name="feedback_sunny">Serè</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
@@ -391,6 +393,7 @@
     <string name="share_subject">Comparteix</string>
     <string name="share_weather_desc">\#El temps de MIUI#Avui a %1$s %2$s</string>
     <string name="share_weather_save_pic_fail">"No s'ha pogut fer la captura de pantalla"</string>
+    <string name="shortcut_short_label_24_hour_forecast">%d-Previsió horària</string>
     <string name="shortcut_short_label_recent_forecast">Comprova el temps</string>
     <string name="solar_term_cold_dews">Rosades fredes</string>
     <string name="solar_term_grain_buds">Criatures plenes</string>
@@ -503,6 +506,7 @@
     <string name="unit">Unitats</string>
     <string name="unit_temperature">Unitats de temperatura</string>
     <string name="unit_wind">Unitats de velocitat del vent</string>
+    <string name="update_night_setting_summary_text">Actualitzar la informació meteorològica entre %1$s i %2$s</string>
     <string name="update_night_setting_title_text">Actualitza-ho de nit automàticament</string>
     <string name="update_notification_info">S\'estan actualitzant les dades en segon pla…</string>
     <string name="updated_a_moment_ago">Actualitzat fa un moment</string>

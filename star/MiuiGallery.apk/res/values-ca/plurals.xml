@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d min</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Vols afegir aquests elements a l\'àlbum privat?</item>
@@ -45,8 +45,8 @@
         <item quantity="one">S\'ha afegit %d foto al núvol, desactiveu \"Mostra només els àlbums locals\" per veure-la.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elements no es poden afegir a l'àlbum. %1$s."</item>
-        <item quantity="one">"‎%2$d element no es pot afegir a l'àlbum. %1$s."</item>
+        <item quantity="other">"%2$d No es poden afegir ítems a l'àlbum. %1$s."</item>
+        <item quantity="one">"%2$d L'ítem no es pot afegir a l'àlbum. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elements no es poden afegir a l'àlbum privat. %1$s."</item>
@@ -172,6 +172,10 @@
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Esborrar %d Trets de ràfega?</item>
+        <item quantity="one">Esborrar %d Tret d\'esclat?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Voleu suprimir %d ràfegues?</item>
         <item quantity="one">Voleu suprimir %d ràfega?</item>
@@ -187,6 +191,10 @@
     <plurals name="delete_media_from_local">
         <item quantity="other">Voleu suprimir %d elements?</item>
         <item quantity="one">Voleu suprimir %d element?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Esborrar %d Elements?</item>
+        <item quantity="one">Esborrar %d ítem?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Voleu suprimir %d ràfegues de fotos d\'aquest dispositiu?</item>
@@ -492,6 +500,46 @@
         <item quantity="other">Rebent %2$d arxius comprimits (%3$s) de %1$s…</item>
         <item quantity="one">Rebent %2$d arxiu comprimit (%3$s) de %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Carregada %d Fotos</item>
+        <item quantity="one">Carregada %d foto</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d Habitacions</item>
+        <item quantity="one">%1$d habitació</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d Pantalles</item>
+        <item quantity="one">%1$d pantalla</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d Pantalles</item>
+        <item quantity="one">%1$d pantalla</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d Pantalles compartides</item>
+        <item quantity="one">%1$d Pantalla compartida</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d Entorns domèstics intel·ligents disponibles</item>
+        <item quantity="one">%1$d Entorn domèstic intel·ligent disponible</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d Els ítems són massa grans per sincronitzar-los</item>
+        <item quantity="one">%d L\'element és massa gran per sincronitzar-lo</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"No s'ha pogut sincronitzar %d Elements. Actualitza el pla d'emmagatzematge."</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %d ítem. Actualitza el pla d'emmagatzematge."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"No s'ha pogut sincronitzar %d Elements. Prova una altra vegada."</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %d ítem. Prova una altra vegada."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"No s'ha pogut sincronitzar %d Elements. El propietari d'aquest àlbum no té espai d'emmagatzematge al núvol."</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %d ítem. El propietari d'aquest àlbum no té espai d'emmagatzematge al núvol."</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d segons</item>
         <item quantity="one">%1$d segon</item>
@@ -560,6 +608,18 @@
         <item quantity="other">%1$s, %2$s elements</item>
         <item quantity="one">%1$s, %2$s element</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d Dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d Mesos</item>
+        <item quantity="one">%d mes</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d Anys</item>
+        <item quantity="one">%d any</item>
+    </plurals>
     <plurals name="today_of_year_location_num_unit">
         <item quantity="other"></item>
         <item quantity="one"></item>
@@ -567,6 +627,14 @@
     <plurals name="today_of_year_photo_num_unit">
         <item quantity="other"></item>
         <item quantity="one"></item>
+    </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">"No s'ha pogut transferir %1$d Elements"</item>
+        <item quantity="one">"No s'ha pogut transferir %1$d ítem"</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"No s'ha pogut transferir %1$d Elements. Visiteu i.mi.com per descarregar-los."</item>
+        <item quantity="one">"No s'ha pogut transferir %1$d ítem. Visiteu i.mi.com per descarregar-lo."</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elements seleccionats se suprimiran permanentment del núvol i de tots els dispositius sincronitzats. Voleu suprimir-los de totes maneres?</item>
@@ -591,6 +659,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Els elements es poden emmagatzemar aquí fins a %1$d dies (%2$s)</item>
         <item quantity="one">Els elements es poden emmagatzemar aquí durant %1$d dia (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Els articles es poden emmagatzemar aquí per %1$s Dies. Toqueu per ampliar aquest període.</item>
+        <item quantity="one">Els articles es poden emmagatzemar aquí per %1$s dia. Toqueu per ampliar aquest període.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Els elements suprimits s\'emmagatzemen al núvol per %1$d Dies</item>
+        <item quantity="one">Els elements suprimits s\'emmagatzemen al núvol per %1$d dia</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Els elements es poden emmagatzemar aquí fins a %1$d dies. Millora el teu pla per a augmentar aquest període.</item>

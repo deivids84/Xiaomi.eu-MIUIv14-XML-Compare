@@ -52,6 +52,7 @@
     <string name="additional_calendar_note">És possible que alguns calendaris addicionals no estiguin disponibles o variïn depenent de diversos factors aleatoris</string>
     <string name="afternoon">Tarda</string>
     <string name="agenda_month_empty_hint">No hi ha esdeveniments avui</string>
+    <string name="agenda_not_today_empty_hint">Aquí encara no hi ha esdeveniments. Toqueu per crear-ne un.</string>
     <string name="agenda_tomorrow">DEMÀ, %1$s</string>
     <string name="agenda_view">Agenda</string>
     <string name="alarm_label">Descarteu</string>
@@ -267,6 +268,7 @@
     <string name="event_info_when">Quan</string>
     <string name="event_info_where">On</string>
     <string name="event_reminder_allday_day_zero">En aquell dia a les %2$s</string>
+    <string name="event_reminder_custom">Costum</string>
     <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
     <string name="event_title">Títol</string>
     <string name="event_view">Mostreu l\'esdeveniment</string>
@@ -594,6 +596,10 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="notes_week_name_two">%1$s i %2$s</string>
     <string name="notes_weekly">Setmanal</string>
     <string name="notification_channel_name">Recordatoris del calendari</string>
+    <string name="notification_open_setting_button_exit">No gràcies</string>
+    <string name="notification_open_setting_button_ok">Permetre</string>
+    <string name="notification_open_setting_message">"No podràs rebre notificacions sobre esdeveniments tret que permetis que Calendar t'enviï notificacions."</string>
+    <string name="notification_open_setting_title">Permetre les notificacions de Calendar?</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">Amanta</string>
@@ -622,6 +628,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="partner_compatibility">Compatibilitat dels socis</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
+    <string name="permission_denial">Concediu permisos per poder utilitzar aquesta funció</string>
     <string name="permission_description">Detalls dels permisos</string>
     <string name="picker_day">Dia seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
     <string name="picker_month">Mes seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
@@ -659,6 +666,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="preferences_week_start_day_title">Inici de la setmana</string>
     <string name="prefsx_notify_sound_none">Silenciós</string>
     <string name="premission_description_log">Per desar registres</string>
+    <string name="premission_description_notice">Per a l\'enviament de notificacions sobre esdeveniments i dies festius</string>
     <string name="premission_description_ringtone">Per establir tons de trucada</string>
     <string name="privacy_and_permissions">Privadesa i permisos</string>
     <string name="privacy_card_description">Accepta la nostra Política de privadesa per accedir a totes les funcions.</string>
@@ -685,6 +693,8 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="remind_title_menstruation_start">Recordeu-me quan comença el període</string>
     <string name="remind_title_record">Recordeu enregistrar-ho</string>
     <string name="repeat_activity_label">Repetiu</string>
+    <string name="repeat_alarm_close_title">Aquest és un esdeveniment repetit. Desactiveu el recordatori d\'alarma?</string>
+    <string name="repeat_alarm_open_title">Aquest és un esdeveniment repetit. Configureu un recordatori d\'alarma?</string>
     <string name="repeat_custom_activity_label">Personalitzada</string>
     <string name="repeat_custom_prompt_daily">cada %1$s</string>
     <string name="repeat_custom_prompt_sentence">L\'esdeveniment es repetirà %1$s</string>

@@ -40,6 +40,10 @@
         <item quantity="other">S\'han trobat %d resultats</item>
         <item quantity="one">S\'ha trobat %d resultat</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d gent</item>
+        <item quantity="one">%d persona</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -71,6 +75,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>

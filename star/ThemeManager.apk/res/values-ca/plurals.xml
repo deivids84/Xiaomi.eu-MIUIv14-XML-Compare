@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d temes AOD</item>
@@ -148,6 +148,14 @@
         <item quantity="other">d\'aquí a %d minuts</item>
         <item quantity="one">d\'aquí a 1 minut</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Hi ha disponible una actualització per a %1$d Súper icones</item>
+        <item quantity="one">Hi ha disponible una actualització per a %1$d Super icona</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Actualització %1$d Súper icones</item>
+        <item quantity="one">Actualització %1$d Super icona</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
@@ -175,6 +183,10 @@
     <plurals name="resource_download_notification_title_many">
         <item quantity="other">S\'han baixat %1$d elements amb èxit</item>
         <item quantity="one">S\'ha baixat %1$d element correctament</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Monedes Mi/conjunt</item>
+        <item quantity="one">%1$s La meva moneda/conjunt</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f punts</item>

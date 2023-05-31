@@ -43,7 +43,7 @@
     <string name="app_name_danfa">Calculadora Mi</string>
     <string name="app_notification_info">La calculadora està funcionant en segon pla</string>
     <string name="base_rate">Base del tipus d\'interès</string>
-    <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegura't que l'alçada i el pes que has introduït són correctes."</string>
+    <string name="bmi_error_text">Introduïu paràmetres vàlids</string>
     <string name="bmi_label_information">Informació</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Sobrepès</string>
@@ -228,6 +228,7 @@
     <string name="install_scanner_to_continued_use">L\'escàner està desintal·lat. El vols tornar a intal·lar?</string>
     <string name="interest_rate_hint">Introduïu la taxa d\'interès</string>
     <string name="investment_invalid_duration">La durada de la inversió ha de ser més gran que zero</string>
+    <string name="investment_loan_result">Detalls</string>
     <string name="investment_type_once">Única</string>
     <string name="investment_type_recurring">Periòdica</string>
     <string name="item_page_title_investment">Calculadora d\'inversions</string>
@@ -585,7 +586,6 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="tax_result_real_get">Net</string>
     <string name="tax_social_insurance">Seguretat social</string>
     <string name="tax_thershold_foreign">%s (Estrangers)</string>
-    <string name="tax_thershold_native">%s (Xina continental)</string>
     <string name="tax_thershold_native_new">%s (nou)</string>
     <string name="tax_thershold_native_new_description">Impostos es calcularà segons la nova llei d\'impost a partir de 1 d\'octubre de 2018</string>
     <string name="tax_threshold">Llindar lliure d\'impostos</string>
@@ -791,7 +791,7 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Braça</string>
     <string name="unit_data_display_length_ft">Peu</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Polzada</string>

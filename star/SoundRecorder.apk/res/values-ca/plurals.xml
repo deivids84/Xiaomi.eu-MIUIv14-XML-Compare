@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí 1 hora</item>
-        <item quantity="other">D\'aquí 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">Elimina %d enregistraments</item>
@@ -127,10 +127,6 @@
     <plurals name="search_result">
         <item quantity="other">S\'han trobat %d enregistraments</item>
         <item quantity="one">S\'ha trobat %d enregistrament</item>
-    </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">%d nous enregistraments</item>
-        <item quantity="one">%d nou enregistrament</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">Queden %d dies</item>

@@ -108,6 +108,7 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="close">Tanca</string>
     <string name="close_camera_failed">"No s'ha pogut desactivar la càmera"</string>
     <string name="close_camera_requesting">Desactivant càmera…</string>
+    <string name="cloud_video_conference">Videoconferència al núvol</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
     <string name="conference_call_recorder_title">Trucada de conferència</string>
     <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
@@ -165,6 +166,7 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="high_temperature_toast">"El dispositiu està sobreescalfat. No es pot utilitzar aquesta funció ara."</string>
     <string name="inCallLabel">Telèfon</string>
     <string name="incall_bubble_hangup_click_hint">Torna a tocar per tornar a la trucada</string>
     <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
@@ -276,6 +278,7 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="onscreen_add_call_text">Afegeix trucada</string>
     <string name="onscreen_audio_mode_handset">Auricular</string>
     <string name="onscreen_audio_mode_headset">Auriculars</string>
+    <string name="onscreen_audio_mode_mirror">Pastilla</string>
     <string name="onscreen_audio_mode_speaker">Altaveu</string>
     <string name="onscreen_call_record">Gravar</string>
     <string name="onscreen_change_to_video">Vídeotrucada</string>

@@ -65,6 +65,7 @@
     <string name="australian_magpie">Urraca australiana</string>
     <string name="authorization_btn_text">Començar</string>
     <string name="authorization_tips">Es requereixen permisos</string>
+    <string name="avalible_per_day">Durada de la sessió</string>
     <string name="baboon_info">El babuí d’oliva viu en grups amb un rang social desenvolupat en funció del domini de cada individu.</string>
     <string name="back">Enrere</string>
     <string name="bear_info">Els óssos són els carnívors terrestres més grans. Viuen en regions fredes i són coneguts pel seu agut sentit de l\'olfacte.</string>
@@ -110,10 +111,12 @@
     <string name="branch_whipbird">Túrdids</string>
     <string name="brown_pelican">Pelicà marró</string>
     <string name="calendar_sound">Recordatori d\'esdeveniments</string>
-    <string name="calendar_tip">Els sons del recordatori d\'esdeveniments funcionen per a recordatoris, notes i tasques de calendari</string>
     <string name="canada_goose">Oca del Canadà</string>
     <string name="capybara">Capibara</string>
     <string name="capybara_info">Les capibares són rosegadors herbívors semiaquàtics que poden mantenir la respiració sota l\'aigua fins a cinc minuts en una vegada.</string>
+    <string name="category_limit_notify_title">Alerta de temps de pantalla</string>
+    <string name="category_list_expand">Més</string>
+    <string name="category_list_packup">Amagar</string>
     <string name="category_other">Altres</string>
     <string name="chacma_baboon">Papió negre</string>
     <string name="cheetah">Guepard</string>
@@ -125,11 +128,14 @@
     <string name="clearable_edittext_clear_description">Netejar</string>
     <string name="click_to_save">Toqueu \"Fet\" per establir un to de trucada general.</string>
     <string name="close">Tanca</string>
+    <string name="closed_high_refresh_options">Aplicacions que no utilitzen una freqüència d\'actualització alta</string>
     <string name="color_gamut">Gamma de colors</string>
     <string name="common_brushtail">Pòssum comú</string>
     <string name="common_ostrich">Estruç</string>
+    <string name="compulsor_tip">Pantalla d\'inici</string>
     <string name="contact_description">Prem dreceres de la Pantalla d\'inici per a fer trucades</string>
     <string name="contact_title">Dreceres de contactes</string>
+    <string name="continue_time">Durada de la sessió</string>
     <string name="contrast_ratio">Contrast</string>
     <string name="control_center_title">Hores de pantalla d\'avui</string>
     <string name="control_center_title_new">Utilitzat avui</string>
@@ -141,6 +147,8 @@
     <string name="created_successfully">Creada correctament</string>
     <string name="crowned_hornbill">Calau coronat</string>
     <string name="cu_confirm">Defineix</string>
+    <string name="customize_high_refresh_summary">Aquesta funció admet una freqüència de refresc de fins a %d Hz. La freqüència d\'actualització adequada es pot seleccionar automàticament en funció de les preferències del dispositiu.</string>
+    <string name="customize_high_refresh_title">Aplicacions que utilitzen una freqüència d\'actualització alta</string>
     <string name="customize_radio_btn_summary">Preferiu la freqüència d’actualització seleccionada</string>
     <string name="customize_radio_btn_title">Personalitzat</string>
     <string name="dall_sheep">Mufló de Dall</string>
@@ -161,6 +169,8 @@
     <string name="desktop_widget_not_support">"Les estadístiques de temps de pantalla
 no es generen al segon espai"</string>
     <string name="desktop_widget_screen_use_time">Temps de pantalla</string>
+    <string name="device_limit_enable">Sobre</string>
+    <string name="device_limit_un_enable">Apagat</string>
     <string name="display_description">Icones més grans, text gran, menys desordre visual</string>
     <string name="display_title">Elements més grans</string>
     <string name="dynamic_ringtone_desc">"Hem explorat diferents ecosistemes i hem recreat els seus diferents sons. Comenceu a explorar els sons de la natura amb nosaltres!"</string>
@@ -263,7 +273,11 @@ no es generen al segon espai"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">De %d a %d minuts</string>
     <string name="focus_mode_timer_pick_dialog_title">Introduir durada</string>
     <string name="focus_time_exception_tip">Sembla que l’hora del sistema ha canviat. S’ha desactivat el Mode concentració.</string>
+    <string name="follow_apps_settings">Segons la configuració de l\'aplicació</string>
     <string name="follow_sim1">Aplica la configuració de la SIM 1</string>
+    <string name="force_rest">Utilitzar pauses de sessió</string>
+    <string name="force_rest_summary">Feu pauses obligatòries quan les sessions arribin al límit establert</string>
+    <string name="force_rest_time">Durada del descans</string>
     <string name="fps_high">Alta</string>
     <string name="fps_nature_summary">La freqüència d\'actualització màxima manté tot net i clar</string>
     <string name="fps_nature_title">Màxima</string>
@@ -296,6 +310,16 @@ no es generen al segon espai"</string>
     <string name="green_peafowl">Paell verd</string>
     <string name="green_warbler_finch">Tallarol verd</string>
     <string name="grey_headed_flying_fox">Guineu volant de cap gris</string>
+    <string name="guard_item_app_summary">Desinstal·lar aplicacions de manera remota</string>
+    <string name="guard_item_app_title">Gestionar aplicacions</string>
+    <string name="guard_item_browser_summary">Controlar l\'accés a aplicacions i contingut</string>
+    <string name="guard_item_browser_title">Restriccions</string>
+    <string name="guard_item_call_summary">Permetre que determinats contactes facin trucades</string>
+    <string name="guard_item_call_title">Comunicació</string>
+    <string name="guard_item_eye_protect_summary">Monitoritzar la postura</string>
+    <string name="guard_item_eye_protect_title">Confort ocular</string>
+    <string name="guard_range_from">De</string>
+    <string name="guard_range_to">A</string>
     <string name="harp_seal">Foca de Groenlàndia</string>
     <string name="harpy_eagle">Harpia grossa</string>
     <string name="has_applied">Aplicat</string>
@@ -303,11 +327,14 @@ no es generen al segon espai"</string>
     <string name="helmeted_guineafowl">Numídids</string>
     <string name="high_fps_description">Freqüència alta d\'actualització de la pantalla. Major consum energètic.</string>
     <string name="high_fps_tip_footer">L’ús de freqüències de refresc més altes facilita l’experiència de visualització, però consumeix més energia.</string>
+    <string name="high_refresh_options_title">Aplicacions compatibles</string>
     <string name="hippopotamus">Hipopòtam</string>
+    <string name="holiday_limit">Dies lliures</string>
     <string name="hsv_space_color">Espai de color HSV</string>
     <string name="hsv_space_color_hue">Tonalitat</string>
     <string name="hsv_space_color_saturation">Saturació</string>
     <string name="hsv_space_color_value">Valor</string>
+    <string name="in_forbidden_period">L\'ús està restringit ara</string>
     <string name="intelligent_radio_btn_summary">Ajusteu la freqüència de refresc dinàmicament en funció dels escenaris per equilibrar el rendiment amb el consum d’energia</string>
     <string name="intelligent_radio_btn_title">Per defecte (recomanat)</string>
     <string name="intelligent_recognition_item_summary">Utilitza un to de trucada designat per a trucades dels serveis de repartiment i taxis. Aquesta funció funcionarà quan %s estigui definit com a to de trucada predeterminat.</string>
@@ -347,6 +374,7 @@ no es generen al segon espai"</string>
     <string name="leopard">Lleopard</string>
     <string name="lion">Lleó</string>
     <string name="lion_info">Els lleons són depredadors ferotges i poderosos. Viuen en grups i tenen un fort sentit del territori.</string>
+    <string name="loading_error">"No s'han pogut carregar elements"</string>
     <string name="lock_summary">Protegeix la teva informació personal</string>
     <string name="long_tai1ed_iaeger">Paràsit cuallarg</string>
     <string name="low_flicker_mode">Llum baixa</string>
@@ -449,6 +477,8 @@ no es generen al segon espai"</string>
     <string name="nature_mix_summary">Creeu una barreja personalitzada</string>
     <string name="nazca_booby">Boig de Nazca</string>
     <string name="network_error">S\'ha produït un error de xarxa. Torna a intentar-ho.</string>
+    <string name="new_customize_high_refresh_title">Alta freqüència de refresc</string>
+    <string name="next_day">"(L'endemà) "</string>
     <string name="night">Vespre</string>
     <string name="nine_banded_armadillo">Armadillos</string>
     <string name="no_matching">"No s'ha pogut trobar una aplicació per obrir aquest enllaç"</string>
@@ -464,6 +494,7 @@ no es generen al segon espai"</string>
     <string name="notification_sound">So de notificació</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Papió anubis</string>
+    <string name="opened_high_refresh_options">Aplicacions que utilitzen una freqüència d\'actualització alta</string>
     <string name="orange_winged_amazon">Amazona d’ales taronges</string>
     <string name="orca">Orca</string>
     <string name="ostrich_info">Els estruços són grans aus voladores d’Àfrica que ponen els ous més grans de tots els animals terrestres vius.</string>
@@ -524,6 +555,7 @@ no es generen al segon espai"</string>
     <string name="sea_otter">Llúdria marina</string>
     <string name="seal_info">Les foques són mamífers marins que poden desplaçar-se ràpidament en aigües profundes, alimentant-se de peixos i gambes.</string>
     <string name="search_app_name">Cerca aplicacions</string>
+    <string name="search_app_tips">Cerca d\'aplicacions</string>
     <string name="search_empty">No s\'han trobat aplicacions</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
@@ -535,6 +567,12 @@ no es generen al segon espai"</string>
     <string name="silver_pheasant">Faisà de plata</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Giboló hoolock Gaoligong</string>
     <string name="small_ground_finch">Pinzó petit</string>
     <string name="sms_delivered_sound_title">Missatge entregat</string>
@@ -575,6 +613,8 @@ no es generen al segon espai"</string>
     <string name="steady_on_screen_notification_title">Deixa el teu mòbil i fes una pausa</string>
     <string name="steady_on_screen_notification_title_pad">Deixa el dispositiu i fes un descans</string>
     <string name="steady_on_screen_notify">Notificar ús ininterromput</string>
+    <string name="steady_on_screen_notify_new">Pren-te un descans</string>
+    <string name="steady_on_screen_ntf_msg">Totes les funcions tornaran a estar disponibles a %1$s</string>
     <string name="steady_on_screen_setting">Límit de temps per a sessions ininterrompudes</string>
     <string name="steady_on_screen_summary">Límit de temps per a sessions ininterrompudes</string>
     <string name="stop_app_timer">Desactivar Screen time</string>
@@ -634,6 +674,12 @@ no es generen al segon espai"</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
+    <string name="time_over_back_home">Pantalla d\'inici</string>
+    <string name="time_over_delayed_use">Ignorar</string>
+    <string name="time_over_not_delayed_use">Ho tinc</string>
+    <string name="time_over_today">"Ja no queda temps
+per avui"</string>
+    <string name="time_over_today_use">"Sessions d'avui: "</string>
     <string name="time_picker_dialog_title">Definir hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -661,6 +707,7 @@ no es generen al segon espai"</string>
     <string name="tuesday_shortest">dt.</string>
     <string name="two_toed_sloths">Peresós didàctil</string>
     <string name="two_toed_sloths_info">Els peresosos didàctils poden viatjar fàcilment d’arbre en arbre al cobricel arbori de les selves tropicals.</string>
+    <string name="unavailable_per_day">Trenca</string>
     <string name="unlock_times_per_day">"Mitjana diària: "</string>
     <string name="unlock_times_per_hour">"Vegades desbloquejat per hora: "</string>
     <string name="usage_agree">D\'acord</string>
@@ -696,8 +743,10 @@ no es generen al segon espai"</string>
     <string name="usage_device_limit_app_prolong_time3">Afegeix 60 minuts</string>
     <string name="usage_device_limit_app_prolong_time4">"Avui no limitis"</string>
     <string name="usage_device_limit_app_prolong_time5">Afegiu temps una vegada</string>
+    <string name="usage_device_limit_forbidden_period">L\'ús està restringit entre %1$s i %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">"Arribaràs al límit en %1$s"</string>
     <string name="usage_device_limit_notifation_title">Temps restant d\'avui</string>
+    <string name="usage_device_limit_start_forbidden_period">L\'ús estarà restringit entre %1$s i %2$s (%3$s resta)</string>
     <string name="usage_device_limit_time_over">"Has arribat al límit d'avui (%1$s)"</string>
     <string name="usage_exit">Sortir</string>
     <string name="usage_focus_focus_premission_main_summary">Aquesta aplicació necessita accedir a la informació del teu compte per a poder enregistrar les teves dades estadístiques de l\'ús del mode enfocat.</string>
@@ -729,6 +778,8 @@ Aquesta aplicació també necessita connectar-se a internet i els següents perm
     <string name="usage_home_premission_second_summary_double_link_prefix">"Protegirem la teva informació personal d'acord amb les lleis, regulacions i polítiques de privadesa pertinents. Si no acceptes concedir aquests permisos o compartir i penjar la teva informació personal, no podràs utilitzar aquesta aplicació. Pots revocar l'autorització a Temps de pantalla &gt; Configuració &gt; Desactivar el temps de pantalla."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;Abans d\'utilitzar aquesta aplicació, llegeix i accepta el nostre &lt;a href=\'%1s\'&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\'%2s\'&gt;Política de privadesa&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">"Protegirem la teva informació personal segons les lleis, regulacions i polítiques de privadesa adients. Si no estàs d'acord en donar tals permisos ni en compartir o carregar la teva informació personal, no podràs fer servir aquesta aplicació. Pots revocar la teva autorització a Screen Time &gt; Ajustaments &gt; Desactivar Screen Time. Si tens més preguntes sobre la privadesa, pots contactar amb nosaltres enviant un correu electrònic a privacy@xiaomi.com."</string>
+    <string name="usage_new_category_limit_summary">Establir límits d\'ús diari per a totes les aplicacions d\'aquesta categoria</string>
+    <string name="usage_new_category_limit_title">Restringir l\'ús de la categoria d\'aplicació</string>
     <string name="usage_new_home_app_limit_summary">Defineix un límit d\'hores de pantalla diari per a aquesta aplicació</string>
     <string name="usage_new_home_app_limit_title">Limita les hores de pantalla</string>
     <string name="usage_new_home_average">"Mtj "</string>
@@ -949,6 +1000,7 @@ Aquesta aplicació necessita connectar-se a internet i requereix els següents p
     <string name="willow_grouse_info">El llangüet de salze és herbívor durant la major part de la seva vida i ocupa principalment hàbitats subalpins i subàrtics.</string>
     <string name="wolf">Llop</string>
     <string name="wombat">Uombats</string>
+    <string name="workday_limit">Dies</string>
     <string name="yellow_necked_spurfowl">Spurfowl de coll groc</string>
     <string name="yellow_throated_marten">Martora de gola groga</string>
     <string name="yesterday">Ahir</string>

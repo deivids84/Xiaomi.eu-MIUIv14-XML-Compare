@@ -59,14 +59,19 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="settings_search_mirror">
+        <item>Dispositius connectats</item>
+        <item>Connexió &amp; Ús compartit/Dispositius connectats</item>
+        <item>MIUI+, MIUIPLUS, handoff, multipantalla, interconnectivitat, mirall de pantalla, ratolí i teclat, extensió de pantalla, traspàs d\'aplicacions, El meu Smart Hub, mirall, extensió, multitasca, compartir, ratolí, teclat, connectar dispositius</item>
+    </string-array>
     <string-array name="settings_tips_message">
-        <item>"1. Desactiveu el punt d'accés portàtil, Mi Share o Emet al dispositiu mòbil abans d'utilitzar aquesta funció.
-2. Desactiveu la Wi-Fi tant al dispositiu mòbil com a l'ordinador.
-3. Assegureu-vos que el dispositiu mòbil estigui a prop de l'ordinador. No podreu connectar els dispositius si es troben en llocs diferents."</item>
-        <item>L\'ordinador utilitza el Bluetooth per detectar els dispositius mòbils propers que s\'han connectat prèviament. Comproveu si el Bluetooth està activat al dispositiu mòbil.</item>
-        <item>"Els dispositius mòbils no poden sincronitzar les dades amb els ordinadors quan la pantalla està bloquejada. Per defecte, aquesta aplicació no permet bloquejar la pantalla quan el dispositiu mòbil està connectat a un ordinador. Podeu canviar-ho a la configuració."</item>
-        <item>"1. Dispositius mòbils compatibles: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Si se us redirigeix al nostre lloc web oficial després d’escanejar el codi QR, el vostre dispositiu encara no és compatible.
-2. Ordinadors compatibles: Mi Notebook Pro 15 Enhanced Edition, Mi Notebook Pro 15.6 2020, Redmi G Gaming Notebook, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Baixeu MIUI+ Beta per al vostre ordinador aquí: https://plus.miui.com."</item>
+        <item>"1.Turn off punt d'accés portàtil, Mi Share, o emissió al dispositiu mòbil abans d'utilitzar Screen Combo.
+2. Activeu la Wi-Fi tant al dispositiu mòbil com a l'ordinador.
+3. Assegureu-vos que el vostre dispositiu mòbil estigui a prop de l'ordinador."</item>
+        <item>L\'ordinador utilitza Bluetooth per detectar dispositius mòbils que s\'han connectat prèviament. Comproveu si el Bluetooth està activat al dispositiu mòbil.</item>
+        <item>"Els dispositius mòbils no poden sincronitzar dades amb els ordinadors quan la pantalla està bloquejada. Per omissió, Screen Combo no permet bloquejar la pantalla quan el dispositiu mòbil està connectat a un ordinador. Podeu canviar-ho a Configuració."</item>
+        <item>"1. Dispositius mòbils compatibles: El meu 11, El meu 10 Ultra, El meu 10 Pro, El meu 10, El meu 9 Pro 5G, El meu 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Si se't redirigeix al nostre lloc web oficial després d'escanejar el codi QR, vol dir que el dispositiu encara no és compatible.
+2. Ordinadors compatibles: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 II., Redmibook Air 13. Descarregueu MIUI + Beta per al vostre ordinador aquí: https://plus.miui.com."</item>
     </string-array>
     <string-array name="settings_tips_title">
         <item>"No us podeu connectar mitjançant el codi QR?"</item>

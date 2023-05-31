@@ -181,7 +181,6 @@ yol prefiksi"</string>
     <string name="allow_notify">Bildirişlərə icazə ver</string>
     <string name="always_bcc_myself">Həmişə bir nüsxəni mənə göndər</string>
     <string name="am">GƏ</string>
-    <string name="app_loading">Yüklənir…</string>
     <string name="app_name">Poçt</string>
     <string name="appraise_des">Tətbiqimizi bəyənirsiniz?</string>
     <string name="appraise_good">Bəli</string>
@@ -242,12 +241,6 @@ yol prefiksi"</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">PDF-ə çıxart</string>
     <string name="bottom_bar_more_pdf_exporting">Xaricə köçürülür…</string>
-    <string name="broker_helper_manifest">AndroidManifest.xml üçün Intent filtri</string>
-    <string name="broker_helper_package">Tətbiqi qeydiyyatdan keçirərkən daxil ediləcək paket adı</string>
-    <string name="broker_helper_redirect">Konfiqurasiya json faylı üçün URI-ni yönləndirmə</string>
-    <string name="broker_helper_signature">Tətbiqi qeydiyyatdan keçirərkən daxil ediləcək imza</string>
-    <string name="broker_helper_title">MSAL Yönləndirmə URI məlumatı</string>
-    <string name="broker_processing">Broker emal olunur</string>
     <string name="calendar_remind_dialog_title">Daha sonra xatırlat</string>
     <string name="calendar_remind_gridview_pick_date">Tarix seçin</string>
     <string name="cancel">İmtina</string>
@@ -548,11 +541,6 @@ yol prefiksi"</string>
     <string name="hide_attachment">Qoşmanı gizlət</string>
     <string name="hide_password">Parolu gizlət</string>
     <string name="how_to_login_icloud">iCloud poçtuna necə daxil olmaq olar</string>
-    <string name="http_auth_dialog_cancel">İmtina</string>
-    <string name="http_auth_dialog_login">Giriş et</string>
-    <string name="http_auth_dialog_password">Parol</string>
-    <string name="http_auth_dialog_title">Kimlik məlumatlarınızı daxil edin</string>
-    <string name="http_auth_dialog_username">İstifadəçi adı</string>
     <string name="icloud_login_tips">iCloud poçtu ilə istifadə etmək üçün burada bir parol yarada bilərsiniz: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Dialoq nişanı</string>

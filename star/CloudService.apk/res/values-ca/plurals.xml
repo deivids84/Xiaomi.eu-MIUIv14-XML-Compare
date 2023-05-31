@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Emmagatzematge insuficient. No s'ha pogut sincronitzar %d Fotos."</item>
+        <item quantity="one">"Emmagatzematge insuficient. No s'ha pogut sincronitzar %d foto."</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entrades a la llista de bloqueig</item>
         <item quantity="one">%d entrada a la llista de bloqueig</item>
@@ -108,6 +112,10 @@
         <item quantity="other">Proveu-ho de nou d\'aquí %d segons</item>
         <item quantity="one">Proveu-ho de nou d\'aquí %d segon</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"No s'ha pogut sincronitzar &lt;font color=#F22424&gt;%s Elements&lt;/font&gt;"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar &lt;font color=#F22424&gt;%s ítem&lt;/font&gt;"</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"No s'han pogut sincronitzar %s elements"</item>
         <item quantity="one">"No s'ha pogut sincronitzar %s element"</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements sel·leccionats</item>
         <item quantity="one">%d element sel·leccionat</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"L'emmagatzematge està ple. No s'ha pogut sincronitzar &lt;font color=#F22424&gt;%d Apps&lt;/font&gt;"</item>
+        <item quantity="one">"L'emmagatzematge està ple. No s'ha pogut sincronitzar &lt;font color=#F22424&gt;%d .app&lt;/font&gt;"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>

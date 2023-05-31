@@ -122,6 +122,18 @@ Nota: el fitxer també serà esborrat d'aquest dispositiu."</item>
         <item quantity="other">&lt;font color=\"red\"&gt;%d cançons&lt;/font&gt; baixades</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d cançó&lt;/font&gt; baixada</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanç ràpid %d Segons</item>
+        <item quantity="one">Avanç ràpid %d segon</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobinar %d Segons</item>
+        <item quantity="one">Rebobinar %d segon</item>
+    </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s Vistes</item>
+        <item quantity="one">%s vista</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d baixades gratuites restants</item>
         <item quantity="one">%d baixada gratuita restant</item>

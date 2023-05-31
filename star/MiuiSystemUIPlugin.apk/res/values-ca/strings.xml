@@ -30,8 +30,10 @@
     <string name="accessibility_airplane_mode">Mode avió.</string>
     <string name="accessibility_back">Enrere</string>
     <string name="accessibility_brightness">Brillantor de la pantalla</string>
+    <string name="accessibility_desc_add">Sumar</string>
     <string name="accessibility_desc_close">Tanca</string>
     <string name="accessibility_desc_edit">Editeu</string>
+    <string name="accessibility_desc_remove">Treure</string>
     <string name="accessibility_description_hours">Hores</string>
     <string name="accessibility_description_minutes">Minuts</string>
     <string name="accessibility_description_seconds">Segons</string>
@@ -51,6 +53,7 @@
     <string name="accessibility_volume_expand">Expandeix</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
+    <string name="airplane">Avió</string>
     <string name="airplane_mode">Mode avió</string>
     <string name="already_in_small_freeform">Algunes aplicacions s\'obren en finestres flotants</string>
     <string name="am">a. m.</string>
@@ -59,6 +62,7 @@
     <string name="auto_brightness_on">La brillantor automàtica està encesa</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Els botons de navegació desactivats, premeu dos botons per tornar-los a activar.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botons de navegació habilitats</string>
+    <string name="bootloader">Arrencada ràpida</string>
     <string name="bt_is_off">Bluetooth està desactivat</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
@@ -71,7 +75,10 @@
     <string name="close_invisible_mode_dialog_ok">Configuració</string>
     <string name="close_invisible_mode_dialog_title">"Esteu d'incògnit"</string>
     <string name="control_center_notification_switch_guide">Feu lliscar el dit per canviar entre el Centre de control i l\'Àrea de notificacions</string>
+    <string name="controls_add_device_guide">"Encara no heu afegit cap dispositiu domèstic intel·ligent"</string>
+    <string name="controls_click_to_add_device">Sumar</string>
     <string name="controls_confirmation_message">Confirmeu el canvi per a %s</string>
+    <string name="controls_default_structure">Casa intel·ligent</string>
     <string name="controls_dialog_confirmation">S\'han actualitzat els controls</string>
     <string name="controls_dialog_message">%s va suggerir aquest control per afegir als vostres preferits.</string>
     <string name="controls_dialog_ok">Afegiu-ho als preferits</string>
@@ -84,6 +91,8 @@
     <string name="controls_dismiss_dialog_message_international">"Voleu treure la targeta \"Llar intel·ligent\" ara? El podreu restaurar a Configuració i Centre de control."</string>
     <string name="controls_dismiss_dialog_title">Dispositius domèstics intel·ligents</string>
     <string name="controls_dismiss_dialog_title_international">Treure la targeta</string>
+    <string name="controls_edit_add_device_guide">Encara no hi ha dispositius aquí</string>
+    <string name="controls_edit_added_subtitle">Arrossega els ítems per reordenar-los</string>
     <string name="controls_edit_added_title">Afegit</string>
     <string name="controls_edit_done_button">Fet</string>
     <string name="controls_edit_go_to_app_guide">Obre</string>
@@ -92,7 +101,7 @@
     <string name="controls_edit_panel_save_button">Fet</string>
     <string name="controls_edit_panel_subtitle">Arrossega elements per a tornar-los a endreçar</string>
     <string name="controls_edit_panel_title">Dispositius afegits</string>
-    <string name="controls_error_failed">Error, torneu-ho a provar</string>
+    <string name="controls_error_failed">S\'ha produït un error. Prova una altra vegada.</string>
     <string name="controls_error_generic">Error</string>
     <string name="controls_error_removed">Dispositiu eliminat</string>
     <string name="controls_favorite_default_title">Controls</string>
@@ -102,6 +111,7 @@
     <string name="controls_favorite_removed">S\'han eliminat tots els controls</string>
     <string name="controls_favorite_subtitle">Trieu els controls per accedir des del menú d\'encesa</string>
     <string name="controls_favorite_toast_no_changes">No s\'han desat els canvis</string>
+    <string name="controls_loading_device">Canvi d\'ubicació…</string>
     <string name="controls_media_title">Multimèdia</string>
     <string name="controls_menu_add">Afegiu controls</string>
     <string name="controls_mijia_setup_subtitle">Seleccioneu les aplicacions per afegir dispositius i gestionar-les aquí</string>
@@ -110,6 +120,8 @@
     <string name="controls_no_device_subtitle">Primer afegiu dispositius a %s.</string>
     <string name="controls_no_device_title">"No s'han pogut trobar dispositius"</string>
     <string name="controls_no_favorites_title">Seleccioneu les aplicacions per gestionar els dispositius domèstics intel·ligents aquí</string>
+    <string name="controls_not_found_device_toast">Aquest element ja s\'ha suprimit de l\'aplicació</string>
+    <string name="controls_not_found_device_toast_mihome">Aquest element ja s\'ha suprimit de l\'aplicació</string>
     <string name="controls_offline_device_toast">Aquest dispositiu està fora de línia. Manteniu premut per obrir l\'aplicació.</string>
     <string name="controls_pin_instructions">Introdueix el PIN</string>
     <string name="controls_pin_instructions_retry">Proveu un altre PIN</string>
@@ -117,9 +129,9 @@
     <string name="controls_pin_verify">Verifica %s</string>
     <string name="controls_pin_wrong">PIN incorrecte</string>
     <string name="controls_providers_title">Trieu l\'aplicació per afegir controls</string>
-    <string name="controls_removed">eliminat</string>
     <string name="controls_seeding_in_progress">S\'està carregant les recomanacions</string>
     <string name="controls_structure_tooltip">Llisca per a veure més</string>
+    <string name="controls_unsupport_toggle_toast">"Aquest dispositiu no admet accions ràpides. Mantén premut per obrir l'aplicació."</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
@@ -129,6 +141,7 @@
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="drag_to_add_tiles">Mantingueu-lo premut per afegir o reorganitzar els elements</string>
     <string name="early_morning">Matí</string>
+    <string name="emergency_call">Trucada d\'emergència</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
     <string name="error_icon_content_description">Error</string>
@@ -352,15 +365,6 @@
     <string name="quick_settings_mute_label">Mut</string>
     <string name="quick_settings_nightmode_label">Mode fosc</string>
     <string name="quick_settings_papermode_label">Mode de lectura</string>
-    <string name="quick_settings_pcmode_cancel_button">Cancel·leu</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Desactiva el mode PC</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Activa el mode PC</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">"No torneu a mostrar-ho"</string>
-    <string name="quick_settings_pcmode_error">"No s'ha pogut trobar aquesta aplicació. Instal·leu-lo primer."</string>
-    <string name="quick_settings_pcmode_label">Mode PC</string>
-    <string name="quick_settings_pcmode_ok_button">D\'acord</string>
-    <string name="quick_settings_pcmode_turn_off_description">"La pantalla del telèfon es mostrarà al monitor extern. Voleu desactivar el Mode PC?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"La pantalla de l'ordinador es mostrarà al monitor extern. Voleu activar el Mode PC?"</string>
     <string name="quick_settings_powermode_label">Mode de rendiment</string>
     <string name="quick_settings_quietmode_label">DND</string>
     <string name="quick_settings_rotationlock_label">Gira cap a fora</string>
@@ -387,6 +391,7 @@
     <string name="quick_settings_wireless_label">Càrrega sense fils inversa</string>
     <string name="reboot_info_auto_boot">Propera alarma: %s</string>
     <string name="reboot_info_shutdown_alarm">Atureu l\'alarma: %s</string>
+    <string name="recovery">Recuperació</string>
     <string name="reset">Restableix</string>
     <string name="restart">Reinicia</string>
     <string name="safe_media_volume_warning">"Augmenteu el volum per sobre del nivell recomanat?
@@ -398,7 +403,10 @@ L'exposició llarga a sons forts pot causar problemes d'audició."</string>
     <string name="save">Desa</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Enviar</string>
+    <string name="silent">Silenciós</string>
     <string name="slider_view_content_description">Llisqueu cap amunt per apagar-lo o cap avall per reiniciar</string>
+    <string name="slider_view_content_left_description">Feu lliscar el dit cap amunt per reiniciar al mode Fastboot o llisqueu cap avall per reiniciar al mode de recuperació</string>
+    <string name="slider_view_content_right_description">Feu lliscar el dit cap amunt per commutar el mode avió o llisqueu cap avall per canviar el mode silenciós</string>
     <string name="smart_home_title">Dispositius intel·ligents</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>

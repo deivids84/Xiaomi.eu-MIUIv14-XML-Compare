@@ -48,6 +48,10 @@
         <item quantity="other">"No s'han pogut baixar %1$d elements"</item>
         <item quantity="one">"No s'ha pogut baixar %1$d element"</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">A l\'espera de descarregar. %1$s fitxers restants.</item>
+        <item quantity="one">A l\'espera de descarregar. %1$s fitxer restant.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Descàrrega d\'… %1$d articles a l\'esquerra (%2$s%%)</item>
         <item quantity="one">S\'està baixant… %1$d element (%2$s%%)</item>
@@ -123,6 +127,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"No s'ha pogut carregar %1$d elements"</item>
         <item quantity="one">"No s'ha pogut carregar %1$d element"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">A l\'espera de pujar. %1$s fitxers restants.</item>
+        <item quantity="one">A l\'espera de pujar. %1$s fitxer restant.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Càrrega de… %1$d articles a l\'esquerra (%2$s%%)</item>

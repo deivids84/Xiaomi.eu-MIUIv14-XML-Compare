@@ -63,6 +63,10 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Mascle</item>
+        <item>Femella</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -106,6 +110,16 @@
         <item>Canviar la contrasenya</item>
         <item>Canvia la contrasenya del compte Xiaomi</item>
         <item>Canvia la contrasenya; Actualitza la contrasenya; El meu compte; Compte; Compte Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Espai d\'emmagatzematge familiar</item>
+        <item>Veure o activar l\'espai d\'emmagatzematge familiar</item>
+        <item>Espai d\'emmagatzematge familiar; Ús compartit d\'emmagatzematge</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Serveis a les famílies</item>
+        <item>Veure o activar els serveis familiars</item>
+        <item>Família; Serveis a les famílies; En família</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>

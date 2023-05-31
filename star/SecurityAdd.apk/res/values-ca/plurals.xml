@@ -36,6 +36,14 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s Hores</item>
+        <item quantity="one">%s H</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s Minuts</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>

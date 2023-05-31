@@ -116,6 +116,7 @@
     <string name="file_cannot_screen_throw">"No es pot emetre aquest element."</string>
     <string name="file_receive_progress">Progrés: %1$d%%</string>
     <string name="file_receive_progress_title">Progrés</string>
+    <string name="file_received_successfully_from_pc">Rebut més de %2$d fitxers de %1$s reeixidament</string>
     <string name="file_sending">S\'està transferint els fitxers…</string>
     <string name="file_transfer_progress">Progrés: %1$d%%</string>
     <string name="file_transfer_progress_title">Progrés</string>
@@ -146,6 +147,7 @@
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entesos</string>
     <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="location_enabled">Mi Share ha activat els serveis d\'ubicació per trobar dispositius propers</string>
     <string name="menu_item_permission_title">Detalls dels permisos</string>
     <string name="menu_item_privacy_title">Política de privadesa</string>
@@ -255,6 +257,7 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="retry_task">Envia de nou</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Samsung</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
@@ -295,10 +298,14 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="some_files_receive_completed">"Veure els arxius que ja has rebut en %1$s."</string>
+    <string name="somepc_send_muchfile_files">%1$s està enviant més de %2$d fitxers per a vostè…</string>
     <string name="start_advertise">COMENÇA PUBLICITAT</string>
+    <string name="start_receive_much_files_from_pc">Rebre més de %2$d fitxers de %1$s…</string>
     <string name="start_scan">INICI ESCAN</string>
     <string name="stop_advertise">PARAR PUBLICITAT</string>
     <string name="stop_scan">STOP SCAN</string>
+    <string name="sub_title_mishare_switch">Aquesta funció es desactivarà automàticament després %d Minuts</string>
+    <string name="success_receive_much_file_from_pc">Rebut més de %2$d fitxers de %1$s. Toqueu per veure.</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -356,15 +363,19 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="tips_p2p_support_use5g_china">Per obtenir els millors resultats, utilitzeu una xarxa Wi-Fi de 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Informar</string>
+    <string name="toast_auto_close_in_minutes">El meu ús compartit es desactivarà després %d Minuts</string>
+    <string name="toast_transfering">Transferència d\'articles. Torna-ho a provar més tard.</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="transfer_intercept_to_remote">"No s'ha pogut enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"L'última versió del software AIoT instal·lada en Mi Notebooks és compatible amb Mi Share. Pots comprovar la llista de models de portàtil compatibles al lloc web de MIUI. Si el teu portàtil és en la llista, però no tens AIoT instal·lat, actualitza la BIOS i els controladors de l'adaptador de xarxa del teu portàtil, i descarrega AIoT."</string>
     <string name="transfer_to_pc_summary_new"><Data>\"L\'última versió de MIUI+ instal·lada als Mi Notebooks és compatible amb Mi Share. Podeu consultar la llista de models de portàtils compatibles al lloc web de MIUI+ (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si el vostre ordinador portàtil és a la llista, però MIUI+ no està instal·lat en ell, actualitzeu la BIOS del vostre ordinador portàtil i el controlador de l\'adaptador de xarxa i descarregueu MIUI+\".</Data></string>
     <string name="transfer_to_pc_title">Enviar fitxers a ordinadors</string>
-    <string name="transfer_to_phone_summary">"Activa Mi Share amb el botó del teló de notificacions. Després d'això, podràs veure els dispositius que hi ha a prop quan comencis a compartir una foto o un arxiu. Prem el dispositiu del destinatari per a enviar l'element que estàs compartint."</string>
+    <string name="transfer_to_phone_summary">"Activeu Comparteix Mi mitjançant el commutador de l'ombra de notificacions. Després d'això, podràs veure els dispositius propers quan comencis a compartir una foto o un fitxer. Toca el dispositiu del destinatari per enviar l'ítem que estàs compartint."</string>
+    <string name="transfer_to_phone_summary_new">Activa \"Mi Share al centre de control\" per poder enviar i rebre articles fàcilment. Després d\'activar-lo, pots compartir ítems amb dispositius propers per a %d minuts abans que s\'apagui automàticament.</string>
     <string name="transfer_to_phone_title">Enviar fitxers a telèfons</string>
-    <string name="transfer_to_summary">"Activeu Mi Share mitjançant el commutador a l'ombra Notificació. Després d’això, podreu veure els dispositius propers quan comenceu a compartir una foto o un fitxer. Toqueu el dispositiu del destinatari per enviar l'element que compartiu."</string>
+    <string name="transfer_to_summary">"Activeu Comparteix Mi mitjançant el commutador de l'ombra de notificacions. Després d'això, podràs veure els dispositius propers quan comencis a compartir una foto o un fitxer. Toca el dispositiu del destinatari per enviar l'ítem que estàs compartint."</string>
+    <string name="transfer_to_summary_new">Activa \"Mi Share al centre de control\" per poder enviar i rebre articles fàcilment. Després d\'activar-lo, pots compartir ítems amb dispositius propers per a %d minuts abans que s\'apagui automàticament.</string>
     <string name="transfer_to_title">Enviar fitxers a dispositius mòbils</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>

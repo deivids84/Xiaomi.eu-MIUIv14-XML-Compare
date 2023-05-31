@@ -111,14 +111,19 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="allow_mock_location">Permet ubicacions simulades</string>
     <string name="allow_mock_location_summary">Permet ubicacions simulades</string>
     <string name="allow_turn_screen_on">Permet activar la pantalla</string>
+    <string name="allow_turn_screen_on_description">Permet que una aplicació encengui la pantalla. Si es concedeix, l\'aplicació pot encendre la pantalla en qualsevol moment sense la vostra intenció explícita.</string>
     <string name="animator_duration_scale_title">Escala de durada de l\'animador</string>
     <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
     <string name="app_label">Informació d\'emergència</string>
     <string name="app_process_limit_title">Límit del procés de fons</string>
     <string name="available_via_carrier">Disponible a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
+    <string name="avatar_picker_title">Tria una foto de perfil</string>
     <string name="b_negative">B negatiu</string>
     <string name="b_positive">B positiu</string>
+    <string name="back_navigation_animation">Animacions predictives posteriors</string>
+    <string name="back_navigation_animation_dialog">Aquest paràmetre habilita animacions del sistema per a l\'animació predictiva de gestos. Requereix configurar per aplicació enableOnBackInvokedCallback com a true al fitxer de manifest.</string>
+    <string name="back_navigation_animation_summary">Habiliteu les animacions del sistema per a la tornada predictiva.</string>
     <string name="battery_info_status_charging">Càrrega</string>
     <string name="battery_info_status_charging_fast">Càrrega ràpida</string>
     <string name="battery_info_status_charging_slow">Càrrega lenta</string>
@@ -138,6 +143,8 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="bluetooth_active_no_battery_level">Actiu</string>
     <string name="bluetooth_battery_level">bateria %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: bateria %1$s , R: bateria %2$s</string>
+    <string name="bluetooth_bc_profile_summary_connected">Connectat al servidor BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Ús per a BA</string>
     <string name="bluetooth_connected">%1$sconnectat</string>
     <string name="bluetooth_connected_battery_level">Connectat, %1$s%2$sde bateria</string>
     <string name="bluetooth_connected_no_a2dp">%1$sconnectat (sense suport)</string>
@@ -152,16 +159,21 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum absolut Bluetooth en cas de problemes de volum amb dispositius remots, com ara volum inacceptablement fort o falta de control.</string>
     <string name="bluetooth_disconnected">Desconnectat</string>
     <string name="bluetooth_disconnecting">S\'està desconnectant…</string>
+    <string name="bluetooth_dun_profile_summary_connected">Connectat a Dun Server</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Ús per a l\'accés a la xarxa amb marcatge directe</string>
     <string name="bluetooth_enable_gabeldorsche">Habilita gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Habilita la pila de funcions Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_headset_profile_summary_connected">Connectat a l\'àudio del telèfon</string>
     <string name="bluetooth_headset_profile_summary_use_for">S\'utilitza per a l\'àudio del telèfon</string>
     <string name="bluetooth_hearing_aid_left_active">Actiu, només a l\'esquerra</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Actiu, esquerra i dreta</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Relacionats amb audiòfons</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Ús d\'audiòfons</string>
     <string name="bluetooth_hearing_aid_right_active">Actiu, només a la dreta</string>
     <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">S\'utilitza per a l\'entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Ús per a LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Connectat al mapa</string>
     <string name="bluetooth_map_profile_summary_use_for">Ús per al mapa</string>
     <string name="bluetooth_opp_profile_summary_connected">S\'ha connectat al servidor de transferència de fitxers</string>
@@ -182,9 +194,13 @@ Si aquest permís està desactivat, les alarmes existents i els esdeveniments ba
     <string name="bluetooth_profile_a2dp">Àudio multimèdia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Àudio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Àudio HD</string>
+    <string name="bluetooth_profile_bc">Perfil BC</string>
+    <string name="bluetooth_profile_broadcast">Emissió</string>
+    <string name="bluetooth_profile_dun">Accés a la xarxa amb marcatge directe</string>
     <string name="bluetooth_profile_headset">Trucades telefòniques</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfons</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Missatges de text</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a Internet</string>
@@ -220,6 +236,7 @@ del còdec d'àudio Bluetooth"</string>
     <string name="bluetooth_show_devices_without_names_summary">Es mostraran dispositius Bluetooth sense noms (només adreces MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Ordinador</string>
+    <string name="bluetooth_talkback_group">Dispositius de grup</string>
     <string name="bluetooth_talkback_headphone">Auricular</string>
     <string name="bluetooth_talkback_headset">Headset</string>
     <string name="bluetooth_talkback_imaging">Imatge</string>
@@ -229,6 +246,9 @@ del còdec d'àudio Bluetooth"</string>
     <string name="bt_hci_snoop_log">Habilita el registre de tafaneria HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Captura paquets Bluetooth. (Commuta el Bluetooth després de canviar aquesta opció de configuració)</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Canvia la sortida</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Si emets %1$s o canvieu la sortida, la vostra emissió actual s\'aturarà</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Emissió %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Aturar les emissions %1$s?</string>
     <string name="bugreport_in_power">Drecera d\'informe d\'error</string>
     <string name="bugreport_in_power_summary">Mostra un botó al menú d\'engegada per prendre un informe d\'error</string>
     <string name="cache_db_name">app_icons.db</string>
@@ -262,6 +282,7 @@ del còdec d'àudio Bluetooth"</string>
     <string name="content_description_menu_button">Menú</string>
     <string name="copy">Copiar</string>
     <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 segon} other {# segons} }</string>
+    <string name="creating_new_guest_dialog_message">Creació de convidats nous…</string>
     <string name="creating_new_user_dialog_message">Creació de…d\'usuari nou</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (vermell-verd)</string>
     <string name="daltonizer_mode_disabled">Discapacitat</string>
@@ -301,6 +322,7 @@ del còdec d'àudio Bluetooth"</string>
     <string name="debug_monitoring_category">Seguiment</string>
     <string name="debug_networking_category">Xarxes</string>
     <string name="debug_view_attributes">Habilita la inspecció de l\'atribut de visualització</string>
+    <string name="default_user_icon_description">Icona d\'usuari per defecte</string>
     <string name="delete_blob_confirmation_text">Esteu segur que voleu suprimir aquestes dades compartides?</string>
     <string name="delete_blob_text">Suprimeix les dades compartides</string>
     <string name="dev_logpersist_clear_warning_message">Quan ja no estem supervisant amb el registrador persistent, estem obligats a esborrar el resident de dades del registrador al dispositiu.</string>
@@ -317,8 +339,13 @@ del còdec d'àudio Bluetooth"</string>
     <string name="disabled">Discapacitat</string>
     <string name="disabled_by_admin">Inhabilitat per l\'administrador</string>
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
+    <string name="disabled_by_app_ops_text">Controlat per configuració restringida</string>
     <string name="done">Fet</string>
     <string name="dream_complication_title_aqi">Qualitat de l\'aire</string>
+    <string name="dream_complication_title_cast_info">Informació del repartiment</string>
+    <string name="dream_complication_title_date">Datar</string>
+    <string name="dream_complication_title_time">Hora</string>
+    <string name="dream_complication_title_weather">Temps</string>
     <string name="edit_info">Edita la informació d\'emergència</string>
     <string name="emergency_action_subtitle">Preparar una trucada per %1$s</string>
     <string name="emergency_action_title">SOS d\'emergència</string>
@@ -349,6 +376,10 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="fail_add_contact">No es pot llegir correctament la informació de contacte</string>
     <string name="fail_display_contact">"No es pot visualitzar el contacte"</string>
     <string name="fail_load_contact_picker">"No s'ha pogut trobar un selectador de contactes"</string>
+    <string name="failed_attempts_now_wiping_device">"Massa intents incorrectes. Les dades d'aquest dispositiu se suprimiran."</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Acomiadar</string>
+    <string name="failed_attempts_now_wiping_profile">Massa intents incorrectes. Aquest perfil laboral i les seves dades seran eliminades.</string>
+    <string name="failed_attempts_now_wiping_user">Massa intents incorrectes. Aquest usuari serà eliminat.</string>
     <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
     <string name="force_allow_on_external">Força permetre aplicacions a l\'exterior</string>
     <string name="force_allow_on_external_summary">Fa que qualsevol aplicació sigui apta per escriure a l\'emmagatzematge extern, independentment dels valors manifests</string>
@@ -360,6 +391,8 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="force_rtl_layout_all_locales_summary">Força la direcció de la disposició de la pantalla a RTL per a tots els llocs regionals</string>
     <string name="guest_exit_guest">Suprimeix el convidat</string>
     <string name="guest_new_guest">Afegeix un convidat</string>
+    <string name="guest_remove_guest_confirm_button">Treure</string>
+    <string name="guest_remove_guest_dialog_title">Suprimeix l\'hoste?</string>
     <string name="guest_reset_guest">Reinicialitza el convidat</string>
     <string name="guest_reset_guest_confirm_button">Reinicialitzar</string>
     <string name="guest_reset_guest_dialog_title">Voleu reinicialitzar el convidat?</string>
@@ -383,6 +416,8 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="item_view_role_description">Pestanya</string>
     <string name="keep_screen_on">Estigues despert</string>
     <string name="keep_screen_on_summary">La pantalla no dormirà mai mentre es carrega</string>
+    <string name="keyboard_layout_default_label">Omissió</string>
+    <string name="keyboard_layout_dialog_title">Trieu la disposició del teclat</string>
     <string name="keywords_adb_wireless">adb, depuració, dev</string>
     <string name="keywords_alarms_and_reminders">horari, alarma, recordatori, rellotge</string>
     <string name="launch_defaults_none">No s\'ha establert cap valor per defecte</string>
@@ -408,6 +443,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="material_timepicker_select_time">Selecciona l\'hora</string>
     <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'entrada de text per a l\'entrada de temps.</string>
     <string name="media_category">Mitjans</string>
+    <string name="media_transfer_this_device_name">Aquest telèfon</string>
     <string name="media_transfer_this_phone">Aquest telèfon</string>
     <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
@@ -452,6 +488,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
     <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'ACORD</string>
     <string name="mtrl_picker_date_header_title">Selecciona la data</string>
     <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
@@ -473,6 +510,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="mtrl_picker_toggle_to_day_selection">Toca per canviar a seleccionar un dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'entrada de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">D\'ACORD</string>
     <string name="name">Nom</string>
     <string name="no">No</string>
     <string name="no_application">Res</string>
@@ -493,6 +531,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="osu_sign_up_failed">No s\'ha pogut completar el registre. Toca per tornar-ho a provar.</string>
     <string name="overlay_display_devices_title">Simula les pantalles secundàries</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="physical_keyboard_title">Teclat físic</string>
     <string name="picture_color_mode">Mode de color de la imatge</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="pointer_location">Ubicació del punter</string>
@@ -593,8 +632,12 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="storage_category">Emmagatzematge</string>
     <string name="strict_mode">S\'ha habilitat el mode estricte</string>
     <string name="strict_mode_summary">Pantalla flaix quan les aplicacions fan operacions llargues al fil principal</string>
+    <string name="sud_back_button_label">Esquena</string>
+    <string name="sud_more_button_label">Més</string>
+    <string name="sud_next_button_label">Proper</string>
     <string name="tab_title_contacts">Contactes</string>
     <string name="tab_title_info">Informació</string>
+    <string name="tap_pencil">Amb el telèfon desbloquejat, toqueu la icona de llapis per afegir informació que es mostrarà aquí en cas d\'emergència</string>
     <string name="tap_to_sign_up">Toca per registrar-te</string>
     <string name="tether_settings_title_all">Punt d\'accés &amp; portàtil</string>
     <string name="tether_settings_title_bluetooth">Connexió Bluetooth</string>
@@ -641,6 +684,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="tts_status_ok">%1$s és totalment compatible</string>
     <string name="tts_status_requires_network">%1$s requereix connexió de xarxa</string>
     <string name="tts_status_title">Estat de llengua per defecte</string>
+    <string name="turn_screen_on_title">Encendre la pantalla</string>
     <string name="unknown">Desconegut</string>
     <string name="unknown_address">Desconegut</string>
     <string name="unknown_allergies">Desconegut</string>
@@ -655,6 +699,7 @@ Qualsevol pot llegir aquesta informació des de la pantalla de bloqueig i marcar
     <string name="use_system_language_to_select_input_method_subtypes">Utilitza les llengües del sistema</string>
     <string name="user_add_profile_item_summary">Pots restringir l\'accés a les aplicacions i al contingut del teu compte</string>
     <string name="user_add_profile_item_title">Perfil restringit</string>
+    <string name="user_add_user">Afegir usuari</string>
     <string name="user_add_user_item_summary">Els usuaris tenen les seves pròpies aplicacions i contingut</string>
     <string name="user_add_user_item_title">Usuari</string>
     <string name="user_add_user_message_long">"Podeu compartir aquest dispositiu amb altres persones creant usuaris addicionals. Cada usuari té el seu propi espai, que pot personalitzar amb aplicacions, fons de pantalla, i així successivament. Els usuaris també poden ajustar la configuració del dispositiu, com ara la Wi-Fi, que afecta tothom.
@@ -713,6 +758,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
     <string name="wifi_connected_low_quality">Baixa qualitat</string>
     <string name="wifi_connected_no_internet">Sense internet</string>
+    <string name="wifi_coverage_extend">Activa la funció d\'ampliació de la cobertura Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Activar l\'ampliació de la cobertura Wi-Fi mitjançant el punt d\'accés Wi-Fi</string>
     <string name="wifi_disabled_by_recommendation_provider">No està connectat a causa d\'una xarxa de baixa qualitat</string>
     <string name="wifi_disabled_generic">Discapacitat</string>
     <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
@@ -729,6 +776,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_metered_label">Mesurat</string>
     <string name="wifi_no_internet">Sense accés a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
+    <string name="wifi_non_persistent_mac_randomization">Aleatorització MAC no persistent Wi-Fi</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Quan aquest mode està habilitat, l\'adreça MAC d\'aquest dispositiu pot canviar cada vegada que es connecta a una xarxa que tingui activada l\'aleatorització MAC.</string>
     <string name="wifi_not_in_range">No està a l\'interval</string>
     <string name="wifi_passpoint_expired">Expirat</string>
     <string name="wifi_remembered">Desada</string>
@@ -756,6 +805,7 @@ Comproveu la validesa dels certificats"</string>
 l'emmagatzematge de credencials no està habilitat"</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
+    <string name="wifitrackerlib_admin_restricted_network">No permès per la vostra organització</string>
     <string name="wifitrackerlib_auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="wifitrackerlib_available_via_app">Disponible a través de %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Connectat a través de %1$s</string>
@@ -790,6 +840,8 @@ l'emmagatzematge de credencials no està habilitat"</string>
     <string name="wifitrackerlib_wifi_security_none">Cap</string>
     <string name="wifitrackerlib_wifi_security_owe">Obert millorat</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Punt de pas</string>
+    <string name="wifitrackerlib_wifi_standard_legacy">Llegat</string>
+    <string name="wifitrackerlib_wifi_standard_unknown">Desconegut</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sense mesurar</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">La Wi-Fi no es connectarà automàticament per ara</string>
     <string name="window_animation_scale_title">Escala d\'animació de la finestra</string>

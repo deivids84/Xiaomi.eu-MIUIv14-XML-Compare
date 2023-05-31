@@ -69,6 +69,8 @@
     <string name="auth_fail_warning">La sessió ha caducat. Torna a iniciar sessió.</string>
     <string name="back">Enrere</string>
     <string name="btn_send">Envia</string>
+    <string name="bugreport_dialog_informed_consent_content">"Hem detectat un error relacionat amb la contrasenya de la pantalla bloquejada. Podeu enviar els registres del vostre dispositiu per ajudar-nos a localitzar i resoldre el problema. La informació de registre es carregarà de manera anònima, només s'utilitzarà per a la resolució de problemes i se suprimirà un cop finalitzada la resolució de problemes."</string>
+    <string name="bugreport_dialog_informed_consent_title">Consentiment informat</string>
     <string name="bugreport_dialog_not_show_again">"No torneu a mostrar-ho"</string>
     <string name="bugreport_dialog_submit_content">&lt;Data&gt;Ara esteu guardant registres de software en aquest dispositiu. Els registres poden contenir informació personal i les vostres dades d\'ubicació. No compartiu els registres amb ningú més si no voleu que aquesta informació quedi exposada. Al seleccionar \"Accepto\" significa que heu llegit i acceptat la nostra &lt;a href=\"%1$s\"&gt;política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%2$s\"&gt;acord d\'usuari&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">Toqueu per veure-ho.</string>
@@ -77,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error…</string>
     <string name="bugreport_tool_log_dumping_desc">Es triga un minut</string>
     <string name="bugreport_tool_log_dumping_title">S\'està creant un informe d\'error</string>
+    <string name="can_not_add_more_image">"No es poden afegir més imatges o vídeos"</string>
     <string name="catch_full_log_action_cancel">Cancel·leu</string>
     <string name="catch_full_log_action_complete">Finalitza i puja</string>
     <string name="catch_full_log_action_start">Genera registres</string>
@@ -150,6 +153,18 @@ Envia aquest codi al supervisor."</string>
     <string name="discard_draft_dialog_content">"Qualsevol canvi que hagueu fet en aquest document es perdrà."</string>
     <string name="discard_draft_dialog_title">Voleu descartar l\'esborrany?</string>
     <string name="doing_query_account">S’està comprovant la informació del compte…</string>
+    <string name="dynamic_dialog_content">Esteu a punt d\'obrir la funció de registre dinàmic, que pertany al mode especial de captura de problemes, i conté la informació del registre en execució del programa (incloses les trucades al sistema, etc.). Després d\'habilitar el registre dinàmic, el sistema pot tenir problemes com el retard i la calor (que és normal). Un cop finalitzada la captura de registre, el sistema s\'apagarà automàticament. Tingueu precaució i envieu comentaris tan aviat com el problema torni a aparèixer. En seleccionar Accepta a continuació, accepteu que recopilarem les dades anteriors per a la sessió d\'enregistrament següent i ens les enviarem per resoldre el vostre problema de comentaris</string>
+    <string name="dynamic_dialog_negative_text">Discrepar</string>
+    <string name="dynamic_dialog_notification_text">Envieu els comentaris a temps després que el problema torni a aparèixer. La funció es tancarà automàticament</string>
+    <string name="dynamic_dialog_notification_title">L\'obtenció dinàmica de registres està habilitada</string>
+    <string name="dynamic_dialog_positive_text">Acordar</string>
+    <string name="dynamic_dialog_title">Nota de privacitat</string>
+    <string name="dynamic_log_float_dump_SF">abocador de superfícieflinger</string>
+    <string name="dynamic_log_float_dump_activity">Activitat d\'abocament</string>
+    <string name="dynamic_log_float_dump_window">Finestra d\'abocador</string>
+    <string name="dynamic_log_load_text">Càrrega...</string>
+    <string name="dynamic_log_restore_toast_text">El dispositiu està restaurant el registre dinàmic, proveu-ho més tard.</string>
+    <string name="dynamic_log_title">Registre dinàmic</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
@@ -179,6 +194,8 @@ Envia aquest codi al supervisor."</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="facebook_login_btn_content_description">Inicia sessió amb Facebook</string>
     <string name="failed_to_fetch_fql">"No s'ha pogut obtenir la informació de preguntes freqüents. Comprova la connexió de xarxa."</string>
+    <string name="feedback_account_inconsistent_login_hint">Sembla que heu canviat de compte. Inicieu la sessió al vostre compte anterior de Xiaomi.</string>
+    <string name="feedback_account_login_hint">Inicieu la sessió primer al vostre compte Xiaomi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="feedback_answer_detail_feedback_result">Gràcies pels teus comentaris!</string>
     <string name="feedback_answer_detail_feedback_title">Ha estat d\'ajut?</string>
@@ -222,14 +239,21 @@ Envia aquest codi al supervisor."</string>
     <string name="feedback_detail_waiting">Generant…</string>
     <string name="feedback_edit_popup_window_related_title">Això pot ser important</string>
     <string name="feedback_empty_report_list">Encara no hi han informes</string>
+    <string name="feedback_evaluation_btn_content">Taxa</string>
+    <string name="feedback_evaluation_expired_hint">"Ja no puc puntuar aquest element"</string>
+    <string name="feedback_evaluation_hint_dialog_content">Els vostres comentaris ens ajuden a millorar els nostres productes i serveis.</string>
+    <string name="feedback_evaluation_hint_dialog_title">S\'ha resolt aquest problema?</string>
+    <string name="feedback_evaluation_invitation_content">Valora la teva experiència per ajudar-nos a millorar el processament de comentaris en el futur.</string>
+    <string name="feedback_evaluation_success_dialog_content">Gràcies pels teus comentaris!</string>
+    <string name="feedback_evaluation_success_dialog_title">Valorat correctament</string>
     <string name="feedback_guess">La nostra suposició:</string>
-    <string name="feedback_history_remind_login_desc">"Inicieu sessió amb el vostre Compte Mi per veure els detalls i el progrés de l'informe"</string>
+    <string name="feedback_history_remind_login_desc">"Inicieu la sessió amb el vostre compte Xiaomi per veure els detalls i el progrés del vostre informe"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Clau JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">S\'està creant un Jira…</string>
     <string name="feedback_package_log_failed">"No s'han pogut comprimir els registres"</string>
     <string name="feedback_remind_login_btn">Inicia la sessió</string>
-    <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
+    <string name="feedback_report_remind_login_desc">Inicieu la sessió amb el vostre compte Xiaomi perquè els nostres enginyers puguin contactar amb vosaltres.</string>
     <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés de l'informe a Els meus comentaris."</string>
     <string name="feedback_reproductivity_everytime">Cada vegada</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalment</string>
@@ -315,7 +339,7 @@ Envia aquest codi al supervisor."</string>
     <string name="jump_full_log_dialog_title">Crea registres</string>
     <string name="kr_authorization_agree">D\'acord</string>
     <string name="kr_authorization_contact">Comptes</string>
-    <string name="kr_authorization_contact_desc">Per accedir a la informació del Compte Mi per identificar el dispositiu</string>
+    <string name="kr_authorization_contact_desc">Per accedir a la informació del compte Xiaomi per identificar el dispositiu</string>
     <string name="kr_authorization_exit">Surt</string>
     <string name="kr_authorization_function">Enviar comentaris, generar registres, veure preguntes freqüents</string>
     <string name="kr_authorization_log_protocol">Protocol de registre (opcional)</string>
@@ -338,6 +362,7 @@ Envia aquest codi al supervisor."</string>
     <string name="login_by_local_phone_long_text">Inicia la sessió</string>
     <string name="login_by_local_phone_short_text">Inicia la sessió</string>
     <string name="login_other">Un altre compte Mi</string>
+    <string name="login_out">Tanca la sessió</string>
     <string name="login_register_by_local_phone_long_text">Crea un compte</string>
     <string name="login_with_sns">Altres maneres d’iniciar la sessió</string>
     <string name="logo_title">Comentaris</string>
@@ -352,15 +377,16 @@ Envia aquest codi al supervisor."</string>
     <string name="mishop_login_other">Un altre compte</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -443,6 +469,29 @@ Envia aquest codi al supervisor."</string>
     <string name="month_september_shortest">set</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
+    <string name="net_diag_cancel">Cancel·lar</string>
+    <string name="net_diag_continue">Continuar</string>
+    <string name="net_diag_dialog_msg">Provar la xarxa t\'ajudarà a detectar problemes i a millorar la connexió.</string>
+    <string name="net_diag_dialog_no">No</string>
+    <string name="net_diag_dialog_title">Prova la xarxa ara?</string>
+    <string name="net_diag_dialog_yes">Sí</string>
+    <string name="net_diag_entry_link_quality">Qualitat de connexió</string>
+    <string name="net_diag_entry_network_connectivity">Connectivitat de xarxa</string>
+    <string name="net_diag_entry_network_dns">Configuració DNS</string>
+    <string name="net_diag_entry_network_latency">Retard de la xarxa</string>
+    <string name="net_diag_entry_network_parameters">Configuració de la xarxa</string>
+    <string name="net_diag_entry_network_protocol">Protocol de xarxa</string>
+    <string name="net_diag_entry_network_rssi">Qualitat del senyal</string>
+    <string name="net_diag_entry_router_topology">Encaminament de xarxa</string>
+    <string name="net_diag_header_internet">Internet</string>
+    <string name="net_diag_header_router">Encaminador</string>
+    <string name="net_diag_header_this_device">Aquest dispositiu</string>
+    <string name="net_diag_title">Xarxa de proves</string>
+    <string name="net_diag_toast_cellular_data">Per provar la xarxa, primer desactiva les dades mòbils.</string>
+    <string name="net_diag_toast_other_networks">Per provar la xarxa, primer connecteu-vos a la Wi-Fi i desconnecteu-vos d\'altres xarxes.</string>
+    <string name="net_diag_toast_other_networks_china">Per provar la xarxa, primer connecteu-vos a la Wi-Fi i desconnecteu-vos d\'altres xarxes.</string>
+    <string name="net_diag_toast_wifi_disconnected">Per provar la xarxa, primer connecta\'t a la Wi-Fi.</string>
+    <string name="net_diag_toast_wifi_disconnected_china">Per provar la xarxa, primer connecta\'t a la Wi-Fi.</string>
     <string name="net_error_info">No hi ha connexió de xarxa. Prem aquí per a anar als ajustaments.</string>
     <string name="network_err">"No es pot connectar a la xarxa."</string>
     <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
@@ -455,6 +504,7 @@ Envia aquest codi al supervisor."</string>
     <string name="non_system_app_select">Aplicacions baixades</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
+    <string name="not_support_service_in_maintenance_mode">Aquest servei no és compatible en mode manteniment</string>
     <string name="open_feedback_main">Més</string>
     <string name="open_settings">Configuració</string>
     <string name="passport_access_denied">Accés denegat</string>
@@ -544,6 +594,7 @@ Envia aquest codi al supervisor."</string>
     <string name="passport_user_id_hint">Correu/número de telèfon/ID Compte Xiaomi</string>
     <string name="passport_user_id_intro">Introdueix la contrasenya per a %1$s</string>
     <string name="passport_user_password_hint">Contraseya</string>
+    <string name="passport_vcode_what_app_send_prompt">El codi de verificació de WhatsApp s\'enviarà al telèfon de recuperació (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Primer instal·la WeChat</string>
     <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
     <string name="passport_wrong_phone_number_format">El format del número de telèfon que heu introduït no és vàlid</string>
@@ -629,7 +680,7 @@ Llegiu i accepteu la nova versió de %3$s abans de continuar."</string>
     <string name="stop_full_log_dialog_title">S\'està generant els registres…</string>
     <string name="submit_dialog_cancel">"No estic d'acord"</string>
     <string name="submit_dialog_confirm">D\'acord</string>
-    <string name="submit_dialog_content">&lt;Data&gt;Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; abans d\'enviar comentaris. Els problemes que informeu juntament amb els elements que adjunteu (inclosos els registres que poden contenir informació personal, així com la informació sobre el dispositiu i la xarxa) es penjaran als servidors de MIUI. Això ens ajudarà a localitzar i resoldre els problemes que informeu. Si informeu de problemes relacionats amb diversos dispositius, també es penjaran els registres d\'altres dispositius on s\'utilitzi el vostre Compte Mi.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content"><Data>\"Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Política de privacitat&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; abans d\'enviar comentaris. Els problemes que informeu juntament amb els elements que adjunteu (inclosos els registres que poden contenir informació personal, així com la informació sobre el vostre dispositiu i xarxa) es carregaran als servidors de MIUI. Això ens ajudarà a localitzar i resoldre els problemes que reporteu. Si informeu de problemes relacionats amb diversos dispositius, també es penjaran els registres d\'altres dispositius on s\'utilitza el vostre compte Xiaomi \".</Data></string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Els teus comentaris, així com els fitxers adjunts i els registres (podeu desmarcar les caselles corresponents als elements que no voleu carregar) s\'enviaran als servidors de MIUI. Poden contenir informació personal i les vostres dades d\'ubicació. Al seleccionar \"Accepto\" significa que heu llegit i acceptat la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>\"Els vostres comentaris, juntament amb els fitxers adjunts (si n\'hi ha), els registres (podeu desmarcar les caselles corresponents als elements que no voleu carregar), el número de telèfon o el correu electrònic s\'enviaran als servidors de MIUI. Els registres poden contenir informació personal i les vostres dades d\'ubicació. Si seleccioneu \"Accepta\" vol dir que heu llegit i acceptat la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt;.</Data></string>
     <string name="submit_dialog_not_show_again">"No ho tornis a mostrar"</string>
@@ -744,7 +795,17 @@ Mida: %2$s"</string>
     <string name="update_email_address_dialog_message">Has de verificar la teva identitat abans d\'actualitzar el correu de recuperació.</string>
     <string name="update_email_address_dialog_title">Actualitzar correu de recuperació</string>
     <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt; i Compte Mi &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privacitat&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, Compte Mi &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, Compte Mi &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"He llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, Compte Mi &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He llegit i accepto el meu compte &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Llegiu i accepteu la &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He llegit i accepto la &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat.&lt;/a&gt; El primer inici de sessió crearà automàticament un compte Xiaomi\"</Data></string>
     <string name="user_agreement_hint_first_login">"Crearem un compte automàticament si feu servir el vostre número de telèfon per primera vegada."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He llegit i accepto el meu compte &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He llegit i accepto el meu compte &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He llegit i accepto el meu compte &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;.\"</Data></string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
     <string name="user_must_known">Atenció</string>

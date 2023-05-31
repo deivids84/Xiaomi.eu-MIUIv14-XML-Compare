@@ -29,7 +29,9 @@
     <string name="abc_toolbar_collapse_description">Esfondrament</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
+    <string name="alphabet">Alfabets</string>
     <string name="am">AM</string>
+    <string name="app_name">Kit d\'eines SIM</string>
     <string name="bottomsheet_action_expand_halfway">Expandeix a la meitat</string>
     <string name="button_cancel">Cancel·la</string>
     <string name="button_no">No</string>
@@ -45,6 +47,12 @@
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="default_call_setup_msg">Trucada en curs&#8230;</string>
+    <string name="default_close_channel_msg">Canal tancat</string>
+    <string name="default_open_channel_msg">Canal obert?</string>
+    <string name="default_receive_data_msg">Recepció de dades</string>
+    <string name="default_send_data_msg">Enviament de dades</string>
+    <string name="default_setup_call_msg">S\'està configurant la trucada</string>
+    <string name="default_tone_dialog_msg">Tocant el to</string>
     <string name="digits">Dígits (0-9, *, #, +)</string>
     <string name="disable_app">Desactivada</string>
     <string name="early_morning">Matí</string>
@@ -157,6 +165,7 @@
     <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
     <string name="mtrl_picker_a11y_prev_month">Canvia al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'ACORD</string>
     <string name="mtrl_picker_date_header_title">Seleccioneu una data</string>
     <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
@@ -178,7 +187,9 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a selecció de dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'introducció de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a selecció d’any</string>
+    <string name="mtrl_timepicker_confirm">D\'ACORD</string>
     <string name="night">Vespre</string>
+    <string name="no_sim_card_inserted">Inseriu SIM per iniciar el SIM Toolkit.</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense especificar</string>
     <string name="password_toggle_content_description">Ensenya la contrasenya</string>
@@ -221,6 +232,7 @@
     <string name="stk_channel_name">Missatges del servei mòbil</string>
     <string name="stk_dialog_accept">SÍ</string>
     <string name="stk_dialog_reject">NO</string>
+    <string name="stk_dialog_title">Kit d\'eines SIM</string>
     <string name="stk_ic_remove_content">"Després de suprimir la drecera de la pantalla d'inici, encara podreu utilitzar el joc d'eines USIM mitjançant l'aplicació Configuració."</string>
     <string name="stk_ic_remove_title">Voleu suprimir el joc d\'eines USIM de la pantalla d\'inici?</string>
     <string name="stk_no_service">No hi ha cap servei disponible</string>

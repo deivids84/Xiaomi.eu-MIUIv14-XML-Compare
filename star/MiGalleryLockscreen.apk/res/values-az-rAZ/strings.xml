@@ -326,6 +326,7 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lockscreen_h5_back_tv">Geri</string>
     <string name="lockscreen_h5_close_tv">Bağlı</string>
     <string name="lockscreen_h5_refresh_btn_tv">Təzələ</string>
+    <string name="lockscreen_h5_refresh_tip">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
     <string name="lockscreen_magazine_summary">Kateqoriyaları seçin</string>
     <string name="lockscreen_magazine_system_title">İlkin</string>
     <string name="lockscreen_magazine_title">Divar kağızı Karuseli</string>

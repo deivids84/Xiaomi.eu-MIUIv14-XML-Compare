@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanç ràpid %d Segons</item>
+        <item quantity="one">Avanç ràpid %d segon</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobinar %d Segons</item>
+        <item quantity="one">Rebobinar %d segon</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
+    </plurals>
+</resources>

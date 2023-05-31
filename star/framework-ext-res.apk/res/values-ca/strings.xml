@@ -51,6 +51,7 @@
     <string name="back_double_tap">Doble toc enrere</string>
     <string name="back_tap">Toc enrere</string>
     <string name="back_triple_tap">Triple toc enrere</string>
+    <string name="backup_suspend_hint">Ara s\'està fent una còpia de seguretat d\'aquesta aplicació. Espereu fins que es completi la còpia de seguretat i torneu-ho a provar.</string>
     <string name="battery_authentic_failed_button">Ho tinc</string>
     <string name="battery_authentic_failed_title">Atenció</string>
     <string name="beep">Bip</string>
@@ -171,6 +172,9 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ara no</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ves a la Configuració</string>
     <string name="fp_nav_center_action_choose_dlg_title">Premeu ràpid per accedir a l\'escriptori</string>
+    <string name="freeform_exchange_tip">Llançar l\'aplicació per obrir</string>
+    <string name="freeform_exchange_tip2">Arrossega fins a l\'extrem per cancel·lar</string>
+    <string name="freeform_exchange_tip3">Obre la finestra flotant en mode de pantalla completa</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">Correu electrònic d\'ús freqüent</string>
     <string name="frequent_phrases">Frases freqüents</string>
@@ -323,6 +327,7 @@
     <string name="nps_description">notificació d\'estat gps</string>
     <string name="nps_mock_description">s\'està utilitzant la ubicació virtual, cal reiniciar la restauració</string>
     <string name="nps_monitor_name">Ubicació GPS</string>
+    <string name="nps_noise_description">当前环境GPS信号受到干扰,</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 minuts</string>
@@ -395,6 +400,10 @@
     <string name="relaunch_unfold_notification_content">És possible que aquesta aplicació no es mostri correctament en aquesta pantalla. Reinicieu l\'aplicació per ajustar les disposicions.</string>
     <string name="remain">Restant: %s</string>
     <string name="replace">Substituir…</string>
+    <string name="rescueparty_package_tips">Servei del sistema {0} corrupció detectada</string>
+    <string name="rescuepartyplus_config_reset_context">És possible que algunes dades s\'hagin esborrat. Toqueu per veure\'n els detalls.</string>
+    <string name="rescuepartyplus_config_reset_title">Reparació del sistema completa</string>
+    <string name="rescuepartyplus_config_reset_url">https://new.c.mi.com/global/post/109818</string>
     <string name="resolver_app_recommend_flag">Recomanat</string>
     <string name="resolver_checkbox_always">Sempre</string>
     <string name="resolver_checkbox_once">Una vegada</string>
@@ -436,6 +445,7 @@
     <string name="security_permission_open_wifi_settings">Obre la configuració Wi-Fi</string>
     <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi i dades mòbils enceses</string>
+    <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'identificador del vostre compte Xiaomi</string>
     <string name="security_share_text">Protecció de privadesa</string>
     <string name="select">Seleccionar</string>
     <string name="select_all">Seleccioneu-ho tot</string>
@@ -478,6 +488,7 @@
     <string name="standard_description">Silencia els tons de trucada per a trucades i notificacions entrants</string>
     <string name="standard_title">Silenci</string>
     <string name="start_dump_log">Inicia l\'obtenció de registres relacionats amb problemes</string>
+    <string name="start_security_permission_verify_text">Verifiqueu els permisos amb el vostre compte Xiaomi</string>
     <string name="status_bar_toggle_auto_brightness">Lluentor</string>
     <string name="status_bar_toggle_battery_saver">Estalvi de bateria</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -511,6 +522,7 @@
     <string name="sunrise">Sortida del sol</string>
     <string name="super_resolution_maintain_tips">"Encara no està disponible la súper resolució."</string>
     <string name="surprise">Sorpresa</string>
+    <string name="swipe_up_to_continue_using">Feu lliscar el dit cap amunt per continuar</string>
     <string name="switch_brand_desc_tv">Serveis de seguretat proporcionats per Spaces Mobile</string>
     <string name="switch_desc_tv">Dos espais. Un dispositiu.</string>
     <string name="switching_tv">S\'està canviant…</string>
@@ -557,15 +569,19 @@ per utilitzar la càmera frontal"</string>
     <string name="wallpaper_group_concerto_title">Concert</string>
     <string name="wallpaper_group_crystallization_subtitle">Bellesa de la ciència</string>
     <string name="wallpaper_group_crystallization_title">Cristal·lització</string>
+    <string name="wallpaper_group_curves_title">Corbes</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinàmica</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometria</string>
+    <string name="wallpaper_group_light_cycles_title">Cercles de neó</string>
+    <string name="wallpaper_group_macaron_title">Còdols</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalisme</string>
     <string name="wallpaper_group_molten_glass_title">Vidre fos</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Més fons de pantalla del sistema</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen i altres</string>
     <string name="wallpaper_group_natural_texture_title">Patrons de la natura</string>
+    <string name="wallpaper_group_petros_koublis_title">Somnis</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitat d\'Arizona</string>
     <string name="wallpaper_group_red_mars_title">Mart</string>
     <string name="wallpaper_group_sgn_mountain_title">Mont Siguniang</string>

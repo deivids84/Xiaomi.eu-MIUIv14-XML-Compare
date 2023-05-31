@@ -64,7 +64,14 @@
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
     <string name="camera_application_introduction">Podeu utilitzar aquesta aplicació per fer fotos i vídeos.</string>
     <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
+    <string name="carousel_cookies_content"><Data>Quan toqueu imatges i històries a Carrusel de fons de pantalla, s\'obriran les seves versions completes al navegador. A continuació, el nostre proveïdor de contingut extern de confiança us pot recomanar contingut i anuncis addicionals adaptats als vostres interessos. Si accepteu activar aquesta funció, col·locaran galetes al vostre navegador, tal com es descriu en aquest &lt;a href=\"%1$s\"&gt;Política de galetes&lt;/a&gt;. Si rebutgeu les galetes, Carrusel de fons de pantalla continuarà funcionant, però el seu contingut i recomanacions poden deixar de ser rellevants per a vosaltres. Sempre podeu canviar les vostres preferències a Configuració.</Data></string>
+    <string name="carousel_cookies_subtitle">Les cookies ens permeten personalitzar la vostra experiència a la pantalla bloquejada.</string>
+    <string name="carousel_cookies_title">Contingut i cookies personalitzades</string>
+    <string name="carousel_privacy"><Data>\"Llegiu i accepteu el nostre proveïdor de serveis de tercers de confiança &lt;a href=\"%1$s\"&gt;Política de privacitat&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; abans d\'utilitzar Wallpaper Carousel.\"</Data></string>
+    <string name="carousel_setting">Configurar la pantalla bloquejada</string>
+    <string name="carousel_setting_sub">Fons de pantalla Carrusel us mostrarà històries noves cada vegada que desbloquegeu el dispositiu</string>
     <string name="carrier_introduction_china">"Per tal de proporcionar-vos millors serveis, els processos que s’executen al vostre dispositiu (inclosos SystemHelper, RegService i Carrier Services) poden enviar periòdicament la informació relacionada amb el vostre dispositiu i la vostra targeta SIM (incloent-hi IMEI, IMSI, MSISDN, MEID, ICCID, adreça MAC , Versió MIUI, versió d'Android, model de dispositiu i especificacions bàsiques de maquinari), així com informació aproximada d'ubicació (inclosa la regió, les coordenades, l'identificador d'àrea i l'identificador de l'estació base) a l'operador mitjançant Wi-Fi, xarxa de dades mòbils o gratuït SMS. El transportista promet analitzar la informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no revelarà informació rellevant a tercers en cap forma que l’identifiqui personalment. La declaració específica del transportista prevaldrà. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
+    <string name="check_box_label"><Data>\"En activar aquesta funció, acceptes &lt;a href=%1$s&gt;Política de privadesa dels serveis d\'interconnectivitat Xiaomi&lt;/a &gt;.\"</Data></string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
     <string name="close">Tanca</string>
@@ -73,6 +80,8 @@
     <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
     <string name="compass_introduction">Podeu utilitzar aquesta aplicació per la navegació, així com per veure les coordenades, la pressió atmosfèrica i l\'altitud.</string>
     <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
+    <string name="congratulation_pre_label">Només un segon…</string>
+    <string name="congratulation_pre_title">Sistema de preparació…</string>
     <string name="congratulation_swipe">Feu lliscar cap amunt per accedir al sistema</string>
     <string name="congratulation_title">S\'ha completat la configuració</string>
     <string name="content_description_complete">Completada</string>
@@ -149,6 +158,38 @@
     <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
     <string name="intent_filter_verification_service">Servei de comprovació de filtratge</string>
     <string name="interconnection_communication_introduction">Els serveis de comunicació per Internet de Xiaomi us permeten descobrir, connectar-vos i comunicar-vos amb altres dispositius Xiaomi.</string>
+    <string name="interconnection_service_summary">"Els serveis d'interconnectivitat de Xiaomi permeten als vostres dispositius interactuar entre ells sense fils. Aquests serveis inclouen Mi Smart Hub, Mi Smart Play, MIUI + Beta, Mi Share i càsting.
+Per poder funcionar amb normalitat, aquests serveis necessiten connectar-se a Internet i requereixen els permisos següents:
+\u0009\u0009El meu Smart Hub:
+\u0009\u0009Activar i desactivar la Wi-Fi
+\u0009\u0009Per transferir ítems per Wi-Fi
+\u0009\u0009Gravar àudio
+\u0009\u0009Per transferir la reproducció d'àudio a dispositius connectats durant l'emissió o la rèplica de pantalla
+\u0009\u0009Accés a l'emmagatzematge
+\u0009\u0009Per transferir i rebre fitxers sense fils
+\u0009\u0009La meva quota:
+\u0009\u0009Accedir i desar fitxers i fotos al dispositiu
+\u0009\u0009Per transferir i rebre fitxers sense fils
+\u0009\u0009Lloc d'accés
+\u0009\u0009Per transferir ítems a dispositius propers per Wi-Fi i Bluetooth
+\u0009\u0009Activar i desactivar el Bluetooth
+\u0009\u0009Per trobar dispositius a prop
+\u0009\u0009Activar i desactivar la Wi-Fi
+\u0009\u0009Per trobar dispositius propers i transferir fitxers sense fils
+\u0009\u0009Connectar-se a dispositius propers
+\u0009\u0009Per trobar dispositius a prop i connectar-s'hi
+\u0009\u0009Càsting:
+\u0009\u0009Activar i desactivar el Bluetooth
+\u0009\u0009Per trobar dispositius a prop
+\u0009\u0009Activar i desactivar la Wi-Fi
+\u0009\u0009Per trobar dispositius a prop
+\u0009\u0009Lloc d'accés
+\u0009\u0009Per obtenir informació sobre dispositius propers
+\u0009\u0009Gravar àudio
+\u0009\u0009Per transferir la reproducció d'àudio a connectat durant l'emissió
+Si no accepteu concedir aquests permisos, no podreu utilitzar els serveis d'interconnectivitat Xiaomi.
+Les característiques estan subjectes a canvis. És possible que algunes de les funcions anteriors no estiguin disponibles en tots els models de dispositius ni per a totes les versions del sistema. Consulteu el lloc web MIUI (www.miui.com) per comprovar la compatibilitat."</string>
+    <string name="interconnection_service_title">Serveis d\'interconnectivitat Xiaomi</string>
     <string name="item_contents_wwarning">"Si el dispositiu desapareix, no podreu evitar que altres persones l’utilitzin i no accedeixin a les vostres dades tret que establiu un bloqueig de pantalla. Ometre igualment?"</string>
     <string name="item_facerecognition">Desbloqueig facial</string>
     <string name="item_fingerprint">Empremta</string>
@@ -163,6 +204,7 @@
     <string name="locale_picker_other_locale_title">Més regions</string>
     <string name="locale_picker_title">Seleccioneu la configuració regional</string>
     <string name="location_content">D’acord amb la llei, els transportistes mòbils poden obtenir la informació de localització dels dispositius mòbils per complir els requisits de les agències de rescat d’emergència (parcs de bombers i la policia) que persegueixen finalitats de seguretat i rescat d’emergència.</string>
+    <string name="location_introduction">Els serveis d\'ubicació proporcionen diversos serveis basats en la ubicació basats en la vostra informació d\'ubicació.</string>
     <string name="location_introduction_qcom">Els serveis d\'ubicació utilitzen el posicionament per proporcionar serveis específics d\'ubicació. Quan el dispositiu utilitza els serveis d\'ubicació, el mòdul QCC es connectarà a la xarxa per accelerar el procés de posicionament.</string>
     <string name="location_location">Les agències de rescat d’emergència poden obtenir la vostra ubicació actual a petició</string>
     <string name="lockscreen_introduction">El Carrusel de fons de pantalla us permet obtenir imatges noves entregades diàriament a la pantalla de bloqueig.</string>
@@ -171,6 +213,7 @@
     <string name="midnight">Nit</string>
     <string name="mint_keyboard_oobe_checkbox">"He llegit i he acceptat la Política de privadesa del teclat Mint"</string>
     <string name="mint_keyboard_oobe_terms">Política de privadesa del teclat Mint</string>
+    <string name="miui14_start_up_slogan">Llest. Constant. Viure.</string>
     <string name="miui_privacy_policy_no_network">"No hi ha connexió a internet. Vegeu la política de privadesa a %s."</string>
     <string name="miui_provision">Configuració inicial</string>
     <string name="miui_terms_no_network">"No hi ha connexió a internet. Vegeu els Termes del Servei a %s."</string>
@@ -269,6 +312,10 @@
     <string name="other_settings_ad_disable_summary">Activeu-ho per personalitzar els anuncis</string>
     <string name="other_settings_ad_enable">Recomanació d\'anuncis personalitzats</string>
     <string name="other_settings_ad_enable_summary">Rebeu anuncis personalitzats segons les dades del comportament</string>
+    <string name="other_settings_alarm_assistance">Ubicació per a emergències</string>
+    <string name="other_settings_alarm_assistance_privacy">Política de privacitat</string>
+    <string name="other_settings_alarm_assistance_summary">"Pots enviar la teva informació d'ubicació a la policia mitjançant SMS o dades mòbils automàticament mentre truques al 110, al 120, al 119 o al 122. Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Acord d'usuari&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Política de privacitat&lt;/a&gt; abans d'utilitzar aquesta funció."</string>
+    <string name="other_settings_alarm_assistance_user">Acord d\'usuari</string>
     <string name="other_settings_auto_update">Actualització automàtica</string>
     <string name="other_settings_auto_update_summary">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
     <string name="other_settings_auto_update_summary_v1">Permet que MIUI seleccioni el millor moment per baixar i instal·lar actualitzacions. El dispositiu es reiniciarà automàticament per aplicar els canvis.</string>
@@ -571,6 +618,7 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="terms_of_use_label_systemhelper">Servei d\'autoregistre</string>
     <string name="terms_of_use_label_translation">Servei de traducció</string>
     <string name="terms_of_use_label_unionplay_security">Element segur de UnionPay TSM (versió de Xiaomi)</string>
+    <string name="terms_of_use_label_updater">Servei d\'actualització del sistema (comprova si hi ha actualitzacions en línia i notifica sobre les noves versions)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el vostre dispositiu estigui activat, els serveis següents es connectaran a la xarxa i accediran a la vostra ubicació:</string>
     <string name="terms_of_use_label_use_network_china">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la Política de privadesa. Protegim la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Quan el dispositiu estigui activat, els serveis següents es connectaran a la xarxa:</string>
     <string name="terms_of_use_label_wallpaper">Fons de pantalla</string>

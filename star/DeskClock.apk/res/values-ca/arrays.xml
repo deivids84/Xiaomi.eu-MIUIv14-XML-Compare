@@ -10,6 +10,16 @@
         <item>L\'alarma sonarà en %2$s %3$s</item>
         <item>L\'alarma sonarà en %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarma en menys de %d minut</item>
+        <item>Alarma en %1$s</item>
+        <item>Alarma en %2$s</item>
+        <item>Alarma en %1$s %2$s</item>
+        <item>Alarma en %3$s</item>
+        <item>Alarma en %1$s %3$s</item>
+        <item>Alarma en %2$s %3$s</item>
+        <item>Alarma en %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vegada</item>
         <item>Diàriament</item>
@@ -25,7 +35,7 @@
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>L\'alarma sonarà en menys d\'1 minut.</item>
+        <item>L\'alarma s\'apagarà en menys d\'1 minut.</item>
         <item>L\'alarma sonarà en %1$s.</item>
         <item>L\'alarma sonarà en %2$s.</item>
         <item>L\'alarma sonarà en %1$s i %2$s.</item>
@@ -33,6 +43,16 @@
         <item>L\'alarma sonarà en %1$s i %3$s.</item>
         <item>L\'alarma sonarà en %2$s i %3$s.</item>
         <item>L\'alarma sonarà en %1$s, %2$s, i %3$s.</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>L\'alarma saltarà en menys de %d minut.</item>
+        <item>Saltarà l\'alarma %1$s.</item>
+        <item>Saltarà l\'alarma %2$s.</item>
+        <item>Saltarà l\'alarma %1$s i %2$s.</item>
+        <item>Saltarà l\'alarma %3$s.</item>
+        <item>Saltarà l\'alarma %1$s i %3$s.</item>
+        <item>Saltarà l\'alarma %2$s i %3$s.</item>
+        <item>Saltarà l\'alarma %1$s %2$s i %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>

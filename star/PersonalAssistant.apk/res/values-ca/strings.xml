@@ -31,6 +31,11 @@
     <string name="afternoon">Tarda</string>
     <string name="am">am</string>
     <string name="app_name">Mostra l\'indicador de punts del paginador</string>
+    <string name="bottomsheet_action_expand_halfway">Ampliar a la meitat</string>
+    <string name="character_counter_content_description">Personatges introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">S\'ha superat el límit de caràcters %1$d de %2$d</string>
+    <string name="chip_text">Xip de text</string>
+    <string name="clear_text_end_icon_content_description">Text clar</string>
     <string name="clearable_edittext_clear_description">Esborra</string>
     <string name="close">Tanca</string>
     <string name="copy">Copia</string>
@@ -39,8 +44,10 @@
     <string name="early_morning">Matí</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -51,7 +58,26 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="icon_content_description">Icona de diàleg</string>
+    <string name="item_view_role_description">Pestanya</string>
+    <string name="label">Etiquetar</string>
+    <string name="material_clock_toggle_content_description">Seleccioneu AM o PM</string>
+    <string name="material_hour_selection">Selecciona hora</string>
+    <string name="material_hour_suffix">"%1$s en punt"</string>
+    <string name="material_minute_selection">Selecciona minuts</string>
+    <string name="material_minute_suffix">%1$s Minuts</string>
+    <string name="material_slider_range_end">Fi de gamma,</string>
+    <string name="material_slider_range_start">Inici de gamma,</string>
+    <string name="material_timepicker_am">SÓC</string>
+    <string name="material_timepicker_clock_mode_description">Canvieu al mode de rellotge per a l\'entrada de temps.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecciona l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvieu al mode d\'entrada de text per a l\'entrada de temps.</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -66,6 +92,8 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Coŀleccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -120,10 +148,40 @@
     <string name="month_september_shortest">Set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
+    <string name="mtrl_chip_close_icon_content_description">Treure %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d Noves notificacions</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvi al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'ACORD</string>
+    <string name="mtrl_picker_date_header_title">Selecciona la data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format no vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilitzar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval no vàlid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar a l\'any %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora de gamma: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de finalització</string>
+    <string name="mtrl_picker_range_header_title">Seleccioneu Interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici – Data de finalització</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Datar</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canviar al mode d\'entrada de calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d\'un dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canviar al mode d\'entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">D\'ACORD</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
-    <string name="pa_accessibility_home_search">Cerca, feu doble toc per començar</string>
+    <string name="pa_accessibility_home_search">"Buscar 
+Doble toc per començar"</string>
     <string name="pa_accessibility_home_widget_drag">Arrossegant l\'element</string>
     <string name="pa_accessibility_home_widget_drag_move">Mou a la fila %1$d, posició %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">S\'ha mogut a la fila %1$d, posició %2$d</string>
@@ -134,15 +192,41 @@
     <string name="pa_accessibility_olympic_the_first">Primer lloc: %s</string>
     <string name="pa_accessibility_olympic_the_second">Segon lloc: %s</string>
     <string name="pa_accessibility_olympic_the_third">Tercer lloc: %s</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Giny %1$s de %2$d</string>
     <string name="pa_accessibility_picker_back">Torna.</string>
+    <string name="pa_accessibility_picker_bigBanner_widget_collection">Col·leccions de widgets</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Visualitza la llista d\'estris admesos</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">%1$sseleccionat , fila %2$d, número %3$d. Prem dues vegades per començar.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Feu doble toc per començar."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Premeu dues vegades per veure els detalls de la pàgina. 
+Mantén premut el botó per arrossegar."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
+点按两次即可进入详情页"</string>
     <string name="pa_accessibility_picker_home_search">Cerca ginys</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">%1$sseleccionat , fila %2$d, número %3$d. Prem dues vegades per començar.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Feu doble toc per començar."</string>
     <string name="pa_accessibility_picker_home_title">Afegeix un estri</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$sseleccionat , fila %2$d, número %3$d. Prem dues vegades per veure\'n els detalls.</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Seleccionat %s. Commutació de ginys.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Feu doble toc al botó que hi ha a sota per substituir-lo per un altre widget."</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Estat de la instal·lació: %3$s. El botó \"Canvia\" es troba a continuació. 
+Premeu dues vegades per canviar."</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Estat de la instal·lació: %3$s, 
+toca dues vegades per obtenir més informació, 
+Toca dues vegades i mantén premut per moure't."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, estat de la instal·lació: %3$s.
+Toca dues vegades per veure'n els detalls."</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$sfila %2$dnúmero %3$d. 
+Feu doble toc per veure'n els detalls."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Temes oberts</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de cerca de ginys. Feu doble toc per cancel·lar.</string>
+    <string name="pa_accessibility_picker_search_clear">Text clar</string>
     <string name="pa_accessibility_picker_search_tips">Barra de cerca de ginys. Feu doble toc per cercar.</string>
+    <string name="pa_accessibility_picker_status_installed">Instal·lat</string>
+    <string name="pa_accessibility_picker_status_uninstalled">No instal·lat</string>
+    <string name="pa_accessibility_picker_status_unkonw">Desconegut</string>
+    <string name="pa_accessibility_picker_status_upgraded">A l\'espera d\'actualitzar</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Botiga de ginys. %s seleccionats. Feu doble toc per veure\'n els detalls.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Botiga de ginys. %s seleccionats. Feu doble toc per veure\'n els detalls.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Botiga de ginys. %s seleccionats. Feu doble toc per veure\'n els detalls.</string>
@@ -157,6 +241,7 @@
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Botiga de ginys. Seleccioneu-ho per veure tots els ginys per a %s. Feu doble toc per veure tots els ginys per a %s.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Botiga de ginys. %s seleccionats. Feu doble toc per obrir la descripció dels ginys. L\'element conté %s giny.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Feu doble toc per editar.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Estat de la instal·lació: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Giny</string>
     <string name="pa_app_label">Tauler d\'aplicacions</string>
     <string name="pa_base_time_just_now">Ara mateix</string>
@@ -166,7 +251,7 @@
     <string name="pa_base_yesterday">Ahir</string>
     <string name="pa_cancel">Cancel·la</string>
     <string name="pa_clear">Neteja</string>
-    <string name="pa_covid_card_title">COVID-19</string>
+    <string name="pa_covid_card_title">Eines quotidianes</string>
     <string name="pa_cta_dialog_all_purpose">Us donem la benvinguda al Tauler d\'aplicacions! Aquesta aplicació és un lloc únic per a la feina, l\'estil de vida i els serveis relacionats amb els viatges.</string>
     <string name="pa_cta_dialog_desc_location">Per fer suggeriments de desplaçament</string>
     <string name="pa_cta_dialog_desc_phone_state">Per identificar el dispositiu en funció de l\'IMEI</string>
@@ -201,7 +286,7 @@
     <string name="pa_express_detail_list_empty_text">"Els elements poden aparèixer aquí amb un retard.
 També podeu fer un seguiment del lliurament exprés a les pàgines web oficials dels serveis de missatgeria."</string>
     <string name="pa_express_detail_more">Més</string>
-    <string name="pa_express_detail_order_number_prefix">Número de seguiment: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Número de comanda: %s</string>
     <string name="pa_express_dialog_sign_message">Voleu marcar aquest paquet com a lliurat? El seu estat ja no s\'actualitzarà després d\'això.</string>
     <string name="pa_express_empty_extra">Seguiment</string>
     <string name="pa_express_empty_title">No hi ha informació de lliurament aquí</string>
@@ -219,7 +304,6 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_express_manual_query_hint">Introduïu el número de comanda a cercar</string>
     <string name="pa_express_manual_select_company">Selecciona</string>
     <string name="pa_express_manual_select_company_toast">Seleccioneu el servei de missatgeria</string>
-    <string name="pa_express_order_number">Número de comanda: %s</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Introduïu el codi</string>
     <string name="pa_express_phone_binding_next_step">Següent</string>
     <string name="pa_express_phone_binding_number">Número de telèfon</string>
@@ -288,10 +372,15 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_express_state_unknown">Encara no hi ha dades</string>
     <string name="pa_express_tail_number">Número de comanda: %1$s</string>
     <string name="pa_express_title">Lliurament exprés</string>
+    <string name="pa_express_widget_all">Tots els paquets</string>
     <string name="pa_express_widget_list_item_desc">"Número de seguiment: "</string>
     <string name="pa_express_widget_logout">Inicia la sessió per veure els teus paquets de lliurament exprés</string>
     <string name="pa_express_widget_order_42">Introduïu el número de seguiment</string>
     <string name="pa_express_widget_post">Envia el paquet</string>
+    <string name="pa_express_widget_search">Buscar</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Feu doble toc per filtrar altres seleccions.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Feu doble toc per seleccionar %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Feu doble toc per seleccionar.</string>
     <string name="pa_filter_replace_bt">Aplica</string>
     <string name="pa_filter_search_title">Resultats per a \"%s\"</string>
     <string name="pa_filter_title">Més ginys</string>
@@ -309,8 +398,8 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_lite_setting_private_auth">Permet analitzar l\'ús de l\'aplicació</string>
     <string name="pa_lite_setting_private_auth_summary">Els suggeriments de l\'aplicació es basaran en les vostres dades d\'ús</string>
     <string name="pa_lite_setting_private_policy">Política de privadesa</string>
-    <string name="pa_lite_setting_service_covid">COVID-19</string>
-    <string name="pa_lite_setting_service_covid_summry">Informació i serveis relacionats amb la pandèmia</string>
+    <string name="pa_lite_setting_service_covid">Eines quotidianes</string>
+    <string name="pa_lite_setting_service_covid_summry">Les funcions que utilitzeu diàriament, tot en un sol lloc</string>
     <string name="pa_lite_setting_service_express">Lliurament exprés</string>
     <string name="pa_lite_setting_service_express_summry">Fes un seguiment dels teus paquets de lliurament exprés</string>
     <string name="pa_lite_setting_service_management">Administra els serveis</string>
@@ -324,6 +413,8 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_lite_setting_service_quick_func_summary">Obrir aplicacions i serveis d\'ús freqüent</string>
     <string name="pa_lite_setting_service_search">Buscar</string>
     <string name="pa_lite_setting_service_search_summary">Cerca al web i a aquest dispositiu</string>
+    <string name="pa_lite_setting_service_shopping">Compres</string>
+    <string name="pa_lite_setting_service_shopping_summary">Aconsegueix descomptes i ofertes de compres</string>
     <string name="pa_lite_setting_service_sports">Esportiu</string>
     <string name="pa_lite_setting_service_sports_summary">Últimes notícies sobre els equips que segueixes</string>
     <string name="pa_lite_setting_service_stock">Accions</string>
@@ -345,6 +436,8 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_olympic_label">Medalles</string>
     <string name="pa_olympic_medal_count">Total de medalles</string>
     <string name="pa_olympic_medals_description">Consulta les classificacions de medalles olímpiques</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Si desactives la Caixa forta d'aplicacions, no podràs utilitzar widgets ni accedir-hi lliscant cap a la dreta a la pantalla d'inici. Apagar de totes maneres?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Desactiveu la volta d\'aplicacions?</string>
     <string name="pa_operation_switch_summary">Visualitza els ginys populars recents</string>
     <string name="pa_operation_switch_title">Promocions populars</string>
     <string name="pa_pad_privacy_text">Ginys de la pantalla d\'inici</string>
@@ -366,6 +459,7 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Actualitza l\'aplicació per utilitzar els seus widgets</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instal·la l\'aplicació</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Actualitza l\'aplicació</string>
+    <string name="pa_picker_detail_bt_loading">Només un segon…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Obriu el dipòsit d\'aplicacions per afegir ginys des d\'allà.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Utilitza el dipòsit d\'aplicacions</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancel·lar</string>
@@ -388,8 +482,13 @@ També podeu fer un seguiment del lliurament exprés a les pàgines web oficials
     <string name="pa_picker_detail_net_error">Error de xarxa. Toca per tornar-ho a provar.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Només un segon…</string>
     <string name="pa_picker_detail_small_widget">Widgets</string>
+    <string name="pa_picker_detail_state_error_retry">Alguna cosa ha anat malament. Prova una altra vegada.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Comprat</string>
+    <string name="pa_picker_detail_suit_price_placeholder">Moneda 5 Mi</string>
     <string name="pa_picker_detail_theme_app_cta">Configuració</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Per poder utilitzar aquest giny, permeteu que els temes es connectin primer a Internet. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Registra\'t</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Inicieu la sessió primer al vostre compte Xiaomi. "</string>
     <string name="pa_picker_detail_vp2_indicator">Pàgina seleccionada %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Aquest element es descarregarà per Wi-Fi</string>
     <string name="pa_picker_empty">"Els ginys no estan disponibles en aquesta versió de l'aplicació. 
@@ -399,6 +498,13 @@ Estigueu atents!"</string>
     <string name="pa_picker_home_request_failed">Error de xarxa</string>
     <string name="pa_picker_home_search_hint">Cerca ginys</string>
     <string name="pa_picker_home_title">Afegeix estris</string>
+    <string name="pa_picker_image_text_share">Compartir</string>
+    <string name="pa_picker_image_text_share_copy_url">Copia l\'URL</string>
+    <string name="pa_picker_image_text_share_more">Més</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">Favorits de WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">WeChat Moments</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">"No s'han pogut carregar els elements. Torneu."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Ginys d\'Android</string>
     <string name="pa_picker_list_app_title">Aplicacions amb widgets</string>
@@ -410,11 +516,22 @@ Estigueu atents!"</string>
     <string name="pa_picker_loading">Només un segon…</string>
     <string name="pa_picker_maml_list_activity_title">Afegeix estris</string>
     <string name="pa_picker_no_relevant_content">"No s'han pogut trobar resultats"</string>
+    <string name="pa_picker_order_go_to_allow_cta">Permetre</string>
+    <string name="pa_picker_order_go_to_login">Registra\'t</string>
+    <string name="pa_picker_order_login_xiaomi_account">Inicieu la sessió al vostre compte Xiaomi per poder utilitzar aquesta funció.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Permeteu que aquesta aplicació es connecti a Internet per poder utilitzar aquesta funció.</string>
     <string name="pa_picker_permission_denied">"El dipòsit d'aplicacions ha d'accedir a l'estat d'instal·lació
 per mostrar els estris."</string>
+    <string name="pa_picker_purchase_order">Comprat</string>
+    <string name="pa_picker_recommend_add_limit_toast">"No es poden afegir més widgets"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Afegeix un widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Afegeix un widget</string>
+    <string name="pa_picker_recommend_download_tip">Quan afegiu un widget, l\'aplicació associada es baixarà automàticament</string>
+    <string name="pa_picker_recommend_title">Recomanat per a tu</string>
     <string name="pa_picker_request">Configuració</string>
     <string name="pa_picker_retry">Torneu</string>
     <string name="pa_picker_search">Cerca</string>
+    <string name="pa_picker_search_card_filter_button_text">Tots els ginys</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtra</string>
     <string name="pa_picker_search_card_more_all_applications">Més aplicacions</string>
     <string name="pa_picker_search_card_more_all_suits">Més conjunts de ginys</string>
@@ -429,13 +546,17 @@ per mostrar els estris."</string>
     <string name="pa_picker_search_result_type_widget">Ginys</string>
     <string name="pa_picker_suit_list_activity_title">Paquets de personalització</string>
     <string name="pa_picker_tab_title_category">Categories</string>
-    <string name="pa_picker_tab_title_recommend">Recomanat</string>
+    <string name="pa_picker_tab_title_fun">Descobrir</string>
+    <string name="pa_picker_tab_title_recommend">Hotels destacats</string>
+    <string name="pa_picker_theme_app_version_error">S\'ha produït un error</string>
     <string name="pa_picker_tips_count_limit_forbidden">"No es poden afegir més estris. Suprimeix els estris antics per afegir-ne de nous."</string>
     <string name="pa_picker_toast_add_successfully">S\'ha afegit correctament</string>
     <string name="pa_picker_toast_count_limit_forbidden">"No es poden afegir més estris"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"No es poden afegir més estris d'aquest tipus"</string>
     <string name="pa_picker_toast_count_limit_warning">S\'ha afegit correctament. Recorda que col·locar massa estris a la pantalla d\'inici pot alentir el dispositiu.</string>
     <string name="pa_picker_toast_screen_cell_locked">"La disposició de la pantalla d'inici està bloquejada. No es poden afegir estris."</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, no instal·lat</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, actualització disponible</string>
     <string name="pa_privacy_text">Privacitat</string>
     <string name="pa_read_storage_permission_description">Per mostrar el fons de pantalla de la pantalla d\'inici com a fons de l\'aplicació</string>
     <string name="pa_recommend_add_btn">Començar</string>
@@ -464,6 +585,9 @@ per mostrar els estris."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"No podreu utilitzar el widget \"Suggeriments d'aplicacions\" després de desactivar aquesta funció. Desactivar de totes maneres?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenció</string>
     <string name="pa_setting_bugreport">Retroalimentació</string>
+    <string name="pa_setting_perm_empty">Aquí encara no hi ha res</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obtenir recomanacions de widgets basats en els vostres interessos</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Recomanacions personalitzades</string>
     <string name="pa_setting_privacy_auth">Permet analitzar l\'ús de l\'aplicació</string>
     <string name="pa_setting_privacy_auth_summary">"Rebràs suggeriments en funció dels teus hàbits d'ús"</string>
     <string name="pa_setting_privacy_category_perm">Permisos</string>
@@ -492,6 +616,7 @@ per mostrar els estris."</string>
     <string name="pa_setting_privacy_policy_update_title">Política de privadesa actualitzada</string>
     <string name="pa_setting_privacy_revoke_cta">Retirada del consentiment</string>
     <string name="pa_setting_privacy_revoke_cta_message">"Si continueu, retirareu el vostre consentiment a la Política de privadesa de l'aplicació. La informació personal ja recollida i retinguda s'eliminarà en el termini específic d'acord amb les lleis i regulacions aplicables, llevat que es requereixi el contrari. Atès que App vault proporciona els seus serveis basats en la recopilació de la informació personal necessària, la vostra retirada del consentiment es mantindrà com a neda a acceptar serveis de volta d'aplicacions. Retirar el consentiment ara?"</string>
+    <string name="pa_setting_privacy_revoke_cta_negative">Podeu retirar el consentiment en deu segons</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Retirar</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Retirada (%ds)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Retirar el consentiment a la Política de privadesa de l\'app vault</string>
@@ -502,6 +627,7 @@ per mostrar els estris."</string>
     <string name="pa_setting_privacy_revoke_positive">Ho tinc</string>
     <string name="pa_setting_privacy_third_parties">Declaració sobre l\'intercanvi de dades amb tercers</string>
     <string name="pa_setting_privacy_view_priv">Visualitza la política de privadesa</string>
+    <string name="pa_setting_simplify_title_bar">Volta d\'aplicacions</string>
     <string name="pa_setting_version">Versió：%1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Us donem la benvinguda a Compres! Podeu utilitzar aquest giny per obtenir descomptes i ofertes de compres. Llegiu i accepteu la nostra Declaració sobre serveis de tercers i la Política de privadesa abans de continuar.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Termes i condicions</string>
@@ -524,7 +650,10 @@ per mostrar els estris."</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Toca per donar permisos per utilitzar Shopping</string>
     <string name="pa_shopping_widget_no_network_content_desc">"No s'ha pogut connectar a la xarxa"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Accepteu la Política de privadesa de Compres per poder utilitzar aquesta funció. Toqueu per veure-ho.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Compres</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Concediu permisos a aquest widget per obtenir cupons i ofertes per a les vostres plataformes de comerç electrònic preferides</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Configuració</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Concedir</string>
     <string name="pa_shopping_widget_title">Compres</string>
     <string name="pa_shortcut_accessibility_description">"El dipòsit d'aplicacions proporciona dreceres per a aplicacions de tercers seleccionades. Aquestes dreceres no funcionaran si desactives la funció."</string>
     <string name="pa_shortcut_accessibility_service">Tauler d\'aplicacions</string>
@@ -569,6 +698,7 @@ per mostrar els estris."</string>
     <string name="pa_sports_fav_league">Els meus esdeveniments</string>
     <string name="pa_sports_fav_title">Els meus equips</string>
     <string name="pa_sports_followed">Següent</string>
+    <string name="pa_sports_jump_error">"No s'ha pogut obrir la pàgina a causa d'un error."</string>
     <string name="pa_sports_league_detail_download_douyu">Baixa Douyu per veure</string>
     <string name="pa_sports_league_detail_download_hupu">Baixa Hupu per veure</string>
     <string name="pa_sports_league_detail_view">Vista</string>
@@ -628,6 +758,7 @@ per mostrar els estris."</string>
     <string name="pa_vertical_center">Distribució vertical. Alineat al centre.</string>
     <string name="pa_vertical_left">Distribució vertical. Alineat a l\'esquerra.</string>
     <string name="pa_vertical_right">Distribució vertical. Alineat a la dreta.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Només un segon…</string>
     <string name="pa_widget_menu_edit">Edita</string>
     <string name="pa_widget_menu_remove">Suprimeix</string>
     <string name="pa_widget_menu_replace">Canvia</string>
@@ -639,6 +770,14 @@ per mostrar els estris."</string>
     <string name="pa_widget_need_download_permission">Permisos</string>
     <string name="pa_widget_need_download_privacy">Privadesa</string>
     <string name="pa_widget_need_download_version">Versió %1$s</string>
+    <string name="pa_world_cup_widget_authority_tip">Concediu permisos per poder veure informació sobre els partits de la Copa Mundial de la FIFA.</string>
+    <string name="pa_world_cup_widget_authorize">Concedir</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"No s'ha pogut completar l'acció. Espereu un minut o dos i torneu-ho a provar."</string>
+    <string name="pa_world_cup_widget_request_error_tip">S\'ha produït un error de xarxa</string>
+    <string name="pa_world_cup_widget_request_retry">Prova una altra vegada</string>
+    <string name="pa_world_cup_widget_reserve_success_toast">"Rebràs un recordatori abans que comenci el partit"</string>
+    <string name="pa_world_cup_widget_title">Copa del Món de Futbol</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">pm</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="saturday">Dissabte</string>

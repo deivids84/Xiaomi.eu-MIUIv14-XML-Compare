@@ -66,6 +66,14 @@
         <item>Alt</item>
         <item>Més Alt</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Equilibrada</item>
+        <item>Alta qualitat</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Equilibrada</item>
+        <item>Omissió</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Alta velocitat</item>
         <item>Equilibrat</item>

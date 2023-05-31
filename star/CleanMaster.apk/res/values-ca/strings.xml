@@ -326,6 +326,15 @@
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
     <string name="evening">Tarda</string>
+    <string name="exo_download_completed">Descàrrega completada</string>
+    <string name="exo_download_description">Descarregar</string>
+    <string name="exo_download_downloading">Descarregar</string>
+    <string name="exo_download_failed">Descàrrega fallida</string>
+    <string name="exo_download_notification_channel_name">Descarrega</string>
+    <string name="exo_download_paused">Les baixades s\'han posat en pausa</string>
+    <string name="exo_download_paused_for_network">Descàrregues en espera de xarxa</string>
+    <string name="exo_download_paused_for_wifi">Descàrregues esperant WiFi</string>
+    <string name="exo_download_removing">Eliminació de baixades</string>
     <string name="expand_button_title">Opcions avançades</string>
     <string name="facebook_clean_exit_confirm_cancel">Mantén l\'escaneig</string>
     <string name="facebook_clean_exit_confirm_msg">"Encara no s'ha finalitzat d'analitzar Facebook. Voleu aturar l'escaneig?"</string>
@@ -1048,6 +1057,11 @@
     <string name="wqfile_group_chat_pic">Imatges de missatgers</string>
     <string name="wqfile_group_chat_video">Vídeos de missatgers</string>
     <string name="wqfile_group_chat_voice">Missatges de veu</string>
+    <string name="yandex_ads_internal_tools_domain_text">domini</string>
+    <string name="yandex_ads_internal_tools_price_text">preu</string>
+    <string name="yandex_ads_internal_tools_rating_text">Qualificació</string>
+    <string name="yandex_ads_internal_tools_review_count_text">Recompte de revisions</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">Patrocinat</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ahir</string>
 </resources>

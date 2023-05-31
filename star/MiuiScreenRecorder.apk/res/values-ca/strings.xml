@@ -208,6 +208,7 @@ Toqueu per veure'l"</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="privacy_settings">Privadesa</string>
     <string name="quit_recording">Surt de la gravadora de pantalla</string>
+    <string name="record_time_too_short">El vídeo gravat és massa curt</string>
     <string name="recording_failure">"No s'ha pogut gravar, torna a començar"</string>
     <string name="recording_max_size">"La gravació s'ha aturat i s'ha desat perquè el fitxer de vídeo ha arribat al seu límit de mida. Comença a gravar des d'on ho has deixar si encara no has acabat."</string>
     <string name="recording_without_mic">"El micròfon està ocupat i no pot gravar so ara."</string>

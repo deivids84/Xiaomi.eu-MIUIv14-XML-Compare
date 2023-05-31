@@ -49,6 +49,7 @@
     <string name="autofill_password_activity_label">Codis de verificació</string>
     <string name="autofill_service_label">Gestiona les contrasenyes</string>
     <string name="autofill_setting_activity_label">Gestiona les contrasenyes</string>
+    <string name="back_button_label">Esquena</string>
     <string name="cancel">Cancel·la</string>
     <string name="change_passwork_dialog_content">"Ja heu desat una contrasenya per a aquest compte. Voleu actualitzar la contrasenya ara?"</string>
     <string name="change_passwork_dialog_title">Voleu actualitzar la contrasenya?</string>

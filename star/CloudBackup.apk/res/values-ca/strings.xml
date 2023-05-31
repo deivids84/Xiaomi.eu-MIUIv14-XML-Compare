@@ -45,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Aconsegueix més espai d\'emmagatzematge</string>
     <string name="backup_action_check_network">Comproveu la configuració de xarxa</string>
     <string name="backup_action_clean_disk_space">Allibereu espai</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Feu una còpia de seguretat dels vostres articles</string>
     <string name="backup_action_long_time_not_backup_action">Còpia de seguretat</string>
     <string name="backup_action_long_time_not_backup_title">No hi ha còpies de seguretat recents</string>
     <string name="backup_action_no_space_with_wechat_off_content">No hi ha prou espai d’emmagatzematge al núvol per fer una còpia de seguretat d’elements d’aquest dispositiu. Toqueu per veure les opcions d\'emmagatzematge al núvol disponibles.</string>
@@ -56,6 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Concedeix els permisos necessaris per fer una còpia de seguretat dels elements</string>
     <string name="backup_failed_reason_cloud_space_not_enough">No queda prou emmagatzematge al núvol per desar aquesta còpia de seguretat. Actualitzeu el vostre pla o allibereu espai d\'emmagatzematge al núvol.</string>
     <string name="backup_failed_reason_disk_space_not_enough">No hi ha prou espai d\'emmagatzematge. Primer allibereu espai.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Concediu els permisos necessaris a Configuració per fer còpies de seguretat dels elements</string>
     <string name="backup_failed_reason_network_error">Comproveu la connexió i proveu-ho de nou</string>
     <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
     <string name="backup_now">Fes la còpia de seguretat</string>
@@ -152,6 +154,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">El dispositiu ha d\'estar connectat a WLAN, carregant-se i bloquejat</string>
     <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
     <string name="cloud_backup_detail_title">Elements de la còpia de seguretat</string>
+    <string name="cloud_backup_get_installed_apps_summary">Per crear còpies de seguretat de les aplicacions de la pantalla d\'inici i restaurar-les</string>
+    <string name="cloud_backup_get_installed_apps_title">Accedeix a la llista d\'apps instal·lades en aquest dispositiu</string>
     <string name="cloud_backup_have_data">S\'ha trobat una còpia al Núvol Xiaomi</string>
     <string name="cloud_backup_in_cancel">Cancel·leu</string>
     <string name="cloud_backup_in_process">S\'està fent una còpia de seguretat</string>
@@ -171,6 +175,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">Es reiniciarà la vostra pantalla d\'inici. Les aplicacions de còpia de seguretat es baixaran automàticament.</string>
     <string name="confirm_restore_title">Restaura</string>
     <string name="copy">Copia</string>
+    <string name="cta_dialog_all_purpose">"Benvingut a Cloud backup! Podeu utilitzar aquesta aplicació per fer una còpia de seguretat del disseny de la pantalla d'inici, les aplicacions, la configuració del sistema i les dades de WeChat al núvol. Assegura't d'utilitzar l'última versió per poder aprofitar totes les nostres funcions."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Per crear còpies de seguretat i restaurar aplicacions</string>
+    <string name="cta_dialog_permission_description_storage">Per fer còpies de seguretat i restaurar elements</string>
     <string name="customization"><u>Personalitzar</u></string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
@@ -189,6 +196,10 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_app_usage_consent_message">Aquesta funció ha d’accedir a les dades d’ús de les aplicacions per poder estimar la mida de les còpies de seguretat de WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permetre l\'accés a les dades d\'ús de l\'aplicació</string>
     <string name="dialog_app_usage_denied">Doneu permís \"Accés a l\'ús\" de la còpia de seguretat a la configuració per poder fer una còpia de seguretat dels elements.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Per poder fer còpies de seguretat regularment de tots els elements importants automàticament, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Per poder fer còpies de seguretat regularment de tots els elements importants automàticament, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Ho tinc</string>
+    <string name="dialog_auto_backup_condition_normal_title">Feu una còpia de seguretat dels vostres articles</string>
     <string name="dialog_backup_failed">"No s'ha pogut fer la còpia de seguretat"</string>
     <string name="dialog_btn_cancel_backup">Cancel·leu</string>
     <string name="dialog_btn_confirm2">Entesos</string>
@@ -198,6 +209,8 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_btn_restore_skip">Restaura més tard</string>
     <string name="dialog_button_agree">Permet</string>
     <string name="dialog_button_disagree">"No ho permetis"</string>
+    <string name="dialog_button_get_installed_apps_agree">Configuració</string>
+    <string name="dialog_button_get_installed_apps_disagree">Cancel·lar</string>
     <string name="dialog_buy_cloud_space">Actualitza</string>
     <string name="dialog_cancel_backup_cancel">Cancel·leu</string>
     <string name="dialog_cancel_backup_confirm">D\'acord</string>
@@ -206,6 +219,8 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_cloud_space_not_enough">Aquesta còpia de seguretat requereix %1$s d\'espai d\'emmagatzematge al núvol gratuït. Actualitzeu el pla d’emmagatzematge per fer una còpia de seguretat d’elements.</string>
     <string name="dialog_content_cancel_backup">Les dades ja penjades es perdran si cancel·leu la còpia de seguretat. Voleu cancel·lar de totes maneres?</string>
     <string name="dialog_content_cancel_restore">Les dades ja restaurades es conservaran si deixeu de restaurar-les. Voleu aturar les restauracion ara?</string>
+    <string name="dialog_get_installed_apps_consent_message">Per poder fer còpies de seguretat automàticament, concediu permís a aquesta aplicació a Configuració per accedir a la llista d\'aplicacions instal·lades al dispositiu i seleccioneu Permet sempre.</string>
+    <string name="dialog_get_installed_apps_consent_title">Permisos necessaris</string>
     <string name="dialog_msg_overwrite_backup">La còpia de seguretat local és diferent de la de Núvol Xiaomi. Si continueu, la còpia de seguretat actual sobreescriurà l\'anterior.</string>
     <string name="dialog_msg_restore_require_wlan">La restauració dels fitxers de la còpia de seguretat requereix Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
@@ -214,6 +229,11 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_negative_btn_cancel_restore">Atura l\'enregistrament</string>
     <string name="dialog_positive_btn_cancel_backup">"No cancel·lis"</string>
     <string name="dialog_positive_btn_cancel_restore">"No les aturis"</string>
+    <string name="dialog_recommend_wechat_backup_content">Ara podeu fer una còpia de seguretat de les converses de WeChat i altres dades a Xiaomi Cloud. Per poder fer còpies de seguretat dels vostres articles, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Ara podeu fer una còpia de seguretat de les converses de WeChat i altres dades a Xiaomi Cloud. Per poder fer còpies de seguretat dels vostres articles, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Ho tinc</string>
+    <string name="dialog_recommend_wechat_backup_positive">Aprèn més</string>
+    <string name="dialog_recommend_wechat_backup_title">Crear una còpia de seguretat de les dades de WeChat</string>
     <string name="dialog_title_cancel_backup">Cancel·la a còpia de seguretat</string>
     <string name="dialog_title_cancel_restore">Atura l\'enregistrament</string>
     <string name="dialog_title_require_wlan">Es necessita Wi-Fi</string>
@@ -311,6 +331,10 @@ Envieu aquest codi al tècnic."</string>
     <string name="loading_progress_num">Carregat %s%%</string>
     <string name="loading_user_backup">S\'està carregant còpies de seguretat de l\'usuari…</string>
     <string name="managespace_delete_backup">Elimineu</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Tancar</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Configuració</string>
+    <string name="manual_request_permissions_dialog_description">"Si no concedeixes permisos per a \"%s\", no rebràs notificacions oportunes sobre còpies de seguretat infructuoses i altres accions importants. Podeu concedir aquest permís a Configuració."</string>
+    <string name="manual_request_permissions_dialog_title">Permisos necessaris</string>
     <string name="menu_item_managespace">Gestiona l\'espai</string>
     <string name="menu_item_sort">Ordena per</string>
     <string name="menu_item_sort_name">Nom</string>
@@ -426,6 +450,13 @@ Envieu aquest codi al tècnic."</string>
     <string name="remove_task_in_process">S\'està eliminant…</string>
     <string name="remove_task_unfinished">Encara no s\'ha eliminat</string>
     <string name="remove_unfinished">S\'està eliminant, proveu-ho de nou més tard</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Ara pots fer còpies de seguretat de les dades de WeChat. Toqueu per obtenir més informació.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Crear una còpia de seguretat de les dades de WeChat</string>
+    <string name="request_notification_permission_dialog_confirm">Ho tinc</string>
+    <string name="request_permission_post_notification">Per enviar notificacions sobre còpies de seguretat al núvol</string>
+    <string name="request_permission_post_notification_title">Notificacions</string>
+    <string name="request_permissions_dialog_description">Atorga permisos per enviar notificacions i recordatoris per poder gaudir de tots els serveis que ofereix Cloud backup.</string>
+    <string name="request_permissions_dialog_title">Permisos necessaris</string>
     <string name="restore_app_order_finish">Fet</string>
     <string name="restore_app_order_loading">Un moment…</string>
     <string name="restore_app_order_retry">Proveu-ho de nou</string>
@@ -495,6 +526,8 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="session_failed_disk_no_space_restore_detail">Es requereix com a mínim %s per restaurar els elements.</string>
     <string name="session_failed_disk_no_space_title">Emmagatzematge intern insuficient. Esborra l\'emmagatzematge i proveu-ho de nou.</string>
     <string name="session_failed_dist_no_space_btn_text">Neteja l\'emmagatzematge</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Per poder fer còpies de seguretat automàticament, concediu permís a aquesta aplicació a Configuració per accedir a la llista d\'aplicacions instal·lades al dispositiu i seleccioneu Permet sempre.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Permisos necessaris</string>
     <string name="session_failed_no_server_response_title">"No s'ha pogut connectar al servidor."</string>
     <string name="session_failed_override_detail">La còpia de seguretat local és diferent de la de Núvol Xiaomi. Si continueu, la còpia de seguretat actual sobreescriurà l\'anterior. Voleu sobreescriure-la ara?</string>
     <string name="session_failed_override_title">S\'està sobreescrivint la còpia de seguretat</string>
@@ -525,6 +558,8 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici enceses</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">S\'ha fet una còpia de seguretat de les dades de WeChat. Toqueu per obtenir més informació.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Còpia de seguretat automàtica completada</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">diumenge</string>
     <string name="sunday_short">dg.</string>

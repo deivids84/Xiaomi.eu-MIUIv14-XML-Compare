@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="screen_key_position_action">
+        <item>Botó de menú a l\'esquerra, botó enrere a la dreta</item>
+        <item>Botó enrere a l\'esquerra, botó Menú a la dreta</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Mostra la safata d\'aplicacions recents</item>
+        <item>Mostrar menú</item>
+    </string-array>
+</resources>

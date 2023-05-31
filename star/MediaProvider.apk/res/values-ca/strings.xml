@@ -27,23 +27,190 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Col·lapsar</string>
+    <string name="add">Sumar</string>
     <string name="allow">Permetre</string>
     <string name="app_label">Emmagatzematge multimèdia</string>
     <string name="artist_label">Artista</string>
+    <string name="bottomsheet_action_expand_halfway">Ampliar a la meitat</string>
     <string name="cache_clearing_dialog_text">%s vol esborrar alguns fitxers temporals. Això pot resultar en un augment de l\'ús de la bateria o de les dades mòbils.</string>
     <string name="cache_clearing_dialog_title">Esborra els fitxers temporals de l\'aplicació</string>
     <string name="cache_clearing_in_progress_title">S\'estan netejant els fitxers temporals de l\'aplicació…</string>
+    <string name="character_counter_content_description">Personatges introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">S\'ha superat el límit de caràcters %1$d de %2$d</string>
+    <string name="chip_text">Xip de text</string>
     <string name="clear">Clar</string>
+    <string name="clear_text_end_icon_content_description">Text clar</string>
     <string name="deny">Negar</string>
+    <string name="deselect">Desseleccionar</string>
+    <string name="deselected">Deseleccionat</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exo_controls_cc_disabled_description">Activar els subtítols</string>
+    <string name="exo_controls_cc_enabled_description">Desactivar els subtítols</string>
+    <string name="exo_controls_fastforward_description">Avanç ràpid</string>
+    <string name="exo_controls_fullscreen_enter_description">Entrar a pantalla completa</string>
+    <string name="exo_controls_fullscreen_exit_description">Sortir de pantalla completa</string>
+    <string name="exo_controls_hide">Amaga els controls del reproductor</string>
+    <string name="exo_controls_next_description">Proper</string>
+    <string name="exo_controls_overflow_hide_description">Amaga la configuració addicional</string>
+    <string name="exo_controls_overflow_show_description">Mostrar opcions de configuració addicionals</string>
+    <string name="exo_controls_pause_description">Pausa</string>
+    <string name="exo_controls_play_description">Jugar</string>
+    <string name="exo_controls_playback_speed">Velocitat</string>
+    <string name="exo_controls_previous_description">Anterior</string>
+    <string name="exo_controls_repeat_all_description">Mode actual: repeteix-ho tot. Commuta el mode de repetició.</string>
+    <string name="exo_controls_repeat_off_description">Mode actual: no repetiu cap. Commuta el mode de repetició.</string>
+    <string name="exo_controls_repeat_one_description">Mode actual: repeteix-ne un. Commuta el mode de repetició.</string>
+    <string name="exo_controls_rewind_description">Rebobinar</string>
+    <string name="exo_controls_seek_bar_description">Progrés de la reproducció</string>
+    <string name="exo_controls_settings_description">Configuració</string>
+    <string name="exo_controls_show">Mostrar els controls del reproductor</string>
+    <string name="exo_controls_shuffle_off_description">Activar el mode aleatori</string>
+    <string name="exo_controls_shuffle_on_description">Desactivar el mode aleatori</string>
+    <string name="exo_controls_stop_description">Parar</string>
+    <string name="exo_controls_vr_description">Mode VR</string>
+    <string name="exo_download_completed">Descàrrega completada</string>
+    <string name="exo_download_description">Descarregar</string>
+    <string name="exo_download_downloading">Descarregar</string>
+    <string name="exo_download_failed">Descàrrega fallida</string>
+    <string name="exo_download_notification_channel_name">Descarrega</string>
+    <string name="exo_download_paused">Les baixades s\'han posat en pausa</string>
+    <string name="exo_download_paused_for_network">Descàrregues en espera de xarxa</string>
+    <string name="exo_download_paused_for_wifi">Descàrregues esperant Wi-Fi</string>
+    <string name="exo_download_removing">Eliminació de baixades</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_role_alternate">Alternar</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentari</string>
+    <string name="exo_track_role_supplementary">Suplementari</string>
+    <string name="exo_track_selection_auto">Auto</string>
+    <string name="exo_track_selection_none">Cap</string>
+    <string name="exo_track_selection_title_audio">Àudio</string>
+    <string name="exo_track_selection_title_text">SMS</string>
+    <string name="exo_track_selection_title_video">Vídeo</string>
+    <string name="exo_track_stereo">Estèreo</string>
+    <string name="exo_track_surround">So envoltant</string>
+    <string name="exo_track_surround_5_point_1">5.1 So envoltant</string>
+    <string name="exo_track_surround_7_point_1">7.1 So envoltant</string>
+    <string name="exo_track_unknown">Desconegut</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="grant_dialog_button_allow">Permetre</string>
     <string name="grant_dialog_button_deny">Negar</string>
+    <string name="icon_content_description">Icona de diàleg</string>
+    <string name="item_view_role_description">Pestanya</string>
+    <string name="material_clock_toggle_content_description">Seleccioneu AM o PM</string>
+    <string name="material_hour_selection">Selecciona hora</string>
+    <string name="material_hour_suffix">"%1$s en punt"</string>
+    <string name="material_minute_selection">Selecciona minuts</string>
+    <string name="material_minute_suffix">%1$s Minuts</string>
+    <string name="material_slider_range_end">Fi de gamma,</string>
+    <string name="material_slider_range_start">Inici de gamma,</string>
+    <string name="material_timepicker_am">SÓC</string>
+    <string name="material_timepicker_clock_mode_description">Canvieu al mode de rellotge per a l\'entrada de temps.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecciona l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvieu al mode d\'entrada de text per a l\'entrada de temps.</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
+    <string name="mtrl_chip_close_icon_content_description">Treure %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d Noves notificacions</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvi al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'ACORD</string>
+    <string name="mtrl_picker_date_header_title">Selecciona la data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format no vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilitzar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval no vàlid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar a l\'any %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora de gamma: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de finalització</string>
+    <string name="mtrl_picker_range_header_title">Seleccioneu Interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici – Data de finalització</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Datar</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canviar al mode d\'entrada de calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d\'un dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canviar al mode d\'entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">D\'ACORD</string>
+    <string name="not_selected">no seleccionats</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="permission_delete_image">{count, plural, =1 {Permetre ^1 esborrar aquesta foto?} other {Permetre ^1 esborrar ^2 fotos?} }</string>
+    <string name="permission_delete_video">{count, plural, =1 {Permetre que ^1 suprimeixi aquest vídeo?} other {Permetre que ^1 suprimeixi ^2 vídeos?} }</string>
+    <string name="permission_progress_trash_audio">{count, plural, =1 {Moure fitxers d\'àudio a la paperera…} other {Moure ^1 fitxers d\'àudio a la paperera…} }</string>
+    <string name="permission_progress_trash_generic">{count, plural, =1 {Moure l\'element a la paperera…} other {Moure ^1 elements a la paperera…} }</string>
+    <string name="permission_progress_trash_image">{count, plural, =1 {Moure la foto a la paperera…} other {Moure ^1 fotos a la paperera…} }</string>
+    <string name="permission_progress_trash_video">{count, plural, =1 {Moure el vídeo a la paperera…} other {Moure ^1 vídeos a la paperera…} }</string>
+    <string name="permission_progress_untrash_audio">{count, plural, =1 {Moure fitxers d\'àudio fora de la paperera…} other {Moure ^1 fitxers d\'àudio fora de la paperera…} }</string>
+    <string name="permission_progress_untrash_generic">{count, plural, =1 {Moure l\'element de les escombraries…} other {Moure ^1 elements fora de les escombraries…} }</string>
+    <string name="permission_progress_untrash_image">{count, plural, =1 {Foto en moviment fora de les escombraries…} other {Moure ^1 fotos fora de les escombraries…} }</string>
+    <string name="permission_progress_untrash_video">{count, plural, =1 {Moure el vídeo de la paperera…} other {Moure ^1 vídeos fora de la paperera…} }</string>
+    <string name="permission_progress_write_audio">{count, plural, =1 {Modificació del fitxer d\'àudio…} other {Modificació de ^1 fitxers d\'àudio…} }</string>
+    <string name="permission_progress_write_generic">{count, plural, =1 {Modificació de l\'element…} other {Modificació ^1 elements…} }</string>
+    <string name="permission_progress_write_image">{count, plural, =1 {Modificació de la foto…} other {Modificació ^1 fotos…} }</string>
+    <string name="permission_progress_write_video">{count, plural, =1 {Modificació del vídeo…} other {Modificació ^1 vídeos…} }</string>
     <string name="permission_required">Permís necessari per modificar o suprimir aquest element.</string>
     <string name="permission_required_action">Continuar</string>
+    <string name="permission_trash_audio">{count, plural, =1 {Permetre ^1 moure aquest arxiu d\'àudio a la paperera?} other {Permetre que ^1 mogui ^2 fitxers d\'àudio a la paperera?} }</string>
+    <string name="permission_trash_generic">{count, plural, =1 {Permetre ^1 moure aquest element a la paperera?} other {Permetre ^1 moure ^2 elements a la paperera?} }</string>
+    <string name="permission_trash_image">{count, plural, =1 {Permetre ^1 moure aquesta foto a la paperera?} other {Permetre ^1 moure ^2 fotos a la paperera?} }</string>
+    <string name="permission_trash_video">{count, plural, =1 {Permetre ^1 moure aquest vídeo a la paperera?} other {Permetre que ^1 mogui ^2 vídeos a la paperera?} }</string>
+    <string name="permission_untrash_audio">{count, plural, =1 {Permetre ^1 moure aquest fitxer d\'àudio fora de la paperera?} other {Permetre ^1 moure ^2 fitxers d\'àudio fora de la paperera?} }</string>
+    <string name="permission_untrash_generic">{count, plural, =1 {Permetre ^1 moure aquest element de les escombraries?} other {Permetre que ^1 mogui ^2 elements fora de les escombraries?} }</string>
+    <string name="permission_untrash_image">{count, plural, =1 {Permetre ^1 moure aquesta foto fora de les escombraries?} other {Permetre ^1 moure ^2 fotos fora de les escombraries?} }</string>
+    <string name="permission_untrash_video">{count, plural, =1 {Permetre ^1 moure aquest vídeo fora de la paperera?} other {Permetre que ^1 mogui ^2 vídeos fora de la paperera?} }</string>
+    <string name="permission_write_audio">{count, plural, =1 {Permetre ^1 modificar aquest fitxer d\'àudio?} other {Permetre que ^1 modifiqui ^2 fitxers d\'àudio?} }</string>
+    <string name="permission_write_generic">{count, plural, =1 {Permetre ^1 modificar aquest element?} other {Permetre que ^1 modifiqui ^2 elements?} }</string>
+    <string name="permission_write_image">{count, plural, =1 {Permetre ^1 modificar aquesta foto?} other {Permetre ^1 modificar ^2 fotos?} }</string>
+    <string name="permission_write_video">{count, plural, =1 {Permetre ^1 modificar aquest vídeo?} other {Permetre ^1 modificar ^2 vídeos?} }</string>
+    <string name="picker_add_button_multi_select">Afegir (^1)</string>
+    <string name="picker_album_item_count">{count, plural, =1 {^1 element} other {^1 elements} }</string>
+    <string name="picker_albums">Àlbums</string>
+    <string name="picker_albums_empty_message">No hi ha àlbums</string>
+    <string name="picker_app_label">Selector de fotos</string>
+    <string name="picker_category_camera">Càmera</string>
+    <string name="picker_category_downloads">Descarrega</string>
+    <string name="picker_category_favorites">Favorits</string>
+    <string name="picker_category_screenshots">Captures de pantalla</string>
+    <string name="picker_cloud_sync">Els suports al núvol ja estan disponibles a %1$s</string>
+    <string name="picker_gif">.GIF</string>
+    <string name="picker_item_content_desc">%1$s assumit %2$s</string>
+    <string name="picker_motion_photo">Foto en moviment</string>
+    <string name="picker_motion_photo_text">Foto en moviment</string>
+    <string name="picker_mute_video">Silenciar vídeo</string>
+    <string name="picker_pause_video">Pausa el vídeo</string>
+    <string name="picker_personal_profile">Canviar a personal</string>
+    <string name="picker_photo">Foto</string>
+    <string name="picker_photos">Fotos</string>
+    <string name="picker_photos_empty_message">No hi ha fotos ni vídeos</string>
+    <string name="picker_play_video">Veure vídeo</string>
+    <string name="picker_preview">Preestrena</string>
+    <string name="picker_privacy_message">Aquesta aplicació només pot accedir a les fotos que seleccionis</string>
+    <string name="picker_profile_admin_msg_from_personal">No es permet accedir a les dades de la feina des d\'una aplicació personal</string>
+    <string name="picker_profile_admin_msg_from_work">No es permet l\'accés a dades personals des d\'una aplicació de la feina</string>
+    <string name="picker_profile_admin_title">Bloquejat per l\'administrador</string>
+    <string name="picker_profile_work_paused_msg">Per obrir les fotos de la feina, activa les aplicacions de la feina i torna-ho a provar</string>
+    <string name="picker_profile_work_paused_title">Les aplicacions de la feina estan en pausa</string>
+    <string name="picker_unmute_video">Activar el so del vídeo</string>
+    <string name="picker_video_item_content_desc">Vídeo realitzat a %1$s amb durada %2$s</string>
+    <string name="picker_view_selected">Veure seleccionats</string>
+    <string name="picker_work_profile">Canviar a la feina</string>
+    <string name="recent">Recent</string>
     <string name="root_audio">Àudio</string>
     <string name="root_documents">Documents</string>
     <string name="root_images">Imatges</string>
     <string name="root_videos">Vídeos</string>
     <string name="search_menu_title">Buscar</string>
+    <string name="select">Seleccionar</string>
+    <string name="select_up_to">{count, plural, =1 {Seleccioneu fins a ^1 element} other {Seleccioneu fins a ^1 elements} }</string>
+    <string name="selected">Seleccionat</string>
     <string name="storage_description">Emmagatzematge local</string>
     <string name="transcode_cancel">Cancel·lar</string>
     <string name="transcode_denied">"%s no pot processar fitxers multimèdia"</string>

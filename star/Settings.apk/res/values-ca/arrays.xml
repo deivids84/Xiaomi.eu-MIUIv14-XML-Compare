@@ -452,6 +452,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Sense xifrar (sense seguretat)</item>
+        <item>PIN de 4 dígits (baixa seguretat)</item>
+        <item>PIN de 16 dígits (alta seguretat)</item>
+    </string-array>
     <string-array name="bluetooth_map_version_values">
         <item>map12</item>
         <item>map13</item>
@@ -480,8 +485,8 @@
         <item>Desactivat</item>
         <item>Filtrat</item>
         <item>Activat</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Capçaleres filtrades</item>
+        <item>Paquets multimèdia filtrats</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segon</item>
@@ -1144,10 +1149,21 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>GID</item>
         <item>ICCID</item>
     </string-array>
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>imsi</item>
+        <item>gid</item>
+        <item>ICCID</item>
+    </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La xarxa va lenta perquè hi ha molt trànsit</item>
         <item>La xarxa va lenta perquè la intensitat del senyal és feble</item>
         <item>En moviment…</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Sempre</item>
+        <item>Excepte quan hi ha una altra aplicació de pagament oberta</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gràfic</item>
@@ -1704,10 +1720,25 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Mai</item>
+        <item>Després d\'1 minut</item>
+        <item>Després de 5 minuts</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítid</item>
         <item>Base</item>
         <item>Pop</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Cruixent</item>
+        <item>Sòlid</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Càrrega</item>
+        <item>Doze</item>
+        <item>Mode d\'estalvi d\'energia</item>
+        <item>Estat del procés</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12 hores 1:00 PM</item>
@@ -1789,6 +1820,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Normal</item>
         <item>Ràpid</item>
         <item>Més ràpid</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>Estàndard</item>
+        <item>Contacte</item>
+        <item>Tacte directe</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Temps d\'ús</item>
@@ -1921,6 +1957,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Només 2,4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
+        <item>No</item>
+        <item>Sí</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
         <item>No</item>
         <item>Sí</item>
     </string-array>

@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d min</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">%d anuncis bloquejats</item>
@@ -232,6 +232,10 @@
         <item quantity="other">%d seguidors</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d Hores</item>
+        <item quantity="one">%d H</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d fa unes hores</item>
         <item quantity="one">%1$d fa una hora</item>
@@ -280,9 +284,17 @@
         <item quantity="other">%1$d fa uns minuts</item>
         <item quantity="one">%1$d fa un minut</item>
     </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d Minuts</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements sel·leccionats</item>
         <item quantity="one">%d element sel·leccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últims %d dies</item>
@@ -307,6 +319,14 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">Fullejar %d Notícies</item>
+        <item quantity="one">Fullejar %d Notícia</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Mirar %d Vídeos curts</item>
+        <item quantity="one">Mirar %d vídeo curt</item>
     </plurals>
     <plurals name="person_menu_protect_count">
         <item quantity="other">Protegit %s cops</item>
@@ -453,6 +473,10 @@
     <plurals name="search_trending_views">
         <item quantity="other">%s sol·licituds de cerca</item>
         <item quantity="one">%s sol·licitud de cerca</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d Segons</item>
+        <item quantity="one">%d Seg</item>
     </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s cada %1$s mesos</item>

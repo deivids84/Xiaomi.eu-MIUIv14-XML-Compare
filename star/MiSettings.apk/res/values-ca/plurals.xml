@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d Queden minuts per \"%1$s\" Avui</item>
+        <item quantity="one">%2$d minut deixat per \"%1$s\" Avui</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -76,9 +80,21 @@
         <item quantity="other">"Has fet servir el teu dispositiu %d minuts sense interrupcions"</item>
         <item quantity="one">"Has fet servir el teu dispositiu %d minut sense interrupcions"</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Descans per %d Minuts</item>
+        <item quantity="one">Descans per %d minut</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"Heu estat utilitzant aquest dispositiu durant %d minuts ja"</item>
+        <item quantity="one">"Heu estat utilitzant aquest dispositiu durant %d minut ja"</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Podeu afegir fins a %d Trenca</item>
+        <item quantity="one">Podeu afegir fins a %d trencar</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">El temps de pantalla d\'avui és el mateix que la teva mitjana de %d-dies</item>

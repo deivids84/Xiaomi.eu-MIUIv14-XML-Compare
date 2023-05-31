@@ -44,6 +44,14 @@
         <item quantity="other">%s estrelles seleccionades</item>
         <item quantity="one">%s estrella seleccionada</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanç ràpid %d Segons</item>
+        <item quantity="one">Avanç ràpid %d segon</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobinar %d Segons</item>
+        <item quantity="one">Rebobinar %d segon</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Tornem a la pàgina principal en %1$d segons…</item>
         <item quantity="one">Tornem a la pàgina principal en %1$d segon…</item>
@@ -51,6 +59,10 @@
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s Vistes</item>
+        <item quantity="one">%s vista</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -126,14 +138,6 @@ disponible només avui"</item>
         <item quantity="other">Veure %1$1d segons d\'un vídeo per guanyar punts de %2$2d</item>
         <item quantity="one">Veure %1$1d segons d\'un vídeo per guanyar %2$2d punt</item>
     </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">Va obtenir %d punts. Compartir per guanyar més.</item>
-        <item quantity="one">S\'ha guanyat %d punt. Compartir per guanyar més.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">Va obtenir %d punts. Segueix subscrivint-te per guanyar més.</item>
-        <item quantity="one">S\'ha guanyat %d punt. Segueix subscrivint-te per guanyar més.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
@@ -166,10 +170,6 @@ disponible només avui"</item>
         <item quantity="other">Mida: %.2f kB</item>
         <item quantity="one">Mida: %.2f kB</item>
     </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
-    </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d de %2$2d episodis disponibles</item>
         <item quantity="one">%1$1d de %2$2d episodi disponible</item>
@@ -194,13 +194,9 @@ disponible només avui"</item>
         <item quantity="other">%d notificacions noves</item>
         <item quantity="one">%d nova notificació</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">"S'ha compartit correctament. S'han guanyat %d punts. Reclamació al centre de punts."</item>
-        <item quantity="one">"S'ha compartit correctament. T'has guanyat %d punt. Reclamació al centre de punts."</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">"S'ha subscrit correctament. S'han guanyat %d punts. Reclamació al centre de punts."</item>
-        <item quantity="one">"S'ha subscrit correctament. T'has guanyat %d punt. Reclamació al centre de punts."</item>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d Cançons</item>
+        <item quantity="one">%d cançó</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">El teu contingut té elements (%1$s) que infringeixen les nostres normes comunitàries. El teu compte quedarà suspès per %2$d dies fins el %3$s.</item>
@@ -213,14 +209,6 @@ disponible només avui"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d</item>
         <item quantity="one">Fa 1 minut</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Voleu eliminar ara %s elements?</item>

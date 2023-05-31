@@ -64,6 +64,8 @@
     <string name="bluetooth_hearing_aid_profile_summary_use_for">S\'utilitza pels audiòfons</string>
     <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">S\'utilitza per a l\'entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Ús per a LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Connectat al mapa</string>
     <string name="bluetooth_map_profile_summary_use_for">S\'utilitza pel mapa</string>
     <string name="bluetooth_pairing">S\'està vinculant…</string>
@@ -83,6 +85,7 @@
     <string name="bluetooth_profile_headset">Àudio del telèfon</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfons</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Missatges de text</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a Internet</string>
@@ -155,6 +158,7 @@ Consulteu Configuració per obtenir més informació."</string>
     <string name="fast_connect_new_feture_title">"Què hi ha de nou"</string>
     <string name="fast_connect_nzbt_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="fast_connect_reset_common">Restableix aquest dispositiu per poder-lo emparellar</string>
+    <string name="fast_connect_same_account_content">Els dispositius Bluetooth es poden sincronitzar amb el vostre compte Mi i connectar-se sense aparellar-se en altres dispositius.</string>
     <string name="fast_connect_same_accout_devices_connecting">Connexió mitjançant Núvol Xiaomi…</string>
     <string name="fast_connect_same_accout_devices_title">"Heu connectat %1$s a altres dispositius"</string>
     <string name="fast_connect_same_accout_ok">Entesos</string>
@@ -265,6 +269,7 @@ Protocol de connexió més ràpid."</string>
     <string name="miheadset_notification_Disconnect">Desconnecta</string>
     <string name="miheadset_notification_LeftEar">E</string>
     <string name="miheadset_notification_RightEar">D</string>
+    <string name="miheadset_spatial_audio_change_to_phone">S\'ha canviat a àudio dimensional en aquest dispositiu</string>
     <string name="mihome_app_download">Instal·lar ara</string>
     <string name="mihome_app_update">Actualitza ara</string>
     <string name="mihome_download_tips">Instal·la l\'aplicació Mi Home, inicia sessió i deixa el teu telèfon a prop del dispositiu.</string>

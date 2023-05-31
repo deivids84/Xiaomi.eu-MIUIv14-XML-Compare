@@ -96,7 +96,13 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="grant_permission_go_and_set_2">Configuració</string>
+    <string name="grant_permission_remind_title">Permisos necessaris</string>
+    <string name="grant_permission_storage">Permet que aquesta aplicació accedeixi a l\'emmagatzematge.</string>
+    <string name="grant_permission_text">Gallery Editor necessita el següent permís per poder treballar amb normalitat: %s. Toqueu \"Configuració\" per concedir.</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
@@ -111,6 +117,8 @@
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
+    <string name="miuix_indexer_collect">Coŀleccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualitzant…</string>
@@ -176,6 +184,9 @@
     <string name="noon">Migdia</string>
     <string name="ok">D\'acord</string>
     <string name="open">Activat</string>
+    <string name="operation_original">Comparar</string>
+    <string name="operation_redo">Refer</string>
+    <string name="operation_undo">Desfer</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">Voleu desar els canvis?</string>
     <string name="refocus_discard_negative_btn">Descarta</string>
@@ -218,6 +229,14 @@
     <string name="refocus_type_relighting_small_face">La il·luminació d\'estudi funciona en fotografies on les cares ocupen més espai que aquí.</string>
     <string name="refocus_type_static">Desenfoca</string>
     <string name="refocus_type_video">Traçades fines</string>
+    <string name="saf_operation_guide_1">"Gallery Editor necessita el vostre permís per poder protegir i gestionar les vostres dades. "</string>
+    <string name="saf_operation_guide_2">Per concedir el permís, toqueu \"%1$s\" i després seleccioneu \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Proper</string>
+    <string name="saf_operation_guide_param2">Accedeix a aquesta carpeta</string>
+    <string name="saf_requester_cancel">Cancel·lar</string>
+    <string name="saf_requester_title">Permetre que l\'editor de la galeria accedeixi a \"%s\"</string>
+    <string name="saf_secret_album">Àlbum privat</string>
+    <string name="saf_secret_album_guide">Aquesta aplicació necessita permisos per mostrar elements del teu àlbum privat.</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

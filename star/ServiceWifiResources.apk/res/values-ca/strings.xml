@@ -15,6 +15,44 @@
     <string name="wifi_available_title_connected">Connectat a la xarxa Wi-Fi</string>
     <string name="wifi_available_title_connecting">S\'està connectant a la xarxa Wi-Fi</string>
     <string name="wifi_available_title_failed_to_connect">No s\'ha pogut connectar a la xarxa Wi-Fi</string>
+    <string name="wifi_ca_cert_dialog_abort_text">"No, no et connectis"</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Sí, connecta\'t</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Contacte:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Només permeteu que aquesta xarxa es connecti si la informació següent sembla correcta.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Nom de l'emissor:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organització:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Nom del servidor:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Signatura:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"No et connectis"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Connecta\'t de totes maneres</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">La xarxa %1$s li falta un certificat.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Obtén informació sobre com pots afegir certificats</string>
+    <string name="wifi_ca_cert_dialog_preT_title">"No puc verificar aquesta xarxa"</string>
+    <string name="wifi_ca_cert_dialog_title">És de confiança aquesta xarxa?</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Error en la instal·lació del certificat.</string>
+    <string name="wifi_ca_cert_notification_message">Reviseu els detalls de la xarxa per a %1$s abans de connectar-se. Toqueu per continuar.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">"No et connectis"</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Connecta\'t de totes maneres</string>
+    <string name="wifi_ca_cert_notification_preT_message">La xarxa %1$s li falta un certificat. Toqueu per obtenir informació sobre com podeu afegir certificats.</string>
+    <string name="wifi_ca_cert_notification_preT_title">"No puc verificar aquesta xarxa"</string>
+    <string name="wifi_ca_cert_notification_title">Cal verificar la xarxa</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Toqueu per canviar la configuració de privadesa i tornar-ho a provar</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"No es pot connectar amb %1$s"</string>
     <string name="wifi_connect_alert_message">Els %1$s d\'aplicacions volen connectar-se a la xarxa Wifi %2$s</string>
@@ -28,6 +66,9 @@ Aquest canvi pot permetre que els dispositius propers puguin fer un seguiment de
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">No s\'ha trobat la xarxa</string>
     <string name="wifi_disable_mac_randomization_dialog_success">S\'ha actualitzat la configuració. Torneu a provar de connectar-vos.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">Voleu canviar la configuració de privadesa?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : Error d\'autenticació EAP 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : Error d\'autenticació EAP 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : Error d\'autenticació EAP 32756</string>
     <string name="wifi_eap_error_message_code_32760">%1$s : error d\'autenticació EAP 32760</string>
     <string name="wifi_eap_error_message_code_32761">%1$s : error d\'autenticació EAP 32761</string>
     <string name="wifi_eap_error_message_code_32762">%1$s : error d\'autenticació EAP 32762</string>
@@ -35,6 +76,17 @@ Aquest canvi pot permetre que els dispositius propers puguin fer un seguiment de
     <string name="wifi_eap_error_message_code_32764">%1$s : error d\'autenticació EAP 32764</string>
     <string name="wifi_eap_error_message_code_32765">%1$s : error d\'autenticació EAP 32765</string>
     <string name="wifi_eap_error_message_code_32766">%1$s : error d\'autenticació EAP 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : Error d\'autenticació EAP 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : Error d\'autenticació EAP, codi d\'error desconegut</string>
+    <string name="wifi_enable_request_dialog_message">Pots desactivar la Wi-Fi a la configuració ràpida</string>
+    <string name="wifi_enable_request_dialog_negative_button">"No permetre"</string>
+    <string name="wifi_enable_request_dialog_positive_button">Permetre</string>
+    <string name="wifi_enable_request_dialog_title">Permetre %1$s per activar la Wi-Fi?</string>
+    <string name="wifi_interface_priority_approve">Permetre</string>
+    <string name="wifi_interface_priority_message">Això pot causar problemes per %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">Això pot causar problemes en aquestes aplicacions: %3$s.</string>
+    <string name="wifi_interface_priority_reject">"No permetre"</string>
+    <string name="wifi_interface_priority_title">%1$s vol utilitzar un recurs de xarxa</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_p2p_enter_pin_message">Escriviu el PIN necessari:</string>
     <string name="wifi_p2p_frequency_conflict_message">"El telèfon es desconnectarà temporalment de la Wi-Fi mentre està connectat a %1$s"</string>
@@ -60,6 +112,9 @@ Aquest canvi pot permetre que els dispositius propers puguin fer un seguiment de
     <string name="wifi_suggestion_imsi_privacy_title">Vols connectar-te a %s Wi-Fi?</string>
     <string name="wifi_suggestion_title">Voleu permetre les xarxes Wi-Fi suggerides?</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+    <string name="wifi_tofu_invalid_cert_chain_message">La cadena de certificats del servidor no és vàlida.</string>
+    <string name="wifi_tofu_invalid_cert_chain_ok_text">D\'ACORD</string>
+    <string name="wifi_tofu_invalid_cert_chain_title">"No em puc connectar a %1$s"</string>
     <string name="wifi_wakeup_enabled_content">"Ets a prop d'una xarxa desada: %1$s"</string>
     <string name="wifi_wakeup_enabled_title">La Wi-Fi activada automàticament</string>
     <string name="wifi_wakeup_onboarding_action_disable">"No tornis a activar"</string>

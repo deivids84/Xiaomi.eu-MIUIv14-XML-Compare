@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Voleu suprimir %1$s missatges?</item>
@@ -96,6 +96,26 @@
         <item quantity="other">Marcat com a %2$s per %1$d persones</item>
         <item quantity="one">Marcat com a %2$s per %1$d persona</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Els missatges d\'àudio poden ser de fins a %1$4d secs llargs</item>
+        <item quantity="one">Els missatges d\'àudio poden ser de fins a %1$4d seg llarg</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Enviar fitxers fins a %1$4d MB</item>
+        <item quantity="one">Enviar fitxers fins a %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Enviar missatge a fins a %1$4d Contactes</item>
+        <item quantity="one">Enviar missatge a fins a %1$4d contacte</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Els missatges poden contenir fins a %1$4d Caràcters</item>
+        <item quantity="one">Els missatges poden contenir fins a %1$4d caràcter</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Els vídeos poden ser de fins a %1$4d secs llargs</item>
+        <item quantity="one">Els vídeos poden ser de fins a %1$4d seg llarg</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s missatges</item>
         <item quantity="one">%1$s missatge</item>
@@ -115,10 +135,6 @@
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Heu rebut %d invitacions al xat de grup</item>
         <item quantity="one">Heu rebut %d invitació al xat de grup</item>
-    </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s persones</item>
-        <item quantity="one">%1$s persona</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultats per \"%2$s\"</item>

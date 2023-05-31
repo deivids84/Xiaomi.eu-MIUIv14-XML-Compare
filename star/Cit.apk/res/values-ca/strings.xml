@@ -48,6 +48,35 @@
     <string name="bottom_low_speaker_title">Prova de woofer inferior</string>
     <string name="bottom_right_low_speaker">Prova de woofer inferior dreta</string>
     <string name="bottom_speaker_title">Validació de l\'altaveu inferior</string>
+    <string name="bottomsheet_action_expand_halfway">Ampliar a la meitat</string>
+    <string name="character_counter_content_description">Personatges introduïts %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">S\'ha superat el límit de caràcters %1$d de %2$d</string>
+    <string name="chip_text">Xip de text</string>
+    <string name="cit_DP_check_summary">El cable d\'USB C a DisplayPort hauria d\'estar connectat durant el procés de prova</string>
+    <string name="cit_DP_in_start_test">Si us plau, inseriu el cable d\'USB C a DisplayPort per començar la prova</string>
+    <string name="cit_DP_plug_err">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ No s'ha obtingut cap valor"</string>
+    <string name="cit_DP_plug_fail">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ Connecteu el cable convertidor d'USB C a DisplayPort per iniciar la prova"</string>
+    <string name="cit_DP_plug_out_fail">"Detecció del canvi de connexió del dispositiu 
+ La lectura del valor del node subjacent ha fallat 
+ Prova errònia
+"</string>
+    <string name="cit_DP_plug_pass">"Detecció del canvi de connexió del dispositiu 
+ Lectura correcta del valor del node subjacent 
+ Comproveu que la pantalla es veu bé i cliqueu el botó corresponent"</string>
+    <string name="cit_USB3_2GEN1_check_summary">Cal inserir dispositius compatibles amb USB 3.2 GEN1 durant les proves</string>
+    <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
+    <string name="cit_USB3_2_check_summary">Els dispositius compatibles amb USB3.2 s\'han d\'inserir durant les proves</string>
+    <string name="cit_USB3_2_check_title">USB3.2</string>
+    <string name="cit_USB3_in_start_test">Inseriu el botó %1$s-dispositius habilitats i comenceu a provar</string>
+    <string name="cit_USB3_plug_fail">El dispositiu de prova no admet %1$s i la prova va suspendre</string>
+    <string name="cit_USB3_plug_out_test_fail">"El dispositiu s'ha retirat, la prova falla
+És possible que l'equip de prova no sigui compatible%1$sEs recomana tornar a provar l'equip de substitució"</string>
+    <string name="cit_USB3_plug_pass">%1$s passi, si us plau, traieu els dispositius</string>
+    <string name="cit_USB3_plug_re_plugin">"%1$s La prova s'ha acabat, si us plau, no repeteixis la prova"</string>
     <string name="cit_accdata_second_sensor_check_title">Segon acceleròmetre</string>
     <string name="cit_accelermeter_second_cali_title">Segona prova de calibratge del sensor d\'acceleració</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mou el dispositiu ràpidament en una direcció. A continuació es mostren els valors de les coordenades X ， Y ， Z. (quan el dispositiu està en moviment: X representa l'esquerra / la dreta, y representa la part davantera / posterior, la z representa cap amunt i cap avall).
@@ -66,6 +95,7 @@ Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon princip
 2.Toqueu el botó de l'obturador
 3.El sistema desarà la foto automàticament després de la captura
 4.La foto que heu fet s'ha de mostrar a la pantalla, toqueu Aprovar per completar la prova."</string>
+    <string name="cit_camera_hardware_check">La detecció de funcions relacionades amb el maquinari de la càmera està en curs, espereu ....</string>
     <string name="cit_camera_otp_download_title">Prova de descàrrega OTP de la càmera</string>
     <string name="cit_camera_rearsub">Prova de la subcàmera en curs, espereu....</string>
     <string name="cit_charger_test_tips_pd">El dispositiu actual ha de provar USB_PD</string>
@@ -87,6 +117,7 @@ Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon princip
     <string name="cit_nfc_check_summary">"Feu clic al botó per iniciar NFC i, a continuació, poseu la targeta a la part superior de la part posterior del dispositiu. 
 No apagueu la pantalla durant la prova"</string>
     <string name="cit_nfc_check_tip">col·loqueu la targeta a la part superior de la part posterior del dispositiu</string>
+    <string name="cit_pixeworks_chip_check_title">Comprovació de xip Pixeworks Iris 7</string>
     <string name="cit_proximity_data_check_summary">"Sensor de distància per infrarojos: cobreix el sensor de distància amb la mà i després deixa el sensor de distància. 
  Sensor de distància per ultrasons: simuleu l'acció de respondre al dispositiu 
  Si l'àrea de prova inferior mostra un valor de 0,0 quan s'apropa i un valor de 5,0 mostra quan està lluny, la prova té èxit, en cas contrari la prova falla."</string>
@@ -123,19 +154,72 @@ feu clic al botó per canviar el mode tàctil al mode THP o FW"</string>
     <string name="cit_uwb_calibrate_summary">Aquesta prova està dedicada als enginyers de manteniment. Utilitzeu-la amb precaució</string>
     <string name="cit_uwb_calibrate_title">Prova de calibratge UWB</string>
     <string name="cit_wifi_address_check_summary">A continuació es mostra l’adreça de la xarxa Wi-Fi a la qual el dispositiu està connectat actualment. Confirmeu que la informació ressaltada en verd és correcta.</string>
+    <string name="clear_text_end_icon_content_description">Text clar</string>
     <string name="close_third_color_led">tanca tres colors led</string>
     <string name="cold_light_title">Llum freda</string>
     <string name="edittextdisplay">Benvinguts a l\'eina SAR !!!</string>
     <string name="edittextdisplayf">Els permisos s\'han reduït !!!</string>
+    <string name="enrollment_error_tip">L\'estratègia de control de la targeta d\'entrada digital està activada, assegureu-vos que les empremtes digitals estiguin clares i netes o sortiu de l\'element de prova actual i torneu a iniciar la prova.</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="fod_check_start_error">"No es pot iniciar el programa de comprovació del sensor
 prova ha fallat!"</string>
     <string name="fod_check_summary">"Instruccions de prova:
 prova automàtica basada en el tipus de sensor
 Base el botó passi o falli el botó de clic del resultat de la prova"</string>
     <string name="front_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part frontal del dispositiu</string>
+    <string name="headset_plug_check_tip">Inicieu la reproducció, valideu el funcionament dels auriculars i traieu-vos-els quan finalitzeu la prova</string>
+    <string name="icon_content_description">Icona de diàleg</string>
+    <string name="item_view_role_description">Pestanya</string>
+    <string name="label">Etiquetar</string>
     <string name="main_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part principal del dispositiu</string>
+    <string name="material_clock_toggle_content_description">Seleccioneu AM o PM</string>
+    <string name="material_hour_selection">Selecciona hora</string>
+    <string name="material_hour_suffix">"%1$s en punt"</string>
+    <string name="material_minute_selection">Selecciona minuts</string>
+    <string name="material_minute_suffix">%1$s Minuts</string>
+    <string name="material_slider_range_end">Fi de gamma,</string>
+    <string name="material_slider_range_start">Inici de gamma,</string>
+    <string name="material_timepicker_am">SÓC</string>
+    <string name="material_timepicker_clock_mode_description">Canvieu al mode de rellotge per a l\'entrada de temps.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecciona l\'hora</string>
+    <string name="material_timepicker_text_input_mode_description">Canvieu al mode d\'entrada de text per a l\'entrada de temps.</string>
     <string name="motor_calibration">Calibratge del motor</string>
+    <string name="mtb_tool_modem_cdma_manager">Gerent de CDMA Cap</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificació</string>
+    <string name="mtrl_chip_close_icon_content_description">Treure %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Més de %1$d Noves notificacions</string>
+    <string name="mtrl_picker_a11y_next_month">Canvia al mes següent</string>
+    <string name="mtrl_picker_a11y_prev_month">Canvi al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selecció actual: %1$s</string>
+    <string name="mtrl_picker_confirm">D\'ACORD</string>
+    <string name="mtrl_picker_date_header_title">Selecciona la data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de dies: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format no vàlid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilitzar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval no vàlid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar a l\'any %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora de gamma: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de finalització</string>
+    <string name="mtrl_picker_range_header_title">Seleccioneu Interval</string>
+    <string name="mtrl_picker_range_header_unselected">Data d\'inici – Data de finalització</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Datar</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalització</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data d\'inici</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Canviar al mode d\'entrada de calendari</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toqueu per canviar a la selecció d\'un dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Canviar al mode d\'entrada de text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció d\'un any</string>
+    <string name="mtrl_timepicker_confirm">D\'ACORD</string>
     <string name="open_third_color_led">obre tres colors led</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pop_camera">Càmera pop</string>
     <string name="pop_push_camera_test_summary">"Feu clic al botó Pop Camera per veure si la càmera surt
 feu clic al botó premeu per veure si entra la càmera"</string>
@@ -143,6 +227,8 @@ feu clic al botó premeu per veure si entra la càmera"</string>
     <string name="push_camera">Càmera push</string>
     <string name="radio_info_data_connected">Connectat</string>
     <string name="radio_info_data_disconnected">Desconnectat</string>
+    <string name="sar_algo_data_check_description">Sar Algo Recollida de Dades</string>
+    <string name="sar_mtk_test_title">Prova d\'autenticació Sar Mtk</string>
     <string name="sar_sensor_collect_data_self_cali">Auto calibratge</string>
     <string name="sar_sensor_collect_test_summary">"Gireu el dispositiu i poseu-lo al dispositiu
 Feu clic al botó Inicia l'adquisició de dades
@@ -153,8 +239,12 @@ Controleu l'aparell a prop i allunyat del dispositiu"</string>
 Feu clic al botó Inicia la calibració
 Després de calibrar l'èxit, controleu l'aparell a prop i allunyat del dispositiu"</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="sidebottom_mic_check_record_tip">Enregistrant, digueu alguna cosa pel MIC de la part inferior del dispositiu</string>
+    <string name="sidetop_mic_check_record_tip">Enregistrant, digueu alguna cosa pel MIC de la part superior del dispositiu</string>
     <string name="soft_light_title">Llum suau</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="test_sidebottom_mic">Micròfon inferior</string>
+    <string name="test_sidetop_mic">Micròfon superior</string>
     <string name="tips_not_placed_right_angle">El dispositiu no està situat en angle recte</string>
     <string name="top_high_speaker_title">Prova de tweeter superior</string>
     <string name="top_low_speaker_title">Prova de woofer superior</string>

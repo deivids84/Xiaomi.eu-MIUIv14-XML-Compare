@@ -43,7 +43,7 @@
     <string name="HIPS_Perm_Intl_group_name_contact">Kontaktlar</string>
     <string name="HIPS_Perm_Intl_group_name_location">Yerləşmə</string>
     <string name="HIPS_Perm_Intl_group_name_storage">Anbar</string>
-    <string name="HIPS_Perm_Location">Yerləşmə məlumatlarını alma</string>
+    <string name="HIPS_Perm_Location">Yer məlumatlarını al</string>
     <string name="HIPS_Perm_Location_Desc">dəqiq yerləşməni alır (GPS və şəbəkə əsaslı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yaxınlıqdakı cihazlara bağlan</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Yaxınlıqdakı cihazları kəşf edin və onlara bağlanın</string>
@@ -85,8 +85,8 @@
     <string name="HIPS_Perm_deamon_notification_Desc">daimi bildirişləri göstər</string>
     <string name="HIPS_Perm_get_accounts">Cihazdakı hesablara müraciət</string>
     <string name="HIPS_Perm_get_accounts_Desc">cihazda saxlanılmış bütün hesablara müraciət edər</string>
-    <string name="HIPS_Perm_get_installed_apps">Quraşdırılmış tətbiqlər haqqında məlumat alma</string>
-    <string name="HIPS_Perm_get_installed_apps_Desc">bu cihazda quraşdırılmış tətbiqlər haqqında məlumat alar</string>
+    <string name="HIPS_Perm_get_installed_apps">Quraşdırılmış tətbiqlər haqqında məlumat əldə et</string>
+    <string name="HIPS_Perm_get_installed_apps_Desc">bu cihazda quraşdırılmış tətbiqlər haqqında məlumat alır</string>
     <string name="HIPS_Perm_get_tasks">Tapşırıqları alma</string>
     <string name="HIPS_Perm_get_tasks_Desc">tapşırıqları alar</string>
     <string name="HIPS_Perm_install_shortcut">Əsas ekran qısayolları</string>

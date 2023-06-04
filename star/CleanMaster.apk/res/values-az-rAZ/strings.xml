@@ -623,7 +623,7 @@
     <string name="notification_garbage_clean_size_found_hint">Zibilləri tullamaq vaxtıdır!</string>
     <string name="notification_garbage_clean_size_found_text">Həddindən artıq tullantı faylı</string>
     <string name="notification_garbage_clean_size_new">%s anbar sahəsi boşalt</string>
-    <string name="notification_garbage_cleanup_summary">Cihazınızı sürtələndirmək üçün (%s) tullantını təmizləyin</string>
+    <string name="notification_garbage_cleanup_summary">Cihazınızı sürətləndirmək üçün (%s) tullantını təmizləyin</string>
     <string name="notification_garbage_cleanup_title">Tullantı faylları təmizlə</string>
     <string name="notification_installed_clean_size">%1$s quraşdırdıqdan sonra %2$s boşalt</string>
     <string name="notification_low_memory_button_text">Düzəlt</string>
@@ -640,7 +640,7 @@
     <string name="notification_low_storage_size_1_GB">%d GB-dan az anbar sahəsi qalıb</string>
     <string name="notification_low_storage_size_1_GB_hint">Dərin təmizlik kömək edə bilər</string>
     <string name="notification_low_storage_size_1_gb_hint">Cihazınızı sürətləndirmək üçün anbar sahəsini boşaldın</string>
-    <string name="notification_low_storage_size_1p5_gb_hint">Cihazınızı sürtələndirmək üçün tullantıları təmizləyin</string>
+    <string name="notification_low_storage_size_1p5_gb_hint">Cihazınızı sürətləndirmək üçün tullantıları təmizləyin</string>
     <string name="notification_memory_clean_button_text">Artır</string>
     <string name="notification_memory_clean_hint">Sürəti artırmaq üçün toxunun</string>
     <string name="notification_memory_clean_used_size">%s yaddaş dolub</string>
@@ -652,7 +652,7 @@
     <string name="notification_uninstalled_clean_button_text">Bax</string>
     <string name="notification_uninstalled_clean_with_name">%s qalıq elementləri</string>
     <string name="notification_uninstalled_clean_without_name">Silinməmiş tətbiqlər cihazınızda qalıq elementlər buraxır</string>
-    <string name="notification_wechat_clean_high_level_hint">Cihazınızı sürtələndirmək üçün tullantıları təmizləyin</string>
+    <string name="notification_wechat_clean_high_level_hint">Cihazınızı sürətləndirmək üçün tullantıları təmizləyin</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat çox sayda tullantı fayl yaratdı</string>
     <string name="notification_wechat_clean_high_level_text_b">"WeChat's tullantıları cihazınızı yavaşlandırır"</string>
     <string name="notification_wechat_clean_low_level_hint">Anbar sahəsini boşalt</string>

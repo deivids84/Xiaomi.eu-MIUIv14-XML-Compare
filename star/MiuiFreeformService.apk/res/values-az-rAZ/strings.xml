@@ -31,8 +31,8 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_name">Üzən pəncərələr</string>
-    <string name="bottom_bar_smallwindow_drag_text">Sancaqlamaq üçün bura burax</string>
-    <string name="bottom_bar_smallwindow_text">Sancaqlamaq üçün burax</string>
+    <string name="bottom_bar_smallwindow_drag_text">Sancmaq üçün bura burax</string>
+    <string name="bottom_bar_smallwindow_text">Sancmaq üçün burax</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="contentDescription">Pəncərəni daşı</string>

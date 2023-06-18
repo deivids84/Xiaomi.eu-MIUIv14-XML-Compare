@@ -154,6 +154,8 @@ duplicar la pantalla de esta tablet"</string>
 2. Mantén pulsado el botón en el estuche.
 3. Completa el emparejamiento en el dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Para transferir la reproducción entre dispositivos, empareja antes los auriculares con el televisor.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Pulsa el botón de encendido en el mando remoto del televisor para desconectar los altavoces.
+2. Intenta conectar otra vez los auriculares una vez que se encienda la pantalla."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Coloca ambos auriculares en su estuche.
 2. Mantén pulsado el botón en el estuche.
 3. Completa el emparejamiento en los ajustes de Bluetooth o usa el diálogo emergente en este dispositivo."</string>
@@ -166,9 +168,18 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_headset_back_to_box_subtitle">"Estos auriculares no se emparejan automáticamente. Hazlo manualmente en el dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_title">Emparejar los auriculares</string>
     <string name="circulate_headset_back_to_box_title_err_308">Emparejar los auriculares</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Antes desconecta los altavoces del televisor</string>
     <string name="circulate_headset_back_to_box_title_pad">Emparejar auriculares con el dispositivo</string>
     <string name="circulate_headset_back_to_box_title_phone">Emparejar auriculares con el dispositivo</string>
     <string name="circulate_headset_back_to_box_title_tv">Emparejar los auriculares</string>
+    <string name="circulate_headset_control_anc_clear">Transparencia</string>
+    <string name="circulate_headset_control_anc_disable_hint">Los auriculares están conectados a dos dispositivos. Solo puedes ajustar el volumen de este.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Cancelación de ruido</string>
+    <string name="circulate_headset_control_anc_off">Desactivado</string>
+    <string name="circulate_headset_control_battery_case">Estuche</string>
+    <string name="circulate_headset_control_battery_left">Izq</string>
+    <string name="circulate_headset_control_battery_right">Der</string>
+    <string name="circulate_headset_control_more_settings">Ajustes adicionales</string>
     <string name="circulate_headset_duplicate_cancel">Cancelar</string>
     <string name="circulate_headset_duplicate_dialog_message">Parece que otros auriculares están conectado a tu %1$s. ¿Sustituirlos con estos?</string>
     <string name="circulate_headset_duplicate_dialog_title">Sustituir auriculares conectados a %1$s</string>
@@ -178,6 +189,8 @@ duplicar la pantalla de esta tablet"</string>
     <string name="circulate_headset_error_default">Tiempo de conexión agotado</string>
     <string name="circulate_headset_error_device_not_support">"No se puede conectar los auriculares a este dispositivo"</string>
     <string name="circulate_headset_error_headset_not_support">"No se puede conectar los auriculares a este ordenador"</string>
+    <string name="circulate_headset_error_headset_not_worn">Ponte ambos auriculares e inténtalo otra vez</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Ponte ambos auriculares e inténtalo otra vez</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Activa el Bluetooth del televisor e
 inicia la sesión en tu cuenta Xiaomi"</string>
     <string name="circulate_headset_error_self_upgrade">"No se pudo completar esta acción. Actualiza Mi Smart Hub."</string>
@@ -605,6 +618,10 @@ Si necesita activar Miracast, presione el botón [MENU] y seleccione Mis aplicac
     <string name="notify_wifiap_dialog_msg">Para escanear el código y configurar la red, primero apague el punto de acceso portátil.</string>
     <string name="notify_wifiap_dialog_negative">Entendido</string>
     <string name="notify_wifiap_dialog_title">Configurar red</string>
+    <string name="onehop_mirror_guide_message_button">Entendido</string>
+    <string name="onehop_mirror_guide_message_text_1">Transmite la pantalla del dispositivo al ordenador con solo un toque.</string>
+    <string name="onehop_mirror_guide_message_text_2">Selecciona fotos, vídeos y otros archivos de la Galería o administrador de archivos para transferir al ordenador.</string>
+    <string name="onehop_mirror_guide_message_title">Smart Hub Mi</string>
     <string name="open_game_accelerate">Activar Game Turbo</string>
     <string name="p2p_location_des">Para conectar su dispositivo móvil a monitores externos</string>
     <string name="paipai_connect_btn_text">Listo</string>
@@ -713,15 +730,6 @@ Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="show_result_on_tv">Ver resultados en la TV</string>
     <string name="small_window">Minimizar ventana</string>
     <string name="small_window_not_supported">"No se puede minimizar esta aplicación mientras se está emitiendo"</string>
-    <string name="stat_cancel">cancelar</string>
-    <string name="stat_confirm">confirmar</string>
-    <string name="stat_failed">fallar</string>
-    <string name="stat_pad">tablet</string>
-    <string name="stat_phone">teléfono</string>
-    <string name="stat_src_click">pulsar</string>
-    <string name="stat_src_pull">tirar</string>
-    <string name="stat_src_push">empujar</string>
-    <string name="stat_success">correcto</string>
     <string name="status_bar_in_casting">Emitiendo…</string>
     <string name="status_bar_in_casting_long">Toque para ver más funciones de emisión</string>
     <string name="sunday">Domingo</string>

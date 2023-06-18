@@ -234,6 +234,11 @@ Puedes ver los registros generados en el Administrador de archivos."</string>
     <string name="long_press_home_key">Mantén pulsado el botón inicio</string>
     <string name="long_press_menu_key">Mantén pulsado el botón Menú</string>
     <string name="long_press_menu_key_when_lock">Mantén pulsado el botón Menú en la pantalla de bloqueo</string>
+    <string name="long_press_power_guide_know">Entendido</string>
+    <string name="long_press_power_guide_message" formatted="false">"Mantén pulsado el botón de encendido durante %s segundo para activar el asistente de Google.
+Si mantienes pulsado el botón durante %s segundos, se abrirá el menú de apagado."</string>
+    <string name="long_press_power_guide_settings">Ajustes</string>
+    <string name="long_press_power_guide_title">Activar con los botones de volumen</string>
     <string name="long_press_power_key">Mantén pulsado el botón de Encendido</string>
     <string name="long_press_power_key_half_of_second">Mantén pulsado el botón de Encendido durante medio segundo para activar el Asistente de Google</string>
     <string name="long_press_power_key_half_second">Mantén pulsado el botón de encendido durante %s segundos</string>
@@ -425,6 +430,7 @@ Pulsa dos veces para abrir recientes."</string>
     <string name="stylus_connect_fail">"No se pudo conectar. Adjúntalo otra vez."</string>
     <string name="stylus_connect_fail_no_battery">Carga el lápiz óptico ahora</string>
     <string name="stylus_connect_fail_no_reason">"No se pudo conectar"</string>
+    <string name="stylus_connect_fail_not_match_tablet">"Stylus no es compatible con la tablet"</string>
     <string name="stylus_connect_fail_not_open_gps">"No se pudo conectar. Activa los servicios de ubicación e inténtalo otra vez."</string>
     <string name="stylus_connecting">Conectando…</string>
     <string name="stylus_function_and_action">Funciones</string>

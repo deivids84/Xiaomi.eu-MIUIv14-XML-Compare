@@ -148,8 +148,6 @@
     <string name="apply_as_wallpaper">Establecer como pantalla de inicio</string>
     <string name="apply_both">Ambos</string>
     <string name="apply_text">APLICAR</string>
-    <string name="assistant_edge_gesture_summary">Desliza hacia arriba desde la esquina inferior izquierda o inferior derecha para activar el Asistente de Google</string>
-    <string name="assistant_edge_gesture_title">Desliza hacia arriba desde la esquina para el Asistente de Google</string>
     <string name="auto_add_app_shortcut">Colocar aplicaciones en la Pantalla de inicio</string>
     <string name="auto_delete_category_dialog_content">Las aplicaciones actuales serán eliminadas de esta categoría y esta también será eliminada. ¿Eliminar esta categoría?</string>
     <string name="auto_delete_category_dialog_title">Eliminando categoría</string>
@@ -307,6 +305,8 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
+    <string name="fsg_assist_enable_summary">Desliza desde la esquina de la pantalla para usar el Asistente de Google</string>
+    <string name="fsg_assist_enable_title">Asistente de Google</string>
     <string name="fsg_mistake_touch_summary">En algunos casos (por ejemplo cuando juega o mire vídeos), los gestos solo funcionarán después de repetirlos</string>
     <string name="fsg_mistake_touch_title">Confirmación de gestos</string>
     <string name="gadget_clear_button_label">Limpiador</string>
@@ -688,6 +688,7 @@ Seguridad mejorada."</string>
     <string name="shake_to_align_icons">Sacuda el dispositivo para rellenar los espacios vacíos con íconos</string>
     <string name="share">Compartir</string>
     <string name="shortcut_share_dialog_content">"Los archivos que envias desde tu dispositivo, así como los destinatarios, son seleccionados y determinados por ti. Presta atención cuando elijas archivos para compartir y selecciones destinatarios. No debes usar el dispositivo para enviar virus, malware, troyanos ni otros objetos dañinos. No lo uses para transmitir cualquier software que pueda afectar al uso del dispositivo destinatario o que pueda dañar, interferir, interceptar o eliminar datos del sistema o información personal. Serás responsable de cualquier daño causado a otros usuarios o dispositivos. Xiaomi hará todo lo posible para asegurar que la función de compartir, así como la tecnología e información involucrada sean seguras y efectivas, precisas y fiables. No obstante, debido a las limitaciones de la tecnología actual, no garantiza que la función de compartir sea perfecta y satisfaga todas tus necesidades."</string>
+    <string name="shortcut_share_dialog_content_pad">"Los archivos que envias desde tu dispositivo, así como los destinatarios, son seleccionados y determinados por ti. Presta atención cuando elijas archivos para compartir y selecciones destinatarios. No debes usar el dispositivo para enviar virus, malware, troyanos ni otros archivos dañinos. No lo uses para transmitir cualquier software que pueda afectar al uso del dispositivo destinatario o que pueda dañar, interferir, interceptar o eliminar datos del sistema o información personal. Serás responsable de cualquier daño causado a otros usuarios o dispositivos. Xiaomi hará todo lo posible para asegurar que la función de compartir, así como la tecnología e información involucrada sean seguras y efectivas, precisas y fiables. No obstante, debido a las limitaciones de la tecnología actual, no garantiza que la función de compartir sea perfecta y satisfaga todas tus necesidades."</string>
     <string name="shortcut_share_dialog_positive_button">Entendido</string>
     <string name="shortcut_share_dialog_title">Exención de responsabilidad</string>
     <string name="show_all">Mostrar todo</string>

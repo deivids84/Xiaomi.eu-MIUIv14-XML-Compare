@@ -201,6 +201,8 @@ Pulsa dos veces para comenzar."</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
 Pulsa dos veces para ver los detalles. 
 Pulsa dos veces y mantén pulsado para arrastrar."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s, %2$s, 
+Pulsa dos veces para ir a la página de detalles"</string>
     <string name="pa_accessibility_picker_home_search">Buscar widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
 Pulsa dos veces para comenzar."</string>
@@ -284,7 +286,7 @@ Pulsa dos veces para ver los detalles."</string>
     <string name="pa_express_detail_list_empty_text">"Los elementos pueden aparecer aquí con un retraso.
 También puede realizar un seguimiento de la entrega urgente en los sitios web oficiales de los servicios de mensajería."</string>
     <string name="pa_express_detail_more">Más</string>
-    <string name="pa_express_detail_order_number_prefix">Número de seguimiento: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Número del pedido: %s</string>
     <string name="pa_express_dialog_sign_message">¿Marcar este paquete como entregado? Su estado ya no se actualizará después de eso.</string>
     <string name="pa_express_empty_extra">Seguir</string>
     <string name="pa_express_empty_title">No hay información de entrega aquí</string>
@@ -302,7 +304,6 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_manual_query_hint">Introduzca el número de pedido para buscar</string>
     <string name="pa_express_manual_select_company">Seleccione</string>
     <string name="pa_express_manual_select_company_toast">Seleccionar servicio de mensajería</string>
-    <string name="pa_express_order_number">Número de pedido: %s</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Introduzca el código</string>
     <string name="pa_express_phone_binding_next_step">Siguiente</string>
     <string name="pa_express_phone_binding_number">Número de teléfono</string>
@@ -458,6 +459,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Actualice la aplicación para usar sus widgets</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalar aplicación</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Actualizar la aplicación</string>
+    <string name="pa_picker_detail_bt_loading">Espera un momento…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Abra la bóveda de aplicaciones para agregar widgets desde allí.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Usar bóveda de aplicaciones</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancelar</string>
@@ -480,8 +482,13 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_net_error">Error de red. Toca para volver a intentarlo.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Solo un segundo…</string>
     <string name="pa_picker_detail_small_widget">Widgets</string>
+    <string name="pa_picker_detail_state_error_retry">Algo ha salido mal. Inténtalo otra vez.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Comprado</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 monedas Mi</string>
     <string name="pa_picker_detail_theme_app_cta">Ajustes</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, primero permita que Temas se conecte a Internet. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Iniciar sesión</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Antes, inicia sesión en tu cuenta Xiaomi. "</string>
     <string name="pa_picker_detail_vp2_indicator">Página seleccionada %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este elemento se descargará a través de Wi-Fi</string>
     <string name="pa_picker_empty">"Los widgets no están disponibles en esta versión de la aplicación. 
@@ -491,6 +498,13 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_home_request_failed">Error de red</string>
     <string name="pa_picker_home_search_hint">Buscar widgets</string>
     <string name="pa_picker_home_title">Agregar widgets</string>
+    <string name="pa_picker_image_text_share">Compartir</string>
+    <string name="pa_picker_image_text_share_copy_url">Copiar la dirección URL</string>
+    <string name="pa_picker_image_text_share_more">Más</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">Favoritos de WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">Momentos de WeChat</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">"No se pudieron cargar los elementos. Intentar otra vez."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Widgets de Android</string>
     <string name="pa_picker_list_app_title">Aplicaciones con widgets</string>
@@ -502,9 +516,18 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_loading">Solo un segundo…</string>
     <string name="pa_picker_maml_list_activity_title">Agregar widgets</string>
     <string name="pa_picker_no_relevant_content">"No se encontraron resultados"</string>
+    <string name="pa_picker_order_go_to_allow_cta">Permitir</string>
+    <string name="pa_picker_order_go_to_login">Iniciar sesión</string>
+    <string name="pa_picker_order_login_xiaomi_account">Inicia sesión en tu cuenta Xiaomi para usar esta función.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Permite a esta aplicación la conexión a Internet para usar esta función.</string>
     <string name="pa_picker_permission_denied">"La bóveda de aplicaciones necesita acceder al estado de instalación
 para mostrar widgets."</string>
     <string name="pa_picker_purchase_order">Comprado</string>
+    <string name="pa_picker_recommend_add_limit_toast">"No se puede agregar más widgets"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Añadir widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Añadir widget</string>
+    <string name="pa_picker_recommend_download_tip">Cuando añades un widget, la aplicación asociada se descarga automáticamente</string>
+    <string name="pa_picker_recommend_title">Recomendado para ti</string>
     <string name="pa_picker_request">Ajustes</string>
     <string name="pa_picker_retry">Intentar otra vez</string>
     <string name="pa_picker_search">Buscar</string>
@@ -525,12 +548,15 @@ para mostrar widgets."</string>
     <string name="pa_picker_tab_title_category">Categorias</string>
     <string name="pa_picker_tab_title_fun">Descubrir</string>
     <string name="pa_picker_tab_title_recommend">Destacado</string>
+    <string name="pa_picker_theme_app_version_error">Se ha producido un error</string>
     <string name="pa_picker_tips_count_limit_forbidden">"No se pueden añadir más widgets. Elimina algunos para agregar otros."</string>
     <string name="pa_picker_toast_add_successfully">Agregado</string>
     <string name="pa_picker_toast_count_limit_forbidden">"No se pueden agregar más widgets"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"No se pueden agregar más widgets de este tipo"</string>
     <string name="pa_picker_toast_count_limit_warning">Agregado. Recuerda que tener muchos widgets en la pantalla de inicio puede ralentizar el dispositivo.</string>
     <string name="pa_picker_toast_screen_cell_locked">"El diseño de la pantalla de inicio está bloqueado. No puedes añadir widgets."</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, no está instalado</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, hay una actualización disponible</string>
     <string name="pa_privacy_text">Privacidad</string>
     <string name="pa_read_storage_permission_description">Para mostrar el fondo de pantalla de inicio como fondo de la aplicación</string>
     <string name="pa_recommend_add_btn">Comienzo</string>
@@ -732,6 +758,7 @@ para mostrar widgets."</string>
     <string name="pa_vertical_center">Disposición vertical. Alineado al centro.</string>
     <string name="pa_vertical_left">Disposición vertical. Alineado a la izquierda.</string>
     <string name="pa_vertical_right">Disposición vertical. Alineado a la derecha.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Un momento…</string>
     <string name="pa_widget_menu_edit">Editar</string>
     <string name="pa_widget_menu_remove">Quitar</string>
     <string name="pa_widget_menu_replace">Cambiar</string>

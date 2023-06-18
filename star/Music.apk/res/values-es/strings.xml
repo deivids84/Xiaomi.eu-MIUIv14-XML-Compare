@@ -111,6 +111,7 @@
     <string name="app_permission_use_group_storage_desc">Para encontrar y reproducir canciones guardadas en el dispositivo</string>
     <string name="apply_for_the_following_permissions">Esta aplicación solicita los siguientes permisos:</string>
     <string name="apply_permissions_greater_than_pie">Puedes conceder este permiso en Ajustes &gt; Aplicaciones &gt; Permisos &gt; Permisos &gt; Archivos y medios &gt; Música.</string>
+    <string name="apply_permissions_greater_than_tiramisu">Puedes conceder este permiso en Ajustes &gt; Aplicaciones &gt; Permisos &gt; Archivos y medios &gt; Música.</string>
     <string name="apply_permissions_less_than_pie">Puedes conceder este permiso en Ajustes &gt; Aplicaciones &gt; Permisos &gt; Permisos &gt; Acceder y cambiar archivos en el almacenamiento interno &gt; Música.</string>
     <string name="apply_permissions_tips_content">Permite que esta aplicación acceda a tus archivos para descubrir música en el dispositivo.</string>
     <string name="artist">Artistas</string>
@@ -190,8 +191,6 @@
     <string name="columbus_player_speed_video">Saltar VIDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
     <string name="columbus_skip_ad">Saltar</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">a8a8be13ea16450493cd5cec6858dae3</string>
-    <string name="com.miapm.build_id">bd2c23b00acb4e5dacce01ff053b3ee0</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que no habilites Servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
@@ -370,7 +369,7 @@
     <string name="downloaded">Descargado</string>
     <string name="downloaded_empty">Vacío</string>
     <string name="downloading">Cargando...</string>
-    <string name="downloading_apk">Descargardo… Mira el progreso en la Barra de notificaciones.</string>
+    <string name="downloading_apk">Descargando… Comprueba el progreso en el panel de notificación.</string>
     <string name="downloading_empty">Vacío</string>
     <string name="downloading_pause_apk">Pausado. Reanuda la descarga en la Barra de notificaciones.</string>
     <string name="due_date">Fecha de vencimiento: %s</string>
@@ -536,6 +535,8 @@
     <string name="headset_and_audio_effect_category">Auriculares y efectos de audio</string>
     <string name="headset_and_audio_effect_summary">Auriculares y ecualizador</string>
     <string name="headset_and_audio_effect_title">Auriculares y efectos de audio</string>
+    <string name="hgm_failed_to_connect_hint">"Comprueba los ajustes de la red e inténtalo otra vez. Si se trata de un error del servidor hungama, lo solucionaremos lo antes posible."</string>
+    <string name="hgm_network_request_error_toast">"No se pudo conectar a los servidores hungama. Inténtalo otra vez."</string>
     <string name="hgm_vip_btn_desc">Comenzar la prueba gratuita</string>
     <string name="hgm_vip_high_quality">Descargas de alta calidad</string>
     <string name="hgm_vip_no_ads">Sin anuncios ni limitaciones</string>
@@ -667,9 +668,19 @@
     <string name="loading_hint">Un momento…</string>
     <string name="loading_reached_the_bottom">"Eso es todo por ahora."</string>
     <string name="loading_text">Un momento…</string>
+    <string name="local_download_download">Descargar</string>
+    <string name="local_download_hint">Activa el Wi-Fi para la descarga</string>
+    <string name="local_download_item">Descargar gratis</string>
+    <string name="local_download_title">Selecciona canciones para descargar</string>
+    <string name="local_download_toast">Descargando…</string>
+    <string name="local_download_toast_notify">Descargando… Comprueba el progreso en el panel de notificación.</string>
     <string name="local_header_title">Música local</string>
     <string name="local_music">Canciones locales</string>
     <string name="local_music_is_not_available">"No tienes canciones en tu dispositivo."</string>
+    <string name="local_out_dialog_cancel">Cancelar</string>
+    <string name="local_out_dialog_desc">"Estás a punto de abrir una aplicación no asociada con Música Mi."</string>
+    <string name="local_out_dialog_ok">Aceptar</string>
+    <string name="local_out_dialog_title">Dejando Música Mi</string>
     <string name="local_page_album_more">Ver todo</string>
     <string name="local_page_artist_more">Más canciones de %s</string>
     <string name="local_page_playlist">Listas de reproducción</string>
@@ -1535,7 +1546,7 @@ Tamaño de actualización: %2$s"</string>
     <string name="you_may_like">También podría gustarte</string>
     <string name="you_might_like_it">Te podría gustar</string>
     <string name="youtube_download_canl">Cancelar</string>
-    <string name="youtube_download_fail_net">"No se pudo conectar ala red. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="youtube_download_fail_net">"No se pudo conectar. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="youtube_download_fail_source">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>
     <string name="youtube_download_fail_space">"No se pudo descargar. No hay suficiente espacio de almacenamiento."</string>
     <string name="youtube_download_fail_unknown">Se ha producido un error. Espera un par de minutos e inténtalo otra vez.</string>

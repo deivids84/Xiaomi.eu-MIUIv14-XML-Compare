@@ -304,6 +304,7 @@ Envíe este código al supervisor."</string>
     <string name="dialog_privacy_change_info">"Hemos actualizado la Política de Privacidad de Video Mi debido a los ajustes en los servicios que ofrecemos. Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar la aplicación."</string>
     <string name="dialog_privacy_change_title">Política de Privacidad actualizada</string>
     <string name="dialog_privacy_info_new4">"¡Bienvenido a Video Mi! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Servicios de transmisión en línea&lt;br&gt;&lt;/br&gt;- Un reproductor de video local&lt;br&gt;&lt;/br&gt;Video Mi necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra Política de Privacidad. Podrá cambiar la configuración relacionada en Ajustes&gt; Contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar Video Mi."</string>
+    <string name="dialog_privacy_info_new5">¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo.</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
     <string name="dialog_privacy_revoke_count_down">Retirar (%1$d s)</string>
     <string name="dialog_privacy_revoke_description">"Está a punto de retirar su consentimiento a la Política de privacidad de Mi Video. Dejaremos de recopilar su información personal. La información personal ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Su retiro del consentimiento a la Política de privacidad se considerará como negarse a aceptar servicios en línea basados en la información personal recopilada."</string>
@@ -326,6 +327,7 @@ Envíe este código al supervisor."</string>
     <string name="dialog_video_high">Alto</string>
     <string name="dialog_video_low">Bajo</string>
     <string name="dialog_video_medium">Medio</string>
+    <string name="dialog_ytb_content">"Estás a punto de salir del navegador y abrir YouTube. ¿Continuar?"</string>
     <string name="disagree">"No aceptar"</string>
     <string name="diy_channels_tips">Ahora puede personalizar la lista de sus canales.</string>
     <string name="do_not_show_again">"No mostrar de nuevo"</string>
@@ -656,6 +658,7 @@ Esta operación no afectará las imágenes de tu galería."</string>
     <string name="incentive_login_success_for_already_claimd">Sesión iniciada. Puntos reclamados.</string>
     <string name="incentive_login_tip">Inicia sesión para ganar puntos y lograr recompensas</string>
     <string name="incentive_my_points">Mis puntos</string>
+    <string name="incentive_offline">"Lamentamos informarte de que vamos a discontinuar nuestra función de tareas. Puedes canjear tus monedas hasta el 31 de julio de 2023."</string>
     <string name="incentive_popup_window_share">Compartir para ganar puntos</string>
     <string name="incentive_popup_window_subscribe">Suscribir para ganar puntos</string>
     <string name="incentive_rules_title_bar">Reglas</string>
@@ -847,6 +850,13 @@ para videos"</string>
     <string name="lv_use_notch">Mostrar notch</string>
     <string name="lv_volume">Volumen</string>
     <string name="manage">Administrar</string>
+    <string name="manager_request_Content">"Debido a la política de Android sobre gestión de archivos, Mi Video no puede acceder a vídeos de otras aplicaciones.
+Puedes conceder acceso a Mi Video para reproducir todos los archivos de vídeo.
+Solo usaremos este permiso para encontrar los videos que buscas, y no accederemos a ningún otro archivo. ¿Conceder acceso?"</string>
+    <string name="manager_request_cancel">Cancelar</string>
+    <string name="manager_request_continue">Permitir</string>
+    <string name="manager_request_tip">"No mostrar otra vez"</string>
+    <string name="manager_request_title">"No se puede acceder a este archivo"</string>
     <string name="mangotv_feature_list_title3">Añadido episodio %s</string>
     <string name="mangotv_feature_more">Más</string>
     <string name="mangotv_feature_title1">Episodios</string>
@@ -1070,6 +1080,8 @@ para videos"</string>
     <string name="my_feedback_title">Mis comentarios</string>
     <string name="need_update_app">Actualice Mi Video para usar todas sus funciones</string>
     <string name="network_connect_info">"No se puede conectar a la red."</string>
+    <string name="network_error_and_retry_tip">"No se pudo conectar. Comprueba los ajustes de red e inténtalo otra vez."</string>
+    <string name="network_error_tip">"No se pudo conectar. Comprueba los ajustes de red."</string>
     <string name="network_failed">"No se pudo conectar a la red"</string>
     <string name="newyearfestival_go_to_draw_prizes">Ir al sorteo de la suerte</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Ver videos para participar en el sorteo</string>
@@ -1638,6 +1650,8 @@ para videos"</string>
     <string name="talkback_voice_search">Búsqueda por voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Es posible que algunos videos no se vean aquí debido a restricciones de Android. Toca \"Archivos\" para buscar otros videos.</string>
     <string name="temporary_not_available">"Esta función todavía no está disponible"</string>
+    <string name="test_text_description">Qui asperiores quasi et omnis quidem et quam iure est repellendus repellat. Quo voluptatem ipsa sed aliquid libero ut pariatur similique eum facilis quia quo consequatur ipsam eos deserunt odio qui voluptas quod. Ut voluptatem earum ut odio facilis aut expedita possimus nam quia dolorum ut maxime recusandae At vitae nesciunt. At maiores voluptatem et laudantium recusandae sit perferendis eligendi 33 soluta optio in fugit pariatur aut magni molestiae et Quis veniam.</string>
+    <string name="test_text_title">Sit repudiandae aspernatur qui error autem.</string>
     <string name="text_default_ad_description">Anuncio</string>
     <string name="text_default_ad_title">Te puede interesar</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>

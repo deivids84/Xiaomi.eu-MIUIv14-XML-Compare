@@ -448,6 +448,7 @@
     <string name="app_manager_app_version_name">"Versión:"</string>
     <string name="app_manager_appupdate_remind">Notificar acerca de actualizaciones</string>
     <string name="app_manager_as_dlg_msg">Permitir a aplicaciones iniciarse automáticamente podría requerir RAM y batería adicionales. ¿Permitir de todas formas?</string>
+    <string name="app_manager_as_dlg_msg_new">"Permitir que una aplicación se inicie automáticamente puede aumentar la cantidad de memoria y el consumo de batería que utiliza. MIUI optimizará el permiso de inicio automático en aplicaciones usadas ocasionalmente para mejorar el rendimiento del dispositivo."</string>
     <string name="app_manager_as_dlg_title">Atención</string>
     <string name="app_manager_back">Atrás</string>
     <string name="app_manager_bipartition">Aplicaciones duales</string>
@@ -738,6 +739,7 @@ No perderás datos de aplicaciones."</string>
     <string name="auto_import_games">Pon todos tus juegos en el mismo lugar</string>
     <string name="auto_send_correcting_msg">Déjalo en blanco para verificar automáticamente a través de un SMS gratuito</string>
     <string name="auto_set_by_brand">Sincroniza los detalles del plan de datos con tu operador</string>
+    <string name="auto_start_tips">"MIUI optimizará el permiso de inicio automático en aplicaciones usadas ocasionalmente para mejorar el rendimiento del dispositivo."</string>
     <string name="auto_task_allow_suggestion">Sugerencias de tareas inteligentes</string>
     <string name="auto_task_available_device">Dispositivos disponibles</string>
     <string name="auto_task_condition_choose_battery_level_down">Cuando la batería alcance cierto nivel</string>
@@ -1378,6 +1380,7 @@ Todos los datos en tu dispositivo podrían ser borrados y tu contraseña de bloq
     <string name="dialog_btn_delete_icon">Quitar</string>
     <string name="dialog_btn_no_create_icon">Cancelar</string>
     <string name="dialog_btn_yes_create_icon">Añadir</string>
+    <string name="dialog_btn_yes_install_icon">Instalar</string>
     <string name="dialog_change_package_type_summary">Cambiar el plan de datos reiniciará todos los ajustes de uso de datos (ej. límite de datos) a sus valores por defecto. ¿Cambiar el plan de datos?</string>
     <string name="dialog_change_package_type_title">Cambiando el tipo de plan de datos</string>
     <string name="dialog_msg_auto_start_declare">Algunas aplicaciones pueden indicar, incorrectamente, que MIUI ha evitado su inicio. Comprueba los permisos otorgados a cada aplicación en Ajustes &gt; Aplicaciones.</string>
@@ -1387,6 +1390,8 @@ Todos los datos en tu dispositivo podrían ser borrados y tu contraseña de bloq
     <string name="dialog_msg_delete_icon_content_phone">Seguridad permite limpiar la basura del dispositivo, encontrar y neutralizar virus, ahorrar batería, administrar permisos y más.</string>
     <string name="dialog_msg_delete_icon_title_pad">¿Eliminar el acceso directo de la pantalla de inicio?</string>
     <string name="dialog_msg_delete_icon_title_phone">¿Eliminar el acceso directo de la pantalla de inicio?</string>
+    <string name="dialog_msg_install_manager_content">¿Instalar Seguridad otra vez?</string>
+    <string name="dialog_msg_install_manager_content_pad">¿Instalar Seguridad otra vez?</string>
     <string name="dialog_msg_stop_virus_scan">"¿Detener análisis antes de haber terminado?"</string>
     <string name="dialog_no_longer_alert">"No mostrar otra vez"</string>
     <string name="dialog_restrict_all_mobile_summary">Los datos móviles de la %s estarán restringidos para todas las aplicaciones.</string>
@@ -1521,7 +1526,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="eletric_group_title_two_identification_risk_mms">Avisar cuando se reenvían códigos de verificación</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"Recibir avisos cuando los códigos de verificación de tus mensajes se reenvíen a las aplicaciones de redes sociales"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Ocultar aplicaciones privadas</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">La transmisión se detendrá si cambias a Alipay, WeChat, Galería o Mensajes</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">"Si abres aplicaciones con información personal confidencial (WeChat, Alipay, Gallery, etc.) mientras compartes la pantalla del dispositivo, esta información no se mostrará. Puedes empezar a compartir manualmente otra vez."</string>
     <string name="eletric_group_two_identification_risk_app">Avisar sobre transacciones financieras de riesgo</string>
     <string name="eletric_group_two_identification_risk_mms">Protección del código de verificación</string>
     <string name="eletric_identification_unfamiliar_numbers">Identificar números desconocidos</string>
@@ -1566,8 +1571,6 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="ew_alert_emergency_text_single">Mostrar tarjeta médica</string>
     <string name="ew_alert_help_earthquake_title">Llegó la ola sísmica</string>
     <string name="ew_alert_help_place_navigation">Navegar</string>
-    <string name="ew_alert_help_place_text">Si es necesario, vaya al refugio más cercano para garantizar la seguridad y obtener la asistencia necesaria.</string>
-    <string name="ew_alert_help_place_title">Refugio cercano</string>
     <string name="ew_alert_help_safe_title">Evitar el peligro</string>
     <string name="ew_alert_help_tips">"Mantén la calma y mantente alerta. Manténgase alejado de objetos colgantes, no tome el elevador. Encuentra un espacio seguro, déjalo caer, cúbrete y agárrate."</string>
     <string name="ew_alert_no_contact">Establezca un contacto de emergencia en Seguridad&gt; Advertencia de terremoto primero</string>
@@ -1775,17 +1778,16 @@ voluntario"</string>
     <string name="exo_controls_pause_description">Pausar</string>
     <string name="exo_controls_play_description">Reproducir</string>
     <string name="exo_controls_playback_speed">Velocidad</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Pista anterior</string>
-    <string name="exo_controls_repeat_all_description">Repetir todo</string>
-    <string name="exo_controls_repeat_off_description">No repetir</string>
-    <string name="exo_controls_repeat_one_description">Repetir uno</string>
+    <string name="exo_controls_repeat_all_description">Modo actual: Repetir todo. Cambiar el modo de repetición.</string>
+    <string name="exo_controls_repeat_off_description">Modo actual: No repetir. Cambiar el modo de repetición.</string>
+    <string name="exo_controls_repeat_one_description">Modo actual: Repetir una. Cambiar el modo de repetición.</string>
     <string name="exo_controls_rewind_description">Rebobinar</string>
     <string name="exo_controls_seek_bar_description">Progreso de la reproducción</string>
     <string name="exo_controls_settings_description">Ajustes</string>
     <string name="exo_controls_show">Mostrar controles del reproductor</string>
-    <string name="exo_controls_shuffle_off_description">Modo aleatorio apagado</string>
-    <string name="exo_controls_shuffle_on_description">Modo aleatorio encendido</string>
+    <string name="exo_controls_shuffle_off_description">Activar el modo aleatorio</string>
+    <string name="exo_controls_shuffle_on_description">Desactivar el modo aleatorio</string>
     <string name="exo_controls_stop_description">Detener</string>
     <string name="exo_controls_vr_description">Modo RV</string>
     <string name="exo_download_completed">Descarga de archivos completado</string>
@@ -1968,31 +1970,27 @@ voluntario"</string>
     <string name="full_fill_oprator_and_location">Proporciona la información y ubicación de tu operadora</string>
     <string name="full_fill_sim_location">Establece primero la ubicación</string>
     <string name="fully_informed_privacy">Conciencia de privacidad</string>
-    <string name="function_auto_reject_detail">"Acerca de esta función:
-1. Mientras juegas, todas las llamadas entrantes a la tarjeta SIM sin servicio de datos móviles se rechazarán automáticamente.
-2. Verás notificaciones sobre llamadas perdidas y la otra persona escuchará un mensaje de audio que indica que estás ocupado en este momento.
-3. Esta función solo la admiten los operadores de telefonía móvil en China."</string>
-    <string name="function_auto_reject_detail_new">"Acerca de esta función:
-%1$d. Mientras juega, todas las llamadas entrantes a la tarjeta SIM sin servicio de datos móviles se rechazarán automáticamente.
-%2$d. Verás notificaciones sobre llamadas perdidas y la otra persona escuchará un mensaje de audio diciendo que estás ocupado en este momento.
-%3$d. Esta función solo es compatible con los operadores de telefonía móvil en China."</string>
+    <string name="function_auto_reject_detail_new">"Sobre esta función:
+%1$d. Mientras juegas, las llamadas entrantes en la tarjeta SIM sin servicio de datos móviles se rechazarán.
+%2$d. Verás notificaciones de llamadas perdidas y el llamante oirá un mensaje diciendo que estás ocupado en este momento.
+%3$d. Sólo es compatible con operadores móviles en China continental."</string>
     <string name="function_auto_reject_title">Rechazar llamadas VoLTE a tarjetas SIM sin servicio de datos</string>
     <string name="function_close">Desactivado</string>
-    <string name="function_gwsd_detail">"Acerca de esta función:
- 1. Cuando estés utilizando datos móviles en una SIM de datos o en una tarjeta SIM normal conectada a una red VoLTE, las llamadas entrantes no interrumpirán la conexión hasta que respondas.
- 2. Cuando esta función esté activada, la otra persona no podrá escuchar sus tonos de devolución de llamada a menos que esté usando una tarjeta SIM normal. Las llamadas entrantes serán rechazadas automáticamente después de 7-10 segundos de inactividad.
- 3. Las tarjetas SIM de datos emitidas por China Mobile y China Unicom son compatibles. Las tarjetas SIM regulares emitidas por China Mobile, China Unicom y China Telecom son compatibles."</string>
+    <string name="function_gwsd_detail">"Sobre esta función:
+ 1. Cuando utilizes datos móviles en una SIM de datos o en una SIM normal conectada a una red VoLTE, las llamadas entrantes no interrumpirán la conexión hasta que respondas.
+ 2. Con esta función activada, el llamante no podrá escuchar tus tonos de devolución de llamada si no usas una SIM normal. Las llamadas entrantes se rechazarán automáticamente después de 7 a 10 segundos de inactividad.
+ 3. Las tarjetas SIM de datos de China Mobile y China Unicom son compatibles. Las SIM normales de China Mobile, China Unicom y China Telecom son compatibles."</string>
     <string name="function_gwsd_detail_new">"Acerca de esta función:
  %1$d. Cuando usas datos móviles en una SIM de datos o una tarjeta SIM normal conectada a una red VoLTE, las llamadas entrantes no interrumpirán la conexión hasta que contestes.
- %2$d. Cuando esta función está activada, la otra persona no podrá escuchar tus tonos de devolución de llamada a menos que estés usando una tarjeta SIM normal. Las llamadas entrantes se rechazarán automáticamente después %3$da%4$d segundos de inactividad.
- %5$d. Se admiten las tarjetas SIM de datos emitidas por China Mobile y China Unicom. Se admiten las tarjetas SIM normales emitidas por China Mobile, China Unicom y China Telecom."</string>
+ %2$d. Con esta función activada, el llamante no podrá escuchar tus tonos de devolución de llamada si no usas una SIM normal. Las llamadas entrantes se rechazarán automáticamente después %3$d a %4$d segundos de inactividad.
+ %5$d. Las tarjetas SIM de datos de China Mobile y China Unicom son compatibles. Las SIM normales emitidas por China Mobile, China Unicom y China Telecom son compatibles."</string>
     <string name="function_gwsd_title">"No permitir que las llamadas entrantes interrumpan la conexión de datos móviles"</string>
     <string name="function_oncall_not_close_network">"No desconectar en llamadas"</string>
-    <string name="function_oncall_not_close_network_detail">"Sobre esta característica
- %1$d. Te permite seguir en línea durante las sesiones de juego sin nterrupciones por llamadas entrantes cuando el dispositivo está conectado a redes 5G específicas.
- %2$d. Si ninguna tarjeta SIM está conectada a una red 5G, las llamadas entrantes serán automáticamente rechazadas por la SIM principal.
- %3$d. Esta característica sólo está soportada en China continental.
- %4$d. Esta característica solo funciona en redes 5G-SA."</string>
+    <string name="function_oncall_not_close_network_detail">"Sobre esta función:
+%1$d. Te permite permanecer en línea durante las sesiones de juego sin que te interrumpan las llamadas entrantes cuando el dispositivo está conectado a redes específicas 5G.
+%2$d. Si ninguna tarjetas SIM está conectada a una red 5G, las llamadas entrantes se rechazarán automáticamente por la SIM principal.
+%3$d. Esta función sólo es compatible en China continental.
+%4$d. Solo funciona en redes 5G-SA."</string>
     <string name="function_shield_auto_bright">Desactivar el brillo automático</string>
     <string name="function_shield_eye_shield">Desactivar el Modo lectura</string>
     <string name="function_shield_pull_notification_bar">"No abrir la Barra de notificaciones"</string>
@@ -2325,6 +2323,12 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_turbo_time_subtitle">Programa tus sesiones</string>
     <string name="gb_turbo_voice_subtitle">Dale sabor a tus conversaciones</string>
     <string name="gb_turbo_wonder_subtitle">Graba momentos clave</string>
+    <string name="gb_vision_enhance">Imágenes mejoradas</string>
+    <string name="gb_vision_enhance_desc">Mejora la calidad de imagen y el rendimiento</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Velocidad de fotogramas inteligente</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajusta automáticamente la velocidad de fotogramas para suavizar el movimiento</string>
+    <string name="gb_vision_enhance_super_resolution">Superresolución</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Aumenta la resolución para ver detalles más finos</string>
     <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">El modificador de voz está activado</string>
     <string name="gb_voice_changer_cartoon">Dibujo animado</string>
@@ -2439,8 +2443,6 @@ de tus sesiones de juego"</string>
     <string name="gs_autobooster_dialog_message">"Si no estás usando el aumento de velocidad de Xunyou abre los juegos en la página designada."</string>
     <string name="gs_call_handsfree">Contestar llamadas con el manos libres</string>
     <string name="gs_call_handsfree_mute">Modo silencio</string>
-    <string name="gs_dialog_confirm_close_msg">El acceso directo será eliminado de su Pantalla de inicio. Ve a Seguridad &gt; Ajustes para restablecerlo.</string>
-    <string name="gs_dialog_confirm_close_title">Desactivar</string>
     <string name="gs_forbid_autosync">Restringir sincronización en segundo plano</string>
     <string name="gs_game_ai_record">Grabar usando IA</string>
     <string name="gs_game_disturb_msg">No Molestar</string>
@@ -2473,6 +2475,7 @@ de tus sesiones de juego"</string>
     <string name="gtb_brightness_adjust">Brillo</string>
     <string name="gtb_brightness_dialog_right_btn">Continuar</string>
     <string name="gtb_brightness_dialog_sub_message">*Puedes activar y desactivar esta función en Configuración.</string>
+    <string name="gtb_casual_guide_toast">Descubre aún más en Juegos</string>
     <string name="gtb_content_switch">Recomendaciones de contenido</string>
     <string name="gtb_content_switch_summary">Reciba recomendaciones de contenido relacionado con los juegos</string>
     <string name="gtb_deep_garbage_cleaning">Realizando limpieza profunda…</string>
@@ -2678,7 +2681,7 @@ La compañía telefónica puede cobrar cargos adicionales si usas la conexión d
     <string name="lock_screen_warning_switch_title">Mostrar avisos en la pantalla de Bloqueo</string>
     <string name="lock_screen_warning_value">Aviso de consumo de datos</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"No se reconoce la huella dactilar, inténtalo otra vez."</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Contraseña incorrecta, inténtalo otra vez.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">La contraseña no es correcta.</string>
     <string name="lockpattern_confirm_button_text">OK </string>
     <string name="lockpattern_continue_button_text">Siguente</string>
     <string name="lockpattern_need_to_confirm">Dibuja el patrón otra vez para confirmar</string>
@@ -2756,6 +2759,17 @@ responda"</string>
     <string name="main_toolbar_statistic">Estadísticas de uso de datos</string>
     <string name="main_traffic_detail">Uso de datos</string>
     <string name="make_sure_package_type">Selecciona tu plan de datos</string>
+    <string name="malicious_access_accessibility">Abrir servicios accesibles</string>
+    <string name="malicious_access_install">Leer la lista de aplicaciones</string>
+    <string name="malicious_access_location">Leer la ubicación</string>
+    <string name="malicious_access_pay">Solicitud de pagos</string>
+    <string name="malicious_access_wakelock">Uso de bloqueo</string>
+    <string name="malicious_activity_too_many">Actividad frecuente</string>
+    <string name="malicious_auto_start">Autoarranque</string>
+    <string name="malicious_bg_start">Publicidad emergente</string>
+    <string name="malicious_chain">Encadenamiento</string>
+    <string name="malicious_cold_start">Arranque en frío</string>
+    <string name="malicious_hot_start">Arranque en caliente</string>
     <string name="man_add_application">Añadir manualmente aplicaciones con inicio automático</string>
     <string name="manage_hybrid_permissions">"Gestionar permisos de aplicaciones"</string>
     <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
@@ -2893,15 +2907,16 @@ Tu dispositivo es %s más rápido ahora."</string>
     <string name="miui_optimization_close_title">Esta característica está destinada a desarrolladores y puede no ser conveniente para usuarios generales. Desactivar la optimización de MIUI puede provocar los siguientes cambios:</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -3268,6 +3283,8 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="operator_name_cbn">Broadnet de China</string>
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_virtual_operator">Operadora virtual</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Las aplicaciones maliciosas provocan riesgos de seguridad</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s puede ser una aplicación maliciosa</string>
     <string name="optimize_manage_title">Aumento de velocidad</string>
     <string name="optimize_result_available_memory_info">Memoria disponible</string>
     <string name="optimize_result_button_cloudspace">Obtener más espacio de almacenamiento en la nube</string>
@@ -3353,6 +3370,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumo total de energía</string>
     <string name="pc_battery_history_usetime_title">Activo</string>
+    <string name="pc_close_notifi_action">Desactivar</string>
     <string name="pc_emergency_call">Emergencia</string>
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_entered_extreme_mode">El modo hibernación está activado</string>
@@ -3403,11 +3421,14 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pc_main_power_manager_hour_minute">%1$sh %2$smin hasta que esté completamente cargado</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$smin restante</string>
+    <string name="pc_no_more_remind">"No recordar"</string>
     <string name="pc_performance_mode_dialog_summary">Tu dispositivo podrá trabajar %s en modo Rendimiento. Ten en cuenta que el modo Rendimiento incrementa el consumo de energía y puede llevar a sobrecalentamiento.</string>
     <string name="pc_performance_mode_dialog_summary2">El rendimiento del dispositivo mejorará. Esto podría aumentar el consumo de energía y provocar problemas de recalentamiento. ¿Activar de todos modos?</string>
     <string name="pc_performance_mode_dialog_title">Modo de rendimiento</string>
     <string name="pc_performance_mode_noti_summary">El modo de rendimiento puede aumentar el consumo de energía y provocar problemas de sobrecalentamiento</string>
     <string name="pc_performance_mode_noti_title">Mejoras en el rendimiento del dispositivo</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Dobla el dispositivo antes de cargarlo para una carga más rápida y estable.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Dóblalo para cargar</string>
     <string name="pc_search_keywords_battery">Batería</string>
     <string name="pc_search_keywords_battery_save">Ahorro de batería</string>
     <string name="pc_search_keywords_battery_use">Uso de la batería</string>
@@ -3421,6 +3442,8 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pc_temperature_too_high">Dispositivo sobrecalentado</string>
     <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
     <string name="pc_wait_device_cools_down">Espera hasta que el dispositivo se enfríe para usar esta función.</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Ponlo en el cargador inalámbrico</string>
+    <string name="pc_wireless_charge_adjust_position_title">Carga el dispositivo más rápidamente</string>
     <string name="pc_xiaoai_create_auto_task">Nueva tarea de IA Mi</string>
     <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
     <string name="perfermance_optimization_summary">Evitar el sobrecalentamiento y problemas relacionados con hardware</string>
@@ -3886,7 +3909,7 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="pp_one_app_two_use">Use dos cuentas sin cerrar sesión</string>
     <string name="pp_one_phone_two_space">Usa un dispositivo como dos</string>
     <string name="pp_only_allow_permission_during_this_run">Permite a las aplicaciones usar permisos una sola vez</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">Puedes permitir los permisos relacionados con la ubicación, la grabación de audio y los contactos solo una vez. Estos permisos se restringirán otra vez después de que se cierre la aplicación.</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">Puedes conceder el uso de permisos relacionados con la ubicación, grabación de audio y contactos solo una vez. Estos permisos se anularán después de cerrar la aplicación.</string>
     <string name="pp_operator_get_number">Aprobación de acceso al número de teléfono</string>
     <string name="pp_operator_get_number_summary">Las aplicaciones solicitarán tu permiso cuando quieran acceder a tu número de teléfono para iniciar sesión.</string>
     <string name="pp_optional_protection_function">Medidas de protección opcionales</string>
@@ -5154,6 +5177,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="superpower_settins_autoleave_title">Desactivar automáticamente</string>
     <string name="superpower_settins_other">Ajustes adicionales</string>
     <string name="superpower_settins_switch_summary">Restringe las funciones con mayor consumo de energía para mantener las funciones básicas (p. ej. llamadas, SMS y aplicaciones seleccionadas) disponibles el mayor tiempo posible</string>
+    <string name="support_app_name_securitycenter">Herramientas de seguridad</string>
     <string name="support_game_booster_tips">Aumentar velocidad y mejorar la experiencia de juego</string>
     <string name="sys_app_prot_cracked_confirm">Entendido</string>
     <string name="sys_cpu_title">Uso de CPU</string>
@@ -5679,6 +5703,16 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">* Estos efectos se aplican a toda la pantalla</string>
     <string name="vb_ve_settings_display_style_tips_new">*Los efectos se aplicarán solo al área de reproducción de video</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Este efecto sólo se aplicará al área de reproducción de vídeo.
+
+No funciona con vídeos mejorados.
+
+Activar uno desactivará el otro."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Este efecto se aplicará a toda la pantalla.
+
+No funciona con vídeos mejorados.
+
+Activar uno desactivará el otro."</string>
     <string name="vb_ve_settings_pic_border_stronger">Mejora de contornos</string>
     <string name="vb_ve_settings_picture_stronger">Animaciones mejoradas</string>
     <string name="vb_video_effects_3d">Sonido envolvente</string>
@@ -5691,8 +5725,10 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="vb_video_effects_dolby_headset">" (Solo auriculares)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos está encendido</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
+    <string name="vb_video_effects_dolby_tips">"La voz mejorada y el estéreo expandido no funcionarán con el sonido envolvente activado"</string>
     <string name="vb_video_effects_immersion_sound">Sonido envolvente</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimenta la inmersión y la sensación de espacio al reproducir el sonido a través de auriculares</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Experimenta la inmersión y sentido del espacio cuando se reproduce audio compatible</string>
     <string name="vb_video_effects_liquid_summary">Mejore la claridad del diálogo en los videos</string>
     <string name="vb_video_effects_only_headphone">Solo funciona con auriculares</string>
     <string name="vb_video_effects_setting_black_white">B/N</string>
@@ -5716,7 +5752,7 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="vb_video_effects_spatial">Seguimiento del movimiento de la cabeza</string>
     <string name="vb_video_effects_spatial_summary">"Ajuste el sonido inmersivo según el movimiento de la cabeza
 *Solo compatible con modelos de auriculares para juegos"</string>
-    <string name="vb_video_effects_spatial_summary_new">Experimenta una mayor sensación de espacio y direccionalidad para el audio y vídeo compatibles. Ajusta el sonido envolvente en función del movimiento de la cabeza.</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimenta una mayor sensación de espacio y dirección para el audio compatible al usar auriculares</string>
     <string name="vb_video_effects_srs_premium_sound">Sonido</string>
     <string name="vb_video_super_division">Reescalar</string>
     <string name="vb_video_super_division_desc">"Mejora la resolución automáticamente cuando sea ≤720p.

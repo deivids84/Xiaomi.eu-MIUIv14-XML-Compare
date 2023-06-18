@@ -654,12 +654,12 @@
     <string name="notification_uninstalled_clean_without_name">Silinməmiş tətbiqlər cihazınızda qalıq elementlər buraxır</string>
     <string name="notification_wechat_clean_high_level_hint">Cihazınızı sürətləndirmək üçün tullantıları təmizləyin</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat çox sayda tullantı fayl yaratdı</string>
-    <string name="notification_wechat_clean_high_level_text_b">"WeChat's tullantıları cihazınızı yavaşlandırır"</string>
+    <string name="notification_wechat_clean_high_level_text_b">"WeChat-ın tullantıları cihazınızı yavaşlandırır"</string>
     <string name="notification_wechat_clean_low_level_hint">Anbar sahəsini boşalt</string>
     <string name="notification_wechat_clean_low_level_text">"WeChat tullantılarını təmizlə"</string>
     <string name="notification_wechat_clean_middle_level_hint">Gecikmə olmadan bildiriş almaq üçün tullantıları təmizlə</string>
-    <string name="notification_wechat_clean_middle_level_text_a">"WeChat tullantıları həddindən artıq yer tutur"</string>
-    <string name="notification_wechat_clean_middle_level_text_b">"WeChat tullantıları tətbiqi yavaşlandırır"</string>
+    <string name="notification_wechat_clean_middle_level_text_a">"WeChat-ın tullantıları həddindən artıq yer tutur"</string>
+    <string name="notification_wechat_clean_middle_level_text_b">"WeChat-ın tullantıları tətbiqi yavaşlandırır"</string>
     <string name="notification_whatsapp_clean_button_text">Təmizlə</string>
     <string name="notification_whatsapp_clean_size">WhatsApp keşi %s həcminə çatdı</string>
     <string name="offline_notification_text">Reklamı açmaq üçün toxunun</string>

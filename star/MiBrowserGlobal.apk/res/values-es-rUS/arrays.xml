@@ -97,11 +97,6 @@
         <item>UTF-8</item>
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
-    <string-array name="bookshelf__general_shared__main_categories">
-        <item>Librería</item>
-        <item>Biblioteca</item>
-        <item>Estantería de libros</item>
-    </string-array>
     <string-array name="exo_controls_playback_speeds">
         <item>0,25x</item>
         <item>0,50x</item>

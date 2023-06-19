@@ -36,10 +36,6 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
-    <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">"%s həftə ərzində elementlərinizi nüsxələməmisiniz. Avto-nüsxələmələri necə işə salacağınızı görmək üçün toxunun."</item>
-        <item quantity="one">"%s həftə ərzində elementlərinizi nüsxələməmisiniz. Avto-nüsxələmələri necə işə salacağınızı görmək üçün toxunun."</item>
-    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Deyəsən, %s həftədir elementləri nüsxələmirsiniz. Vacib bir şeyi itirməmək üçün nüsxələr yaradın."</item>
         <item quantity="one">"Deyəsən, %s həftədir elementləri nüsxələmirsiniz. Vacib bir şeyi itirməmək üçün nüsxələr yaradın."</item>

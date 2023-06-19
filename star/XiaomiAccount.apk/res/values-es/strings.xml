@@ -318,7 +318,7 @@ Remite este código al supervisor."</string>
     <string name="in_progress">En progreso</string>
     <string name="inconsistent_pwd">"Las contraseñas no coinciden"</string>
     <string name="indeterminate">Ni marcado ni desmarcado</string>
-    <string name="input_email_address_notice">"Vamos a utilizar este correo electrónico para verificar tu cuenta"</string>
+    <string name="input_email_address_notice">"Enviaremos un correo electrónico con un código de verificación a la dirección que nos proporciones."</string>
     <string name="input_new_pwd">Introduce nueva contraseña</string>
     <string name="io_error_title">Confirma la red</string>
     <string name="item_view_role_description">Pestaña</string>
@@ -373,15 +373,16 @@ Remite este código al supervisor."</string>
     <string name="mipay_transit_card">Tarjeta de transporte</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Anular selección</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -662,6 +663,7 @@ Remite este código al supervisor."</string>
     <string name="passport_imei_permission_denied_message">"Solicitando permiso para obtener el IMEI del dispositivo. La cuenta Xiaomi usa el IMEI para identificar el dispositivo donde inicias sesión o te registras, como ayuda para mantenerla segura."</string>
     <string name="passport_imei_permission_denied_title">Solicitud de permiso IMEI</string>
     <string name="passport_input_captcha_hint">Introduzca código</string>
+    <string name="passport_input_email_vcode_hint">Escribe el código</string>
     <string name="passport_input_password_for_login">Este número está asociado a una cuenta existente, introduce tu contraseña</string>
     <string name="passport_input_password_hint">Contraseña</string>
     <string name="passport_input_phone_hint">Introducir número de teléfono</string>
@@ -855,6 +857,7 @@ Remite este código al supervisor."</string>
     <string name="passport_user_password_hint">Contraseña</string>
     <string name="passport_user_reg_region">País/Región</string>
     <string name="passport_user_reg_region_warning">"No podrá cambiar su país/región una vez creada la cuenta."</string>
+    <string name="passport_vcode_email_send_prompt"><Data>El código de verificación se ha enviado a &lt;a href=&gt;&lt;xliff:g id=email_address&gt;%s&lt;/xliff:g&gt;&lt;/a&gt;</Data></string>
     <string name="passport_vcode_notification_title">Su verificación de inicio de sesión es incompleta</string>
     <string name="passport_vcode_prompt_long">Introduzca el código de verificación</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificación a %s</string>
@@ -1000,8 +1003,8 @@ Remite este código al supervisor."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_ad">Anuncios en aplicaciones del sistema</string>
-    <string name="system_ad_list">Ver aplicaciones relacionadas.</string>
-    <string name="system_ad_summary">"Activa esta función para permitir que se muestren algunos anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar productos y servicios. Puedes desactivarla en cualquier momento. ¡Gracias por tu apoyo! "</string>
+    <string name="system_ad_list">Ver aplicaciones relacionadas</string>
+    <string name="system_ad_summary">Activa esta función para permitir que se muestren algunos anuncios en las aplicaciones del sistema. Estos anuncios nos ayudan a desarrollar y mejorar productos y servicios. Puedes desactivarla en cualquier momento.</string>
     <string name="system_ad_switch">Anuncios en aplicaciones del sistema</string>
     <string name="system_ad_switch_failed">"No se pudo aplicar los ajustes"</string>
     <string name="tab">Pestaña</string>

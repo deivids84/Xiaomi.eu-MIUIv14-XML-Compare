@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_to_recover">Un moment…</string>
-    <string name="access_denied_info">Massa intents. Espereu un minut o dos i proveu-ho de nou.</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="am">a. m.</string>
@@ -45,7 +44,6 @@
     <string name="backup_action_buy_cloud_space">Aconsegueix més espai d\'emmagatzematge</string>
     <string name="backup_action_check_network">Comproveu la configuració de xarxa</string>
     <string name="backup_action_clean_disk_space">Allibereu espai</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Feu una còpia de seguretat dels vostres articles</string>
     <string name="backup_action_long_time_not_backup_action">Còpia de seguretat</string>
     <string name="backup_action_long_time_not_backup_title">No hi ha còpies de seguretat recents</string>
     <string name="backup_action_no_space_with_wechat_off_content">No hi ha prou espai d’emmagatzematge al núvol per fer una còpia de seguretat d’elements d’aquest dispositiu. Toqueu per veure les opcions d\'emmagatzematge al núvol disponibles.</string>
@@ -169,7 +167,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_restore_from_other_device">"Voleu aturar la restauració de %s i esborrar aquesta còpia de seguretat? Aquesta acció és irreversible."</string>
     <string name="cloud_restore_task">S\'està restaurant…</string>
     <string name="cloud_task_in_process">"Voleu aturar %s i esborrar aquesta còpia de seguretat? Aquesta acció és irreversible."</string>
-    <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="confirm_restore">Restaura</string>
     <string name="confirm_restore_app_data">"WeChat ja està instal·lat en aquest dispositiu. No es poden restaurar les dades de WeChat."</string>
     <string name="confirm_restore_summary">Es reiniciarà la vostra pantalla d\'inici. Les aplicacions de còpia de seguretat es baixaran automàticament.</string>
@@ -189,17 +186,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">S\'està esperant…</string>
     <string name="desktop_waiting">S\'està esperant</string>
     <string name="device_delete_prompt">Voleu esborrar la còpia de seguretat de %s?</string>
-    <string name="diagnosis_log_send_failed">Ha fallat l\'enviament del registre de diagnòstic.</string>
-    <string name="diagnosis_log_sent_format">"S'ha enviat el registre de diagnòstic.
-ID:%s
-Envieu aquest codi al tècnic."</string>
     <string name="dialog_app_usage_consent_message">Aquesta funció ha d’accedir a les dades d’ús de les aplicacions per poder estimar la mida de les còpies de seguretat de WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permetre l\'accés a les dades d\'ús de l\'aplicació</string>
     <string name="dialog_app_usage_denied">Doneu permís \"Accés a l\'ús\" de la còpia de seguretat a la configuració per poder fer una còpia de seguretat dels elements.</string>
-    <string name="dialog_auto_backup_condition_normal_content">Per poder fer còpies de seguretat regularment de tots els elements importants automàticament, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">Per poder fer còpies de seguretat regularment de tots els elements importants automàticament, assegureu-vos que teniu prou espai d\'emmagatzematge al núvol i que aquest dispositiu està bloquejat %s bateria, i està connectat a Wi-Fi a la nit. També podeu fer còpies de seguretat manualment en qualsevol moment.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Ho tinc</string>
-    <string name="dialog_auto_backup_condition_normal_title">Feu una còpia de seguretat dels vostres articles</string>
     <string name="dialog_backup_failed">"No s'ha pogut fer la còpia de seguretat"</string>
     <string name="dialog_btn_cancel_backup">Cancel·leu</string>
     <string name="dialog_btn_confirm2">Entesos</string>
@@ -315,7 +304,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="for_diagnosis_usage_only">Utilitza aquesta informació només pel diagnòstic.</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -413,8 +401,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="msg_restore_with_metered_network_hint">Si procediu a restaurar aquests elements, s\'utilitzaran dades mòbils per a la baixada.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; fitxers seran baixats."</string>
     <string name="network_error">Connecteu-vos a la xarxa</string>
-    <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i proveu-ho de nou.</string>
-    <string name="network_timeout_info">"No s'ha pogut connectar a la xarxa. Proveu-ho de nou."</string>
     <string name="night">Vespre</string>
     <string name="no_account">No heu iniciat sessió al Compte Xiaomi.</string>
     <string name="no_backup">No hi ha còpies de seguretat al Núvol Xiaomi.</string>
@@ -422,7 +408,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="not_set">Sense definir</string>
     <string name="notification_channel_remind">Recordatori</string>
     <string name="notification_channel_service">Servei</string>
-    <string name="ok">D’acord</string>
     <string name="open_backup_switch">Commuta l\'interruptor de còpia de seguretat</string>
     <string name="other_device_main_space">Primer espai</string>
     <string name="other_device_second_space">Segon espai</string>
@@ -433,7 +418,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="pm">p. m.</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="process_whole_recovery">Restaurant «%s»</string>
-    <string name="progressbar_title">Comprovació de problemes de seguretat…</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_background_restore_more_data">Restaureu més elements en segons pla</string>
     <string name="provision_error_connect_msg">"Podeu provar la xarxa i provar-ho de nou. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida."</string>
@@ -511,8 +495,6 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="self_device_main_space">Primer espai</string>
     <string name="self_device_second_space">Segon espai</string>
     <string name="send">Envia</string>
-    <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
-    <string name="sending">S\'està enviant…</string>
     <string name="session_action_btn_text_return_home">Pantalla d\'inici</string>
     <string name="session_backup_apk_data_text">S\'està fent una còpia de seguretat de les dades de WeChat…</string>
     <string name="session_backup_apk_text">Còpia de seguretat del disseny de la pantalla d\'inici i de la configuració del sistema…</string>
@@ -564,8 +546,6 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="sunday">diumenge</string>
     <string name="sunday_short">dg.</string>
     <string name="sunday_shortest">dg.</string>
-    <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i proveu-ho de nou.</string>
-    <string name="temporary_not_available">no disponible temporalment</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia contra les Agressions</string>
     <string name="the_arbor_day">Dia de l\'Arbre</string>
@@ -623,7 +603,6 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="tuesday">dimarts</string>
     <string name="tuesday_short">dm.</string>
     <string name="tuesday_shortest">dm.</string>
-    <string name="unknown_error_info">Error desconegut</string>
     <string name="unselected">No s\'ha seleccionat</string>
     <string name="unsupported_home">Actualitzeu MIUI a la darrera versió.</string>
     <string name="v7_preference_off">DESACTIVAT</string>

@@ -311,16 +311,6 @@
     <string name="relay_network_error_msg">"Şəbəkə xətasına görə bu cihazda zənglər alına bilmir. Bunun əvəzinə telefonunuza qayıdın."</string>
     <string name="remind_unlock_message">Cihazınız indi kilidlidir. Cihazınızın kilidini açdığınızdan sonra \"%s\" əlçatan olacaq. Kilid indi açılsın?</string>
     <string name="respond_via_sms_custom_message">Xüsusi SMS</string>
-    <string name="saf_permission_content">"Sistem icazələri güncəlləndi. Zəngləri yazmaq üçün əvvəlcə icazə verin.
-
-İcazə necə verilir?
-\"%1$s\" toxunun, daha sonra \"%2$s\" elementini seçin."</string>
-    <string name="saf_permission_grant_permission_immediately">Növbəti</string>
-    <string name="saf_permission_later">İndi yox</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Səsyazmaları saxlamaq üçün əvvəlcə cihazın kilidini açın. İndi açılsın?</string>
-    <string name="saf_permission_refused">"Əskik icazələrə görə zənglər yazıla bilmir"</string>
-    <string name="saf_permission_title">İcazə tələb olunur</string>
-    <string name="saf_permission_use_this_folder">Bu qovluğu istifadə et</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>

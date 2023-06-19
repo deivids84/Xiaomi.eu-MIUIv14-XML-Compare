@@ -165,11 +165,11 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s h adelantadas</item>
-        <item quantity="one">%s h adelantada</item>
+        <item quantity="other">+%s horas</item>
+        <item quantity="one">+%s hora</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s h atrasadas</item>
-        <item quantity="one">%s h atrasada</item>
+        <item quantity="other">-%s horas</item>
+        <item quantity="one">-%s hora</item>
     </plurals>
 </resources>

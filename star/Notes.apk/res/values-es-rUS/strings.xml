@@ -73,6 +73,8 @@
     <string name="audio_create_will_cancel_state">Suelte para cancelar</string>
     <string name="audio_dialog_mode_meeting">Modo reunión (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">No, gracias</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Reconocimiento de voz desactivado</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">"No se pudo completar el reconocimiento de voz"</string>
     <string name="audio_dialog_mode_meeting_sum">El modo de reunión le permite reconocer las voces de %1$d-%2$d personas diferentes. Algunos errores de reconocimiento pueden ocurrir en la versión Beta.</string>
     <string name="audio_dialog_mode_meeting_use">Iniciar</string>
     <string name="audio_toast_file_invalid">Archivo de audio inválido</string>
@@ -535,6 +537,7 @@
     <string name="pad_note_create_hint">Toque el botón para crear una nota</string>
     <string name="pad_note_list_not_text_stub">Sin texto</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="paste_unsupported_data">"No se puede pegar este contenido"</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -815,6 +818,7 @@
     <string name="toast_refuse_to_use_external_storage">"Los permisos de almacenamiento están restringidos.
 Permita a Notas leer el contenido de su tarjeta SD."</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt_v14">Para insertar imágenes en Notas, permite que la aplicación acceda a todas las fotos</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permita a Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que Notas acceda al almacenamiento para poder agregar imágenes a sus notas</string>

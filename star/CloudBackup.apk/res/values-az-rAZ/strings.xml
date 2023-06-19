@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_to_recover">Bir saniyə…</string>
-    <string name="access_denied_info">Həddən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
@@ -45,7 +44,6 @@
     <string name="backup_action_buy_cloud_space">Daha çox anbar sahəsi əldə et</string>
     <string name="backup_action_check_network">Şəbəkə tənzimləmələrini yoxla</string>
     <string name="backup_action_clean_disk_space">Sahəni boşalt</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Elementlərinizi nüsxələyin</string>
     <string name="backup_action_long_time_not_backup_action">Nüsxələ</string>
     <string name="backup_action_long_time_not_backup_title">Təzəlikcə heç bir nüsxələmə yoxdur</string>
     <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdakı elementləri nüsxələmək üçün yetərli bulud anbar sahəsi yoxdur. Mövcud bulud anbar seçimlərinə baxmaq üçün toxunun.</string>
@@ -169,7 +167,6 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_restore_from_other_device">"%s cihazından bərpanı dayandırıb bu nüsxəni silirsiniz? Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="cloud_restore_task">Bərpa edilir…</string>
     <string name="cloud_task_in_process">"%s dayandırılsın və bu nüsxə silinsin? Bu əməliyyatın geri dönüşü yoxdur."</string>
-    <string name="collect_diagnosis_log">Diaqnoz jurnalını yığın</string>
     <string name="confirm_restore">Bərpa et</string>
     <string name="confirm_restore_app_data">"WeChat artıq bu cihazda quraşdırılıb. WeChat verilənləri bərpa edilə bilmir."</string>
     <string name="confirm_restore_summary">Əsas ekranınız yenidən başladıcaq. Nüsxələnmiş tətbiqlər avtomatik olaraq endiriləcək.</string>
@@ -189,17 +186,9 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="desktop_wait_network">Gözləyir…</string>
     <string name="desktop_waiting">Gözlənilir</string>
     <string name="device_delete_prompt">%s nüsxəsi silinsin?</string>
-    <string name="diagnosis_log_send_failed">Diaqnoz jurnalı göndərilmədi.</string>
-    <string name="diagnosis_log_sent_format">"Diaqnoz jurnalı göndərildi.
-Kimlik: %s
-Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_app_usage_consent_message">Bu özəlliyin WeChat nüsxələrinin həcmini təxmin edə bilməsi üçün tətbiq istifadə verilənlərinə müraciətinə ehtiyacı var.</string>
     <string name="dialog_app_usage_consent_title">Tətbiq istifadəsi verilənlərinə müraciətə icazə verin</string>
     <string name="dialog_app_usage_denied">Elementləri nüsxələyə bilmək üçün Tənzimləmələrdə Nüsxələmə üçün \"İstifadə müraciəti\" icazəsini verin.</string>
-    <string name="dialog_auto_backup_condition_normal_content">Bütün vacib elementləri müntəzəm olaraq avtomatik nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">Bütün vacib elementləri müntəzəm olaraq avtomatik nüsxələyə bilmək üçün, buludda yetərli anbar sahəsinin olduğuna və bu cihazın kilidli olduğuna, batareya faizinin %s dən çox olduğuna və gecələri Wi-Fi-a bağlı olduğuna əmin olun. Həmçinin istənilən vaxt əllə nüsxələyə bilərsiniz.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Anladım</string>
-    <string name="dialog_auto_backup_condition_normal_title">Elementlərinizi nüsxələyin</string>
     <string name="dialog_backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="dialog_btn_cancel_backup">İmtina</string>
     <string name="dialog_btn_confirm2">Anladım</string>
@@ -271,7 +260,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
-    <string name="for_diagnosis_usage_only">Bu məlumatı yalnız diaqnoz üçün istifadə edin.</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
@@ -369,8 +357,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="msg_restore_with_metered_network_hint">Bu elementləri bərpa etməyə davam etsəniz, endirmə üçün mobil internet istifadə ediləcək.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; fayl endiriləcək."</string>
     <string name="network_error">Şəbəkəyə bağlan</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
-    <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="night">Axşam</string>
     <string name="no_account">Xiaomi Hesabına daxil olunmadı.</string>
     <string name="no_backup">Xiaomi Cloud-da nüsxə yoxdur.</string>
@@ -378,7 +364,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="notification_channel_remind">Xatırladıcı</string>
     <string name="notification_channel_service">Xidmət</string>
-    <string name="ok">Oldu</string>
     <string name="open_backup_switch">Nüsxələmə açarını dəyişdir</string>
     <string name="other_device_main_space">Birinci sahə</string>
     <string name="other_device_second_space">İkinci sahə</string>
@@ -387,7 +372,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="process_whole_recovery">\"%s\" bərpa edilir</string>
-    <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
     <string name="provision_back">Geri</string>
     <string name="provision_background_restore_more_data">Arxaplanda daha çox element bərpa et</string>
     <string name="provision_error_connect_msg">"Şəbəkəni test edib yenidən sınayın. Nüsxələr, cihaz xətdən kənarda olduqda əlçatmazdır."</string>
@@ -465,8 +449,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="self_device_main_space">Birinci sahə</string>
     <string name="self_device_second_space">İkinci sahə</string>
     <string name="send">Göndər</string>
-    <string name="send_diagnosis_log">Diaqnoz jurnalını göndər</string>
-    <string name="sending">Göndərilir…</string>
     <string name="session_action_btn_text_return_home">Əsas ekran</string>
     <string name="session_backup_apk_data_text">WeChat verilənləri nüsxələnir…</string>
     <string name="session_backup_apk_text">Əsas ekran düzümü və sistem tənzimləmələri nüsxələnir…</string>
@@ -517,8 +499,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="temporary_not_available">müvəqqəti olaraq əlçatmazdır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -573,7 +553,6 @@ Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="unknown_error_info">Bilinməyən xəta</string>
     <string name="unselected">Seçilmədi</string>
     <string name="unsupported_home">MIUI-yı ən son versiyaya güncəlləyin.</string>
     <string name="v7_preference_off">BAĞLI</string>

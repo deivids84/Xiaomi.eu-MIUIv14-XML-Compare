@@ -68,6 +68,9 @@
     <string name="ad_setting">Ajustes adicionales</string>
     <string name="add">Añadir</string>
     <string name="add_music">Agregar canciones</string>
+    <string name="add_songs_manually_bottom">Añadir</string>
+    <string name="add_songs_manually_home">Añadir canciones manualmente</string>
+    <string name="add_songs_manually_setting">Añadir canciones manualmente</string>
     <string name="add_to_last_of_playlist">Agregar al final de la lista de reproducción</string>
     <string name="add_to_playlist">Añadir a la cola</string>
     <string name="add_to_playlist_successful">Agregada con éxito</string>
@@ -219,6 +222,7 @@
     <string name="create_playlist">Crear lista de reproducción</string>
     <string name="create_playlist_failure">"No se pudo crear la lista de reproducción"</string>
     <string name="create_playlist_input_hint">Introducir nombre de la lista de reproducción</string>
+    <string name="create_shortcut_for_playlist">¿Crear un acceso directo a la lista de reproducción?</string>
     <string name="current_album">Portada actual</string>
     <string name="current_lyric">Letras actuales</string>
     <string name="current_version">Versión actual</string>
@@ -1563,6 +1567,15 @@ Sea Feliz"</string>
     <string name="wednesday_short">Mié</string>
     <string name="wednesday_shortest">Mié</string>
     <string name="welcome_to_entertainment">Dale un vistazo a la nueva función de entretenimiento para juegos de música y más</string>
+    <string name="whitelist_add_exist">"Algunas canciones ya están incluidas como Canciones Locales y no se muestran aquí"</string>
+    <string name="whitelist_add_failed">"No se pudo agregar archivos"</string>
+    <string name="whitelist_desc_1">"Si Música Mi no encuentra las canciones buscadas en el dispositivo, puedes añadirlas manualmente."</string>
+    <string name="whitelist_desc_2">"Estos archivos se mostrarán aunque el tamaño del archivo y la duración de la canción no coincidan o estén en carpetas ocultas."</string>
+    <string name="whitelist_dialog_content">"Los archivos eliminados no aparecerán en las excepciones de Música Mi, pero no se borran del dispositivo. ¿Borrarlos?"</string>
+    <string name="whitelist_dialog_title">¿Borrar los archivos?</string>
+    <string name="whitelist_entrance_desc">"Agregar manualmente los archivos que Música Mi no localiza automáticamente"</string>
+    <string name="whitelist_entrance_text_1">"¿No encuentras una canción? "</string>
+    <string name="whitelist_title">Excepciones de archivo</string>
     <string name="wifi_required_body" formatted="false">"Conéctese a Wi-Fi para completar esta %sdescarga.
 
 Toque%spara iniciar esta descarga la próxima vez que se conecte a una red Wi-Fi."</string>

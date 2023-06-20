@@ -107,7 +107,7 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="head_set_tip_dialog_msg">Desconecte sus auriculares para poder grabar sonido con preajustes específicos (por ejemplo, música, voz).</string>
+    <string name="head_set_tip_dialog_msg">Desconecta tus auriculares para grabar sonido con ajustes específicos (por ejemplo, música y voz).</string>
     <string name="head_set_tip_dialog_ok">Entendido</string>
     <string name="head_set_tip_dialog_title">Usar el micrófono interno</string>
     <string name="high_bit_rate">MP3, ~%1$d Kbps, ~%2$d MB/h</string>
@@ -262,6 +262,11 @@
 Cómo conceder permiso
 Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Siguiente</string>
+    <string name="new_search_alll_records_hint">Buscar todas las grabaciones</string>
+    <string name="new_search_app_records_hint">Buscar grabaciones de aplicaciones</string>
+    <string name="new_search_call_records_hint">Buscar grabaciones de llamadas</string>
+    <string name="new_search_fm_records_hint">Buscar grabaciones de radio</string>
+    <string name="new_search_recorder_records_hint">Buscar en la Grabadora</string>
     <string name="night">Tarde-noche</string>
     <string name="no_content">No hay elementos aquí todavía</string>
     <string name="no_file">Vacío</string>

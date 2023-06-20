@@ -137,6 +137,12 @@
     <string name="ad_btn_default_text">Más información</string>
     <string name="ad_floating_window_title">Cerrar ventana flotante para desbloquear</string>
     <string name="ad_split_screen_title">Salga de la pantalla dividida para desbloquear</string>
+    <string name="ad_text_adx">Publicidad</string>
+    <string name="ad_text_btn_download">Instalar</string>
+    <string name="ad_text_develop">Desarrollador: %1$s</string>
+    <string name="ad_text_permission">Permisos</string>
+    <string name="ad_text_privacy">Privacidad</string>
+    <string name="ad_text_version">Versión: %1$s</string>
     <string name="ad_update_time">Última actualización %s</string>
     <string name="ad_update_time_unKnown">Última actualización desconocida</string>
     <string name="adb_install_no_network">Conéctese a la red y vuelva a intentarlo</string>
@@ -179,6 +185,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Cuando la pantalla está apagada, la aplicación funcionará en segundo plano sin interrumpir el proceso de transmisión. Presione el botón de Encendido para volver a encender la pantalla.</string>
     <string name="all_address_choose_hint">Todos los números de esta provincia</string>
     <string name="allow_all">Allow all</string>
+    <string name="allow_onetime">Permitir una vez</string>
     <string name="already_close_gamebooster">Game Turbo desactivado</string>
     <string name="am">AM</string>
     <string name="anti_disturb_msg_detail">Desactivar todas las notificaciones excepto las llamadas entrantes</string>
@@ -279,7 +286,7 @@
     <string name="app_behavior_clipboard">%1s accedió o guardó elementos en el portapapeles</string>
     <string name="app_behavior_clipboard_bg">%1s accedió o guardó elementos en el portapapeles en segundo plano</string>
     <string name="app_behavior_clipboard_bg_new">%1s copió elementos en el portapapeles en segundo plano</string>
-    <string name="app_behavior_clipboard_bg_single">Esta aplicación accedió o guardó elementos en el portapapeles en segundo plano</string>
+    <string name="app_behavior_clipboard_bg_single">Esta aplicación ha accedido o guardado elementos en el portapapeles en segundo plano</string>
     <string name="app_behavior_clipboard_bg_single_new">Esta aplicación copió elementos en el portapapeles en segundo plano</string>
     <string name="app_behavior_clipboard_new">%1s copió elementos en el portapapeles</string>
     <string name="app_behavior_clipboard_read_bg_single">Esta aplicación accedió a elementos en el portapapeles en segundo plano</string>
@@ -434,6 +441,15 @@
     <string name="app_install_intercept">Bloquear instalación</string>
     <string name="app_install_tips_go_to">Abrir</string>
     <string name="app_install_tips_install_success">%1$s instalado con éxito</string>
+    <string name="app_management_for_chain_start">Bloquear la apertura de otras aplicaciones</string>
+    <string name="app_management_for_chain_start_desc">Evita que esta aplicación se conecte o abra otras aplicaciones</string>
+    <string name="app_management_for_device_id">Ocultar identificadores y evitar rastreo</string>
+    <string name="app_management_for_device_id_desc">Evita que esta aplicación acceda al número de teléfono y a la información de identificación personal</string>
+    <string name="app_management_for_independent_storage">Aislar datos almacenados en caché</string>
+    <string name="app_management_for_independent_storage_desc">Solo permitir a la aplicación el acceso a sus propios archivos y datos</string>
+    <string name="app_management_for_install">Bloquear descargas de aplicaciones</string>
+    <string name="app_management_for_install_desc">Evita que esta aplicación descargue o instale otras aplicaciones</string>
+    <string name="app_management_measures">Gestión de aplicaciones</string>
     <string name="app_manager_advanced_setting">Ajustes avanzados</string>
     <string name="app_manager_allow">Sí</string>
     <string name="app_manager_anomaly_analysis">Analizar problemas de aplicaciones de terceros</string>
@@ -544,6 +560,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="app_manager_tab_manager">Administrar</string>
     <string name="app_manager_thumbnail_blur_summary">Difuminar vistas previas de aplicaciones en Recientes</string>
     <string name="app_manager_thumbnail_blur_title">Difuminar previsualizaciones de aplicaciones</string>
+    <string name="app_manager_thumbnail_shield_summary">Desenfocar la vista previa en aplicaciones recientes</string>
     <string name="app_manager_title">Administrar aplicaciones</string>
     <string name="app_manager_to_appstore">Descubra más aplicaciones</string>
     <string name="app_manager_total_size">Total</string>
@@ -564,6 +581,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="app_name_pad">Seguridad</string>
     <string name="app_name_phone">Seguridad</string>
     <string name="app_name_securitycenter">Seguridad</string>
+    <string name="app_name_securitycenter_new">Seguridad</string>
     <string name="app_not_installed_toast">"Aplicación no instalada en su dispositivo."</string>
     <string name="app_perm_manager_service">Permisos</string>
     <string name="app_permission_use_group_calendar">Calendario</string>
@@ -714,8 +732,8 @@ No perderá ningún dato de aplicación."</string>
     <string name="apps_item_sign_install_button_text">Reemplazar</string>
     <string name="apps_item_sms_default_set_success">Establecido con éxito</string>
     <string name="apps_item_sms_reset_button_text">Restaurar a predeterminados</string>
-    <string name="apps_item_sms_title">Ajustes de mensajes predeterminados</string>
-    <string name="apps_item_summary_sms">%s tiene acceso a sus mensajes, puede causar problemas de seguridad</string>
+    <string name="apps_item_sms_title">La aplicación de mensajería del sistema se ha sustituido</string>
+    <string name="apps_item_summary_sms">"Ahora, %s está administrando los SMS. Para una mejor experiencia, use la aplicación de mensajería de MIUI."</string>
     <string name="apps_item_summary_system_rooted">El acceso raíz ha sido permitido. Restaure los ajustes predeterminados para evitar riesgos de seguridad.</string>
     <string name="apps_item_summary_system_update">Algunos bugs se han corregido en la nueva versión, para hacer los pagos más seguros.</string>
     <string name="apps_item_title_system">Actualización del sistema</string>
@@ -875,6 +893,7 @@ No perderá ningún dato de aplicación."</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmas</string>
     <string name="auto_task_voice_dialog_call_title">Llamadas, notificaciones, recordatorios</string>
     <string name="auto_task_voice_dialog_media_title">Música, juegos, medios</string>
+    <string name="autostart_now_tip">"Bloqueado \"%1$s\" desde la apertura \"%2$s\" "</string>
     <string name="back_app_name">Volver a bloqueo de aplicaciones</string>
     <string name="back_description_securitycenter">Atrás</string>
     <string name="back_modifypassword">Volver a cambiar el tipo de contraseña</string>
@@ -1051,6 +1070,7 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
     <string name="block_message_number">Mensajes: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Llamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="blur_location_title">Ubicación aproximada</string>
     <string name="boost_done">Incrementado con éxito</string>
     <string name="boost_stop">Desactivar aumento de velocidad</string>
     <string name="booster_immediately">Turbo</string>
@@ -1181,6 +1201,7 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="cetus_invisible_mode_warn_location">"Está en incógnito. Los permisos de ubicación están suspendidos."</string>
     <string name="cetus_invisible_mode_warn_open">El modo de incógnito suspende los permisos relacionados con el micrófono, la cámara y la ubicación para todas las aplicaciones. ¿Encender ahora?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Está en incógnito. Los permisos de micrófono están suspendidos."</string>
+    <string name="chainstart_desc_for_exemption">La aplicación no revisada \"%1$s\" está abriendo \"%2$s\". Tenga cuidado al realizar pagos.</string>
     <string name="character_counter_content_description">Caracteres ingresados: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Entiendo</string>
@@ -1268,6 +1289,8 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="cs_func_toast_headset">Desconecta los audífonos para usar esta función</string>
     <string name="cs_func_toast_light">Cambia a la cámara frontal para usar esta función</string>
     <string name="cs_func_toast_pickup">Cambia a una videollamada para usar esta función</string>
+    <string name="cs_pickup_denoise_desc">Reduce el ruido del audio entrante cuando usas altavoces o auriculares</string>
+    <string name="cs_pickup_denoise_title">Reducción de ruido</string>
     <string name="cs_pickup_multi_desc">%d grados de captura de audio</string>
     <string name="cs_pickup_multi_title">Múltiples participantes</string>
     <string name="cs_pickup_single_desc">Capturar el sonido solo delante de la pantalla</string>
@@ -1287,6 +1310,7 @@ Sin embargo, algunas de tus transacciones aún no se han completado. Para poder 
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a Internet</string>
     <string name="cta_main_purpose">"¡Te damos la bienvenida a Seguridad! Puedes usar Seguridad y sus módulos (incluidos los componentes de MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear el dispositivo buscando virus, controlar el uso de la batería, optimizar el dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI conectarán a Internet y realizarán escaneos de seguridad al instalar aplicaciones y realizar pagos."</string>
+    <string name="cta_main_purpose_new">"¡Te damos la bienvenida a Seguridad! Puedes usar Seguridad y sus módulos (incluidos los componentes de MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear el dispositivo buscando virus, controlar el uso de la batería, optimizar el dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI conectarán a Internet y realizarán escaneos de seguridad al instalar aplicaciones y realizar pagos."</string>
     <string name="cta_settings">Permitir conectarse a internet y acceder a la ubicación</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet funciona con normalidad.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar la lista de bloqueo y hacer llamadas a contactos de emergencia cuando se emiten advertencias de terremoto</string>
@@ -1490,6 +1514,8 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="doze_optimization_title">Controles táctiles optimizados</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="dynamic_performance_optimization_summary">Ajustar dinámicamente la resolución durante las sesiones de juego</string>
+    <string name="dynamic_performance_optimization_title">Rendimiento dinámico</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_new_task_name">Ingrese el nombre de la tarea</string>
     <string name="edit_phone_num">Editar número de teléfono de la SIM</string>
@@ -2326,6 +2352,8 @@ pero también aumenta el consumo de energía y permite que su dispositivo se sob
     <string name="gb_turbo_wonder_subtitle">Graba momentos clave</string>
     <string name="gb_vision_enhance">Imágenes mejoradas</string>
     <string name="gb_vision_enhance_desc">Mejora la calidad de imagen y el rendimiento</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Tasa de fotogramas inteligente
+%d FPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Velocidad de fotogramas inteligente</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajusta automáticamente la velocidad de fotogramas para suavizar el movimiento</string>
     <string name="gb_vision_enhance_super_resolution">Superresolución</string>
@@ -2614,6 +2642,7 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="input_aviable_traffic">Establecer el límite de uso de datos</string>
     <string name="input_celluar_data_quota_hint">Introducir límite de datos</string>
     <string name="input_cellular_data_warn_hint">Ingrese el límite de alerta de uso de datos</string>
+    <string name="input_hint_search_app">Buscar aplicaciones</string>
     <string name="input_password_hint_text">Ingrese la contraseña</string>
     <string name="input_phone_num_hint">Editar número de teléfono de la SIM</string>
     <string name="input_title">Toca para entrar</string>
@@ -3074,7 +3103,7 @@ Puedes desactivar la opción en \"Ajustar automáticamente las estadísticas de 
 
 3. La señal de red de su operadora podría ser débil en su ubicación actual."</string>
     <string name="network_operator_exception_summary">"No se pudo activar la tarjeta SIM. Asegúrese de que su tarjeta SIM está insertada correctamente y de que su plan de telefonía móvil ha sido activado por su operadora."</string>
-    <string name="network_permission_exception_tips">"No se pueden utilizar datos móviles para conectarse a la red"</string>
+    <string name="network_permission_exception_tips">Esta función necesita usar datos móviles para funcionar normalmente.</string>
     <string name="network_roaming_exception_tips">"No se puede utilizar el roaming de datos móviles para conectarse a la red."</string>
     <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
 
@@ -3307,7 +3336,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="optimize_result_summary_sucurity_risk">Algunas funciones de seguridad están desactivadas. Active estas funciones para hacer su dispositivo más seguro:</string>
     <string name="optimize_result_summary_system_default_settings">"El uso de aplicaciones por defecto MIUI aumenta el nivel de estabilidad y seguridad del sistema."</string>
     <string name="optimize_result_title_sucurity_risk">Se han encontrado riesgos para la seguridad</string>
-    <string name="optimize_result_title_system_default_settings">Se modificaron los ajustes por defecto</string>
+    <string name="optimize_result_title_system_default_settings">Se modificaron los ajustes predeterminados</string>
     <string name="optimize_result_title_uninstall_apps">Desinstalar aplicaciones</string>
     <string name="optimize_result_toast_system_default_settings">Se restauraron los ajustes predeterminados</string>
     <string name="optimize_result_toast_system_no_item_selected">Sin elementos seleccionados</string>
@@ -3328,6 +3357,14 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="other_milink_connect">"No se puede emitir. Otra función está siendo emitida."</string>
     <string name="other_operator_name_virtual_operator">Otros operadores virtuales</string>
     <string name="over_package_reminder_type">Cuando se agote el plan de datos</string>
+    <string name="overlay_permission_dialog_comment">Permitir que Seguridad muestre elementos sobre otras aplicaciones.</string>
+    <string name="overlay_permission_dialog_comment_pad">Permitir que Seguridad muestre elementos sobre otras aplicaciones.</string>
+    <string name="overlay_permission_dialog_comment_security_service">Permite que las \"Herramientas de seguridad\" muestren elementos sobre otras aplicaciones. Puedes conceder este permiso en Ajustes.</string>
+    <string name="overlay_permission_dialog_message">Seguridad necesita permisos para funcionar normalmente.</string>
+    <string name="overlay_permission_dialog_message_pad">Seguridad necesita permisos para funcionar normalmente.</string>
+    <string name="overlay_permission_dialog_message_security_service">Seguridad necesita ciertos permisos para funcionar normalmente.</string>
+    <string name="overlay_permission_dialog_open">Ajustes</string>
+    <string name="overlay_permission_dialog_title">Permisos necesarios</string>
     <string name="package_change_notification_summary">Toque para conocer más.</string>
     <string name="package_change_notification_title">Ajustar automáticamente el límite de datos</string>
     <string name="package_setted_error_notification_summary">Toque para ver detalles del uso de datos.</string>
@@ -3955,6 +3992,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
     <string name="pp_understanding_privacy">Conciencia</string>
     <string name="pp_virtual_identity_manager">ID virtual</string>
     <string name="pp_virtual_identity_summary">Se puede proporcionar un ID virtual (OAID) a las aplicaciones en lugar de tu identificador real. Protege tu privacidad y te permite controlar cómo las aplicaciones rastrean tu comportamiento.</string>
+    <string name="precise_location_title">Ubicación precisa</string>
     <string name="pref_about_traffic_title">Ajustes de uso de datos</string>
     <string name="pref_adjust_data_usage">Plantilla de mensaje de la compañía operadora</string>
     <string name="pref_adjust_data_usage_summary">Después de cambiar su plantilla de calibración, MIUI la usará para obtener estadísticas del uso de datos de su operadora</string>
@@ -4287,6 +4325,8 @@ Retirar el consentimiento ahora?"</string>
     <string name="privacy_thumbnail_blur_search_empty">"No se pudo encontrar resultados"</string>
     <string name="privacy_thumbnail_blur_title">Difuminar vistas previas</string>
     <string name="privacy_thumbnail_blur_top_tip">Seleccione las aplicaciones cuyas vistas previas se difuminarán en Recientes</string>
+    <string name="privacy_thumbnail_shield_title">Máscara de vista previa</string>
+    <string name="privacy_thumbnail_shield_top_tip">Máscara de vista previa para aplicaciones Recientes</string>
     <string name="privacy_type_open">Activado</string>
     <string name="privacy_update_dialog_content_1">%s Se actualizó la Política de privacidad:</string>
     <string name="privacy_update_dialog_content_2"><Data>Lea y acepte la nueva versión de &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.</Data></string>
@@ -4644,6 +4684,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="sim_lock_start_summary">Esta característica le protege de posibles riesgos en caso de pérdida de su tarjeta SIM.</string>
     <string name="sim_lock_start_title">Seguridad de SIM</string>
     <string name="sim_lock_toast_no_sim">Instalar tarjeta SIM primero</string>
+    <string name="sim_lock_verify_time_out">Tiempo de verificación agotado. Inténtalo otra vez.</string>
     <string name="sim_not_ready_toast">"La tarjeta SIM no está lista"</string>
     <string name="sim_state_exception_summary">El estado del SIM indica que algo puede estar mal con su tarjeta SIM.</string>
     <string name="sip_phone">Teléfono SIP</string>
@@ -4911,6 +4952,7 @@ Retirar el consentimiento ahora?"</string>
     <string name="st_msg_stranger_group">Bloquear mensajes de desconocidos</string>
     <string name="st_settings_name">Ajustes de la Lista de bloqueo</string>
     <string name="st_share_settings">Usar ajustes de la SIM %d</string>
+    <string name="st_sms_intercept_oversea">SMS internacional</string>
     <string name="st_sub_title_customize_mode_name">Nombre</string>
     <string name="st_sub_title_whiteblack_list_group">Lista de bloqueo</string>
     <string name="st_sum_call_wait">Su mensaje de ausencia también será tomado como un señal de ocupado para las llamadas entrantes.</string>
@@ -5083,7 +5125,7 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="summary_block_calls_from_cantacts">Llamadas de contactos bloqueadas.</string>
     <string name="summary_block_calls_from_strangers">Llamadas de extraños bloqueadas.</string>
     <string name="summary_cleaner_cloudscan">Subir y comprar los nombres de carpetas con las definiciones en línea</string>
-    <string name="summary_cloud_account">Saque el máximo partido a su dispositivo Mi</string>
+    <string name="summary_cloud_account">Usar todos los servicios proporcionados por Xiaomi</string>
     <string name="summary_cloud_service">Sincronice sus fotos, contactos y más, a través de todos sus dispositivos</string>
     <string name="summary_cloud_space_almost_full">Obtener almacenamiento</string>
     <string name="summary_cloud_space_full">Obtenga más espacio y acceda para más características</string>
@@ -5851,7 +5893,6 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="warningcenter_disaster_orange">橙色 预警</string>
     <string name="warningcenter_disaster_place_settings">Región</string>
     <string name="warningcenter_disaster_place_subscribe">Seleccione región</string>
-    <string name="warningcenter_disaster_qita">其它 地质 灾害</string>
     <string name="warningcenter_disaster_receive_info">Formato de advertencia</string>
     <string name="warningcenter_disaster_receive_level">Seleccionar nivel de advertencia</string>
     <string name="warningcenter_disaster_receive_level_blue">Azul</string>

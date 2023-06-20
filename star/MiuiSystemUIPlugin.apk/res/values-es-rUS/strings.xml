@@ -95,7 +95,7 @@
     <string name="controls_edit_added_subtitle">Arrastra los elementos para reorganizarlos</string>
     <string name="controls_edit_added_title">Añadido</string>
     <string name="controls_edit_done_button">Hecho</string>
-    <string name="controls_edit_go_to_app_guide">Abrir</string>
+    <string name="controls_edit_go_to_app_guide">Abrir %s</string>
     <string name="controls_edit_not_added_title">Disponible</string>
     <string name="controls_edit_panel_not_added_title">Dispositivos disponibles</string>
     <string name="controls_edit_panel_save_button">Listo</string>
@@ -439,6 +439,7 @@ La exposición prolongada a sonidos fuertes puede causar problemas de audición.
     <string name="sunday_shortest">Dom.</string>
     <string name="switch_bar_off">Desactivado</string>
     <string name="switch_bar_on">Activado</string>
+    <string name="system_update">Actualización del sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_anti_aggression_day">Día de lucha contra la agresión</string>
     <string name="the_arbor_day">Día del árbol</string>

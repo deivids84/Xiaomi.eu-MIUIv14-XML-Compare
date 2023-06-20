@@ -248,7 +248,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="facebook_login">Facebook ilə daxil olun</string>
-    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Bu telefon nömrəsi artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib</string>
     <string name="family_service">Ailə xidmətləri</string>
     <string name="family_service_not_open">Üzv dəvət et</string>
@@ -320,7 +319,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="in_progress">Davam edir</string>
     <string name="inconsistent_pwd">"Parollar uyğunlaşmır"</string>
     <string name="indeterminate">Nə yoxlanılıb, nə də yoxlanılmayıb</string>
-    <string name="input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
+    <string name="input_email_address_notice">"Verdiyiniz ünvana təsdiqləmə kodu olan bir e-poçt göndərəcəyik."</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
     <string name="io_error_title">Şəbəkənizi təsdiqləyin</string>
     <string name="item_view_role_description">Vərəq</string>
@@ -377,15 +376,16 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mipay_transit_card">Nəqliyyat kartı</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -666,6 +666,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_imei_permission_denied_message">"Cihazınızın IMEI-sinə müraciət etmək üçün icazə istəyirik. Xiaomi Hesabı, hesabınızı güvəndə saxlamaq məqsədilə daxil olduğunuz və ya qeydiyyatdan keçdiyiniz cihazı müəyyənləşdirmək üçün IMEI istifadə edir."</string>
     <string name="passport_imei_permission_denied_title">IMEI icazə tələbi</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
+    <string name="passport_input_email_vcode_hint">Kodu daxil edin</string>
     <string name="passport_input_password_for_login">Bu nömrə mövcud bir hesabla əlaqələndirilib, parolunuzu daxil edin</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_hint">Telefon nömrəsini daxil edin</string>
@@ -859,6 +860,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_user_password_hint">Parol</string>
     <string name="passport_user_reg_region">Ölkə/Bölgə</string>
     <string name="passport_user_reg_region_warning">"Hesab yaradıldıqdan sonra ölkənizi/bölgənizi dəyişdirə bilməyəcəksiniz."</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Təsdiqləmə kodunuz &lt;a href=&gt;&lt;xliff:g id=email_address&gt;%s&lt;/xliff:g&gt;&lt;/a&gt; nömrəsinə göndərildi</Data></string>
     <string name="passport_vcode_notification_title">Daxil olma təsdiqləməniz tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_vcode_sms_send_prompt">%s nömrəsinə təsdiqləmə kodu göndər</string>
@@ -980,8 +982,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="system_ad">Sistem tətbiqlərində reklamlar</string>
-    <string name="system_ad_list">Əlaqəli tətbiqləri göstər.</string>
-    <string name="system_ad_summary">"Sistem tətbiqlərində az sayda reklam göstərilməsinə icazə vermək üçün bu özəlliyi açın. Bu reklamlar məhsul və xidmətlərimizi inkişaf etdirməyə və təkmilləşdirməyə kömək edir. İstənilən vaxt bu özəlliyi söndürməyi seçə bilərsiniz. Dəstəyiniz üçün təşəkkür edirik! "</string>
+    <string name="system_ad_list">Əlaqəli tətbiqləri göstər</string>
+    <string name="system_ad_summary">Sistem tətbiqlərində az sayda reklam göstərilməsinə icazə vermək üçün bu özəlliyi açın. Bu reklamlar məhsul və xidmətlərimizi inkişaf etdirməyə və təkmilləşdirməyə kömək edir. İstənilən vaxt bu özəlliyi söndürməyi seçə bilərsiniz.</string>
     <string name="system_ad_switch">Sistem tətbiqlərində reklamlar</string>
     <string name="system_ad_switch_failed">"Tənzimləmə tətbiq edilə bilmədi"</string>
     <string name="tab">Vərəq</string>

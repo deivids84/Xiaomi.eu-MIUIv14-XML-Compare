@@ -32,7 +32,7 @@
     <string name="am">GƏ</string>
     <string name="app_name">Ekran Yazıcı</string>
     <string name="app_notification_channel_record_complete">Bitmiş yazılar haqqında bildiriş</string>
-    <string name="app_notification_info">Ekran Yazıcı arxaplanda işləyir</string>
+    <string name="app_notification_info">Hazırda ekran yazılır…</string>
     <string name="app_notification_record_saved">"Yazı uğurla saxlanıldı
 Baxmaq üçün toxunun"</string>
     <string name="app_notification_title">Ekran Yazıcı</string>

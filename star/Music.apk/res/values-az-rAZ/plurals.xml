@@ -234,4 +234,12 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">%d gün qaldı</item>
         <item quantity="one">%d gün qaldı</item>
     </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d fayl əlavə edildi</item>
+        <item quantity="one">%d fayl əlavə edildi</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">Daha əvvəl %d fayl əlavə edilmişdi</item>
+        <item quantity="one">Daha əvvəl %d fayl əlavə edilmişdi</item>
+    </plurals>
 </resources>

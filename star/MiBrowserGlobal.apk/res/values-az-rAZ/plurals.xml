@@ -5,16 +5,16 @@
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">%d reklam əngəlləndi</item>
@@ -53,20 +53,12 @@
         <item quantity="one">%1$d yeni məqaləyə göz gəzdir</item>
     </plurals>
     <plurals name="auto_play_next_tips">
-        <item quantity="other">Növbəti video %d saniyəyə oynadılacaq</item>
-        <item quantity="one">Növbəti video %d saniyəyə oynadılacaq</item>
+        <item quantity="other">Növbəti video %d saniyəyə oxudulur</item>
+        <item quantity="one">Növbəti video %d saniyəyə oxudulur</item>
     </plurals>
-    <plurals name="bonus_amount">
-        <item quantity="other">%d bonus</item>
-        <item quantity="one">%d bonus</item>
-    </plurals>
-    <plurals name="bookroom__clear_invalid_book_view__found">
-        <item quantity="other">&lt;font color=\"#ed6c00\"&gt;%d&lt;/font&gt; köhnə element tapıldı</item>
-        <item quantity="one">&lt;font color=\"#ed6c00\"&gt;%d&lt;/font&gt; köhnə element tapıldı</item>
-    </plurals>
-    <plurals name="coin_amount">
-        <item quantity="other">%d sikkə</item>
-        <item quantity="one">%d sikkə</item>
+    <plurals name="count_likes">
+        <item quantity="other">%s bəyənmə</item>
+        <item quantity="one">%s bəyənmə</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d gün əvvəl</item>
@@ -92,10 +84,6 @@
         <item quantity="other">%1$d element</item>
         <item quantity="one">%1$d element</item>
     </plurals>
-    <plurals name="file_num">
-        <item quantity="other">%d fayl</item>
-        <item quantity="one">%d fayl</item>
-    </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d uyğunluq</item>
         <item quantity="one">%d uyğunluq</item>
@@ -103,122 +91,6 @@
     <plurals name="found_new_files">
         <item quantity="other">%1$d yeni fayl tapıldı</item>
         <item quantity="one">%1$d yeni fayl tapıldı</item>
-    </plurals>
-    <plurals name="general__d_day_unit">
-        <item quantity="other">%d gün</item>
-        <item quantity="one">%d gün</item>
-    </plurals>
-    <plurals name="general__d_hour_unit">
-        <item quantity="other">%d saat</item>
-        <item quantity="one">%d saat</item>
-    </plurals>
-    <plurals name="general__d_minute_unit">
-        <item quantity="other">%d dəq</item>
-        <item quantity="one">%d dəq</item>
-    </plurals>
-    <plurals name="general__make_purchase_bonus">
-        <item quantity="other">+%d bonus</item>
-        <item quantity="one">+%d bonus</item>
-    </plurals>
-    <plurals name="general__make_purchase_rule_item_detail">
-        <item quantity="other">"1. Bir bonus, bir sikkəyə bərabərdir. Bonuslar %d gün ərzində etibarlıdır və fəsillərin kilidini açmaq üçün sikkələrdən əvvəl istifadə olunacaq.
-2. Hesabınızı doldura bilmirsinizsə və ya doldurulan məbləğ hesabınızda əks olunmursa, wonderwebfiction@gmail.com ünvanına bir e-poçt göndərin.
-3. Balansınızla bağlı istənilən problemin qarşısını almaq üçün, hesabınıza giriş etdiyinizə əmin olun. Balansınız, hesabınıza əlavə olunacaq."</item>
-        <item quantity="one">"1. Bir bonus, bir sikkəyə bərabərdir. Bonuslar %d gün ərzində etibarlıdır və fəsillərin kilidini açmaq üçün sikkələrdən əvvəl istifadə olunacaq.
-2. Hesabınızı doldura bilmirsinizsə və ya doldurulan məbləğ hesabınızda əks olunmursa, wonderwebfiction@gmail.com ünvanına bir e-poçt göndərin.
-3. Balansınızla bağlı istənilən problemin qarşısını almaq üçün, hesabınıza giriş etdiyinizə əmin olun. Balansınız, hesabınıza əlavə olunacaq."</item>
-    </plurals>
-    <plurals name="general__shared__10_min_reading_task_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 10 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 10 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared__60_min_reading_task_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 60 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 60 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared__check_in_success_reward_button">
-        <item quantity="other">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-        <item quantity="one">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-    </plurals>
-    <plurals name="general__shared__exit_unlock_page_reward_result">
-        <item quantity="other">%d bonus uğurla alındı</item>
-        <item quantity="one">%d bonus uğurla alındı</item>
-    </plurals>
-    <plurals name="general__shared__exit_unlock_page_reward_title">
-        <item quantity="other">%d bonus qazanmaq üçün bir videoya baxın.</item>
-        <item quantity="one">%d bonus qazanmaq üçün bir videoya baxın.</item>
-    </plurals>
-    <plurals name="general__shared__reading_task_reward">
-        <item quantity="other">+%d bonus</item>
-        <item quantity="one">+%d bonus</item>
-    </plurals>
-    <plurals name="general__shared__reading_task_success_reward">
-        <item quantity="other">Bir oxuma tapşırığını tamamladığınız üçün %d bonus qazandınız!</item>
-        <item quantity="one">Bir oxuma tapşırığını tamamladığınız üçün %d bonus qazandınız!</item>
-    </plurals>
-    <plurals name="general__shared__reading_task_success_reward_button">
-        <item quantity="other">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-        <item quantity="one">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-    </plurals>
-    <plurals name="general__shared__regular_success_reward">
-        <item quantity="other">%d bonus qazandınız!</item>
-        <item quantity="one">%d bonus qazandınız!</item>
-    </plurals>
-    <plurals name="general__shared__regular_success_reward_button">
-        <item quantity="other">%d əlavə bonus qazanmaq üçün başqa bir videoya baxın.</item>
-        <item quantity="one">%d əlavə bonus qazanmaq üçün başqa bir videoya baxın.</item>
-    </plurals>
-    <plurals name="general__shared__reward_result">
-        <item quantity="other">%d ekstra bonus uğurla alındı</item>
-        <item quantity="one">%d ekstra bonus uğurla alındı</item>
-    </plurals>
-    <plurals name="general__shared__top_up_reward">
-        <item quantity="other">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-        <item quantity="one">%d ekstra bonus qazanmaq üçün bir videoya baxın.</item>
-    </plurals>
-    <plurals name="general__shared_read_10_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 10 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 10 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_10_more_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün daha 10 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün daha 10 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_120_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 120 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 120 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_20_more_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün daha 20 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün daha 20 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_30_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 30 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 30 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_30_more_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün daha 30 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün daha 30 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_5_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 5 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 5 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_5_more_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün daha 5 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün daha 5 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_60_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 60 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 60 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_read_90_min_hint">
-        <item quantity="other">%d bonus qazanmaq üçün 90 dəqiqə oxuyun</item>
-        <item quantity="one">%d bonus qazanmaq üçün 90 dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="general__shared_reading_length">
-        <item quantity="other">%d dəqiqə oxuyun</item>
-        <item quantity="one">%d dəqiqə oxuyun</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -236,10 +108,6 @@
         <item quantity="other">%1$d saat əvvəl</item>
         <item quantity="one">%1$d saat əvvəl</item>
     </plurals>
-    <plurals name="import_confirm">
-        <item quantity="other">%d faylı daxilə köçür</item>
-        <item quantity="one">%d faylı daxilə köçür</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
@@ -255,14 +123,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
-    </plurals>
-    <plurals name="income_expenses_bonus">
-        <item quantity="other">%1$s%2$d bonus</item>
-        <item quantity="one">%1$s%2$d bonus</item>
-    </plurals>
-    <plurals name="income_expenses_coins">
-        <item quantity="other">%1$s%2$d sikkə</item>
-        <item quantity="one">%1$s%2$d sikkə</item>
     </plurals>
     <plurals name="intercept_panel_protection_total">
         <item quantity="other">%d dəfə qorundu</item>
@@ -287,6 +147,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Son %d gün</item>
@@ -324,42 +188,6 @@
         <item quantity="other">%s dəfə qorundu</item>
         <item quantity="one">%s dəfə qorundu</item>
     </plurals>
-    <plurals name="personal__attance_activity_check_in_bonus_number">
-        <item quantity="other">+%d sikkə</item>
-        <item quantity="one">+%d sikkə</item>
-    </plurals>
-    <plurals name="personal__check_in__reading_complete">
-        <item quantity="other">İrəliləyiş: %1$d/%2$d dəq</item>
-        <item quantity="one">İrəliləyiş: %1$d/%2$d dəq</item>
-    </plurals>
-    <plurals name="personal__check_in__reading_task">
-        <item quantity="other">%d dəqiqə oxuyun</item>
-        <item quantity="one">%d dəqiqə oxuyun</item>
-    </plurals>
-    <plurals name="personal__check_in_bonus_next_notice">
-        <item quantity="other">Sabah %d bonus qazanın</item>
-        <item quantity="one">Sabah %d bonus qazanın</item>
-    </plurals>
-    <plurals name="personal__check_in_details_bonus_item_2">
-        <item quantity="other">"2. Bonuslar %d gün ərzində etibarlıdır. Vaxtı bitdikdən sonra avtomatik olaraq hesabınızdan silinəcək."</item>
-        <item quantity="one">"2. Bonuslar %d gün ərzində etibarlıdır. Vaxtı bitdikdən sonra avtomatik olaraq hesabınızdan silinəcək."</item>
-    </plurals>
-    <plurals name="personal__continuous_days_card_tip">
-        <item quantity="other">Gün %d</item>
-        <item quantity="one">Gün %d</item>
-    </plurals>
-    <plurals name="personal__continuous_days_title">
-        <item quantity="other">gün</item>
-        <item quantity="one">gün</item>
-    </plurals>
-    <plurals name="personal__welfare_check_in_button_done">
-        <item quantity="other">Sabah %d bonus qazanın</item>
-        <item quantity="one">Sabah %d bonus qazanın</item>
-    </plurals>
-    <plurals name="personal__welfare_details_bonus_item_3">
-        <item quantity="other">"3. Bonuslar %d gün ərzində etibarlıdır. Vaxtı bitdikdən sonra avtomatik olaraq hesabınızdan silinəcək."</item>
-        <item quantity="one">"3. Bonuslar %d gün ərzində etibarlıdır. Vaxtı bitdikdən sonra avtomatik olaraq hesabınızdan silinəcək."</item>
-    </plurals>
     <plurals name="players">
         <item quantity="other">%d oyunçu</item>
         <item quantity="one">%d oyunçu</item>
@@ -367,92 +195,6 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d reklam əngəlləndi</item>
         <item quantity="one">%d reklam əngəlləndi</item>
-    </plurals>
-    <plurals name="privacy_dialog_next_plurals">
-        <item quantity="other">Növbəti (%1$d san)</item>
-        <item quantity="one">Növbəti (%1$d san)</item>
-    </plurals>
-    <plurals name="privacy_dialog_revoke_plurals">
-        <item quantity="other">Geri götür (%1$d san)</item>
-        <item quantity="one">Geri götür (%1$d san)</item>
-    </plurals>
-    <plurals name="reading__chapter_exchange_money_for_coins">
-        <item quantity="other">%1$s%2$1.2f üçün %3$d sikkə</item>
-        <item quantity="one">%1$s%2$1.2f üçün %3$d sikkə</item>
-    </plurals>
-    <plurals name="reading__chapter_need_pay_view__balance">
-        <item quantity="other">Balans: %d sikkə</item>
-        <item quantity="one">Balans: %d sikkə</item>
-    </plurals>
-    <plurals name="reading__chapter_need_pay_view__price">
-        <item quantity="other">Qiymət: %d sikkə</item>
-        <item quantity="one">Qiymət: %d sikkə</item>
-    </plurals>
-    <plurals name="reading__chapter_need_pay_view__unlock">
-        <item quantity="other">%d sikkə ödəyin</item>
-        <item quantity="one">%d sikkə ödəyin</item>
-    </plurals>
-    <plurals name="reading__chapter_pay_view__bonus">
-        <item quantity="other">%d bonus</item>
-        <item quantity="one">%d bonus</item>
-    </plurals>
-    <plurals name="reading__chapter_pay_view__coins">
-        <item quantity="other">%d sikkə</item>
-        <item quantity="one">%d sikkə</item>
-    </plurals>
-    <plurals name="reading__chapter_pay_view_read_chapter_price">
-        <item quantity="other">Bu fəslin kilidini %d sikkə qarşılığında aça bilərsiniz.</item>
-        <item quantity="one">Bu fəslin kilidini %d sikkə qarşılığında aça bilərsiniz.</item>
-    </plurals>
-    <plurals name="reading__chapter_wait_unlock_tips_chances_left_today">
-        <item quantity="other">Bu gün daha %s dəfə gözləyə bilərsiniz</item>
-        <item quantity="one">Bu gün daha %s dəfə gözləyə bilərsiniz</item>
-    </plurals>
-    <plurals name="reading__reading_retain_10_reward">
-        <item quantity="other">"Daha %d dəqiqə oxusanız, 10 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-        <item quantity="one">"Daha %d dəqiqə oxusanız, 10 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-    </plurals>
-    <plurals name="reading__reading_retain_15_reward">
-        <item quantity="other">"Daha %d dəqiqə oxusanız, 15 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-        <item quantity="one">"Daha %d dəqiqə oxusanız, 15 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-    </plurals>
-    <plurals name="reading__reading_retain_20_reward">
-        <item quantity="other">"Daha %d dəqiqə oxusanız, 20 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-        <item quantity="one">"Daha %d dəqiqə oxusanız, 20 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-    </plurals>
-    <plurals name="reading__reading_retain_5_reward">
-        <item quantity="other">"Daha %d dəqiqə oxusanız, 5 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-        <item quantity="one">"Daha %d dəqiqə oxusanız, 5 bonus alacaqsınız. Oxumağa davam edirsiniz?"</item>
-    </plurals>
-    <plurals name="reading__reading_retain_common_time">
-        <item quantity="other">"Oxumağa davam etsəniz, %d bonus alacaqsınız. Davam edirsiniz?"</item>
-        <item quantity="one">"Oxumağa davam etsəniz, %d bonus alacaqsınız. Davam edirsiniz?"</item>
-    </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">%1$d nəticə tapıldı</item>
-        <item quantity="one">%1$d nəticə tapıldı</item>
-    </plurals>
-    <plurals name="reading__shared__toc_new_chapter">
-        <item quantity="other">İndiyə qədər %d fəsil əlçatandır</item>
-        <item quantity="one">İndiyə qədər %d fəsil əlçatandır</item>
-    </plurals>
-    <plurals name="reading__shared__toc_total_chapter">
-        <item quantity="other">%d fəsil</item>
-        <item quantity="one">%d fəsil</item>
-    </plurals>
-    <plurals name="reading__wait_to_unlock_rule">
-        <item quantity="other">"1. Taymeri başlatmaq üçün toxunun. Vaxt tamam olanda bu fəsilin kilidi ödənişsiz açılacaq.
-2. Gündə %d dəfə ödənişsiz olaraq oxumaq üçün gözləyə bilərsiniz."</item>
-        <item quantity="one">"1. Taymeri başlatmaq üçün toxunun. Vaxt tamam olanda bu fəsilin kilidi ödənişsiz açılacaq.
-2. Gündə %d dəfə ödənişsiz olaraq oxumaq üçün gözləyə bilərsiniz."</item>
-    </plurals>
-    <plurals name="scanning_notyfy">
-        <item quantity="other">%d fayl tapıldı…</item>
-        <item quantity="one">%d fayl tapıldı…</item>
-    </plurals>
-    <plurals name="scanresult">
-        <item quantity="other">%d fayl tapıldı</item>
-        <item quantity="one">%d fayl tapıldı</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s axtarış tələbi</item>
@@ -465,10 +207,6 @@
     <plurals name="sku_price">
         <item quantity="other">%2$s hər %1$s ay</item>
         <item quantity="one">%2$s hər %1$s ay</item>
-    </plurals>
-    <plurals name="store__fiction_detail_all_chapter">
-        <item quantity="other">%d fəsil</item>
-        <item quantity="one">%d fəsil</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d mahnı</item>
@@ -553,9 +291,5 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s dəfə</item>
         <item quantity="one">%s dəfə</item>
-    </plurals>
-    <plurals name="welcome_skip_count_down">
-        <item quantity="other">%d san</item>
-        <item quantity="one">%d san</item>
     </plurals>
 </resources>

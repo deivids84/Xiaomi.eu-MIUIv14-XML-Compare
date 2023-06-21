@@ -77,6 +77,15 @@
         <item>Hər gün</item>
         <item>İş günü</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>B.e. - Cüm</item>
+        <item>Hər gün</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Hər gün</item>
+        <item>B.e. - Cüm</item>
+        <item>Özəl</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Hər gün</item>
         <item>Bazar ertəsi - Cümə</item>

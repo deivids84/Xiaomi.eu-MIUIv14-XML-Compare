@@ -165,11 +165,11 @@
         <item quantity="one">%1$d saniyə</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s saat irəlidə</item>
-        <item quantity="one">%s saat irəlidə</item>
+        <item quantity="other">+%s sa</item>
+        <item quantity="one">+%s sa</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s saat geridə</item>
-        <item quantity="one">%s saat geridə</item>
+        <item quantity="other">-%s sa</item>
+        <item quantity="one">-%s sa</item>
     </plurals>
 </resources>

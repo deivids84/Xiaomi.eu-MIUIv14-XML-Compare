@@ -326,7 +326,7 @@
     <string name="permdesc_read_storage">%1$s üçün bu cihazdakı fayllara və fotolara müraciət icazəsi verilsin?</string>
     <string name="permdesc_recognition">%1$s üçün fəaliyyət məlumatlarınıza müraciət icazəsi verilsin?</string>
     <string name="permdesc_send_sms">%1$s üçün mətn mesajlarını göndərmə icazəsi verilsin?</string>
-    <string name="permdesc_sensors">%1$s üçün bədən sensorları tərəfindən yaradılmış verilənləri oxuma icazəsi verilsin?</string>
+    <string name="permdesc_sensors">%1$s üçün bədən sensorları tərəfindən yaradılmış dataları oxuma icazəsi verilsin?</string>
     <string name="permdesc_shake">%1$s üçün akselerometr məlumatlarına müraciət icazəsi verilsin?</string>
     <string name="permdesc_use_sip">%1$s üçün video yayımlamaq üçün Seans Başlatma Protokolunu (SIP) istifadə etmə icazəsi verilsin?</string>
     <string name="permdesc_write_calendar">%1$s üçün təqvim tədbirlərini yaratma və saxlama icazəsi verilsin?</string>
@@ -342,8 +342,8 @@
     <string name="permgroupdesc_phone">%1$s üçün zəng etmə və cihaz məlumatlarına müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_read_media_aural">%1$s üçün cihazınızda saxlanılan səs fayllarına müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_read_media_visual">%1$s üçün cihazınızda saxlanılan foto və videolara müraciət icazəsi verilsin?</string>
-    <string name="permgroupdesc_recognition">%1$s üçün sağlamlıq və fəaliyyət verilənlərinə müraciət icazəsi verilsin?</string>
-    <string name="permgroupdesc_sensors">%1$s üçün bədən senson verilənlərinə müraciət icazəsi verilsin?</string>
+    <string name="permgroupdesc_recognition">%1$s üçün sağlamlıq və fəaliyyət datalarına müraciət icazəsi verilsin?</string>
+    <string name="permgroupdesc_sensors">%1$s üçün bədən senson datalarına müraciət icazəsi verilsin?</string>
     <string name="permgroupdesc_sms">%1$s üçün SMS oxuma və ya göndərmə icazəsi verilsin?</string>
     <string name="permgroupdesc_storage">%1$s üçün cihazınızda faylları və fotoları saxlama və onlara müraciət etmə icazəsi verilsin?</string>
     <string name="permission_group_title_charges_related">Xərclər</string>

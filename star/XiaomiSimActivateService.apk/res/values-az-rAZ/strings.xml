@@ -209,7 +209,7 @@
     <string name="noon">Günorta</string>
     <string name="pm">GS</string>
     <string name="privacy_revoke_failed_msg_tip">Əvvəlcə bu xidmətin nömrənizə müraciət etməsinə icazə verin.</string>
-    <string name="privacy_revoke_tips">Səlahiyyəti ləğv etdikdən sonra, tətbiq verilənlərinizin yığılmasını dayandıracaq və verilənlərinizin hamısı serverlərdən silinəcək. Xiaomi Cloud, Mi mesaj, və digər Mesajlaşma xüsusiyyətləri ilə sinxronizasiya artıq mümkün olmayacaq. Səlahiyyət yenə də ləğv edilsin?</string>
+    <string name="privacy_revoke_tips">Səlahiyyəti ləğv etdikdən sonra, tətbiq datanızın yığılmasını dayandıracaq və datanızın hamısı serverlərdən silinəcək. Xiaomi Cloud, Mi mesaj, və digər Mesajlaşma özəllikləri ilə sinxronlaşdırma artıq əlçatan olmayacaq. Səlahiyyət yenə də ləğv edilsin?</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Ş.</string>
     <string name="saturday_shortest">Ş.</string>

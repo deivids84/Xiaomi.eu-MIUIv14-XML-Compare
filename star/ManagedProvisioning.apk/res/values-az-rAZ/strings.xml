@@ -33,7 +33,7 @@
     <string name="access_terms">Şərtlərə müraciət</string>
     <string name="account_management_disclaimer_header">Hesabınız idarə edilir</string>
     <string name="account_management_disclaimer_subheader">İT admininiz, güvənlik siyasətlərini tətbiq etmək üçün mobil cihaz idarəetməsini istifadə edir</string>
-    <string name="admin_has_ability_to_monitor_device">"IT admininiz cihazınızın yerləşməsi, zəng tarixçəsi və əlaqə axtarış tarixçəsindən əlavə şəbəkə fəaliyyəti daxil olmaqla bu cihazla əlaqəli tənzimləmələri, korporativ müraciəti, tətbiqləri, icazələri və verilənləri müşahidə edə və idarə edə bilər.
+    <string name="admin_has_ability_to_monitor_device">"IT admininiz cihazınızın yerləşməsi, zəng tarixçəsi və əlaqə axtarış tarixçəsindən əlavə şəbəkə fəaliyyəti daxil olmaqla bu cihazla əlaqəli tənzimləmələri, korporativ müraciəti, tətbiqləri, icazələri və dataları müşahidə edə və idarə edə bilər.
 
 Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məlumat üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="admin_has_ability_to_monitor_profile">"IT admininiz bu profillə əlaqələndirilmiş tənzimləmələri, korporativ müraciəti, tətbiqləri, icazələri, məlumatları və şəbəkə fəaliyyətini, həmçinin zəng tarixçənizi və kontakt axtarış tarixçənizi izləyə və idarə edə bilər. Daha çox məlumat və təşkilatınızın gizlilik siyasətləri haqqında daha ətraflı öyrənmək üçün IT admininizlə əlaqə saxlayın."</string>
@@ -83,7 +83,7 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="device_doesnt_allow_encryption_contact_admin">"Bu cihaz quraşdırma üçün tələb olunan şifrələməyə icazə vermir. Kömək üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="device_has_reset_protection_contact_admin">Cihazda sıfırlama qorunması açıqdır. Kömək üçün IT admininizlə əlaqə saxlayın.</string>
     <string name="device_owner_cancel_cancel">İmtina</string>
-    <string name="device_owner_cancel_message">"Quraşdırma dayandırılsın və cihazın verilənləri silinsin?"</string>
+    <string name="device_owner_cancel_message">"Quraşdırma dayandırılsın və cihazın datası silinsin?"</string>
     <string name="device_owner_description">Bu cihaz güvənli saxlanılacaq və təşkilatınız tərəfindən idarə olunacaq</string>
     <string name="device_owner_error_ok">Oldu</string>
     <string name="device_owner_info">%1$s, bu cihazı idarə ediləcək, müşahidə edəcək və güvənli saxlayacaq. Şərtlər tətbiq olunacaq. %2$s</string>
@@ -115,17 +115,17 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="frp_clear_progress_title">Silinir</string>
     <string name="fully_managed_device_cancel_setup_button">Quraşdırmanı ləğv et</string>
     <string name="fully_managed_device_provisioning_accept_header">"İş cihazını quraşdıraq"</string>
-    <string name="fully_managed_device_provisioning_permissions_header">Fəaliyyətləriniz və verilənləriniz</string>
+    <string name="fully_managed_device_provisioning_permissions_header">Fəaliyyətləriniz və datalarınız</string>
     <string name="fully_managed_device_provisioning_permissions_secondary_header">Tətbiq icazələri</string>
     <string name="fully_managed_device_provisioning_permissions_secondary_subheader">IT admininiz, bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri tənzimləyə bilər.</string>
-    <string name="fully_managed_device_provisioning_privacy_body">IT admininiz, bu cihazdakı verilənlərinizi və fəaliyyətlərinizi görə bilər</string>
+    <string name="fully_managed_device_provisioning_privacy_body">IT admininiz, bu cihazdakı datanızı və fəaliyyətlərinizi görə bilər</string>
     <string name="fully_managed_device_provisioning_privacy_title">Gizlilik xatırladıcısı</string>
     <string name="fully_managed_device_provisioning_progress_label">Cihazınız quraşdırılır…</string>
     <string name="fully_managed_device_provisioning_return_device_subheader">Əvvəlki ekrana qayıdın və ya bu cihazı sıfırlayıb IT admininizə qaytarın.</string>
     <string name="fully_managed_device_provisioning_return_device_title">Bu cihazı IT admininizə qaytarın</string>
     <string name="fully_managed_device_provisioning_step_1_header">İş tətbiqlərinizi barmaqlarınızın ucunda saxlayın</string>
     <string name="fully_managed_device_provisioning_step_2_header">"Bu cihaz şəxsi deyil"</string>
-    <string name="fully_managed_device_provisioning_step_2_subheader">IT admininiz, bu cihazdakı verilənlərinizi və fəaliyyətlərinizi görə bilər.</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">IT admininiz, bu cihazdakı datanızı və fəaliyyətlərinizi görə bilər.</string>
     <string name="fully_managed_device_provisioning_summary">"İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz verilənlərinizi və fəaliyyətinizi görə bilər."</string>
     <string name="fully_managed_device_reset_and_return_button">Cihazı sıfırla və qaytar</string>
     <string name="fully_managed_device_with_permission_control_provisioning_summary">İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz verilənlərinizi və fəaliyyətinizi görə bilər. Həmçinin IT admininiz bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri tənzimləyə bilər.</string>

@@ -564,11 +564,11 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="export_to_sim2">SIM kart 2-ə köçür</string>
     <string name="export_to_sim_prepare_title">Hazırlanır…</string>
     <string name="export_to_sim_title">Xaricə köçürülür…</string>
-    <string name="exporting_contact_failed_message">"Kontakt verilənləri xaricə köçürülmədi.
+    <string name="exporting_contact_failed_message">"Kontakt datası xaricə köçürülmədi.
 Səbəb: \"%s\""</string>
     <string name="exporting_contact_failed_title">"Xaricə köçürülə bilmədi"</string>
     <string name="exporting_contact_list_message">Bura köçürülür: %s.</string>
-    <string name="exporting_contact_list_title">Kontakt verilənləri xaricə köçürülür</string>
+    <string name="exporting_contact_list_title">Kontakt datası xaricə köçürülür</string>
     <string name="exporting_vcard_canceled_title">%s xaricə köçürülməsi ləğv edildi.</string>
     <string name="exporting_vcard_finished_title">%s xaricə köçürülməsi bitdi.</string>
     <string name="external_profile_title">%1$s profilim</string>
@@ -899,7 +899,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək üçün, Əsas ekran qısayolları vasitəsilə zənglər etmək, kontaktlarınızı idarə etmək və zəng tarixçəsini güncəl saxlamaq üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə müraciət və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
     <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə etməsi üçün bu tətbiqin kontaktlarınıza müraciət və düzəliş etməsinə, həmçinin cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
     <string name="permission_retry_setting">Tənzimləmələr</string>
-    <string name="permission_write_external_storage_desc">Tətbiq verilənlərini saxlamaq üçün</string>
+    <string name="permission_write_external_storage_desc">Tətbiq datasını saxlamaq üçün</string>
     <string name="phoneLabelsGroup">Telefon</string>
     <string name="phone_number_too_long_toast">Nömrə çox uzundur</string>
     <string name="phone_primary">Əsas</string>

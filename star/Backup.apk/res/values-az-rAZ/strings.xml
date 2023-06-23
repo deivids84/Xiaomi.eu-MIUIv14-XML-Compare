@@ -29,9 +29,9 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="abort_backup_confirm">"Nüsxələmə tamamlanmadı. Yenə də dayandırılsın?"</string>
     <string name="abort_restore_confirm">"Bərpa etmə tamamlanmadı. Hər halda dayandırılsın?"</string>
-    <string name="account_contact_backup_info">Google hesabı, Mi hesabı və Kontaktlar verilənləri</string>
+    <string name="account_contact_backup_info">Google hesabı, Mi hesabı və Kontaktlar datası</string>
     <string name="account_login">Daxil ol</string>
-    <string name="account_summary">Google hesabı, Mi hesabı və digər istifadəçi verilənlərini nüsxələ</string>
+    <string name="account_summary">Google hesabı, Mi hesabı və digər istifadəçi datalarını nüsxələ</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_button">Razıyam</string>
@@ -50,7 +50,7 @@
     <string name="alternative_ui_content">Bu özəllik, mobil cihazınızı və kompüterinizi istifadə edərək elementləri nüsxələməyə və bərpa etməyə imkan verir. Bu özəlliyin normal işləməsi üçün internetə bağlanmasına və aşağıdakı məcburi icazələri almasına ehtiyacı var:</string>
     <string name="am">GƏ</string>
     <string name="app_name">Nüsxələ</string>
-    <string name="apps_and_data_item_desc">Tətbiqlər və verilənlər</string>
+    <string name="apps_and_data_item_desc">Tətbiqlər və datalar</string>
     <string name="apps_item_desc">Tətbiq</string>
     <string name="auto_backup">Rutin nüsxələməni planlaşdır</string>
     <string name="auto_backup_all_user_apps">Bütün tətbiqlər</string>
@@ -71,8 +71,8 @@
     <string name="backup_data">Nüsxələnəcək elementləri seçin</string>
     <string name="backup_delete">Sil:</string>
     <string name="backup_empty">Nüsxə yoxdur.</string>
-    <string name="backup_empty_info">" Verilənlərinizi, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
-    <string name="backup_empty_info_onpad">" Verilənlərinizi, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
+    <string name="backup_empty_info">" Datalarınızı, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
+    <string name="backup_empty_info_onpad">" Datalarınızı, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
     <string name="backup_error">"Nüsxələnə bilmədi"</string>
     <string name="backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="backup_file_error">"Nüsxələnə bilmədi"</string>
@@ -154,8 +154,8 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="cloud_item_info_summary">" (Yerli: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Son nüsxələmə "</string>
     <string name="cloud_no_backup">Nüsxə yoxdur</string>
-    <string name="cloud_restore_guide">%s istifadəçi verilənlərini bərpa etmək üçün \"Bərpa et\"ə toxunun</string>
-    <string name="cloud_restore_title">Nüsxələmə verilənlərini bərpa et</string>
+    <string name="cloud_restore_guide">%s istifadəçi datalarını bərpa etmək üçün \"Bərpa et\"ə toxunun</string>
+    <string name="cloud_restore_title">Nüsxələmə datalarını bərpa et</string>
     <string name="cloud_restore_window_title">Xiaomi Cloud-dan bərpa et</string>
     <string name="cloud_search">Axtarılır…</string>
     <string name="comma_seperator">", "</string>
@@ -175,7 +175,7 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="current_phone_location">Telefon</string>
     <string name="current_sim">Cari SIM kart</string>
     <string name="data_detail_description">Detallar</string>
-    <string name="data_item_desc">Verilənlər</string>
+    <string name="data_item_desc">Data</string>
     <string name="data_no_enough_space_message">"Cihazınızda kifayət qədər yaddaş sahəsi yoxdur."</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
@@ -246,7 +246,7 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="feature_title_mms_setting">Mesajlaşma tənzimləmələri</string>
     <string name="feature_title_sms">Mesajlar</string>
     <string name="file_uploading">Yüklənir…</string>
-    <string name="files_backup_info">SD kartdakı bütün fayllar (fotolar, mahnılar, videolar, tətbiq verilənləri və s. daxil olmaqla)</string>
+    <string name="files_backup_info">SD kartdakı bütün fayllar (fotolar, mahnılar, videolar, tətbiq dataları və s. daxil olmaqla)</string>
     <string name="findlost_contact">Kontaktları bərpa et</string>
     <string name="findlost_contact_online">Kontaktları buluddan bərpa et</string>
     <string name="flash_drive_backup_btn">USB sürücüsünə nüsxələ</string>
@@ -296,29 +296,29 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Tənzimləmələri açın və iCloud-u seçin.
 2. Kontaktlar və digər elementlər üçün düymələri dəyişdirin.
 3. Fotoları seçin və iCloud Foto Kitabxanası düyməsini dəyişdirin."</string>
-    <string name="icloud_how_to_backup_tip_summary">iOS-dan verilənləri daxilə köçürmək üçün, bir iCloud nüsxəsi yaratmalısınız.</string>
+    <string name="icloud_how_to_backup_tip_summary">iOS-dan dataları daxilə köçürmək üçün, bir iCloud nüsxəsi yaratmalısınız.</string>
     <string name="icloud_how_to_backup_tip_title">Məsləhətlər:</string>
     <string name="icloud_login_title">iCloud hesabına daxil olun</string>
-    <string name="icloud_need_sync">"iOS-dan verilənləri daxilə köçürmək üçün,
+    <string name="icloud_need_sync">"iOS-dan dataları daxilə köçürmək üçün,
 əvvəlcə bir iCloud nüsxəsi yaratmalısınız."</string>
-    <string name="icloud_need_wifi_message">"İndi Wi-Fi-a bağlanmamısınız. iCloud-dan verilənləri daxilə köçürmək üçün Wi-Fi-a bağlanın."</string>
+    <string name="icloud_need_wifi_message">"İndi Wi-Fi-a bağlanmamısınız. iCloud-dan dataları daxilə köçürmək üçün Wi-Fi-a bağlanın."</string>
     <string name="icloud_need_wifi_title">Wi-Fi-a bağlan</string>
     <string name="import_again">Yenidən daxilə köçür</string>
-    <string name="import_data_from_icloud">iCloud-dan verilənləri daxilə köçür</string>
+    <string name="import_data_from_icloud">iCloud-dan dataları daxilə köçür</string>
     <string name="import_from_xiaomi_account_hint2">Mövcud bir nüsxəniz varsa, \"Növbəti\"yə toxunun.</string>
     <string name="import_from_xiaomi_account_hint_title">Kontaktlarınızı cihazlar arasında nüsxələmək üçün Mi Talk istifadə edin.</string>
-    <string name="import_tip_summary">Uyğunluq problemlərinə görə, iOS cihazından verilənlərin yalnız bir qismini köçürə bilərsiniz. Köçürməyə başlamazdan əvvəl iCloud nüsxələməsi etdiyinizə əmin olun.</string>
+    <string name="import_tip_summary">Uyğunluq problemlərinə görə, iOS cihazından dataların yalnız bir qismini köçürə bilərsiniz. Köçürməyə başlamazdan əvvəl iCloud nüsxələməsi etdiyinizə əmin olun.</string>
     <string name="lack_perm_msg">Mi Mover-in aşağıdakı icazələrə ehtiyacı var: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Tələb olunan icazələr</string>
     <string name="list_footer_tip_title">Məsləhətlər:</string>
-    <string name="loading_data">Verilənlər yüklənir</string>
+    <string name="loading_data">Datalar yüklənir</string>
     <string name="local_app_name">Nüsxələmə</string>
     <string name="local_back_up_detail_description">"Qeyd:
 1. Məlumat iktisinin qarşısını almaq üçün yerli nüsxələri kompüterinizə kopyalayın.
 2. Fabrik tənzimləmələrinə qaytarma prosesini icra etməzdən əvvəl yerli nüsxələri həmişə kompüterinizə kopyalayın. Əks halda, nüsxələriniz itəcək.
 3. Yerli nüsxələr harada saxlanılır? %1$s"</string>
     <string name="local_backup_select_activity">Nüsxə yarat</string>
-    <string name="local_backup_window_title">Yerli nüsxələmə verilənləri</string>
+    <string name="local_backup_window_title">Yerli nüsxələmə dataları</string>
     <string name="local_button_backup_data">Nüsxələ</string>
     <string name="local_button_backup_now">Nüsxələ</string>
     <string name="local_button_restore_data">Bu cihaza bərpa et</string>
@@ -330,7 +330,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="local_main_auto_backup_title">Avtomatik nüsxələ</string>
     <string name="local_main_backup">Yerli nüsxələr</string>
     <string name="local_main_backup_and_restore">Bu cihazda</string>
-    <string name="local_main_backup_detail_title">Sistem tənzimləmələri, hesablar və tətbiq verilənləri</string>
+    <string name="local_main_backup_detail_title">Sistem tənzimləmələri, hesablar və tətbiq dataları</string>
     <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Yerli nüsxələri idarə et</string>
     <string name="local_main_backup_manager_title">Nüsxələri idarə et</string>
@@ -476,16 +476,16 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="new_select_file">Səs, videolar və fayllar</string>
     <string name="new_select_message">SMS, kontaktlar və zəng tarixçəsi</string>
     <string name="new_select_pic">Təsvirlər</string>
-    <string name="new_select_system">Digər sistem tətbiq verilənləri</string>
+    <string name="new_select_system">Digər sistem tətbiq dataları</string>
     <string name="new_select_tencent">QQ və WeChat</string>
-    <string name="new_select_third">Üçüncü tərəf tətbiqlər və tətbiq verilənləri</string>
+    <string name="new_select_third">Üçüncü tərəf tətbiqlər və tətbiq dataları</string>
     <string name="new_select_third_apk">Üçüncü tərəf tətbiqlər</string>
-    <string name="new_select_third_data">Üçüncü tərəf tətbiq verilənləri</string>
+    <string name="new_select_third_data">Üçüncü tərəf tətbiq dataları</string>
     <string name="new_tab_pc_backup">Nüsxələ</string>
     <string name="new_tab_pc_restore">Bərpa et</string>
     <string name="new_task_finished">Hazırdır</string>
     <string name="new_usb_detail_description">"Qeyd:
-%1$d. Bu üsul, üçüncü tərəf tətbiqləri və tətbiq verilənlərini nüsxələməyə icazə verir.
+%1$d. Bu üsul, üçüncü tərəf tətbiqləri və tətbiq datalarını nüsxələməyə icazə verir.
 %2$d. Nüsxələri saxlamaq üçün USB sürücünüzdə yetərli anbar sahəsinin olduğuna əmin olun."</string>
     <string name="new_usb_disconnect_dialog_message">Əvvəlcə USB sürücüsünü taxın.</string>
     <string name="new_usb_disconnect_dialog_title">"USB sürücüsü tapıla bilmədi"</string>
@@ -501,16 +501,16 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="note_title">Qeydlər</string>
     <string name="nothing_searched">Nəticə yoxdur.</string>
     <string name="notif_backup_complete_title">Uğurla nüsxələndi</string>
-    <string name="notif_backup_content">İstifadəçi verilənləri nüsxələnir</string>
-    <string name="notif_backup_title">Verilənləri nüsxələ</string>
+    <string name="notif_backup_content">İstifadəçi dataları nüsxələnir</string>
+    <string name="notif_backup_title">Dataları nüsxələ</string>
     <string name="notif_calculating_app">Hesablanır %1$s (%2$s)…</string>
     <string name="notif_connect_miasist">Mi PC Suite ilə bağlantılıdır</string>
     <string name="notif_disconnect_miasist">Mi PC Suite ilə bağlantılı deyil</string>
     <string name="notif_icloud_canceled_summary">Ləğv edildi</string>
     <string name="notif_icloud_canceling_summary">Ləğv edilir…</string>
-    <string name="notif_icloud_import_title">Verilənləri iCloud-dan daxilə köçür</string>
+    <string name="notif_icloud_import_title">Dataları iCloud-dan daxilə köçür</string>
     <string name="notif_icloud_loaded_summary">Gözlənilir…</string>
-    <string name="notif_icloud_loading_summary">Verilənlər yüklənir…</string>
+    <string name="notif_icloud_loading_summary">Datalar yüklənir…</string>
     <string name="notif_icloud_logining">Köhnə iOS cihazınızdakı iCloud hesabına daxil olunur…</string>
     <string name="notif_icloud_need_wifi_summary">Wi-Fi gözlənilir</string>
     <string name="notif_icloud_saved_summary">Uğurla daxilə köçürüldü</string>
@@ -519,15 +519,15 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="notif_parse_select_descript_error">"Nüsxələnmiş elementlərin siyahısı sinxronlaşdırıla bilmədi."</string>
     <string name="notif_receiving_transingsd">Alınır %1$s (%2$s)…</string>
     <string name="notif_restore_complete_title">Uğurla bərpa edildi</string>
-    <string name="notif_restore_content">İstifadəçi verilənləri bərpa edilir</string>
-    <string name="notif_restore_title">Verilənləri bərpa et</string>
+    <string name="notif_restore_content">İstifadəçi dataları bərpa edilir</string>
+    <string name="notif_restore_title">Dataları bərpa et</string>
     <string name="notif_sending_transingsd">Göndərilir %1$s (%2$s)…</string>
     <string name="notif_trans_auto_reconnecting_content">Lazım gələrsə, hazırkı tapşırığı ləğv edə bilərsiniz.</string>
     <string name="notif_trans_auto_reconnecting_title">Bağlantı kəsildi. Bağlantı avtomatik olaraq yenidən qurulur…</string>
-    <string name="notif_trans_receiving_completed">Verilənlər uğurla alındı</string>
-    <string name="notif_trans_receiving_failed">"Verilənlər alına bilmədi"</string>
-    <string name="notif_trans_sending_completed">Verilənlər uğurla göndərildi</string>
-    <string name="notif_trans_sending_failed">"Verilənlər göndərilə bilmədi"</string>
+    <string name="notif_trans_receiving_completed">Data uğurla alındı</string>
+    <string name="notif_trans_receiving_failed">"Data alına bilmədi"</string>
+    <string name="notif_trans_sending_completed">Data uğurla göndərildi</string>
+    <string name="notif_trans_sending_failed">"Data göndərilə bilmədi"</string>
     <string name="notif_trans_wait_for_reconnecting">Bağlantı yarımçıq kəsildi. Yenidən bağlantı qurun.</string>
     <string name="old_soft_name">QR kod ilə bağlan</string>
     <string name="old_way">Yeni cihazınızda QR kod yarada və köhnə cihazı istifadə edərək onu skan edə bilərsiniz.</string>
@@ -586,7 +586,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="platform_chooser_title">Köhnə cihazı seçin</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" löhvəyə kopyalandı.</string>
-    <string name="privacy_policy_link"><Data>\"Davam etməzdən əvvəl verilənlərin emal edən tətbiqlərimiz və bir istifadəçi kimi hüquqlarınız haqqında daha ətraflı məlumat almaq üçün &lt;a href=\'%1s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.\"</Data></string>
+    <string name="privacy_policy_link"><Data>\"Davam etməzdən əvvəl dataları emal edən tətbiqlərimiz və bir istifadəçi kimi hüquqlarınız haqqında daha ətraflı məlumat almaq üçün &lt;a href=\'%1s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.\"</Data></string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="privacy_settings_title">Gizlilik Siyasəti</string>
     <string name="private_policy_text">Gizlilik Siyasəti</string>
@@ -604,7 +604,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="restore_backup">Bərpa et</string>
     <string name="restore_contact">Kontaktları bərpa et</string>
     <string name="restore_contact_content">Bərpa zamanı dublikat kontaktlar yarana bilər.</string>
-    <string name="restore_contacts_hit">Bərpa edilmiş verilənlərə baxmaq üçün yenidən daxil olmağınız lazım ola bilər.</string>
+    <string name="restore_contacts_hit">Bərpa edilmiş dataya baxmaq üçün yenidən daxil olmağınız lazım ola bilər.</string>
     <string name="restore_counts">Bərpa et:</string>
     <string name="restore_data">Bərpa ediləcək elementləri seçin</string>
     <string name="restore_failed">"Bərpa edilə bilmədi"</string>
@@ -623,10 +623,10 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
     <string name="save_finish_with_failing_items">"Köçürmə kəsildi.
-Köçürülməyən verilənlər təkrar daxilə köçürülməlidir."</string>
-    <string name="saving_data">"Verilənlər iCloud-dan daxilə köçürülür…
+Köçürülməyən datalar təkrar daxilə köçürülməlidir."</string>
+    <string name="saving_data">"Data iCloud-dan daxilə köçürülür…
 Wi-Fi-ı bağlamayın"</string>
-    <string name="saving_data_no_time">Verilənlər bərpa edilir…</string>
+    <string name="saving_data_no_time">Data bərpa edilir…</string>
     <string name="saving_data_space_low">"Yetərli anbar sahəsi yoxdur.\nƏn azı %s boşaldın."</string>
     <string name="sc_bad_request">Yararsız tələb</string>
     <string name="sc_internal_server_error">Daxili server xətası</string>
@@ -653,7 +653,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="select_item_empty_summary">Element yoxdur</string>
     <string name="select_item_notes">Qeydlər</string>
     <string name="select_item_photos">Fotolar</string>
-    <string name="select_item_summary_loading">Verilənlər yüklənir…</string>
+    <string name="select_item_summary_loading">Data yüklənir…</string>
     <string name="select_item_summary_wait">Gözlənilir…</string>
     <string name="select_storage_location">Nüsxələmə yerini seçin</string>
     <string name="send">Göndər</string>
@@ -666,7 +666,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="sms_title">Mesajlaşma</string>
     <string name="soft_ap_create_failed">"Hotspot yaradıla bilmədi"</string>
     <string name="soft_ap_creating">Hotspot yaradılır…</string>
-    <string name="software_backup_info">Tətbiq verilənləri</string>
+    <string name="software_backup_info">Tətbiq datası</string>
     <string name="start_backup">Nüsxələ</string>
     <string name="start_restore">Bərpa et</string>
     <string name="state_mounting">Router anbarına müraciət edilir…</string>
@@ -765,14 +765,14 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_button_exit">Çıxış</string>
     <string name="trans_button_stay">Qal</string>
     <string name="trans_calculating">Hesablanır…</string>
-    <string name="trans_calculating_app_sd_description">SD kartdakı verilənlər</string>
+    <string name="trans_calculating_app_sd_description">SD kartdakı datalar</string>
     <string name="trans_calculating_media_description">Media faylları</string>
     <string name="trans_calculating_tip">Hesablanır %s…</string>
     <string name="trans_cancel_confirm">Köçürmə davam edir, indi dayandırılsın?</string>
     <string name="trans_cancel_selection_message">Əgər Mi Mover-dən çıxsanız, davam edən köçürmə kəsiləcək. Köçürmə tamamlana qədər gözləyin.</string>
     <string name="trans_cancel_selection_title">Mi Mover-də qalın</string>
     <string name="trans_cancelling">Ləğv edilir…</string>
-    <string name="trans_complete_restoring">Uğurla köçürüldü. Tətbiq verilənləri bərpa edilir…</string>
+    <string name="trans_complete_restoring">Uğurla köçürüldü. Tətbiq datası bərpa edilir…</string>
     <string name="trans_connect_failed_device_incompatible">"Cihaz uyğun deyil. Köçürməni ləğv edin və yenidən sınayın."</string>
     <string name="trans_connect_failed_message">"Bağlantı qurula bilmədi, yenidən sınayın və ya cihazı yenidən başladın. Digər cihazda, Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Mi Mover bölməsinə gedin, [Göndərənəm] seçiminə toxunun və ya cihazınızı yenidən başlatdıqdan sonra Mi Moveri-i açın."</string>
     <string name="trans_connect_failed_title">"Bağlantı qurula bilmədi"</string>
@@ -781,24 +781,24 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_connection_failed">Bağlantı yarımçıq kəsildi</string>
     <string name="trans_detail_app_apk_list_title">Quraşdırılmış tətbiqlər</string>
     <string name="trans_detail_app_apk_page_title">Tətbiqləri seç</string>
-    <string name="trans_detail_app_data_list_title">Tətbiq verilənləri</string>
-    <string name="trans_detail_app_data_page_title">Tətbiq verilənlərini seçin</string>
+    <string name="trans_detail_app_data_list_title">Tətbiq datası</string>
+    <string name="trans_detail_app_data_page_title">Tətbiq datasını seçin</string>
     <string name="trans_detail_app_data_useless_tip">Bunları tətbiqdən bərpa edə bilərsiniz, köçürməyə ehtiyac yoxdur.</string>
     <string name="trans_detail_audio_video_doc_list_title">Səs, video və fayllar</string>
     <string name="trans_detail_audio_video_doc_page_title">Səs, video və faylları seçin</string>
     <string name="trans_detail_category_account">Hesablar və kontaktlar</string>
     <string name="trans_detail_category_audio_video_doc">Səs, video və fayllar</string>
     <string name="trans_detail_category_files">Fayllar</string>
-    <string name="trans_detail_category_sysdata">Sistem verilənləri (mesajlar, kontaktlar və zəng tarixçəsi daxildir)</string>
-    <string name="trans_detail_category_user_app_data">Tətbiq verilənləri</string>
+    <string name="trans_detail_category_sysdata">Sistem datası (mesajlar, kontaktlar və zəng tarixçəsi daxildir)</string>
+    <string name="trans_detail_category_user_app_data">Tətbiq datası</string>
     <string name="trans_detail_category_userdata">Tətbiqlər</string>
-    <string name="trans_detail_category_wechat_qq">WeChat və QQ verilənləri (söhbət tarixçəsi daxildir)</string>
+    <string name="trans_detail_category_wechat_qq">WeChat və QQ datası (söhbət tarixçəsi daxildir)</string>
     <string name="trans_detail_item_app_data_selected_tip">Uyğun olan tətbiqlər də seçilir.</string>
-    <string name="trans_detail_item_app_data_skip_data">"Tətbiq verilənləri köçürülə bilmir"</string>
+    <string name="trans_detail_item_app_data_skip_data">"Tətbiq datası köçürülə bilmir"</string>
     <string name="trans_detail_item_app_data_too_large_tip">Deyəsən, köçürmək üçün böyük element seçmisiniz.</string>
     <string name="trans_detail_list_footer">"1. Köçürmək istədiyiniz fərdi tətbiqləri seçə bilərsiniz.
-2. Tətbiq verilənlərini seçsəniz, uyğun olan tətbiqlər də seçiləcək.
-3. Uyğunluq problemləri səbəbindən WeChat və QQ tətbiq verilənləri köçürülməyə bilər. Tətbiq daxili köçürmə özəlliklərini yoxlaya bilərsiniz."</string>
+2. Tətbiq datasını seçsəniz, uyğun olan tətbiqlər də seçiləcək.
+3. Uyğunluq problemləri səbəbindən WeChat və QQ tətbiq datası köçürülməyə bilər. Tətbiq daxili köçürmə özəlliklərini yoxlaya bilərsiniz."</string>
     <string name="trans_detail_page_tip">Çoxlu element seçsəniz, köçürmə, bir o qədər uzun çəkəcək.</string>
     <string name="trans_detail_qq_data">QQ verilənləri (söhbət tarixçəsi daxildir)</string>
     <string name="trans_detail_sys_data_list_title">Sistem tətbiqləri</string>

@@ -8,7 +8,7 @@
     <string name="empty_tag_prompt">Bu etiket boşdur.</string>
     <string name="external_storage_permission_denied">Bu tətbiq fayllara müraciət etmək üçün Xarici Anbar icazəsinə müraciət etməlidir. Etiket icazəsini Tənzimləmələrdən idarə edə bilərsiniz</string>
     <string name="import_vcard">^1 idxal et</string>
-    <string name="mime_display_name">NFC etiketindən verilənlər</string>
+    <string name="mime_display_name">NFC etiketindən data</string>
     <string name="tag_empty">Boş etiketi</string>
     <string name="tag_unknown">Bilinməyən etiket növü</string>
     <string name="title_existing_tag">Etiket</string>

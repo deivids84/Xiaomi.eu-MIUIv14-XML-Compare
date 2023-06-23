@@ -125,8 +125,8 @@
     <string name="et_sort_ascend">Artan</string>
     <string name="et_sort_descend">Azalan</string>
     <string name="et_sort_empty">"Sıralanacaq məzmun tapıla bilmir, digər əraziləri seçin."</string>
-    <string name="et_sort_title_tips">"Verilənlərin başlıqları sıralanmalıdır."</string>
-    <string name="et_sorter_expand_selection">"Seçimin yanında verilənlərin olduğu aşkarlanıb. Hansı verilənləri sıralamaq istəyirsiniz?"</string>
+    <string name="et_sort_title_tips">"Dataların başlıqları sıralanmalıdır."</string>
+    <string name="et_sorter_expand_selection">"Seçimin yanında datanın olduğu aşkarlanıb. Hansı dataları sıralamaq istəyirsiniz?"</string>
     <string name="et_sorter_expand_selection_cancel">Hazırkı seçim</string>
     <string name="et_sorter_expand_selection_ok">Digər sahələrə genişləndirin</string>
     <string name="feedback_display_subject">Ekran xətası</string>
@@ -258,7 +258,7 @@
     <string name="public_permission_storage_disallow_msg">"İcazəni ləğv etdikdən sonra sənədlərlə işləyə bilməyəcəksiniz."</string>
     <string name="public_play">Oynat</string>
     <string name="public_ppt_label">Mi Təqdimat Göstərici</string>
-    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və verilənlərinizi necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
+    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
     <string name="public_readOnlyMode">Yalnız oxunan</string>
     <string name="public_recory_edit_not_save_tips">Sizin üçün saxlanılmamış məzmun artıq bərpa edildi.</string>

@@ -33,6 +33,7 @@
     <string name="download_fail_desc">MD5 Sum uyğun gəlmir…</string>
     <string name="downloading">Endirilir:</string>
     <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsində vəziyyəti yoxlayın.</string>
+    <string name="fastboot_desc">Cihaz indi Fastboot rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
     <string name="fastboot_mode">Güncəlləyici Fastboot rejimindədir, ROM-ları yalnız PC-də Terminal ilə yükləyə bilərsiniz!</string>
     <string name="fastboot_update_warning">Bu güncəlləmə yalnız fastboot quraşdırması üçündür!</string>
     <string name="fetch_notification_default_channel_name">Endirilənlər</string>
@@ -51,9 +52,10 @@
     <string name="fetching_data">Endirmə bağlantısı alınır, zəhmət olmasa gözləyin…</string>
     <string name="install_desc">Cihaz, bərpa rejimində yenidən başladılacaq və seçilmiş faylı quraşdıracaq:
 <b>%1$s</b>\"
-Verilənlər silinməyəcək.\"</string>
+Datalar silinməyəcək.\"</string>
     <string name="install_title">Davam etməyə əminsiniz?</string>
     <string name="menu_title_current_version_log">Yeni nə var?</string>
+    <string name="menu_title_fastboot">Fastboot rejimində yenidən başlat</string>
     <string name="menu_title_fastboot_mode">Fastboot rejimində güncəllə</string>
     <string name="menu_title_pick_rom_file">Güncəlləmə paketini seçin</string>
     <string name="menu_title_recovery">Bərpa rejimində yenidən başlat</string>
@@ -82,7 +84,7 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="permlab_reboot">Yen. Başlatma müraciəti</string>
     <string name="pick_not_found">Uyğun Fayl Meneceri tapılmadı.</string>
     <string name="pick_title">İstifadə edərək seçin:</string>
-    <string name="recovery_desc">Cihaz indi Bərpa rejimində yenidən başladılacaq, əgər bununla tanış deyilsinizsə, gələcəkdəki əməliyyatlardan imtina edin. Davam edilsin?</string>
+    <string name="recovery_desc">Cihaz indi Bərpa rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
     <string name="recovery_mode">Güncəlləyici Bərpa rejimindədir, ROM-ları yalnız \"Güncəlləyici\"də yükləyə bilərsiniz!</string>
     <string name="server_error">Server cavab vermir, tətbiq düzgün işləməyə bilər!</string>
     <string name="share_desc">MIUI versiyanız %1$s olaraq güncəlləndi. Son dəyişiklikləri yoxlayın: %2$s</string>

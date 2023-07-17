@@ -100,7 +100,7 @@
     <string name="HIPS_Perm_operator_shake">Akselerometr məlumatlarına müraciət</string>
     <string name="HIPS_Perm_operator_shake_Desc">Akselerometr məlumatları istiqamət və hərəkəti izləmək üçün istifadə olunur (məs. silkələnmə, əymə və döndərmə)</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
-    <string name="HIPS_Perm_process_nfc_Desc">yaxın sahə rabitəsi (NFC) təchizatına müraciət edər</string>
+    <string name="HIPS_Perm_process_nfc_Desc">yaxın sahə rabitəsi (NFC) avadanlığına müraciət</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon tətbiqinə müraciət</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">gələn zəngləri müşahidə edir</string>
     <string name="HIPS_Perm_read_clipboard">Lövhədəki elementlərə müraciət</string>

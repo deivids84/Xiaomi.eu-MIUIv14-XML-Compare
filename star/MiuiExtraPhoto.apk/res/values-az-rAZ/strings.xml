@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="acc_return">Geri</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
@@ -96,7 +97,13 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
+    <string name="grant_permission_go_and_set_2">Tənzimləmələr</string>
+    <string name="grant_permission_remind_title">Tələb olunan icazələr</string>
+    <string name="grant_permission_storage">Bu tətbiqin anbar sahəsinə müraciətinə icazə verin.</string>
+    <string name="grant_permission_text">\"Qalereya Redaktoru\"nun normal işləməsi üçün aşağıdakı icazələrə ehtiyacı var: %s. İcazəni vermək üçün \"Tənzimləmələr\"ə toxunun.</string>
     <string name="midnight">Gecə</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -111,6 +118,8 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_indexer_collect">Kolleksiyalar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -176,6 +185,9 @@
     <string name="noon">Günorta</string>
     <string name="ok">Oldu</string>
     <string name="open">Açıq</string>
+    <string name="operation_original">Müqayisə et</string>
+    <string name="operation_redo">Təkrar et</string>
+    <string name="operation_undo">Geri al</string>
     <string name="pm">GS</string>
     <string name="refocus_discard_confirm_message">Dəyişikliklər yaddaşda saxlanılsın?</string>
     <string name="refocus_discard_negative_btn">Ləğv et</string>

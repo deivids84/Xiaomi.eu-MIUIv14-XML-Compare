@@ -453,8 +453,8 @@ Daha çox &gt; \"Məlumat mənbələri\"ndə fərqli mənbəni seçə bilərsini
     <string name="exercise_notification_content">%1$d dəqiqə məşq (%2$d Kal)</string>
     <string name="exercise_notification_meet_title">"Bugünkü addımlar: %d. Hədəfə çatıldı!"</string>
     <string name="exercise_notification_no_meet_title">"Bugünkü addımlar: %d. Hədəfə çatmaq üçün davam edin!"</string>
-    <string name="exercise_question_answer_one">"1. Bəzi cihaz modelləri, az enerji istehlak edən sensorlarla təchiz olunmayıb. Xiaomi Health, aşağıdakı cihazlarda batareyaya qənaət etmək üçün fəaliyyət məlumatlarını izləmir: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
-Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; Məlumat mənbələri &gt; \"Məlumat mənbələrinin əlavə edilməsi\" bölməsindən əllə mənbə əlavə edə bilərsiniz."</string>
+    <string name="exercise_question_answer_one">"1. Bəzi cihaz modelləri, az enerji sərf edən sensorlarla təchiz olunmayıb. Xiaomi Health, aşağıdakı cihazlarda batareyaya qənaət etmək üçün fəaliyyət məlumatlarını izləmir: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; Data mənbələri &gt; \"Data mənbələrinin əlavə edilməsi\" bölməsindən əllə mənbə əlavə edə bilərsiniz."</string>
     <string name="exercise_question_answer_two">2. Bəzən hərəkət sensorları quraşdırılmaya bilər. Telefonu yenidən başladın və belə hallarda izləmənin normal işləyib-işləmədiyini yoxlayın.</string>
     <string name="exercise_question_title">"Statistikalarınızı niyə görə bilmirsiniz?"</string>
     <string name="exercise_recog_confirm_ridding">%1$s - %2$s arasında velosiped sürürdünüz?</string>
@@ -1221,7 +1221,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_deep_light_no_data">"Yuxu izlənə bilmədi. Mobil cihazınızı yastığın yanına qoymaq yuxu məlumatlarını daha dəqiq edəcək."</string>
     <string name="sleep_detection_enable">Yuxu dövrünü təhlil et</string>
     <string name="sleep_detection_feedback">Əks-əlaqə</string>
-    <string name="sleep_detection_guide_four_description">Yuxu izləmə, bir gecədə batareyanın yalnız 1%-ni istehlak edir</string>
+    <string name="sleep_detection_guide_four_description">Yuxu izləmə, bir gecədə batareyanın yalnız 1%-ni sərf edir</string>
     <string name="sleep_detection_guide_four_high_power_description">Yatmazdan əvvəl cihazınızın yetərincə enerji yığdığına əmin olun. Zəif batareya yuxu izləməsini yarımçıq kəsə bilər.</string>
     <string name="sleep_detection_guide_four_high_power_title">Cihazınızın daim enerjisi olsun</string>
     <string name="sleep_detection_guide_four_title">Aşağı enerji sərfiyyatı</string>

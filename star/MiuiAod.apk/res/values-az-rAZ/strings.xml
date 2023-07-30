@@ -81,8 +81,8 @@ dd/MM"</string>
     <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
     <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
-    <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürüşdürün</string>
-    <string name="bottomsheet_drag_handle_content_description">Tutacağı sürüşdür</string>
+    <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürükləyin</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="btn_know">Anladım</string>
     <string name="cancel">İmtina</string>
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>

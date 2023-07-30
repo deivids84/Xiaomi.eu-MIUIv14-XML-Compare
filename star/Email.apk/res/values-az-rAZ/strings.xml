@@ -817,15 +817,15 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="notify_channel_service">Arxaplan sinxronlaşdırması haqqında bildir</string>
     <string name="ntes_authorization_code_to_login">Bu təsdiqləmə kodunu istifadə edərək daxil olun</string>
     <string name="ntes_copy_and_login">Kopyala və daxil ol</string>
-    <string name="ntes_do_not_sms_uplink">Əlaqəli telefon nömrəsindən SMS göndərin və sonra \"Mesaj göndərildi\"yə toxunun.</string>
+    <string name="ntes_do_not_sms_uplink">Əlaqələndirilmiş telefon nömrəsindən SMS göndərin və sonra \"Mesaj göndərildi\"yə toxunun.</string>
     <string name="ntes_had_send">Mesaj göndərildi</string>
-    <string name="ntes_had_send_to_content">"Artıq əlaqəli telefon nömrəsindən SMS göndərmisinizsə, davam etmək üçün \"Mesaj göndərildi\"yə toxunun."</string>
+    <string name="ntes_had_send_to_content">"Artıq əlaqələndirilmiş telefon nömrəsindən SMS göndərmisinizsə, davam etmək üçün \"Mesaj göndərildi\"yə toxunun."</string>
     <string name="ntes_login_auth_too_much">"5-dən çox təsdiqləmə kodu əlavə edilə bilmir. Kompüterdə gələn qutunuza daxil olun və istifadə etmədiyiniz kodları silin."</string>
     <string name="ntes_login_error_message" formatted="false">"Hesab məlumatı əldə edilə bilmir (Xəta %s). %s."</string>
     <string name="ntes_password_error_hint">"Parolunuzu daxil edərkən xəta baş versə, bu səhifəni bağlayıb yenidən açın."</string>
-    <string name="ntes_phone_send">Əlaqəli telefon nömrəsinədn bir mətn mesajı göndər</string>
+    <string name="ntes_phone_send">Əlaqələndirilmiş telefon nömrəsindən bir mətn mesajı göndər</string>
     <string name="ntes_send_to">Göndər: %s</string>
-    <string name="ntes_send_to_content">Hazırkı telefon nömrəniz hesabla əlaqəlidirsə, \"SMS göndər\"ə toxunun.</string>
+    <string name="ntes_send_to_content">Hazırkı telefon nömrəniz hesabla əlaqələndirilibsə \"SMS göndər\"ə toxunun.</string>
     <string name="ntes_verification_code">Kodu daxil edin: %s</string>
     <string name="oauth_error_description">"Kimlik təsdiqlənə bilmədi"</string>
     <string name="oauth_find_browser_error_description">Daxil olmazdan əvvəl bir brauzer quraşdırın</string>

@@ -130,11 +130,11 @@
     <string name="disable_nfc">Naqilsiz enerji yığmaq üçün NFC söndürüldü</string>
     <string name="disable_nfc_haptic_reverse">Tərsinə naqilsiz enerji yığmaq üçün NFC və titrəmə söndürüldü</string>
     <string name="disable_nfc_reverse">Tərsinə naqilsiz enerji yığmaq üçün NFC söndürüldü</string>
-    <string name="dock_tip_floatwindow">Bölünmüş ekran görünüşünə daxil olmaq üçün sətri tutub ekranın kənarına çəkin.</string>
-    <string name="dock_tip_splitscreen_landscape_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri üfüqi şəkildə sürüşdürün.</string>
-    <string name="dock_tip_splitscreen_landscape_float">Üzən bir pəncərəyə keçmək üçün basıb aşağı sürüşdürün.</string>
-    <string name="dock_tip_splitscreen_portrait_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri şaquli şəkildə sürüşdürün.</string>
-    <string name="dock_tip_splitscreen_portrait_float">Üzən bir pəncərəyə keçmək üçün basıb ekranın sol və ya sağ tərəfinə sürüşdürün.</string>
+    <string name="dock_tip_floatwindow">Bölünmüş ekran görünüşünə daxil olmaq üçün sətri tutub ekranın kənarına sürükləyin.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri üfüqi şəkildə sürükləyin.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Üzən bir pəncərəyə keçmək üçün basıb aşağı sürükləyin.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri şaquli şəkildə sürükləyin.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Üzən bir pəncərəyə keçmək üçün basıb ekranın sol və ya sağ tərəfinə sürükləyin.</string>
     <string name="double_click_power_key">Güc düyməsinə iki dəfə bas</string>
     <string name="double_click_volume_down_when_lock">Ekran kilidli ikən Səs azaltma düyməsinə iki dəfə bas</string>
     <string name="double_knock">İki dəfə toxun</string>
@@ -173,7 +173,7 @@
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
     <string name="fp_nav_center_action_choose_dlg_title">Cəld toxunmanı aç</string>
     <string name="freeform_exchange_tip">Tətbiqi açmaq üçün buraxın</string>
-    <string name="freeform_exchange_tip2">Ləğv etmək üçün küncə sürüşdürün</string>
+    <string name="freeform_exchange_tip2">Ləğv etmək üçün küncə sürükləyin</string>
     <string name="freeform_exchange_tip3">Tam ekran rejimində üzən pəncərəni aç</string>
     <string name="frenchchic">Chic</string>
     <string name="frequent_email">Tez-tez istifadə edilən e-poçt</string>

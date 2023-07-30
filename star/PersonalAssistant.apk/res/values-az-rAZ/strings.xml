@@ -341,7 +341,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_setting_verify_success">Uğurla təsdiqləndi</string>
     <string name="pa_express_settings_bind_other_phone">Telefon nömrəsi əlavə et</string>
     <string name="pa_express_settings_dialog_cancel">Saxla</string>
-    <string name="pa_express_settings_dialog_desc">"Silsəniz, bu telefon nömrəsi ilə əlaqəli paketləri izləyə bilməyəcəksiniz."</string>
+    <string name="pa_express_settings_dialog_desc">"Silsəniz, bu telefon nömrəsi ilə əlaqələndirilmiş paketləri izləyə bilməyəcəksiniz."</string>
     <string name="pa_express_settings_dialog_ok">Sil</string>
     <string name="pa_express_settings_dialog_title">Telefon nömrəsini sil</string>
     <string name="pa_express_settings_disclaimer_desc">Aşağıdakı kuryer xidmətlərini istifadə edərək paketləri izləmək üçün telefon nömrənizi əlavə edə bilərsiniz: Guoguo, SF Express (Guoguo tərəfindən təmin edilir), JD, Mi Store və Youpin.</string>

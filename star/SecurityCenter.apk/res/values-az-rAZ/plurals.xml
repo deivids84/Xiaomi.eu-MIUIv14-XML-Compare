@@ -349,12 +349,12 @@
         <item quantity="one">%d ədədə qədər tətbiq əlavə edin. Yenidən düzmək üçün basılı saxlayın.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">Bu xüsusiyyət enerjiyə qənaət etmək üçün avtomatik olaraq %d dəqiqəlik hərəkətsizlikdən sonra ekran parlaqlığını azaldır. Bu xüsusiyyət açıq saxlanılsın?</item>
-        <item quantity="one">Bu xüsusiyyət enerjiyə qənaət etmək üçün avtomatik olaraq %d dəqiqəlik hərəkətsizlikdən sonra ekran parlaqlığını azaldır. Bu xüsusiyyət açıq saxlanılsın?</item>
+        <item quantity="other">Bu özəllik, enerjiyə qənaət etmək üçün %d dəqiqəlik fəaliyyətsizlikdən sonra ekran parlaqlığını avtomatik azaldır. Bu özəllik açıq qalsın?</item>
+        <item quantity="one">Bu özəllik, enerjiyə qənaət etmək üçün %d dəqiqəlik fəaliyyətsizlikdən sonra ekran parlaqlığını avtomatik azaldır. Bu özəllik açıq qalsın?</item>
     </plurals>
     <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">%d dəqiqəlik hərəkətsizlikdən sonra enerjiyə qənaət etmək üçün avtomatik olaraq ekran parlaqlığını azaldın</item>
-        <item quantity="one">%d dəqiqəlik hərəkətsizlikdən sonra enerjiyə qənaət etmək üçün avtomatik olaraq ekran parlaqlığını azaldın</item>
+        <item quantity="other">Enerjiyə qənaət etmək üçün %d dəqiqəlik fəaliyyətsizlikdən sonra ekran parlaqlığını avtomatik azalt</item>
+        <item quantity="one">Enerjiyə qənaət etmək üçün %d dəqiqəlik fəaliyyətsizlikdən sonra ekran parlaqlığını avtomatik azalt</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Təbriklər! %s Pasxa yumurtasının kilidini açdınız."</item>
@@ -665,12 +665,12 @@
         <item quantity="one">%d dəqiqə qaldı</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_minute">
-        <item quantity="other">Son enerji yığdığından bəri %d dəqiqə</item>
-        <item quantity="one">Son enerji yığdığından bəri %d dəqiqə</item>
+        <item quantity="other">Son enerji yığımından bəri %d dəqiqə</item>
+        <item quantity="one">Son enerji yığımından bəri %d dəqiqə</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_second">
-        <item quantity="other">Son enerji yığdığından bəri %d saniyə</item>
-        <item quantity="one">Son enerji yığdığından bəri %d saniyə</item>
+        <item quantity="other">Son enerji yığımından bəri %d saniyə</item>
+        <item quantity="one">Son enerji yığımından bəri %d saniyə</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">%1$d nəfər endirdi</item>
@@ -782,7 +782,7 @@
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Cihazınız %d saniyəyə sönəcək. Şarj cihazını qoşun.</item>
-        <item quantity="one">Cihazınız %d saniyəyə sönəcək. Şarj cihazını qoşun.</item>
+        <item quantity="one">Cihazınız %d saniyəyə sönəcək. Enerji yığan cihazını qoşun.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d tətbiq tez-tez avto-başlayır</item>

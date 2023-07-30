@@ -37,7 +37,7 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="doc_photo_adjust_section_talkback">Kəs və düzəliş et</string>
-    <string name="doc_photo_adjust_section_title">Tənzimləmək üçün sürüşdür</string>
+    <string name="doc_photo_adjust_section_title">Tənzimləmək üçün sürüklə</string>
     <string name="doc_photo_cancel">İmtina</string>
     <string name="doc_photo_close">Söndürülür</string>
     <string name="doc_photo_close_toast">Bu özəlliyi indi söndürsəniz, sildiyiniz qeydlər yenidən görünəcək. Yenə də söndürülsün?</string>

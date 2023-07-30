@@ -436,7 +436,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="delete_call_log_message">Zəng tarixçəsi təmizlənsin?</string>
     <string name="delete_call_log_selected_title">Seçilmiş zəng tarixçəsi təmizlənsin?</string>
     <string name="delete_call_log_title">Zəng tarixçəsini təmizlə</string>
-    <string name="delete_conference_call_log_message">Bu kontaktla əlaqəli bütün konfrans zənglərinin qeydləri silinsin?</string>
+    <string name="delete_conference_call_log_message">Bu kontaktla əlaqələndirilmiş bütün konfrans zəng yazıları silinsin?</string>
     <string name="delete_conference_call_log_title">Konfrans zənginin qeydlərini sil</string>
     <string name="delete_duplicate">Birləşdir</string>
     <string name="delete_duplicate_message">"Kontaktlar birləşdirilir… "</string>

@@ -40,7 +40,7 @@
     <string name="copy">Kopyala</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Bu cihaz internetə bağlı olmadıqda onu tapmaq üçün telefon nömrəsinə müraciət etmək üçün"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Bu cihaz internetə bağlı olmadıqda onu tapmaq üçün"</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazı tapmaq və itirilmiş rejimə keçmək üçün</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazı tapmaq və itmiş rejimə keçmək üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödənişinə görə
@@ -179,8 +179,8 @@ kilidlənib.
     <string name="passport_verify">Təsdiqlə</string>
     <string name="password">Parol daxil edin</string>
     <string name="phone_locked">Bu cihaz, Mi Hesabı (%s) ilə əlaqələndirilib. Cihazı aktivləşdirmək üçün parolu daxil edin.</string>
-    <string name="phone_locked_account_email">, əlaqəli e-poçt ünvanı: %s</string>
-    <string name="phone_locked_account_phone">, əlaqəli telefon nömrəsi: %s</string>
+    <string name="phone_locked_account_email">, əlaqələndirilmiş e-poçt: %s</string>
+    <string name="phone_locked_account_phone">, əlaqələndirilmiş telefon nömrəsi: %s</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="return_to_call">Zəngə geri qayıt</string>

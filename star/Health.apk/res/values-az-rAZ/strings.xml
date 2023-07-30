@@ -42,7 +42,7 @@
     <string name="abnormal">Anormal</string>
     <string name="accessibility_add_datasource">%1$s əlavə etmək üçün toxunun</string>
     <string name="accessibility_sync_closed_device">%1$s ilə sinxronlaşdırma bağlıdır</string>
-    <string name="accessibility_unbound_device">%1$s artıq hesabınızla əlaqəli deyil</string>
+    <string name="accessibility_unbound_device">%1$s artıq hesabınızla əlaqələndirilməyib</string>
     <string name="achieve_goals">Hədəfə çatıldı</string>
     <string name="achieve_stand_goals">Hədəfə çatıldı</string>
     <string name="acting">Güc</string>
@@ -322,7 +322,7 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="device_description">"Bu cihaz %s Mi Hesabı ilə əlaqələndirilib. Sizə lazım olan cihazı tapa bilmirsinizsə, əvvəlcə Mi Fit və ya Xiaomi Wear-ə əlavə edin."</string>
     <string name="device_list_origin_description">"Bu cihazlar %1$s Mi Hesabı ilə əlaqələndirilib. Sizə lazım olan cihazı tapa bilmirsinizsə, müvafiq tətbiqlərə əlavə edildiyinə əmin olun."</string>
     <string name="device_off_sync_description">"Bu cihazda yaradılmış sağlamlıq məlumatları Xiaomi Health ilə sinxronlaşdırılmayacaq"</string>
-    <string name="device_unbound_from_account">Bu cihaz artıq hesabınızla əlaqəli deyil</string>
+    <string name="device_unbound_from_account">Bu cihaz artıq hesabınızla əlaqələndirilməyib</string>
     <string name="diagnosis_log_send_failed">Diaqnoz jurnalı göndərilmədi.</string>
     <string name="diagnosis_log_sent_format">"Diaqnoz jurnalı göndərildi.
 Kimlik: %s
@@ -665,7 +665,7 @@ Yenidən başlayın."</string>
     <string name="indoor_running">Qaçış zolağı</string>
     <string name="input_body_weight">Sağlamlıq məsləhətləri almaq üçün çəki məlumatını daxil edin</string>
     <string name="inquire_recover_data">Çəki məlumatları indi bərpa edilsin?</string>
-    <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq məlumatlarınız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
+    <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq datanız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
     <string name="instructions_provider">Miao Health tərəfindən təqdim edilmiş təlimatlar</string>
     <string name="insufficient">Yetərsiz</string>
     <string name="jump_freq">Tullanma tezliyi</string>

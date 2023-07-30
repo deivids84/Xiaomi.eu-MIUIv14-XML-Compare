@@ -43,7 +43,7 @@
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
     <string name="btn_exit_send">Çıx</string>
     <string name="btn_sure">Oldu</string>
-    <string name="can_drag">Daxil etmək və ya göndərmək üçün sürüşdür</string>
+    <string name="can_drag">Daxil etmək və ya göndərmək üçün sürükləyin</string>
     <string name="can_not_transfer_when_screening">"Köçürmə əsnasında yayımlana bilmir"</string>
     <string name="chooser_fragment_mishare_title">Paylaş</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>

@@ -68,7 +68,7 @@
     <string name="backup_stopped_title">Nüsxələməyə fasliə verildi</string>
     <string name="backup_success">Uğurla nüsxələndi</string>
     <string name="backup_successfully">Uğurla nüsxələndi</string>
-    <string name="backup_to_cloud">Tətbiq nüsxələ</string>
+    <string name="backup_to_cloud">Tətbiqi nüsxələ</string>
     <string name="backup_warning_reason_app_usage_denied">"Verilənlər sinxronlaşdırıla bilmədi.
 İcazələr tələb olunur."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"Nüsxələnə bilmir"</string>

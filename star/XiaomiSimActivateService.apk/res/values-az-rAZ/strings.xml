@@ -63,9 +63,9 @@
     <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">\"%2$s\" xidmətini aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;beynəlxalq ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesajlara görə sizdən ödəniş tələb edəcək.</string>
     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">\"%2$s\" xidmətini aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;ölkədaxili ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesajlara görə sizdən ödəniş tələb edəcək.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefon nömrəniz tapıla bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun.
-%s-i yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqəli telefon nömrənizi daxil edin."</string>
+%s-i yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqələndirilmiş telefon nömrənizi daxil edin."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivləşdirmə mesajı göndərilə bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun.
- %s-i yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqəli telefon nömrəsini daxil edin."</string>
+ %s-i yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqələndirilmiş telefon nömrəsini daxil edin."</string>
     <string name="activate_popup_desc_error_device">Yararsız IMEI. Yenidən sınamaq üçün toxunun.</string>
     <string name="activate_popup_desc_failed_phone_error">Daxil etdiyiniz telefon nömrəsi yararsızdır.</string>
     <string name="activate_popup_desc_failed_query_info">"Telefon nömrəniz tapıla bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun."</string>

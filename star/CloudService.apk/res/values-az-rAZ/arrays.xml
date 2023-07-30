@@ -43,17 +43,17 @@
         <item>"Əgər cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
-        <item>Tətbiq verilənlərini sinxr.</item>
+        <item>Tətbiq datası sinxr</item>
         <item>Əsas ekran düzümünü nüsxələ</item>
         <item>Sistem tənzimləmələrini nüsxələ</item>
         <item>Cihazı tap</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
-        <item>Tətbiq verilənlərini sinxr.</item>
+        <item>Tətbiq datası sinxr</item>
         <item>Cihazı tap</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Cihazı tapmaq və itirilmiş rejimə keçirmək üçün</item>
+        <item>Cihazınızı tapmaq və İtmiş rejimə keçirmək üçün</item>
         <item>"İnternetə bağlı olmadıqda bu cihazı tapmaq üçün"</item>
         <item>"İnternetə bağlı olmadıqda bu cihazı tapmaq üçün telefon nömrəsinə müraciət etmək üçün"</item>
     </string-array>
@@ -89,12 +89,12 @@
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Cihazı tap</item>
-        <item>"Cihazınız itsə, verilənləri silin və cihazı kilidləyin"</item>
+        <item>"Cihazınız itsə, datanı silin və cihazı kilidləyin"</item>
         <item>Cihazı tap;İtirilmiş;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Cihazı tap</item>
-        <item>"Cihazınız itsə, verilənləri silin və cihazı kilidləyin"</item>
+        <item>"Cihazınız itsə, datanı silin və cihazı kilidləyin"</item>
         <item>Cihazı tap;İtirilmiş;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
@@ -159,7 +159,7 @@
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>Xiaomi Cloud üzvlüyü</item>
-        <item>Üzvlüyünüzü yüksəldin, daha çox anbar sahəsi alın və verilənlərinizi qoruyun</item>
+        <item>Üzvlüyünüzü yüksəldin, daha çox anbar sahəsi alın və datanızı qoruyun</item>
         <item>Yetərsiz anbar;Üzvlük;Anbar;Anbar sahəsi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud;Mega;Ultra;VIP;Nüsxələ;Nüsxələmə;Bərpa et;Tullantı;Silinən elementlər;Tullantı qutusu</item>
     </string-array>
     <string-array name="settings_search_sync_manage">

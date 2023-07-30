@@ -422,8 +422,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="midrive_reset_privacy_and_check_availability_retry">"Mi Drive işə salına bilmədi. Yenidən sınayın."</string>
     <string name="midriver_install_button_text">Quraşdır</string>
     <string name="midriver_not_install_title">Mi Drive silindi</string>
-    <string name="mirror_can_not_drag_mask">Mi Share-i istifadə etmək üçün çəkin</string>
-    <string name="mirror_can_not_drag_mask_new">Elementləri %s daxilinə buraxın</string>
+    <string name="mirror_can_not_drag_mask">Mi Share-i istifadə etmək üçün sürükləyin</string>
+    <string name="mirror_can_not_drag_mask_new">Elementləri %s daxilinə sürüklə</string>
     <string name="mirror_new_name">Qovluq yarat (%s)</string>
     <string name="mirror_new_name_first">Qovluq yarat</string>
     <string name="mirror_no_recommended_app">Tövsiyə edilən tətbiq yoxdur</string>

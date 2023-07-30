@@ -138,7 +138,7 @@
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Cihazlar</item>
-        <item>Xiaomi Hesabınız ilə əlaqəli cihazları idarə edin</item>
+        <item>Xiaomi Hesabınızla əlaqələndirilmiş cihazları idarə edin</item>
         <item>Cihazları idarə et;Cihazlarım;Cihazlar;Cihaz siyahısı;Mi Hesabı;Hesabı;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">

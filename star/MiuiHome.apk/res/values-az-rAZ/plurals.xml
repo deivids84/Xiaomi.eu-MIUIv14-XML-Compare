@@ -37,8 +37,8 @@
         <item quantity="one">1 dəq əvvəl</item>
     </plurals>
     <plurals name="announce_for_drag">
-        <item quantity="other">%1$d element sürüşdürülür</item>
-        <item quantity="one">%1$d element sürüşdürülür</item>
+        <item quantity="other">%1$d element sürüklənir</item>
+        <item quantity="one">%1$d element sürüklənir</item>
     </plurals>
     <plurals name="announce_for_unread">
         <item quantity="one">%1$s mənbəyindən %2$s oxunmamış</item>

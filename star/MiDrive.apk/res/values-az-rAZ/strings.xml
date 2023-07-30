@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_title">Mi Drive haqqında</string>
     <string name="about_version">"Versiya: "</string>
-    <string name="account_change_message">"%1$s hesabına keçirsiniz. Bu hesabla əlaqəli Mi Drive verilənlərini görəcəksiniz."</string>
+    <string name="account_change_message">"%1$s hesabına keçirsiniz. Bu hesabla əlaqələndirilmiş Mi Drive datasını görəcəksiniz."</string>
     <string name="account_change_title">Hesab dəyişdirilir</string>
     <string name="account_info_desc">Hesab məlumatlarını idarə et</string>
     <string name="actionbar_button_up_description">Geri</string>

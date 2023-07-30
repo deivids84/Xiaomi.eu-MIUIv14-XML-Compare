@@ -198,7 +198,7 @@
     <string name="confirm_activate_email">Təsdiqləndi</string>
     <string name="confirm_bundled_phone_dialog_confirm">Təsdiqlə</string>
     <string name="confirm_bundled_phone_dialog_confirm_timer">Təsdiqlə (%d s)</string>
-    <string name="confirm_bundled_phone_dialog_title">Əlaqəli telefon nömrəsini təsdiqlə</string>
+    <string name="confirm_bundled_phone_dialog_title">Əlaqələndirilmiş telefon nömrəsini təsdiqlə</string>
     <string name="confirm_new_pwd">Yeni parolu təsdiqlə</string>
     <string name="confirm_phone_number_dialog_message">Təsdiqləmə kodu %s nömrəsinə göndəriləcək.</string>
     <string name="confirm_phone_number_dialog_title">Telefon nömrəsini təsdiqlə</string>
@@ -761,7 +761,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_register_by_email"><u>E-poçt ünvanı ilə hesab yaradın</u></string>
     <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
-    <string name="passport_register_restricted">Bu nömrə ilə həddindən çox hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın</string>
+    <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın</string>
     <string name="passport_register_restricted_title">"Bu telefon nömrəsi istifadə edilə bilmir"</string>
     <string name="passport_register_using_other_ways">Hesab yaratmaq üçün digər üsullar</string>
     <string name="passport_registered_phone_num">Telefon: %s</string>

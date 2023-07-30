@@ -78,15 +78,16 @@
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -180,8 +181,9 @@
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="pa_accessibility_home_search">Axtarış, başlamaq üçün iki dəfə toxunun</string>
-    <string name="pa_accessibility_home_widget_drag">Elementi sürüşdürmə</string>
+    <string name="pa_accessibility_home_search">"Axtar, 
+başlamaq üçün cüt toxunun"</string>
+    <string name="pa_accessibility_home_widget_drag">Element sürükləmə</string>
     <string name="pa_accessibility_home_widget_drag_move">%1$d sətrinə, %2$d mövqeyinə get</string>
     <string name="pa_accessibility_home_widget_drop_workspace">%1$d sətrinə, %2$d mövqeyinə daşındı</string>
     <string name="pa_accessibility_olympic_bronze_medal">Bürünc medal</string>
@@ -195,15 +197,30 @@
     <string name="pa_accessibility_picker_back">Geri qayıt.</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Vicet kolleksiyaları</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Dəstəklənən vicetlərin siyahısına baxın</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s seçildi, sətir %2$d, nömrə %3$d. Başlamaq üçün iki dəfə toxunun.</string>
-    <string name="pa_accessibility_picker_home_maml_slected">%1$s seçildi. Həcmi: %2$s. Detallar səhifəsinə baxmaq üçün iki dəfə basın. Sürüşdürmək üçün iki dəfə basıb saxlayın.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Başlatmaq üçün cüt toxunun."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Detallar səhifəsinə baxmaq üçün 2 dəfə basın. 
+Sürükləmək üçün 2 dəfə basıb basılı saxlayın."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
+Detallar səhifəsinə getmək üçün cüt toxunun"</string>
     <string name="pa_accessibility_picker_home_search">Vicet axtar</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s seçildi, sətir %2$d, nömrə %3$d. Başlamaq üçün iki dəfə toxunun.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Başlatmaq üçün cüt toxunun."</string>
     <string name="pa_accessibility_picker_home_title">Vicet əlavə et</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s seçildi. Vicetlər dəyişdirilir.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Vicet: %s. Başqa bir vicetlə əvəz etmək üçün altındakı düyməyə iki dəfə toxunun.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Quraşdırma vəziyyəti: %3$s. \"Keç\" düyməsi aşağıdadır. Keçmək üçün iki dəfə basın.</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s seçildi, sətir %2$d, nömrə %3$d. Detallara baxmaq üçün iki dəfə toxunun.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Başqa bir vicetlə əvəz etmək üçün altındakı düyməyə iki dəfə toxunun."</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Quraşdırma vəziyyəti: %3$s. \"Keç\" düyməsi aşağıdadır.
+Keçmək üçün iki dəfə basın."</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Quraşdırma statusu: %3$s, 
+detallar üçün iki dəfə toxunun, 
+daşımaq üçün iki dəfə toxunub basılı saxlayın."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, quraşdırma statusu: %3$s.
+Detallara baxmaq üçün iki dəfə toxunun."</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, sətir %2$d, nömrə %3$d. 
+Detallara baxmaq üçün iki dəfə toxunun."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">\"Temalar\"ı aç</string>
     <string name="pa_accessibility_picker_search_cancel">Vicet axtarış sətri. İmtina üçün iki dəfə toxunun.</string>
     <string name="pa_accessibility_picker_search_clear">Mətni təmizlə</string>
     <string name="pa_accessibility_picker_search_tips">Vicet axtarış sətri. Axtarmaq üçün iki dəfə toxunun.</string>
@@ -220,12 +237,12 @@
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu elementi Əsas ekrana əlavə et.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu elementi Tətbiq kassasına əlavə et.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Düzəliş et</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Vicet seçildi. Bu elementi Əsas ekrana əlavə etmək üçün götürüb buraxın.</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Vicet seçildi. Bu elementi Tətbiq kassasına əlavə etmək üçün götürüb buraxın.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Vicet seçildi. Bu elementi Əsas ekrana əlavə etmək üçün sürükləyin.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Vicet seçildi. Bu elementi Tətbiq kassasına əlavə etmək üçün sürükləyin.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Vicet mağazası. %s üzrə bütün vicetlərə baxmaq üçün seçin. %s üzrə bütün vicetlərə baxmaq üçün iki dəfə toxunun.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Vicet mağazası. %s seçildi. Vicet açıqlamasını açmaq üçün iki dəfə toxunun. Element %s viceti ehtiva edir.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Düzəliş etmək üçün iki dəfə toxunun.</string>
-    <string name="pa_accessibility_widget_slected_status">%1$s seçildi. Quraşdırma vəziyyəti: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Quraşdırma vəziyyəti: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Vicet</string>
     <string name="pa_app_label">Tətbiq kassası</string>
     <string name="pa_base_time_just_now">İndicə</string>
@@ -235,7 +252,7 @@
     <string name="pa_base_yesterday">Dünən</string>
     <string name="pa_cancel">İmtina</string>
     <string name="pa_clear">Təmizlə</string>
-    <string name="pa_covid_card_title">COVID-19</string>
+    <string name="pa_covid_card_title">Gündəlik alətlər</string>
     <string name="pa_cta_dialog_all_purpose">\"Tətbiq kassası\"na xoş gəldiniz! Bu tətbiq, iş, həyat tərzi və səyahətlə bağlı xidmətlər üçün bir nöqtədir.</string>
     <string name="pa_cta_dialog_desc_location">Gediş-gəliş təkliflərini təqdim etmək üçün</string>
     <string name="pa_cta_dialog_desc_phone_state">IMEI əsasında cihazınızın kimliyini müəyyənləşdirmək üçün</string>
@@ -270,7 +287,7 @@
     <string name="pa_express_detail_list_empty_text">"Elementlər burada gecikmə ilə görünə bilər.
 Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılmanı izləyə bilərsiniz."</string>
     <string name="pa_express_detail_more">Daha çox</string>
-    <string name="pa_express_detail_order_number_prefix">İzləmə nömrəsi: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Sifariş nömrəsi: %s</string>
     <string name="pa_express_dialog_sign_message">Bu paket çatdırılmış olaraq işarələnsin? Statusu bundan sonra güncəllənməyəcək.</string>
     <string name="pa_express_empty_extra">İzlə</string>
     <string name="pa_express_empty_title">Burada heç bir çatdırılma məlumatı yoxdur</string>
@@ -288,7 +305,6 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_manual_query_hint">Axtarmaq üçün sifariş nömrəsini daxil edin</string>
     <string name="pa_express_manual_select_company">Seç</string>
     <string name="pa_express_manual_select_company_toast">Kuryer xidmətini seçin</string>
-    <string name="pa_express_order_number">Sifariş nömrəsi: %s</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Kodu daxil edin</string>
     <string name="pa_express_phone_binding_next_step">Növbəti</string>
     <string name="pa_express_phone_binding_number">Telefon nömrəsi</string>
@@ -357,11 +373,13 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_state_unknown">Hələ ki, məlumat yoxdur</string>
     <string name="pa_express_tail_number">Sifariş nömrəsi: %1$s</string>
     <string name="pa_express_title">Sürətli çatdırılma</string>
+    <string name="pa_express_widget_all">Bütün paketlər</string>
     <string name="pa_express_widget_list_item_desc">"İzləmə nömrəsi: "</string>
     <string name="pa_express_widget_logout">Sürətli çatdırılma paketlərinizə baxmaq üçün daxil olun</string>
     <string name="pa_express_widget_order_42">İzləmə nömrəsini daxil edin</string>
     <string name="pa_express_widget_post">Paketi göndər</string>
-    <string name="pa_filter_accessibility_filter_item">%s seçildi. Digər seçimləri filtrləmək üçün iki dəfə toxunun.</string>
+    <string name="pa_express_widget_search">Axtar</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Digər seçimləri filtrləmək üçün iki dəfə toxunun.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">%s - seçmək üçün iki dəfə toxunun.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Seçmək üçün iki dəfə toxunun.</string>
     <string name="pa_filter_replace_bt">Tətbiq et</string>
@@ -381,8 +399,8 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_lite_setting_private_auth">Tətbiq istifadəsini təhlil etməyə icazə ver</string>
     <string name="pa_lite_setting_private_auth_summary">Tətbiq təklifləri, istifadə məlumatlarınıza əsaslanacaq</string>
     <string name="pa_lite_setting_private_policy">Gizlilik Siyasəti</string>
-    <string name="pa_lite_setting_service_covid">COVID-19</string>
-    <string name="pa_lite_setting_service_covid_summry">Pandemiya ilə bağlı məlumatlar və xidmətlər</string>
+    <string name="pa_lite_setting_service_covid">Gündəlik alətlər</string>
+    <string name="pa_lite_setting_service_covid_summry">Hər gün istifadə etdiyiniz özəlliklərin hamısı bir yerdədir</string>
     <string name="pa_lite_setting_service_express">Sürətli çatdırılma</string>
     <string name="pa_lite_setting_service_express_summry">Sürətli çatdırılma paketlərinizi izləyin</string>
     <string name="pa_lite_setting_service_management">Xidmətləri idarə et</string>
@@ -400,6 +418,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_lite_setting_service_shopping_summary">Endirim və alış-veriş təklifləri əldə edin</string>
     <string name="pa_lite_setting_service_sports">İdman</string>
     <string name="pa_lite_setting_service_sports_summary">İzlədiyiniz komandalar haqqında ən son məlumatlar</string>
+    <string name="pa_lite_setting_service_stock">Səhmlər</string>
     <string name="pa_lite_setting_service_stock_summary">İzlədiyiniz şirkətlər haqqında ən son güncəlləmələr</string>
     <string name="pa_lite_setting_service_timetable">Sinif cədvəli</string>
     <string name="pa_lite_setting_service_timetable_summary">Yaxınlaşan dərslərə bax</string>
@@ -418,6 +437,8 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_olympic_label">Medallar</string>
     <string name="pa_olympic_medal_count">Cəmi medal</string>
     <string name="pa_olympic_medals_description">Olimpiya medal sıralamasını yoxlayın</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Tətbiq kassasını söndürsəniz, vicetləri istifadə edə və ya Əsas ekranda sağa sürüşdürərək onlara müraciət edə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Tətbiq kassası söndürülsün?</string>
     <string name="pa_operation_switch_summary">Son məşhur vicetlərə baxın</string>
     <string name="pa_operation_switch_title">Məşhur promosyonlar</string>
     <string name="pa_pad_privacy_text">Əsas ekran vicetləri</string>
@@ -439,6 +460,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Vicetlərini istifadə etmək üçün tətbiqi güncəlləyin</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Tətbiqi quraşdır</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Tətbiqi güncəllə</string>
+    <string name="pa_picker_detail_bt_loading">Bir saniyə…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Oradan vicet əlavə etmək üçün Tətbiq kassasını açın.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Tətbiq kassasını istifadə et</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">İmtina</string>
@@ -461,8 +483,13 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_net_error">Şəbəkə xətası. Yenidən sınamaq üçün toxunun.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Bir saniyə…</string>
     <string name="pa_picker_detail_small_widget">Vicetlər</string>
+    <string name="pa_picker_detail_state_error_retry">Nəsə səhv getdi. Yenidən sınayın.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Satın alındı</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
     <string name="pa_picker_detail_theme_app_cta">Tənzimləmələr</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Bu vicet istifadə edə bilmək üçün əvvəlcə \"Temalar\"ın internetə bağlanmasına icazə verin. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Daxil olun</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Əvvəlcə Xiaomi Hesabınıza daxil olun. "</string>
     <string name="pa_picker_detail_vp2_indicator">Seçilmiş səhifə %1$d/%2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Bu element Wi-Fi ilə endiriləcək</string>
     <string name="pa_picker_empty">"Vicetlər tətbiqin bu versiyasında mövcud deyil. 
@@ -472,6 +499,14 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_home_request_failed">Şəbəkə xətası</string>
     <string name="pa_picker_home_search_hint">Vicet axtar</string>
     <string name="pa_picker_home_title">Vidjet əlavə et</string>
+    <string name="pa_picker_image_text_share">Paylaş</string>
+    <string name="pa_picker_image_text_share_content" formatted="false">Masaüstünü %s vicetləri ilə bəzəyin! %s</string>
+    <string name="pa_picker_image_text_share_copy_url">URL-ni kopyala</string>
+    <string name="pa_picker_image_text_share_more">Daha çox</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">WeChat Sevimlilər</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">WeChat Anlar</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">"Elementlər yüklənilə bilmədi. Yenidən sınayın."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Android vicetləri</string>
     <string name="pa_picker_list_app_title">Viceti olan tətbiqlər</string>
@@ -483,8 +518,18 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_loading">Bir saniyə…</string>
     <string name="pa_picker_maml_list_activity_title">Vidjet əlavə et</string>
     <string name="pa_picker_no_relevant_content">"Nəticə tapıla bilmədi"</string>
+    <string name="pa_picker_order_go_to_allow_cta">İcazə ver</string>
+    <string name="pa_picker_order_go_to_login">Daxil olun</string>
+    <string name="pa_picker_order_login_xiaomi_account">Bu özəlliyi istifadə edə bilmək üçün Xiaomi Hesabınıza daxil olun.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="pa_picker_permission_denied">"Vicetləri göstərmək üçün
 Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
+    <string name="pa_picker_purchase_order">Satın alındı</string>
+    <string name="pa_picker_recommend_add_limit_toast">"Daha çox vicet əlavə edilə bilmir"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Vicet əlavə et</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Vicet əlavə et</string>
+    <string name="pa_picker_recommend_download_tip">Bir vicet əlavə etdikdə, əlaqələndirilmiş tətbiq avtomatik endiriləcək</string>
+    <string name="pa_picker_recommend_title">Sizin üçün tövsiyə edilən</string>
     <string name="pa_picker_request">Tənzimləmələr</string>
     <string name="pa_picker_retry">Yenidən sına</string>
     <string name="pa_picker_search">Axtar</string>
@@ -503,13 +548,17 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_picker_search_result_type_widget">Vicetlər</string>
     <string name="pa_picker_suit_list_activity_title">Fərdiləşdirilmiş paketlər</string>
     <string name="pa_picker_tab_title_category">Kateqoriyalar</string>
-    <string name="pa_picker_tab_title_recommend">Tövsiyə edilən</string>
+    <string name="pa_picker_tab_title_fun">Kəşf et</string>
+    <string name="pa_picker_tab_title_recommend">Seçilmiş</string>
+    <string name="pa_picker_theme_app_version_error">Xəta baş verdi</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Daha çox vicet əlavə edilə bilmir. Yenisini əlavə etmək üçün köhnə vicetləri silin."</string>
     <string name="pa_picker_toast_add_successfully">Uğurla əlavə edildi</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Daha çox vicet əlavə edilə bilmir"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Bu növdə daha çox vicet əlavə edilə bilmir"</string>
     <string name="pa_picker_toast_count_limit_warning">Uğurla əlavə edildi. Unutmayın, Əsas ekranınıza çoxlu vicet əlavə etmək cihazınızı yavaşlada bilər.</string>
     <string name="pa_picker_toast_screen_cell_locked">"Əsas ekran düzümünüz kilidlidir. Vicet əlavə edilə bilmir."</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, quraşdırılmadı</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, güncəlləmə mövcuddur</string>
     <string name="pa_privacy_text">Gizlilik</string>
     <string name="pa_read_storage_permission_description">Əsas ekran divar kağızınızı tətbiq arxaplanı olaraq görüntüləmək üçün</string>
     <string name="pa_recommend_add_btn">Başla</string>
@@ -539,8 +588,10 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Diqqət</string>
     <string name="pa_setting_bugreport">Əks-əlaqə</string>
     <string name="pa_setting_perm_empty">Burada hələ heç nə yoxdur</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Maraqlarınıza görə vicet tövsiyələri alın</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="pa_setting_privacy_auth">Tətbiq istifadəsini təhlil etməyə icazə ver</string>
-    <string name="pa_setting_privacy_auth_summary">"İstifadə vvərdişlərinizə əsasən təkliflər alacaqsınız"</string>
+    <string name="pa_setting_privacy_auth_summary">"İstifadə vərdişlərinizə əsasən təkliflər alacaqsınız"</string>
     <string name="pa_setting_privacy_category_perm">İcazələr</string>
     <string name="pa_setting_privacy_category_priv">Gizlilik Siyasəti</string>
     <string name="pa_setting_privacy_category_revoke">Razılığın geri götürülməsi və xidmətin ləğvi</string>
@@ -578,10 +629,12 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_setting_privacy_revoke_positive">Anladım</string>
     <string name="pa_setting_privacy_third_parties">Üçüncü tərəflərlə məlumatların paylaşılmasına dair bəyanat</string>
     <string name="pa_setting_privacy_view_priv">Gizlilik Siyasətinə bax</string>
+    <string name="pa_setting_simplify_title_bar">Tətbiq kassası</string>
     <string name="pa_setting_version">Versiya：%1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Alış-verişə xoş gəldiniz! Endirim və alış-veriş təklifləri əldə etmək üçün bu viceti istifadə edə bilərsiniz. Davam etməzdən əvvəl Üçüncü Tərəf Xidmətlər və Gizlilik Siyasəti haqqında Bəyanatımızı oxuyub qəbul edin.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Şərtlər və qaydalar</string>
     <string name="pa_shopping_dialog_privacy_desc">Gizlilik Siyasəti</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_message">"Davam etsəniz, Shopping Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatlarınızı toplamağı dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Shopping, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi bu xidmətləri qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="pa_shopping_dialog_privacy_withdraw_title">Razılığın geri götürülməsi</string>
     <string name="pa_shopping_dialog_statement_desc">Üçüncü Tərəf Xidmətlər haqqında bəyanat</string>
     <string name="pa_shopping_page_product_action_bar_title">Bütün məhsullar</string>
@@ -618,7 +671,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_shortcut_memory_clean_nothing">Keşdə təmizlənəcək heç nə yoxdur</string>
     <string name="pa_shortcut_memory_clean_result">%1$s B təmizləndi</string>
     <string name="pa_shortcut_paycode">Alipay</string>
-    <string name="pa_shortcut_setting_activity_subtitle">Yenidən dəyişdirmək üçün elementləri sürüyün</string>
+    <string name="pa_shortcut_setting_activity_subtitle">Yenidən düzmək üçün elementləri sürükləyin</string>
     <string name="pa_shortcut_setting_activity_title">Qısayollar əlavə edildi</string>
     <string name="pa_shortcut_setting_select_other_applications">Digər tətbiqləri seçin</string>
     <string name="pa_shortcut_widget_label">Cəld müraciət</string>
@@ -647,6 +700,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_sports_fav_league">Tədbirlərim</string>
     <string name="pa_sports_fav_title">Komandalarım</string>
     <string name="pa_sports_followed">İzlənilir</string>
+    <string name="pa_sports_jump_error">"Bir xətaya görə səhifə açıla bilmədi."</string>
     <string name="pa_sports_league_detail_download_douyu">Baxmaq üçün \"Douyu\"nu quraşdır</string>
     <string name="pa_sports_league_detail_download_hupu">Baxmaq üçün \"Hupu\"nu quraşdır</string>
     <string name="pa_sports_league_detail_view">Bax</string>
@@ -674,6 +728,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_stock_desc_add_success">Uğurla əlavə edildi</string>
     <string name="pa_stock_desc_cancel_pin">Sancağı götür</string>
     <string name="pa_stock_desc_delete_stock">%1$s silinsin</string>
+    <string name="pa_stock_desc_move_stock">Səhmi daşımaq üçün basılı saxlayın</string>
     <string name="pa_stock_desc_pin_stock">Başlanğıc səhifəyə sancaqla</string>
     <string name="pa_stock_display_limit_alert">"Daha çox şirkət əlavə edilə bilmir"</string>
     <string name="pa_stock_empty_display_list">Burada hələ ki, element yoxdur. Əlavə etmək üçün \"Əlavə et\"ə toxunun.</string>
@@ -683,24 +738,29 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_stock_green_grow">Yaşıl - yuxarı, qırmızı- aşağı</string>
     <string name="pa_stock_hszs">Hang Sen</string>
     <string name="pa_stock_init_toast">Vicetlər başladılır…</string>
+    <string name="pa_stock_label_stock">Səhmlər</string>
     <string name="pa_stock_load_data_failure">"Məlumat yüklənə bilmədi"</string>
     <string name="pa_stock_network_unavailable">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="pa_stock_not_found_related_items">"Nəticələr tapıla bilmədi"</string>
     <string name="pa_stock_nsdk">Nasdaq</string>
     <string name="pa_stock_red_grow">Qırmızı - yuxarı, yaşıl- aşağı</string>
     <string name="pa_stock_search_failure">"Nəticə tapıla bilmədi"</string>
+    <string name="pa_stock_search_input_hint">Səhm adını və ya kodunu daxil edin</string>
     <string name="pa_stock_search_loading">Bir saniyə…</string>
     <string name="pa_stock_szzs">SSE</string>
+    <string name="pa_stock_update_limitation_tip">ABŞ və Honq Konq fond birjaları haqqında məlumatlar 15 dəqiqəlik gecikmə ilə güncəllənir.</string>
     <string name="pa_stock_webview_bottom_button">Endir</string>
     <string name="pa_stock_webview_bottom_text">Daha çox məlumat üçün müştərini açın</string>
     <string name="pa_stock_widget_button_add_stock">Əlavə et</string>
     <string name="pa_stock_widget_empty">Burada hələ heç bir element yoxdur</string>
+    <string name="pa_stock_widget_name">Səhmlər</string>
     <string name="pa_sure">Oldu</string>
     <string name="pa_toast_home_layout_locked">Əsas ekran düzümü kilidlidir</string>
     <string name="pa_toast_message_not_support_size">"Bu ölçüdəki vicetlər Tətbiq kassası tərəfindən dəstəklənmir"</string>
     <string name="pa_vertical_center">Şaquli düzüm. Ortaya hizalanmış.</string>
     <string name="pa_vertical_left">Şaquli düzüm. Sola hizalanmış.</string>
     <string name="pa_vertical_right">Şaquli düzüm. Sağa hizalanmış.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Bir saniyə…</string>
     <string name="pa_widget_menu_edit">Düzəliş et</string>
     <string name="pa_widget_menu_remove">Sil</string>
     <string name="pa_widget_menu_replace">Dəyişdir</string>

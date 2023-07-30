@@ -284,7 +284,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="hsa_tip_message">"1. Təsdiqləmə kodunu ala bilmirsinizsə, Apple cihazınızda iCloud-a daxil olduğunuzdan əmin olun.
 2. Daxil edilən təsdiqləmə kodu kömək etmirsə, iki mərhələli kimlik təsdiqləməni söndürün. "</string>
     <string name="hsa_tip_message_shutdown_hsa">İki mərhələli kimlik təsdiqləməsini necə söndürmək olar?</string>
-    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqəli olan \"%s\" cihazına təsdiqləmə kodu olan bir mesaj göndərildi.\n2. Əgər təsdiqləmə kodu işləməsə, iki mərhələli kimlik təsdiqləməsini söndürün."</string>
+    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqələndirilmiş \"%s\" cihazına təsdiqləmə kodu olan bir mesaj göndərildi.\n2. Əgər təsdiqləmə kodu işləməsə, iki mərhələli kimlik təsdiqləməsini söndürün."</string>
     <string name="hsa_tip_title">Məsləhətlər:</string>
     <string name="hsa_title">İki mərhələli kimlik təsdiqləmə</string>
     <string name="hsa_verify_failed">İki mərhələli kimlik təsdiqləmə uğursuz oldu</string>

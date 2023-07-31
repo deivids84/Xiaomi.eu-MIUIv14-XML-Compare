@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
+    <string name="app_name">Tətbiq Uzantı Xidməti</string>
     <string name="auth_activity_label">Təsdiqləmə kodları</string>
     <string name="auth_fingerprint_content">Barmaq izi oxunur…</string>
     <string name="auth_fingerprint_content_message">Barmağınızı sensorun üzərinə qoyun</string>
@@ -48,6 +49,7 @@
     <string name="autofill_password_activity_label">Təsdiqləmə kodları</string>
     <string name="autofill_service_label">Parolları idarə et</string>
     <string name="autofill_setting_activity_label">Parolları idarə et</string>
+    <string name="back_button_label">Geri</string>
     <string name="cancel">İmtina</string>
     <string name="change_passwork_dialog_content">"Bu hesab üçün artıq bir parol saxlamısınız. Parol indi güncəllənsin?"</string>
     <string name="change_passwork_dialog_title">Parol güncəllənsin?</string>

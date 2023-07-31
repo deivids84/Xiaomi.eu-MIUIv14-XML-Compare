@@ -256,7 +256,7 @@
     <string name="public_pdf_print_title">Çap et</string>
     <string name="public_permission_request">Sənədlərlə işləmək üçün Tənzimləmələrdəki tələb olunan icazələri verin.</string>
     <string name="public_permission_storage_disallow_msg">"İcazəni ləğv etdikdən sonra sənədlərlə işləyə bilməyəcəksiniz."</string>
-    <string name="public_play">Oynat</string>
+    <string name="public_play">Oxut</string>
     <string name="public_ppt_label">Mi Təqdimat Göstərici</string>
     <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
@@ -317,7 +317,7 @@
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Sənədi güvənli şəkildə saxlayın</string>
     <string name="public_writer_label">Mi Text Viewer</string>
     <string name="public_writer_ui_delete">Sil</string>
-    <string name="reader_ppt_autoplay">avto-oynatma</string>
+    <string name="reader_ppt_autoplay">avto-oxutma</string>
     <string name="reader_ppt_play_exit">çıx</string>
     <string name="reader_ppt_play_options">Seçimlər</string>
     <string name="reader_ppt_slide_list_new">Daxil et</string>

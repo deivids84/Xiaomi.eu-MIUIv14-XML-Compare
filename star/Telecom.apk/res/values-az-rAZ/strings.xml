@@ -53,7 +53,7 @@
     <string name="block_number">Nömrə əlavə et</string>
     <string name="blocked_numbers">Əngəllənmiş nömrələr</string>
     <string name="blocked_numbers_block_emergency_number_message">Fövqəladə hal nömrəsi əngəllənə bilməz.</string>
-    <string name="blocked_numbers_butter_bar_body">Fövqəladə vəziyyət nömrəsinə zəng etdikdən və ya mesaj göndərdikdən sonra, fövqəladə vəziyyət xidmətlərin sizinlə əlaqə saxlaya bilmələrini təmin etmək üçün əngəlləmə söndürülür.</string>
+    <string name="blocked_numbers_butter_bar_body">Fövqəladə hal nömrəsinə zəng etdikdən və ya mesaj göndərdikdən sonra, fövqəladə hal xidmətlərin sizinlə əlaqə saxlaya bilmələrini təmin etmək üçün əngəlləmə söndürülür.</string>
     <string name="blocked_numbers_butter_bar_button">İndi yenidən fəallaşdır</string>
     <string name="blocked_numbers_butter_bar_title">Əngəlləmə müvəqqəti bağlıdır</string>
     <string name="blocked_numbers_msg">"Əngəllənmiş nömrələrdən zəng və ya mesaj almayacaqsınız."</string>
@@ -227,7 +227,7 @@
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Zəng əngəlləmə sıradan çıxarıldı</string>
     <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Zəng əngəlləmə</string>
     <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Fövqəladə hallara cavab verən komandanın sizinlə əlaqə saxlamasına icazə vermək üçün Zəng Əngəlləmə sıradan çıxarıldı.</string>
-    <string name="phone_strings_emergency_call_made_dialog_title_txt">Fövqəladə vəziyyət zəngi edildi</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">Fövqəladə hal zəngi edildi</string>
     <string name="pm">GS</string>
     <string name="respond_via_sms_canned_response_1">"İndi danışa bilmirəm. Nəsə baş verib?"</string>
     <string name="respond_via_sms_canned_response_2">"Özüm zəng edəcəm."</string>

@@ -391,7 +391,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="picker_permission_failed">"İcazə verilə bilmədi. Bu özəllik onsuz işləmir."</string>
     <string name="play_metered_network_dialog_cancel">İmtina</string>
     <string name="play_metered_network_dialog_desc">"Cihazınız Wi-Fi-a bağlanmayıb. Mobil internet istifadə edərək oynadılsın?"</string>
-    <string name="play_metered_network_dialog_ok">Oynat</string>
+    <string name="play_metered_network_dialog_ok">Oxut</string>
     <string name="play_metered_network_dialog_title">Mobil internet istifadəsi</string>
     <string name="pm">GS</string>
     <string name="ppt_to_pdf">PDF-ə çevrildi</string>
@@ -503,10 +503,10 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="talkback_close_open_picture">İmtina</string>
     <string name="talkback_continue">Davam et</string>
     <string name="talkback_doc_filter">Filtr düyməsi</string>
-    <string name="talkback_list_play">Hamısını oynat</string>
+    <string name="talkback_list_play">Hamısını oxut</string>
     <string name="talkback_next_song">Növbəti mahnı</string>
     <string name="talkback_pause">Fasilə ver</string>
-    <string name="talkback_play">Oynat</string>
+    <string name="talkback_play">Oxut</string>
     <string name="talkback_previous_song">Əvvəlki mahnı</string>
     <string name="talkback_random_play">Qarışdır</string>
     <string name="talkback_single_play">Təkrar</string>

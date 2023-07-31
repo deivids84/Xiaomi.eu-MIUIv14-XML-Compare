@@ -49,9 +49,9 @@
         <item quantity="one">Simvol aralığı artırıldı. Simvol aralığı %s.</item>
     </plurals>
     <plurals name="choose_long_gif_limit_toast_tip">
-        <item quantity="other">"Animasiyalar üçün oynatma müddəti %d saniyəni keçə bilməz.
+        <item quantity="other">"Animasiyalar üçün oxutma müddəti %d saniyəni aşa bilməz.
 Bu nöqtədə daha uzun animasiyalar dayandırılacaq."</item>
-        <item quantity="one">"Animasiyalar üçün oynatma müddəti %d saniyəni keçə bilməz.
+        <item quantity="one">"Animasiyalar üçün oxutma müddəti %d saniyəni aşa bilməz.
 Bu nöqtədə daha uzun animasiyalar dayandırılacaq."</item>
     </plurals>
     <plurals name="count_selected">

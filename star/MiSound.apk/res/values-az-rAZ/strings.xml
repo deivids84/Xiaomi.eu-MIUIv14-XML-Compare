@@ -365,7 +365,7 @@
     <string name="music_headset_effect_settings">Səs effektləri</string>
     <string name="music_headset_improve_sound">Səsi qulaqlığa uyğun nizamla</string>
     <string name="music_headset_is_open">Açıq</string>
-    <string name="music_headset_mode_music">Musiqi oxutma idarəetməsi</string>
+    <string name="music_headset_mode_music">Musiqi oxutmanı idarə et</string>
     <string name="music_headset_mode_settings">Qulaqlıq idarəetmə düymələri</string>
     <string name="music_headset_mode_volume">Səs səviyyəsi idarəetməsi</string>
     <string name="music_headset_no_contected">Qulaqlıq aşkarlanmadı</string>
@@ -405,12 +405,12 @@
     <string name="not_support_sound_transmission_content">"Bu özəllik bağlantılı cihaz tərəfindən dəstəklənmir. Başqa bir Bluetooth cihazını sınayın."</string>
     <string name="not_support_sound_transmission_prompt">Diqqət</string>
     <string name="now_here">Bəs indi?</string>
-    <string name="original_sound">Orijinal səsi oynat</string>
+    <string name="original_sound">Orijinal səsi oxut</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permission_go_to_settings">Tənzimləmələr</string>
     <string name="permission_requesr_content">Bu tətbiqə Tənzimləmələrdə yaxınlıqdakı cihazlara bağlanma icazə verin.</string>
     <string name="permission_requesr_title">Tələb olunan icazələr</string>
-    <string name="personal_sound">Tətbiq edilən ön tənzimləmələrlə oynat</string>
+    <string name="personal_sound">Tətbiq edilən ön tənzim.lə oxut</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="retry_test">Başdan başlat</string>

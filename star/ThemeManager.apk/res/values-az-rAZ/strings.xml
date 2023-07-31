@@ -113,7 +113,7 @@
     <string name="apply_warning_tip_get_device_status">Əvvəlcə Profil &gt; \"Tənzimləmələr\"dən bu tətbiqin cihaz kimliyinə müraciətinə icazə verin.</string>
     <string name="audio_duration_minutes_format">%1$d dəqiqə</string>
     <string name="audio_duration_seconds_format">%1$d saniyə</string>
-    <string name="audition_ringtone">Oynat</string>
+    <string name="audition_ringtone">Oxut</string>
     <string name="author_attention">İzlə</string>
     <string name="author_attention_success">Uğurla izlənildi</string>
     <string name="author_dialog_message">Bu hesabın izlənilməsi indi dayandırılsın?</string>
@@ -317,7 +317,7 @@
     <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
     <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
-    <string name="exo_controls_play_description">Oynat</string>
+    <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
     <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Əvvəlki</string>
@@ -325,7 +325,7 @@
     <string name="exo_controls_repeat_off_description">Heç birini təkrarlama</string>
     <string name="exo_controls_repeat_one_description">Birini təkrarla</string>
     <string name="exo_controls_rewind_description">Geri çək</string>
-    <string name="exo_controls_seek_bar_description">Oynatma irəliləyişi</string>
+    <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
     <string name="exo_controls_settings_description">Tənzimləmələr</string>
     <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
     <string name="exo_controls_shuffle_off_description">Qarışdırma bağlıdır</string>

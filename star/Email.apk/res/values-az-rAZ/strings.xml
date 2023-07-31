@@ -80,7 +80,7 @@
     <string name="account_settings_receive_title">Gələn e-poçtlar</string>
     <string name="account_settings_send_title">Gedən e-poçtlar</string>
     <string name="account_settings_servers">Server tənzimləmələri</string>
-    <string name="account_settings_smime_title">S/MIME (Təhlükəsizlik/Çoxməqsədli İnternet Poçt Genişləndirmələri)</string>
+    <string name="account_settings_smime_title">S/MIME (Güvənli/Çoxməqsədli İnternet Poçt Uzantıları)</string>
     <string name="account_settings_summary">Sinxronlaşdırma tezliyi, bildirişlər, və s.</string>
     <string name="account_settings_sync_calendar_enable">Təqvimi sinxronlaşdır</string>
     <string name="account_settings_sync_calendar_summary">Bu hesab üçün təqvim tədbirlərini sinxronlaşdır</string>

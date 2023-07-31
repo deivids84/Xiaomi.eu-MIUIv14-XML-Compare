@@ -359,7 +359,7 @@
     <string name="music_headset_calibrate_volume_down">Səsi azalt</string>
     <string name="music_headset_calibrate_volume_up">Səsi artır</string>
     <string name="music_headset_calibrate_wrong_key">"Bu yanlış düymədir"</string>
-    <string name="music_headset_control_setting">Qulaqlıq idarəetməsi</string>
+    <string name="music_headset_control_setting">Qulaqlıq kontrolları</string>
     <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
     <string name="music_headset_effect_harman_kardon_summary">Sertifikatlı pro səs</string>
     <string name="music_headset_effect_settings">Səs effektləri</string>

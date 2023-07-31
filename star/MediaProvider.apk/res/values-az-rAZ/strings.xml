@@ -54,7 +54,7 @@
     <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
     <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
-    <string name="exo_controls_play_description">Oynat</string>
+    <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
     <string name="exo_controls_previous_description">Əvvəlki</string>
     <string name="exo_controls_repeat_all_description">Hazırkı rejim: Hamısını təkrarla. Təkrarlama rejimini dəyişdir.</string>

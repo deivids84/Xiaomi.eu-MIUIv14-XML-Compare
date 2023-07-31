@@ -61,7 +61,7 @@
     <string name="exo_controls_repeat_off_description">Hazırkı rejim: Heç birini təkrarlama. Təkrarlama rejimini dəyişdir.</string>
     <string name="exo_controls_repeat_one_description">Hazırkı rejim: Birini təkrarla. Təkrarlama rejimini dəyişdir.</string>
     <string name="exo_controls_rewind_description">Geri çək</string>
-    <string name="exo_controls_seek_bar_description">Oynatma irəliləyişi</string>
+    <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
     <string name="exo_controls_settings_description">Tənzimləmələr</string>
     <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
     <string name="exo_controls_shuffle_off_description">Qarışdırma rejimini fəallaşdır</string>

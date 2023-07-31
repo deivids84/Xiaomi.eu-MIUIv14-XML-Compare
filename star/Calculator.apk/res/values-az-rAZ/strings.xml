@@ -859,7 +859,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_float_window_move">Kiçildilmiş Hesablayıcını daşıyın</string>
-    <string name="voiceDesc">Səs idarəetmə</string>
+    <string name="voiceDesc">Səs kontrolları</string>
     <string name="voice_guide_text">Nitq çıxışını buradan işə sala bilərsiniz</string>
     <string name="warn_locale_unsupport_for_voice">"Bu dil üçün səs çıxışı hələ dəstəklənmir."</string>
     <string name="wednesday_shortest">Çər</string>

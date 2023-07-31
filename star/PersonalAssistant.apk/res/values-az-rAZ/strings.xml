@@ -729,7 +729,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_stock_desc_cancel_pin">Sancağı götür</string>
     <string name="pa_stock_desc_delete_stock">%1$s silinsin</string>
     <string name="pa_stock_desc_move_stock">Səhmi daşımaq üçün basılı saxlayın</string>
-    <string name="pa_stock_desc_pin_stock">Başlanğıc səhifəyə sancaqla</string>
+    <string name="pa_stock_desc_pin_stock">Başlanğıc səhifəyə sanc</string>
     <string name="pa_stock_display_limit_alert">"Daha çox şirkət əlavə edilə bilmir"</string>
     <string name="pa_stock_empty_display_list">Burada hələ ki, element yoxdur. Əlavə etmək üçün \"Əlavə et\"ə toxunun.</string>
     <string name="pa_stock_empty_follow_list">Burada hələ heç bir element yoxdur</string>

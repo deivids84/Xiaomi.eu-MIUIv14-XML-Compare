@@ -79,13 +79,13 @@
     <string name="operation_track">əməliyyat izi</string>
     <string name="operation_track_explain">Nöqtə sürüşdürmə əməliyyatın görünüb-görünməməsi</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="play_delay">oynatma gecikməsi</string>
+    <string name="play_delay">oxutma gecikməsi</string>
     <string name="play_delay_explain">Ekranı asma funksiyası ilə istifadə et</string>
     <string name="play_delay_not_null_tips">Əvvəlcə gecikməni tənzimlə</string>
-    <string name="play_speed">oynatma sürəti</string>
-    <string name="play_speed_explain">Oynatma sürəti vuruğunu nizamla</string>
+    <string name="play_speed">oxutma sürəti</string>
+    <string name="play_speed_explain">Oxutma sürəti vuruğunu nizamla</string>
     <string name="play_speed_not_null_tips">Əvvəlcə sürəti tənzimlə</string>
-    <string name="play_times">oynatma vaxtları</string>
+    <string name="play_times">oxutma vaxtları</string>
     <string name="play_times_explain">Dövr, istənilən vaxt dayandırıla bilər</string>
     <string name="play_times_not_null_tips">Əməliyyatın icra edilə sayını tənzimlə</string>
     <string name="search_menu_title">Axtar</string>

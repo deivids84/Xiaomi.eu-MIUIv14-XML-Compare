@@ -737,8 +737,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="release_enter_private">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="remainder_size">Qalan: %s</string>
     <string name="reminder_card_title">Diqqət</string>
-    <string name="rename_alert">"Bu faylın genişləndirməsini dəyişdirsəniz, onu açmaq mümkün olmaya bilər."</string>
-    <string name="rename_alert2">Genişləndirməsini dəyişdirdikdən sonra fayl gizli olacaq.</string>
+    <string name="rename_alert">"Bu faylın uzantısını dəyişdirsəniz, onu açmaq mümkün olmaya bilər."</string>
+    <string name="rename_alert2">Uzantısını dəyişdirdikdən sonra fayl gizli olacaq.</string>
     <string name="rename_failed">"%1$s yenidən adlandırıla bilmədi"</string>
     <string name="rename_input_null">Yeni fayl adını daxil edin</string>
     <string name="rename_msg">\"%s\" adlı fayl artıq mövcuddur.</string>

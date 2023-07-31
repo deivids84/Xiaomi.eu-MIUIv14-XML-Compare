@@ -51,8 +51,8 @@
     <string name="HIPS_Perm_PhoneID">Cihaz məlumatlarını alma</string>
     <string name="HIPS_Perm_PhoneID_Desc">telefon nömrəsinə, IMEI və IMSI-ya müraciət edir</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon nömrəsinə və cihaz vəziyyətinə müraciət etmə</string>
-    <string name="HIPS_Perm_ROOT">Root müraciəti alma</string>
-    <string name="HIPS_Perm_ROOT_Desc">root müraciəti alır</string>
+    <string name="HIPS_Perm_ROOT">Root müraciətini al</string>
+    <string name="HIPS_Perm_ROOT_Desc">root müraciətini al</string>
     <string name="HIPS_Perm_Read_Call_Log">Zəng tarixçəsini oxuma</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">zəng tarixçəsini oxuyar</string>
     <string name="HIPS_Perm_Read_Contact">Kontaktlarınızı oxuma</string>

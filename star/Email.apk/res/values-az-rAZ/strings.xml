@@ -331,7 +331,7 @@ yol prefiksi"</string>
     <string name="conversation_report_spam">Spam bildir</string>
     <string name="conversation_report_un_spam">Spam deyil</string>
     <string name="conversation_spam_dig_msg">Bu mesaj spam olaraq işarələnsin? Mesaj \"Spam\" qovluğuna daşınacaq və göndərən əngəlli siyahısına əlavə olunacaq.</string>
-    <string name="conversation_spam_tips">Bu mesaj spam olaraq işarələnsin?</string>
+    <string name="conversation_spam_tips">Bu mesaj spam kimi işarələnsin?</string>
     <string name="copied">Kopyalandı</string>
     <string name="copy">Kopyala</string>
     <string name="copy_email">E-poçt ünvanını kopyala</string>
@@ -625,8 +625,8 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="mailbox_settings_sync_enabled_label">Bu qovluğu sinxr</string>
     <string name="mailbox_settings_sync_enabled_summary">Mesajları bu qovluqda sinxr</string>
     <string name="manual_sync">İndi sinxr</string>
-    <string name="mark_read">Oxundu olaraq işarələ</string>
-    <string name="mark_unread">Oxunmamış olaraq işarələ</string>
+    <string name="mark_read">Oxundu kimi işarələ</string>
+    <string name="mark_unread">Oxunmadı kimi işarələ</string>
     <string name="material_slider_range_end">Aralıq sonu,</string>
     <string name="material_slider_range_start">Aralıq başlanğıcı,</string>
     <string name="me_object_pronun">mən</string>

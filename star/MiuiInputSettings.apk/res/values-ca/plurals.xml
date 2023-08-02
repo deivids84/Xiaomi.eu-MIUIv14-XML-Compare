@@ -72,10 +72,6 @@
         <item quantity="other">%d Elements seleccionats</item>
         <item quantity="one">%d Article seleccionat</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d Noves notificacions</item>
-        <item quantity="one">%d Nova notificació</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d Fa minuts</item>
         <item quantity="one">Fa 1 minut</item>

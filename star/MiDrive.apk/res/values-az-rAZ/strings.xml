@@ -89,7 +89,7 @@
     <string name="cloud_storage_already_used">Dolu: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Bulud anbarı</string>
     <string name="cloud_storage_full">Bulud anbarı dolub. Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin.</string>
-    <string name="cloud_storage_info_type_backup">Nüsxələr</string>
+    <string name="cloud_storage_info_type_backup">Bulud nüsxələri</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Ailə</string>

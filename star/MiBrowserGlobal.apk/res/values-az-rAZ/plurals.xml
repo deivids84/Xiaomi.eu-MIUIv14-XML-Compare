@@ -48,6 +48,10 @@
         <item quantity="other">İndiyə qədər %d reklam əngəlləndi</item>
         <item quantity="one">İndiyə qədər %d reklam əngəlləndi</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">"%d gündür skan edilmədi"</item>
+        <item quantity="one">"%d gündür skan edilmədi"</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d yeni məqaləyə göz gəzdir</item>
         <item quantity="one">%1$d yeni məqaləyə göz gəzdir</item>

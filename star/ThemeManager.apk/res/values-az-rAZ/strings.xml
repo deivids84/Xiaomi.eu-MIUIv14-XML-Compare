@@ -59,6 +59,8 @@
     <string name="ad_download_resume">Davam et</string>
     <string name="ad_downloading_tip">Bu element endirilir. Bildiriş panelində irəliləyişə baxa bilərsiniz.</string>
     <string name="ad_experience_now">Aç</string>
+    <string name="ad_in_downloading">Endirilir</string>
+    <string name="ad_in_installing">Quraşdırılır</string>
     <string name="add">Əlavə et</string>
     <string name="add_home_icon_success">Uğurla əlavə edildi</string>
     <string name="add_resource_detail_fail">"Mənbə əlavə edilə bilmədi"</string>
@@ -364,6 +366,7 @@
     <string name="favorite_list">Sevimlilər</string>
     <string name="favorite_list_format">Sevimli %1$s</string>
     <string name="find_more_font">Daha çoxunu tap</string>
+    <string name="find_more_free_theme">Daha çox</string>
     <string name="find_more_theme">Daha çoxunu tap</string>
     <string name="find_more_wallpapers">Daha çoxunu tap</string>
     <string name="first_page_recommend">Tövsiyə edilən</string>

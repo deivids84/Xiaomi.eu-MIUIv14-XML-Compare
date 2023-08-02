@@ -123,6 +123,7 @@
     <string name="keywords_search_compass">Kompas;Kompası
 kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanışı;MIUI Kompası;Kompas tətbiqi;MIUI Kompas tətbiqi;Kompas haradadır;Kompası endir;Atmosfer təzyiqi;Yüksəklik yoxlanışı;Hündürlük nə qədərdir</string>
     <string name="latitude">ENLİK</string>
+    <string name="live_action">Canlı önbaxış</string>
     <string name="location_east">Şə</string>
     <string name="location_enable">İcazə ver</string>
     <string name="location_enable_later">Daha sonra</string>
@@ -131,6 +132,8 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="location_not_enabled_summary">Kompasın koordinatları və yüksəkliyi görüntüləməsi üçün yerləşmənizə müraciətinə ehtiyacı var.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Kompasın hazırkı koordinantlarınızı görüntüləməsi üçün yerləşmənizə müraciətinə ehtiyacı var.</string>
     <string name="location_not_enabled_title">Yerləşmə xidmətləri</string>
+    <string name="location_permission_tip_one">Enlik, uzunluq, hava təzyiqi və yüksəkliyə baxmaq məqsədilə yerləşmə icazələrini vermək üçün toxunun.</string>
+    <string name="location_permission_tip_two">Enlik və uzunluğa baxmaq məqsədilə yerləşmə icazələrini vermək üçün toxunun.</string>
     <string name="location_south">Cə</string>
     <string name="location_west">Qə</string>
     <string name="longitude">UZUNLUQ</string>
@@ -205,7 +208,13 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
+    <string name="network_dialog_message">Kompas, daha dəqiq yüksəklik datasına müraciət etmək üçün internetə bağlanmalıdır. İndi icazə verilsin?</string>
+    <string name="network_dialog_negative">"İcazə vermə"</string>
+    <string name="network_dialog_positive">İcazə ver</string>
+    <string name="network_dialog_title">Tələb olunan icazələr</string>
     <string name="new_cta_app_purpose">istiqamətlərə və koordinatlara baxın</string>
+    <string name="new_cta_app_purpose_one">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi, uzunluğu, hava təzyiqini və yüksəkliyi tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
+    <string name="new_cta_app_purpose_two">\"Kompas\" xoş gəlmisiniz! Bu tətbiqi başlıca istiqamətləri, enliyi və uzunluğu tapmaq üçün istifadə edə bilərsiniz. Bu tətbiq, öz xidmətlərini təqdim etmək üçün internetə bağlanmalıdır.</string>
     <string name="new_cta_v2_app_purpose">İstiqamətləri, koordinatları, atmosfer təzyiqini və mövcud yüksəkliyi göstərir</string>
     <string name="new_permission_camera_desc">Canlı önbaxışları göstərmək üçün</string>
     <string name="new_permission_location_desc">Koordinatları göstərmək üçün</string>
@@ -292,6 +301,8 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="unit_degree">Dərəcə</string>
     <string name="using_camera_confirm_cancel">Çıx</string>
     <string name="using_camera_confirm_ok">Razıyam</string>
+    <string name="v2_permission_location_desc_one">Enliyi, uzunluğu, yüksəkliyi və hava təzyiqini göstərmək üçün</string>
+    <string name="v2_permission_location_desc_two">Enliyi və uzunluğu göstərmək üçün</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="wednesday">Çərşənbə</string>

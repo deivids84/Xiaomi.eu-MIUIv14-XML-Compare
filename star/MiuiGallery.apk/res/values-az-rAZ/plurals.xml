@@ -476,6 +476,10 @@
         <item quantity="other">"Paylaşıla bilmədi.%d foto hələ də emal olunur…"</item>
         <item quantity="one">"Paylaşıla bilmədi.%d foto hələ də emal olunur…"</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Göndərmək üçün maksimum %d element seçin</item>
+        <item quantity="one">Göndərmək üçün maksimum %d element seçin</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%1$s mənbəsindən %2$d video</item>
         <item quantity="one">%1$s mənbəsindən %2$d video</item>

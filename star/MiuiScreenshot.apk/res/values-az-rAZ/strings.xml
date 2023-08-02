@@ -51,6 +51,7 @@
     <string name="confirm_cancel_task_files">%1$s üçün fayl göndərilməsi ləğv edilsin?</string>
     <string name="confirm_cancel_task_images">%1$s üçün şəkil göndərilməsi ləğv edilsin?</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_success_toast">Uğurla kopyalandı</string>
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="cta_btn_agree">Razıyam</string>
     <string name="cta_btn_disagree">"Razı deyiləm"</string>
@@ -223,6 +224,8 @@
     <string name="privacy_mosaic_result_fail">"Şəxsi məlumatlar əngəllənə bilmədi. Yenidən sınayın."</string>
     <string name="privacy_mosaic_result_none">Heç bir şəxsi məlumat tapılmadı</string>
     <string name="privacy_mosaic_tip">Şəxsi məlumatları əngəlləmək üçün toxunun</string>
+    <string name="privacy_mosaic_tip_long">"Sürüşən ekran şəkilləri dəstəklənmir"</string>
+    <string name="privacy_mosaic_tip_partial">"Qismən ekran şəkilləri dəstəklənmir"</string>
     <string name="remover_menu_processing">Emal olunur</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -258,6 +261,8 @@
     <string name="screen_talkback_shape">Forma</string>
     <string name="screen_talkback_small">Ekstra kiçik</string>
     <string name="screen_talkback_text">Mətn</string>
+    <string name="screenshot_detected_multiple_template">%1$s daxil olmaqla bir neçə tətbiq bu ekran şəklini aşkarladı</string>
+    <string name="screenshot_detected_template">%1$s bu ekran şəklini aşkarladı</string>
     <string name="screenshot_edit">Düzəliş et</string>
     <string name="screenshot_failed_in_landscape_mode">"Mənzərə rejimində ekran şəkillərini sürüşdürmə edilə bilmir"</string>
     <string name="screenshot_feedback_txt">Əks-əlaqə</string>

@@ -247,7 +247,10 @@
     <string name="fmt_weekday_long">E</string>
     <string name="fmt_weekday_short">E</string>
     <string name="folder_exist">Ya existe una carpeta con este nombre</string>
+    <string name="folder_note">Carpetas de notas</string>
     <string name="folder_operation_rename">Renombrar</string>
+    <string name="folder_other">Otras carpetas</string>
+    <string name="foler_pinned">Carpetas fijadas</string>
     <string name="format_move_note_out_folder">Esta nota fue movida</string>
     <string name="format_move_note_to_folder">Movida a %1$s</string>
     <string name="friday">Viernes</string>
@@ -487,12 +490,14 @@
     <string name="mtrl_picker_toggle_to_year_selection">Toque para cambiar a la selección de un año</string>
     <string name="network_error_info">Se ha producido un error de red. Comprueba tu configuración de red e inténtelo de nuevo.</string>
     <string name="network_timeout_info">"No se pudo conectar a la red. Inténtelo de nuevo."</string>
+    <string name="new_alert_title_delete">Eliminar notas</string>
     <string name="new_app_name">Mi Notes</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
     <string name="new_audio_create_done_talkback_des">Creado</string>
     <string name="new_audio_create_talkback_des">Toque para crear una nota de texto. Mantenga presionado para crear una nota de voz. Suelte el botón para detener la grabación y crear la nota, o deslice hacia arriba para cancelar.</string>
     <string name="new_data_empty_note">No hay elementos todavía</string>
     <string name="new_lite_audio_create_talkback_des">Pulsa para añadir una nota</string>
+    <string name="new_sync_desc_state_disable">Activar sincronización en la nube para notas, tareas y más</string>
     <string name="night">Noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
     <string name="noon">Mediodía</string>
@@ -572,7 +577,6 @@
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Aplicaciones maliciosas podrían utilizar esto para acceder a sus datos personales.</string>
     <string name="permission_data_shared_desc">Notas Declaración de intercambio de datos de terceros</string>
-    <string name="permission_get_account_desc">Sincronizar notas con la nube</string>
     <string name="permission_intro_contact">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_microphone">Para grabar notas de voz</string>
     <string name="permission_intro_phone">Para marcar notas tomadas durante llamadas</string>

@@ -127,9 +127,9 @@
     <string name="device_type_pc">Kompüter</string>
     <string name="dewdrops">Səhər şehi</string>
     <string name="digitaluniverse">Rəqəmsal kainat (stereo)</string>
-    <string name="disable_nfc">Naqilsiz enerji yığmaq üçün NFC söndürüldü</string>
-    <string name="disable_nfc_haptic_reverse">Tərsinə naqilsiz enerji yığmaq üçün NFC və titrəmə söndürüldü</string>
-    <string name="disable_nfc_reverse">Tərsinə naqilsiz enerji yığmaq üçün NFC söndürüldü</string>
+    <string name="disable_nfc">Naqilsiz doldurmaq üçün NFC söndürüldü</string>
+    <string name="disable_nfc_haptic_reverse">Tərsinə naqilsiz doldurmaq üçün NFC və titrəmə söndürüldü</string>
+    <string name="disable_nfc_reverse">Tərsinə naqilsiz doldurmaq üçün NFC söndürüldü</string>
     <string name="dock_tip_floatwindow">Bölünmüş ekran görünüşünə daxil olmaq üçün sətri tutub ekranın kənarına sürükləyin.</string>
     <string name="dock_tip_splitscreen_landscape_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri üfüqi şəkildə sürükləyin.</string>
     <string name="dock_tip_splitscreen_landscape_float">Üzən bir pəncərəyə keçmək üçün basıb aşağı sürükləyin.</string>
@@ -144,9 +144,9 @@
     <string name="enable_livetalk_summary">Zəng xərclərinə 70% qənaət edin</string>
     <string name="enable_livetalk_title">Artırma paketini işə sal</string>
     <string name="enable_midrop">Aç</string>
-    <string name="enable_nfc">Artıq enerji yığmır. NFC yenidən açıldı.</string>
-    <string name="enable_nfc_haptic_reverse">Tərsinə enerji yığma dayandırıldı. NFC və titrəmə yenidən açıldı.</string>
-    <string name="enable_nfc_reverse">Artıq tərsinə enerji yığmır. NFC yenidən açıldı.</string>
+    <string name="enable_nfc">Artıq doldurulmur. NFC yenidən açıldı.</string>
+    <string name="enable_nfc_haptic_reverse">Tərsinə doldurma dayandırıldı. NFC və titrəmə yenidən açıldı.</string>
+    <string name="enable_nfc_reverse">Artıq tərsinə doldurulmur. NFC yenidən açıldı.</string>
     <string name="expect">Həyəcan</string>
     <string name="fadein">Artan</string>
     <string name="fadeout">Azalan</string>
@@ -591,8 +591,8 @@ cihazınızı qatlayın"</string>
     <string name="windchime">Külək zəngləri</string>
     <string name="wireless_charging_notification_message1">"Doldurmaq üçün naqilsiz cihaz tapıla bilmədi. Tərsinə naqilsiz doldurma indi söndürüldü."</string>
     <string name="wireless_charging_notification_message2">Batareya %s dən daha azdır. Tərsinə naqilsiz doldurma indi söndürüldü.</string>
-    <string name="wireless_charging_notification_message3">Enerji yığarkən xəta baş verdi. Tərsinə enerji yığma indi söndürüldü.</string>
-    <string name="wireless_charging_notification_titile">Tərsinə enerji yığma söndürüldü</string>
+    <string name="wireless_charging_notification_message3">Doldurma zamanı xəta baş verdi. Tərsinə naqilsiz doldurma indi söndürüldü.</string>
+    <string name="wireless_charging_notification_titile">Tərsinə naqilsiz doldurma söndürüldü</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_8">Mi 8</string>

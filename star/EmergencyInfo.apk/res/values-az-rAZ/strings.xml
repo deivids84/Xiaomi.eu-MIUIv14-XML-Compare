@@ -124,14 +124,14 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="back_navigation_animation">Proqnozlaşdırılan geri animasiyalar</string>
     <string name="back_navigation_animation_dialog">Bu tənzimləmə, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback tənzimləməsinin true olaraq tənzimlənməsini tələb edir.</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır.</string>
-    <string name="battery_info_status_charging">Enerji yığır</string>
-    <string name="battery_info_status_charging_fast">Sürətli enerji yığır</string>
-    <string name="battery_info_status_charging_slow">Yavaş enerji yığır</string>
-    <string name="battery_info_status_charging_wireless">Naqilsiz enerji yığır</string>
-    <string name="battery_info_status_discharging">Enerji yığmır</string>
+    <string name="battery_info_status_charging">Dolur</string>
+    <string name="battery_info_status_charging_fast">Sürətlə dolur</string>
+    <string name="battery_info_status_charging_slow">Yavaş dolur</string>
+    <string name="battery_info_status_charging_wireless">Naqilsiz dolur</string>
+    <string name="battery_info_status_discharging">Doldurulmur</string>
     <string name="battery_info_status_full">Doldu</string>
     <string name="battery_info_status_full_charged">Tam dolub</string>
-    <string name="battery_info_status_not_charging">Bağlantı quruldu, enerji yığmır</string>
+    <string name="battery_info_status_not_charging">Bağlantılı, doldurulmur</string>
     <string name="battery_info_status_unknown">Bilinmir</string>
     <string name="blob_expires_text">Son istifadə tarixi: %s</string>
     <string name="blob_id_text">Paylaşılan məlumat kimliyi: %d</string>
@@ -145,15 +145,15 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="bluetooth_battery_level_untethered">Sol: %1$s batareya, Sağ: %2$s batareya</string>
     <string name="bluetooth_bc_profile_summary_connected">BA serverinə bağlandı</string>
     <string name="bluetooth_bc_profile_summary_use_for">BA üçün istifadə et</string>
-    <string name="bluetooth_connected">Bağlantı quruldu %1$s</string>
-    <string name="bluetooth_connected_battery_level">Bağlantı quruldu, batareya %1$s %2$s</string>
-    <string name="bluetooth_connected_no_a2dp">%1$s bağlantı quruldu (media yoxdur)</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Bağlantı quruldu (media yoxdur), batareya %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset">%1$s bağlantı quruldu (telefon yoxdur)</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Bağlantı quruldu (telefon yoxdur), batareya %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">%1$s bağlantı quruldu (telefon və ya media yoxdur)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlantı quruldu (telefon və ya media yoxdur), batareya %1$s %2$s</string>
-    <string name="bluetooth_connected_no_map">Bağlantı quruldu (mesaj müraciəti yoxdur) %1$s</string>
+    <string name="bluetooth_connected">Bağlantılıdır %1$s</string>
+    <string name="bluetooth_connected_battery_level">Bağlantılıdır, batareya %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Bağlantılıdır (media yoxdur) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Bağlantılıdır (media yoxdur), batareya %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset">Bağlantılıdır (telefon yoxdur) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Bağlantılıdır (telefon yoxdur), batareya %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Bağlantılıdır (telefon və ya media yoxdur) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlantılıdır (telefon və ya media yoxdur), batareya %1$s %2$s</string>
+    <string name="bluetooth_connected_no_map">Bağlantılıdır (mesaj müraciəti yoxdur) %1$s</string>
     <string name="bluetooth_connecting">Bağlantı qurulur…</string>
     <string name="bluetooth_disable_absolute_volume">Mütləq səsi söndür</string>
     <string name="bluetooth_disable_absolute_volume_summary">Uzaq cihazda səsini həddindən çox yüksək olması və ya idarə edilə bilməməsi kimi səs problemləri yaşananda Bluetooth mütləq səs səviyyəsini sıradan çıxardır.</string>
@@ -217,9 +217,9 @@ seçimi: Nümunə başına bir bit"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth səs kanal rejimi</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth səs kodek-i tətikləmə
 Seçimi: Kanal rejimi"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth səs LDAC kodeki: Oynatma keyfiyyəti</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth LDAC kodek
-tətikləmə seçimi: Nümunə başına bir bit"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth səs LDAC kodeki: Oxutma Keyfiyyəti</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth səs LDAC tətikləmə
+Kodek seçimi: Oxutma keyfiyyəti"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth səs nümunə tezliyi</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth səs kodek-i tətikləmə
 seçimi: Nümunə tezlik"</string>
@@ -273,11 +273,11 @@ seçimi"</string>
     <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu tənzimləmə açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
     <string name="confirm_enable_oem_unlock_title">OEM kilid açmaya icazə verilsin?</string>
     <string name="connected_to_metered_access_point">Ölçülmüş şəbəkəyə bağlandı</string>
-    <string name="connected_via_app">%1$s ilə bağlantı quruldu</string>
-    <string name="connected_via_carrier">%1$s ilə bağlantı quruldu</string>
+    <string name="connected_via_app">%1$s vasitəsilə bağlantılıdır</string>
+    <string name="connected_via_carrier">%1$s vasitəsilə bağlantılıdır</string>
     <string name="connected_via_network_scorer">%1$s ilə avto-bağlantı qurulub</string>
-    <string name="connected_via_network_scorer_default">Şəbəkə qiymətləndirmə provayderi vasitəsilə bağlantı avtomatik quruldu</string>
-    <string name="connected_via_passpoint">%1$s ilə bağlantı quruldu</string>
+    <string name="connected_via_network_scorer_default">Şəbəkə qiymətləndirmə provayderi vasitəsilə avto-bağlantılıdır</string>
+    <string name="connected_via_passpoint">%1$s vasitəsilə bağlantılıdır</string>
     <string name="content_description_menu_button">Menyu</string>
     <string name="copy">Kopyala</string>
     <string name="countdown_text_content_description">{seconds_left,plural, =1{1 saniyə}other{# saniyə}}</string>
@@ -316,13 +316,13 @@ seçimi"</string>
     <string name="debug_input_category">Giriş</string>
     <string name="debug_layout">Düzüm sərhədlərini göstər</string>
     <string name="debug_layout_summary">Kəsmə sərhədləri, haşiyələri və s. göstər</string>
-    <string name="debug_monitoring_category">Monitorinq</string>
+    <string name="debug_monitoring_category">İzləmə</string>
     <string name="debug_networking_category">Şəbəkə qurma</string>
     <string name="debug_view_attributes">Baxış atributunun müayinəsini fəallaşdır</string>
     <string name="default_user_icon_description">İlkin istifadəçi nişanı</string>
     <string name="delete_blob_confirmation_text">Bu paylaşılan verilənləri silmək istədiyinizə əminsiniz?</string>
     <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
-    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə monitorinq etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı verilənlərini silməyimiz lazımdır.</string>
+    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı verilənlərini silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
     <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
     <string name="dev_settings_warning_title">Tərtibatçı tənzimləmələrinə icazə verilsin?</string>
@@ -412,7 +412,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="install_other_apps">Bilinməyən tətbiqləri quraşdır</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="keep_screen_on">Oyaq qal</string>
-    <string name="keep_screen_on_summary">Enerji yığarkən ekran heç vaxt yuxuya getməz</string>
+    <string name="keep_screen_on_summary">Doldurarkən ekran heç vaxt yuxuya getmir</string>
     <string name="keyboard_layout_default_label">İlkin</string>
     <string name="keyboard_layout_dialog_title">Klaviatura düzümünü seçin</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
@@ -455,7 +455,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="mock_location_app_not_set">Saxta yerləşmə tətbiqi tənzimlənməyib</string>
     <string name="mock_location_app_set">Saxta yerləşmə tətbiqi: %1$s</string>
     <string name="mr_button_content_description">Yayım</string>
-    <string name="mr_cast_button_connected">Yayım. Bağlantı quruldu</string>
+    <string name="mr_cast_button_connected">Yayım. Bağlantılıdır</string>
     <string name="mr_cast_button_connecting">Yayım. Bağlantı qurulur</string>
     <string name="mr_cast_button_disconnected">Yayım. Bağlantı kəsildi</string>
     <string name="mr_cast_dialog_title_view_placeholder">Məlumat yoxdur</string>
@@ -470,13 +470,13 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="mr_controller_no_info_available">Məlumat yoxdur</string>
     <string name="mr_controller_no_media_selected">Media seçilməyib</string>
     <string name="mr_controller_pause">Fasilə ver</string>
-    <string name="mr_controller_play">Oynat</string>
+    <string name="mr_controller_play">Oxut</string>
     <string name="mr_controller_stop">Dayandır</string>
     <string name="mr_controller_stop_casting">Yayımı dayandır</string>
     <string name="mr_controller_volume_slider">Səs səviyyəsi diyircəyi</string>
     <string name="mr_dialog_default_group_name">Qrup</string>
     <string name="mr_dialog_groupable_header">Cihaz əlavə edin</string>
-    <string name="mr_dialog_transferable_header">Bir qrupda oynat</string>
+    <string name="mr_dialog_transferable_header">Bir qrupda oxut</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Cihazlar</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
@@ -534,7 +534,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="pointer_location">Kursor yeri</string>
     <string name="pointer_location_summary">Hazırkı toxunuş verilənlərini göstərən ekran örtüyü</string>
     <string name="power_charging_duration">%1$s - Tam dolmasına %2$s qalıb</string>
-    <string name="power_charging_limited">%1$s - Enerji yığma müvəqqəti məhduddur</string>
+    <string name="power_charging_limited">%1$s - Doldurma müvəqqəti məhduddur</string>
     <string name="power_discharge_by">Təxminən %1$s vaxtına qədər davam etməlidir (%2$s)</string>
     <string name="power_discharge_by_enhanced">İstifadənizə görə təxminən %1$s vaxtına qədər davam etməlidir (%2$s)</string>
     <string name="power_discharge_by_only">Təxminən %1$s vaxtına qədər davam etməlidir</string>
@@ -641,8 +641,8 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tether_settings_title_usb">USB internet paylaşımı</string>
     <string name="tether_settings_title_usb_bluetooth">İnternet paylaşımı</string>
     <string name="tether_settings_title_wifi">Portativ hotspot</string>
-    <string name="tethering_hardware_offload">İnternet paylaşımı təchizat sürətləndirmə</string>
-    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı təchizat sürətləndirməni istifadə et</string>
+    <string name="tethering_hardware_offload">İnternet paylaşımı avadanlıq sürətləndirmə</string>
+    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı avadanlıq sürətləndirməni istifadə et</string>
     <string name="tethering_settings_not_available">İnternet paylaşım tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
     <string name="time_unit_just_now">İndicə</string>
     <string name="track_frame_time">Profile HWUI renderləmə</string>
@@ -805,7 +805,7 @@ Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifitrackerlib_admin_restricted_network">Təşkilatınız icazə vermir</string>
     <string name="wifitrackerlib_auto_connect_disable">Avto-bağlantı qurma bağlıdır</string>
     <string name="wifitrackerlib_available_via_app">%1$s ilə əlçatandır</string>
-    <string name="wifitrackerlib_connected_via_app">%1$s ilə bağlantı quruldu</string>
+    <string name="wifitrackerlib_connected_via_app">%1$s vasitəsilə bağlantılıdır</string>
     <string name="wifitrackerlib_imsi_protection_warning">Bu şəbəkə, cihazın yerini izləmək üçün istifadə oluna biləcək bir SIM kimliyi alır. <annotation id="url">Ətraflı məlumat</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Qeydiyyat tamamlanır…</string>
     <string name="wifitrackerlib_osu_connect_failed">Bağlantı qurula bilmədi</string>

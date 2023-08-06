@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Güncəlləyici</string>
-    <string name="battery_islow">&lt;font color=#f37981&gt;Adapteri taxın&lt;/font&gt;</string>
-    <string name="battery_islow_desc">zip faylını təhlükəsiz quraşdırmaq üçün batareyanın səviyyəsi çox aşağıdır, adapteri taxın və daha sonra yenidən sınayın!</string>
+    <string name="battery_islow">&lt;font color=#f37981&gt;Doldurma cihazınızı taxın&lt;/font&gt;</string>
+    <string name="battery_islow_desc">zip faylını təhlükəsiz quraşdırmaq üçün batareyanın səviyyəsi çox aşağıdır, doldurma cihazını taxıb daha sonra yenidən sınayın!</string>
     <string name="btn_changelog">Dəyişiklik jurnalı</string>
     <string name="btn_download">Endir (%1$s)</string>
     <string name="btn_error">Xəta baş verdi, yenidən sınayırsınız?</string>

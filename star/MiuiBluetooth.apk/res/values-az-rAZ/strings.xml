@@ -355,7 +355,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="perm_ble_lab">BLE tənzimləmələrinə müraciət et</string>
     <string name="plugin_alert_cancel">Daha sonra</string>
     <string name="plugin_alert_kill">Yenidən başlat</string>
-    <string name="plugin_alert_text">Bluetooth əlavələri uğurla güncəlləndi. Dəyişiklikləri tətbiq etmək üçün Bluetooth-u açıb bağlayın.</string>
+    <string name="plugin_alert_text">Bluetooth qoşmaları uğurla güncəlləndi. Dəyişiklikləri tətbiq etmək üçün Bluetooth-u açıb bağlayın.</string>
     <string name="plugin_alert_title">Bluetooth-u yenidən başlat</string>
     <string name="plugin_download_create_client_failed">"Server xətasına görə elementlər endirilə bilmədi."</string>
     <string name="plugin_download_get_object_failed">"Serverə bağlana bilmədi."</string>
@@ -364,8 +364,8 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="plugin_download_rejected">İnternet istifadə limitinə çatıldı.</string>
     <string name="plugin_download_unexpected_files">Endirilmiş element zədələnib.</string>
     <string name="plugin_download_unknown_error">Bilinməyən bir xəta baş verdi.</string>
-    <string name="plugin_install_failed">"Bəzi əlavələr güncəllənə bilmədi"</string>
-    <string name="plugin_install_timeout">Əlavə quraşdırma vaxtı bitdi</string>
+    <string name="plugin_install_failed">"Bəzi qoşmalar güncəllənə bilmədi"</string>
+    <string name="plugin_install_timeout">Qoşma quraşdırma vaxtı bitdi</string>
     <string name="plugin_last_update_going">Əvvəlki güncəlləmə tamamlanır…</string>
     <string name="plugin_no_update">Hazırkı versiya güncəldir</string>
     <string name="plugin_ota_finish">Uğurla güncəlləndi</string>
@@ -373,9 +373,9 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="plugin_ota_messages1">Daha çox qulaqlıq modelləri üçün dəstək əlavə edildi.</string>
     <string name="plugin_ota_messages2">Bluetooth xidməti çərçivəsi güncəlləndi.</string>
     <string name="plugin_ota_progress">Güncəllənir…</string>
-    <string name="plugin_start_update">Bluetooth əlavələri güncəllənir…</string>
+    <string name="plugin_start_update">Bluetooth qoşmaları güncəllənir…</string>
     <string name="plugin_update_failed">"Güncəllənə bilmədi. "</string>
-    <string name="plugin_update_notification_summary">Bluetooth əlavələrinin güncəlləməsini bitirmək üçün Bluetooth-u açıb bağlayın</string>
+    <string name="plugin_update_notification_summary">Bluetooth qoşmalarının güncəlləməsini bitirmək üçün Bluetooth-u açıb bağlayın</string>
     <string name="plugin_update_notification_title">Bluetooth-u yenidən başlat</string>
     <string name="plugin_update_success">Bluetooth əlavəsi uğurla güncəlləndi.</string>
     <string name="pm">GS</string>

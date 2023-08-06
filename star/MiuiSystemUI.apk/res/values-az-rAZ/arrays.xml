@@ -19,7 +19,7 @@
     </string-array>
     <string-array name="battery_options">
         <item>Faizi həmişə göstər</item>
-        <item>Enerji yığarkən faizi göstər (ilkin)</item>
+        <item>Doldurarkən faizi göstər (ilkin)</item>
         <item>"Bu nişanı göstərmə"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
@@ -425,7 +425,7 @@
         <item>Yuxarı daşı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Enerji yığır</item>
+        <item>Dolur</item>
         <item>MTP (Media Transfer Protokolu)</item>
         <item>PTP (Şəkil Transfer Protokolu)</item>
         <item>RNDIS (USB Ethernet)</item>

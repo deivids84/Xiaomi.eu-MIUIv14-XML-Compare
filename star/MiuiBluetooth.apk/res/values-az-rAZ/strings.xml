@@ -179,8 +179,8 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="friday_shortest">Cüm</string>
     <string name="get_target_info">Hədəf məlumatını al</string>
     <string name="goto_package">Aç: %1$s</string>
-    <string name="headset_battery_fw_failed">Əvvəlcə cihazınızı şarj edin</string>
-    <string name="headset_battery_low">Zəif batareya. Qulaqlıqlarınızı indidən şarj edin.</string>
+    <string name="headset_battery_fw_failed">Əvvəlcə cihazınızı doldurun</string>
+    <string name="headset_battery_low">Zəif batareya. Qulaqlıqlarınızı indidən doldurun.</string>
     <string name="headset_connect_device">Cihaza bağlan</string>
     <string name="headset_connect_timeout">Bağlantının vaxtı bitdi. Başdan başla.</string>
     <string name="headset_device_check_failed">"Güncəlləmələr yoxlanıla bilmədi"</string>
@@ -190,7 +190,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="headset_device_error_disconnect">Hər iki qulaqlığın bağlantısı kəsildi. Enerji yığma qutusunu bağlayın və güncəlləməni başdan başlatmaq üçün təkrar açın.</string>
     <string name="headset_device_error_failed">"Güncəllənə bilmir"</string>
     <string name="headset_device_error_multconnect">"Bir neçə cihaza bağlananda güncəllənə bilmir"</string>
-    <string name="headset_device_error_no_device">Hər iki qulaqlığı qutuya qoyun və onları şarj edin</string>
+    <string name="headset_device_error_no_device">Hər iki qulaqlığı qutuya qoyun və onları doldurun</string>
     <string name="headset_device_error_single_device">"Bir qulaqlıq güncəllənə bilmir. Yenidən cütləşdirin."</string>
     <string name="headset_device_sync">Sinxronlaşdırılır…</string>
     <string name="headset_device_sync_donot_move_device">Sinxronlaşdırılır… Qulaqlığı istifadə etməzdən əvvəl sinxronlaşdırmanın bitməsini gözləyin.</string>
@@ -210,7 +210,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="headset_incall_summary">%1$s üzərindəki bir zəng qulaqlığınızla cavablandırılsın? Zəng bitdikdən sonra qulaqlığınız həmin cihaza bağlı qalacaq.</string>
     <string name="headset_incall_title">Zəngi qulaqlıqla cavablandır</string>
     <string name="headset_loss_notify_summary">Deyəsən, qulaqlarınızdan ən azı biri şarj qutusunda deyil. Ətrafa nəzər salın!</string>
-    <string name="headset_loss_notify_summary1">"Deyəsən, qulaqlıqlarınız qutuda deyil. Şarj edilmələri üçün qutuya qoyun."</string>
+    <string name="headset_loss_notify_summary1">"Deyəsən, qulaqlıqlarınız qutuda deyil. Doldurmaq üçün onları geri qoyun."</string>
     <string name="headset_loss_notify_title">Əskik qulaqlıq xəbərdarlığı</string>
     <string name="headset_not_in_case">Hər iki qulaqlığı qutuya qoyun və başdan başlayın</string>
     <string name="headset_read_fw_state">"Güncəlləmə məlumatı alına bilmədi"</string>

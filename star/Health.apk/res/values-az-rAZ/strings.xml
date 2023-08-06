@@ -1222,8 +1222,8 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_enable">Yuxu dövrünü təhlil et</string>
     <string name="sleep_detection_feedback">Əks-əlaqə</string>
     <string name="sleep_detection_guide_four_description">Yuxu izləmə, bir gecədə batareyanın yalnız 1%-ni sərf edir</string>
-    <string name="sleep_detection_guide_four_high_power_description">Yatmazdan əvvəl cihazınızın yetərincə enerji yığdığına əmin olun. Zəif batareya yuxu izləməsini yarımçıq kəsə bilər.</string>
-    <string name="sleep_detection_guide_four_high_power_title">Cihazınızın daim enerjisi olsun</string>
+    <string name="sleep_detection_guide_four_high_power_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya yuxu izləməsini yarımçıq kəsə bilər.</string>
+    <string name="sleep_detection_guide_four_high_power_title">Cihazın batareyasını dolu saxlayın</string>
     <string name="sleep_detection_guide_four_title">Aşağı enerji sərfiyyatı</string>
     <string name="sleep_detection_guide_one_description">Bədən hərəkətlərini izləmək və yuxu dövrü statistikasını yaratmaq üçün yatdığınız zaman cihazınızı yanınıza qoyun.</string>
     <string name="sleep_detection_guide_one_title">Yuxunuzu izləyin</string>
@@ -1302,7 +1302,7 @@ tapıla bilmədi"</string>
     <string name="sleep_snore_audio_file_mamagement_title">Səsyazmaları avtomatik təmizlə</string>
     <string name="sleep_snore_audio_file_saved">Səsyazmalar yerli yaddaşda saxlanıldı</string>
     <string name="sleep_snore_audio_file_saved_desc">Xoruldamanı və danışmanı aşkarlamaq üçün oflayn bir alqoritm istifadə olunur. Bütün səsyazmalar, şəxsi məlumatlarınız ifşa olunmadan bu cihazın yerli yaddaşında saxlanılacaq.</string>
-    <string name="sleep_snore_audio_hight_power_desc">"Unutmayın ki, bu özəlliyin istifadəsi xeyli miqdarda enerji sərf edir. Gözlənilməz kəsintilərin qarşısını almaq üçün yatarkən adapteri taxılı saxlamaq yaxşı fikirdir."</string>
+    <string name="sleep_snore_audio_hight_power_desc">"Unutmayın ki, bu özəlliyin istifadəsi xeyli miqdarda enerji sərf edir. Gözlənilməz kəsintilərin qarşısını almaq üçün yatarkən doldurma cihazını taxılı saxlamaq yaxşı fikirdir."</string>
     <string name="sleep_snore_detection">Xoruldama və danışmanı aşkarla</string>
     <string name="sleep_snore_detection_desc">Yuxunuz haqqında daha çox öyrənmək üçün xoruldama və danışmanı aşkarlayın</string>
     <string name="sleep_sober">Oyaq</string>
@@ -1337,8 +1337,8 @@ tapıla bilmədi"</string>
     <string name="snore_detection_guide_one_title">Səsi mikrofon istifadə edərək yazın</string>
     <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi tənzimləyin&gt;</string>
     <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtında mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün, yatmaq vaxtınızı \"Saat\"da tənzimləyin.</string>
-    <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə enerji yığdığına əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
-    <string name="snore_detection_guide_three_title">Cihazınızın daim enerjisi olsun</string>
+    <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
+    <string name="snore_detection_guide_three_title">Cihazın batareyasını dolu saxlayın</string>
     <string name="snore_detection_guide_two_description">Mikrofon, yatmaq vaxtı rejiminizə əsasən açılıb bağlanılacaq.</string>
     <string name="snore_detection_guide_two_title">Səsləri avtomatik aşkarla</string>
     <string name="snore_detection_model_hint">Snail Sleep tərəfindən təqdim edilmiş xoruldama və danışma aşkarlama alqoritmləri</string>

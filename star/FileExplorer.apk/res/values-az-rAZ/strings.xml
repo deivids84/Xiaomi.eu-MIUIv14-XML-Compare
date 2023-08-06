@@ -368,8 +368,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="imm_str_storage">Anbar</string>
     <string name="import_files_from_old_phones">Köhnə cihazdan idxal et</string>
     <string name="install_media_editor_button_text">Endir</string>
-    <string name="install_media_editor_message">Elementlərə düzəliş üçün əvvəlcə əlavəni endirin. İndi endirilsin?</string>
-    <string name="install_media_editor_title">Plug-in tələb olunur</string>
+    <string name="install_media_editor_message">Elementlərə düzəliş üçün əvvəlcə qoşmanı endirin. İndi endirilsin?</string>
+    <string name="install_media_editor_title">Qoşma tələb olunur</string>
     <string name="instruction">FTP müştərisinə aşağıdakı ünvanı daxil edin: </string>
     <string name="instruction_pre_pad">Bir kompüter istifadə edərək bu cihazdakı faylları idarə edin</string>
     <string name="instruction_pre_phone">Bir kompüter istifadə edərək bu cihazdakı faylları idarə edin</string>

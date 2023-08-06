@@ -221,7 +221,7 @@
         <item>Ən sürətli</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Enerji yığır</item>
+        <item>Dolur</item>
         <item>MTP (Media Transfer Protokolu)</item>
         <item>PTP (Şəkil Köçürmə Protokolu)</item>
         <item>RNDIS (USB Ethernet)</item>

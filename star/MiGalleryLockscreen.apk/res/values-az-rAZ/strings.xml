@@ -791,8 +791,8 @@ mm"</string>
     <string name="sst_change_wallpaper_title">Divar kağızını tətbiq et</string>
     <string name="sst_close_wallpaper">\"Divar kağızı Karuseli\"ni söndür</string>
     <string name="sst_common_question">TVS</string>
-    <string name="sst_cover_chg_enable_desc">Cihaz enerji yığarkən \"Divar kağızı Karuseli\"ni göstər</string>
-    <string name="sst_cover_chg_enable_title">Enerji yığarkən göstər</string>
+    <string name="sst_cover_chg_enable_desc">Cihaz dolarkən \"Divar kağızı Karuseli\"ni göstər</string>
+    <string name="sst_cover_chg_enable_title">Doldurarkən göstər</string>
     <string name="sst_custom_wallpaper_desc">Qalereyadan və tövsiyələrdən şəkillər seçin</string>
     <string name="sst_custom_wallpaper_title">Özəl slayd şou</string>
     <string name="sst_custom_wallpaper_title2">Slayd şou</string>

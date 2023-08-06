@@ -641,16 +641,16 @@
         <item quantity="one">%s dəqiqə</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
-        <item quantity="other">Tam dolmağa %s gün qaldı</item>
-        <item quantity="one">Tam dolmağa %s gün qaldı</item>
+        <item quantity="other">Tam dolmağına %s gün qaldı</item>
+        <item quantity="one">Tam dolmağına %s gün qaldı</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">Tam dolmağa %s saat qaldı</item>
-        <item quantity="one">Tam dolmağa %s saat qaldı</item>
+        <item quantity="other">Tam dolmağına %s saat qaldı</item>
+        <item quantity="one">Tam dolmağına %s saat qaldı</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">Tam dolmağa %s dəqiqə qaldı</item>
-        <item quantity="one">Tam dolmağa %s dəqiqə qaldı</item>
+        <item quantity="other">Tam dolmağına %s dəqiqə qaldı</item>
+        <item quantity="one">Tam dolmağına %s dəqiqə qaldı</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_day">
         <item quantity="other">%s gün qaldı</item>
@@ -673,12 +673,12 @@
         <item quantity="one">%d dəqiqə qaldı</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_minute">
-        <item quantity="other">Son enerji yığımından bəri %d dəqiqə</item>
-        <item quantity="one">Son enerji yığımından bəri %d dəqiqə</item>
+        <item quantity="other">Son doldurmadan bəri %d dəqiqə</item>
+        <item quantity="one">Son doldurmadan bəri %d dəqiqə</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_second">
-        <item quantity="other">Son enerji yığımından bəri %d saniyə</item>
-        <item quantity="one">Son enerji yığımından bəri %d saniyə</item>
+        <item quantity="other">Son doldurmadan bəri %d saniyə</item>
+        <item quantity="one">Son doldurmadan bəri %d saniyə</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">%1$d nəfər endirdi</item>
@@ -789,8 +789,8 @@
         <item quantity="one">Anladım (%dsan)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
-        <item quantity="other">Cihazınız %d saniyəyə sönəcək. Şarj cihazını qoşun.</item>
-        <item quantity="one">Cihazınız %d saniyəyə sönəcək. Enerji yığan cihazını qoşun.</item>
+        <item quantity="other">Cihazınız %d saniyəyə sönəcək. Doldurma cihazını qoşun.</item>
+        <item quantity="one">Cihazınız %d saniyəyə sönəcək. Doldurma cihazını qoşun.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d tətbiq tez-tez avto-başlayır</item>

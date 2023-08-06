@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="above_image">Yuxarı</string>
     <string name="accessibility_battery_level">Batareya faizi: %d.</string>
-    <string name="accessibility_battery_level_charging">Batareya enerji yığır: %d.</string>
+    <string name="accessibility_battery_level_charging">Batareya dolur, %d faiz.</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="add_custom_image">Özəl təsvir</string>
     <string name="add_from_local">Şəkil seçin</string>

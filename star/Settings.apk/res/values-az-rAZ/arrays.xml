@@ -58,7 +58,7 @@
     </string-array>
     <string-array name="ap_identify">
         <item>İlkin</item>
-        <item>Portativ giriş nöqtəsi</item>
+        <item>Portativ hotspot</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Heç biri</item>
@@ -188,7 +188,7 @@
         <item>bluetooth səsinin səviyyəsi</item>
         <item>oyaq saxla</item>
         <item>yerləşməni izlə</item>
-        <item>yüksək enerji istehlak edən yerləşmə xidmətlərini izlə</item>
+        <item>yüksək enerji yerləşməsini izlə</item>
         <item>i̇stifadə statistikalarını al</item>
         <item>mikrofonu aç/bağla</item>
         <item>qısa bildiriş göstər</item>
@@ -422,7 +422,7 @@
         <item>Filtrli</item>
         <item>Fəaldır</item>
         <item>Başlıqlar filtrləndi</item>
-        <item>Media packets filtered</item>
+        <item>Media paketlər filtrləndi</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 saniyə</item>
@@ -813,7 +813,7 @@
         <item>Yüksək sürət</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Tünd</item>
+        <item>Qaranlıq</item>
         <item>Açıq</item>
     </string-array>
     <string-array name="data_usage_data_range">
@@ -1072,7 +1072,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="nfc_payment_favor">
         <item>Həmişə</item>
-        <item>Except when another payment app is open</item>
+        <item>Başqa bir ödəniş tətbiqinin açıq olduğu hallar istisna olmaqla</item>
     </string-array>
     <string-array name="nfc_payment_favor_values">
         <item>0</item>
@@ -1128,7 +1128,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Qalereya</item>
         <item>Musiqi</item>
         <item>E-poçt</item>
-        <item>Video oynatma</item>
+        <item>Videonu oxut</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA tərcih edilən</item>
@@ -1349,6 +1349,12 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Təzə</item>
         <item>Qatı</item>
     </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Dolur</item>
+        <item>Yuxulatma</item>
+        <item>Enerjiyə qənaət rejimi</item>
+        <item>Proses vəziyyəti</item>
+    </string-array>
     <string-array name="tare_units">
         <item>ARC</item>
         <item>Cake</item>
@@ -1429,7 +1435,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Tətbiq adı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Enerji yığır</item>
+        <item>Dolur</item>
         <item>MTP (Media Transfer Protokolu)</item>
         <item>PTP (Şəkil Transfer Protokolu)</item>
         <item>RNDIS (USB Ethernet)</item>
@@ -1438,7 +1444,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Bağlantı quranda soruş</item>
-        <item>Yalnız enerji yığ</item>
+        <item>Yalnız doldur</item>
         <item>SD kartı tax</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -1462,7 +1468,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Bağlantı kəsildi</item>
         <item>Başladılır…</item>
         <item>Bağlantı qurulur…</item>
-        <item>Bağlantı quruldu</item>
+        <item>Bağlantılıdır</item>
         <item>Bitmə vaxtı</item>
         <item>Uğursuz</item>
     </string-array>
@@ -1555,7 +1561,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Ölçülməmiş olaraq istifadə et</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Bağlantı quruldu</item>
+        <item>Bağlantılıdır</item>
         <item>Dəvət edildi</item>
         <item>Uğursuz</item>
         <item>Mümkün</item>
@@ -1567,7 +1573,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Bu cihazın PIN-i</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>İxtiyari MAC istifadə et</item>
+        <item>Təsadüfi seçilən MAC istifadə et</item>
         <item>Cihaz MAC-ını istifadə et</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
@@ -1592,7 +1598,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Bağlantı qurulur…</item>
         <item>Kimlik təsdiqlənir…</item>
         <item>IP ünvanı alınır…</item>
-        <item>Bağlantı quruldu</item>
+        <item>Bağlantılıdır</item>
         <item>Dayandırıldı</item>
         <item>Bağlantı kəsilir…</item>
         <item>Bağlantı kəsildi</item>
@@ -1606,7 +1612,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>%1$s ilə bağlantı qurulur…</item>
         <item>%1$s üzərində kimlik təsdiqlənir…</item>
         <item>%1$s şəbəkəsindən IP ünvanı alınır…</item>
-        <item>%1$s ilə bağlantı quruldu</item>
+        <item>%1$s ilə bağlantılıdır</item>
         <item>Dayandırıldı</item>
         <item>%1$s ilə bağlantı kəsilir…</item>
         <item>Bağlantı kəsildi</item>
@@ -1627,7 +1633,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Bağlantı qurulur…</item>
         <item>Kimlik təsdiqlənir…</item>
         <item>IP ünvanı əldə edilir…</item>
-        <item>Bağlantı quruldu</item>
+        <item>Bağlantılıdır</item>
         <item>Dayandırıldı</item>
         <item>Bağlantı kəsilir…</item>
         <item>Bağlantı kəsildi</item>

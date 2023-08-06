@@ -513,8 +513,8 @@
         <item quantity="one">1 təklif</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
-        <item quantity="other">Qulaqlıqlarınızdan biri qulağınızdan və ya enerji yığma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
-        <item quantity="one">Qulaqlıqlarınızdan biri qulağınızdan və ya enerji yığma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+        <item quantity="other">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+        <item quantity="one">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
     </plurals>
     <plurals name="unused_apps_summary">
         <item quantity="other">%d istifadə olunmayan tətbiq</item>

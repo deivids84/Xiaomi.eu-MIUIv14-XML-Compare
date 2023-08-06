@@ -95,8 +95,8 @@ Baxmaq üçün toxunun"</string>
     <string name="is_go_home">Ekran yazıcıya geri qayıt</string>
     <string name="is_go_home_summary">"Yazmanı dayandırdıqdan sonra \"Ekran yazıcı\"nın başlanğıc səhifəsini aç"</string>
     <string name="loopback_sound">Dinamik</string>
-    <string name="low_battery">Yazmağa başlamazdan əvvəl telefonunuzu şarj edin</string>
-    <string name="low_battery_for_pad">Yazmağa başlamazdan əvvəl cihazınızı şarj edin</string>
+    <string name="low_battery">Yazmağa başlamazdan əvvəl telefonunuzu doldurun</string>
+    <string name="low_battery_for_pad">Yazmağa başlamazdan əvvəl cihazınızı doldurun</string>
     <string name="low_battery_title">Zəif batareya</string>
     <string name="low_battery_warning">Batareyada çox azdır. Yazma dayandırıldı və video saxlanıldı.</string>
     <string name="low_memory_for_pad">Anbarda boş sahə %1$d GB-dan azdır. %2$d dəqiqəyə qədər yaza bilərsiniz.</string>

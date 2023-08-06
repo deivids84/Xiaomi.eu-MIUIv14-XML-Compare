@@ -589,8 +589,8 @@ cihazınızı qatlayın"</string>
     <string name="wifi_assistant_wifi_no_internet">Bu Wi-Fi şəbəkəsinin internetə müraciəti yoxdur</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Detallara baxmaq üçün toxunun</string>
     <string name="windchime">Külək zəngləri</string>
-    <string name="wireless_charging_notification_message1">"Enerji yığmaq üçün naqilsiz cihaz tapıla bilmədi. Tərsinə naqilsiz enerji yığma indi söndürüldü."</string>
-    <string name="wireless_charging_notification_message2">Batareya %s enerjisindən daha azdır. Tərsinə enerji yığma indi söndürüldü.</string>
+    <string name="wireless_charging_notification_message1">"Doldurmaq üçün naqilsiz cihaz tapıla bilmədi. Tərsinə naqilsiz doldurma indi söndürüldü."</string>
+    <string name="wireless_charging_notification_message2">Batareya %s dən daha azdır. Tərsinə naqilsiz doldurma indi söndürüldü.</string>
     <string name="wireless_charging_notification_message3">Enerji yığarkən xəta baş verdi. Tərsinə enerji yığma indi söndürüldü.</string>
     <string name="wireless_charging_notification_titile">Tərsinə enerji yığma söndürüldü</string>
     <string name="xiaomi">Mi</string>

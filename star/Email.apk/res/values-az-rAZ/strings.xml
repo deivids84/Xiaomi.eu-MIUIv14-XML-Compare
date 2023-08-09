@@ -172,7 +172,7 @@ yol prefiksi"</string>
     <string name="activity_mailbox_selection">Hesab seç</string>
     <string name="add_account">Hesab əlavə et</string>
     <string name="add_attachment">Fayl əlavə et</string>
-    <string name="add_pre_message_attachments">Əvvəlki mesajın qoşmaları əlavə edilsin?</string>
+    <string name="add_pre_message_attachments">Ön-mesajın qoşmaları əlavə edilsin?</string>
     <string name="add_pre_message_attachments_no">"Əlavə etmə"</string>
     <string name="add_pre_message_attachments_yes">Əlavə et</string>
     <string name="add_star">Ulduz</string>

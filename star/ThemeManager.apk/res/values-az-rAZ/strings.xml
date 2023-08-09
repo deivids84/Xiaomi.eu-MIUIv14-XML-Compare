@@ -1276,7 +1276,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="system_cta_runtime_perm_desc_storage">Fərdiləşdirmə məqsədilə cihazınızda saxlanılan elementləri istifadə etmək və satın alınmış elementləri saxlamaq üçün</string>
     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Fərdiləşdirmə tərcihlərinin dəyişdirilməsi üçün</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Fərdiləşdirmə məqsədilə cihazınızda saxlanılan elementləri istifadə etmək və satın alınmış elementləri saxlamaq üçün</string>
-    <string name="system_precust">Əvvəlcədən quraşdırılmış</string>
+    <string name="system_precust">Ön-quraşdırılmış</string>
     <string name="tag_ad">Reklam</string>
     <string name="task_already_exist">Bu tapşırıq artıq mövcuddur</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>

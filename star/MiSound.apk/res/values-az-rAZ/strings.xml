@@ -65,8 +65,9 @@
     <string name="effect_3dsurround_summary_headphone">Qulaqlıqlar üçün səsin dərinliyini təkmilləşdirin</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Misound</string>
-    <string name="effect_none">Yoxdur</string>
+    <string name="effect_none">Orijinal</string>
     <string name="effect_selection">Səs effektləri</string>
+    <string name="effect_selection_headset">Qulaqlıq effektləri</string>
     <string name="effect_virtual_surround">Virtual immersiv səs</string>
     <string name="effect_virtual_surround_summary">"Qulaqlıqlarda səs və videoların oxudulması üçün səs dərinliyini zənginləşdirin. (Bu özəllik, səs %.1f ilə oxudulanda işləmir)"</string>
     <string name="effect_virtual_surround_summary_spk">Səs və video oxutma üçün səs dərinliyini zənginləşdirin</string>

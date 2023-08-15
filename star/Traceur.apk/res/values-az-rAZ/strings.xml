@@ -433,9 +433,9 @@ seçimi"</string>
     <string name="lb_playback_controls_thumb_up">\"Bəyənmə\" seçimini götür</string>
     <string name="lb_playback_controls_thumb_up_outline">\"Bəyənmə\"ni seç</string>
     <string name="lb_search_bar_hint">Axtar</string>
-    <string name="lb_search_bar_hint_speech">Axtarış üçün danışın</string>
+    <string name="lb_search_bar_hint_speech">Axtarmaq üçün danışın</string>
     <string name="lb_search_bar_hint_with_title">Axtar: %1$s</string>
-    <string name="lb_search_bar_hint_with_title_speech">Axtarış üçün danışın: %1$s</string>
+    <string name="lb_search_bar_hint_with_title_speech">%1$s axtarmaq üçün danışın</string>
     <string name="link_to_traces">İzləmə fayllarına bax</string>
     <string name="loading_injected_setting_summary">Yüklənir…</string>
     <string name="local_backup_password_summary_change">Masaüstü tam nüsxələmələrinin parolunu dəyişdirmək və ya silmək üçün toxunun</string>

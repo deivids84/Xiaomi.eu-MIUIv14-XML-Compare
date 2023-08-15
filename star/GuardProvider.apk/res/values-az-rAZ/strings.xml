@@ -26,8 +26,8 @@
     <string name="hello_world">Salam dünya!</string>
     <string name="menu_settings">Tənzimləmələr</string>
     <string name="set_button">SET</string>
-    <string name="tencent_dialog_cloudscan">Onlayn virus verilənlər bazasını istifadə edərək tətbiq adlarını və detallarını yükləyib skan edin.</string>
-    <string name="tencent_dialog_dbupdate">Virus verilənlər bazasını avto-güncəllə</string>
+    <string name="tencent_dialog_cloudscan">Onlayn virus təriflərini istifadə edərək tətbiq adlarını və detallarını yükləyib skan edin.</string>
+    <string name="tencent_dialog_dbupdate">Virus təriflərini avto-güncəllə</string>
     <string name="tencent_dialog_header">"Bu özəllik, cihazınızın kimliyini şifrələyir və Tencent-in serverlərinə yükləyir (%s)."</string>
     <string name="tencent_dialog_policy">Gizlilik Siyasəti</string>
     <string name="tencent_dialog_title">Tencent-in Gizlilik Siyasəti</string>

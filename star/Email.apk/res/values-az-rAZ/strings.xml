@@ -229,6 +229,7 @@ yol prefiksi"</string>
     <string name="attendee_needed">Ən azı bir dəvətçi əlavə edin.</string>
     <string name="auto_login_fail">"Avtomatik giriş edilə bilmədi"</string>
     <string name="auto_login_fail_to_retry">"Avtomatik giriş edilə bilmədi, yenidən sınayın."</string>
+    <string name="auto_start_open_prompt">E-poçtlarınızı sinxronlaşdıra bilməsi üçün tətbiqin avto-başladılmasına icazə verin. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
     <string name="bContact_list_search_hint">Əngəllənən kontaktları axtar</string>
     <string name="b_contacts">Əngəlli siyahısı</string>
     <string name="b_contacts_remove">Əngəlli siyahısından sil</string>
@@ -245,6 +246,7 @@ yol prefiksi"</string>
     <string name="calendar_remind_gridview_pick_date">Tarix seçin</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_action">İmtina</string>
+    <string name="cancel_edit">Düzəlişi dayandır</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
@@ -390,6 +392,7 @@ yol prefiksi"</string>
     <string name="drive_card_code">"Müraciət kodu: "</string>
     <string name="drive_card_tips">%s, buludda saxlanılan bir elementi sizinlə paylaşdı.</string>
     <string name="drive_card_title">Cloud anbar URL-si</string>
+    <string name="drop_sign_operation">Düzəliş dayandırılıb bütün dəyişikliklər indi ləğv edilsin?</string>
     <string name="dtend">Bitir</string>
     <string name="dtstart">Başlayır</string>
     <string name="early_morning">Səhər</string>
@@ -842,6 +845,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="open_pdf_error">"PDF açıla bilmədi. Bir PDF oxuyucu quraşdırıb yenidən sınayın."</string>
     <string name="operation_settging">Əməliyyatlar</string>
     <string name="optimization_suggestion">Optimallaşdırma təklifləri</string>
+    <string name="other_pdf_open">Aç…</string>
     <string name="others_mail">Digər</string>
     <string name="outbox_alert_button_no_resend">"Göndərilmədi"</string>
     <string name="outbox_alert_button_resend">Yenidən göndər</string>
@@ -878,6 +882,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="pdf_has_signature_prompt_confirm">İmzalı kopya</string>
     <string name="pdf_has_signature_prompt_message">Deyəsən, bu qoşmanın bir imzalı kopyası var. Bunun əvəzinə açılsın?</string>
     <string name="pdf_save_error">"PDF-ə çevrilə bilmir. Bu mesaj çox uzundur."</string>
+    <string name="pdf_save_local">"Cihazda uğurla saxlanıldı: "</string>
     <string name="pdf_save_no_body">PDF-ə çevirməzdən əvvəl mesajın tamamının yüklənməsini gözləyin</string>
     <string name="pdf_save_to">"Saxlanıldı "</string>
     <string name="pdf_signature_add">Yeni bir imza əlavə et</string>
@@ -915,6 +920,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="personal_data_collection_summary">Açar açıq olduqda, şəxsi verilənlərinizi yığa biləcəyimizi qəbul etmiş olursunuz. Açarı söndürə, səlahiyyəti geri ala və verilənlərinizi serverlərimizdən istədiyiniz vaxt silə bilərsiniz.</string>
     <string name="personal_data_collection_title">Şəxsi verilənlərin yığılmasına icazə verin</string>
     <string name="pl_select_age">Yaş seçin</string>
+    <string name="please_save_sign_first">Əvvəlcə imzanı saxla</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preferences_signature_dialog_title">İmza</string>
@@ -992,6 +998,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
     <string name="save_draft_failed">Qaralama saxlanılmadı</string>
+    <string name="save_sign_pdf">Cihazda saxla</string>
     <string name="search_bar_text">Kontaktları axtar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_remote_again">"Şəbəkəyə bağlana bilmədi. Yenidən sınamaq üçün toxunun."</string>
@@ -1162,6 +1169,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="train_card_title_change">Rezervasiya uğurla dəyişdirildi</string>
     <string name="train_card_title_change_arrival">Təyinat nöqtəsi uğurla dəyişdirildi</string>
     <string name="train_card_title_refund">Bilet uğurla ləğv edildi</string>
+    <string name="translated_text_too_long">Kopyalamaq üçün daha az mətn seçib yenidən sınayın</string>
     <string name="translation_loading">Bir saniyə…</string>
     <string name="translation_no_result">Nəticə yoxdur</string>
     <string name="translation_pronunciation_am">AmE</string>

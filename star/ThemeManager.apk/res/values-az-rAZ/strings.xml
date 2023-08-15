@@ -1575,6 +1575,10 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_settings_page_title">Divar kağızı</string>
     <string name="wallpaper_share_alert">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="wallpaper_static">Statik</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Tənzimləmələr</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Tətbiq et</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Deyəsən, MIUI optimallaşdırmasını işə salmamısınız. Bu olmadan, bu tema tətbiq edildikdə düzgün işləməyəcək. Yenə də tətbiq edə bilərsiniz, ya da Tənzimləmələrdə MIUI optimallaşdırmasını işə sala bilərsiniz."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Diqqət</string>
     <string name="warning_subscribe_wallpaper_group_content">"Əsas ekran slayd şousunu işə saldınız. %1$s, Əsas ekranınıza tətbiq ediləcək."</string>
     <string name="wechat_not_found">Əvvəlcə \"WeChat\"ı quraşdırın</string>
     <string name="wednesday">Çərşənbə</string>

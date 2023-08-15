@@ -1399,7 +1399,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     <string-array name="true_color_screen_optimize_summary">
         <item>Göstərilən məzmuna görə rəngləri tənzimlə</item>
         <item>Rəngləri həmişə artır</item>
-        <item>Ekran məzmununun standart rəngini rəng kalibrasiyası ilə bərpa et</item>
+        <item>Ekran məzmununun standart rəngini rəng dərəcələndirmə ilə bərpa et</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Canlı (tövsiyə edilən)</item>

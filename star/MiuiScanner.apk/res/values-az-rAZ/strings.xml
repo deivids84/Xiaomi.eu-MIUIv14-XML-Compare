@@ -42,7 +42,7 @@
     <string name="address">Ünvan:</string>
     <string name="adjustment_area">Nizamla</string>
     <string name="afternoon">Günortadan sonra</string>
-    <string name="agree_app_use">QR kodları və digər şəkillər analiz edilir ( bəzi xüsusiyyətlər məkanınıza müraciət icazəsi tələb edə bilər)</string>
+    <string name="agree_app_use">QR kodları və digər təsvirləri skan etmə (bəzi özəlliklər yerləşmənizə müraciət tələb edə bilər)</string>
     <string name="agree_btn">Razıyam</string>
     <string name="agree_camera_permission">Elementləri skan etmək üzrə kameranı istifadə etmək üçün</string>
     <string name="agree_camera_permission_message">Elementləri skan etmək üzrə kameranı istifadə etmək üçün</string>
@@ -52,7 +52,7 @@
     <string name="already_ocr_result">Elementlər avtomatik seçildi</string>
     <string name="always">Həmişə</string>
     <string name="am">GƏ</string>
-    <string name="app_description_content">Skaner bir sistem tətbiqidir. Tətbiqi sildikdən sonra Kamera tətbiqindən istifadə edərək QR kodlarını skan edə bilməyəcəksiniz.</string>
+    <string name="app_description_content">Skaner QR kodları, sənədləri, vizitkaları və daha çoxunu skan etməyinizə imkan verir. Tətbiqi silməzdən əvvəl, bu özəliklər olmadan davam edə biləcəyinizə əmin olun.</string>
     <string name="app_description_title">Skaner haqqında</string>
     <string name="app_details">Tətbiq:</string>
     <string name="app_name">Skaner</string>
@@ -817,7 +817,7 @@
     <string name="translation_prompt_sentence">Tərcümə ediləcək mətni seçin</string>
     <string name="translation_prompt_translating">Tərcümə edilir…</string>
     <string name="translation_prompt_word">Sözü çərçivənin daxilinə yerləşdirin</string>
-    <string name="translation_see_more">Təyin etməyə bax</string>
+    <string name="translation_see_more">Tərifə bax</string>
     <string name="translation_type_chat">Söhbət</string>
     <string name="translation_type_sentence">İfadə</string>
     <string name="translation_type_word">Danışığı tərcümə et</string>

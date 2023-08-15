@@ -519,7 +519,7 @@
     <string name="preview">Önbaxış</string>
     <string name="primary_color_region">Orijinal</string>
     <string name="primary_color_region_chinese_only">təbiət</string>
-    <string name="primary_color_region_summary">Rəng kalibrləmə vasitəsilə avtomatik olaraq rəng qammasını müəyyən edin</string>
+    <string name="primary_color_region_summary">Rəng dərəcələndirmə vasitəsilə avtomatik olaraq rəng qammasını müəyyən edin</string>
     <string name="privacy_policy">Gizlilik siyasəti</string>
     <string name="puffin">Atlantic puffin</string>
     <string name="random_play_sound_alert">"Bildiriş aldıqda bu bölgədən heyvanların səsini eşidəcəksiniz"</string>

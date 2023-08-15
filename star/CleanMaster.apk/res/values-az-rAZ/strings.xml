@@ -707,7 +707,7 @@
     <string name="pref_category_title_auto_clean_settings">Təmizləməni xatırlat</string>
     <string name="pref_category_title_auto_update_cleanup_db">Əlavə tənzimləmələr</string>
     <string name="pref_category_title_cleanup_white_list">İstisnalar</string>
-    <string name="pref_category_title_engine_settings">Skan təyin etmə tənzimləmələri</string>
+    <string name="pref_category_title_engine_settings">Skan tərif tənzimləmələri</string>
     <string name="pref_category_title_garbage_cleanup_check">Bildirişlər</string>
     <string name="pref_category_title_other_clean_settings">Əlavə tənzimləmələr</string>
     <string name="pref_content_cleanup_white_list_none">Yoxdur</string>
@@ -719,7 +719,7 @@
     <string name="pref_summary_garbage_cleanup_check_size">Tullantı həcmi müəyyən ölçüyə çatanda avtomatik təmizlə</string>
     <string name="pref_summary_garbage_cleanup_check_time">Müntəzəm təmizləməni planlaşdır</string>
     <string name="pref_summary_garbage_process_mode">Təmizləyici işlək olduqda bildirişləri tənzimlə</string>
-    <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını yükləyin və onlayn təriflərlə müqayisə edin</string>
+    <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını onlayn təriflərlə yükləyin və müqayisə edin</string>
     <string name="pref_title_apps_cleanup_size">Keş, bu ölçüyə çatdıqda</string>
     <string name="pref_title_auto_clean_content_choose">Təmizlənəcək elementləri seçin</string>
     <string name="pref_title_auto_update_cleanup_db">Avto-güncəlləmə</string>

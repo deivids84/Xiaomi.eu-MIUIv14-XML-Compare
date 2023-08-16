@@ -293,8 +293,8 @@
         <item quantity="one">%d san</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
-        <item quantity="other">%d ardıcıl gün işarələndi</item>
-        <item quantity="one">%d dəfə işarələndi</item>
+        <item quantity="other">Ardıcıl %d gün giriş edildi</item>
+        <item quantity="one">%d dəfə giriş edildi</item>
     </plurals>
     <plurals name="gb_smart_battery_hrs">
         <item quantity="other">%d sa</item>

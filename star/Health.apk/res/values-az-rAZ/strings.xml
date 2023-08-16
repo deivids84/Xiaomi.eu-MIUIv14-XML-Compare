@@ -1527,7 +1527,7 @@ tapıla bilmədi"</string>
     <string name="tb_exercise_exercise_duration">Dəqiqələrlə orta və yüksək intensivlikli məşq müddəti: %1$d. %2$s. Detallara baxmaq üçün toxunun.</string>
     <string name="tb_exercise_exercise_no_data">Orta və yüksək intensivlikli məşq yoxdur</string>
     <string name="tb_exercise_goal_info">Gündəlik fəaliyyət hədəfi: %1$s. %2$s</string>
-    <string name="tb_exercise_home_banner">Gündəlik yoxlama</string>
+    <string name="tb_exercise_home_banner">Gündəlik giriş</string>
     <string name="tb_exercise_label_close">Sorğunu bağla</string>
     <string name="tb_exercise_list_add">Məşq statistikası əlavə et</string>
     <string name="tb_exercise_list_consume">Yandırılan kalori: %1$d. Bitmə vaxtı: %2$s. Detallara baxmaq üçün toxunun.</string>

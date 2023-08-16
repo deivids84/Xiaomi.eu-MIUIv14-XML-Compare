@@ -411,7 +411,7 @@
     <string name="permission_go_to_settings">Tənzimləmələr</string>
     <string name="permission_requesr_content">Bu tətbiqə Tənzimləmələrdə yaxınlıqdakı cihazlara bağlanma icazə verin.</string>
     <string name="permission_requesr_title">Tələb olunan icazələr</string>
-    <string name="personal_sound">Tətbiq edilən ön tənzim.lə oxut</string>
+    <string name="personal_sound">Tətbiq edilən ön tənzim. ilə oxut</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="retry_test">Başdan başlat</string>

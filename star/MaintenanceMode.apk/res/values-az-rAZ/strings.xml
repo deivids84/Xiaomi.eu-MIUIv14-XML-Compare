@@ -33,7 +33,7 @@
     <string name="am">GƏ</string>
     <string name="cancel">Ləğv et</string>
     <string name="check_protocol_msg">Baxım rejimini istifadə etmək üçün zəhmət olmasa bura klikləyin və bununla razılaşın </string>
-    <string name="check_protocol_msg_detail">Bərpa rejiminə keçməzdən əvvəl zəhmət olmasa verilənlərin nüsxələndiyinə əmin olun. Unutmayın, satış sonrası xidmət, təmir edilmiş məhsulun səbəb ola biləcək məlumat itkisinə görə məsuliyyət daşımır.</string>
+    <string name="check_protocol_msg_detail">Bərpa rejiminə keçməzdən əvvəl zəhmət olmasa məlumatların nüsxələndiyinə əmin olun, bərpa edilmiş məhsuldan qaynaqlanan mümkün məlumat itkisinə görə satış sonrası xidmət məsuliyyət daşımır.</string>
     <string name="check_protocol_msg_sub">İstifadəçi Datası üzrə məsuliyyətdən imtina</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_to_close">Baxım rejimindən çıxmaq üçün bura klikləyin</string>

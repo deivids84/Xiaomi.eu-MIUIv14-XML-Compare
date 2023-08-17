@@ -97,8 +97,7 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Daxil olmaq üçün operatordan telefon nömrəsini alır</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"İndi bir toxunuşla daxil ola bilmirsinizsə, daxil olma səhifəsinə geri qayıdın və yenidən sınayın."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu tətbiq, daxil olmaq üçün opetordan telefon nömrənizi almaq istəyir. İcazə verilsin?</string>
-    <string name="HIPS_Perm_operator_shake">Akselerometr məlumatlarına müraciət</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Akselerometr məlumatları istiqamət və hərəkəti izləmək üçün istifadə olunur (məs. silkələnmə, əymə və döndərmə)</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Cihazın kosmosdakı mövqeyini aşkarlamaq, silkələməyi tanımaq və interaktiv həssas özəllikləri təmin etmək üçün"</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">yaxın sahə rabitəsi (NFC) avadanlığına müraciət</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon tətbiqinə müraciət</string>
@@ -327,7 +326,7 @@
     <string name="permdesc_recognition">%1$s üçün fəaliyyət məlumatlarınıza müraciət icazəsi verilsin?</string>
     <string name="permdesc_send_sms">%1$s üçün mətn mesajlarını göndərmə icazəsi verilsin?</string>
     <string name="permdesc_sensors">%1$s üçün bədən sensorları tərəfindən yaradılmış dataları oxuma icazəsi verilsin?</string>
-    <string name="permdesc_shake">%1$s üçün akselerometr məlumatlarına müraciət icazəsi verilsin?</string>
+    <string name="permdesc_shake">\"%1$s\" üçün silkələnməni tanımaq və interaktiv sensor özəlliklərini təmin etmək məqsədilə cihaz sensorlarını istifadə etmə icazəsi verin</string>
     <string name="permdesc_use_sip">%1$s üçün video yayımlamaq üçün Seans Başlatma Protokolunu (SIP) istifadə etmə icazəsi verilsin?</string>
     <string name="permdesc_write_calendar">%1$s üçün təqvim tədbirlərini yaratma və saxlama icazəsi verilsin?</string>
     <string name="permdesc_write_call_log">%1$s üçün zəng tarixçəsinə düzəliş etmə icazəsi verilsin?</string>

@@ -54,10 +54,10 @@
     <string name="bluetooth_connected_no_headset_battery_level">Bağlantılıdır (telefon yoxdur), batareya %1$s %2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Bağlantılıdır (telefon və ya media yoxdur) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlantılıdır (telefon və ya media yoxdur), batareya %1$s %2$s</string>
-    <string name="bluetooth_connecting">Cütləşir…</string>
-    <string name="bluetooth_device_context_unpair">Cütləşməni dayandır</string>
-    <string name="bluetooth_disconnected">Cütləşmədi</string>
-    <string name="bluetooth_disconnecting">Cütləşmə dayandırılır…</string>
+    <string name="bluetooth_connecting">Cütləşdirilir…</string>
+    <string name="bluetooth_device_context_unpair">Cütləşməni ayır</string>
+    <string name="bluetooth_disconnected">Ayrıldı</string>
+    <string name="bluetooth_disconnecting">Cütləşmə ayrılır…</string>
     <string name="bluetooth_headset_profile_summary_connected">Telefon səsinə bağlandı</string>
     <string name="bluetooth_headset_profile_summary_use_for">Telefon səsi üçün istifadə edilir</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Eşitmə cihazına bağlandı</string>
@@ -125,7 +125,7 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="device_picker">Bluetooth cihaz tənzimləmələri</string>
     <string name="device_update_plugin">Güncəlləmələri yoxla</string>
-    <string name="disconnect">Cütləşməni dayandır</string>
+    <string name="disconnect">Cütləşməni ayır</string>
     <string name="disconnect_Channel">Kanal bağlantısını kəs</string>
     <string name="disconnect_device">cihazın bağlantısını kəs</string>
     <string name="early_morning">Səhər</string>
@@ -348,7 +348,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="notify_device_lose_connection_text">%1$s cihazını ayırmaq üçün toxunun</string>
+    <string name="notify_device_lose_connection_text">%1$s - ayırmaq üçün toxunun</string>
     <string name="notify_device_lose_connection_title">%1$s ilə bağlantı itdi</string>
     <string name="ok_button">Oldu</string>
     <string name="perm_ble_des">BLE tənzimləmələrinə müraciət et</string>
@@ -458,8 +458,8 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="unbind_device_alert_cancel">İmtina</string>
-    <string name="unbind_device_alert_content">%%1$s ilə bağlantı itdi. Batareyaya qənaət etmək üçün, bu cihazın cütləşməsini indi dayandırın.</string>
-    <string name="unbind_device_alert_ok">Cütləşməni dayandır</string>
+    <string name="unbind_device_alert_content">%%1$s ilə bağlantı itdi. Batareyaya qənaət etmək üçün, bu cihazın cütləşməsini indi ayırın.</string>
+    <string name="unbind_device_alert_ok">Cütləşməni ayır</string>
     <string name="unbind_device_alert_title">Cihazı ayır</string>
     <string name="uninstall_all_deferred">Silmə ertələndi</string>
     <string name="v7_preference_off">BAĞLI</string>

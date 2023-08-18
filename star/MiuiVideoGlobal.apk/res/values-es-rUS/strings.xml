@@ -303,6 +303,10 @@ Envíe este código al supervisor."</string>
     <string name="dialog_open_internet_btn">Conectar a la red</string>
     <string name="dialog_privacy_change_info">"Hemos actualizado la Política de Privacidad de Video Mi debido a los ajustes en los servicios que ofrecemos. Para comprender completamente sus derechos como usuario, así como las formas en que usamos sus datos, lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar la aplicación."</string>
     <string name="dialog_privacy_change_title">Política de Privacidad actualizada</string>
+    <string name="dialog_privacy_info">"¡Te damos la bienvenida a Mi Video! Esta aplicación proporciona los siguientes servicios:
+- Transmisión en línea
+- Reproductor de video local
+Necesita recopilar información personal necesaria para los servicios básicos. Puedes ver cómo manejamos la información recopilada en nuestra Política de Privacidad y cambiar la configuración en los ajustes del perfil."</string>
     <string name="dialog_privacy_info_new4">"¡Bienvenido a Video Mi! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Servicios de transmisión en línea&lt;br&gt;&lt;/br&gt;- Un reproductor de video local&lt;br&gt;&lt;/br&gt;Video Mi necesita recopilar la información personal necesaria para brindarle los servicios básicos. Puede aprender cómo manejamos la información que recopilamos en nuestra Política de Privacidad. Podrá cambiar la configuración relacionada en Ajustes&gt; Contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lea y acepte nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usar Video Mi."</string>
     <string name="dialog_privacy_info_new5">¡Te damos la bienvenida a Mi Vídeo! Esta aplicación brinda los siguientes servicios:&lt;br&gt;&lt;/br&gt; - Retransmisión en línea&lt;br&gt;&lt;/br&gt;- Reproducción de vídeo local&lt;br&gt;&lt;/br&gt;Mi Vídeo necesita recopilar información personal para proporcionar los servicios básicos. Puedes conocer como manejamos la información recopilada leyendo nuestra Política de Privacidad. Podrás cambiar la configuración en Ajustes&gt; contraseñas y seguridad.&lt;br&gt;&lt;/br&gt; Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt; antes de usarlo.</string>
     <string name="dialog_privacy_revoke_cancel">Cancelar</string>
@@ -1268,16 +1272,9 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Actualice MIUI para poder usar picture-in-picture.</string>
-    <string name="play_list_delete_title">¿Eliminar esta lista de reproducción ahora?</string>
-    <string name="play_list_detial_add">Añadir vídeos</string>
-    <string name="play_list_detial_delete">Eliminar</string>
-    <string name="play_list_detial_play">Reproducir</string>
-    <string name="play_list_detial_rename">Renombrar</string>
     <string name="play_list_save_dialog_create">Crear lista de reproducción</string>
     <string name="play_list_save_dialog_title">Añadir a la lista de reproducción</string>
     <string name="play_list_sign_in_dialog_message">Inicia sesión con tu cuenta de Google para ver todas tus listas de reproducción.</string>
-    <string name="play_list_user_local">Local</string>
-    <string name="play_list_user_online">Conectado</string>
     <string name="playlist_create">Crear</string>
     <string name="playlist_detail_recomm_title">Listas de reproducción recomendadas</string>
     <string name="playlist_finish">Listo</string>
@@ -1782,7 +1779,6 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="v_save">Guardar</string>
     <string name="v_search">Buscar</string>
     <string name="v_set_password">Establecer contraseña</string>
-    <string name="v_txt_login">Inicie sesión para sincronizar sus favoritos</string>
     <string name="version_update_install_apk_fail">La instalación ha fallado</string>
     <string name="video_already_download_tip">"Ya ha descargado este elemento"</string>
     <string name="video_download_btn">Descargar</string>

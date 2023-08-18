@@ -1360,6 +1360,7 @@ Sea Feliz"</string>
     <string name="song_offline">Esta canción ya no está disponible.</string>
     <string name="song_picker_complete">Listo</string>
     <string name="song_quality_category">Música</string>
+    <string name="song_swipe_navigation">Desliza el dedo hacia la izquierda o la derecha para cambiar la canción</string>
     <string name="songgroup_pick_album">Álbumes</string>
     <string name="songgroup_pick_playlist">Listas de reproducción</string>
     <string name="sort_by_name">Nombre</string>

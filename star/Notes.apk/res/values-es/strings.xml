@@ -553,6 +553,7 @@
     <string name="pc_todo_set_remind_time_hint">Establecer hora</string>
     <string name="permdesc_accessNote">Las aplicaciones maliciosas pueden usar esto para acceder a tus datos personales.</string>
     <string name="permission_data_shared_desc">Notas Declaración de intercambio de datos de terceros</string>
+    <string name="permission_get_account_desc">Sincronizar notas con la nube</string>
     <string name="permission_intro_contact">Para marcar notas tomadas durante llamadas</string>
     <string name="permission_intro_microphone">Para grabar notas de voz</string>
     <string name="permission_intro_phone">Para marcar notas tomadas durante llamadas</string>

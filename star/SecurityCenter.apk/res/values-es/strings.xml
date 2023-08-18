@@ -1520,6 +1520,7 @@ Se agregará a las excepciones, pero los elementos previamente bloqueados no apa
     <string name="domestic_roaming_setting">Itinerancia nacional</string>
     <string name="dont_bore">"No permitir distracciones de botones ni notificaciones"</string>
     <string name="download">Descargar</string>
+    <string name="download_tvm_title">Plug-in componente de clave de teléfono</string>
     <string name="downloading">Descargando</string>
     <string name="doze_optimization_summary">Incrementar la respuesta táctil y la sensibilidad</string>
     <string name="doze_optimization_title">Controles táctiles optimizados</string>
@@ -2668,6 +2669,8 @@ para unirte a nuestra búsqueda de huevos!"</string>
     <string name="install_sucess">%s instalado correctamente</string>
     <string name="install_text">Instalar</string>
     <string name="install_title">Instalar mediante USB</string>
+    <string name="install_tvm_component_desc">Para garantizar la seguridad de las transacciones, instala el Plug-in componente de clave de teléfono.</string>
+    <string name="install_tvm_component_title">Instalar Plug-in componente de clave de teléfono</string>
     <string name="install_type_instant">Aplicación instantánea</string>
     <string name="installing">Instalando</string>
     <string name="international_Ad">Anuncio</string>
@@ -4249,9 +4252,6 @@ Usa otro cable Ethernet para conectarlo. Si crees que hay problemas de conexión
     <string name="privacy_pop_record">Hoy se grabó audio</string>
     <string name="privacy_pop_storage">Hoy se accedió al almacenamiento</string>
     <string name="privacy_prompt_tc_sms_report_message">"Tu número de teléfono y los detalles del operador serán encriptados y cargados a los servidores Mi para actualizar la información de tu uso de datos."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Después de iniciar la calibración, MIUI conectará a la red, codificará la información del operador, número de teléfono, IMEI y cuenta Xiaomi, guardando estos datos en los servidores de Xiaomi. Su intención es adquirir la plantilla de calibración del operador y determinar si es posible comprar datos en tu ubicación.
-
-Durante la calibración, MIUI enviará un mensaje de texto al operador para recibir la plantilla de calibración."</string>
     <string name="privacy_prompt_upload">Enviar</string>
     <string name="privacy_protect_summary">Proteger tu información personal</string>
     <string name="privacy_protect_title">Protección de la privacidad</string>
@@ -5119,8 +5119,8 @@ Para usar esta ^1 primero debes activarla."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo no soporta esta ^1.
 
 Para usar esta ^1 con este dispositivo primero tienes que configurarla."</string>
-    <string name="storage_fbo_clear">Actualizar almacenamiento FBO</string>
-    <string name="storage_fbo_des">"El almacenamiento se fragmenta y se puede ralentizar el dispositivo. La optimización basada en archivos los organiza, mientras no usas el dispositivo, en el menor número de fragmentos, lo que reduce el retraso."</string>
+    <string name="storage_fbo_clear">Actualización del almacenamiento</string>
+    <string name="storage_fbo_des">"El almacenamiento interno sufre fragmentación que podría ralentizar el dispositivo. La actualización de almacenamiento funciona automáticamente mientras no usas el dispositivo, organizando físicamente los archivos en el menor número de fragmentos."</string>
     <string name="storage_fbo_number_tip">Procesado el %1$s</string>
     <string name="storage_fbo_tools">Optimización de almacenamiento</string>
     <string name="storage_file_delete_tip">¿Eliminar los elementos seleccionados de forma permanente? Algunos de ellos pueden volver a cargarse cuando sea necesario.</string>
@@ -5717,6 +5717,9 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_auto_correction">Desactivar la sincronización automática</string>
+    <string name="tvm_install_failed">"No se pudo instalar el plug-in"</string>
+    <string name="tvm_install_successed">Se ha instalado el plug-in</string>
+    <string name="tvm_version_too_low">Antes, actualiza el plug-in componente de clave de teléfono</string>
     <string name="two_address_choose_hint">%1$s y %2$s</string>
     <string name="type_face_condition_summary">Ajustar el tamaño del texto y el peso de la fuente</string>
     <string name="unable_connect_internet">Sin conexión a Internet</string>
@@ -5743,6 +5746,8 @@ Los datos restantes incluyen datos excedentes del mes anterior."</string>
     <string name="untrust_app_perm_oaid">Permitir el acceso a su ID virtual</string>
     <string name="untrust_app_perm_title">Aplicación de origen desconocido</string>
     <string name="untrust_app_perm_warn">Esta aplicación proviene de una fuente desconocida y puede plantear riesgos de seguridad. Puede utilizar los permisos listados a continuación para comprometer su privacidad. Conceder estos permisos después de una cuidadosa consideración.</string>
+    <string name="upgrade_tvm_component_desc">Para garantizar la seguridad de las transacciones, actualiza el plug-in componente de clave de teléfono.</string>
+    <string name="upgrade_tvm_component_title">Actualiza el plug-in componente de clave de teléfono</string>
     <string name="usage_sorted_activity_lable">Uso de datos</string>
     <string name="usage_sorted_empty_text">Vacío</string>
     <string name="usage_sorted_loading_text">Un momento…</string>
@@ -5879,6 +5884,7 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Versión: %s</string>
     <string name="virus_auto_update_engine">Actualizaciones automáticas: %s</string>
+    <string name="virus_auto_update_engine_1">Actualizar definiciones automáticamente</string>
     <string name="virus_clear_dialog_title">Borrar aplicaciones maliciosas</string>
     <string name="virus_detail_app">Contiene virus</string>
     <string name="virus_detail_title">Virus</string>

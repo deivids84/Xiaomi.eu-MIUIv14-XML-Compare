@@ -219,6 +219,7 @@
     <string name="common_home_search_delete_confirm">Eliminar</string>
     <string name="common_home_search_delete_content">"No podrá usar la búsqueda rápida después de eliminar la barra de búsqueda de su Pantalla de inicio. ¿Eliminar de todas formas?"</string>
     <string name="confirm_btn_label">Aceptar</string>
+    <string name="content_center">Centro de contenido</string>
     <string name="content_description_button_add">Toque para añadir a las aplicaciones actuales</string>
     <string name="content_description_button_disable">"No se pueden añadir más aplicaciones actuales"</string>
     <string name="content_description_button_remove">Toque para eliminar de las aplicaciones actuales</string>
@@ -340,6 +341,11 @@
     <string name="in_app_result_by">Resultados en la aplicación por</string>
     <string name="install">Instalar</string>
     <string name="intelligent_exposed_button_summary_text">Usa sugerencias inteligentes, con base en el uso de la aplicación, para resaltar aplicaciones en carpetas ampliadas</string>
+    <string name="international_home_pull_down_content">Desliza hacia abajo en la pantalla inicio para buscar en el dispositivo y en Internet.</string>
+    <string name="international_home_pull_down_sub_content">Puedes cambiar el gesto para abrir el Centro de control en Ajustes &gt; Pantalla de inicio &gt; Desliza hacia abajo en la pantalla inicio.</string>
+    <string name="international_home_pull_down_up_btn_get">Entendido</string>
+    <string name="international_home_pull_up_content">Desliza hacia arriba en la pantalla inicio para abrir el Centro de Contenido.</string>
+    <string name="international_home_pull_up_sub_content">Para abrir la búsqueda, desliza hacia abajo desde el centro en la pantalla inicio.</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="jeejen_description">"Elementos de la interfaz más grandes.
 Llamadas más accesibles.

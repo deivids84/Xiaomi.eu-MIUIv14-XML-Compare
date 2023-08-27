@@ -331,7 +331,7 @@ seçimi"</string>
     <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri tənzimlə</string>
     <string name="development_settings_title">Tərtibatçı seçimləri</string>
     <string name="direct_boot_unaware_dialog_message">"Qeyd: Yenidən başlatdıqdan sonra, telefonun kilidi açılana qədər bu tətbiq başladıla bilməz"</string>
-    <string name="disable_overlays">HW qatlarını sıradan çıxart</string>
+    <string name="disable_overlays">HW örtüklərini sıradan çıxart</string>
     <string name="disable_overlays_summary">Ekran kompozisiyası üçün həmişə GPU istifadə et</string>
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="disabled_by_admin">Admin tərəfindən sıradan çıxarıldı</string>
@@ -532,7 +532,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="picture_color_mode">Şəkil rəng rejimi</string>
     <string name="picture_color_mode_desc">sRGB istifadə et</string>
     <string name="pointer_location">Kursor yeri</string>
-    <string name="pointer_location_summary">Hazırkı toxunuş verilənlərini göstərən ekran örtüyü</string>
+    <string name="pointer_location_summary">Hazırkı toxunuş datasını göstərən ekran örtüyü</string>
     <string name="power_charging_duration">%1$s - Tam dolmasına %2$s qalıb</string>
     <string name="power_charging_limited">%1$s - Doldurma müvəqqəti məhduddur</string>
     <string name="power_discharge_by">Təxminən %1$s vaxtına qədər davam etməlidir (%2$s)</string>

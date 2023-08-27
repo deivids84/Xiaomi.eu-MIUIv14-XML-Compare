@@ -318,7 +318,7 @@ seçimi"</string>
     <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri tənzimlə</string>
     <string name="development_settings_title">Tərtibatçı seçimləri</string>
     <string name="direct_boot_unaware_dialog_message">"Qeyd: Cihazınızı yenidən başlatdığınızda və kilidi açdığınızdan sonra bu klaviaturadan istifadə edə biləcəksiniz"</string>
-    <string name="disable_overlays">HW qatlarını sıradan çıxart</string>
+    <string name="disable_overlays">HW örtüklərini sıradan çıxart</string>
     <string name="disable_overlays_summary">Ekran kompozisiyası üçün həmişə GPU istifadə et</string>
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="disabled_by_admin">Admin tərəfindən sıradan çıxarıldı</string>

@@ -12,12 +12,12 @@
     <string name="CndMmi">Zəng nömrəsinin çatdırılması</string>
     <string name="CnipMmi">Zəng nömrəsi mövcuddur</string>
     <string name="CnirMmi">Zəng nömrəsi məhdudlaşdırılıb</string>
-    <string name="ColpMmi">Bağlantı qurulmuş xətt kimliyi</string>
-    <string name="ColrMmi">Bağlantı qurulmuş xətt kimliyini məhdudlaşdırma</string>
+    <string name="ColpMmi">Bağlantılı xətt kimliyi</string>
+    <string name="ColrMmi">Bağlantılı xətt kimliyini məhdudlaşdırma</string>
     <string name="CwMmi">Zəng gözlətmə</string>
     <string name="DndMmi">Narahat etməyin</string>
-    <string name="EmergencyCallWarningSummary">Wi‑Fi üzərindən fövqəladə vəziyyət zəngləri edilə bilmir</string>
-    <string name="EmergencyCallWarningTitle">Fövqəladə vəziyyət zəngi əlçatmazdır</string>
+    <string name="EmergencyCallWarningSummary">Wi‑Fi üzərindən fövqəladə hal zəngləri edilə bilmir</string>
+    <string name="EmergencyCallWarningTitle">Fövqəladə hal zəngi əlçatmazdır</string>
     <string name="Midnight">Gecəyarı</string>
     <string name="NetworkPreferenceSwitchSummary">Tərcih edilən şəbəkəni dəyişdirməyə çalışın. Dəyişdirmək üçün toxunun.</string>
     <string name="NetworkPreferenceSwitchTitle">Mobil şəbəkə əlçatmazdır</string>
@@ -132,9 +132,9 @@
     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP Equivalent Home PLMN kilidi uğurla açıldı.</string>
     <string name="PinMmi">PIN dəyişdirmə</string>
     <string name="PwdMmi">Parol dəyişdirmə</string>
-    <string name="RestrictedOnAllVoiceTitle">Səs xidməti və ya fövqəladə vəziyyət zəngi yoxdur</string>
+    <string name="RestrictedOnAllVoiceTitle">Səs xidməti və ya fövqəladə hal zəngi yoxdur</string>
     <string name="RestrictedOnDataTitle">Mobil internet xidməti yoxdur</string>
-    <string name="RestrictedOnEmergencyTitle">Fövqəladə vəziyyət zəngi əlçatmazdır</string>
+    <string name="RestrictedOnEmergencyTitle">Fövqəladə hal zəngi əlçatmazdır</string>
     <string name="RestrictedOnNormalTitle">Səsli zəng xidməti yoxdur</string>
     <string name="RestrictedStateContent">Operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
     <string name="RestrictedStateContentMsimTemplate">SIM %d üçün operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
@@ -143,7 +143,7 @@
     <string name="ThreeWCMmi">Üç tərəfli zəng</string>
     <string name="VideoView_error_button">Oldu</string>
     <string name="VideoView_error_text_invalid_progressive_playback">"Bu video, bu cihazda axın üçün yararlı deyil."</string>
-    <string name="VideoView_error_text_unknown">"Bu video oynadıla bilmir."</string>
+    <string name="VideoView_error_text_unknown">"Bu video oxudula bilmir."</string>
     <string name="VideoView_error_title">Video problemi</string>
     <string name="accept">Qəbul et</string>
     <string name="accessibility_binding_label">Əlçatımlılıq</string>
@@ -170,6 +170,8 @@
     <string name="accessibility_shortcut_enabling_service">Səs düymələrinə basılı saxlayın. %1$s işə salındı.</string>
     <string name="accessibility_shortcut_menu_item_status_off">BAĞLI</string>
     <string name="accessibility_shortcut_menu_item_status_on">AÇIQ</string>
+    <string name="accessibility_shortcut_multiple_service_list">" • %1$s
+"</string>
     <string name="accessibility_shortcut_multiple_service_warning">"Hər iki səs düyməsini bir neçə saniyə ərzində basılı saxlamaq, əlçatımlılıq özəlliklərini işə salır. Bu cihazın işləmə formasını dəyişdirə bilər.
 
 Hazırkı özəlliklər:
@@ -187,7 +189,13 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="accessibility_shortcut_warning_dialog_title">Əlçatımlılıq qısayolu istifadə edilsin?</string>
     <string name="accessibility_system_action_back_label">Geri</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Bildiriş panelini bağla</string>
+    <string name="accessibility_system_action_dpad_center_label">Dpad Mərkəzi</string>
+    <string name="accessibility_system_action_dpad_down_label">Dpad Aşağı</string>
+    <string name="accessibility_system_action_dpad_left_label">Dpad Sol</string>
+    <string name="accessibility_system_action_dpad_right_label">Dpad Sağ</string>
+    <string name="accessibility_system_action_dpad_up_label">Dpad Yuxarı</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Əlçatımlılıq qısayolu</string>
+    <string name="accessibility_system_action_headset_hook_label">Qulaqlıq qarmağı</string>
     <string name="accessibility_system_action_home_label">Əsas səhifə</string>
     <string name="accessibility_system_action_lock_screen_label">Kilid ekran</string>
     <string name="accessibility_system_action_notifications_label">Bildirişlər</string>
@@ -263,6 +271,15 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="app_not_found">Bu əməliyyatı idarə etmək üçün heç bir tətbiq tapılmadı</string>
     <string name="app_running_notification_text">Daha çox məlumat almaq və ya tətbiqi dayandırmaq üçün toxunun.</string>
     <string name="app_running_notification_title">%1$s işləyir</string>
+    <string name="app_streaming_blocked_message">Buna %1$s üzərindən müraciət edilə bilməz. Əvəzində telefonunuzla cəhd edin.</string>
+    <string name="app_streaming_blocked_message_for_fingerprint_dialog">Bu tətbiq əlavə güvənlik tələb edir. Əvəzində telefonunuzla cəhd edin.</string>
+    <string name="app_streaming_blocked_message_for_permission_dialog">Hazırda buna %1$s üzərindən müraciət edilə bilməz. Əvəzində telefonunuzla cəhd edin.</string>
+    <string name="app_streaming_blocked_title">%1$s əlçatmazdır</string>
+    <string name="app_streaming_blocked_title_for_camera_dialog">Kamera əlçatmazdır</string>
+    <string name="app_streaming_blocked_title_for_fingerprint_dialog">Telefonda davam et</string>
+    <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon əlçatmazdır</string>
+    <string name="app_streaming_blocked_title_for_permission_dialog">İcazə lazımdır</string>
+    <string name="app_streaming_blocked_title_for_settings_dialog">Telefon tənzimləmələri əlçatmazdır</string>
     <string name="app_suspended_default_message">%1$s, hal-hazırda əlçatmazdır. Bu, %2$s tərəfindən idarə olunur.</string>
     <string name="app_suspended_more_details">Daha ətraflı</string>
     <string name="app_suspended_title">Tətbiq əlçatmazdır</string>
@@ -286,6 +303,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="autofill_phone_suffix_re">şəkilçi</string>
     <string name="autofill_picker_accessibility_title">Avto-doldurma seçimləri</string>
     <string name="autofill_picker_no_suggestions">Avto-doldurma təklifi yoxdur</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, one {}=1 {Bir avto-doldurma təklifi} other {# avto-doldurma təklifləri} }</string>
     <string name="autofill_postal_code">Poçt kodu</string>
     <string name="autofill_prefecture">Prefektura</string>
     <string name="autofill_province">Vilayət</string>
@@ -319,7 +337,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="back_button_label">Geri</string>
     <string name="badPin">"Yazdığınız köhnə PIN doğru deyil."</string>
     <string name="badPuk">"Yazdığınız PUK doğru deyil."</string>
-    <string name="battery_saver_charged_notification_summary">Telefon yetərincə enerji yığdı. Özəlliklər artıq məhdud deyil.</string>
+    <string name="battery_saver_charged_notification_summary">Telefon yetərincə dolub. Özəlliklər artıq məhdud deyil.</string>
     <string name="battery_saver_description">Batareya Qənaəti, Qaranlıq temanı açır, arxaplan fəaliyyətini, bəzi vizual effektləri, müəyyən özəllikləri və bəzi şəbəkə bağlantılarını məhdudlaşdırır və ya söndürür.</string>
     <string name="battery_saver_description_with_learn_more">Batareya Qənaəti, Qaranlıq temanı açır, arxaplan fəaliyyətini, bəzi vizual effektləri, müəyyən özəllikləri və bəzi şəbəkə bağlantılarını məhdudlaşdırır və ya söndürür.</string>
     <string name="battery_saver_notification_channel_name">Batareya Qənaəti</string>
@@ -336,8 +354,10 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="biometric_not_recognized">Tanınmadı</string>
     <string name="biometric_or_screen_lock_app_setting_name">Biometrik və ya ekran kilidi istifadə et</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Davam etmək üçün biometrik və ya ekran kilidi istifadə edin</string>
+    <string name="bluetooth_a2dp_audio_route_id">bluetooth_a2dp_audio_route</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth səs</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth, təyyarə rejimində açıq qalacaq</string>
+    <string name="bugreport_countdown">{count, plural, one {}=1 {# saniyəyə xəta hesabatı üçün ekran şəkli çəkilir.} other {# saniyəyə xəta hesabatı üçün ekran şəkli çəkilir.} }</string>
     <string name="bugreport_message">Bu, e-poçt məktubu kimi göndərmək üçün cihazınızın hazırkı vəziyyəti barədə məlumatları yığır. Xəta hesabatının başladılmasından göndərilməyə hazır hala gətirilməsi bir az vaxt aparır. Zəhmət olmasa səbrli olun.</string>
     <string name="bugreport_option_full_summary">Cihazınız cavab verməyəndə və ya çox yavaşlayanda və ya bütün hesabat bölmələrinə ehtiyacınız olanda sistemə müdaxiləni minimuma endirmək üçün bu seçimi istifadə edin. Daha ətraflı məlumat daxil etməyə və ya ekran şəkilləri əlavə etməyə icazə verilmir.</string>
     <string name="bugreport_option_full_title">Tam hesabat</string>
@@ -358,7 +378,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="candidates_style"><u>namizədlər</u></string>
     <string name="capability_desc_canCaptureFingerprintGestures">"Cihazın barmaq izi sensorunda edilən jestləri yaxalaya bilər."</string>
     <string name="capability_desc_canControlMagnification">"Ekranın yaxınlaşdırma səviyyəsi və mövqeyinə nəzarət edin."</string>
-    <string name="capability_desc_canPerformGestures">Toxuna, sürüşdürə, sıxışdıra və digər jestləri edə bilər.</string>
+    <string name="capability_desc_canPerformGestures">Toxuna, sürüşdürə, çimdikləyə və digər jestləri edə bilər.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Kredit kartı nömrələri və parollar kimi şəxsi məlumatlar daxildir.</string>
     <string name="capability_desc_canRequestTouchExploration">Toxunulan elementlər səsli olaraq oxunulacaq və jestlər istifadə edilərək ekran kəşf ediləcək.</string>
     <string name="capability_desc_canRetrieveWindowContent">"Qarşılıqlı əlaqədə olduğunuz pəncərənin məzmununu yoxlayır."</string>
@@ -391,10 +411,13 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="clearDefaultHintMsg">Sistem tənzimləmələri &gt; Tətbiq &gt; \"Endirilənlər\"də ilkin tənzimləməni təmizləyin.</string>
     <string name="close_button_text">Bağla</string>
     <string name="color_correction_feature_name">Rəng düzəltmə</string>
-    <string name="color_inversion_feature_name">Rəngi tərsinə çevirmə</string>
+    <string name="color_inversion_feature_name">Rəngi inversiyası</string>
     <string name="common_name">Ortaq ad:</string>
     <string name="condition_provider_service_binding_label">Vəziyyət provayderi</string>
     <string name="conference_call">Konfrans zəngi</string>
+    <string name="config_cameraShutterSound">/product/media/audio/ui/camera_click.ogg</string>
+    <string name="config_tcp_buffers">2097152,6291456,16777216,512000,2097152,8388608</string>
+    <string name="config_work_badge_path_24">M20,6h-4L16,4c0,-1.11 -0.89,-2 -2,-2h-4c-1.11,0 -2,0.89 -2,2v2L4,6c-1.11,0 -1.99,0.89 -1.99,2L2,19c0,1.11 0.89,2 2,2h16c1.11,0 2,-0.89 2,-2L22,8c0,-1.11 -0.89,-2 -2,-2zM14,6h-4L10,4h4v2z</string>
     <string name="confirm_battery_saver">Oldu</string>
     <string name="console_running_notification_message">Performans təsirlənir. Sıradan çıxartmaq üçün \"bootloader\"i yoxlayın.</string>
     <string name="console_running_notification_title">Serial konsolu fəaldır</string>
@@ -448,6 +471,7 @@ kontakt yarat"</string>
     <string name="decline_remote_bugreport_action">RƏDD ET</string>
     <string name="defaultVoiceMailAlphaTag">Səsli mesaj</string>
     <string name="default_audio_route_category_name">Sistem</string>
+    <string name="default_audio_route_id">default_audio_route</string>
     <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_dock_speakers">Yuva dinamikləri</string>
     <string name="default_audio_route_name_headphones">Qulaqlıqlar</string>
@@ -463,6 +487,7 @@ kontakt yarat"</string>
     <string name="deprecated_target_sdk_message">Bu tətbiq, Android-in köhnə bir versiyası üçün hazırlanıb və düzgün işləməyə bilər. Güncəlləmələri yoxlamağa çalışın və ya tərtibatçı ilə əlaqə saxlayın.</string>
     <string name="description_target_unlock_tablet">Kilidi açmaq üçün sürüşdür.</string>
     <string name="device_ownership_relinquished">Admin, cihazı şəxsi istifadə üçün sərbəst buraxdı</string>
+    <string name="device_policy_manager_service">Cihaz Siyasəti Meneceri Xidməti</string>
     <string name="device_storage_monitor_notification_channel">Cihaz anbarı</string>
     <string name="dial_number_using">"%s istifadə edərək
 nömrəni yığın"</string>
@@ -471,6 +496,7 @@ nömrəni yığın"</string>
     <string name="dismiss_action">Bağla</string>
     <string name="display_manager_built_in_display_name">Daxili ekran</string>
     <string name="display_manager_hdmi_display_name">HDMI Ekran</string>
+    <string name="display_manager_overlay_display_name">Örtük #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, güvənli</string>
     <string name="dlg_ok">Oldu</string>
     <string name="done_accessibility_shortcut_menu_button">Hazırdır</string>
@@ -479,10 +505,29 @@ nömrəni yığın"</string>
     <string name="dump_heap_notification">%1$s, yaddaş limitini aşdı</string>
     <string name="dump_heap_notification_detail">Yığın tullantı yığıldı. Paylaşmaq üçün toxunun.</string>
     <string name="dump_heap_ready_notification">%1$s yığın tullantı hazırdır</string>
+    <string name="dump_heap_ready_text">Paylaşmağınız üçün %1$s prosesinin yığın tullantısı mövcuddur. Diqqətli olun: bu yığın tullantısı prosesin müraciət edə bildiyi yazdığınız şeylər də daxil olmaqla hər növ həssas şəxsi məlumatları ehtiva edə bilər.</string>
+    <string name="dump_heap_system_text">%1$s prosesi %2$s yaddaş limitini aşdı. Paylaşmaq üçün bir yığın tullantısı mövcuddur. Diqqətli olun: bu yığın tullantısı prosesin müraciət edə bildiyi yazdığınız şeylər də daxil olmaqla hər növ həssas şəxsi məlumatları ehtiva edə bilər.</string>
+    <string name="dump_heap_text">%1$s prosesi %2$s yaddaş limitini aşdı. Tərtibatçısı ilə paylaşmaq üçün bir yığın tullantısı mövcuddur. Diqqətli olun: bu yığın tullantısı tətbiqlərin müraciət edə bildiyi hər hansısa şəxsi məlumatlarınızı ehtiva edə bilər.</string>
     <string name="dump_heap_title">Yığın tullantısı paylaşılsın?</string>
+    <string name="duration_days_relative">{count, plural, one {}=1 {# gün əvvəl} other {# gün əvvəl} }</string>
+    <string name="duration_days_relative_future">{count, plural, one {}=1 {# gün} other {# gün} }</string>
+    <string name="duration_days_shortest">%d gü</string>
+    <string name="duration_days_shortest_future">%d gün ərz</string>
+    <string name="duration_hours_relative">{count, plural, one {}=1 {# saat əvvəl} other {# saat əvvəl} }</string>
+    <string name="duration_hours_relative_future">{count, plural, one {}=1 {# saat} other {# saat} }</string>
+    <string name="duration_hours_shortest">%d sa</string>
+    <string name="duration_hours_shortest_future">%d sa ərz</string>
+    <string name="duration_minutes_relative">{count, plural, one {}=1 {# dəqiqə əvvəl} other {# dəqiqə əvvəl} }</string>
+    <string name="duration_minutes_relative_future">{count, plural, one {}=1 {# dəqiqə} other {# dəqiqə} }</string>
+    <string name="duration_minutes_shortest">%d dəq</string>
+    <string name="duration_minutes_shortest_future">%d dəq ərz</string>
+    <string name="duration_years_relative">{count, plural, one {}=1 {# il əvvəl} other {# il əvvəl} }</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# il} other {# il} }</string>
+    <string name="duration_years_shortest">%d il</string>
+    <string name="duration_years_shortest_future">%d il ərz</string>
     <string name="dynamic_mode_notification_channel_name">Rutin rejim məlumat bildirişi</string>
     <string name="dynamic_mode_notification_summary">Batareya ömrünü uzatmaq üçün Batareyaya Qənaət aktivləşdirildi</string>
-    <string name="dynamic_mode_notification_title">Batareya adi enerji yığımından əvvəl bitə bilər</string>
+    <string name="dynamic_mode_notification_title">Batareya adi doldurmadan əvvəl bitə bilər</string>
     <string name="editTextMenuTitle">Mətn əməliyyatları</string>
     <string name="edit_accessibility_shortcut_menu_button">Qısayollara düzəliş et</string>
     <string name="emailTypeCustom">Özəl</string>
@@ -490,16 +535,17 @@ nömrəni yığın"</string>
     <string name="emailTypeMobile">Mobil</string>
     <string name="emailTypeOther">Digər</string>
     <string name="emailTypeWork">İş</string>
-    <string name="emergency_call_dialog_number_for_display">Fövqəladə vəziyyət nömrəsi</string>
-    <string name="emergency_calls_only">Yalnız fövqəladə vəziyyət zəngləri</string>
+    <string name="emergency_call_dialog_number_for_display">Fövqəladə hal nömrəsi</string>
+    <string name="emergency_calls_only">Yalnız fövqəladə hal zəngləri</string>
     <string name="emptyPhoneNumber">(Telefon nömrəsi yoxdur)</string>
     <string name="enablePin">Uğursuz, SIM/RUIM kilidini fəallaşdırın.</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s, \"Toxunaraq kəşf et\"i fəallaşdırmaq istəyir. \"Toxunaraq kəşf et\" işə salındıqda, barmağınızın altındakı elementlərin açıqlamalarını eşidə və ya görə bilərsiniz və ya telefonla qarşılıqlı əlaqə qurmaq üçün jestləri icra edə bilərsiniz."</string>
     <string name="enable_explore_by_touch_warning_title">\"Toxunaraq kəşf et\" fəallaşdırılsın?</string>
     <string name="error_message_change_not_allowed">"Admin bu dəyişikliyə icazə vermir"</string>
     <string name="error_message_title">Xəta</string>
     <string name="etws_primary_default_message_earthquake">Sakit olun və yaxınlıqda sığınacaq axtarın.</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">Sakit olun və yaxınlıqda sığınacaq axtarın.</string>
-    <string name="etws_primary_default_message_test">Fövqəladə vəziyyət mesaj testi</string>
+    <string name="etws_primary_default_message_test">Fövqəladə hal mesaj testi</string>
     <string name="etws_primary_default_message_tsunami">Sahilyanı bölgələri və çay kənarındakı əraziləri dərhal tərk edərək yüksək yer kimi daha güvənli yerlərə gedin.</string>
     <string name="eventTypeAnniversary">İldönümü</string>
     <string name="eventTypeBirthday">Doğum günü</string>
@@ -522,7 +568,7 @@ nömrəni yığın"</string>
     <string name="ext_media_move_specific_title">%s daşınır</string>
     <string name="ext_media_move_success_message">Məzmun bura daşındı: %s</string>
     <string name="ext_media_move_success_title">Məzmun transferi tamamlandı</string>
-    <string name="ext_media_move_title">Verilənlər daşınır</string>
+    <string name="ext_media_move_title">Data daşınır</string>
     <string name="ext_media_new_notification_message">Quraşdırmaq üçün toxunun</string>
     <string name="ext_media_new_notification_title">Yeni %s</string>
     <string name="ext_media_nomedia_notification_message">Bəzi funksionallıq düzgün işləməyə bilər. Yeni anbar daxil edin.</string>
@@ -592,6 +638,7 @@ nömrəni yığın"</string>
     <string name="face_recalibrate_notification_content">Üz modelini silmək üçün toxunun, daha sonra üzünüzü yenidən əlavə edin</string>
     <string name="face_recalibrate_notification_name">Üzlə kilid açma</string>
     <string name="face_recalibrate_notification_title">Üzlə kilid açma problemi</string>
+    <string name="face_sensor_privacy_enabled">Üzlə kilid açmanı istifadə etmək üçün Tənzimləmələr &gt; \"Gizlilik\"də <b>Kamera müraciətini</b> işə salın</string>
     <string name="face_setup_notification_content">Telefona baxaraq kilidi açın</string>
     <string name="face_setup_notification_title">Üzlə kilid açmanı quraşdırın</string>
     <string name="faceunlock_multiple_failures">Üzlə kilid açma üçün maksimum cəhd sayı keçildi</string>
@@ -608,14 +655,19 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Özəllik kodu tamamlandı.</string>
     <string name="fcError">Bağlantı problemi və ya yararsız özəllik kodu.</string>
+    <string name="file_count">{count, plural, one {}=1 {{file_name} + # fayl} other {{file_name} + # fayl} }</string>
     <string name="find">Tap</string>
     <string name="find_next">Növbətini tap</string>
     <string name="find_on_page">Səhifədə tap</string>
     <string name="find_previous">Əvvəlkini tap</string>
     <string name="fingerprint_acquired_already_enrolled">Başqa barmaq izini sınayın</string>
+    <string name="fingerprint_acquired_imager_dirty">Barmaq izi sensorunu təmizləyib yenidən sınayın</string>
+    <string name="fingerprint_acquired_imager_dirty_alt">Sensoru təmizləyib yenidən sınayın</string>
     <string name="fingerprint_acquired_immobile">Hər dəfə barmağınızın yerini bir qədər dəyişdirin</string>
     <string name="fingerprint_acquired_insufficient">"Barmaq izi emal oluna bilmədi. Zəhmət olmasa yenidən sınayın."</string>
+    <string name="fingerprint_acquired_partial">Sensora möhkəm basın</string>
     <string name="fingerprint_acquired_too_bright">Çox parlaq</string>
+    <string name="fingerprint_acquired_too_fast">Sensora möhkəm basın</string>
     <string name="fingerprint_acquired_too_slow">Barmaq hərəkəti çox yavaşdır. Zəhmət olmasa yenidən sınayın.</string>
     <string name="fingerprint_acquired_try_adjusting">Nizamlamağa çalışın</string>
     <string name="fingerprint_app_setting_name">Barmaq izi istifadə et</string>
@@ -627,8 +679,9 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_error_hw_not_present">Bu cihazda barmaq izi sensoru yoxdur.</string>
     <string name="fingerprint_error_lockout">Həddindən çox cəhd edildi. Daha sonra yenidən sınayın.</string>
     <string name="fingerprint_error_lockout_permanent">Həddindən çox cəhd edildi. Barmaq izi sensoru sıradan çıxarıldı.</string>
-    <string name="fingerprint_error_no_fingerprints">Barmaq izi qeydə alınmayıb.</string>
+    <string name="fingerprint_error_no_fingerprints">Heç bir barmaq izi yazılmayıb.</string>
     <string name="fingerprint_error_no_space">Barmaq izi tənzimlənə bilmir</string>
+    <string name="fingerprint_error_not_match">Barmaq izi tanınmadı</string>
     <string name="fingerprint_error_security_update_required">Sensor müvəqqəti olaraq sıradan çıxarıldı.</string>
     <string name="fingerprint_error_timeout">Barmaq izinin vaxtı bitdi. Yenidən sınayın.</string>
     <string name="fingerprint_error_unable_to_process">Yenidən sına.</string>
@@ -643,6 +696,7 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_recalibrate_notification_title">Barmaq izi sensoru istifadə edilə bilmir</string>
     <string name="fingerprint_setup_notification_content">Barmaq izi əlavə etmək üçün toxunun</string>
     <string name="fingerprint_setup_notification_title">Kilidi açmaq üçün daha çox üsul tənzimləyin</string>
+    <string name="fingerprint_udfps_error_not_match">Barmaq izi tanınmadı</string>
     <string name="fingerprints">Barmaq izləri:</string>
     <string name="floating_toolbar_close_overflow_description">Daşmanı bağla</string>
     <string name="floating_toolbar_open_overflow_description">Daha çox seçim</string>
@@ -652,14 +706,23 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="foreground_service_tap_for_details">Batareya və internet istifadəsi üzrə detallar üçün toxunun</string>
     <string name="forward_intent_to_owner">"Bu tətbiqi iş profilinizdən kənarda istifadə edirsiniz"</string>
     <string name="forward_intent_to_work">"Bu tətbiqi iş profilinizdə istifadə edirsiniz"</string>
+    <string name="fp_power_button_bp_message">"Güc düyməsinə basdınız — bu, adətən ekranı söndürür.
+
+Barmaq izinizi təsdiqləmək üçün yüngülcə toxunmağa çalışın."</string>
     <string name="fp_power_button_bp_negative_button">Davam</string>
     <string name="fp_power_button_bp_positive_button">Ekranı söndür</string>
+    <string name="fp_power_button_bp_title">Barmaq izinizi yoxlamağa davam edirsiniz?</string>
+    <string name="fp_power_button_enrollment_message">"Güc düyməsinə basdınız — bu, adətən ekranı söndürür.
+
+Barmaq izinizi quraşdırarkən yüngülcə toxunmağa çalışın."</string>
+    <string name="fp_power_button_enrollment_negative_button">Quraşdırmağa davam et</string>
     <string name="fp_power_button_enrollment_positive_button">Ekranı söndür</string>
+    <string name="fp_power_button_enrollment_title">Quraşdırmağa davam edilsin?</string>
     <string name="gadget_host_error_inflating">"Vicet əlavə edilə bilmədi."</string>
     <string name="geofencing_service">Coğrafi Sərhəd xidməti</string>
     <string name="global_action_assist">Kömək</string>
     <string name="global_action_bug_report">Xəta hesabatı</string>
-    <string name="global_action_emergency">Fövqəladə vəziyyət</string>
+    <string name="global_action_emergency">Fövqəladə hal</string>
     <string name="global_action_lock">Ekran kilidi</string>
     <string name="global_action_lockdown">Kilidləmə</string>
     <string name="global_action_logout">Seansı bitir</string>
@@ -841,6 +904,7 @@ Bu səhifəni tərk etmək istədiyinizə əminsiniz?"</string>
     <string name="language_picker_section_suggested">Təklif edilən</string>
     <string name="language_selection_title">Bir dil əlavə et</string>
     <string name="last_month">Keçən ay</string>
+    <string name="last_num_days">{ count, plural, one {}=1 {Son # gün} other {Son # gün} }</string>
     <string name="launchBrowserDefault">Brauzer başladılsın?</string>
     <string name="launch_warning_original">Əvvəlcə %1$s başladıldı.</string>
     <string name="launch_warning_replace">%1$s indi işləyir.</string>
@@ -860,9 +924,9 @@ Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda bas
 Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın."</string>
     <string name="lock_to_app_toast">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın.</string>
     <string name="lock_to_app_toast_accessible">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın.</string>
-    <string name="lock_to_app_unlock_password">Sancağı götürməzdən əvvəl parol soruşulsun</string>
-    <string name="lock_to_app_unlock_pattern">Sancağı götürməzdən əvvəl kilid açma naxışı soruşulsun</string>
-    <string name="lock_to_app_unlock_pin">Sancağı götürməzdən əvvəl PIN soruşulsun</string>
+    <string name="lock_to_app_unlock_password">Sancağı götürməzdən əvvəl parol soruş</string>
+    <string name="lock_to_app_unlock_pattern">Sancağı götürməzdən əvvəl kilid açma naxışını soruş</string>
+    <string name="lock_to_app_unlock_pin">Sancağı götürməzdən əvvəl PIN soruş</string>
     <string name="lockscreen_access_pattern_area">Naxış sahəsi.</string>
     <string name="lockscreen_access_pattern_cell_added">Hüceyrə əlavə edildi</string>
     <string name="lockscreen_access_pattern_cell_added_verbose">%1$s hüceyrəsi əlavə edildi</string>
@@ -870,6 +934,7 @@ Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda bas
     <string name="lockscreen_access_pattern_detected">Naxış tamamlandı</string>
     <string name="lockscreen_access_pattern_start">Naxış başladıldı</string>
     <string name="lockscreen_carrier_default">Xidmət yoxdur</string>
+    <string name="lockscreen_emergency_call">Fövqəladə hal</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Telefon kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra telefonunuz fabrik tənzimləmələrinə sıfırlanacaq və bütün istifadəçi verilənləri silinəcək.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Naxışın kilidini açmaq üçün %1$d dəfə yanlış çəkdiniz. Daha %2$d uğursuz cəhddən sonra Google giriş məlumatlarınızı istifadə edərək telefon kilidinin açılması soruşulacaq.
 
@@ -887,7 +952,7 @@ Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda bas
     <string name="lockscreen_glogin_too_many_attempts">Həddindən çox naxış cəhdi</string>
     <string name="lockscreen_glogin_username_hint">İstifadәçi adı (e-poçt)</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Kilidi açmaq üçün \"Menyu\"ya basın.</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">Kilidi açmaq və fövqəladə vəziyyət zəngi etmək üçün \"Menyu\"ya basın.</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">Kilidi açmaq və fövqəladə hal zəngi etmək üçün \"Menyu\"ya basın.</string>
     <string name="lockscreen_missing_sim_instructions">SIM kart taxın.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM kart yoxdur və ya oxuna bilmir. Bir SIM kart taxın.</string>
     <string name="lockscreen_missing_sim_message">Telefonda SIM kart yoxdur.</string>
@@ -928,7 +993,13 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="lockscreen_transport_stop_description">Dayandır</string>
     <string name="lockscreen_unlock_label">Əngəldən çıxart</string>
     <string name="log_access_confirmation_allow">Birdəfəlik müraciətə icazə ver</string>
+    <string name="log_access_confirmation_body">"Cihaz jurnalları, cihazınızda nə baş verdiyini yazır. Tətbiqlər, problemləri tapmaq və düzəltmək üçün bu jurnalları istifadə edə bilər.
+
+Bəzi jurnallar həssas məlumatlar ehtiva edə bilər, buna görə də yalnız güvəndiyiniz tətbiqlərin bütün cihaz jurnallarına müraciət etməsinə icazə verin. 
+
+Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsəniz, öz jurnallarına müraciət etməyə davam edəcək. Cihaz istehsalçısı, cihazınızdakı bəzi jurnallara və ya məlumatlara hələ də müraciət edə bilər. Daha ətraflı"</string>
     <string name="log_access_confirmation_deny">İcazə verməyin</string>
+    <string name="log_access_confirmation_title">%s üçün bütün cihaz jurnallarına müraciət icazəsi verilsin?</string>
     <string name="log_access_do_not_show_again">Təkrar göstərmə</string>
     <string name="low_internal_storage_view_text">Bəzi sistem funksiyaları işləməyə bilər</string>
     <string name="low_internal_storage_view_text_no_boot">Sistem üçün yetərli anbar sahəsi yoxdur. 250 MB boş sahənin olduğuna əmin olun və yenidən başladın.</string>
@@ -938,6 +1009,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="managed_profile_label_badge">%1$s - iş</string>
     <string name="managed_profile_label_badge_2">%1$s - 2-ci iş</string>
     <string name="managed_profile_label_badge_3">%1$s - 3-cü iş</string>
+    <string name="matches_found">{ count, plural, one {}=1 {# uyğunluq} other {#/{total}} }</string>
     <string name="maximize_button_text">Maksimallaşdır</string>
     <string name="me">Mən</string>
     <string name="media_route_button_content_description">Yayım</string>
@@ -993,6 +1065,8 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="mime_type_spreadsheet_ext">%1$s elektron cədvəl</string>
     <string name="mime_type_video">Video</string>
     <string name="mime_type_video_ext">%1$s video</string>
+    <string name="miniresolver_open_in_personal">%s şəxsi profilinizdə açılsın?</string>
+    <string name="miniresolver_open_in_work">%s iş profilinizdə açılsın?</string>
     <string name="miniresolver_use_personal_browser">Şəxsi brauzer istifadə et</string>
     <string name="miniresolver_use_work_browser">İş brauzeri istifadə et</string>
     <string name="minute">dəq</string>
@@ -1014,6 +1088,8 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="mobile_no_internet">Mobil şəbəkənin internetə müraciəti yoxdur</string>
     <string name="more_item_label">Daha çox</string>
     <string name="move_button_text">Bütün pəncərəni hərəkət etdirmək üçün çərçivə düyməsinə toxunun</string>
+    <string name="mte_override_notification_message">Performans və stabillik təsirlənə bilər. Sıradan çıxartmaq üçün yenidən başladın. Əgər arm64.memtag.bootctl istifadə edərək fəallaşdırılıbsa, onu əvvəlcədən yoxdur olaraq tənzimləyin.</string>
+    <string name="mte_override_notification_title">Təcrübi MTE fəaldır</string>
     <string name="music_recognition_manager_service">Musiqi Tanıma Meneceri Xidməti</string>
     <string name="muted_by">%1$s, bəzi səsləri söndürür</string>
     <string name="nas_upgrade_notification_content">Təklif edilən əməliyyatlar və cavablar artıq təkmil bildirişlər tərəfindən təmin edilir. Android Adaptiv Bildirişləri artıq dəstəklənmir.</string>
@@ -1049,12 +1125,14 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="noon">günorta</string>
     <string name="not_checked">işarələnmədi</string>
     <string name="not_selected">seçilmədi</string>
+    <string name="notification_action_check_bg_apps">Aktiv tətbiqləri yoxla</string>
     <string name="notification_alerted_content_description">Xəbərdarlıq göndərildi</string>
     <string name="notification_app_name_settings">Tənzimləmələr</string>
     <string name="notification_app_name_system">Sistem</string>
     <string name="notification_appops_camera_active">Kamera</string>
     <string name="notification_appops_microphone_active">Mikrofon</string>
     <string name="notification_appops_overlay_active">ekranınızdakı digər tətbiqlərin üzərində göstərilir</string>
+    <string name="notification_channel_abusive_bg_apps">Arxaplan Fəaliyyəti</string>
     <string name="notification_channel_accessibility_magnification">Böyütmə</string>
     <string name="notification_channel_accessibility_security_policy">Əlçatımlılıq istifadəsi</string>
     <string name="notification_channel_account">Hesab vəziyyəti</string>
@@ -1086,9 +1164,14 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_channel_voice_mail">Səsli mesajlar</string>
     <string name="notification_channel_vpn">VPN vəziyyəti</string>
     <string name="notification_channel_wfc">Wi-Fi zəngi</string>
+    <string name="notification_content_abusive_bg_apps">%1$s arxaplanda işləyir. Batareya istifadəsini idarə etmək üçün toxunun.</string>
+    <string name="notification_content_long_running_fgs">%1$s batareyanın ömrünə təsir edə bilər. Aktiv tətbiqləri incələmək üçün toxunun.</string>
     <string name="notification_description">Səsli zəng vəziyyəti</string>
     <string name="notification_feedback_indicator">Əks-əlaqə ver</string>
     <string name="notification_feedback_indicator_alerted">Bu bildiriş, \"İlkin\" səviyyəsinə yüksəldildi. Əks-əlaqə vermək üçün toxunun.</string>
+    <string name="notification_feedback_indicator_demoted">Bu bildiriş daha aşağı sıralandı. Əks-əlaqə vermək üçün toxunun.</string>
+    <string name="notification_feedback_indicator_promoted">Bu bildiriş daha yüksək sıralandı. Əks-əlaqə vermək üçün toxunun.</string>
+    <string name="notification_feedback_indicator_silenced">Bu bildiriş \"Səssiz\" vəziyyətinə salındı. Əks-əlaqə vermək üçün toxunun.</string>
     <string name="notification_hidden_text">Yeni bildiriş</string>
     <string name="notification_history_title_placeholder">Özəl tətbiq bildirişi</string>
     <string name="notification_listener_binding_label">Bildiriş dinləyici</string>
@@ -1096,6 +1179,8 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_ranker_binding_label">Bildiriş sıralama xidməti</string>
     <string name="notification_reply_button_accessibility">Cavabla</string>
     <string name="notification_title">%1$s üçün giriş xətası</string>
+    <string name="notification_title_abusive_bg_apps">Bir tətbiq batareyanı boşaldır</string>
+    <string name="notification_title_long_running_fgs">Bir tətbiq hələ də aktivdir</string>
     <string name="notification_verified_content_description">Təsdiqləndi</string>
     <string name="notification_work_profile_content_description">İş profili</string>
     <string name="now_string_shortest">i̇ndi</string>
@@ -1153,6 +1238,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_backgroundCamera">Bu tətbiq, istənilən vaxt kameranı istifadə edərək şəkil və video çəkə bilər.</string>
     <string name="permdesc_bindCarrierMessagingService">Sahibinin, operator mesajlaşma xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_bindCarrierServices">Sahibinin, operator xidmətlərinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
+    <string name="permdesc_bindCellBroadcastService">Tətbiqin, operator yayım mesajlarını alındığı kimi yönləndirmək üçün operator yayım moduluna bağlanmasına icazə verir. Fövqəladə hallarda sizə xəbərdarlıq etmək üçün bəzi yerlərdə operator yayım siqnalları çatdırılır. Zərərli tətbiqlər, fövqəladə operator yayımını aldıqda cihazınızın performansına və ya işləməsinə müdaxilə edə bilər.</string>
     <string name="permdesc_bindConditionProviderService">Sahibinin, şərt provayderi xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_bindDreamService">Sahibinin, bir \"dream\" xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_bindNotificationListenerService">Sahibinin, bildiriş dinləyici xidmətinin üst səviyyəli interfeysinə bağlanmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
@@ -1163,9 +1249,11 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_bluetooth_advertise">Tətbiqin, yaxınlıqdakı Bluetooth cihazlarına reklam verməsinə icazə verir</string>
     <string name="permdesc_bluetooth_connect">Tətbiqin, cütləşmiş Bluetooth cihazları ilə bağlantı qurmasına icazə verir</string>
     <string name="permdesc_bluetooth_scan">Tətbiqin, yaxınlıqdakı Bluetooth cihazlarını kəşf etməsinə və onlarla cütləşməsinə icazə verir</string>
+    <string name="permdesc_bodySensors">Tətbiqin, tətbiq istifadə edilərkən ürək döyüntüsü, temperatur və qandakı oksigen faizi kimi bədən sensor datasına müraciət etməsinə icazə verir.</string>
+    <string name="permdesc_bodySensors_background">Tətbiqin, tətbiq arxaplanda işləyərkən ürək döyüntüsü, temperatur və qandakı oksigen faizi kimi bədən sensor datasına müraciət etməsinə icazə verir.</string>
     <string name="permdesc_broadcastSticky">Tətbiqin, yayım bitdikdən sonra qalan sabit yayımlar göndərməsinə icazə verir. Həddindən artıq istifadə çox yaddaş istifadəsinə səbəb olmaqla telefonu yavaşlandıra və ya qeyri-stabil edə bilər.</string>
     <string name="permdesc_callCompanionApp">Tətbiqin, cihazdakı gedən zənglərə baxmasına və nəzarət etməsinə icazə verir. Bura zəng edilən nömrələr və zənglərin vəziyyəti kimi məlumatlar daxildir.</string>
-    <string name="permdesc_callPhone">"Tətbiqin, müdaxiləniz olmadan telefon nömrələrinə zəng etməsinə icazə verir. Bu, gözlənilməz xərclərə və ya zənglərə səbəb ola bilər. Unutmayın, bu icazə, tətbiqin fövqəladə vəziyyət nömrələrinə zəng etməsinə imkan vermir. Zərərli tətbiqlər, təsdiqiniz olmadan zənglər edərək sizi xərcə sala bilər."</string>
+    <string name="permdesc_callPhone">"Tətbiqin, müdaxiləniz olmadan telefon nömrələrinə zəng etməsinə icazə verir. Bu, gözlənilməz xərclərə və ya zənglərə səbəb ola bilər. Unutmayın, bu icazə, tətbiqin fövqəladə hal nömrələrinə zəng etməsinə imkan vermir. Zərərli tətbiqlər, təsdiqiniz olmadan zənglər edərək sizi xərcə sala bilər."</string>
     <string name="permdesc_camera">Bu tətbiq, tətbiq istifadə edilərkən kameranı istifadə edərək şəkil və video çəkə bilər.</string>
     <string name="permdesc_cameraOpenCloseListener">Bu tətbiq, istənilən kamera cihazı açılanda (kameranı açan tətbiq tərəfindən) və ya bağlanılanda geri zənglər ala bilər.</string>
     <string name="permdesc_changeNetworkState">Tətbiqin, şəbəkə bağlantısının vəziyyətini dəyişdirməsinə icazə verir.</string>
@@ -1176,7 +1264,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_connection_manager">Tətbiqin, telekom bağlantılarını idarə etməsinə icazə verir.</string>
     <string name="permdesc_control_incall_experience">Tətbiqin, zəng daxili istifadəçi təcrübəsini təmin etməsinə icazə verir.</string>
     <string name="permdesc_createNetworkSockets">Tətbiqin, şəbəkə yuvalarını yaratmasına və özəl şəbəkə protokollarını istifadə etməsinə icazə verir. Brauzer və digər tətbiqlər, internetə verilənlər göndərmək üçün alətlər təmin edir, buna görə də, internetə verilənlər göndərmək üçün bu icazə tələb olunmur.</string>
-    <string name="permdesc_disableKeyguard">Tətbiqə, düymə kilidini və əlaqəli parol güvənliyini sıradan çıxartmasına verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
+    <string name="permdesc_disableKeyguard">Tətbiqə, düymə kilidini və əlaqələndirilmiş parol güvənliyini sıradan çıxartmasına verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
     <string name="permdesc_enableCarMode">Tətbiqin, avtomobil rejimini fəallaşdırmasına icazə verir.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Tətbiqi, səs yazmaq üçün məhdudiyyətlərdən azad edin.</string>
     <string name="permdesc_expandStatusBar">Tətbiqin, vəziyyət sətrini genişləndirməsinə və ya yığcamlaşdırmasına icazə verir.</string>
@@ -1185,7 +1273,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_getAccounts">Tətbiqin, telefonun tanıdığı hesabların siyahısını almağa icazə verir. Bu, quraşdırdığınız tətbiqlər tərəfindən yaradılmış istənilən hesabları ehtiva edə bilər.</string>
     <string name="permdesc_getPackageSize">Tətbiqin kodu, verilənləri və keş ölçüsünü almasına icazə verir</string>
     <string name="permdesc_getTasks">Tətbiqin, hazırda və təzəlikcə işləyən tapşırıqlar haqqında məlumat almasına icazə verir. Bu, tətbiqin cihazda hansı tətbiqlərin istifadə edildiyi barədə məlumatları kəşf etməsinə icazə verir.</string>
-    <string name="permdesc_handoverStatus">Bu tətbiqə, hazırkı Android Beam transferləri haqqında məlumat əldə etməyə icazə verir</string>
+    <string name="permdesc_handoverStatus">Bu tətbiqə, hazırkı Android Beam köçürmələri haqqında məlumat əldə etməyə icazə verir</string>
     <string name="permdesc_highSamplingRateSensors">Tətbiqə, 200 Hz-dən yuxarı bir tezlikdə sensor verilənlərini nümunələməyə icazə verir</string>
     <string name="permdesc_imagesWrite">Tətbiqə, foto kolleksiyanızı dəyişdirmə icazəsi verir.</string>
     <string name="permdesc_install_shortcut">Tətbiqin, istifadəçi müdaxiləsi olmadan Əsas ekrana qısayol əlavə etməsinə icazə verir.</string>
@@ -1199,17 +1287,23 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_mediaLocation">Tətbiqə, media kolleksiyanızdan yerləşmələri oxuma icazəsi verir.</string>
     <string name="permdesc_modifyAudioSettings">Tətbiqə, səs səviyyəsi və hansi dinamikin çıxış üçün istifadə edildiyi barədə məlumatlar kimi qlobal səs tənzimləmələrini dəyişdirmə icazəsi verir.</string>
     <string name="permdesc_modifyNetworkAccounting">Tətbiqə, şəbəkə istifadəsinin tətbiqlərə qarşı necə hesablandığını dəyişdirmə icazəsi verir. Normal tətbiqlər tərəfindən istifadə olunmur.</string>
+    <string name="permdesc_nearby_wifi_devices">Tətbiqin yaxınlıqdakı Wi‑Fi cihazlarının reklamını etmək, onlara bağlanmaq və nisbi mövqeyini müəyyən etməyinə imkan verir</string>
     <string name="permdesc_nfc">Tətbiqə, Yaxın Sahə Rabitəsi (NFC) etiketləri, kartları və oxuyucuları ilə əlaqə qurma icazəsi verir.</string>
     <string name="permdesc_persistentActivity">Tətbiqə, yaddaşda öz hissələrini qalıcı etmə icazəsi verir. Bu, telefonu yavaşlandıran digər tətbiqlər üçün əlçatan olan yaddaşı məhdudlaşdıra bilər.</string>
+    <string name="permdesc_postNotification">Tətbiqin bildirişləri göstərməsinə icazə verir</string>
     <string name="permdesc_preferredPaymentInfo">Tətbiqə, qeydiyyatlı köməkçilər və marşrut təyinatı kimi tərcih edilmiş nfc ödəniş xidməti məlumatlarını əldə etmə icazəsi verir.</string>
     <string name="permdesc_processOutgoingCalls">Tətbiqə, zəngi başqa nömrəyə yönləndirmə və ya zəngi tamamilə dayandırmaq seçimi ilə gedən bir zəng əsnasında yığılan nömrəni görmə icazəsi verir.</string>
     <string name="permdesc_queryAllPackages">Tətbiqə, quraşdırılmış bütün tətbiqləri görmə icazəsi verir.</string>
+    <string name="permdesc_readBasicPhoneState">Tətbiqin, cihazın təməl telefon özəlliklərinə müraciət etməsinə icazə verir.</string>
     <string name="permdesc_readCalendar">Bu tətbiq, telefonunuzda saxlanılan bütün təqvim tədbirlərini oxuya və təqvim verilənlərinizi paylaşa və ya saxlaya bilər.</string>
     <string name="permdesc_readCallLog">Bu tətbiq, zəng tarixçənizi oxuya bilər.</string>
-    <string name="permdesc_readCellBroadcasts">Tətbiqə, cihazınız tərəfindən alınan hüceyrəvi yayım mesajlarını oxuma icazəsi verir. Bəzi yerləşmələrdə sizi fövqəladə vəziyyət barədə xəbərdar etmək üçün hüceyrəvi yayım xəbərdarlıqları verilir. Zərərli tətbiqlər, fövqəladə vəziyyət üzrə hüceyrəvi yayım aldıqda cihazınızın performansına və ya işləməsinə təsir edə bilər.</string>
+    <string name="permdesc_readCellBroadcasts">Tətbiqə, cihazınız tərəfindən alınan hüceyrəvi yayım mesajlarını oxuma icazəsi verir. Bəzi yerləşmələrdə sizi fövqəladə hal barədə xəbərdar etmək üçün hüceyrəvi yayım xəbərdarlıqları verilir. Zərərli tətbiqlər, fövqəladə hal üzrə hüceyrəvi yayım aldıqda cihazınızın performansına və ya işləməsinə təsir edə bilər.</string>
     <string name="permdesc_readContacts">Tətbiqə, telefonunuzda saxlanılan kontaktlar barədə verilənləri oxuma icazəsi verir. Tətbiqlər, telefonunuzda kontaktlar yaradan hesablara da müraciət edəcək. Bura, quraşdırdığınız tətbiqlər tərəfindən yaradılmış hesablar daxil ola bilər. Bu icazəsi, tətbiqin kontakt verilənlərini saxlamasına imkan verir və zərərli tətbiqlər, məlumatınız olmadan kontakt verilənlərini paylaşa bilər.</string>
     <string name="permdesc_readHistoryBookmarks">"Tətbiqə, Brauzerdə ziyarət edilən bütün URL tarixçəsini və Brauzerin əlfəcinlərini oxuma icazəsi verir. Unutmayın: bu icazə, üçüncü tərəf brauzerlər və ya vebdə gəzinmə bacarıqları olan digər tətbiqlər tərəfindən məcburi istənilməyə bilər."</string>
     <string name="permdesc_readInstallSessions">Tətbiqə, quraşdırma seanslarını oxuma icazəsi verir. Bu, tətbiqin aktiv paket quraşdırmaları barədə detalları görməsinə imkan verir.</string>
+    <string name="permdesc_readMediaAudio">Tətbiqin, paylaşılan anbarınızdan səs fayllarını oxumasına icazə verir.</string>
+    <string name="permdesc_readMediaImages">Tətbiqin, paylaşılan anbarınızdan təsvir fayllarını oxumasına icazə verir.</string>
+    <string name="permdesc_readMediaVideo">Tətbiqin, paylaşılan anbarınızdan video fayllarını oxumasına icazə verir.</string>
     <string name="permdesc_readNetworkUsageHistory">Tətbiqə, müəyyən şəbəkə və tətbiqlər üçün şəbəkə istifadə tarixçəsini oxuma icazəsi verir.</string>
     <string name="permdesc_readPhoneNumbers">Tətbiqə, cihazın telefon nömrələrinə müraciət etmə icazəsi verir.</string>
     <string name="permdesc_readPhoneState">Tətbiqə, cihazın telefon özəlliklərinə müraciət etmə icazəsi verir. Bu icazə, tətbiqin telefon nömrələrini və cihaz kimliklərini, bir zəngin aktiv olub-olmadığını və bir zəngə qoşulmuş uzaq nömrəni müəyyən etməsinə imkan verir.</string>
@@ -1236,11 +1330,13 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_sdcardWrite">Tətbiqə, paylaşılan anbarınızın məzmunlarına yazma icazəsi verir.</string>
     <string name="permdesc_sendSms">Tətbiqin, SMS mesajları göndərməsinə icazə verir. Bu, gözlənilməz xərclərlə nəticələnə bilər. Zərərli tətbiqlər, təsdiqiniz olmadan mesaj göndərməklə sizi əlavə xərcə sala bilər.</string>
     <string name="permdesc_setAlarm">Tətbiqin, quraşdırılmış zəngli saat tətbiqində bir zəngli saat qurmasına icazə verir. Bəzi zəngli saatlar bu özəlliyi tətbiq etməyə bilər.</string>
-    <string name="permdesc_setInputCalibration">Tətbiqə, toxunaqlı ekranın kalibrasiya parametrlərini dəyişdirmə icazəsi verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
+    <string name="permdesc_setInputCalibration">Tətbiqə, toxunaqlı ekranın dərəcələndirmə parametrlərini dəyişdirmə icazəsi verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_setTimeZone">"Tətbiqə, telefonun saat qurşağını dəyişdirmə icazəsi verir."</string>
     <string name="permdesc_setWallpaper">Tətbiqə, sistem divar kağızını tənzimləmə icazəsi verir.</string>
     <string name="permdesc_setWallpaperHints">Tətbiqə, sistem divar kağızı üçün ölçü göstərişlərini tənzimləmə icazəsi verir.</string>
     <string name="permdesc_sim_communication">Tətbiqə, SIM-ə əmr göndərmə icazəsi verir. Bu, çox təhlükəlidir.</string>
+    <string name="permdesc_startReviewPermissionDecisions">Sahibin, icazə qərarlarını incələməsi üçün ekran başlatmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
+    <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
     <string name="permdesc_startViewPermissionUsage">Sahibin, bir tətbiq üçün icazə istifadəsini başlatmasına imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_statusBar">Tətbiqə, vəziyyət sətrini sıradan çıxartma və sistem nişanlarını əlavə etmə və silmə icazəsi verir.</string>
     <string name="permdesc_statusBarService">Tətbiqə, vəziyyət sətri olma icazəsi verir.</string>
@@ -1412,7 +1508,7 @@ icazə tələb olundu"</string>
     <string name="permlab_sdcardWrite">paylaşılan anbarın məzmunlarını dəyişdir və ya sil</string>
     <string name="permlab_sendSms">SMS mesajlarını göndər və görüntülə</string>
     <string name="permlab_setAlarm">zəngli saat qur</string>
-    <string name="permlab_setInputCalibration">giriş cihaz kalibrasiyasını dəyişdir</string>
+    <string name="permlab_setInputCalibration">giriş cihaz dərəcələndirməsini dəyişdir</string>
     <string name="permlab_setTimeZone">saat qurşağını tənzimlə</string>
     <string name="permlab_setWallpaper">divar kağızı tənzimlə</string>
     <string name="permlab_setWallpaperHints">divar kağızının ölçüsünü nizamla</string>
@@ -1468,8 +1564,8 @@ icazə tələb olundu"</string>
     <string name="phoneTypeWork">İş</string>
     <string name="phoneTypeWorkMobile">Mobil iş telefonu</string>
     <string name="phoneTypeWorkPager">İş peyceri</string>
-    <string name="pin_specific_target">%1$s - sancaqla</string>
-    <string name="pin_target">Sancaqla</string>
+    <string name="pin_specific_target">%1$s - sanc</string>
+    <string name="pin_target">Sanc</string>
     <string name="policydesc_disableCamera">Bütün cihaz kameralarının istifadəsini əngəllə.</string>
     <string name="policydesc_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərinin istifadəsini əngəllə.</string>
     <string name="policydesc_encryptedStorage">Saxlanılmış tətbiq verilənlərinin şifrələnmiş olmasını tələb et.</string>
@@ -1733,6 +1829,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="storage_usb_drive">USB sürücüsü</string>
     <string name="storage_usb_drive_label">%s USB sürücüsü</string>
     <string name="submit">Göndər</string>
+    <string name="supervised_user_creation_label">Nəzarət edilən istifadəçi əlavə et</string>
     <string name="suspended_widget_accessibility">%1$s sıradan çıxarıldı</string>
     <string name="sync_binding_label">Sinxronlaşdır</string>
     <string name="sync_do_nothing">İndilik heç nə etmə</string>
@@ -1791,7 +1888,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="upload_file">Faylı seçin</string>
     <string name="usb_accessory_notification_title">USB aksesuar qoşuldu</string>
     <string name="usb_cd_installer_notification_title">Quraşdırıcı olaraq qoşuldu</string>
-    <string name="usb_charging_notification_title">Bu cihaz USB ilə enerji yığır</string>
+    <string name="usb_charging_notification_title">Bu cihaz USB ilə doldurulur</string>
     <string name="usb_contaminant_detected_message">USB portu avtomatik sıradan çıxarıldı. Daha ətraflı öyrənmək üçün toxunun.</string>
     <string name="usb_contaminant_detected_title">USB portunda maye və ya toz var</string>
     <string name="usb_contaminant_not_detected_message">Telefon artıq maye və ya tozları aşkarlamır.</string>
@@ -1802,10 +1899,10 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="usb_midi_peripheral_name">Android USB Periferik Port</string>
     <string name="usb_midi_peripheral_product_name">USB Periferik Port</string>
     <string name="usb_mtp_launch_notification_description">Fayllara baxmaq üçün toxunun</string>
-    <string name="usb_mtp_launch_notification_title">%1$s ilə bağlantı quruldu</string>
+    <string name="usb_mtp_launch_notification_title">%1$s ilə bağlantılıdır</string>
     <string name="usb_mtp_notification_title">USB fayl köçürmə açıqdır</string>
     <string name="usb_notification_message">Daha çox seçim üçün toxunun.</string>
-    <string name="usb_power_notification_message">Qoşulmuş cihaz enerji yığır. Daha çox seçim üçün toxunun.</string>
+    <string name="usb_power_notification_message">Bağlantılı cihaz doldurulur. Daha çox seçim üçün toxunun.</string>
     <string name="usb_ptp_notification_title">USB ilə PTP açıqdır</string>
     <string name="usb_storage_activity_title">USB yığın anbar</string>
     <string name="usb_storage_button_mount">USB anbarını aç</string>
@@ -1820,7 +1917,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="usb_storage_stop_notification_title">USB anbarı bağla</string>
     <string name="usb_storage_stop_title">USB anbar istifadədədir</string>
     <string name="usb_storage_title">USB qoşuldu</string>
-    <string name="usb_supplying_notification_title">Qoşulan cihaz USB ilə enerji yığır</string>
+    <string name="usb_supplying_notification_title">Bağlantılı cihaz doldurulur</string>
     <string name="usb_tether_notification_title">USB internet paylaşımı açıqdır</string>
     <string name="usb_unsupported_audio_accessory_message">"Qoşulan cihaz bu telefonla uyğunlaşmır. Daha ətraflı öyrənmək üçün toxunun."</string>
     <string name="usb_unsupported_audio_accessory_title">Analoq səs aksesuarı aşkarlandı</string>
@@ -1852,12 +1949,12 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="volume_ringtone">Zəng səsi səviyyəsi</string>
     <string name="volume_unknown">Səs səviyyəsi</string>
     <string name="vpn_lockdown_config">Şəbəkə və ya VPN tənzimləmələrini dəyişdir</string>
-    <string name="vpn_lockdown_connected">Həmişə açıq VPN bağlantısı quruldu</string>
+    <string name="vpn_lockdown_connected">Həmişə açıq VPN bağlantılıdır</string>
     <string name="vpn_lockdown_connecting">Həmişə açıq VPN bağlantısı qurulur…</string>
     <string name="vpn_lockdown_disconnected">Həmişə açıq VPN bağlantısı kəsildi</string>
     <string name="vpn_lockdown_error">"Həmişə açıq VPN bağlantısı qurula bilmədi"</string>
     <string name="vpn_text">Şəbəkəni idarə etmək üçün toxunun.</string>
-    <string name="vpn_text_long">%s ilə bağlantı quruldu. Şəbəkəni idarə etmək üçün toxunun.</string>
+    <string name="vpn_text_long">%s ilə bağlantılıdır. Şəbəkəni idarə etmək üçün toxunun.</string>
     <string name="vpn_title">VPN aktivləşdirildi</string>
     <string name="vpn_title_long">VPN, %s tərəfindən aktivləşdirildi</string>
     <string name="vr_listener_binding_label">VR dinləyici</string>

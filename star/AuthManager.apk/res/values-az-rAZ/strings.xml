@@ -365,8 +365,8 @@
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
     <string name="screen_overlay_button">Tənzimləmələri aç</string>
-    <string name="screen_overlay_message">Bu icazəni dəyişdirmək üçün, Tənzimləmələr &gt; Tətbiqlər bölməsindən ekran örtülməsini bağlamağınız lazımdır.</string>
-    <string name="screen_overlay_title">Ekran örtülməsi aşkarlandı</string>
+    <string name="screen_overlay_message">Bu icazəni dəyişdirmək üçün, Tənzimləmələr &gt; Tətbiqlər bölməsindən ekran örtülməsini söndürməyiniz lazımdır.</string>
+    <string name="screen_overlay_title">Ekran örtüyü aşkarlandı</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
     <string name="size_byte">B</string>

@@ -46,7 +46,7 @@
     <string name="animal_select_alert_info">5 elementə qədər seçə bilərsiniz</string>
     <string name="anti_flicker_mode">Titrəməsiz</string>
     <string name="anti_flicker_mode_categroy">Rejimlər</string>
-    <string name="anti_flicker_mode_summary">Həddən çox titrəmənin qarşısını alın və zəif işıq şəraitində göz yorğunluğunu azaldın</string>
+    <string name="anti_flicker_mode_summary">Həddən artıq titrəməni əngəlləyin və zəif işıq şəraitində göz yorğunluğunu azaldın</string>
     <string name="anti_flicker_title">Titrəməsiz rejim</string>
     <string name="app_name">Tənzimləmələr</string>
     <string name="application_sound">Tətbiq bildirişləri</string>
@@ -378,7 +378,7 @@
     <string name="lock_summary">Şəxsi məlumatlarınızı qoruyun</string>
     <string name="long_tai1ed_iaeger">Uzun quyruqlu qağayı</string>
     <string name="low_flicker_mode">Zəif işıq</string>
-    <string name="low_flicker_mode_summary">Göz yorğunluğunu azaltmaq üçün zəif işıq şəraitində titrəmənin qarşısını alın</string>
+    <string name="low_flicker_mode_summary">Göz yorğunluğunu azaltmaq üçün zəif işıq şəraitində titrəməni əngəlləyin</string>
     <string name="low_fps_description">Aşağı ekran yeniləmə sürəti. Daha aşağı enerji sərfiyyatı.</string>
     <string name="low_light_preview">Zəif işıq önbaxış</string>
     <string name="lynx">Vaşaq</string>

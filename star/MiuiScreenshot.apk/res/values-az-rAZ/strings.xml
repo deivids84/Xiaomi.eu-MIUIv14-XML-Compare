@@ -305,11 +305,11 @@
     <string name="text_edit_dialog_style_transparent">Şəffaflıq</string>
     <string name="text_item_type_talkback_bubble_arrow1">Ox 1</string>
     <string name="text_item_type_talkback_bubble_arrow2">Ox 2</string>
-    <string name="text_item_type_talkback_bubble_circular">Nitq balonu</string>
+    <string name="text_item_type_talkback_bubble_circular">Nitq qabarcığı</string>
     <string name="text_item_type_talkback_bubble_none">Mətn sahəsi</string>
-    <string name="text_item_type_talkback_bubble_oval">Oval nitq balonu</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat nitq balonu 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat nitq balonu 2</string>
+    <string name="text_item_type_talkback_bubble_oval">Oval nitq qabarcığı</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat nitq qabarcığı 1</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat nitq qabarcığı 2</string>
     <string name="text_item_type_talkback_bubble_signature">İmza</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>

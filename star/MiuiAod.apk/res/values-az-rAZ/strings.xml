@@ -292,8 +292,8 @@ dd/MM"</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="notification_anim_pulse">Nəbz (Qırmızı)</string>
-    <string name="notification_anim_rhythm">Nəbz (Mavi)</string>
+    <string name="notification_anim_pulse">Yanıb sönmə (Qırmızı)</string>
+    <string name="notification_anim_rhythm">Yanıb sönmə (Mavi)</string>
     <string name="notification_anim_star">Ulduz işığı</string>
     <string name="notification_nothing">Yoxdur</string>
     <string name="notification_screen_on">Ekranı işıqlandır</string>

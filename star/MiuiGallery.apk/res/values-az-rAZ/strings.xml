@@ -2870,7 +2870,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="text_append_font">Şrift</string>
     <string name="text_append_font_example">Aa</string>
     <string name="text_append_hint">Mətn daxil edin</string>
-    <string name="text_append_style">Şar</string>
+    <string name="text_append_style">Qabarcıq</string>
     <string name="text_append_transparent">Şəffaflıq</string>
     <string name="text_edit_dialog_font">Şrift</string>
     <string name="text_edit_dialog_font_default">İlkin</string>
@@ -2885,14 +2885,14 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="text_edit_dialog_style_stroke">Kontur</string>
     <string name="text_edit_dialog_style_toast">"Kontur mətni arxaplana yerləşdirilə bilmir"</string>
     <string name="text_edit_dialog_style_transparent">Şəffaflıq</string>
-    <string name="text_edit_sub_menu_text">Şar</string>
+    <string name="text_edit_sub_menu_text">Qabarcıq</string>
     <string name="text_item_type_talkback_bubble_arrow1">Ox %d</string>
     <string name="text_item_type_talkback_bubble_arrow2">Ox %d</string>
-    <string name="text_item_type_talkback_bubble_circular">Nitq şarı</string>
+    <string name="text_item_type_talkback_bubble_circular">Nitq qabarcığı</string>
     <string name="text_item_type_talkback_bubble_none">Mətn sahəsi</string>
-    <string name="text_item_type_talkback_bubble_oval">Oval nitq şarı</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat danışıq şarı %d</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat danışıq şarı %d</string>
+    <string name="text_item_type_talkback_bubble_oval">Oval nitq qabarcığı</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat danışıq qabarcığı %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat danışıq qabarcığı %d</string>
     <string name="text_item_type_talkback_bubble_signature">İmza</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Həmişə gözəl bir şeyin baş verəcəyinə inanın</string>
     <string name="text_item_type_talkback_bubble_watermark_2">Mükəmməl bir tətil 1</string>
@@ -2964,7 +2964,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="text_item_type_talkback_spot_yiheyuan">Yay Sarayı</string>
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
     <string name="text_recognition">Mətni tanı</string>
-    <string name="text_tab_bubble">Şar</string>
+    <string name="text_tab_bubble">Qabarcıq</string>
     <string name="text_tab_city">Şəhər</string>
     <string name="text_tab_festival">Bayram</string>
     <string name="text_tab_idp1">Ümumi</string>
@@ -3292,7 +3292,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_editor_smart_effect_movie">Film</string>
     <string name="video_editor_smart_effect_none">Yoxdur</string>
     <string name="video_editor_smart_effect_radical">Upbeat</string>
-    <string name="video_editor_smart_effect_rhythm">Nəbz</string>
+    <string name="video_editor_smart_effect_rhythm">Yanıb sönmə</string>
     <string name="video_editor_smart_effect_street">Metropolis</string>
     <string name="video_editor_smart_effect_time_limit_txt_40">Bu effekt %d saniyədən uzun olmayan videolara tətbiq edilə bilər. Müddəti avtomatik tənzimlənir.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Bu effekti ən azı %d saniyə uzunluğunda olan videolara tətbiq edə bilərsiniz.</string>

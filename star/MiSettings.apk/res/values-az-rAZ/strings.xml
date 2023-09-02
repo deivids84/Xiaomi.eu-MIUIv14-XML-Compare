@@ -156,10 +156,10 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
     <string name="dc_light_hint_enable_title">Diqqət</string>
-    <string name="dc_light_hint_normal">DC qaralması, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
+    <string name="dc_light_hint_normal">DC qaralma, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_normal_anit">Titrəməsiz rejimi, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_normal_other">Titrəməsiz rejimi, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
-    <string name="dc_light_hint_other">DC qaralması, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
+    <string name="dc_light_hint_other">DC qaralma, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_unnormal_low">Zəif işıq titrəməsiz rejimi, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_unnormal_other">Zəif işıq titrəməsiz rejim, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_lignt_enable_hint">Titrəməsiz rejimi, yeniləmə sürətini 60 Hz olaraq tənzimləyəcək. Titrəməsiz rejimə dəyişdirilsin?</string>

@@ -400,7 +400,7 @@
     <string name="search_empty">"Nəticə tapıla bilmədi"</string>
     <string name="search_enable_earpiece_title">Qulaqlıq rejimi</string>
     <string name="search_led_indicator">Kilid ekranı bildirişləri</string>
-    <string name="search_led_indicator_prompt">Səs yazılarkən, Kilid ekranında bildiriş işığını yandır söndür və vəziyyət sətrində qısayolu göstər</string>
+    <string name="search_led_indicator_prompt">Yazarkən, Kilid ekranında vəziyyət sətri qısayolunu göstər və bildiriş işığını yandırıb söndür</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_quliaty_title">Səsyazma keyfiyyəti</string>
     <string name="search_scenes">Səsyazma növü</string>

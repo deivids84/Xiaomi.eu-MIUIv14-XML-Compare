@@ -1240,7 +1240,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Canlı (tövsiyə edilən)</item>
-        <item>Dolğun</item>
+        <item>Doymuş</item>
         <item>Standart</item>
     </string-array>
     <string-array name="screen_saturation_title">
@@ -1403,7 +1403,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Canlı (tövsiyə edilən)</item>
-        <item>Dolğun</item>
+        <item>Doymuş</item>
         <item>Orijinal rəng</item>
     </string-array>
     <string-array name="tts_rate_entries">

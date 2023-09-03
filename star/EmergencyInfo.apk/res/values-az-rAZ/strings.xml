@@ -674,7 +674,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tts_play_example_title">Bir nümunə dinləyin</string>
     <string name="tts_reset_speech_pitch_summary">Mətnin səsli oxuma tonunu ilkin vəziyyətinə qaytarın.</string>
     <string name="tts_reset_speech_pitch_title">Səs tonunu sıfırla</string>
-    <string name="tts_settings">Mətn-danışma tənzimləmələri</string>
+    <string name="tts_settings">Mətndən nitqə tənzimləmələri</string>
     <string name="tts_settings_title">Mətndən nitqə çıxış</string>
     <string name="tts_status_checking">Yoxlanılır...</string>
     <string name="tts_status_not_supported">%1$s dəstəklənmir</string>

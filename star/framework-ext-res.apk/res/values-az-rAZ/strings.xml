@@ -137,7 +137,7 @@
     <string name="dock_tip_splitscreen_portrait_float">Üzən bir pəncərəyə keçmək üçün basıb ekranın sol və ya sağ tərəfinə sürükləyin.</string>
     <string name="double_click_power_key">Güc düyməsinə iki dəfə bas</string>
     <string name="double_click_volume_down_when_lock">Ekran kilidli ikən Səs azaltma düyməsinə iki dəfə bas</string>
-    <string name="double_knock">İki dəfə toxun</string>
+    <string name="double_knock">Yumruqla cüt toxun</string>
     <string name="dump_log">Problemlə əlaqəli jurnalları al</string>
     <string name="echo">Əks-səda</string>
     <string name="eighthours">8 saat</string>
@@ -231,9 +231,9 @@
     <string name="keyboard_upgrade_failed">"Klaviatura güncəllənə bilmədi"</string>
     <string name="keyboard_upgrade_start">Klaviatura güncəllənir…</string>
     <string name="keyboard_upgrade_success">Klaviatura uğurla güncəlləndi</string>
-    <string name="knock_gesture_v">Bir dəfəyə V çək</string>
-    <string name="knock_long_press_horizontal_slid">Bir dəfəyə basıb üfüqi sürüşdür</string>
-    <string name="knock_slide_shape">Bir dəfəyə dairə çək</string>
+    <string name="knock_gesture_v">Yumruqla V çək</string>
+    <string name="knock_long_press_horizontal_slid">Yumruqla üfüqi olaraq basıb sürüşdür</string>
+    <string name="knock_slide_shape">Yumruqla bir dairə çək</string>
     <string name="ks_back_home">Əsas ekran</string>
     <string name="ks_close_window">Hazırkı pəncərəni bağla</string>
     <string name="ks_launch_control_center">İdarəetmə mərkəzi</string>

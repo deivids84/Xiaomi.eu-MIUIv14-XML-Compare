@@ -69,7 +69,7 @@
     <string name="content_disable_rw">"Deyəsən, aşkarlanmış NFC etiketləri ilə uzun müddətdir ki, əlaqə qurmamısınız. Cihazınız hələlik etiketləri oxumayacaq və ya yazmayacaq. Cihazınızın kilidini açmaq bu özəlliyi yenidən işə salacaq."</string>
     <string name="content_discover_tag">Etiketi emal etmək üçün tətbiq açılsın?</string>
     <string name="content_enable_dnd">"Deyəsən, aşkarlanmış NFC etiketləri ilə əlaqə qurmamısınız. Bildirişlərin alınmasını dayandırmaq üçün NFC Narahat etməyin rejimini işə salın."</string>
-    <string name="content_sms">İndi \"%1$s\" üçün \"%2$s\" vvasitəsilə bir mesaj göndərilsin?</string>
+    <string name="content_sms">İndi \"%1$s\" üçün \"%2$s\" vasitəsilə bir mesaj göndərilsin?</string>
     <string name="content_weblink">İndi \"%1$s\" açılsın?</string>
     <string name="could_not_use_app">"%1$s istifadə edilə bilmədi."</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>

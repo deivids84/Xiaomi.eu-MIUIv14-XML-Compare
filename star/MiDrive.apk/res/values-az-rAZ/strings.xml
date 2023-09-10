@@ -511,7 +511,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="talkback_play">Oxut</string>
     <string name="talkback_previous_song">Əvvəlki mahnı</string>
     <string name="talkback_random_play">Qarışdır</string>
-    <string name="talkback_single_play">Təkrar</string>
+    <string name="talkback_single_play">Birini dövr etdir</string>
     <string name="text_select_all">Hamısını seç</string>
     <string name="text_select_nothing">Heç birini seçmə</string>
     <string name="thursday">Cümə axşamı</string>

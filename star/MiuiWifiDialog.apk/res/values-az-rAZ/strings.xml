@@ -340,6 +340,10 @@
     <string name="wifi_ca_cert_dialog_message_hint">"Yalnız aşağıdakı məlumatlar doğru göründükdə bu şəbəkəyə bağlanmağa icazə verin.
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Verən adı:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_organization_text">"Təşkilat:
 %1$s
 
@@ -418,7 +422,7 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Bağlantı qurma"</string>
     <string name="wifi_suggestion_content">%s təklif olunan şəbəkə. Cihaz, avtomatik olaraq bağlantı qura bilər.</string>
     <string name="wifi_suggestion_imsi_privacy_content">Bu şəbəkələr, cihazın yerini izləmək üçün istifadə oluna bilən bir SIM kimliyi alır</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlantı qursanız, %s Wi‑Fi şəbəkələri, SIM-inizlə əlaqəli unikal kimliyə müraciət edə və ya onu paylaşa bilər. Bu, cihazınızın yerini izləməyə imkan verə bilər."</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlantı qursanız, %s Wi‑Fi şəbəkələri, SIM-inizlə əlaqələndirilmiş unikal kimliyə müraciət edə və ya onu paylaşa bilər. Bu, cihazınızın yerini izləməyə imkan verə bilər."</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Bağlantını təsdiqləyirsiniz?</string>
     <string name="wifi_suggestion_imsi_privacy_title">%s Wi‑Fi ilə bağlantı qurulsun?</string>
     <string name="wifi_suggestion_title">Təklif olunan Wi‑Fi şəbəkələrinə icazə verilsin?</string>

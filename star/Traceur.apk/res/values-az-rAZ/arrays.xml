@@ -152,8 +152,8 @@
         <item>1080p (güvənli)</item>
         <item>4K</item>
         <item>4K (güvənli)</item>
-        <item>4K (geniş miqyaslı)</item>
-        <item>4K (geniş miqyaslı, güvənli)</item>
+        <item>4K (yüksəldilmiş)</item>
+        <item>4K (yüksəldilmiş, güvənli)</item>
         <item>720p, 1080p (ikili ekran)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">

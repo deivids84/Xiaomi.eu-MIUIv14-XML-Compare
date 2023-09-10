@@ -1508,7 +1508,7 @@ mövcuddur"</string>
     <string name="media_type_burst_photo">Ardıcıl</string>
     <string name="media_type_clone_photo">Klonlar</string>
     <string name="media_type_doc_photo">Sənədlər</string>
-    <string name="media_type_fast_motion_video">Sürətləndirilmiş çəkiliş</string>
+    <string name="media_type_fast_motion_video">Sürətləndirilmiş</string>
     <string name="media_type_front_photo">Selfilər</string>
     <string name="media_type_gif">GIF</string>
     <string name="media_type_hd">Yüksək dəqiqlik</string>
@@ -2702,7 +2702,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Daha çox elementi sinxronlaşdırmaq üçün bulud anbar sahəsinin planını yüksəldin</string>
     <string name="slim_success_tip">%s anbar sahəsi boşaldıldı</string>
     <string name="slim_upgrade_button">Yüksəlt</string>
-    <string name="slow_motion_enter">Yavaşlandırılmış çəkiliş</string>
+    <string name="slow_motion_enter">Yavaş hərəkətli</string>
     <string name="sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
     <string name="sns_bind_limit">Həddindən artıq cəhd. Digər daxil olma yollarını yoxlayın.</string>
     <string name="sns_sign_in">Digər daxil olma yolları</string>
@@ -2818,7 +2818,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="super_slow_motion_enter">Super yavaşlandırılmış çəkiliş</string>
+    <string name="super_slow_motion_enter">Super yavaş hərəkətli</string>
     <string name="support_single_image">Bir təsvir seçin</string>
     <string name="support_single_video">Bir video seçin</string>
     <string name="switch_account_continue">Davam etdir</string>

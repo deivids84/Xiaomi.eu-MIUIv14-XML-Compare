@@ -23,7 +23,15 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Sertifikatın bitmə müddəti:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Yalnız aşağıdakı məlumatlar doğru göründükdə bu şəbəkəyə bağlanmağa icazə verin.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Verən adı:
+%1$s
 
 "</string>
     <string name="wifi_ca_cert_dialog_message_organization_text">"Təşkilat:
@@ -34,12 +42,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"İmza:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 Barmaq izi:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">"Bağlantı qurma"</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Yenə də bağlantı qur</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Bağlantını indi kəs</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Bağlantılı qal</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">%1$s şəbəkəsinin bir sertifikatı əskikdir.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Sertifikatların necə əlavə edildiyini öyrənin</string>
     <string name="wifi_ca_cert_dialog_preT_title">"Bu şəbəkə təsdiqlənə bilmir"</string>
@@ -53,7 +61,7 @@
     <string name="wifi_ca_cert_notification_title">Şəbəkə təsdiqlənməlidir</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik tənzimləmələrini dəyişdirmək və yenidən sınamaq üçün toxunun</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"%1$s ilə bağlantı qurula bilmir"</string>
-    <string name="wifi_connect_alert_message">%1$s tətbiqi, %2$s Wi-Fi şəbəkəsi ilə bağlantı qurmaq istəyir</string>
+    <string name="wifi_connect_alert_message">%1$s tətbiqi %2$s Wi-Fi şəbəkəsinə bağlanmaq istəyir</string>
     <string name="wifi_connect_alert_title">Bağlantıya icazə verilsin?</string>
     <string name="wifi_connect_default_application">Tətbiq</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Tənzimləməni dəyişdir</string>
@@ -105,7 +113,7 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Bağlantı qurma"</string>
     <string name="wifi_suggestion_content">%s təklif olunan şəbəkə. Cihaz, avtomatik olaraq bağlantı qura bilər.</string>
     <string name="wifi_suggestion_imsi_privacy_content">Bu şəbəkələr, cihazın yerini izləmək üçün istifadə oluna bilən bir SIM kimliyi alır</string>
-    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlantı qursanız, %s Wi‑Fi şəbəkələri, SIM-inizlə əlaqəli unikal kimliyə müraciət edə və ya onu paylaşa bilər. Bu, cihazınızın yerini izləməyə imkan verə bilər."</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlantı qursanız, %s Wi‑Fi şəbəkələri, SIM-inizlə əlaqələndirilmiş unikal kimliyə müraciət edə və ya onu paylaşa bilər. Bu, cihazınızın yerini izləməyə imkan verə bilər."</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Bağlantını təsdiqləyirsiniz?</string>
     <string name="wifi_suggestion_imsi_privacy_title">%s Wi‑Fi ilə bağlantı qurulsun?</string>
     <string name="wifi_suggestion_title">Təklif olunan Wi‑Fi şəbəkələrinə icazə verilsin?</string>

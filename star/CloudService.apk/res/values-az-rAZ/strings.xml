@@ -551,7 +551,7 @@
     <string name="notification_update_key_text">Parol menecerinin parolu dəyişdirildi. Yeni parolu təsdiqləyin.</string>
     <string name="open_service_title">Aç</string>
     <string name="pay_info_dialog_confirm_to_pay">%s ödə</string>
-    <string name="pay_info_dialog_mibi_balance_prefix">Qalan Mi Sikkələrini istifadə edin: %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">Qalan Mi Coin-ləri istifadə edin: %s</string>
     <string name="pay_info_dialog_title">Ödəniş üsulunu seçin</string>
     <string name="permission_management">İcazə detalları</string>
     <string name="permission_status_allow">İcazə verildi</string>

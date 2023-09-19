@@ -173,8 +173,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pay_mibi">
-        <item quantity="other">%1$s Mi Sikkə ödə</item>
-        <item quantity="one">%1$s Mi Sikkə ödə</item>
+        <item quantity="other">%1$s Mi Coin ödə</item>
+        <item quantity="one">%1$s Mi Coin ödə</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d rəy</item>
@@ -185,8 +185,8 @@
         <item quantity="one">%1$d element uğurla endirildi</item>
     </plurals>
     <plurals name="resource_mibi_per_set">
-        <item quantity="other">%1$s Mi Sikkə/dəst</item>
-        <item quantity="one">%1$s Mi Sikkə/dəst</item>
+        <item quantity="other">%1$s Mi Coin/dəst</item>
+        <item quantity="one">%1$s Mi Coin/dəst</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f xal</item>

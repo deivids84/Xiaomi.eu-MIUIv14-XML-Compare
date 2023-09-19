@@ -265,7 +265,7 @@
     <string name="detail_reward_duplicate_order_error">Həddindən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="detail_reward_exceed_limit">Mükafatlar 200 CNY-ə qədər ola bilər</string>
     <string name="detail_reward_know_it">Anladım</string>
-    <string name="detail_reward_limited_to_200">Mükafatlar 200 Mi Sikkəyə qədər ola bilər</string>
+    <string name="detail_reward_limited_to_200">Mükafatlar 200 Mi Coin-ə qədər ola bilər</string>
     <string name="detail_reward_loading_failed">"Məlumat yüklənilə bilmədi. Yenidən sınayın."</string>
     <string name="detail_reward_no_one">Hələ ki, mükafat yoxdur. Birinci mükafatı siz verin!</string>
     <string name="detail_reward_reached_upper_limit">"Bu gün mükafat yoxdur. Sabah yenə gəlin!"</string>

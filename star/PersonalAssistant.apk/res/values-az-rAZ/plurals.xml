@@ -197,8 +197,8 @@
         <item quantity="one">%d paket çatdırıldı</item>
     </plurals>
     <plurals name="pa_picker_detail_suit_price_suffix">
-        <item quantity="other">%s Mi Sikkə</item>
-        <item quantity="one">%s Mi Sikkə</item>
+        <item quantity="other">%s Mi Coin</item>
+        <item quantity="one">%s Mi Coin</item>
     </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">%d seçilmiş element indi silinsin?</item>

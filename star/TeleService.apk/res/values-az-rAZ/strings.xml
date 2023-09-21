@@ -187,7 +187,7 @@
     <string name="antispam_notification_title">Bilinməyən nömrə</string>
     <string name="antispam_setting">Əngəlli siyahısı</string>
     <string name="apn_settings">Müraciət Nöqtəsi Adları</string>
-    <string name="arrears_sim_summary">Əlaqədə qalmaq üçün telefon balansını doldurun.</string>
+    <string name="arrears_sim_summary">Bağlantılı qalmaq üçün telefonunuzun balansını artırın.</string>
     <string name="arrears_sim_title">Yetərsiz balans</string>
     <string name="ask">Soruş</string>
     <string name="atr_disable">Ərazi trafik hesabatları bağlıdır</string>
@@ -242,10 +242,10 @@
     <string name="bad_puk">Daxil etdiyiniz PUK yanlışdır.</string>
     <string name="bad_puk2">Daxil etdiyiniz PUK2 yanlışdır.</string>
     <string name="band_mode_failed">Uğursuz</string>
-    <string name="band_mode_loading">Diapazon siyahısı yüklənir…</string>
+    <string name="band_mode_loading">Bant siyahısı yüklənir…</string>
     <string name="band_mode_set">Tənzimlə</string>
     <string name="band_mode_succeeded">Uğurlu</string>
-    <string name="band_mode_title">Radio diapazon rejimini tənzimlə</string>
+    <string name="band_mode_title">Radio bant rejimini tənzimlə</string>
     <string name="bf_news_settings">Biznes və maliyyə xəbərləri</string>
     <string name="c_iwlan_exit_notification_description">Onu söndürmək xidməti əldə etməyə kömək edə bilər.</string>
     <string name="c_iwlan_exit_notification_negative_button">RƏDD ET</string>
@@ -283,9 +283,9 @@
     <string name="callFailed_dialVideoToSs">Görüntülü zəng, SS tələbinə dəyişdirildi</string>
     <string name="callFailed_dialVideoToUssd">Görüntülü zəng, USSD tələbinə dəyişdirildi</string>
     <string name="callFailed_dsac_restricted">Zənglər müraciət nəzarəti tərəfindən məhdudlaşdırıldı.</string>
-    <string name="callFailed_dsac_restricted_emergency">Fövqəladə vəziyyət zəngləri müraciət nəzarəti tərəfindən məhdudlaşdırıldı.</string>
+    <string name="callFailed_dsac_restricted_emergency">Fövqəladə hal zəngləri müraciət nəzarəti tərəfindən məhdudlaşdırıldı.</string>
     <string name="callFailed_dsac_restricted_normal">Müntəzəm zənglər müraciət nəzarəti tərəfindən məhdudlaşdırıldı.</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Bu yerləşmədə, Wi-Fi zəng üzərindən fövqəladə vəziyyət zəngləri əlçatmazdır.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Bu yerləşmədə, Wi-Fi zəng üzərindən fövqəladə hal zəngləri əlçatmazdır.</string>
     <string name="callFailed_facility_rejected">Obyekt rədd edildi</string>
     <string name="callFailed_fdn_only">Gedən zənglər FDN tərəfindən məhdudlaşdırıldı.</string>
     <string name="callFailed_imei_not_accepted">Qoşula bilmir, yararlı bir SIM kart daxil edin.</string>
@@ -322,7 +322,7 @@
     <string name="callFailed_outOfService">Hüceyrəvi şəbəkə əlçatmazdır</string>
     <string name="callFailed_out_of_network">Şəbəkəxarici zəng</string>
     <string name="callFailed_powerOff">Radio bağlıdır</string>
-    <string name="callFailed_preemption">Satın alma haqqı</string>
+    <string name="callFailed_preemption">Ön-alış</string>
     <string name="callFailed_protocol_error_unspecified">Protokol xətası, müəyyənləşdirilməyib</string>
     <string name="callFailed_recovery_on_timer_expired">Taymer bitdikdən sonra bərpa et</string>
     <string name="callFailed_requested_circuit_or_channel_not_available">tələb edilən dövrə/kanal əlçatmazdır</string>
@@ -460,7 +460,7 @@
     <string name="cdma_system_select_title">Sistem seçin</string>
     <string name="cell_bc_sms_disable">Hüceyrəvi Yayım SMS-i sıradan çıxarıldı</string>
     <string name="cell_bc_sms_enable">Hüceyrəvi Yayım SMS-i fəallaşdırıldı</string>
-    <string name="cell_broadcast_settings">Fövqəladə vəziyyət yayımları</string>
+    <string name="cell_broadcast_settings">Fövqəladə hal yayımları</string>
     <string name="cell_broadcast_sms">Hüceyrəvi Yayım SMS-i</string>
     <string name="cf_setting_mobile_data_alert">Zəhmət olmasa mobil interneti açın və Wi-Fi-ın sönülü olduğundan əmin olun</string>
     <string name="cf_setting_mobile_data_roaming_alert">Zəhmət olmasa data roaminqi işə salın</string>
@@ -589,11 +589,12 @@
     <string name="copy">Kopyala</string>
     <string name="crescendo_ringer_summary">Zəng səsi səviyyəsi tədricən təyin etdiyiniz səviyyəyə qədər artacaq</string>
     <string name="crescendo_ringer_title">Artan zəng səsi</string>
+    <string name="ct_ut_not_support_close_4glte">UT əlçatmazdır, zəhmət olmasa Tənzimləmələrdə Təkmilləşdirilmiş 4G LTE rejimini söndürün</string>
     <string name="data_disable_warning_no_mms">"Mobil interneti söndürsəniz, MMS göndərə və ala bilməyəcəksiniz (WCDMA/LTE). Bununla belə, cihazınız Wi-Fi şəbəkəsi ilə bağlantı qurduqda bunu edə biləcəksiniz."</string>
     <string name="data_disable_warning_with_mms">"Mobil interneti söndürsəniz, yenə də MMS göndərə və ala biləcəksiniz (WCDMA/LTE). İnterneti istifadə etmək üçün Wi-Fi şəbəkəsi ilə bağlantı qurun."</string>
     <string name="data_enable_always_warn">Mobil internetin istifadə edilib-edilməyəcəyini soruş</string>
     <string name="data_enable_summary">Bu cihazın mobil internet istifadə etməsinə icazə ver</string>
-    <string name="data_enable_warning">Mobil internet istifadəsinə həmişə icazə vermək, operator tarifiniz xaricində əlavə xərclərə yarada bilər. Yenə də bağlantı qurulsun?</string>
+    <string name="data_enable_warning">Mobil internet istifadəsinə həmişə icazə vermək, operator tarifiniz xaricində əlavə xərclər yarada bilər. Yenə də bağlantı qurulsun?</string>
     <string name="data_enabled">Mobil internet</string>
     <string name="data_interruption_remind">"Deyəsən, şəbəkə mühitiniz etibarlı deyil. Bağlantını yaxşılaşdırmaq üçün ikinci SIM-də VoLTE zəngləri zamanı cihazınızın mobil interneti istifadə etməsinə icazə verin."</string>
     <string name="data_interruption_remind_for_t">"Deyəsən, şəbəkə mühitiniz etibarlı deyil. Bağlantını yaxşılaşdırmaq üçün ikinci SIM-də VoLTE zəngləri zamanı cihazınızın mobil interneti istifadə etməsinə icazə verin."</string>
@@ -633,9 +634,9 @@
     <string name="description_voicemail_button">səsli mesaj</string>
     <string name="detect_fakecell">Saxta baza stansiyalarından gələn SMS-ləri tanıyın</string>
     <string name="dialFailed_low_battery">Batareya səviyyəsi aşağı olduğu üçün görüntülü zəng edilə bilmir.</string>
-    <string name="dial_emergency_calling_not_available">Fövqəladə vəziyyət zəngi edilə bilmir</string>
-    <string name="dial_emergency_empty_error">"Zəng edilə bilmir. Fövqəladə vəziyyət nömrəsini yığın."</string>
-    <string name="dial_emergency_error">"Zəng edilə bilmir. %s fövqəladə vəziyyət nömrəsi deyil."</string>
+    <string name="dial_emergency_calling_not_available">Fövqəladə hal zəngi edilə bilmir</string>
+    <string name="dial_emergency_empty_error">"Zəng edilə bilmir. Fövqəladə hal nömrəsini yığın."</string>
+    <string name="dial_emergency_error">"Zəng edilə bilmir. %s fövqəladə hal nömrəsi deyil."</string>
     <string name="dial_related_setting_catory">Nömrəyığan</string>
     <string name="dialerKeyboardHintText">Yığmaq üçün klaviatura istifadə edin</string>
     <string name="dialog_alert_title">Diqqət</string>
@@ -680,17 +681,17 @@
     <string name="eab_provisioned_switch_string">EAB/Varlıq təməl hazırlığı edildi</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_fdn_contact">Sabit yığım nömrəsinə düzəliş et</string>
-    <string name="emergencyDialerIconLabel">Fövqəladə vəziyyət nömrəyığanı</string>
-    <string name="emergency_broadcast_disable">Fövqəladə vəziyyət yayımı sıradan çıxarıldı</string>
-    <string name="emergency_broadcast_enable">Fövqəladə vəziyyət yayımı fəallaşdırıldı</string>
+    <string name="emergencyDialerIconLabel">Fövqəladə hal nömrəyığanı</string>
+    <string name="emergency_broadcast_disable">Fövqəladə hal yayımı sıradan çıxarıldı</string>
+    <string name="emergency_broadcast_enable">Fövqəladə hal yayımı fəallaşdırıldı</string>
     <string name="emergency_call_area_code_edit_dialog_button">Zəng</string>
     <string name="emergency_call_area_code_edit_dialog_hint">Ərazi kodunu daxil edin</string>
     <string name="emergency_call_shortcut_hint">%s nömrəsinə zəng etmək üçün yenidən toxunun</string>
     <string name="emergency_enable_radio_dialog_message">Radio açılır…</string>
     <string name="emergency_enable_radio_dialog_retry">Xidmət yoxdur. Yenidən cəhd edilir…</string>
-    <string name="emergency_enable_radio_dialog_title">Fövqəladə vəziyyət zəngi</string>
+    <string name="emergency_enable_radio_dialog_title">Fövqəladə hal zəngi</string>
     <string name="emergency_information_confirm_hint">Məlumata baxmaq üçün yenidən toxunun</string>
-    <string name="emergency_information_hint">Fövqəladə vəziyyət məlumatı</string>
+    <string name="emergency_information_hint">Fövqəladə hal məlumatı</string>
     <string name="emergency_information_owner_hint">Sahib</string>
     <string name="emergency_medical_records">Tibbi qeydlər</string>
     <string name="emm_cause_11">"Hazırkı operator bu xidməti dəstəkləmir."</string>
@@ -889,7 +890,7 @@ Yenə də yeni provayderə keçilsin?"</string>
     <string name="incall_error_missing_voicemail_number">Səsli mesaj nömrəsi bilinmir.</string>
     <string name="incall_error_no_phone_number_supplied">Zəng etmək üçün, yararlı bir nömrə daxil edin.</string>
     <string name="incall_error_out_of_service">Mobil şəbəkə əlçatmazdır.</string>
-    <string name="incall_error_out_of_service_kr">Yalnız fövqəladə vəziyyət zəngi edilə bilər.</string>
+    <string name="incall_error_out_of_service_kr">Yalnız fövqəladə hal zəngi edilə bilər.</string>
     <string name="incall_error_out_of_service_wfc">Mobil şəbəkə əlçatmazdır. Zəng etmək üçün bir Wi-Fi şəbəkəsi ilə bağlantı qurun.</string>
     <string name="incall_error_outgoing_call_failed">"Zəng edilə bilmədi"</string>
     <string name="incall_error_power_off">Zəng etmək üçün Təyyarə rejimini söndürün.</string>
@@ -897,7 +898,7 @@ Yenə də yeni provayderə keçilsin?"</string>
 
 Bu zəng tamamlana bilmir. Telefonunuz soyuduqdan sonra yenidən sınayın.
 
-Hələ də fövqəladə vəziyyət zəngləri edə bilərsiniz.\"</string>
+Hələ də fövqəladə hal zəngləri edə bilərsiniz.\"</string>
     <string name="incall_error_power_off_wfc">Zəng etmək üçün təyyarə rejimini söndürün və ya naqilsiz bir şəbəkə ilə bağlantı qurun.</string>
     <string name="incall_error_promote_wfc">Zəng etmək üçün Wi-Fi zəngini fəallaşdırın.</string>
     <string name="incall_error_supp_service_conference">Zənglər birləşdirilə bilmir.</string>
@@ -1190,7 +1191,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="msim_disable_sim_card_btn_text">Oldu</string>
     <string name="msim_disable_sim_card_summary_default_card">"Bu kart, hal-hazırda ilkin SIM-iniz olaraq tənzimlənib. Bu kartı istifadə etməsəniz, zəng edə və ya mobil internet bağlantınızı istifadə edə bilməyəcəksiniz. Bu SIM kartın istifadəsini, digər SIM-i ilkin kartınız olaraq tənzimlədikdən sonra dayandıra bilərsiniz."</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Zəng edə və ya mobil internet bağlantısını istifadə edə bilməyə bilərsiniz. %s SIM kartının istifadəsi dayandırılsın?</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Fövqəladə vəziyyət geri zəng rejimində ikinci SIM-inizi məhdudlaşdırmayın."</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Fövqəladə hal geri zəng rejimində ikinci SIM-inizi məhdudlaşdırmayın."</string>
     <string name="msim_disable_sim_card_title">SIM kartın istifadəsini dayandır</string>
     <string name="msim_emm_cause_11">"SIM %d operatoru bu xidməti dəstəkləmir."</string>
     <string name="msim_emm_cause_14">"SIM %d operatoru mobil internet xidmətlərini dəstəkləmir."</string>
@@ -1230,12 +1231,12 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="msim_sim_radio_off">Bağlı</string>
     <string name="msim_switch_data_conn_toast">SIM kartlar dəyişdirilir. Şəbəkə növü dəyişdirildi.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM 2 yuvası yalnız GSM şəbəkələrini dəstəkləyir. Bu yuva üçün tərcih edilən şəbəkə növü yalnız 2G olaraq dəyişdirildi.</string>
-    <string name="mtn_simlock_emergency">Fövqəladə vəziyyət</string>
+    <string name="mtn_simlock_emergency">Fövqəladə hal</string>
     <string name="mtn_simlock_text_tip">Taxılmış SIM kart tələblərə cavab vermir. Telefonu istifadə etməzdən əvvəl müqavilə üzrə tələb olunan bir SIM kart taxmalısınız. Detallar üçün, zəhmət olmasa yerli operatorla əlaqə saxlayın.</string>
     <string name="multi_category_disable">Çoxlu kateqoriya sıradan çıxarıldı</string>
     <string name="multi_category_enable">Çoxlu kateqoriya fəallaşdırıldı</string>
-    <string name="n28_summary">803MHz tezlik diapazonunu istifadə et</string>
-    <string name="n28_title">N28 diapazonu</string>
+    <string name="n28_summary">803MHz tezlik bantını istifadə et</string>
+    <string name="n28_title">N28 bandı</string>
     <string name="name">Ad</string>
     <string name="national_disable">Milli xəbərlər sıradan çıxarıldı</string>
     <string name="national_enable">Milli xəbərlər fəallaşdırıldı</string>
@@ -1245,7 +1246,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="network_5G">5G</string>
     <string name="network_active">Aktiv şəbəkələr</string>
     <string name="network_available">Mövcud şəbəkələr</string>
-    <string name="network_connected">Bağlantı quruldu</string>
+    <string name="network_connected">Bağlantılıdır</string>
     <string name="network_connecting">Bağlantı qurulur...</string>
     <string name="network_could_not_connect">Bağlantı qurula bilmədi</string>
     <string name="network_disconnected">Bağlantı kəsildi</string>
@@ -1296,6 +1297,7 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
 Zəhmət olmasa operatorunuzla əlaqə saxlayın"</string>
     <string name="no_vm_number">Əskik səsli mesaj nömrəsi</string>
     <string name="no_vm_number_msg">SIM kartda heç bir səsli mesaj nömrəsi yoxdur.</string>
+    <string name="no_voice_capability">"Operatorla əlaqə saxlanıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="no_voip">"SIP zəngi dəstəklənmir"</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">"Zəng edilə bilmir. HD səs xidməti, SIM %d üçün qeydiyyatdan keçirilməyib (China Broadnet)."</string>
     <string name="no_volte_call_service_notification_content_for_cbn">"Zəng edilə bilmir. HD səs xidməti, China Broadnet SIM üçün qeydiyyatdan keçirilməyib."</string>
@@ -1329,7 +1331,7 @@ Zəhmət olmasa operatorunuzla əlaqə saxlayın"</string>
     <string name="nrca_switch_summary">Ən yaxşı bağlantı üçün 5G daşıyıcı yığmanı istifadə et</string>
     <string name="nrca_switch_title">NRCA istifadə et</string>
     <string name="number">Nömrə</string>
-    <string name="numerous_emergency_numbers_title">Fövqəladə vəziyyət nömrələri</string>
+    <string name="numerous_emergency_numbers_title">Fövqəladə hal nömrələri</string>
     <string name="obtain_location_information">Yerləşmə</string>
     <string name="obtain_location_information_summary">Hazırkı şəbəkə mühitinin optimallaşdırılması üçün</string>
     <string name="oem_radio_info_label">OEM-ə xas məlumat/tənzimləmələr</string>
@@ -1389,7 +1391,7 @@ Yenidən sınayın və ya daha çox seçim üçün müştəri xidmətlərinə z�
     <string name="other_settings_category">Digər</string>
     <string name="other_settings_categorys">Əlavə özəlliklər</string>
     <string name="overseas_roaming_setting">Data rouminq</string>
-    <string name="pane_title_emergency_dialpad">Fövqəladə vəziyyət nömrə paneli</string>
+    <string name="pane_title_emergency_dialpad">Fövqəladə hal nömrə paneli</string>
     <string name="password_changed">Parol dəyişdirildi</string>
     <string name="path_answer_state_setting_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri</string>
     <string name="path_antispam_setting">Sistem tətbiqləri/Telefon/Əngəlli siyahısı</string>
@@ -1451,7 +1453,7 @@ Yenidən sınayın və ya daha çox seçim üçün müştəri xidmətlərinə z�
     <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">Telefon fövqəladə geri zəng rejimindədir</string>
     <string name="phone_in_ecm_notification_complete_time">%s olana qədər internet bağlantısı olmayacaq</string>
     <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">%s olana qədər</string>
-    <string name="phone_in_ecm_notification_title">Fövqəladə vəziyyət geri zəng rejimi</string>
+    <string name="phone_in_ecm_notification_title">Fövqəladə hal geri zəng rejimi</string>
     <string name="phone_in_scm_call_notification_text_without_data_restriction_hint">Telefon SMS Geri Zəng rejimindədir</string>
     <string name="phone_in_scm_notification_complete_time">%s tarixindən bəri</string>
     <string name="phone_in_scm_notification_title">SMS Geri Zəng rejimi</string>
@@ -1547,8 +1549,10 @@ Başqa uğursuz cəhddən sonra telefonunuz avtomatik kilidlənəcək"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE üstün tutulur</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G üstün tutulur (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G üstün tutulur</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_dtag">2G/3G/4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G avto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G üstün tutulur</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_dtag">2G/3G/4G/5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G avto</string>
     <string name="preferred_network_type_pref_entries_auto">Avtomatik</string>
     <string name="preferred_network_type_pref_entries_global">Qlobal</string>
@@ -1564,7 +1568,7 @@ Başqa uğursuz cəhddən sonra telefonunuz avtomatik kilidlənəcək"</string>
     <string name="privacy_setting">Gizlilik</string>
     <string name="private_num">Gizli nömrə</string>
     <string name="private_num_kr">Zəng edən kimliyi məhdudlaşdırıldı</string>
-    <string name="progress_dialog_exiting_ecm">Fövqəladə vəziyyət Geri Zəng rejimi</string>
+    <string name="progress_dialog_exiting_ecm">Fövqəladə hal Geri Zəng rejimi</string>
     <string name="progress_dialog_exiting_scm">SMS Geri Zəng rejimindən çıxılır</string>
     <string name="prompt_to_suggest_no_call_service_notification_content">"Zəng edilə və alına bilmir. SIM-iniz üçün VoLTE xidməti indi bağlıdır (Chine Telecom)."</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">"Zəng edilə və alına bilmir. SIM %d üçün VoLTE xidməti indi bağlıdır (Chine Telecom)."</string>
@@ -1588,7 +1592,7 @@ Digər uğursuz cəhddən sonra SIM kartınız kilidlənəcək."</string>
     <string name="puk_unlocked">SIM kartınızın kilidi açıldı. Telefonunuzun kilidi açılır…</string>
     <string name="quick_dial_setting_title">Cəld yığım</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="radioInfo_data_connected">Bağlantı quruldu</string>
+    <string name="radioInfo_data_connected">Bağlantılıdır</string>
     <string name="radioInfo_data_connecting">Bağlantı qurulur</string>
     <string name="radioInfo_data_disconnected">Bağlantı kəsildi</string>
     <string name="radioInfo_data_suspended">Dayandırılıb</string>
@@ -1606,15 +1610,15 @@ Digər uğursuz cəhddən sonra SIM kartınız kilidlənəcək."</string>
     <string name="radioInfo_phone_ringing">Çağırır</string>
     <string name="radioInfo_roaming_in">Rouminq</string>
     <string name="radioInfo_roaming_not">Rominqdə deyil</string>
-    <string name="radioInfo_service_emergency">Yalnız fövqəladə vəziyyət zəngləri</string>
+    <string name="radioInfo_service_emergency">Yalnız fövqəladə hal zəngləri</string>
     <string name="radioInfo_service_in">Xidmətdə</string>
     <string name="radioInfo_service_off">Radio bağlıdır</string>
     <string name="radioInfo_service_out">Xidmətdən kənarda</string>
     <string name="radioInfo_unknown">Bilinmir</string>
-    <string name="radio_info_band_mode_label">Radio diapazonu seçin</string>
+    <string name="radio_info_band_mode_label">Radio Bandı seçin</string>
     <string name="radio_info_call_redirect_label">Zəngi yönləndir:</string>
     <string name="radio_info_call_status_label">Səsli zəng statusu:</string>
-    <string name="radio_info_cell_info_refresh_rate">Hüceyrəvi məlumat yeniləmə tezliyi:</string>
+    <string name="radio_info_cell_info_refresh_rate">Operator Məlumat Yeniləmə Sürəti:</string>
     <string name="radio_info_cellinfo_label">Bütün hüceyrəvi ölçmə məlumatları:</string>
     <string name="radio_info_current_network_label">Hazırkı şəbəkə:</string>
     <string name="radio_info_data_connection_disable">İnternet bağlantısını sıradan çıxart</string>
@@ -1664,7 +1668,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">DNS yoxlanışını aç/bağla</string>
     <string name="radio_info_ul_kbps">UL diapazon genişliyi (kbps):</string>
     <string name="radio_info_voice_network_type_label">Səsli şəbəkə növü:</string>
-    <string name="radio_off_during_emergency_call">Fövqəladə vəziyyət zəngi əsnasında təyyarə rejiminə daxil ola bilmir.</string>
+    <string name="radio_off_during_emergency_call">Fövqəladə hal zəngi əsnasında təyyarə rejiminə daxil ola bilmir.</string>
     <string name="radio_off_error">Bu tənzimləmələrə baxmazdan əvvəl radionu açın.</string>
     <string name="read_call_log">Səs yaz</string>
     <string name="read_call_log_summary">Zəngləri yazmaq üçün</string>
@@ -1708,7 +1712,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="respond_via_sms_confirmation_format">Mesaj %s nömrəsinə göndərildi.</string>
     <string name="respond_via_sms_edittext_dialog_title">Cəld cavab</string>
     <string name="respond_via_sms_menu_reset_default_activity">İlkin halına qaytar</string>
-    <string name="respond_via_sms_setting_summary">İlkin cavablara düzəliş et</string>
+    <string name="respond_via_sms_setting_summary">Ön-yazılmış mətn cavablarına düzəliş et</string>
     <string name="respond_via_sms_setting_title">Cəld cavablar</string>
     <string name="response_error">Şəbəkədən gözlənilməz cavab.</string>
     <string name="restart_details">Bu özəlliyi açmaq və ya bağlamaq üçün cihazınızı yenidən başlatmalısınız. İndi yenidən başladılsın?</string>
@@ -1729,12 +1733,15 @@ UT İnterfeysi: %5$s"</string>
     <string name="roaming_customer_service_summary_kr">Xaricdə ödənişsiz zənglər</string>
     <string name="roaming_customer_service_title_kr">Rouminq müştəri dəstəyi</string>
     <string name="roaming_disable">Rouminqdə internet xidmətləri ilə bağlantı qurun</string>
+    <string name="roaming_disable_kr">Data rouminq və beynəlxalq rouminq tənzimləmələri</string>
     <string name="roaming_enable">Rouminqdə internet xidmətləri ilə bağlantı qurun</string>
     <string name="roaming_enabled_message">Rouminq xərcləri çıxıla bilər. Dəyişdirmək üçün toxunun.</string>
     <string name="roaming_notification_content">Zəngləri daha rahat etmək üçün ölkə kodlarını avtomatik olaraq əlavə edə bilərsiniz.</string>
     <string name="roaming_notification_title">Deyəsən rouminq aktivləşdirildi</string>
     <string name="roaming_on_notification_title">İnternet rouminqi açıqdır</string>
     <string name="roaming_reenable_message">Yenidən bağlantı qurmaq üçün rouminq istifadə etməyə çalışın.</string>
+    <string name="roaming_user_package_summary_kr">"Rouminq paketinizi satın alın, ləğv edin və ya ona düzəliş edin. Rouminqdə olarkən bu menyunun istifadəsinə görə sizdən ödəniş tutulmayacaq."</string>
+    <string name="roaming_user_package_title_kr">Rouminq paketi istifadə et</string>
     <string name="roaming_warning">Əhəmiyyətli dərəcədə xərc tutula bilər.</string>
     <string name="rtt_mode_more_information">RTT, eşitmə qabiliyyəti tam və ya qismən məhdud olan, danışma qabiliyyəti məhdud və ya səsdən daha çoxuna ehtiyacı olan zənglərə kömək edir.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Daha ətraflı&lt;/a&gt; &lt;br&gt;&lt;br&gt; - RTT zəngləri, bir mesaj transkripti olaraq saxlanılır &lt;br&gt; - RTT, görüntülü zənglər üçün əlçatmazdır</string>
     <string name="rtt_mode_summary">Səsli zəngdə mesajlaşmaya icazə ver</string>
@@ -1785,9 +1792,9 @@ UT İnterfeysi: %5$s"</string>
     <string name="sim_contact_name">Ad</string>
     <string name="sim_contact_number">Nömrə</string>
     <string name="sim_description_default">SIM kart, yuva: %s</string>
-    <string name="sim_description_emergency_calls">Yalnız fövqəladə vəziyyət zəngləri</string>
+    <string name="sim_description_emergency_calls">Yalnız fövqəladə hal zəngləri</string>
     <string name="sim_is_not_ready">SIM kart hazır deyil</string>
-    <string name="sim_label_emergency_calls">Fövqəladə vəziyyət zəngləri</string>
+    <string name="sim_label_emergency_calls">Fövqəladə hal zəngləri</string>
     <string name="sim_me_lock_disabled">Simlock sıradan çıxarıldı.</string>
     <string name="sim_ndp_dismiss_text">Bağla</string>
     <string name="sim_ndp_unlock_text">Kilidi aç</string>
@@ -1798,7 +1805,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
     <string name="simmelock_name">SIM ME Kilidi</string>
     <string name="singleContactImportedMsg">Daxilə köçürülmüş kontakt</string>
-    <string name="single_emergency_number_title">Fövqəladə vəziyyət nömrəsi</string>
+    <string name="single_emergency_number_title">Fövqəladə hal nömrəsi</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Deaktiv et</string>
     <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Deaktiv etmək üçün SIM seçin</string>
     <string name="single_fiveg_dialog_title_prompt">Diqqət</string>
@@ -1861,6 +1868,8 @@ UT İnterfeysi: %5$s"</string>
     <string name="stk_cc_ss_to_ss_error">SS tələbi, yeni SS tələbi olaraq dəyişdirildi.</string>
     <string name="stk_cc_ss_to_ussd_error">SS tələbi, USSD tələbi olaraq dəyişdirildi.</string>
     <string name="stk_name">USIM alət dəsti</string>
+    <string name="stock_quotes_disable">Birja Qiymətləri sıradan çıxarıldı</string>
+    <string name="stock_quotes_enable">Birja Qiymətləri fəallaşdırıldı</string>
     <string name="strPasswordLengthIncorrect">4-16 nömrə!</string>
     <string name="sum_call_barring_disabled">Bağlı</string>
     <string name="sum_call_barring_enabled">Açıq</string>
@@ -1938,6 +1947,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="telocation_contacts_countrycode">İlkin ölkə kodu</string>
     <string name="telocation_contacts_countrycode_hint">Ölkə kodunu daxil et</string>
     <string name="telocation_contacts_countrycode_summary">Kontaktlar üçün ilkin ölkə kodu: %s</string>
+    <string name="telocation_country_code_enabled_message">Rouminqdə daha rahat zəng etmək üçün ölkə kodlarını əlavə edin.</string>
     <string name="telocation_country_code_enabled_title">Yığarkən ölkə kodlarını əlavə et</string>
     <string name="telocation_countrycode_alert_message">Ölkə kodu olmadan telefon nömrəsini daxil et</string>
     <string name="telocation_countrycode_alert_message_warning">Daxil etdiyiniz ölkə kodu yanlış ola bilər.</string>
@@ -1976,12 +1986,14 @@ Növbəti dövr %2$d günə başlayır (%3$s)"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
+    <string name="time_end">Kimə</string>
     <string name="time_end_hour">vaxt bitiş saatı</string>
     <string name="time_end_minute">vaxt bitiş dəqiqəsi</string>
     <string name="time_formate_am">GƏ</string>
     <string name="time_formate_pm">GS</string>
     <string name="time_next_day">növbəti gün</string>
     <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_start">Kimdən</string>
     <string name="time_start_hour">vaxt başlama saatı</string>
     <string name="time_start_minute">vaxt başlama dəqiqəsi</string>
     <string name="title_cfu_enabled">Zəng yönləndirmə açıqdır</string>
@@ -2097,15 +2109,15 @@ Bu planşetdə qulaqlıq sahəsi yoxdur. Zəng edə bilmək üçün əllər-sər
     <string name="volte_tips_when_turn_on">China Telecom VoLTE xidmətləri, yalnız VoLTE şəbəkə əhatəsində olan ərazilər üçün təmin edilir. VoLTE xidmətləri, operator tərəfindən təmin edilir.</string>
     <string name="vonr_switch_summary">Səsli zənglərin keyfiyyətini yaxşılaşdırmaq üçün VoNR istifadə edin</string>
     <string name="vonr_switch_title">VoNR istifadə et</string>
-    <string name="vowifi_emergency_notification_content">Yalnız şəbəkə əhatəsində olan ərazilərdə fövqəladə vəziyyət zəngləri</string>
+    <string name="vowifi_emergency_notification_content">Yalnız şəbəkə əhatəsində olan ərazilərdə fövqəladə hal zəngləri</string>
     <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi Zəngi</string>
     <string name="vowifi_emergency_warning_check">"Təkrar göstərmə."</string>
-    <string name="vowifi_emergency_warning_message">"Wi-Fi zəngi vasitəsilə fövqəladə vəziyyət zəngləri etmək mümkün deyil.
+    <string name="vowifi_emergency_warning_message">"Wi-Fi zəngi vasitəsilə fövqəladə hal zəngləri etmək mümkün deyil.
 
-Cihaz, bir fövqəladə vəziyyət zəngi etmək üçün avtomatik olaraq hüceyrəvi şəbəkəyə (2G/3G) keçir.
+Cihaz, bir fövqəladə hal zəngi etmək üçün avtomatik olaraq hüceyrəvi şəbəkəyə (2G/3G) keçir.
 
-Fövqəladə vəziyyət zəngləri, yalnız şəbəkənin əhatə dairəsində olan ərazilərdə mümkündür."</string>
-    <string name="vowifi_emergency_warning_title">Wi-Fi zəngləri ilə fövqəladə vəziyyət zəngləri</string>
+Fövqəladə hal zəngləri, yalnız şəbəkənin əhatə dairəsində olan ərazilərdə mümkündür."</string>
+    <string name="vowifi_emergency_warning_title">Wi-Fi zəngləri ilə fövqəladə hal zəngləri</string>
     <string name="vt_provisioned_switch_string">Görüntülü zəng təməl hazırlığı edildi</string>
     <string name="vvm_unsupported_message_format">Dəstəklənməyən mesaj növü, dinləmək üçün %s nömrəsinə zəng edin.</string>
     <string name="wait_prompt_str">"Aşağıdakı səslər göndərilsin?
@@ -2124,7 +2136,20 @@ Fövqəladə vəziyyət zəngləri, yalnız şəbəkənin əhatə dairəsində o
     <string name="wifi_call_available_title">Wi-Fi zəngi işə saınır</string>
     <string name="wifi_call_cancel">Daha çox məlumat</string>
     <string name="wifi_call_help">Kömək</string>
+    <string name="wifi_call_help_message_1">"Wi-Fi Zəngi, Orange tərəfindən sizə Wi-Fi vasitəsilə zəng etmək və almaq imkanı verən xidmətdir. Bu özəllik mobil şəbəkənin əhatə dairəsi zəif olan ərazilərdə istifadə edilə bilər.
+
+Wi-Fi Zəngini istifadə etmək üçün onu Tənzimləmələr &gt; \"Wi-Fi Zəngi\"ndə işə salın.
+
+Xidməti aktivləşdirmək üçün Orange, xidmət əlçatan olduqda sizə təsdiq mesajı göndərəcək. Bundan sonra Wi-Fi şəbəkəsinə bağlanıb zəng edə biləcəksiniz.
+
+Wi-Fi vasitəsilə edilən zənglərin ödənişi planınızın şərtlərinə uyğun olaraq tutulur.
+
+Bu özəllik əlçatan olduqda, ekranınızın yuxarı hissəsində aşağıdakı nişan görünəcək."</string>
+    <string name="wifi_call_help_message_2">"Wi-Fi şəbəkələrinə üstünlük verməyi seçsəniz, bunlar ilkin olaraq telefon zəngləri etmək üçün istifadə olunacaq. Wi-Fi-a bağlanmadıqda və ya siqnal zəif olduqda, zəng etmək üçün mobil şəbəkələr istifadə olunacaq.
+
+Mobil şəbəkələrə üstünlük verməyi seçsəniz, bunlar ilkin olaraq telefon zəngləri etmək üçün istifadə olunacaq. Mobil şəbəkə əhatə dairəsində olmadıqda və ya siqnal zəif olduqda, bunun əvəzinə Wi-Fi şəbəkələri istifadə olunacaq."</string>
     <string name="wifi_call_help_title">Wi-Fi zəngi üzrə kömək</string>
+    <string name="wifi_call_notification_message">"Bu xidmət Orange tərəfindən təmin edilir. Bu xidməti aktivləşdirmək bir neçə saat çəkə bilər. Mövcud olduqda təsdiq SMS-i alacaqsınız."</string>
     <string name="wifi_call_preferred_summary">"Mobil şəbəkələrə üstünlük verməyi seçsəniz, ilkin olaraq mobil şəbəkələr istifadə olunacaq. Mobil şəbəkə siqnalı olmadıqda və ya çox zəif olduqda, bunun əvəzinə Wi-Fi şəbəkəsi istifadə olunacaq."</string>
     <string name="wifi_call_setting">Wi-Fi zəngləri</string>
     <string name="wifi_call_setting_vodafone_de">Wi-Fi zəngi</string>

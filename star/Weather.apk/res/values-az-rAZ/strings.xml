@@ -34,7 +34,7 @@
     <string name="abrupt_weather_settings_title">Qeyri-adi Hava Xəbərdarlığı</string>
     <string name="act_find_city_hint">Yerləşməni daxil et</string>
     <string name="act_find_city_hot_city_title">Məşhur şəhərlər</string>
-    <string name="act_location_error_to_find_city">"Yerləşmə məlumatı alına bilmədi. Şəhəri əllə əlavə edə bilərsiniz."</string>
+    <string name="act_location_error_to_find_city">"Yerləşmə məlumatı alına bilmədi. Yeri əllə əlavə edə bilərsiniz."</string>
     <string name="act_set_city_find_side">Yerləşdirilir</string>
     <string name="act_set_city_find_side_error">"Cihaz yerləşdirilə bilmədi"</string>
     <string name="act_weather_find_city_added">Əlavə edildi</string>
@@ -97,6 +97,7 @@
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Şəbəkə bağlantınızı yoxlayıb yenidən sınayın</string>
     <string name="city_exceeded_warning">"Daha çox şəhər əlavə edilə bilmir. Yenisini əlavə etmək üçün əvvəlcə siyahıda olan bir şəhəri silin."</string>
+    <string name="clear_net_mock_success">Saxta şəbəkə təmizləmə uğurludur</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
@@ -161,7 +162,7 @@
     <string name="exo_controls_fullscreen_description">Tam ekran rejimi</string>
     <string name="exo_controls_next_description">Növbəti mahnı</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
-    <string name="exo_controls_play_description">Oynat</string>
+    <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_previous_description">Əvvəlki mahnı</string>
     <string name="exo_controls_repeat_all_description">Hamısını təkrarla</string>
     <string name="exo_controls_repeat_off_description">Heç birini təkrarlama</string>
@@ -199,7 +200,7 @@
     <string name="feedback_result_fail_no_choice">Hazırkı hava şəraitini seçin</string>
     <string name="feedback_result_fail_no_reason">Əks-əlaqəniz üçün təşəkkürlər!</string>
     <string name="feedback_result_fail_same_type">"Deyəsən, şikayətiniz, hazırkı havadan fərqli deyil. Yenidən sınayın."</string>
-    <string name="feedback_result_success">Uğurla göndərildi, əks-əlaqəniz üçün təşəkkürlər.</string>
+    <string name="feedback_result_success">Uğurla göndərildi. Əks-əlaqəniz üçün təşəkkürlər.</string>
     <string name="feedback_sandy">Qumlu</string>
     <string name="feedback_sunny">Təmizlə</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -358,6 +359,7 @@
     <string name="realtime_humidity_title">Rütubət</string>
     <string name="realtime_temperature_no_data">-</string>
     <string name="realtime_wind_default_title">Külək</string>
+    <string name="receive_net_mock_success">Saxta şəbəkə alma uğurludur</string>
     <string name="refresh_fail">"Şəbəkə ilə bağlantı qurula bilmədi"</string>
     <string name="reminder_from_xiaomi_weather_app">Mi Hava xəbərdarlığı</string>
     <string name="request_cta_connect_net">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
@@ -481,9 +483,9 @@
     <string name="unit">Vahidlər</string>
     <string name="unit_temperature">Temperatur vahidləri</string>
     <string name="unit_wind">Külək sürəti vahidləri</string>
-    <string name="update_night_setting_summary_text">%1$s - %1$s arası hava məlumatlarını güncəllə</string>
+    <string name="update_night_setting_summary_text">%1$s - %2$s arası hava məlumatlarını güncəllə</string>
     <string name="update_night_setting_title_text">Gecələr avtomatik güncəllə</string>
-    <string name="update_notification_info">Verilənlər arxaplanda güncəllənir…</string>
+    <string name="update_notification_info">Datalar arxaplanda güncəllənir…</string>
     <string name="updated_a_moment_ago">Bir dəqiqə əvvəl güncəlləndi</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="v7_preference_off">BAĞLI</string>

@@ -1500,7 +1500,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Qrafik</item>
         <item>Faiz (nişan daxilində)</item>
-        <item>Faiz (Bildiriş sətrindəki nişanın yanında)</item>
+        <item>Faiz (Bildiriş panelindəki nişanın yanında)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>

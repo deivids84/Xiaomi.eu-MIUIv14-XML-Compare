@@ -1502,7 +1502,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="music_controls_no_title">Başlıq yoxdur</string>
-    <string name="nav_bar">Hərəkət çubuğu</string>
+    <string name="nav_bar">Naviqasiya çubuğu</string>
     <string name="nav_bar_edge_panel">Naviqasiya çubuğu Kənar Paneli</string>
     <string name="nav_bar_layout">Düzüm</string>
     <string name="new_notification_image_content_description">%1$s bir şəkil göndərdi</string>

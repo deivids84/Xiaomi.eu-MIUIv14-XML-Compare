@@ -437,7 +437,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
 kontakt yarat"</string>
     <string name="crossSimFormat_spn_cross_sim_calling">%s nüsxələmə zəngi</string>
     <string name="cut">Kəs</string>
-    <string name="data_saver_description">İnternet istifadəsini azaltmağa kömək etməsi üçün, Verilənlərə Qənaət, bəzi tətbiqlərin arxaplanda verilənlər göndərməsinin və ya almasının qarşısını alır. Hazırda istifadə etdiyiniz bir tətbiq verilənlərə müraciət edə bilər, ancaq bunu daha az edə bilər. Bu o deməkdir ki, siz şəkillərə toxunana qədər şəkillər görüntülənmir.</string>
+    <string name="data_saver_description">İnternet istifadəsini azaltmağa kömək etməsi üçün, İnternetə Qənaət, bəzi tətbiqlərin arxaplanda data göndərməsini və ya almasını önləyir. Hazırda istifadə etdiyiniz bir tətbiq dataya müraciət edə bilər, ancaq bunu daha az edə bilər. Bu o deməkdir ki, siz şəkillərə toxunana qədər şəkillər görüntülənmir.</string>
     <string name="data_saver_enable_button">Aç</string>
     <string name="data_saver_enable_title">Verilənlərə Qənaət açılsın?</string>
     <string name="data_usage_limit_body">Dövrünüzün qalan hissəsi üçün internetə fasilə verildi</string>
@@ -1353,7 +1353,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_vibrate">Tətbiqə titrəməyə nəzarət etmə icazəsi verir.</string>
     <string name="permdesc_vibrator_state">Tətbiqə, titrəmə vəziyyətinə müraciət etmə icazəsi verir.</string>
     <string name="permdesc_videoWrite">Tətbiqə, video kolleksiyanızı dəyişdirmə icazəsi verir.</string>
-    <string name="permdesc_wakeLock">Tətbiqə, telefonun yuxu rejiminə keçməsinin qarşısını alma icazəsi verir.</string>
+    <string name="permdesc_wakeLock">Tətbiqə telefonun yuxu rejiminə keçməsini önləmə icazəsi verir.</string>
     <string name="permdesc_writeCalendar">Bu tətbiq, təqvim tədbirlərini telefonunuzda əlavə edə, silə və ya dəyişdirə bilər. Bu tətbiq, təqvim sahiblərindən gəlmiş kimi görünən mesajlar göndərə və ya sahiblərinin məlumatı olmadan tədbirləi dəyişdirə bilər.</string>
     <string name="permdesc_writeCallLog">"Tətbiqə, gələn və gedən zənglər haqqında verilənləri ehtiva edən telefonun zəng jurnalını dəyişdirmə icazəsi verir. Zərərli tətbiqlər, bu icazəni zəng jurnalınızı silmək və ya dəyişdirmək üçün istifadə edə bilər."</string>
     <string name="permdesc_writeContacts">Tətbiqə, telefonunuzda saxlanılan kontaktlarınız haqqında olan verilənləri dəyişdirmə icazəsi veir. Bu icazə, tətbiqin kontakt verilənlərini silməsinə imkan verir.</string>
@@ -1530,7 +1530,7 @@ icazə tələb olundu"</string>
     <string name="permlab_uwb_ranging">yaxınlıqdakı Ultra Genişzolaqlı cihazlar arasında nisbi mövqeyi aşkarla</string>
     <string name="permlab_vibrate">titrəməyə nəzarət et</string>
     <string name="permlab_videoWrite">video kolleksiyasını dəyişdir</string>
-    <string name="permlab_wakeLock">telefonun yuxuya getməsinin qarşısını al</string>
+    <string name="permlab_wakeLock">telefonun yuxuya getməsini önlə</string>
     <string name="permlab_writeCalendar">"sahibin məlumatı olmadan təqvim tədbirləini əlavə et və ya dəyişdir və qonaqlara e-poçt göndər"</string>
     <string name="permlab_writeCallLog">zəng jurnalına yaz</string>
     <string name="permlab_writeContacts">kontaktları dəyişdir</string>
@@ -1567,7 +1567,7 @@ icazə tələb olundu"</string>
     <string name="pin_specific_target">%1$s - sanc</string>
     <string name="pin_target">Sanc</string>
     <string name="policydesc_disableCamera">Bütün cihaz kameralarının istifadəsini əngəllə.</string>
-    <string name="policydesc_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərinin istifadəsini əngəllə.</string>
+    <string name="policydesc_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərinin istifadəsini önlə.</string>
     <string name="policydesc_encryptedStorage">Saxlanılmış tətbiq verilənlərinin şifrələnmiş olmasını tələb et.</string>
     <string name="policydesc_expirePassword">Ekran kilidi parolu, PIN və ya naxışın hansı tezliklə dəyişməli olduğunu tənzimlə.</string>
     <string name="policydesc_forceLock">Ekranın necə və nə vaxt kilidlənəcəyinə nəzarət et.</string>

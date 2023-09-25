@@ -233,13 +233,13 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="host_boot_installation_bottom_tips">"\"Mi Mover\"i tapa bilmirsiniz? Endirmək üçün toxunun."</string>
     <string name="host_boot_installation_button">Növbəti</string>
     <string name="host_boot_installation_content">"1. Köhnə cihazınızda Tənzimləmələrə gedin.
-2. Axtarış sətrində \"Mi Mover\" yazın.
+2. Axtarış çubuğuna \"Mi Mover\" yazın.
 3. Axtarış nəticələrində \"Mi Mover\"ə toxunun."</string>
     <string name="host_boot_installation_dialog_message">"Köhnə cihazınızdakı \"Mi Mover\" versiyası burada quraşdırılanla uyğunlaşmır. \"Mi Mover\"i köhnə cihazınızda güncəlləyin."</string>
     <string name="host_boot_installation_first_title">Köhnə cihazınızda \"Mi Mover\"i açın</string>
     <string name="host_boot_installation_message">"Köhnə cihazınızda gördüynüz səhifəni seçin. \"Mi Mover\"in köhnə versiyasını istifadə edirsinizsə, sizə necə güncəlləyəcəyinizi deyəcəyik."</string>
     <string name="host_boot_installation_second_title">"\"Mi Mover\"in versiyasını təsdiqləyin"</string>
-    <string name="host_boot_installation_step_one_messege">Tənzimləmələrə gedin, axtarış sətrində \"Mi Mover\" yazın və axtarış nəticələrində \"Mi Mover\"ə toxunun.</string>
+    <string name="host_boot_installation_step_one_messege">Tənzimləmələrə gedin, axtarış çubuğuna \"Mi Mover\" yazın və axtarış nəticələrində \"Mi Mover\"ə toxunun.</string>
     <string name="host_boot_installation_step_one_title">1. Köhnə cihazınızda \"Mi Mover\"i açın</string>
     <string name="host_boot_installation_step_two_title">2. Köhnə cihazınızda gördüyünüz səhifəni seçin.</string>
     <string name="host_boot_installation_tips">"\"Mi Mover\"i tapa bilmədiniz? Endirmək üçün toxunun."</string>
@@ -363,7 +363,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="miui_wait_link_title_1">"%d. \"Göndərənəm\"ə toxunub və bir az gözləyin."</string>
     <string name="miui_wait_link_title_2">%d. Bağlana bilmək üçün köhnə cihazınızda bu hotspot-u seçin.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>

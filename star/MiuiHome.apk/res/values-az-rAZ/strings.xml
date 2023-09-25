@@ -151,7 +151,7 @@
     <string name="auto_add_app_shortcut">Yeni tətbiqləri Əsas ekranda yerləşdirin</string>
     <string name="auto_delete_category_dialog_content">Hazırkı tətbiqlər bu kateqoriyadan silinəcək və kateqoriya silinəcək. Bu kateqoriya indi silinsin?</string>
     <string name="auto_delete_category_dialog_title">Kateqoriya silinir</string>
-    <string name="auto_disable_screenbuttons_summary">"Vəziyyət çubuğu göstərilmədikdə naviqasiya düymələrini avtomatik sıradan çıxart. Təkrar fəallaşdırmaq üçün istənilən naviqasiya düyməsinə cüt toxunun."</string>
+    <string name="auto_disable_screenbuttons_summary">"Status çubuğu göstərilmədikdə naviqasiya düymələrini avtomatik sıradan çıxart. Təkrar fəallaşdırmaq üçün istənilən naviqasiya düyməsinə cüt toxunun."</string>
     <string name="auto_disable_screenbuttons_title">Naviqasiya düymələrini avto-sıradan çıxart</string>
     <string name="back">Geri</string>
     <string name="backup_fail">"Başladıcı nüsxələnə bilmədi"</string>

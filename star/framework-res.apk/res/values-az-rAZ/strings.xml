@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="BaMmi">Zəng əngəlləmə</string>
+    <string name="BaMmi">Zəng qadağası</string>
     <string name="CLIRDefaultOffNextCallOff">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılmayıb. Növbəti zəng: Məhdudlaşdırılmayıb</string>
     <string name="CLIRDefaultOffNextCallOn">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılmayıb. Növbəti zəng: Məhdudlaşdırılıb</string>
     <string name="CLIRDefaultOnNextCallOff">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılıb. Növbəti zəng: Məhdudlaşdırılmayıb</string>

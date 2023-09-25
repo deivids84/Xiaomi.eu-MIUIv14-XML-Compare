@@ -130,10 +130,10 @@
     <string name="disable_nfc">Naqilsiz doldurmaq üçün NFC söndürüldü</string>
     <string name="disable_nfc_haptic_reverse">Tərsinə naqilsiz doldurmaq üçün NFC və titrəmə söndürüldü</string>
     <string name="disable_nfc_reverse">Tərsinə naqilsiz doldurmaq üçün NFC söndürüldü</string>
-    <string name="dock_tip_floatwindow">Bölünmüş ekran görünüşünə daxil olmaq üçün sətri tutub ekranın kənarına sürükləyin.</string>
-    <string name="dock_tip_splitscreen_landscape_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri üfüqi şəkildə sürükləyin.</string>
+    <string name="dock_tip_floatwindow">Bölünmüş ekran görünüşünə daxil olmaq üçün çubuğu tutub ekranın kənarına sürükləyin.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün çubuğu üfüqi şəkildə sürükləyin.</string>
     <string name="dock_tip_splitscreen_landscape_float">Üzən bir pəncərəyə keçmək üçün basıb aşağı sürükləyin.</string>
-    <string name="dock_tip_splitscreen_portrait_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün sətri şaquli şəkildə sürükləyin.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">İki tətbiq pəncərəsinin yerlərini dəyişdirmək üçün çubuğu şaquli şəkildə sürükləyin.</string>
     <string name="dock_tip_splitscreen_portrait_float">Üzən bir pəncərəyə keçmək üçün basıb ekranın sol və ya sağ tərəfinə sürükləyin.</string>
     <string name="double_click_power_key">Güc düyməsinə iki dəfə bas</string>
     <string name="double_click_volume_down_when_lock">Ekran kilidli ikən Səs azaltma düyməsinə iki dəfə bas</string>
@@ -332,7 +332,7 @@
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 dəqiqə</string>
     <string name="open_close_tip_action">Anladım</string>
-    <string name="open_close_tip_content">Üzən pəncərəni bağlamaq üçün hərəkət sətrini basıb saxlayın və sonra yuxarı sürüşdürün</string>
+    <string name="open_close_tip_content">Üzən pəncərəni bağlamaq üçün hərəkət çubuğunu basılı tutun və sonra yuxarı sürüşdürün</string>
     <string name="open_miui_optimization">Əvvəlcə MIUI optimallaşdırmanı aç</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>

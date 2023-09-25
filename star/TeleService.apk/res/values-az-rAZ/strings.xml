@@ -839,7 +839,7 @@
     <string name="fold_answer_pref_summary">Gələn bir zəngi avtomatik qəbul etmək üçün cihazı qatlayın</string>
     <string name="fold_answer_pref_title">Zəngləri qəbul etmək üçün qatlayın</string>
     <string name="forbidden_fakecell">"Saxta baza stansiyaları ilə bağlantı qurmayın"</string>
-    <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyaları ilə bağlantı qurmasının qarşısını alın</string>
+    <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyalarına bağlanmasını önləyin</string>
     <string name="forbidden_network">(yasaqlanıb)</string>
     <string name="forced_to_display">Məcburi göstər</string>
     <string name="forced_to_hide">Məcburi gizlət</string>
@@ -1578,7 +1578,7 @@ Başqa uğursuz cəhddən sonra telefonunuz avtomatik kilidlənəcək"</string>
     <string name="prompt_to_turnoff_volte_when_failed">"VoLTE xidməti əlçatmazdır. Zəng etmək üçün VoLTE-ni söndürün."</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"Xidmət əlçatmazdır. VoLTE-ni Tənzimləmələrdə söndürün."</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTE-ni açmazdan əvvəl LTE-ni tərcih edilən şəbəkə növünüz olaraq seçin.</string>
-    <string name="prompt_when_turnon_volte_without_lte">"VoLTE şəbəkələri indi əlçatmazdır. VoLTE-ni işə salmaq, normal zənglər etməyinizi əngəlləyə bilər."</string>
+    <string name="prompt_when_turnon_volte_without_lte">"VoLTE şəbəkələri indi əlçatmazdır. VoLTE-ni işə salmaq, normal zəng etməyinizi önləyə bilər."</string>
     <string name="pstn_connection_service_label">Daxili SIM kartlar</string>
     <string name="pstn_phone">Cib telefon zəngi</string>
     <string name="puk2_blocked">PUK2 birdəfəlik əngəlləndi.</string>

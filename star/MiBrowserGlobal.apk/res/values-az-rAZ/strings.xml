@@ -640,7 +640,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="download_retry_download">Yenidən sına</string>
     <string name="download_router_tip">Mi Router-a endir</string>
     <string name="download_save_dialog_title">Saxla</string>
-    <string name="download_sdcard_busy_dlg_msg">SD kart məşğuldur. Endirməyə icazə vermək üçün, USB anbarı bildiriş panelində bağlayın.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD kart məşğuldur. Endirməyə icazə vermək üçün, USB anbarı bildiriş panelində söndürün.</string>
     <string name="download_sdcard_busy_dlg_title">SD kart əlçatmazdır</string>
     <string name="download_sdcard_no_space">"Endirilə bilmədi. Yetərsiz anbar sahəsi."</string>
     <string name="download_secure_download_in_xiaomi_market">GetApps-da endir</string>
@@ -896,8 +896,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="home_description">Əsas ekran</string>
     <string name="home_expand_item_title_collect">Sevimlilər</string>
     <string name="home_expand_item_title_common_site">Məşhur</string>
-    <string name="home_feed_channel">Hərəkət çubuğunda \"Xəbərlər\"i göstər</string>
-    <string name="home_game_channel">Hərəkət çubuğunda \"Oyunlar\"ı göstər</string>
+    <string name="home_feed_channel">Naviqasiya çubuğunda \"Xəbərlər\"i göstər</string>
+    <string name="home_game_channel">Naviqasiya çubuğunda \"Oyunlar\"ı göstər</string>
     <string name="home_list_item_click">Əsas siyahı elementinə toxun</string>
     <string name="home_nf">Məzmun lenti</string>
     <string name="home_nf_recommend_on">Sizin üçün tövsiyə edilən</string>

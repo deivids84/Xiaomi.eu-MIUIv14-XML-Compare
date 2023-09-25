@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="accessibility_button_location_selector_titles">
         <item>Digər tətbiqlərin üzərində üzür</item>
-        <item>Hərəkət sətri</item>
+        <item>Naviqasiya çubuğu</item>
     </string-array>
     <string-array name="accessibility_button_size_selector_titles">
         <item>Kiçik</item>
@@ -234,7 +234,7 @@
         <item>Qrafik</item>
         <item>Faiz (nişan daxilində)</item>
         <item>Faiz (nişanın yanında)</item>
-        <item>Üst sətir</item>
+        <item>Üst çubuq</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Müəyyən edilmədi</item>
@@ -1375,7 +1375,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Bağlı</item>
-        <item>Ekranda sətirlər olaraq</item>
+        <item>Ekranda çubuqlar olaraq</item>
         <item>adb shell dumpsys gfxinfo daxilində</item>
     </string-array>
     <string-array name="traffic_balance_entries">

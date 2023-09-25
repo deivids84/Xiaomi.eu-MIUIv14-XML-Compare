@@ -596,7 +596,7 @@ mm"</string>
     <string name="miuishare_title_more">Daha çox</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -1341,7 +1341,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_component_title_others">Digər</string>
     <string name="theme_component_title_photo_frame">Şəkil çərçivəsi</string>
     <string name="theme_component_title_ringtone">Zəng səsi</string>
-    <string name="theme_component_title_statusbar">Vəziyyət sətri</string>
+    <string name="theme_component_title_statusbar">Status çubuğu</string>
     <string name="theme_component_title_wallpaper">Divar kağızı</string>
     <string name="theme_component_video_wallpaper">Dinamik divar kağızları</string>
     <string name="theme_current_using_has_update">Tema güncəlləməsi mövcuddur</string>

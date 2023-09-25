@@ -198,7 +198,7 @@ d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/M"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>

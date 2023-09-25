@@ -933,7 +933,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="mi_video_pip_mode">Şəkil-içində-şəkil</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -1714,8 +1714,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="toast_share_failed">"Paylaşıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
-    <string name="tool_bar_notification_setting_sub_title">Alətlər qutusunu Bildiriş panelində göstər</string>
-    <string name="tool_bar_notification_setting_title">Bildiriş paneli alət qutusu</string>
+    <string name="tool_bar_notification_setting_sub_title">Alət çubuğunu Bildiriş panelində göstər</string>
+    <string name="tool_bar_notification_setting_title">Bildiriş paneli alət çubuğu</string>
     <string name="try_look">Ödənişsiz izləməyə davam</string>
     <string name="trylook_end">Ödənişsiz izləmə bitdi</string>
     <string name="tuesday">Çərşənbə axşamı</string>

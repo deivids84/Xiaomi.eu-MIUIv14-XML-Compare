@@ -925,7 +925,7 @@
     <string name="notification_download_success_more">%1$d endirildi</string>
     <string name="notification_need_wifi_for_size">Endirmə həcmi Wi-Fi tələb edir.</string>
     <string name="notification_play_summary">Hazırkı və növbəti mahnıya baxın, mahnı sözlərini Əsas ekranda göstərin</string>
-    <string name="notification_play_title">Bildiriş sahəsi viceti</string>
+    <string name="notification_play_title">Bildiriş paneli viceti</string>
     <string name="notification_recommend_summary">Yeni musiqi trendləri və tətbiq promosyonları haqqında ətraflı öyrən</string>
     <string name="notification_recommend_title">Vacib bildirişlər</string>
     <string name="notification_setting">Bildiriş tənzimlənmələri</string>

@@ -9,7 +9,7 @@
     <string name="detect_fakecell">Saxta baza stansiyalarından gələn SMS-ləri tanıyın</string>
     <string name="end_title">Oyun bitdi</string>
     <string name="forbidden_fakecell">"Saxta baza stansiyalarına bağlanmayın"</string>
-    <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyalarına bağlanmasının qarşısını alın</string>
+    <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyalarına bağlanmasını önləyin</string>
     <string name="foreground_text">Prioritet səviyyəsini yüksəltmək üçün önplan xidmətlərini istifadə edin</string>
     <string name="foreground_title">Önplan xidmətləri</string>
     <string name="hello_world">Salam dünya!</string>

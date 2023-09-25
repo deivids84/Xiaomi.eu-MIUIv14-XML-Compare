@@ -493,7 +493,7 @@ Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; D
     <string name="fall_sleep_hard">Yuxuya getmə çətinliyi</string>
     <string name="falling_duration">Yuxuya getmə</string>
     <string name="falling_duration_hard_description">"Yuxuya getmə, yuxunuzun başlaması ilə tam yuxuya getmə arasındakı dövrdür. Yuxuya getməyiniz 30 dəqiqədən çox çəkirsə, bu yuxusuzluğun əlaməti ola bilər.
-Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenomenə səbəb olan amilləri azaldın. Daha az qəhvə için; yatmazdan əvvəl videolara baxaraq və ya oxumaqla sinir sisteminizi vizual və ya emosional olaraq həddən artıq stimullaşdırmayın; yataq otağınızı qaranlıq, sakit və rahat saxlayın. Bu tədbirlər heç bir rahatlıq gətirməsə, həkiminizlə məsləhətləşin."</string>
+Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenomenə səbəb olan amilləri azaldın. Daha az qəhvə için; yatmazdan əvvəl videolara baxaraq və ya oxumaqla sinir sisteminizi vizual və ya emosional olaraq aşırı stimullaşdırmayın; yataq otağınızı qaranlıq, sakit və rahat saxlayın. Bu tədbirlər heç bir rahatlıq gətirməsə, həkiminizlə məsləhətləşin."</string>
     <string name="falling_duration_normal_description">Yuxuya getmə, yuxunuzun başlaması ilə tam yuxuya getmə arasındakı dövrdür. Yuxuya getməyin nə qədər vaxt apardığını bilmək, yuxusuzluq və yuxu ilə əlaqəli digər halların müalicəsi üçün vacibdir.</string>
     <string name="fast">Sürətli</string>
     <string name="fat_rate">Yağ</string>

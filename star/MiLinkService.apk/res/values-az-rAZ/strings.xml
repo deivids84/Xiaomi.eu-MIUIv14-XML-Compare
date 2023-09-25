@@ -462,7 +462,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="miplay_accessibility_pause">Fasilə ver</string>
     <string name="miplay_accessibility_play">Oxut</string>
     <string name="miplay_accessibility_prev">Əvvəlki mahnı</string>
-    <string name="miplay_accessibility_seekbar">İrəlIləyIş sətrI</string>
+    <string name="miplay_accessibility_seekbar">İrəlIləyIş çubuğu</string>
     <string name="miplay_accessibility_volume">Səs səviyyəsi</string>
     <string name="miplay_detail_divider_title">Dinamiklər</string>
     <string name="miplay_detail_header_no_song">Oxutma yoxdur</string>
@@ -474,7 +474,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="miplay_service_timeout_toast">Bağlantının vaxtı bitdi. Yenidən sınayın.</string>
     <string name="miplay_song_title_empty">Burada element yoxdur</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>

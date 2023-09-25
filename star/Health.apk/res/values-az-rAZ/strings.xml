@@ -855,7 +855,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="minimum">Minimum</string>
     <string name="minute">dəq</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -1491,7 +1491,7 @@ tapıla bilmədi"</string>
     <string name="system_app_setting">Sistem tətbiq tənzimləmələri</string>
     <string name="system_permission">İcazə detalları</string>
     <string name="systolic_pressure">Sistolik</string>
-    <string name="tb_audio_progress_bar">Səs oxutma sətri</string>
+    <string name="tb_audio_progress_bar">Səs oxutma çubuğu</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Ən yüksək sistolik təzyiq: %2$d millimetr civə. Ən aşağı diastolik təzyiq: %3$d millimetr civə.</string>
     <string name="tb_blood_pressure_item">%1$s. Sistolik təzyiq: %2$d millimetr civə. Diastolik təzyiq: %3$d millimetr civə.</string>
     <string name="tb_blood_pressure_wm_card">Ortalama sistolik təzyiq: %1$d millimetr civə. Ortalama diastolik təzyiq: %2$d millimetr civə. Ən yüksək sistolik təzyiq: %3$d millimetr civə. Ən yüksək diastolik təzyiq: %4$d millimetr civə. Ən aşağı sistolik təzyiq: %5$d millimetr civə. Ən aşağı diastolik təzyiq: %6$d millimetr civə.</string>

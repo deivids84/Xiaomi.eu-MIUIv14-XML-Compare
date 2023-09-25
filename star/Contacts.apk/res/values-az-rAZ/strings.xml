@@ -350,7 +350,7 @@
     <string name="composer_has_no_exportable_contact">Xaricə köçürülə biləcək kontakt yoxdur. Əgər cihazınızda kontaktlar varsa, bəzi şəbəkə provayderləri kontaktların cihazınızdan xaricə köçürülməsinə icazə verməyə bilər.</string>
     <string name="composer_not_initialized">"vCard hazırlayıcı düzgün başlamadı."</string>
     <string name="conference_call_disable_tip">"Zəng edilə bilmir. Cihazınızın VoLTE dəstəyi ilə 4G şəbəkəsinə bağlandığına əmin olun."</string>
-    <string name="confirm_call_log_dial_summary">Yanlış zənglər etməmək üçün zəng jurnalından nömrə yığmazdan əvvəl təsdiq istəyin.</string>
+    <string name="confirm_call_log_dial_summary">Təsadüfi zəngləri önləmək üçün zəng qeydlərindən nömrə yığmazdan əvvəl təsdiq istənilsin.</string>
     <string name="confirm_call_log_dial_title">Zəng jurnalından yığımları təsdiqlə</string>
     <string name="confirm_delete_contact_all_call_logs">"Bütün %s tarixçəsi təmizlənsin?"</string>
     <string name="confirm_delete_selected_all_call_logs">Zəng tarixçəsi təmizlənsin?</string>

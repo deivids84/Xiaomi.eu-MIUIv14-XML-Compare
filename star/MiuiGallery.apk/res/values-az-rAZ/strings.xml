@@ -43,7 +43,7 @@
     <string name="acc_open_function_button">Orijinal səsi açmaq üçün düymə</string>
     <string name="acc_renxiangtexiaoshipin">Video seçin</string>
     <string name="acc_search_guide">Formatlar üçün axtarış düyməsi</string>
-    <string name="acc_search_guide_button">Axtarış sətri</string>
+    <string name="acc_search_guide_button">Axtarış çubuğu</string>
     <string name="acc_seconds">Saniyə</string>
     <string name="acc_selected">Seçildi</string>
     <string name="acc_unit_switch">Vahidləri dəyişdir</string>
@@ -1560,7 +1560,7 @@ mövcuddur"</string>
     <string name="mishare_all_devices">Bütün cihazlar</string>
     <string name="mishop_login_other">Başqa hesab</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -2851,7 +2851,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="talkback_doc_with_time_and_location">Sənəd, %1$s, %2$s</string>
     <string name="talkback_image_with_time">Foto, %s</string>
     <string name="talkback_image_with_time_and_location">Foto, %1$s, %2$s</string>
-    <string name="talkback_input_search_hint">Axtarış sətri. Axtarmaq üçün açar sözləri daxil edin.</string>
+    <string name="talkback_input_search_hint">Axtarış çubuğu. Axtarılacaq açar sözləri daxil edin.</string>
     <string name="talkback_portrait_with_time">Portret, %s</string>
     <string name="talkback_portrait_with_time_and_location">Portret, %1$s, %2$s</string>
     <string name="talkback_screenshot_with_time">Ekran şəkli, %s</string>

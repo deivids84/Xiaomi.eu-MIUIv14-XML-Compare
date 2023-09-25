@@ -145,7 +145,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və qəbul etdim"</string>
     <string name="ent_app_verified">Deyəsən, cihazınızda müəssisə tətbiqləri quraşdırılıb. Müəssisə rejimi aktivləşdirilsin?</string>
     <string name="ent_confirm_dialog_content">"Müəssisə rejimini aktivləşdirdikdən sonra sisteminizin indiki vəziyyətinə qayıda bilməyəcəksiniz. Ancaq, bütün məlumatlarınız hələ də bu cihazda saxlanılacaq. Müəssisə rejimini aktivləşdirmək üçün cihazınızı yenidən başlatmalısınız. İndi aktivləşdirilsin?"</string>
-    <string name="ent_disallow_running">Tətbiqin işləməsi qadağandır</string>
+    <string name="ent_disallow_running">Tətbiqin işləməsi yasaqlanıb</string>
     <string name="ent_download_install_dialog_content">Müəssisə rejimini aktivləşdirmək üçün korporativ tətbiqləri quraşdırmalısınız. İndi quraşdırılsın?</string>
     <string name="ent_download_install_dialog_title">Korporativ tətbiqləri endir</string>
     <string name="ent_downloading_message">%d%% endirilir</string>

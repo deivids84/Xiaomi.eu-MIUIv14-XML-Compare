@@ -250,7 +250,7 @@
     <string name="status_canceled">Köçürmə, istifadəçi tərəfindən ləğv edildi.</string>
     <string name="status_connection_error">Bağlantı uğursuz oldu.</string>
     <string name="status_file_error">Anbar problemi.</string>
-    <string name="status_forbidden">Köçürmə, hədəf cihaz tərəfindən qadağan edilib.</string>
+    <string name="status_forbidden">Köçürmə, hədəf cihaz tərəfindən yasaqlandı.</string>
     <string name="status_no_sd_card_default">SD kart yoxdur. Köçürülən faylları saxlamaq üçün SD kartı daxil edin.</string>
     <string name="status_no_sd_card_nosdcard">USB anbar yoxdur.</string>
     <string name="status_not_accept">"Məzmun dəstəklənmir."</string>

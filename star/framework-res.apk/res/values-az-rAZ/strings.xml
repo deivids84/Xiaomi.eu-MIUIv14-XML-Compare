@@ -1339,7 +1339,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
     <string name="permdesc_startViewPermissionUsage">Sahibin, bir tətbiq üçün icazə istifadəsini başlatmasına imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_statusBar">Tətbiqə status çubuğunu sıradan çıxartma və ya sistem nişanlarını əlavə etmə və silmə icazəsi verir.</string>
-    <string name="permdesc_statusBarService">Tətbiqə, vəziyyət sətri olma icazəsi verir.</string>
+    <string name="permdesc_statusBarService">Tətbiqə status çubuğu olma icazəsi verir.</string>
     <string name="permdesc_subscribedFeedsRead">Tətbiqə, hazırkı sinxronlaşdırılan axınlar haqqında məlumat alma icazəsi verir.</string>
     <string name="permdesc_systemAlertWindow">Bu tətbiq, digər tətbiqlərin üzərində və ya ekranın digər hissələrində görünə bilər. Bu, normal tətbiq istifadəsinə təsir edə və digər tətbiqlərin görünmə tərzini dəyişdirə bilər.</string>
     <string name="permdesc_systemCamera">Bu imtiyazlı və ya sistem tətbiqi, istənilən vaxt sistem kamerasını istifadə edərək foto və video çəkə bilər. Tətbiqin bu imtiyaza sahib olması üçün android.permission.CAMERA icazəsi də tələb olunur</string>
@@ -1445,7 +1445,7 @@ icazə tələb olundu"</string>
     <string name="permlab_disableKeyguard">ekran kilidini sıradan çıxart</string>
     <string name="permlab_enableCarMode">avtomobil rejimini fəallaşdır</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">səsyazma məhdudiyyətlərindən azaddır</string>
-    <string name="permlab_expandStatusBar">vəziyyət sətrini genişləndir/yığcamlaşdır</string>
+    <string name="permlab_expandStatusBar">status çubuğunu genişləndir/yığcamlaşdır</string>
     <string name="permlab_foregroundService">önplan xidmətini işə sal</string>
     <string name="permlab_fullScreenIntent">kilidli cihazda tam ekran fəaliyyətləri olaraq bildirişləri görüntülə</string>
     <string name="permlab_getAccounts">cihazda hesabları tap</string>
@@ -1516,8 +1516,8 @@ icazə tələb olundu"</string>
     <string name="permlab_startReviewPermissionDecisions">icazə qərarlarına baxmağa başla</string>
     <string name="permlab_startViewAppFeatures">tətbiq özəlliklərinə baxmağa başla</string>
     <string name="permlab_startViewPermissionUsage">icazə istifadəsini izləməyə başla</string>
-    <string name="permlab_statusBar">vəziyyət sətrini sıradan çıxart və ya dəyişdir</string>
-    <string name="permlab_statusBarService">vəziyyət sətri ol</string>
+    <string name="permlab_statusBar">status çubuğunu sıradan çıxart və ya dəyişdir</string>
+    <string name="permlab_statusBarService">status çubuğu ol</string>
     <string name="permlab_subscribedFeedsRead">abunə olunmuş axınları oxu</string>
     <string name="permlab_systemAlertWindow">Bu tətbiq, digər tətbiqlərin üzərində görünə bilər</string>
     <string name="permlab_systemCamera">Bir tətbiq və ya xidmətin şəkil və video çəkməsi üçün sistem kameralarına müraciətinə icazə ver</string>

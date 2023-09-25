@@ -90,7 +90,7 @@
     <string name="miui_snooze_default_time">%d dəqiqəlik</string>
     <string name="miui_snooze_until_unlock_screen">Kilidlənənə qədər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -160,7 +160,7 @@
     <string name="noon">Günorta</string>
     <string name="not_sent_recently">Təzəlikcə yoxdur</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="notch_and_status_bar_setting">İdarəetmə mərkəzi və vəziyyət sətri</string>
+    <string name="notch_and_status_bar_setting">İdarəetmə mərkəzi və status çubuğu</string>
     <string name="notification_display_setting">Bildiriş paneli</string>
     <string name="notification_display_style">Bildiriş stili</string>
     <string name="notification_fold_description1">Bildirişlər qovluğu MIUI 9-da təqdim edilmişdir. Bu özəllik, lazımsız bildirişləri filtrləyir və onları ayrı bir qovluqda yerləşdirir.</string>
@@ -189,7 +189,7 @@
     <string name="show_badge_notifications">Bildiriş nişanları</string>
     <string name="show_badge_notifications_short">Nişanlar</string>
     <string name="show_weather">Hava məlumatını göstər</string>
-    <string name="status_bar_setting">Vəziyyət sətri</string>
+    <string name="status_bar_setting">Status çubuğu</string>
     <string name="summary_disable_float_notification">"Üzən bildirişlərə icazə verilmir"</string>
     <string name="summary_disable_lockscreen_notification">"Kilid ekranı bildirişlərinə icazə verilmir"</string>
     <string name="summary_disable_show_badge_notification">"Bildiriş nişanlarına icazə verilmir"</string>

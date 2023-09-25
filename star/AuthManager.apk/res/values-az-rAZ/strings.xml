@@ -11,8 +11,8 @@
     <string name="HIPS_Perm_Access_Gallery_Desc">Bu tətbiqin Qalereyanızdakı elementlərə müraciətinə icazə verir</string>
     <string name="HIPS_Perm_AudioRecorder">Səs yaz</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">səs yaz</string>
-    <string name="HIPS_Perm_AutoStart">Başlanğıcda işə salma</string>
-    <string name="HIPS_Perm_AutoStart_Desc">başlanğıcda işə salır</string>
+    <string name="HIPS_Perm_AutoStart">Başlanğıcda işə sal</string>
+    <string name="HIPS_Perm_AutoStart_Desc">başlanğıcda işə sal</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth bağlantısını dəyişdir</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth-u açır və ya bağlayır</string>
     <string name="HIPS_Perm_Body_Sensors">Bədən sensorları</string>
@@ -181,7 +181,7 @@
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
-    <string name="default_permission_description">bilinməyən fəaliyyətləri icra edir</string>
+    <string name="default_permission_description">bilinməyən əməliyyatları icra edir</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">B.E</string>
     <string name="eras_bc">E.Ə.</string>
@@ -224,7 +224,7 @@
     <string name="location_warning">%1$s, bu cihaz üçün yerləşmə xidmətlərinin provayderidir. Yerləşmə xidmətləri, yerləşmə tənzimləmələrindən dəyişdirilə bilər.</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>

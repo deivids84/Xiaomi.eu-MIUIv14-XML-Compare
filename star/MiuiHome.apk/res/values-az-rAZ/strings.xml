@@ -531,7 +531,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="navigation_guide_dialog_dont_show_again">"Təkrar göstərmə"</string>
     <string name="navigation_guide_dialog_ok">Öyrən</string>
     <string name="navigation_guide_dialog_skip">İndi yox</string>
-    <string name="navigation_guide_dialog_summary">Sistem naviqasiyası üçün hansı jestləri istifadə edə biləcəyinizi öyrənin.</string>
+    <string name="navigation_guide_dialog_summary">Sistemdə gəzinmək üçün hansı jestləri istifadə edə biləcəyinizi öyrənin.</string>
     <string name="navigation_guide_dialog_title">Jestləri öyrən</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Tam ekran göstəricisini gizlətdikdən sonra tətbiqlər arasında keçid etmək üçün yeni bir jest istifadə olunacaq. İndi bu jesti öyrənirsiniz?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Yeni bir jest öyrənin</string>

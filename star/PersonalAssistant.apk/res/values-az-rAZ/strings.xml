@@ -77,7 +77,7 @@
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -221,9 +221,9 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, sətir %2$d, nömrə %3$d. 
 Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">\"Temalar\"ı aç</string>
-    <string name="pa_accessibility_picker_search_cancel">Vicet axtarış sətri. İmtina üçün iki dəfə toxunun.</string>
+    <string name="pa_accessibility_picker_search_cancel">Vicet axtarış çubuğu. İmtina üçün iki dəfə toxunun.</string>
     <string name="pa_accessibility_picker_search_clear">Mətni təmizlə</string>
-    <string name="pa_accessibility_picker_search_tips">Vicet axtarış sətri. Axtarmaq üçün iki dəfə toxunun.</string>
+    <string name="pa_accessibility_picker_search_tips">Vicet axtarış çubuğu. Axtarmaq üçün iki dəfə toxunun.</string>
     <string name="pa_accessibility_picker_status_installed">Quraşdırıldı</string>
     <string name="pa_accessibility_picker_status_uninstalled">Quraşdırılmadı</string>
     <string name="pa_accessibility_picker_status_unkonw">Bilinmir</string>
@@ -580,7 +580,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_scan">Skan et</string>
     <string name="pa_scan_app">Skaner</string>
     <string name="pa_search_hint">Axtar</string>
-    <string name="pa_search_summary">Axtarış sətrini görüntülə</string>
+    <string name="pa_search_summary">Axtarış çubuğunu göstər</string>
     <string name="pa_search_title">Axtar</string>
     <string name="pa_setting">Tənzimləmələr</string>
     <string name="pa_setting_app_usage_auth_close_auth">Söndür</string>

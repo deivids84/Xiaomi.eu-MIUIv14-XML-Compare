@@ -2947,7 +2947,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="text_item_type_talkback_spot_budalagong">Potala Sarayı</string>
     <string name="text_item_type_talkback_spot_changcheng">Böyük Divar</string>
     <string name="text_item_type_talkback_spot_daocheng">Yading</string>
-    <string name="text_item_type_talkback_spot_gugong">Qadağan edilmiş şəhər</string>
+    <string name="text_item_type_talkback_spot_gugong">Yasaqlanmış şəhər</string>
     <string name="text_item_type_talkback_spot_gulangyu">Gulangyu</string>
     <string name="text_item_type_talkback_spot_hongyadong">Hongyadong</string>
     <string name="text_item_type_talkback_spot_huanghelou">Sarı Turna Qülləsi</string>

@@ -128,7 +128,7 @@
     <string name="account_setup_failed_security">"Güvənlik xətasına görə serverlə bağlantı qurula bilmədi."</string>
     <string name="account_setup_failed_security_policies_unsupported">"Bu server, %s daxil olmaqla Android cihazınızın dəstəkləmədiyi güvənlik özəlliklərini tələb edir"</string>
     <string name="account_setup_failed_tls_required">TLS tələb olunur, ancaq server tərəfindən dəstəklənmir.</string>
-    <string name="account_setup_failed_too_many_partnerships">"Daxil oluna bilmədi, həddən artıq bağlantı."</string>
+    <string name="account_setup_failed_too_many_partnerships">"Daxil oluna bilmədi, həddən artıq bağlantı var."</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Zibil qutusundan sildiyim zaman</string>
     <string name="account_setup_incoming_delete_policy_never_label">Heç vaxt</string>
     <string name="account_setup_incoming_imap_path_prefix_hint">İxtiyari</string>

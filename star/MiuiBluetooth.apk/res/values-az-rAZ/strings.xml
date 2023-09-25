@@ -383,7 +383,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="profile_connect_timeout_subtext">Bağlantı problemi. Cihazın söndürüb yenidən açın</string>
     <string name="progress_scanning">Axtarılır…</string>
     <string name="request_uninstall">Modulun silinməsini tələb et</string>
-    <string name="reset_function_msg">Bu özəlliyi sıfırlamaq %1$s tətbiqinin normal işləməsini əngəlləyə bilər.</string>
+    <string name="reset_function_msg">Bu özəlliyi sıfırlamaq %1$s tətbiqinin normal işləməsini önləyə bilər.</string>
     <string name="sample_cancel">İmtina</string>
     <string name="sample_confirm">Təsdiqlə</string>
     <string name="sample_prompt_desc">Bu özəlliyi istifadə etmək təxminən %s M trafik istifadə edəcək, Endirməyə davam etmək istəyirsiniz?</string>

@@ -188,7 +188,7 @@
     <string name="clean_summary">%1$s təmizləndi</string>
     <string name="clear_bigfiles">Böyük faylları, dublikat fotoları və digər köhnə elementləri sil</string>
     <string name="clear_immediately">İndi təmizlə</string>
-    <string name="clear_safe_notify">Bildiriş sahəsi viceti</string>
+    <string name="clear_safe_notify">Bildiriş paneli viceti</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="columbus_ad_flag_text">REKLAM</string>
@@ -532,7 +532,7 @@
     <string name="menu_view">Qovluqda bax</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -600,7 +600,7 @@
     <string name="msg_update_error_code_success">Hazırdır</string>
     <string name="msg_update_error_code_unknown_error">Serverlər məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="name_debuglog_dir">BSP sazlama jurnalı</string>
-    <string name="nb_clear_set">Keşi təmizlə, bildiriş sahəsində batareya və əngəlli siyahısı məlumatlarına bax</string>
+    <string name="nb_clear_set">Keşi təmizlə, bildiriş panelində batareya və əngəlli siyahısı məlumatlarına bax</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
     <string name="news_change">Dəyişdir</string>
     <string name="night">Axşam</string>
@@ -870,7 +870,7 @@
     <string name="tips_of_network_speed_set">Şəbəkə sürətinə vəziyyət çubuğunda bax</string>
     <string name="tips_of_operators_set">İnternet istifadə statistikalarını avto-nizamla</string>
     <string name="tips_of_package_set">İnternet planınızı tənzimləyin və istifadə etdiyiniz trafik miqdarına nəzarət edin</string>
-    <string name="tips_of_traffic_notification">Bildiriş sahəsində mobil internet statistikalarını göstər</string>
+    <string name="tips_of_traffic_notification">Bildiriş panelində mobil internet statistikalarını göstər</string>
     <string name="tips_of_traffic_pack_threshold">"Trafik limitinə çatmaq üzrə olduğunuz vaxt daha çox internet satın alın"</string>
     <string name="tips_of_virus_scan">Cihazınızı güvənli saxlamaq üçün müntəzəm olaraq virus üzrə skan edin</string>
     <string name="title_auto_cleaner">Təmizləməyi xatırlat</string>

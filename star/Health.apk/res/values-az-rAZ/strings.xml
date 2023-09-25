@@ -94,7 +94,7 @@ Məşqlərinizi və fəaliyyətinizi izləyə biləcəksiniz."</string>
 
 Sizə tövsiyələr vermək üçün sağlamlıq məlumatlarınızı üçüncü tərəf xidmət provayderi ilə paylaşacağıq. Paylaşacağımız elementlərə şəxsi məlumatlar (yaş, cins), sağlamlıq statistikaları (boy, çəki, məşq rejimi), davranış məlumatları (başlama və bitmə vaxtları, həmçinin məşqlərinizin müddəti) daxildir.
 
-Üçüncü tərəf xidmət provayderlərinin aldıqları məlumatlara əsasən sizi şəxsən tanımaqlarının qarşısını almaq üçün paylaşmazdan əvvəl bu elementləri anonimləşdirəcəyik.
+Üçüncü tərəf xidmət provayderlərinin aldıqları məlumatlara əsasən sizi şəxsən tanımaqlarını önləmək üçün paylaşmazdan əvvəl bu elementləri anonimləşdirəcəyik.
 
 Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm məşqlərinizi davam etdirə bilərsiniz."</string>
     <string name="auth_dialog_link">Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin.</string>
@@ -1240,7 +1240,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_question_one_answer">"Cihazınız söndürüləndə, yenidən başladılanda və ya batareya az olduqda, sensorlar məlumatları yığa və təhlil edə bilmədiyi üçün yuxu izləmə yarımçıq kəsiləcək. Belə hallarda yuxu statistikası əskik görünəcək.
 Bu problem tez-tez baş verirsə, cihazınızda planlaşdırılmış söndürmə tapşırıqları və ya gecə ərzində sistem güncəlləmələrinin olub-olmadığını yoxlayın."</string>
     <string name="sleep_detection_question_one_answer_1">"Dərin və yüngül yuxu fazaları cihazınızın sensorları tərəfindən yığılan bədən hərəkəti məlumatlarına əsasən aşkar edilir. Statistikaları görə bilməməyinizin səbəbləri bunlardır:
-1. Xiaomi Health, məlumatları yığa bilmir. Bu, siz yatdığınız vaxt cihaz sönülü olduqda, batareyası zəif olduqda və ya tətbiqin arxaplanda işləməsinə icazə verilmədikdə baş verə bilir. Bunun baş verməsinin qarşısını almaq üçün, Xiaomi Health-in avto-başlamasına icazə verin, onu Batareyaya Qənaət rejimində istisnalara əlavə edin və arxaplanda kilidləyin.
+1. Xiaomi Health, məlumatları yığa bilmir. Bu, siz yatdığınız vaxt cihaz sönülü olduqda, batareyası zəif olduqda və ya tətbiqin arxaplanda işləməsinə icazə verilmədikdə baş verə bilir. Bunun baş verməsini önləmək üçün, Xiaomi Health-in avto-başlamasına icazə verin, onu Batareyaya Qənaət rejimində istisnalara əlavə edin və arxaplanda kilidləyin.
 2. Xiaomi Health, yığılmış məlumatları təhlil edə bilmir. Bu, siz yatdığınız vaxt cihazın bədəninizdən çox uzaqda olduğu halda baş verə bilir. Alternativ olaraq, bədən hərəkətiniz yuxu dövrünüzdəki dəyişikliklərlə bağlı fərziyyələr irəli sürmək üçün çox incə ola bilər. Xiaomi Health-in yuxunuzu daha yaxşı təhlil etməsi üçün alqoritmlərimizi daim təkmilləşdiririk."</string>
     <string name="sleep_detection_question_one_title">Statistikalarım niyə əskikdir?</string>
     <string name="sleep_detection_question_one_title_1">"Niyə yuxu dövrü statistikalarımı görə bilmirəm?"</string>

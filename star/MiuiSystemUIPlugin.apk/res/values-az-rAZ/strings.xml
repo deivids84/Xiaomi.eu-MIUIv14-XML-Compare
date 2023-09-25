@@ -181,7 +181,7 @@
     <string name="miplay_accessibility_pause">Fasilə ver</string>
     <string name="miplay_accessibility_play">Oxut</string>
     <string name="miplay_accessibility_prev">Əvvəlki mahnı</string>
-    <string name="miplay_accessibility_seekbar">İrəlIləyIş sətrI</string>
+    <string name="miplay_accessibility_seekbar">İrəlIləyIş çubuğu</string>
     <string name="miplay_accessibility_volume">Səs səviyyəsi</string>
     <string name="miplay_detail_divider_title">TV-lər və dinamiklər</string>
     <string name="miplay_detail_header_no_song">Oxutma tarixçəsi yoxdur</string>
@@ -201,7 +201,7 @@
     <string name="miui_toast_zen_to_dnd_when_lock">Cihaz kilidləndikdə zənglər və bildirişlər susdurulacaq</string>
     <string name="miui_toast_zen_to_standard">Səssiz rejim açıqdır</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -394,7 +394,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="slider_view_content_left_description">Fastboot rejimində yenidən başlatmaq üçün yuxarı, Bərpa rejimində yenidən başlatmaq üçün aşağı sürüşdürün</string>
     <string name="slider_view_content_right_description">Təyyarə rejimini dəyişdirmək üçün yuxarı, Səssiz rejimini dəyişdirmək üçün aşağı sürüşdürün</string>
     <string name="smart_home_title">Ağıllı cihazlar</string>
-    <string name="status_bar_setting_title">İdarəetmə mərkəzi və vəziyyət sətri</string>
+    <string name="status_bar_setting_title">İdarəetmə mərkəzi və status çubuğu</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>

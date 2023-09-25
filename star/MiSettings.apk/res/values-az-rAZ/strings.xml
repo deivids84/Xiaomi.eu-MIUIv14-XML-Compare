@@ -46,7 +46,7 @@
     <string name="animal_select_alert_info">5 elementə qədər seçə bilərsiniz</string>
     <string name="anti_flicker_mode">Titrəməsiz</string>
     <string name="anti_flicker_mode_categroy">Rejimlər</string>
-    <string name="anti_flicker_mode_summary">Həddən artıq titrəməni əngəlləyin və zəif işıq şəraitində göz yorğunluğunu azaldın</string>
+    <string name="anti_flicker_mode_summary">Zəif işıq şəraitində aşırı titrəməni əngəlləyin və göz yorğunluğunu azaldın</string>
     <string name="anti_flicker_title">Titrəməsiz rejim</string>
     <string name="app_name">Tənzimləmələr</string>
     <string name="application_sound">Tətbiq bildirişləri</string>

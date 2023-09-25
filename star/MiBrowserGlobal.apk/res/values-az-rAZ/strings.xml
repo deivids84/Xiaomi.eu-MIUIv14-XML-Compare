@@ -1336,7 +1336,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Cihazınız yuxu rejiminə gedəndə bağlantı yarımçıq kəsildi.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Şəbəkə dəyişikliyinə görə bağlantı yarımçıq kəsildi.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Fayl tapıla bilmədi. Fayl daşınmış və ya silinmiş ola bilər."</string>
-    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Fayl oxuna bilmədi. Fayl icazələri müraciətin qarşısını ala bilər."</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Fayl oxuna bilmədi. Fayl icazələri müraciəti əngəlləyə bilər."</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 ünvanının cavab verməsi çox uzun çəkdi.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Şəbəkə müraciəti məhdudlaşdırılıb.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"İnternetə bağlana bilmədi. Proksi serverində bir problem var və ya proksi ünvanı yanlışdır."</string>
@@ -2569,7 +2569,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_record_dialog_title">Qoruma tarixçəsini təmizlə</string>
     <string name="web_permission_protect_title">Gizlilik qoruması</string>
     <string name="web_permission_protect_track_record">"\"İzləmə\", bu veb saytlar üçün işləmir"</string>
-    <string name="web_permission_protect_track_switch_summary">Veb saytların fəaliyyətinizi izləməsinin qarşısını almaq üçün işə salın</string>
+    <string name="web_permission_protect_track_switch_summary">Veb saytların fəaliyyətinizi izləməsini önləmək üçün işə salın</string>
     <string name="web_permission_protect_track_switch_title">İlkin əməliyyatlar</string>
     <string name="web_permission_setting_page_ad_desc">Özəlləşdirilmiş reklam əngəlləyici tənzimləmələri bundan sonra ləğv ediləcək.</string>
     <string name="web_permission_setting_page_ad_subtitle">Bu veb sayt üçün reklam etiketlərini təmizlə</string>

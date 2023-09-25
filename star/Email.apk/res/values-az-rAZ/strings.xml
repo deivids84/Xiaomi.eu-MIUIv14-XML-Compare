@@ -773,7 +773,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="nav_app_bar_navigate_up_description">Yuxarı keç</string>
-    <string name="nav_app_bar_open_drawer_description">Hərəkət siyirməsini aç</string>
+    <string name="nav_app_bar_open_drawer_description">Naviqasiya siyirməsini aç</string>
     <string name="network_error">Bağlantı yoxdur</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_try_again">Şəbəkə bağlantısını yoxlayıb yenidən sınayın</string>

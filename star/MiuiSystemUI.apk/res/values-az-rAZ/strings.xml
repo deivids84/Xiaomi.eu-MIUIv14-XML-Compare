@@ -1663,23 +1663,23 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
 - Həmişə göstər 
 
 \"<b>Səviyyə 4</b>\" 
-- Tam ekran kəsintisini əngəllə 
+- Tam ekran kəsintisini önlə 
 - Həmişə göstər 
 
 \"<b>Səviyyə 3</b>\" 
-- Tam ekran kəsintisini əngəllə 
+- Tam ekran kəsintisini önlə 
 - Ekranda heç vaxt göstərmə 
 
 \"<b>Səviyyə 2</b>\" 
-- Tam ekran kəsintisini əngəllə
-- Ekranda heç vaxt göstərmə
+- Tam ekran kəsintisini önlə 
+- Ekranda heç vaxt göstərmə 
 - Səs çıxartma və ya titrətmə 
 
 \"<b>Səviyyə 1</b>\"
-- Tam ekran kəsintisini əngəllə
-- Ekranda heç vaxt göstərmə
+- Tam ekran kəsintisini önlə 
+- Ekranda heç vaxt göstərmə 
 - Səs çıxartma və ya titrətmə 
-- Kilid ekranından və vəziyyət çubuğundan gizlət 
+- Kilid ekranından və status çubuğundan gizlət 
 - Bildiriş siyahısının altında göstər 
 
 \"<b>Səviyyə 0</b>\" 
@@ -2213,8 +2213,8 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="usb_accessory_uri_prompt">Bu USB aksessuarı ilə işləyən quraşdırılmış tətbiq yoxdur. Bu aksesuar haqqında daha çox məlumatı %1$s ünvanından öyrənin</string>
     <string name="usb_audio_device_confirm_prompt_title">%2$s - idarə etmək üçün %1$s açılsın?</string>
     <string name="usb_audio_device_permission_prompt_title">%1$s üçün buna müraciət icazəsi verilsin: %2$s?</string>
-    <string name="usb_audio_device_prompt">Bu cihazda %1$s istifadə etmək zənglərin, bildirişlərin və zəngli saatların eşidilməsini əngəlləyə bilər.</string>
-    <string name="usb_audio_device_prompt_warn">Bu tətbiqə səs yazma icazəsi verilməyib, ancaq USB cihazı vasitəsilə səsi yaxalaya bilər. Bu cihazla %1$s istifadə etmək, zənglərin, bildirişlərin və zəngli saatların eşidilməsinə mane ola bilər.</string>
+    <string name="usb_audio_device_prompt">Bu cihazla %1$s istifadə etmək zənglərin, bildirişlərin və zəngli saatların eşidilməsini önləyə bilər.</string>
+    <string name="usb_audio_device_prompt_warn">Bu tətbiqə səs yazma icazəsi verilməyib, ancaq USB cihazı vasitəsilə səsi yaxalaya bilər. Bu cihazla %1$s istifadə etmək, zənglərin, bildirişlərin və zəngli saatların eşidilməsinə önləyə bilər.</string>
     <string name="usb_audio_disable_routing">USB səs yönləndirməsini söndür</string>
     <string name="usb_audio_disable_routing_summary">USB səs cihazlarına avto-yönləndirməni söndür</string>
     <string name="usb_contaminant_message">"Cihazınızı maye və ya qırıntılardan qorumaq üçün, USB portu sıradan çıxarılır və heç bir aksesuar aşkarlamır.

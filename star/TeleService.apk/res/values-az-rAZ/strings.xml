@@ -2071,7 +2071,7 @@ Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="voice_service_switch_title">VoLTE zəng xidmətlərini istifadə et</string>
     <string name="voice_service_warning_dialog_body">"Bu planşet, 4G şəbəkələrində VoLTE zənglərini dəstəkləyir. Cihazınızın bağlantı qurduğu şəbəkələrin bu funksionallığı dəstəklədiyinə əmin olun. VoLTE xidmətləri operatorunuz tərəfindən təmin edilir. VoLTE-nin bölgənizdə dəstəkləndiyini öyrənmək üçün yerli operatorunuzla əlaqə saxlayın.
 
-Vəziyyət sətrində _ görsəniz, bilin ki, VoLTE zəngləri əlçatmazdır. Zəng edə və ya ala bilmirsinizsə, zəngləriniz yarımçıq kəsilirsə, şəbəkənizin VoLTE ilə uyğun olduğuna əmin olun. 
+Status çubuğunda _ görsəniz, bilin ki, VoLTE zəngləri əlçatmazdır. Zəng edə və ya ala bilmirsinizsə, zəngləriniz yarımçıq kəsilirsə, şəbəkənizin VoLTE ilə uyğun olduğuna əmin olun. 
 
 Bu planşetdə qulaqlıq sahəsi yoxdur. Zəng edə bilmək üçün əllər-sərbəst rejiminə keçin və ya qulaqlıq istifadə edin."</string>
     <string name="voice_service_warning_dialog_cancel">İmtina</string>

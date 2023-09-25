@@ -713,7 +713,7 @@
     <string name="pref_content_cleanup_white_list_none">Yoxdur</string>
     <string name="pref_summary_auto_clean_and_alert">Təmizləyicinin avtomatik işə düşməsini planlaşdır</string>
     <string name="pref_summary_auto_update_cleanup_db">%s güncəlləndi</string>
-    <string name="pref_summary_cleanup_white_list">Seçilmiş faylların təmizlənməsinin qarşısını al</string>
+    <string name="pref_summary_cleanup_white_list">Seçilmiş faylların təmizlənməsini önlə</string>
     <string name="pref_summary_expand_cache_group">Keş detallarını avtomatik göstər</string>
     <string name="pref_summary_garbage_auto_clean_content">Avtomatik təmizlənəcək elementləri seçin</string>
     <string name="pref_summary_garbage_cleanup_check_size">Tullantı həcmi müəyyən ölçüyə çatanda avtomatik təmizlə</string>
@@ -862,7 +862,7 @@
     <string name="tips_low_storage_dialog_ok_storage">Boş yer aç</string>
     <string name="tips_low_storage_dialog_title">Anbar sahəsi tükənir</string>
     <string name="tips_of_app_manage">Anbara qənaət etmək üçün az istifadə edilən tətbiqləri silin</string>
-    <string name="tips_of_auto_launch_manage">Az istifadə edilən tətbiqlərin avto-başladılmasının qarşısını al</string>
+    <string name="tips_of_auto_launch_manage">Az istifadə edilən tətbiqlərin avto-başladılmasını önlə</string>
     <string name="tips_of_cloud_service">Daha çox Xiaomi xidmətini istifadə etmək üçün Xiaomi Hesabınızla daxil olun</string>
     <string name="tips_of_connect">Güvənlik tətbiqinin bütün özəlliklərini istifadə etmək üçün internetə bağlanın</string>
     <string name="tips_of_garbage_cloud_scan">Bulud skanı ilə gizli qalıqları tapın</string>

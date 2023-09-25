@@ -154,7 +154,7 @@
     <string name="accessibility_edit_shortcut_menu_button_title">Əlçatımlılıq düyməsi ilə istifadə ediləcək özəllikləri seçin</string>
     <string name="accessibility_edit_shortcut_menu_volume_title">Səs düyməsi qısayolu ilə istifadə ediləcək özəllikləri seçin</string>
     <string name="accessibility_enable_service_title">%1$s üçün cihazınıza tam nəzarət icazəsi verirsiniz?</string>
-    <string name="accessibility_freeform_caption">%1$s - başlıq sətri.</string>
+    <string name="accessibility_freeform_caption">%1$s - başlıq çubuğu.</string>
     <string name="accessibility_gesture_3finger_instructional_text">Özəlliklər arasında keçid etmək üçün, üç barmaqla yuxarı sürüşdürüb basılı saxlayın.</string>
     <string name="accessibility_gesture_3finger_prompt_text">Əlçatımlılıq jesti ilə istifadə ediləcək bir özəlliyi seçin (ekranın aşağısından yuxarıya üç barmaqla sürüşdürün):</string>
     <string name="accessibility_gesture_instructional_text">Özəlliklər arasında keçid etmək üçün, iki barmaqla yuxarı sürüşdürüb basılı saxlayın.</string>
@@ -601,7 +601,7 @@ nömrəni yığın"</string>
     <string name="face_acquired_poor_gaze">Zəhmət olmasa birbaşa cihazınıza baxın.</string>
     <string name="face_acquired_recalibrate">Zəhmət olmasa üzünüzü yenidən qeyd edin.</string>
     <string name="face_acquired_roll_too_extreme">Başınızı bir az da çevirin.</string>
-    <string name="face_acquired_sensor_dirty">Qara sətir daxil olmaqla ekranınızın üst hissəsini təmizləyin</string>
+    <string name="face_acquired_sensor_dirty">Qara çubuq daxil olmaqla ekranınızın üst hissəsini təmizləyin</string>
     <string name="face_acquired_tilt_too_extreme">Başınızı bir az da əyin.</string>
     <string name="face_acquired_too_bright">Çox parlaqdır. Daha zəif işıqda yoxlayın.</string>
     <string name="face_acquired_too_close">Telefonu uzaqlaşdırın.</string>
@@ -1267,7 +1267,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_disableKeyguard">Tətbiqə, düymə kilidini və əlaqələndirilmiş parol güvənliyini sıradan çıxartmasına verir. Nümunə üçün, telefon, bir zəng alanda düymə kilidini sıradan çıxardır, zəng bitədnə düymə kilidini yenidən fəallaşdırır.</string>
     <string name="permdesc_enableCarMode">Tətbiqin, avtomobil rejimini fəallaşdırmasına icazə verir.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Tətbiqi, səs yazmaq üçün məhdudiyyətlərdən azad edin.</string>
-    <string name="permdesc_expandStatusBar">Tətbiqin, vəziyyət sətrini genişləndirməsinə və ya yığcamlaşdırmasına icazə verir.</string>
+    <string name="permdesc_expandStatusBar">Tətbiqə status çubuğunu genişləndirmə və ya yığcamlaşdırma icazəsi verir.</string>
     <string name="permdesc_foregroundService">Tətbiqin, önplan xidmətlərini istifadə etməsinə icazə verir.</string>
     <string name="permdesc_fullScreenIntent">Tətbiqin, bildirişləri kilid cihazda tam ekran fəaliyyəti olaraq görüntüləməsinə icazə verir</string>
     <string name="permdesc_getAccounts">Tətbiqin, telefonun tanıdığı hesabların siyahısını almağa icazə verir. Bu, quraşdırdığınız tətbiqlər tərəfindən yaradılmış istənilən hesabları ehtiva edə bilər.</string>
@@ -1338,7 +1338,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_startReviewPermissionDecisions">Sahibin, icazə qərarlarını incələməsi üçün ekran başlatmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
     <string name="permdesc_startViewPermissionUsage">Sahibin, bir tətbiq üçün icazə istifadəsini başlatmasına imkan verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
-    <string name="permdesc_statusBar">Tətbiqə, vəziyyət sətrini sıradan çıxartma və sistem nişanlarını əlavə etmə və silmə icazəsi verir.</string>
+    <string name="permdesc_statusBar">Tətbiqə status çubuğunu sıradan çıxartma və ya sistem nişanlarını əlavə etmə və silmə icazəsi verir.</string>
     <string name="permdesc_statusBarService">Tətbiqə, vəziyyət sətri olma icazəsi verir.</string>
     <string name="permdesc_subscribedFeedsRead">Tətbiqə, hazırkı sinxronlaşdırılan axınlar haqqında məlumat alma icazəsi verir.</string>
     <string name="permdesc_systemAlertWindow">Bu tətbiq, digər tətbiqlərin üzərində və ya ekranın digər hissələrində görünə bilər. Bu, normal tətbiq istifadəsinə təsir edə və digər tətbiqlərin görünmə tərzini dəyişdirə bilər.</string>

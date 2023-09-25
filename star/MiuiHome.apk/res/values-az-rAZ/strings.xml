@@ -30,7 +30,7 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="accessibility_all_app_custom_category_finish">Hazırdır</string>
     <string name="accessibility_all_app_custom_category_item_remove">Kateqoriyadan \"%1$s\" sil</string>
-    <string name="accessibility_clear_search_bar_text">Axtarış sətrini təmizlə</string>
+    <string name="accessibility_clear_search_bar_text">Axtarış çubuğunu təmizlə</string>
     <string name="accessibility_enter_all_app_mode">Tətbiq siyirməsini aç</string>
     <string name="accessibility_enter_all_app_settings">Tətbiq siyirmə tənzimləmələrini aç</string>
     <string name="accessibility_menu_item_smallwindow_disable">"Bu tətbiq üzən pəncərələri dəstəkləmir"</string>
@@ -82,7 +82,7 @@
     <string name="all_apps_setting_jeejen_title">Lite rejimi</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Orijinal düzüm</string>
-    <string name="all_apps_setting_scroll_bar">Sürüşdürmə sətri</string>
+    <string name="all_apps_setting_scroll_bar">Sürüşdürmə çubuğu</string>
     <string name="all_apps_setting_title">Əsas ekran</string>
     <string name="am">GƏ</string>
     <string name="animation_rate_title">Animasiya sürəti</string>
@@ -109,7 +109,7 @@
     <string name="announce_for_move_hotseat">%1$d yuva mövqeyinə get</string>
     <string name="announce_for_open_default_preview">İlkin Əsas ekran tənzimləmələri açıldı</string>
     <string name="announce_for_open_folder">%1$s qovluğu açıldı</string>
-    <string name="announce_for_search_bar">Axtarış sətri</string>
+    <string name="announce_for_search_bar">Axtarış çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Silinmə dialoqu göründü. Ləğv et və ya təsdiqlə.</string>
     <string name="announce_for_unchecked">%1$s, yoxlanılmadı</string>
     <string name="announce_for_widget_span">En %1$d, hündürlük %2$d</string>
@@ -151,7 +151,7 @@
     <string name="auto_add_app_shortcut">Yeni tətbiqləri Əsas ekranda yerləşdirin</string>
     <string name="auto_delete_category_dialog_content">Hazırkı tətbiqlər bu kateqoriyadan silinəcək və kateqoriya silinəcək. Bu kateqoriya indi silinsin?</string>
     <string name="auto_delete_category_dialog_title">Kateqoriya silinir</string>
-    <string name="auto_disable_screenbuttons_summary">"Vəziyyət sətri göstərilmədikdə naviqasiya düymələrini avtomatik sıradan çıxart. Təkrar fəallaşdırmaq üçün istənilən naviqasiya düyməsinə cüt toxunun."</string>
+    <string name="auto_disable_screenbuttons_summary">"Vəziyyət çubuğu göstərilmədikdə naviqasiya düymələrini avtomatik sıradan çıxart. Təkrar fəallaşdırmaq üçün istənilən naviqasiya düyməsinə cüt toxunun."</string>
     <string name="auto_disable_screenbuttons_title">Naviqasiya düymələrini avto-sıradan çıxart</string>
     <string name="back">Geri</string>
     <string name="backup_fail">"Başladıcı nüsxələnə bilmədi"</string>
@@ -214,10 +214,10 @@
     <string name="color_group">Nişanları rəngə görə qruplaşdır</string>
     <string name="color_group_anim">Rəng kateqoriyalarında animasiyalar</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
-    <string name="common_home_search_delete">Axtarış sətri silinir</string>
+    <string name="common_home_search_delete">Axtarış çubuğu silmə</string>
     <string name="common_home_search_delete_cancle">İmtina</string>
     <string name="common_home_search_delete_confirm">Sil</string>
-    <string name="common_home_search_delete_content">"Axtarış sətrini Əsas ekrandan sildikdən sonra cəld axtarışı istifadə edə bilməyəcəksiniz. Yenə də silinsin?"</string>
+    <string name="common_home_search_delete_content">"Axtarış çubuğunu Əsas ekrandan sildikdən sonra cəld axtarışı istifadə edə bilməyəcəksiniz. Yenə də silinsin?"</string>
     <string name="confirm_btn_label">Oldu</string>
     <string name="content_center">Məzmun Mərkəzi</string>
     <string name="content_description_button_add">Mövcud tətbiqlərə əlavə etmək üçün toxunun</string>
@@ -355,8 +355,8 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="launcher_icon_management">Əsas ekran qısayollarını idarə et</string>
     <string name="launcher_pull_down_title">Əsas ekranda aşağı sürüşdür</string>
     <string name="launcher_search">Əsas ekran axtarışı</string>
-    <string name="launcher_search_bar_provider_title">Axtarış sətri provayderi</string>
-    <string name="launcher_search_bar_title">Əsas ekran axtarış sətri</string>
+    <string name="launcher_search_bar_provider_title">Axtarış çubuğu provayderi</string>
+    <string name="launcher_search_bar_title">Əsas ekran axtarış çubuğu</string>
     <string name="launcher_slide_up_search_provider_title">Yuxarı sürüşdürmə axtarış provayderi</string>
     <string name="launcher_slide_up_title">Əsas ekranda yuxarı sürüşdür</string>
     <string name="launcher_sliding_up_gesture">Axtarışı açmaq üçün Əsas ekranda yuxarı sürüşdür</string>
@@ -418,7 +418,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="miui_widget_menu_replace_text">Dəyişdir</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Tətbiq kassası bu ölçüdəki vicetləri dəstəkləmir"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -755,7 +755,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="unnamed_folder_name">Qovluq</string>
     <string name="unstable_dialog_message">Bu cihaz Android 13 Developer Preview Proqramına yazılıb. Proqram, Android developerlərin və həvəskərların Android 13-ün buraxılışdan əvvəlki versiyalarını sınamağına imkan verir. Bu ön-buraxılış versiyası, cihazınızın normal işləməsinə təsir edə biləcək xətalar və qüsurlar ehtiva edə bilər.</string>
     <string name="unstable_dialog_title">Android Tərtibatçı Önbaxış Proqramı</string>
-    <string name="upgrade_remove_small_window_in_recents">Tətbiqləri üzən pəncərələrdə açmaq üçün yan sətirləri istifadə edə bilərsiniz</string>
+    <string name="upgrade_remove_small_window_in_recents">Tətbiqləri üzən pəncərələrdə açmaq üçün yan çubuğu istifadə edə bilərsiniz</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="wallpaper">Divar kağızı</string>

@@ -749,7 +749,7 @@
     <string name="miuishare_title_more">Daha çox</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-    <string name="miuix_alphabet_indexer_name">İndeks sətri</string>
+    <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -1407,7 +1407,7 @@ Xoşbəxt ol"</string>
     <string name="talkback_mode_repeat_shuffle">Təsadüfi oxutma rejimi</string>
     <string name="talkback_more">Daha çox menyu</string>
     <string name="talkback_next">Növbəti mahnı</string>
-    <string name="talkback_nowplaying_bar">Oxutma sətri</string>
+    <string name="talkback_nowplaying_bar">Oxutma çubuğu</string>
     <string name="talkback_nowplaying_circle">Oxutma dairəsi</string>
     <string name="talkback_play">Oxut / Fasilə ver</string>
     <string name="talkback_pre">Əvvəlki mahnı</string>

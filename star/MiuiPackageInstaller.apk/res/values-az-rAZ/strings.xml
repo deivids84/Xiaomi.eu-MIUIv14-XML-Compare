@@ -147,7 +147,7 @@
     <string name="dialog_install_source">Mənbə: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Anladım</string>
     <string name="dialog_security_mode_guide_cancel">İmtina</string>
-    <string name="dialog_security_mode_guide_delete_apps_msg">"Heç vaxt istifadə etmədiyiniz bir neçə tətbiqi silmisiniz. İstənilməyən tətbiqləri və ya reklamları səhvən endirmisinizsə, razılığınız olmadan tətbiqlərin digər tətbiqləri endirməsinin və quraşdırmasının qarşısını almaq üçün Mi Protect-i işə salın."</string>
+    <string name="dialog_security_mode_guide_delete_apps_msg">"Heç vaxt istifadə etmədiyiniz bir neçə tətbiqi silmisiniz. İstənilməyən tətbiqləri və ya reklamları səhvən endirmisinizsə, razılığınız olmadan tətbiqlərin digər tətbiqləri endirməsini və quraşdırmasını önləmək üçün Mi Protect-i işə salın."</string>
     <string name="dialog_security_mode_guide_elder_msg">"Gizliliyinizi və güvənliyinizi təmin etmək üçün Mi Protect-in Yaşlı qorumasını işə salın."</string>
     <string name="dialog_security_mode_guide_open">İşə sal</string>
     <string name="dialog_security_mode_guide_title">Mi Protect-i işə sal</string>
@@ -659,7 +659,7 @@
     <string name="pure_introduction_des1">Quraşdırmazdan əvvəl mümkün güvənlik riskləri üçün bilinməyən mənbələrdən gələn tətbiqləri yoxlayın</string>
     <string name="pure_introduction_des2">Zərərli tətbiq fəaliyyətlərini müşahidə edin, idarə edin və məhdudlaşdırın</string>
     <string name="pure_introduction_des3">Maliyyə əməliyyatlarının yararlılığını təmin etmək üzrə güvənlik məsələləri üçün ödəniş mühitini yoxlayın</string>
-    <string name="pure_introduction_des4">Şəxsi məlumatlarınızın ifşa olunmaması üçün gizliliklə əlaqəli icazələri idarə edin</string>
+    <string name="pure_introduction_des4">Şəxsi məlumatlarınızın ifşa olunmasını önləmək üçün gizliliklə əlaqəli icazələri idarə edin</string>
     <string name="pure_introduction_des5">Şübhəli fəaliyyəti aşkarlayın və mümkün fırıldaqçılığı əngəlləyin</string>
     <string name="pure_introduction_label1">Tətbiqlər</string>
     <string name="pure_introduction_label2">Sistem</string>
@@ -768,9 +768,9 @@
     <string name="service_mode_app_error_install">Təsadüfi quraşdırma qoruması</string>
     <string name="service_mode_app_error_install_summary">Təsdiqlənməmiş mənbələrdən tətbiqləri quraşdırarkən bildiriş alın</string>
     <string name="service_mode_app_security_detection">Tətbiq güvənliyinin təsdiqlənməsi</string>
-    <string name="service_mode_app_security_detection_summary">Yüksək riskli və ya zərərli tətbiqləri və virusların quraşdırılmasını tanıyır və qarşısını alır</string>
+    <string name="service_mode_app_security_detection_summary">Yüksək riskli və ya zərərli tətbiqləri və virusları tanıyır və quraşdırılmasını önləyir</string>
     <string name="service_mode_elder_app_error_install_summary">Təsdiqlənməmiş mənbələrdən tətbiqlərin quraşdırılması ilkin olaraq əngəllənir</string>
-    <string name="service_mode_elder_risk_app_download">Riskli endirmələrin qarşısını al</string>
+    <string name="service_mode_elder_risk_app_download">Riskli endirmələri önləyin</string>
     <string name="service_mode_elder_risk_app_download_summary">\"Mi Brauzer\"dən riskli tətbiqlərin endirilməsi ilkin olaraq əngəllənir</string>
     <string name="service_mode_pay_protection">Ödəniş qoruması</string>
     <string name="service_mode_pay_protection_summary">Ödəniş mühitinin güvənliyini qiymətləndirir və riskləri müəyyən edir</string>

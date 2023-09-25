@@ -864,7 +864,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="get_back_pwd">Parol sıfırlama</string>
     <string name="get_ph_ticket">Kodu al</string>
     <string name="get_phone_bind_exceed_limit">"Bir telefon nömrəsi ilə 3 Mi Hesabına qədər əlaqələndirə bilərsiniz. Yeni hesablar əlavə edilə bilmir."</string>
-    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq çox təsdiqləmə kodu göndərilib. 24 saat gözləyin və yenidən sınayın.</string>
+    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq çox təsdiqləmə kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="go_supermarket_button">Get</string>
     <string name="go_supermarket_title">Daha çox tətbiq, daha yüksək sürət və daha az verilənlər istifadəsi üçün Tətbiq Mağazasında istifadə edin</string>
     <string name="go_to_tab">Vərəqlər</string>
@@ -1998,7 +1998,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="request_profile_error">"Hesab məlumatı alına bilmədi"</string>
     <string name="resend_active_email">Təkrar göndər</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq çox təsdiqləmə e-poçtu tələb etdiniz. Təsdiqləmə e-poçtunun Spam qovluğunda olmadığına əmin olun."</string>
-    <string name="resend_email_reach_limit_title">Həddən artıq çox cəhd</string>
+    <string name="resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="resend_email_success">Uğurla göndərildi</string>
     <string name="restart">Başdan başlat</string>
     <string name="restart_action">Başdan başlat</string>
@@ -2183,7 +2183,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="sniff_dialog">Endirilə bilən məzmun</string>
     <string name="sniff_no_resource">Endirilə bilən məzmun tapılmadı</string>
     <string name="sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
-    <string name="sns_bind_limit">Həddən artıq çox cəhd. Digər daxil olma yollarını yoxlayın.</string>
+    <string name="sns_bind_limit">Həddindən artıq cəhd. Digər daxil olma yollarını yoxlayın.</string>
     <string name="sns_sign_in">Digər daxil olma yolları</string>
     <string name="soft_toast_see_view">Bax</string>
     <string name="source_dislike">Bəyənməmə</string>

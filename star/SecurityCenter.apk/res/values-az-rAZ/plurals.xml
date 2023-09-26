@@ -885,8 +885,8 @@
         <item quantity="one">%d batareya problemi həll edildi</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Fabrik tənzimləmələrinə sıfırla (%ds)</item>
-        <item quantity="one">Fabrik tənzimləmələrinə sıfırla (%ds)</item>
+        <item quantity="other">Fabrik sıfırlaması (%ds)</item>
+        <item quantity="one">Fabrik sıfırlaması (%ds)</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">%d qeyri-rəsmi tətbiq tapıldı</item>

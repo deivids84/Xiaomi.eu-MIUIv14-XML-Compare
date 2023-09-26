@@ -436,12 +436,12 @@
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
-    <string name="passport_account_user_email">Bərpa e-poçtu</string>
+    <string name="passport_account_user_email">Geri qaytarma e-poçtu</string>
     <string name="passport_account_user_gender">Cins</string>
     <string name="passport_account_user_id">Xiaomi Hesabı kimliyi</string>
     <string name="passport_account_user_name">Ləqəb</string>
     <string name="passport_account_user_name_dialog_title">Adı daxil edin</string>
-    <string name="passport_account_user_phone">Bərpa telefonu</string>
+    <string name="passport_account_user_phone">Geri qaytarma telefonu</string>
     <string name="passport_activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
     <string name="passport_agree">Razıyam</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
@@ -577,7 +577,7 @@
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
     <string name="passport_user_name_phone_number">Telefon nömrəsi</string>
     <string name="passport_user_password_hint">Parol</string>
-    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz bərpa telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz geri qaytarma telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_weibo_login_btn_content_description">Weibo ilə daxil olun</string>
     <string name="passport_weixin_login_btn_content_description">WeChat ilə daxil olun</string>

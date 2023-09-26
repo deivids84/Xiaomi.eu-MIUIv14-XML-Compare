@@ -315,7 +315,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="local_app_name">Nüsxələmə</string>
     <string name="local_back_up_detail_description">"Qeyd:
 1. Məlumat iktisinin qarşısını almaq üçün yerli nüsxələri kompüterinizə kopyalayın.
-2. Fabrik tənzimləmələrinə qaytarma prosesini icra etməzdən əvvəl yerli nüsxələri həmişə kompüterinizə kopyalayın. Əks halda, nüsxələriniz itəcək.
+2. Fabrik sıfırlaması prosesini icra etməzdən əvvəl yerli nüsxələri həmişə kompüterinizə kopyalayın. Əks halda, nüsxələriniz itəcək.
 3. Yerli nüsxələr harada saxlanılır? %1$s"</string>
     <string name="local_backup_select_activity">Nüsxə yarat</string>
     <string name="local_backup_window_title">Yerli nüsxələmə dataları</string>

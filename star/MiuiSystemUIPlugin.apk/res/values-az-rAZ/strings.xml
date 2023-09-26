@@ -170,7 +170,7 @@
     <string name="hearing_assist_transmission_tips_title">Canlı qulaq içi monitor</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="item_view_role_description">Vərəq</string>
-    <string name="loading">Vəziyyət bilinmir</string>
+    <string name="loading">Status bilinmir</string>
     <string name="material_slider_range_end">Aralıq sonu,</string>
     <string name="material_slider_range_start">Aralıq başlanğıcı,</string>
     <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>

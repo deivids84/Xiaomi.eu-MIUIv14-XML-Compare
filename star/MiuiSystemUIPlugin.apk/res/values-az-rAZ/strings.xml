@@ -377,7 +377,7 @@
     <string name="quick_settings_wireless_label">Tərsinə naqilsiz doldurma</string>
     <string name="reboot_info_auto_boot">Yaxınlaşan zəngli saat: %s</string>
     <string name="reboot_info_shutdown_alarm">Zəngli saatı söndür: %s</string>
-    <string name="recovery">Bərpa</string>
+    <string name="recovery">Geri qaytarma</string>
     <string name="reset">Sıfırla</string>
     <string name="restart">Yenidən başlat</string>
     <string name="safe_media_volume_warning">"Səs tövsiyə olunan səviyyədən yuxarı artırılsın?
@@ -391,7 +391,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="send">Göndər</string>
     <string name="silent">Səssiz</string>
     <string name="slider_view_content_description">Söndürmək üçün yuxarı, yenidən başlatmaq üçün aşağı sürüşdür</string>
-    <string name="slider_view_content_left_description">Fastboot rejimində yenidən başlatmaq üçün yuxarı, Bərpa rejimində yenidən başlatmaq üçün aşağı sürüşdürün</string>
+    <string name="slider_view_content_left_description">Fastboot rejimində yenidən başlatmaq üçün yuxarı, Geri qaytarma rejimində yenidən başlatmaq üçün aşağı sürüşdürün</string>
     <string name="slider_view_content_right_description">Təyyarə rejimini dəyişdirmək üçün yuxarı, Səssiz rejimini dəyişdirmək üçün aşağı sürüşdürün</string>
     <string name="smart_home_title">Ağıllı cihazlar</string>
     <string name="status_bar_setting_title">İdarəetmə mərkəzi və status çubuğu</string>

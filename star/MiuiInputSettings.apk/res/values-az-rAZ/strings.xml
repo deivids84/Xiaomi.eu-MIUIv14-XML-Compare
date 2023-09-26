@@ -393,7 +393,7 @@ Düyməni %s saniyə basılı saxlasanız, bunun əvəzinə söndürmə menyusun
     <string name="pref_volume_wake_summary">Səs düymələrinə basmaq cihazı oyandırır</string>
     <string name="pref_volume_wake_title">Səs düymələri ilə oyandır</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preferred_app_settings_reset">İlkin vəziyyətinə qaytar</string>
+    <string name="preferred_app_settings_reset">İlkin halına sıfırla</string>
     <string name="preferred_app_settings_reset_button">Sıfırla</string>
     <string name="preferred_app_settings_reset_message">İlkin tətbiq tərcihləri fabrik tənzimləmələrinə sıfırlansın?</string>
     <string name="preferred_media_app_summary">Musiqi pleyeri seçin</string>

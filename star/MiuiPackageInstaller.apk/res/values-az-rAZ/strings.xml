@@ -596,7 +596,7 @@
     <string name="permission_des_access_notifications">Parolları və bankçılıq məlumatlarını ehtiva edən bildirişlərə müraciət etmək, bildirişləri yoxlamaq və təmizləmək üçün</string>
     <string name="permission_des_activity_recognition">Addım sayına və digər fiziki fəaliyyətlə bağlı məlumatlara müraciət etmək üçün</string>
     <string name="permission_des_body_sensors">Ürək döyünmə sürəti məlumatları kimi bədən sensorları tərəfindən yaradılan məlumatlara müraciət etmək üçün</string>
-    <string name="permission_des_call_companion_app">Zəng vəziyyətinə və zənglərin telefon nömrələrinə müraciət etmək üçün</string>
+    <string name="permission_des_call_companion_app">Zəng statusuna və zənglərin telefon nömrələrinə müraciət etmək üçün</string>
     <string name="permission_des_camera">Foto və video çəkmək üçün</string>
     <string name="permission_des_get_accounts">Cihazınızdakı sosial media və rabitə hesablarının siyahısına müraciət etmək üçün</string>
     <string name="permission_des_get_installed_apps">Quraşdırılmış tətbiqlər haqqındakı məlumatlara müraciət etmək üçün</string>
@@ -609,7 +609,7 @@
     <string name="permission_des_read_contacts">Kontaktları və onlarla qarşılıqlı əlaqə tezliyini tanımaq üçün</string>
     <string name="permission_des_read_external_storage">Cihazda saxlanılan fotolara, sənədlərə və digər mediaya müraciət etmək üçün</string>
     <string name="permission_des_read_phone_numbers">Cihazdakı telefon nömrələrinə müraciət etmək üçün</string>
-    <string name="permission_des_read_phone_state">Zəng vəziyyətinə və mobil şəbəkə məlumatlarına müraciət etmək üçün</string>
+    <string name="permission_des_read_phone_state">Zəng statusuna və mobil şəbəkə məlumatlarına müraciət etmək üçün</string>
     <string name="permission_des_read_sms">Parollar və bankçılıq məlumatları üzrə mesajları yoxlamaq üçün</string>
     <string name="permission_des_receive_mms">Gələn MMS mesajlarını izləmək və silmək üçün</string>
     <string name="permission_des_receive_sms">Gələn SMS mesajlarını izləmək və silmək üçün</string>
@@ -625,7 +625,7 @@
     <string name="permission_name_access_notifications">Bildirişlərə müraciət et və onları idarə et</string>
     <string name="permission_name_activity_recognition">Sağlamlıq və fəaliyyət məlumatlarına müraciət</string>
     <string name="permission_name_body_sensors">Sensor məlumatlarını oxu</string>
-    <string name="permission_name_call_companion_app">Zəng vəziyyətinə müraciət et</string>
+    <string name="permission_name_call_companion_app">Zəng statusuna müraciət</string>
     <string name="permission_name_camera">Kameranı istifadə et</string>
     <string name="permission_name_get_accounts">Cihaz hesablarına müraciət</string>
     <string name="permission_name_get_installed_apps">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>

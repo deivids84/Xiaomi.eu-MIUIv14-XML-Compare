@@ -324,7 +324,7 @@
     <string name="notificationxylophone">Bildiriş (Xylophone)</string>
     <string name="nps_ContentText">Detalı yoxlamaq üçün toxun</string>
     <string name="nps_ContentTitle">GPS axtarılır</string>
-    <string name="nps_description">gps vəziyyət bildirişi</string>
+    <string name="nps_description">gps status bildirişi</string>
     <string name="nps_mock_description">virtual yerləşmə istifadə edilir, bərpa üçün yenidən başlatma lazımdır</string>
     <string name="nps_monitor_name">GPS yerləşməsi</string>
     <string name="nps_noise_description">Hazırkı mühitdə GPS siqnalına müdaxilə edilir</string>

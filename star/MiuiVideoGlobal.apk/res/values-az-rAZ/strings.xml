@@ -32,8 +32,8 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="account_bind_secure_email_title">Bərpa e-poçtu əlavə et</string>
-    <string name="account_bind_secure_phone_title">Bərpa telefon nömrəsi əlavə et</string>
+    <string name="account_bind_secure_email_title">Geri qaytarma e-poçtu əlavə et</string>
+    <string name="account_bind_secure_phone_title">Geri qaytarma telefon nömrəsi əlavə et</string>
     <string name="account_crop_user_avatar">Fotonu kəs</string>
     <string name="account_empty_user_name">Mi Hesabınızın istifadəçi adını daxil edin</string>
     <string name="account_error_all_space_user_name">"İstifadəçi adı yalnız boşluq simvolunu ehtiva edə bilməz"</string>
@@ -55,13 +55,13 @@
     <string name="account_user_base_info">Təməl məlumatlar</string>
     <string name="account_user_birthday">Doğum günü</string>
     <string name="account_user_details">Şəxsi məlumatlar</string>
-    <string name="account_user_email">Bərpa e-poçtu</string>
+    <string name="account_user_email">Geri qaytarma e-poçtu</string>
     <string name="account_user_gender">Cins</string>
     <string name="account_user_id">Mi Hesabı Kimliyi</string>
     <string name="account_user_name">Ləqəb</string>
     <string name="account_user_name_dialog_title">İstifadəçi adı daxil edin</string>
     <string name="account_user_other_info">Detallar</string>
-    <string name="account_user_phone">Bərpa telefonu</string>
+    <string name="account_user_phone">Geri qaytarma telefonu</string>
     <string name="account_user_region">Bölgə</string>
     <string name="action_add_phone">Telefon nömrəsi əlavə et</string>
     <string name="action_setting_ab_playing">Dövr…</string>
@@ -1462,7 +1462,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="resend_email_success">Uğurla göndərildi</string>
     <string name="restart_action">Başdan başlat</string>
     <string name="restart_phone_bind_message">SMS-i almaq üçün bir az vaxt tələb oluna bilər. Yenə də başdan başladılsın?</string>
-    <string name="restart_phone_bind_title">Bərpa telefonunu dəyişdir</string>
+    <string name="restart_phone_bind_title">Geri qaytarma telefonunu dəyişdir</string>
     <string name="restore_channel_list">İndi ilkin halına qaytarılsın?</string>
     <string name="retry">Yenidən sına</string>
     <string name="s1">Təsviri saxla</string>
@@ -1728,8 +1728,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmir</string>
     <string name="update">Güncəllə</string>
-    <string name="update_email_address_dialog_message">Bərpa e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
-    <string name="update_email_address_dialog_title">Bərpa e-poçtunu güncəllə</string>
+    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_find_new_version">Bir güncəlləmə mövcuddur</string>
     <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>
     <string name="upload_error_log">Jurnal yüklə</string>

@@ -48,12 +48,12 @@
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Təməl məlumatlar</string>
     <string name="account_user_details">Şəxsi məlumatlar</string>
-    <string name="account_user_email">Bərpa e-poçtu</string>
+    <string name="account_user_email">Geri qaytarma e-poçtu</string>
     <string name="account_user_gender">Cins</string>
     <string name="account_user_id">Mi Hesabı Kimliyi</string>
     <string name="account_user_name">Ləqəb</string>
     <string name="account_user_name_dialog_title">İstifadəçi adı daxil edin</string>
-    <string name="account_user_phone">Bərpa telefonu</string>
+    <string name="account_user_phone">Geri qaytarma telefonu</string>
     <string name="action_cancel">İmtina</string>
     <string name="action_submit">Göndər</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -600,7 +600,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_user_id_hint">E-poçt /telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
     <string name="passport_user_id_intro">%1$s üçün parol daxil edin</string>
     <string name="passport_user_password_hint">Parol</string>
-    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz bərpa telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz geri qaytarma telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
@@ -777,8 +777,8 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
 Ölçüsü: %2$s"</string>
     <string name="update_dialog_content_version">İndi %1$s versiyasına güncəlləyə bilərsiniz.</string>
     <string name="update_dialog_title">Bir güncəlləmə var</string>
-    <string name="update_email_address_dialog_message">Bərpa e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
-    <string name="update_email_address_dialog_title">Bərpa e-poçtunu güncəllə</string>
+    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="upload_log_failed">"Jurnal göndərilə bilmədi"</string>
     <string name="user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>

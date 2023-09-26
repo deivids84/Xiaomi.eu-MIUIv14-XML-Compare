@@ -50,7 +50,7 @@
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth və Wi-Fi ilə yaxınlıqdakı cihazları kəşf edin və onlara bağlanın</string>
     <string name="HIPS_Perm_PhoneID">Cihaz məlumatlarını alma</string>
     <string name="HIPS_Perm_PhoneID_Desc">telefon nömrəsinə, IMEI və IMSI-ya müraciət edir</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon nömrəsinə və cihaz vəziyyətinə müraciət etmə</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon nömrəsinə və cihaz statusuna müraciət</string>
     <string name="HIPS_Perm_ROOT">Root müraciətini al</string>
     <string name="HIPS_Perm_ROOT_Desc">root müraciətini al</string>
     <string name="HIPS_Perm_Read_Call_Log">Zəng tarixçəsini oxuma</string>
@@ -320,7 +320,7 @@
     <string name="permdesc_read_contacts">%1$s üçün kontaktlara müraciət icazəsi verilsin?</string>
     <string name="permdesc_read_mms">%1$s üçün multimedia mesajlarını oxuma icazəsi verilsin?</string>
     <string name="permdesc_read_phone_numbers">%1$s üçün bu cihazda telefon nömrələrini oxuma icazəsi verilsin?</string>
-    <string name="permdesc_read_phone_state">%1$s üçün cihazın vəziyyətinə və mobil şəbəkə məlumatlarına müraciət icazəsi verilsin?</string>
+    <string name="permdesc_read_phone_state">%1$s üçün cihazın statusuna və mobil şəbəkə məlumatlarına müraciət icazəsi verilsin?</string>
     <string name="permdesc_read_sms">%1$s üçün mətn və multimedia mesajlarını oxuma icazəsi verilsin?</string>
     <string name="permdesc_read_storage">%1$s üçün bu cihazdakı fayllara və fotolara müraciət icazəsi verilsin?</string>
     <string name="permdesc_recognition">%1$s üçün fəaliyyət məlumatlarınıza müraciət icazəsi verilsin?</string>

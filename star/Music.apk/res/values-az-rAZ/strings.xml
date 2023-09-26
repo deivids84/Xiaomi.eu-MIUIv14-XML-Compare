@@ -1546,7 +1546,7 @@ Xoşbəxt ol"</string>
 
 Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</string>
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin vəziyyətini yoxlayın.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
     <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
 Həcmi: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s

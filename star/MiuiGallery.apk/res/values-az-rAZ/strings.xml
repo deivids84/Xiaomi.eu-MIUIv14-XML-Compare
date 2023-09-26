@@ -361,7 +361,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_pending">Avtomatik olaraq nüsxələnəcək</string>
     <string name="backup_settings">Buludla sinxronlaşdır</string>
     <string name="backup_settings_banner_msg_off">Bütün xatirələrinizi güvənli saxlamaq üçün foto və videolarınızı Google Fotolar ilə nüsxələyin</string>
-    <string name="backup_settings_banner_msg_on">\"Google Fotolar\"da nüsxələmə vəziyyətinə baxın</string>
+    <string name="backup_settings_banner_msg_on">Nüsxənin statusuna \"Google Fotolar\"da bax</string>
     <string name="backup_settings_banner_title_not_allow">Google Fotolar nüsxələməsi</string>
     <string name="backup_settings_banner_title_off">Nüsxələmə bağlıdır</string>
     <string name="backup_settings_banner_title_on">Nüsxələmə açıqdır</string>
@@ -1995,7 +1995,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="permission_optional_category">İxtiyari icazələr</string>
     <string name="permission_phone_desc">Müvafiq cihazları Xiaomi Cloud-da təzəlikcə silinmiş elementlərə təyin etmək üçün</string>
     <string name="permission_phone_name">Telefon</string>
-    <string name="permission_post_notification_desc">Paylaşılan albomlar haqqında bildiriş göndərmək və sinxronlaşdırma vəziyyətini güncəlləmək üçün</string>
+    <string name="permission_post_notification_desc">Paylaşılan albomlar haqqında bildiriş göndərmək və sinxr. statusunu güncəlləmək üçün</string>
     <string name="permission_read_media_images_desc">Qalereyanı istifadə edərkən foto və videolara müraciət etmək və onları saxlamaq üçün</string>
     <string name="permission_require_category">Məcburi icazələr</string>
     <string name="permission_storage_desc">Foto və videolarınızı saxlamaq, göstərmək, sinxronlaşdırmaq, endirmək və onlara düzəliş etmək üçün</string>
@@ -3135,7 +3135,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="try_to_send">Göndər</string>
     <string name="tsb_action_backup_apk_err">Nüsxələməni quraşdır</string>
     <string name="tsb_action_completed_allow_closed">Nüsxələməni işə sal</string>
-    <string name="tsb_action_completed_open">Nüsxələmə vəziyyətinə bax</string>
+    <string name="tsb_action_completed_open">Nüsxənin statusuna bax</string>
     <string name="tsb_action_err">Xəta baş verdi. Yenidən sınayın.</string>
     <string name="tsb_action_err_fast">"Köçürmə davam etdirilə bilmədi. Sabah yenidən sınayın."</string>
     <string name="tsb_action_file_failed">Anladım</string>

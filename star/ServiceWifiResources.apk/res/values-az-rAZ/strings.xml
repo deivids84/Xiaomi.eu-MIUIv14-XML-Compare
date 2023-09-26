@@ -7,7 +7,7 @@
     <string name="dlg_ok">Oldu</string>
     <string name="notification_channel_network_alerts">Şəbəkə xəbərdarlıqları</string>
     <string name="notification_channel_network_available">Şəbəkə əlçatandır</string>
-    <string name="notification_channel_network_status">Şəbəkə vəziyyəti</string>
+    <string name="notification_channel_network_status">Şəbəkə statusu</string>
     <string name="ok">Oldu</string>
     <string name="wifiResourcesAppLabel">Sistem Wi-Fi Resursları</string>
     <string name="wifi_available_action_all_networks">Bütün şəbəkələr</string>

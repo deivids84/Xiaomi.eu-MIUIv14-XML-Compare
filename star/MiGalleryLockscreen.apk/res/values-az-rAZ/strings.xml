@@ -73,8 +73,8 @@
     <string name="apply_to_screenlock">Kilid ekranına tətbiq et</string>
     <string name="apply_to_wallpaper">Əsas ekrana tətbiq et</string>
     <string name="apply_warning_content">"Hazırda Super divar kağızı istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, həm Əsas, həm də Kilid ekranınıza tətbiq olunacaq. İndi tətbiq edilsin?"</string>
-    <string name="apply_warning_content_with_aod">"Hazırda Super divar kağızı istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, həm Əsas, həm də Kilid ekranınıza tətbiq olunacaq və \"Həmişə açıq ekran\" ilkin vəziyyətinə sıfırlana bilər. İndi tətbiq edilsin?"</string>
-    <string name="apply_warning_content_with_maml">"Üçüncü tərəf tema istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, Kilid ekranınızın saatı ilkin vəziyyətinə sıfırlana bilər. İndi tətbiq edilsin?"</string>
+    <string name="apply_warning_content_with_aod">"Hazırda Super divar kağızı istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, həm Əsas, həm də Kilid ekranınıza tətbiq olunacaq və \"Həmişə açıq ekran\" ilkin halına sıfırlana bilər. İndi tətbiq edilsin?"</string>
+    <string name="apply_warning_content_with_maml">"Üçüncü tərəf tema istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, Kilid ekranınızın saatı ilkin halına sıfırlana bilər. İndi tətbiq edilsin?"</string>
     <string name="apply_warning_title">Divar kağızını tətbiq et</string>
     <string name="article_item_hot">%s+ məşhur məqaləyə nəzər sal</string>
     <string name="at_least_one">Ən azı 1 kateqoriya seçin</string>

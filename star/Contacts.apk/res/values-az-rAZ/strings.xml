@@ -396,7 +396,7 @@
     <string name="contactsJoinedMessage">Kontaktlar birləşdirildi</string>
     <string name="contactsList">Kontaktlar</string>
     <string name="contacts_default_notification_channel">Bildirişlər</string>
-    <string name="contacts_hybrid_activity_label">Kontaktları bərpa et</string>
+    <string name="contacts_hybrid_activity_label">Kontaktları geri qaytar</string>
     <string name="contacts_trash_activity_hint">Bərpa ediləcək kontaktları seçin</string>
     <string name="contacts_trash_activity_title">Təzəlikcə silinmiş kontaklar</string>
     <string name="contacts_trash_delete">Sil</string>
@@ -950,7 +950,7 @@ Səbəb: \"%s\""</string>
     <string name="preference_import">Daxilə köçür</string>
     <string name="preference_import_export">Daxilə/xaricə köçür</string>
     <string name="preference_import_export_title">Kontaktları daxilə/xaricə köçür</string>
-    <string name="preference_key_trash_bin_title">Kontaktları bərpa et</string>
+    <string name="preference_key_trash_bin_title">Kontaktları geri qaytar</string>
     <string name="preference_other">Digər</string>
     <string name="preference_privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="preference_privacy_settings">Gizlilik</string>

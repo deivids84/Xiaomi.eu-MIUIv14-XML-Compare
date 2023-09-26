@@ -193,7 +193,7 @@
     <string name="system_app_restore_completed_detail">Bütün sistem elementləri uğurla bərpa edildi</string>
     <string name="system_app_restore_failed">Xəta baş verdi</string>
     <string name="system_app_restore_failed_detail">"Sistem elementləri bərpa edilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayın və elementlər tam bərpa olunana qədər cihazınızı yenidən başlatmayın və ya söndürməyin. Yenidən sınamaq üçün aşağıdakı düyməyə toxunun."</string>
-    <string name="system_restore">Elementləri geri qaytar</string>
+    <string name="system_restore">Elementləri bərpa et</string>
     <string name="tap_to_update_system_app">Sistem tətbiqlərini güncəlləmək üçün toxunun</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>

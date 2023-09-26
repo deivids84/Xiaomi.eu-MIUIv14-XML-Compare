@@ -672,7 +672,7 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="pref_title_smart_msg_privacy_policy">Ağıllı Mesajlaşma Gizlilik Siyasəti</string>
     <string name="pref_title_sms_delete">Mətn mesajı limiti</string>
     <string name="pref_title_sms_validity_period">SMS-in bitmə müddəti</string>
-    <string name="pref_title_storage_status">Mesaj anbar vəziyyəti</string>
+    <string name="pref_title_storage_status">Mesaj anbar statusu</string>
     <string name="pref_title_switch_aim_card">Mesajları kartlara çevir</string>
     <string name="pref_title_vcard">vCard ilə göndər</string>
     <string name="pref_title_voice_report">Mesajları səsli oxu</string>
@@ -971,7 +971,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="share">Paylaş</string>
     <string name="shortcut_new_msg">Yeni mesaj</string>
     <string name="shortcut_setting">Tənzimləmələr</string>
-    <string name="show_delivery_status">Çatdırılma vəziyyətini göstər</string>
+    <string name="show_delivery_status">Çatdırılma statusunu göstər</string>
     <string name="sim_card1">SIM kart 1</string>
     <string name="sim_card2">SIM kart 2</string>
     <string name="sim_card_cloud">%s (Mi Mesaj)</string>
@@ -1009,7 +1009,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="sp_mark_as_read_menu_title">Oxunmuş kimi işarələ</string>
     <string name="sqlite_low_memory">Yetərsiz anbar sahəsi</string>
     <string name="status_failed">Uğursuz</string>
-    <string name="status_label">"Vəziyyət: "</string>
+    <string name="status_label">"Status: "</string>
     <string name="status_pending">Gözləyir</string>
     <string name="status_read">Oxundu</string>
     <string name="status_received">Alındı</string>
@@ -1051,7 +1051,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="system_permission_perm_calendar">Təqvim tədbirlərini yaratmaq üçün</string>
     <string name="system_permission_perm_call_log">Mesaj yaradarkən son kontaktlarınıza müraciət etmək üçün</string>
     <string name="system_permission_perm_call_phone">Zəng etmək üçün</string>
-    <string name="system_permission_perm_get_phone_state">Telefon nömrəsinə və cihazın vəziyyətinə müraciət etmək üçün</string>
+    <string name="system_permission_perm_get_phone_state">Telefon nömrəsinə və cihazın statusuna müraciət etmək üçün</string>
     <string name="system_permission_perm_location">Yerləşmənizə müraciət etmək və onu paylaşmaq üçün</string>
     <string name="system_permission_perm_new_read_sms">Mesaj məzmununa müraciət etmək üçün</string>
     <string name="system_permission_perm_new_receive_mms">Mesaj məzmununa müraciət etmək üçün</string>
@@ -1064,7 +1064,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="system_permission_perm_storage">SMS qoşmalarını saxlamaq və yükləmək üçün</string>
     <string name="system_permission_perm_takephoto">Foto və video çəkmək üçün</string>
     <string name="system_permission_perm_write_contact">Kontakt yaratmaq və düzəliş etmək üçün</string>
-    <string name="system_permission_prem_rcs_read_contact">5G qrup mesajlarında kontaktlara mesajların çatdırılma vəziyyətini göstərmək üçün</string>
+    <string name="system_permission_prem_rcs_read_contact">5G qrup mesajlarında kontaktlara mesajların çatdırılma statusunu göstərmək üçün</string>
     <string name="system_permission_requested">Soruş</string>
     <string name="system_permission_user_privacy">Davam etməzdən əvvəl, aşağıdakı şərtləri və qaydaları oxuyub qəbul edin.</string>
     <string name="tab_finance">Maliyyə</string>

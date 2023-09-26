@@ -539,7 +539,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="perm_location">Yerləşmə</string>
     <string name="perm_read_call_log">Zəng tarixçəsini oxu</string>
     <string name="perm_read_contacts">Kontaktları oxu</string>
-    <string name="perm_read_phone_state">"Telefon vəziyyətini oxu"</string>
+    <string name="perm_read_phone_state">"Telefon statusunu oxu"</string>
     <string name="perm_read_sms">SMS oxu</string>
     <string name="perm_storage">Xarici anbarda oxuma və yazma</string>
     <string name="permission_admitted">İcazə verildi</string>

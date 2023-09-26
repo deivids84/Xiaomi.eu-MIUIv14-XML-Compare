@@ -130,7 +130,7 @@
         <item>Yazı divar kağızı</item>
         <item>Kömək strukturu</item>
         <item>Kömək ekran şəkli</item>
-        <item>Telefon vəziyyətini oxu</item>
+        <item>Telefon statusunu oxu</item>
         <item>Səsli mesaj əlavə et</item>
         <item>SIP istifadə et</item>
         <item>Gedən zəngi emal et</item>
@@ -197,7 +197,7 @@
         <item>yazı divar kağızı</item>
         <item>kömək strukturu</item>
         <item>kömək ekran şəkli</item>
-        <item>telefon vəziyyətini oxu</item>
+        <item>telefon statusunu oxu</item>
         <item>səsli mesaj əlavə et</item>
         <item>SIP istifadə edin</item>
         <item>gedən zəngi emal et</item>
@@ -1353,7 +1353,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Dolur</item>
         <item>Yuxulatma</item>
         <item>Enerjiyə qənaət rejimi</item>
-        <item>Proses vəziyyəti</item>
+        <item>Proses statusu</item>
     </string-array>
     <string-array name="tare_units">
         <item>ARC</item>

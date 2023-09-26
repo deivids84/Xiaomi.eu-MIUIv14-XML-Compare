@@ -122,7 +122,7 @@
     <string name="keywords_search_record">Yeni səsyazma;Səsyazma əlavə et;Səsyazma;Səsyazmalar;Transkript;Mətnə çevir;Danışıq səsyazanı;Səsyazan;Səsyazan tətbiqi;Səsyazma tətbiqi;Necə səs yaza bilərəm;Səsi necə yaza bilərəm;Səsyazan haradadır;MIUI Səsyazan</string>
     <string name="keywords_search_record_list">Səsyazan;Transkript;Transkriptlər;Səs yaz;Səsyazmanı paylaş;Səsyazmaları paylaş;Səsyazma;Səsyazmalar</string>
     <string name="korea_permission_phone">Telefon</string>
-    <string name="korea_permission_phone_resc">Cihaz vəziyyətinə müraciət etmək və zəng əsnasında səsyazmaları idarə etmək üçün</string>
+    <string name="korea_permission_phone_resc">Cihaz statusuna müraciət etmək və zəng əsnasında səsyazmaları idarə etmək üçün</string>
     <string name="korea_permission_record">Mikrofon</string>
     <string name="korea_permission_record_resc">Səs yazmaq üçün</string>
     <string name="korea_permission_storage">Anbar</string>
@@ -291,10 +291,10 @@
     <string name="permission_dialog_cancel">İmtina</string>
     <string name="permission_dialog_ok">Tənzimləmələr</string>
     <string name="permission_notification_description">Səs yazarkən, oxudarkən və məzmun endirərkən xəbərdarlıqlar göndərmək üçün</string>
-    <string name="permission_notification_dialog_description">"Tətbiqin hazırkı vəziyyəti haqqında xəbərdarlıqlar göndərmək üçün"</string>
+    <string name="permission_notification_dialog_description">"Tətbiqin hazırkı statusu haqqında xəbərdarlıqlar göndərmək üçün"</string>
     <string name="permission_notification_title">Tələb olunan icazələr</string>
     <string name="permission_read_phone_state">Cihaz məlumatlarına müraciət</string>
-    <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq üçün zəng vəziyyətinə müraciət üçün</string>
+    <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq məqsədilə zəng statusuna müraciət etmək üçün</string>
     <string name="permission_record">Səs yaz</string>
     <string name="permission_record_description">Səsyazma xidmətlərinin göstərilməsi üçün</string>
     <string name="permission_storage">Anbara müraciət</string>

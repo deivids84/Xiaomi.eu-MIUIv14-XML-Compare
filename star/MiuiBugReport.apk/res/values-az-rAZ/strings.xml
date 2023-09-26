@@ -810,7 +810,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="withdraw_consent_hint">"Davam etsəniz, %1$s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %2$s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %3$s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="withdrawing">Razılıq geri götürülür…</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin vəziyyətini yoxlayın.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
     <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyası ilə tanış olun
 Ölçüsü: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s

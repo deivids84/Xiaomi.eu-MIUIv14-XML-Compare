@@ -664,7 +664,7 @@ Yenidən başlayın."</string>
     <string name="indoor_rinding">Bağlı yer dövrü</string>
     <string name="indoor_running">Qaçış zolağı</string>
     <string name="input_body_weight">Sağlamlıq məsləhətləri almaq üçün çəki məlumatını daxil edin</string>
-    <string name="inquire_recover_data">Çəki məlumatları indi bərpa edilsin?</string>
+    <string name="inquire_recover_data">Çəki məlumatları indi geri qaytarılsın?</string>
     <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq datanız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
     <string name="instructions_provider">Miao Health tərəfindən təqdim edilmiş təlimatlar</string>
     <string name="insufficient">Yetərsiz</string>

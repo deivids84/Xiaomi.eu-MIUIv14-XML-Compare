@@ -118,7 +118,7 @@ onları İkinci sahədə göstərin"</string>
     <string name="delete_phone_fingerprint">İkinci sahə barmaq izini sil</string>
     <string name="delete_src_file">Faylları sil</string>
     <string name="delete_src_photo">Fotoları sil</string>
-    <string name="dialog_message_service_error">"Səlahiyyət ləğv edilə edilə bilmədi və fabrik tənzimləmələrinə qaytarıla bilmədi. Yenidən sınayın."</string>
+    <string name="dialog_message_service_error">"Səlahiyyət ləğv edilə və fabrik sıfırlaması icra edilə bilmədi. Yenidən sınayın.​"</string>
     <string name="dialog_tip_need_network">Səlahiyyəti ləğv etmək üçün cihazınız internetə bağlanmalıdır.</string>
     <string name="dialog_title">Diqqət</string>
     <string name="dialog_title_service_error">Server xətası</string>
@@ -264,11 +264,11 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="loading_space">Bir saniyə…</string>
     <string name="loading_success">Uğurla yükləndi</string>
     <string name="lock_screen_open_second_space">Kilid ekranından İkinci sahəyə daxil ol</string>
-    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızın fabrik tənzimləmələrinə qaytarılmasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
-    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınız fabrik tənzimləmələrinə qaytarılacaq, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
+    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik verilənlərinə sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
+    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınız fabrik verilənlərinə sıfırlanacaq, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
     <string name="master_clear_apply_title">Diqqət</string>
-    <string name="master_clear_not_available">Fabrik tənsimləmələrimə sıfırlamaq, şikətiniz tərəfindən məhdudlaşdırılıb.</string>
-    <string name="master_clear_not_available_ep">"Fabrik tənzimləmələrinə sıfırlama və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
+    <string name="master_clear_not_available">Fabrik sıfırlama prosesi şirkətiniz tərəfindən məhdudlaşdırılıb.</string>
+    <string name="master_clear_not_available_ep">"Fabrik sıfırlamanı icra etmə və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
     <string name="menu_item_about_privacy_title">Gizlilik Siyasəti</string>
     <string name="messageData">Mesajlar</string>
     <string name="midnight">Gecə</string>

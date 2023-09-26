@@ -133,8 +133,8 @@
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Hesab təhlükəsizliyi</item>
-        <item>Bərpa telefonu və e-poçtu, parol idarəetməsi</item>
-        <item>Hesab güvənliyi;Daxil olma;Bərpa telefonu;Bərpa e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma telefonu və e-poçtu, parol idarəetməsi</item>
+        <item>Hesab güvənliyi;Daxil olma;Geri qaytarma telefonu;Geri qaytarma e-poçtu; Hesabın qorunması;Telefon nömrəsi;E-poçt;Parolu dəyişdir; Telefon nömrəsini əlavə et;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Cihazlar</item>
@@ -147,14 +147,14 @@
         <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Gizlilik Siyasəti</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
-        <item>Bərpa e-poçtu</item>
-        <item>Bərpa e-poçtu əlavə et</item>
-        <item>Bərpa e-poçtu;E-poçt;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma e-poçtu</item>
+        <item>Geri qaytarma e-poçtu əlavə et</item>
+        <item>Geri qaytarma e-poçtu;E-poçt;E-poçt əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
-        <item>Bərpa telefonu</item>
-        <item>Bərpa telefonu əlavə et</item>
-        <item>Bərpa telefonu;Telefon əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>Geri qaytarma telefonu</item>
+        <item>Geri qaytarma telefonu əlavə et</item>
+        <item>Geri qaytarma telefonu;Telefon əlavə et;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Reklamlar</item>

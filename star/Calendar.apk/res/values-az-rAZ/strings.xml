@@ -310,9 +310,9 @@
     <string name="greetingcard_reminder_dialog_title">Bildirişlər al</string>
     <string name="greetingcard_reminder_disabled_status">"WhatsApp statusları haqqında gündəlik xatırladıcılar almayacaqsınız."</string>
     <string name="greetingcard_reminder_disabled_text">Xatırladıcıları aç</string>
-    <string name="greetingcard_reminder_enabled_status">"WhatsApp vəziyyətləri haqqında günlük xatırladıcılar alacaqsınız."</string>
+    <string name="greetingcard_reminder_enabled_status">"WhatsApp statusları haqqında gündəlik xatırladıcılar alacaqsınız."</string>
     <string name="greetingcard_reminder_enabled_text">Xatırladıcılar açıqdır</string>
-    <string name="greetingcard_reminder_pref_desc">Salamlamalar və vəziyyətlər haqqında günlük bildiriş alın</string>
+    <string name="greetingcard_reminder_pref_desc">Salamlamalar və statuslar haqqında gündəlik bildiriş alın</string>
     <string name="greetingcard_reminder_pref_title">Bildirişlər al</string>
     <string name="greetingcard_select_activity_label">Bütün salamlamalar</string>
     <string name="greetingcard_view_all_text">Hamısına bax</string>
@@ -783,7 +783,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="tb_mens_month_future_date">"%1$s. Gələcək tarixləri seçmək olmur."</string>
     <string name="tb_mens_month_history">Günlərlə ortalama period müddəti: %1$d. Günlərlə ortalama dövr müddəti: %2$d.</string>
     <string name="tb_mens_month_marked">%1$s. Menstruasiya dövrü işarələndi.</string>
-    <string name="tb_mens_month_no_marks">"%1$s. Vəziyyət işarələnmədi."</string>
+    <string name="tb_mens_month_no_marks">"%1$s. Status işarələnmədi."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tarixi dəyişdirmək üçün toxunun.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Menstruasiya dövrünün %2$d. günü. Seçildi.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Menstruasiya dövrünün %2$d. günü. Tarix seçmək üçün toxunun.</string>

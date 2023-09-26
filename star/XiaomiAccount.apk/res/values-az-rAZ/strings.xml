@@ -71,20 +71,20 @@
     <string name="account_user_base_info">Şəxsi məlumatlar</string>
     <string name="account_user_birthday">Doğum günü</string>
     <string name="account_user_details">Şəxsi məlumatlar</string>
-    <string name="account_user_email">Bərpa e-poçtu</string>
+    <string name="account_user_email">Geri qaytarma e-poçtu</string>
     <string name="account_user_gender">Cins</string>
     <string name="account_user_id">Xiaomi Hesabı kimliyi</string>
     <string name="account_user_id_show">Xiaomi Hesabı: %s</string>
     <string name="account_user_name">Ad</string>
     <string name="account_user_name_dialog_title">İstifadəçi adını daxil edin</string>
     <string name="account_user_other_info">Daha çox mənbə</string>
-    <string name="account_user_phone">Bərpa telefonu</string>
+    <string name="account_user_phone">Geri qaytarma telefonu</string>
     <string name="account_user_phone_show">Telefon: %s</string>
     <string name="account_user_region">Bölgə</string>
-    <string name="account_verify_guide_bind_mail_desc">Bərpa e-poçtu əlavə et</string>
-    <string name="account_verify_guide_bind_phone_desc">Bərpa telefonu əlavə et</string>
+    <string name="account_verify_guide_bind_mail_desc">Geri qaytarma e-poçtu əlavə et</string>
+    <string name="account_verify_guide_bind_phone_desc">Geri qaytarma telefonu əlavə et</string>
     <string name="account_verify_guide_set_password_desc">Parol təyin et</string>
-    <string name="account_verify_guide_verify_phone_desc">Bərpa telefonunu təsdiqlə</string>
+    <string name="account_verify_guide_verify_phone_desc">Geri qaytarma telefonunu təsdiqlə</string>
     <string name="account_xiaomi_service">Xidmətlər</string>
     <string name="action_add_phone">Telefon nömrəsi əlavə et</string>
     <string name="action_retry">Yenidən sına</string>
@@ -229,7 +229,7 @@
     <string name="diagnosis_log_sent_format">"Jurnal uğurla göndərildi.
 Kimlik: %s
 Bu kodu nəzarətçiyə göndərin."</string>
-    <string name="dialog_notify_bind_email_desc">Hesabınızı daha güvənli etmək üçün bir bərpa e-poçtu əlavə edin. İndi əlavə edilsin?</string>
+    <string name="dialog_notify_bind_email_desc">Hesabınızı daha güvənli etmək üçün bir geri qaytarma e-poçtu əlavə edin. İndi əlavə edilsin?</string>
     <string name="dind_device_service_not_open">Bağlı</string>
     <string name="dind_device_service_opened">Açıq</string>
     <string name="download_file">%s endirilir…</string>
@@ -493,8 +493,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="noon">Günorta</string>
     <string name="not_selected">Seçilmədi</string>
     <string name="not_set">Tənzimlənmədi</string>
-    <string name="notify_bind_security_phone">Bərpa telefonu əlavə et</string>
-    <string name="notify_complete_security_info">Bərpa məlumatı əlavə et</string>
+    <string name="notify_bind_security_phone">Geri qaytarma telefonu əlavə et</string>
+    <string name="notify_complete_security_info">Geri qaytarma məlumatı əlavə et</string>
     <string name="notify_network_restricted_content_bg_network">"Xiaomi Hesabının internetə müraciəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
     <string name="notify_network_restricted_content_hidden_state">"Xiaomi Hesabının arxaplan fəaliyyəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
     <string name="notify_network_restricted_content_mobile_network">"Xiaomi Hesabının internetə müraciəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
@@ -547,12 +547,12 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
-    <string name="passport_account_user_email">Bərpa e-poçtu</string>
+    <string name="passport_account_user_email">Geri qaytarma e-poçtu</string>
     <string name="passport_account_user_gender">Cins</string>
     <string name="passport_account_user_id">Xiaomi Hesabı kimliyi</string>
     <string name="passport_account_user_name">Ləqəb</string>
     <string name="passport_account_user_name_dialog_title">Adı daxil edin</string>
-    <string name="passport_account_user_phone">Bərpa telefonu</string>
+    <string name="passport_account_user_phone">Geri qaytarma telefonu</string>
     <string name="passport_active_email_visit">%s ünvanında gələn qutunuzu yoxlayın</string>
     <string name="passport_activing_account">Aktivləşdirilir…</string>
     <string name="passport_activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
@@ -864,7 +864,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_vcode_notification_title">Daxil olma təsdiqləməniz tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_vcode_sms_send_prompt">%s nömrəsinə təsdiqləmə kodu göndər</string>
-    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz &lt;font color=#1F93FF&gt;%s&lt;/font&gt; bərpa telefonunuza göndəriləcək</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz &lt;font color=#1F93FF&gt;%s&lt;/font&gt; geri qaytarma telefonunuza göndəriləcək</string>
     <string name="passport_verification_failed">"Hesab təsdiqlənə bilmədi"</string>
     <string name="passport_verify">Təsdiqlə</string>
     <string name="passport_verifying_activator_phone">Telefon güvənliyi təsdiqlənir…</string>
@@ -933,7 +933,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="resend_email_success">E-poçt yenidən göndərildi</string>
     <string name="restart_action">Başdan başlat</string>
     <string name="restart_phone_bind_message">SMS-i almaq üçün bir az vaxt tələb oluna bilər. Yenə də başdan başladılsın?</string>
-    <string name="restart_phone_bind_title">Bərpa telefonunu dəyişdir</string>
+    <string name="restart_phone_bind_title">Geri qaytarma telefonunu dəyişdir</string>
     <string name="revoke_privacy_policy">Razılığın geri götürülməsi</string>
     <string name="revoke_privacy_policy_instructions">"Davam etsəniz, Xiaomi Hesabının Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Xiaomi Hesabı, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi Xiaomi Hesab xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="revoke_privacy_policy_title">Razılığın geri götürülməsi</string>
@@ -971,7 +971,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="setting_now">Əlavə et</string>
     <string name="sign_in">Daxil olunur</string>
     <string name="sim_card">SIM kart</string>
-    <string name="sim_changed_notification_msg">Bərpa telefonunu güncəlləmək və hesabınızı daha güvənli saxlamaq üçün toxunun.</string>
+    <string name="sim_changed_notification_msg">Geri qaytarma telefonunuzu güncəlləmək və hesabınızı daha güvənli saxlamaq üçün toxunun.</string>
     <string name="sim_changed_notification_title">Telefon nömrəsi dəyişdirilsin?</string>
     <string name="skip_query_account">Ötür</string>
     <string name="sms_send_success">Göndərildi</string>

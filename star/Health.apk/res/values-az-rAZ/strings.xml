@@ -664,7 +664,7 @@ Yenidən başlayın."</string>
     <string name="indoor_rinding">Bağlı yer dövrü</string>
     <string name="indoor_running">Qaçış zolağı</string>
     <string name="input_body_weight">Sağlamlıq məsləhətləri almaq üçün çəki məlumatını daxil edin</string>
-    <string name="inquire_recover_data">Çəki məlumatları indi geri qaytarılsın?</string>
+    <string name="inquire_recover_data">Çəki məlumatları indi bərpa edilsin?</string>
     <string name="inquire_recover_data_subtitle">"Deyəsən, Mi Hesabınızla (%1$s) əlaqələndirilmiş sağlamlıq datanız var. Buludla sinxronlaşdırma işə salınıb məlumatlar indi bərpa edilsin?"</string>
     <string name="instructions_provider">Miao Health tərəfindən təqdim edilmiş təlimatlar</string>
     <string name="insufficient">Yetərsiz</string>
@@ -1053,7 +1053,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="prompt_sleep_time_noon">Gündüz mürgüləməsi</string>
     <string name="protein_rate">Protein</string>
     <string name="protein_rate_descripe_content">Protein məzmunu, pəhrizinizin sağlamlığınıza necə təsir etdiyini əks etdirən insan bədəninin ümumi çəkisindəki protein nisbətini təmsil edir.</string>
-    <string name="pull_or_lay_oars">Sürüş və bərpa</string>
+    <string name="pull_or_lay_oars">Drive and recovery</string>
     <string name="question_data_source_unable_add">"Məlumat mənbəsi əlavə edilə bilmir"</string>
     <string name="question_data_synchronization_not_timely">"Məlumatlar ümumiyyətlə və ya vaxtında sinxronlaşdırıla bilmir"</string>
     <string name="question_device_not_found">"Cihazlarım tapıla bilmir"</string>
@@ -1108,7 +1108,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="rest_time_between_sets">Dincəlmə</string>
     <string name="resting_heart_rate">Dincələrkən ürək döyüntüsü</string>
     <string name="resting_heart_rate_desc">Dincələrkən böyüklər üçün normal ürək döyüntüsü dəqiqədə 55-80 arası dəyişir. Bu göstərici, yaş, cins və digər amillərdən asılı olaraq dəyişə bilər.</string>
-    <string name="retraction_time">Bərpa vaxtı</string>
+    <string name="retraction_time">Geri qaytarma vaxtı</string>
     <string name="retry">Yenidən sına</string>
     <string name="revert_to_default">İlkin halına qaytar</string>
     <string name="rope_skipping">İplə tullanma</string>

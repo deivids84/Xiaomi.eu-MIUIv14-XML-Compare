@@ -108,7 +108,7 @@
     <string name="apply_success_not_enable_aod">Əvvəlcə Tənzimləmələrdə \"Həmişə açıq ekran\"ı işə salın</string>
     <string name="apply_success_not_support_aod">"\"Həmişə açıq ekran\", bu cihazdakı temalarla birləşdirilə bilmir. Bu temanın qalan komponentləri uğurla tətbiq edildi."</string>
     <string name="apply_theme_with_ringtones">Tema zəng səsini istifadə et</string>
-    <string name="apply_wallpaper_after_three_theme">"Hazırda üçüncü tərəf tema istifadə edirsiniz. Kilid ekranınızın divar kağızını dəyişdirsəniz, bu, Kilid ekranı saat stilinin ilkin vəziyyətinə qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?"</string>
+    <string name="apply_wallpaper_after_three_theme">"Hazırda üçüncü tərəf tema istifadə edirsiniz. Kilid ekranınızın divar kağızını dəyişdirsəniz, bu, Kilid ekranı saat stilinin ilkin halına qaytarılmasına səbəb ola bilər. İndi tətbiq edilsin?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Hazırda Super divar kağızı istifadə edirsiniz. Yeni bir divar kağızı seçsəniz, həm Əsas ekran, həm də Kilid ekranınıza tətbiq olunacaq və \"Həmişə Ekranda\", əvvəlki tənzimləməsinə qaytarılacaq. İndi tətbiq edilsin?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Hazırda Super divar kağızı istifadə edirsiniz. Yeni bir divar kağızı seçsəniz, həm Əsas ekran, həm də Kilid ekranınıza tətbiq olunacaq. İndi tətbiq edilsin?"</string>
     <string name="apply_warning_get_device_dialog_message">Endirilmiş məzmunu istifadə edə bilmək üçün əvvəlcə bu özəlliyin cihaz kimliyinə müraciətinə icazə verin. Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz.</string>
@@ -1031,7 +1031,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_exchange_has_expired">Daxil etdiyiniz kodun müddəti bitib.</string>
     <string name="resource_exchange_has_used">Daxil etdiyiniz kod artıq istifadə edilib.</string>
     <string name="resource_exchange_hint">Kodu daxil edin</string>
-    <string name="resource_exchange_purchase_unkown_error">Ups! Bilinməyən bir xəta baş verdi. Ödənişinizin vəziyyətinə baxmaq üçün http://market.xiaomi.com ünvanında giriş edin.</string>
+    <string name="resource_exchange_purchase_unkown_error">Ups! Bilinməyən bir xəta baş verdi. Ödənişinizin statusuna baxmaq üçün http://market.xiaomi.com ünvanında giriş edin.</string>
     <string name="resource_exchange_share_code_content">"\"MIUI Temalar\"da \"%1$s\" teması üçün bir hədiyyə kodu (%2$s) aldınız. İndi istifadə etmək üçün %3$s seçiminə toxunun."</string>
     <string name="resource_exchange_share_code_dlg_content">\"%1$s\" üçün hədiyyə kodu: %2$s. Başqa MIUI istifadəçisinə göndərsəniz, bu temanı endirmək üçün onu istifadə edə bilər.</string>
     <string name="resource_exchange_share_code_dlg_title">Göndərilir</string>

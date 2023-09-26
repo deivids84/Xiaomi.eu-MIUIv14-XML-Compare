@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_hide_mode">Tətbiq batareya qənaəti haqqında</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="active_classify">Fəaliyyət vəziyyətinə görə sırala</string>
+    <string name="active_classify">Fəaliyyət statusuna görə sırala</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="app_name">Batareya və performans</string>
     <string name="appconfig_active_app_dialog_title">Aktiv tətbiqləri idarə et</string>

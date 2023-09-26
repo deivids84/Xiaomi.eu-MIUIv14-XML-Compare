@@ -159,7 +159,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="cloud_backup_in_process">Nüsxələnir</string>
     <string name="cloud_backup_permission_allow">İcazə verildi</string>
     <string name="cloud_backup_permission_not_allow">İcazə verilmədi</string>
-    <string name="cloud_backup_phone_state_summary">Telefon nömrəsinə və cihaz vəziyyətinə müraciət</string>
+    <string name="cloud_backup_phone_state_summary">Telefon nömrəsinə və cihaz statusuna müraciət</string>
     <string name="cloud_backup_phone_state_title">Cihaz məlumatlarına müraciət</string>
     <string name="cloud_backup_rw_storage_summary">Əsas ekran düzümünün, tətbiq verilənlərinin və tətbiq tənzimləmələrinin buluda nüsxələnməsi üçün</string>
     <string name="cloud_backup_rw_storage_title">Anbara müraciət</string>

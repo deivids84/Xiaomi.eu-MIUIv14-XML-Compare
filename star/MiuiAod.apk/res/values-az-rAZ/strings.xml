@@ -332,8 +332,8 @@ dd/MM"</string>
     <string name="settings_view_btn_check_on">Açıq</string>
     <string name="share">Paylaş</string>
     <string name="share_to_community">Xiaomi Cəmiyyətində paylaş</string>
-    <string name="show_battery">Batareya vəziyyətini göstər</string>
-    <string name="show_battery_status">Batareya vəziyyətini göstər</string>
+    <string name="show_battery">Batareya statusunu göstər</string>
+    <string name="show_battery_status">Batareya statusunu göstər</string>
     <string name="show_lunar">Ənənəvi Çin təqvimini göstər</string>
     <string name="show_lunar_desc">"İkili saat Ənənəvi Çin təqvimini dəstəkləmir"</string>
     <string name="show_notification">Bildirişləri göstər</string>

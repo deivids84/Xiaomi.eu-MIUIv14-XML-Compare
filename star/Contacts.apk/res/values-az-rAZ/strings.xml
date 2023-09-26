@@ -159,7 +159,7 @@
     <string name="bh_order_id">Sifariş kimliyi</string>
     <string name="bh_order_loading">Bir saniyə…</string>
     <string name="bh_order_pay">Ödəniş</string>
-    <string name="bh_order_status">Sifariş vəziyyəti</string>
+    <string name="bh_order_status">Sifariş statusu</string>
     <string name="bh_order_time">Əməliyyat vaxtı</string>
     <string name="bh_other_charge">Digər telefon nömrəsi</string>
     <string name="bh_other_operator">Digər operatorlar</string>
@@ -171,7 +171,7 @@
     <string name="bh_perm_desc_read_contacts">Artırarkən kontaktları görüntüləmək üçün</string>
     <string name="bh_permission_contact">Kontaktlara müraciət</string>
     <string name="bh_permission_contact_desc">Kontaktlarınızın balansını artırmaq üçün</string>
-    <string name="bh_permission_get_accounts_desc">Sifariş vermək və vəziyyətlərini yoxlamaq üçün</string>
+    <string name="bh_permission_get_accounts_desc">Sifariş vermək və statusunu yoxlamaq üçün</string>
     <string name="bh_permission_read_call_log">Zəng tarixçəsinə müraciət</string>
     <string name="bh_permission_read_call_log_desc">Zəng müddətini görüntüləmək üçün</string>
     <string name="bh_permission_read_call_log_desc_and_reason">Zəng müddətini görüntüləmək üçün zəng jurnalını oxu</string>
@@ -190,7 +190,7 @@
     <string name="bh_recharge_title">Artır</string>
     <string name="bh_recommend">Tövsiyə edilən</string>
     <string name="bh_refresh_time">Son güncəlləmə: %1$s</string>
-    <string name="bh_refreshing_sim_state">SIM vəziyyəti təzələnir…</string>
+    <string name="bh_refreshing_sim_state">SIM statusu təzələnir…</string>
     <string name="bh_save">Saxla</string>
     <string name="bh_save_desc">Növbəti artırmada istifadə etmək üçün bu nömrəni saxla</string>
     <string name="bh_save_sccuss">Uğurla saxlanıldı</string>

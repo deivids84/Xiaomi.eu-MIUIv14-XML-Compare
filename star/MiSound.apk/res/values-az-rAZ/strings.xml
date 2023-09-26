@@ -464,7 +464,7 @@
     <string name="sound_id_notice_headset_change_msg">"Deyəsən, fərqli qulaqlıq istifadə edirsiniz. Test dayandırıldı."</string>
     <string name="sound_id_notice_headset_change_msg2">"Deyəsən, fərqli qulaqlıq istifadə edirsiniz. Bu fərdiləşdirilmiş səsin bu qulaqlığa uyğun gəldiyinə əmin olun."</string>
     <string name="sound_id_notice_headset_change_positive">Oldu</string>
-    <string name="sound_id_notice_headset_change_title">Qulaqlıqların vəziyyətini təsdiqləyin</string>
+    <string name="sound_id_notice_headset_change_title">Qulaqlıqların statusunu təsdiqlə</string>
     <string name="sound_id_pref_description">Səs effektlərini qulaqlıq modellərinə uyğunlaşdırın</string>
     <string name="sound_id_pref_name">Özəl effektlər</string>
     <string name="sound_id_rename_dialog_title">Adı daxil edin</string>

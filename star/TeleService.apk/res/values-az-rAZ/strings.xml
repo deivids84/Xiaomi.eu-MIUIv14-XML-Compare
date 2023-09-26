@@ -324,7 +324,7 @@
     <string name="callFailed_powerOff">Radio bağlıdır</string>
     <string name="callFailed_preemption">Ön-alış</string>
     <string name="callFailed_protocol_error_unspecified">Protokol xətası, müəyyənləşdirilməyib</string>
-    <string name="callFailed_recovery_on_timer_expired">Taymer bitdikdən sonra bərpa et</string>
+    <string name="callFailed_recovery_on_timer_expired">Taymer bitdikdən sonra geri qaytar</string>
     <string name="callFailed_requested_circuit_or_channel_not_available">tələb edilən dövrə/kanal əlçatmazdır</string>
     <string name="callFailed_requested_facility_not_implemented">Tələb edilən təsis tətbiq edilmədi</string>
     <string name="callFailed_requested_facility_not_subscribed">Tələb edilən təsis abunə edilmədi</string>

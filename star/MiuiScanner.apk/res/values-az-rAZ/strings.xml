@@ -492,7 +492,7 @@
     <string name="not_recommend_access_web_url">Yenə də get</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="note">Açıqlama:</string>
-    <string name="now_state">"Hazırkı vəziyyət: "</string>
+    <string name="now_state">"Hazırkı status: "</string>
     <string name="ocr_plant_loading">Bir saniyə…</string>
     <string name="offline_translation">Oflayn tərcümə</string>
     <string name="once">Yalnız bir dəfə</string>
@@ -606,7 +606,7 @@
     <string name="query">Yoxla</string>
     <string name="queryGoodsFailed">"Məhsul məlumatı tapıla bilmədi"</string>
     <string name="queryNum">Sifarişi yoxla</string>
-    <string name="query_faile">"Sifariş vəziyyəti və detalları hələ sinxronlaşdırılmayıb. Sifarişi əllə yoxlayın."</string>
+    <string name="query_faile">"Sifariş statusu və detalları hələ sinxronlaşdırılmayıb. Sifarişi əllə yoxlayın."</string>
     <string name="query_inai">Mi AI-in sizə kömək etməsinə icazə verin</string>
     <string name="query_more">Daha çox məlumat</string>
     <string name="query_tracking">Çatdırılma</string>

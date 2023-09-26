@@ -61,7 +61,7 @@
     <string name="bluetooth_sap_notif_message">Müştəri bağlantısı kəsilsin?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM müraciəti</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM müraciəti</string>
-    <string name="broadcast_notification_name">Yayım vəziyyəti</string>
+    <string name="broadcast_notification_name">Yayım statusu</string>
     <string name="bt_audio_share_notification_content">Seçimlərə baxmaq üçün toxunun</string>
     <string name="bt_audio_share_notification_title">Səs paylaşılır</string>
     <string name="bt_enable_cancel">İmtina</string>

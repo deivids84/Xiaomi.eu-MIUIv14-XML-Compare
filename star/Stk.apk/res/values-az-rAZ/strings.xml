@@ -205,7 +205,7 @@
     <string name="sim_type_sim_name">SIM Alət dəsti</string>
     <string name="sim_type_uim_name">UIM Alət dəsti</string>
     <string name="sim_type_usim_name">USIM Alət dəsti</string>
-    <string name="stk_app_state">Tətbiq vəziyyəti</string>
+    <string name="stk_app_state">Tətbiq statusu</string>
     <string name="stk_channel_name">Mobil xidmət mesajları</string>
     <string name="stk_dialog_accept">BƏLİ</string>
     <string name="stk_dialog_reject">XEYR</string>

@@ -261,8 +261,8 @@
     <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
     <string name="public_readOnlyMode">Yalnız oxunan</string>
-    <string name="public_recory_edit_not_save_tips">Sizin üçün saxlanılmamış məzmun artıq bərpa edildi.</string>
-    <string name="public_recory_open_file_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və indi bərpa edildi.</string>
+    <string name="public_recory_edit_not_save_tips">Saxlanılmamış məzmun artıq sizin üçün geri qaytarıldı.</string>
+    <string name="public_recory_open_file_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və indi geri qaytarıldı.</string>
     <string name="public_refuse_give_permission">Səlahiyyəti ləğv et</string>
     <string name="public_refuse_jurisdiction">Tələb olunan icazələr</string>
     <string name="public_replace">Əvəz et</string>
@@ -312,8 +312,8 @@
     <string name="public_undo">Geri al</string>
     <string name="public_unsave">Ləğv et</string>
     <string name="public_warnedit_dialog_title_text">Məsləhətlər</string>
-    <string name="public_wpscloud_recovery_edit_not_exist_tips">Sənəd digər tətbiqlər tərəfindən silindi və WPS Cloud Docs tərəfindən bərpa edildi.</string>
-    <string name="public_wpscloud_recovery_edit_not_save_tips">"Son düzəliş edilmiş məzmun saxlanılmadı və WPS Cloud Docs tərəfindən bərpa edildi."</string>
+    <string name="public_wpscloud_recovery_edit_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və WPS Cloud Docs tərəfindən geri qaytarıldı.</string>
+    <string name="public_wpscloud_recovery_edit_not_save_tips">"Son düzəliş edilmiş məzmun saxlanılmadı və WPS Cloud Docs tərəfindən geri qaytarıldı."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Sənədi güvənli şəkildə saxlayın</string>
     <string name="public_writer_label">Mi Text Viewer</string>
     <string name="public_writer_ui_delete">Sil</string>

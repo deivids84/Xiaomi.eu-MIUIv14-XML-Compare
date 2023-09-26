@@ -43,7 +43,7 @@
     <string name="alarm_klaxon_service_desc">Saat tətbiqində tənzimlənən zəngli saatlar üçün səs oxutma xidməti.</string>
     <string name="alarm_list_title">Zəngli saat</string>
     <string name="alarm_notify_snooze_label">%s ertələmə</string>
-    <string name="alarm_permanent_alert">Çağırır</string>
+    <string name="alarm_permanent_alert">Zəng çalır</string>
     <string name="alarm_repeat">Təkrarla</string>
     <string name="alarm_ringtone_picker">Zəngli saatlar</string>
     <string name="alarm_set_new">Zəngli saat %d dəqiqədən az vaxtda sönəcək.</string>
@@ -354,7 +354,7 @@ d/M"</string>
     <string name="set_alarm_done">Hazırdır</string>
     <string name="set_now">Tənzimlə</string>
     <string name="setting_alarm_arriving_subtitle">Zəngli saat çalmazdan əvvəl bildirişləri göstər</string>
-    <string name="setting_alarm_arriving_title">Çalmazdan əvvəl bildiriş</string>
+    <string name="setting_alarm_arriving_title">Zəng çalmazdan əvvəl bildiriş</string>
     <string name="setting_complete">Hazırdır</string>
     <string name="shortcut_new_alarm">Zəngli saatı tənzimlə</string>
     <string name="shortcut_start_timer">Taymeri başlat</string>

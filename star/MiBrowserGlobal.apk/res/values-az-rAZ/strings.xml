@@ -1850,7 +1850,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="pref_site_settings_protected_content_ask_summary">Saytlar qorunan məzmunu oxutmaq üçün icazə istəməli və almalıdır</string>
     <string name="pref_site_settings_protected_content_block_summary">"Saytların qorunan məzmunu oxutmasına icazə verməyin"</string>
     <string name="pref_site_settings_reset">Təmizlə və sıfırla</string>
-    <string name="pref_site_settings_reset_confirmation">"Bu saytın verilənləri (çərəzlər daxil olmaqla) təmizlənib icazələri sıfırlansın?"</string>
+    <string name="pref_site_settings_reset_confirmation">"Bu saytın datası (çərəzlər daxil olmaqla) təmizlənsin və icazələri sıfırlansın?"</string>
     <string name="pref_site_settings_site">Sayt</string>
     <string name="pref_site_settings_title">Sayt tənzimləmələri</string>
     <string name="pref_title_dns_prefetch">DNS ön götürmə</string>

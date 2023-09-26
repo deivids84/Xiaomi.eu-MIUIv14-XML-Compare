@@ -602,7 +602,7 @@ Dairə qırmızı olana qədər gözləyin."</string>
     <string name="hr_detect_report_title">Test hesabatı</string>
     <string name="hr_detect_state_after_activity">Məşqdən sonra</string>
     <string name="hr_detect_state_after_activity_desc">Məşqdən dərhal sonra ölçün</string>
-    <string name="hr_detect_state_regular">Ümumi vəziyyət</string>
+    <string name="hr_detect_state_regular">Ümumi status</string>
     <string name="hr_detect_state_regular_desc">Gündəlik iş və təhsil vəziyyəti</string>
     <string name="hr_detect_state_reseting">Dincəlmə vəziyyəti</string>
     <string name="hr_detect_state_reseting_desc">Sadəcə oyanın və ya tam rahatlayın</string>
@@ -644,7 +644,7 @@ Yenidən başlayın."</string>
     <string name="hr_report_resting_slow_desc">Dincələrkən ürək döyüntünüz normaldan daha yavaşdır ki, bu da bradikardiyanın əlaməti ola bilər. Uzun müddətli yavaş ürək döyüntülü dövlər, işemiya və hipoksiyaya, həmçinin digər ürək-damar və serebrovaskulyar xəstəliklərə səbəb ola bilər. Dincələrkən ürək döyüntüsünün sürəti, pəhriziniz, fəaliyyətiniz, stress səviyyəniz, yuxu vərdişləriniz və ümumi fiziki vəziyyətinizlə sıx əlaqəlidir. Problemlərdən qaçmaq üçün sağlam həyat tərzi sürün və orqanizminizə diqqət yetirin. Döş qəfəsində sıxılma, başgicəllənmə, göz qaralması, huşunu itirmə, özündən getmə və ya ürəkkeçməsi ilə qarşılaşsanız, vaxtında həkiminizlə məsləhətləşin.</string>
     <string name="hr_see_report">Hesabata bax</string>
     <string name="hr_start_detect">Təcrübə etməyə başla</string>
-    <string name="hr_state">Vəziyyət</string>
+    <string name="hr_state">Status</string>
     <string name="hr_state_active">Aktiv</string>
     <string name="hr_state_fast">Sürətli</string>
     <string name="hr_state_normal">Normal</string>
@@ -1482,7 +1482,7 @@ tapıla bilmədi"</string>
     <string name="sync_is_not_closed">Sinxr. indi açıqdır</string>
     <string name="sync_is_off">Sinxr. bağlıdır</string>
     <string name="sync_set_network">Şəbəkə tənzimləmələri</string>
-    <string name="sync_status">Sinxr. vəziyyəti</string>
+    <string name="sync_status">Sinxr. statusu</string>
     <string name="sync_status_failure_retry">"Sinxr. bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="sync_status_in_progress">Sixnr…</string>
     <string name="sync_status_network_failure">"Sinxr edilə bilmədi. Şəbəkəyə qoşulub yenidən sınayın."</string>
@@ -1579,7 +1579,7 @@ tapıla bilmədi"</string>
     <string name="tb_mens_month_future_date">"%1$s. Gələcək tarixləri seçilə bilmir."</string>
     <string name="tb_mens_month_history">Günlərlə ortalama period müddəti: %1$d. Günlərlə ortalama dövr müddəti: %2$d.</string>
     <string name="tb_mens_month_marked">%1$s. Menstruasiya dövrü işarələndi.</string>
-    <string name="tb_mens_month_no_marks">"%1$s. Vəziyyət işarələnmədi."</string>
+    <string name="tb_mens_month_no_marks">"%1$s. Status işarələnmədi."</string>
     <string name="tb_mens_month_panel_title">%1$s. Tarixi dəyişdirmək üçün toxunun.</string>
     <string name="tb_mens_month_period_date_selected">%1$s. Menstruasiya dövrünün %2$d günü. Seçildi.</string>
     <string name="tb_mens_month_period_date_unselected">%1$s. Menstruasiya dövrünün %2$d günü. Tarixi seçmək üçün toxunun.</string>
@@ -1746,7 +1746,7 @@ tapıla bilmədi"</string>
     <string name="unknown_birthday">Bilinmir</string>
     <string name="unknown_full_name">Bilinmir</string>
     <string name="unknown_gender">Bilinmir</string>
-    <string name="unknown_state">Bilinməyən vəziyyət</string>
+    <string name="unknown_state">Bilinməyən status</string>
     <string name="update_notify_dialog_ignore">Daha sonra</string>
     <string name="update_notify_dialog_msg">"Bir güncəlləmə mövcuddur: %1$s.
 Yeni nə var:

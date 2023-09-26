@@ -104,8 +104,8 @@
     <string name="default_noti_quota_full_title">Bulud anbarı dolub</string>
     <string name="detect_sim_card">SIM kartı axtar</string>
     <string name="device_activation_card_cannot_get_yet">"Məlumat alına bilmədi. 3-5 gün ərzində yenidən sınayın."</string>
-    <string name="device_activation_card_description">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşdirmə vəziyyətini yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
-    <string name="device_activation_card_description_china">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşdirmə vəziyyətini yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
+    <string name="device_activation_card_description">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşmə statusunu yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşmə statusunu yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
     <string name="device_activation_card_device_not_support">Bu cihazda dəstəklənmir</string>
     <string name="device_activation_card_local_service_error">"Məlumat alına bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="device_activation_card_no_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
@@ -224,7 +224,7 @@
     <string name="ks_download_certificate">Sertifikatı endir</string>
     <string name="ks_download_success">Uğurla endirildi</string>
     <string name="ks_fingerprint_payment">Barmaq izi ödənişləri</string>
-    <string name="ks_fingerprint_status">Ödəniş vəziyyəti</string>
+    <string name="ks_fingerprint_status">Ödəniş statusu</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
@@ -556,7 +556,7 @@
     <string name="permission_management">İcazə detalları</string>
     <string name="permission_status_allow">İcazə verildi</string>
     <string name="permission_status_deny">İcazə verilmədi</string>
-    <string name="permission_status_loading">Cihaz vəziyyətinə müraciət edilir…</string>
+    <string name="permission_status_loading">Cihaz statusuna müraciət edilir…</string>
     <string name="phone_guarantee_service_description" formatted="false">Ekran zədələnmələrinə və qəzalara qarşı qoruma, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər. Uzadılmış zəmanət, aktivləşdirmədən sonrakı %d gün ərzində satın alına bilər.</string>
     <string name="phone_guarantee_service_name">Cihaz zəmanəti</string>
     <string name="picker_list_empty">Kontakt yoxdur</string>
@@ -613,7 +613,7 @@
     <string name="privacy_runtime_perm_external_storage_title">Anbara müraciət</string>
     <string name="privacy_runtime_perm_notification_desc">Xiaomi Cloud xidmətləri üzrə bildirişlər göndərmək üçün</string>
     <string name="privacy_runtime_perm_notification_title">Bildirişlər</string>
-    <string name="privacy_runtime_perm_phone_state_desc">Telefon nömrəsinə və cihazın vəziyyətinə müraciət etmək üçün</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Telefon nömrəsinə və cihazın statusuna müraciət etmək üçün</string>
     <string name="privacy_runtime_perm_phone_state_title">Cihaz məlumatlarına müraciət</string>
     <string name="privacy_runtime_perm_sms_desc">Mesajları sinxronlaşdırmaq üçün</string>
     <string name="privacy_runtime_perm_sms_title">Mesajlara müraciət</string>
@@ -627,8 +627,8 @@
     <string name="quick_service_authenticity_check_title">Kimlik təsdiqləmə</string>
     <string name="quick_service_maintenance_price_title">Təmirlər</string>
     <string name="quick_service_title">Cəld xidmətlər</string>
-    <string name="reading_status">Vəziyyət yüklənir…</string>
-    <string name="reading_status_failure">"Vəziyyət yüklənə bilmədi."</string>
+    <string name="reading_status">Status yüklənir…</string>
+    <string name="reading_status_failure">"Status yüklənə bilmədi."</string>
     <string name="recommend_service_cloudservice_description">Sistem tətbiq datasını, nüsxələmə tənzimləmələrini, Əsas ekran düzümünü və daha çoxunu sinxronlaşdırın</string>
     <string name="recommend_service_sharelocation_description">İtmiş cihazlarda cihazı tapın, kilidləyin və ya datanı təmizləyin, yerinizi dostlarınızla və ailənizlə paylaşın</string>
     <string name="recommend_service_title">Tövsiyə edilən xidmətlər</string>
@@ -771,9 +771,9 @@
     <string name="sync_dspt">Sinxronlaşdır</string>
     <string name="sync_dspt_entrance_provision">Fotolarınızı, qeydlərinizi və digər elementləri bütün cihazlarınız arasında sinxronlaşdırın. Sinxronlaşdırılan elementlərə istənilən brauzerdən %s ünvanına gedərək müraciət edin.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"İstifadə etmə"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"MIUI-nin sistem tətbiqlərinin, fotoları, mesajları, qeydləri və daha çoxunu nüsxələyə bilməsi üçün Xiaomi Cloud-a ehtiyacı var. Xiaomi Cloud ödənişsiz və istifadəyə hazır vəziyyətdədir."</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_pad">Fotolarınızı, mesajlarınızı, qeydlərinizi və daha çoxunu nüsxələmək üçün Xiaomi Cloud istifadə edə bilərsiniz. Xiaomi Cloud ödənişsiz və istifadəyə hazır vəziyyətdədir.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">"MIUI-nin sistem tətbiqlərinin, fotoları, mesajları, qeydləri və daha çoxunu nüsxələyə bilməsi üçün Xiaomi Cloud-a ehtiyacı var. Xiaomi Cloud ödənişsiz və istifadəyə hazır vəziyyətdədir."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"MIUI-nin sistem tətbiqlərinin, fotoları, mesajları, qeydləri və daha çoxunu nüsxələyə bilməsi üçün Xiaomi Cloud-a ehtiyacı var. Xiaomi Cloud ödənişsizdir və qutudan çıxdığı kimi istifadəyə hazırdır."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">Fotolarınızı, mesajlarınızı, qeydlərinizi və daha çoxunu nüsxələmək üçün Xiaomi Cloud istifadə edə bilərsiniz. Xiaomi Cloud ödənişsizdir və qutudan çıxdığı kimi istifadəyə hazırdır.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">"MIUI-nin sistem tətbiqlərinin, fotoları, mesajları, qeydləri və daha çoxunu nüsxələyə bilməsi üçün Xiaomi Cloud-a ehtiyacı var. Xiaomi Cloud ödənişsizdir və qutudan çıxdığı kimi istifadəyə hazırdır."</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi Cloud istifadə et</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Xiaomi Cloud istifadə edilməsin?"</string>
     <string name="sync_dspt_entrance_provision_network">Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır. Dataların sinxronlaşdırılması, mobil internet bağlantısı və ya Wi-Fi-ın açılmasını tələb edə bilər.</string>

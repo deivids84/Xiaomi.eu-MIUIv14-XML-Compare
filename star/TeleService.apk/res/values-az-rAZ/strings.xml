@@ -827,7 +827,7 @@
     <string name="fiveg_switch_title">5G şəbəkələrini istifadə et</string>
     <string name="fiveg_upperlayer_indication1">Üst qat göstərici vəziyyəti:</string>
     <string name="flash_when_ring_summary">Gələn zəngləri bildirmək üçün fənəri istifadə et</string>
-    <string name="flash_when_ring_title">Zəng gələndə yandırıb söndür</string>
+    <string name="flash_when_ring_title">Zəng çalarkən yandırıb söndür</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -1031,7 +1031,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="location">Ərazi</string>
     <string name="lodgings_disable">Ev kirayəsi sıradan çıxarıldı</string>
     <string name="lodgings_enable">Ev kirayəsi fəallaşdırıldı</string>
-    <string name="low_battery_flash_when_ring_button_tip">"Batareya səviyyəsi aşağı olduğu üçün telefon çalanda fənər istifadə edilə bilmir"</string>
+    <string name="low_battery_flash_when_ring_button_tip">"Batareya səviyyəsi aşağı olduğu üçün zəng çalanda fənər istifadə edilə bilmir"</string>
     <string name="main_netcheck_summary">Şəbəkə problemləri üçün bağlantını test et</string>
     <string name="maintenance_disable">Baxım sıradan çıxarıldı</string>
     <string name="maintenance_enable">Baxım fəallaşdırıldı</string>
@@ -1413,7 +1413,7 @@ Yenidən sınayın və ya daha çox seçim üçün müştəri xidmətlərinə z�
     <string name="path_enable_antispam_strange_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/İlk zəng səsini susdur</string>
     <string name="path_enable_proximity_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/Yaxınlıq sensoru</string>
     <string name="path_fdn">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Sabit Yığım Nömrələri</string>
-    <string name="path_flash_when_ring_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/Zəng gələndə yandırıb söndür</string>
+    <string name="path_flash_when_ring_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/Zəng çalarkən yandırıb söndür</string>
     <string name="path_handon_ringer_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/Qaldıranda zəng səsini susdur</string>
     <string name="path_missed_call_notify_times_title">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Cavabsız zəng xatırladıcıları</string>
     <string name="path_preference_dial_pad_touch_tone_title">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Yığım paneli toxunma səsləri</string>
@@ -1607,7 +1607,7 @@ Digər uğursuz cəhddən sonra SIM kartınız kilidlənəcək."</string>
     <string name="radioInfo_menu_viewSDN">Xidmət Yığım Nömrələrinə Baxın</string>
     <string name="radioInfo_phone_idle">Boşda</string>
     <string name="radioInfo_phone_offhook">Zəng davam edir</string>
-    <string name="radioInfo_phone_ringing">Çağırır</string>
+    <string name="radioInfo_phone_ringing">Zəng çalır</string>
     <string name="radioInfo_roaming_in">Rouminq</string>
     <string name="radioInfo_roaming_not">Rominqdə deyil</string>
     <string name="radioInfo_service_emergency">Yalnız fövqəladə hal zəngləri</string>

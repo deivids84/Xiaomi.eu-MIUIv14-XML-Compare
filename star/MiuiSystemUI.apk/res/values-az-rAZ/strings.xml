@@ -1881,7 +1881,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="reboot_info_auto_boot_global">Gələn zəngli saat: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Zəngli saatı söndür: %s</string>
     <string name="reboot_to_bootloader_title">Fastboot rejimi</string>
-    <string name="reboot_to_recovery_title">Bərpa rejimi</string>
+    <string name="reboot_to_recovery_title">Geri qaytarma rejimi</string>
     <string name="recent_conversations">Son danışıqlar</string>
     <string name="recent_used_camera">Bu tətbiq kameraya müraciət etdi</string>
     <string name="recent_used_camera_and_microphone">Bu tətbiq kameraya və mikrofona müraciət etdi</string>

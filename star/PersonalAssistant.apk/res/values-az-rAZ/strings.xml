@@ -211,7 +211,7 @@ Başlatmaq üçün cüt toxunun."</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s seçildi. Vicetlər dəyişdirilir.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
 Başqa bir vicetlə əvəz etmək üçün altındakı düyməyə iki dəfə toxunun."</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Quraşdırma vəziyyəti: %3$s. \"Keç\" düyməsi aşağıdadır.
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Quraşdırma statusu: %3$s. \"Keç\" düyməsi aşağıdadır.
 Keçmək üçün iki dəfə basın."</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Quraşdırma statusu: %3$s, 
 detallar üçün iki dəfə toxunun, 
@@ -242,7 +242,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Vicet mağazası. %s üzrə bütün vicetlərə baxmaq üçün seçin. %s üzrə bütün vicetlərə baxmaq üçün iki dəfə toxunun.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Vicet mağazası. %s seçildi. Vicet açıqlamasını açmaq üçün iki dəfə toxunun. Element %s viceti ehtiva edir.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Düzəliş etmək üçün iki dəfə toxunun.</string>
-    <string name="pa_accessibility_widget_slected_status">%1$s. Quraşdırma vəziyyəti: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Quraşdırma statusu: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Vicet</string>
     <string name="pa_app_label">Tətbiq kassası</string>
     <string name="pa_base_time_just_now">İndicə</string>
@@ -272,7 +272,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_edit_repeat">Təkrarla</string>
     <string name="pa_edit_select_image">Format</string>
     <string name="pa_edit_set_time">Vaxtı tənzimlə</string>
-    <string name="pa_edit_state_onoff">Nəzarət vəziyyəti</string>
+    <string name="pa_edit_state_onoff">Kontrol statusu</string>
     <string name="pa_edit_switch">Dəyişdir</string>
     <string name="pa_edit_text">Görüntülənən element</string>
     <string name="pa_edit_text_align">Hizalama</string>

@@ -32,7 +32,7 @@
     <string name="download_fail">Endirilərkən xəta baş verdi!</string>
     <string name="download_fail_desc">MD5 Sum uyğun gəlmir…</string>
     <string name="downloading">Endirilir:</string>
-    <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsində vəziyyəti yoxlayın.</string>
+    <string name="downloading_desc">Endirmə davam edir, bildiriş sahəsində statusu yoxlayın.</string>
     <string name="fastboot_desc">Cihaz indi Fastboot rejimində yenidən başladılacaq. Rejim sizə tanış gəlmirsə, gələcək əməliyyatlardan imtina edin. Davam edilsin?</string>
     <string name="fastboot_mode">Güncəlləyici Fastboot rejimindədir, ROM-ları yalnız PC-də Terminal ilə yükləyə bilərsiniz!</string>
     <string name="fastboot_update_warning">Bu güncəlləmə yalnız fastboot quraşdırması üçündür!</string>

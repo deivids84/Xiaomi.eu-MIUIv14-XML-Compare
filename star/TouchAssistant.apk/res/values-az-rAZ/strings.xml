@@ -184,7 +184,7 @@
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="restore_default">İlkin halına qaytar</string>
-    <string name="restore_intro">"Qısayollar və sıraları daxil olmaqla ilkin vəziyyətinə geri qaytarın. Cihazınızdakı tətbiq məlumattı bundan təsirlənməyəcək."</string>
+    <string name="restore_intro">"Qısayollar və sıraları daxil olmaqla ilkin halına geri qaytarın. Cihazınızdakı tətbiq datası bundan təsirlənməyəcək."</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>

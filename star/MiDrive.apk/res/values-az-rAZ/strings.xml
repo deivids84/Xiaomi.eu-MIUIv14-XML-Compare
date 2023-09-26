@@ -382,7 +382,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="permission_camera_desc">Foto və video çəkmə</string>
     <string name="permission_camera_title">Kamera</string>
     <string name="permission_denied">İcazə verilmədi</string>
-    <string name="permission_phone_desc">Telefon nömrəsinə və cihaz vəziyyətinə müraciət</string>
+    <string name="permission_phone_desc">Telefon nömrəsinə və cihaz statusuna müraciət</string>
     <string name="permission_phone_title">Cihaz məlumatı</string>
     <string name="permission_storage_desc">Bu cihazdakı foto və fayllara müraciət və onları saxlama</string>
     <string name="permission_storage_desc_pad">Cihazdakı foto və fayllara müraciət</string>

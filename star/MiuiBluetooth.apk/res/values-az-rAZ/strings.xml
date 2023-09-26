@@ -227,7 +227,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="installer_error_internal_error">Daxili xəta</string>
     <string name="installer_error_invalid_request">Quraşdırma tələbi yararsızdır</string>
     <string name="installer_error_module_unavailable">Tələb olunan modul əlçatmazdır</string>
-    <string name="installer_error_network_error">Zəhmət olmasa telefon şəbəkə vəziyyətini yoxlayın!</string>
+    <string name="installer_error_network_error">Zəhmət olmasa telefonunuzun şəbəkə statusunu yoxlayın!</string>
     <string name="installer_error_service_died">Xidmət əlçatmazdır, zəhmət olmasa yenidən sınayın.</string>
     <string name="installer_installed">Tam quraşdırıldı</string>
     <string name="installer_installing">Quraşdırılır…</string>

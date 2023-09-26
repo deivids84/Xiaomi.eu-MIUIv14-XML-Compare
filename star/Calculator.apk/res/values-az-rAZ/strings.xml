@@ -871,7 +871,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="word_figure_big_unit_wan">"On min "</string>
     <string name="word_figure_big_unit_yi">"Yüz milyon "</string>
     <string name="word_figure_big_unit_zhao">"Trilyon "</string>
-    <string name="word_figure_guide_text">Tələblər arasında çevirmək üçün mətnə basıb saxlayın.</string>
+    <string name="word_figure_guide_text">Böyük/kiçik hərf arasında keçid etmək üçün mətni basılı tutun.</string>
     <string name="word_figure_number_0">Sıfır</string>
     <string name="word_figure_number_1">Bir</string>
     <string name="word_figure_number_2">İki</string>

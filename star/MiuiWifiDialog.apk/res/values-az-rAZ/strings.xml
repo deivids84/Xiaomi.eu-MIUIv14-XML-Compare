@@ -234,7 +234,7 @@
     <string name="noon">Günorta</string>
     <string name="notification_channel_network_alerts">Şəbəkə xəbərdarlıqları</string>
     <string name="notification_channel_network_available">Şəbəkə əlçatandır</string>
-    <string name="notification_channel_network_status">Şəbəkə vəziyyəti</string>
+    <string name="notification_channel_network_status">Şəbəkə statusu</string>
     <string name="ok">Oldu</string>
     <string name="pm">GS</string>
     <string name="saturday">Şənbə</string>

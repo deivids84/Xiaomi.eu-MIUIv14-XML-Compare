@@ -1894,7 +1894,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="require_unlock_for_nfc">NFC istifadə etmək üçün kilidi aç</string>
     <string name="reset">Sıfırla</string>
     <string name="restart_button_description">Bu tətbiqi yenidən başlatmaq və tam ekrana keçmək üçün toxunun.</string>
-    <string name="retail_demo_reset_message">Demo rejimində fabrik tənzimləmələrinə qayıtmaq üçün parolu daxil edin</string>
+    <string name="retail_demo_reset_message">Demo rejimində fabrik sıfırlamasını icra etmək üçün parolu daxil edin</string>
     <string name="retail_demo_reset_next">Növbəti</string>
     <string name="retail_demo_reset_title">Parol tələb olunur</string>
     <string name="return_to_incall_screen">Zəngə qayıt</string>

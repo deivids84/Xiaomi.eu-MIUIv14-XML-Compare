@@ -302,9 +302,9 @@
     <string name="callFailed_limitExceeded">ACM limiti aşıldı</string>
     <string name="callFailed_low_battery">Batareya səviyyəsi aşağı olduğuna görə görüntülü zəng sonlandırıldı.</string>
     <string name="callFailed_maximum_reached">Bütün mövcud xətlər istifadə olunur. Zəng etmək üçün, bu və ya digər cihazlarınızda zənglərdən birini sonlandırın</string>
-    <string name="callFailed_message_not_compatible_with_protocol_state">Mesaj, protokol vəziyyəti ilə uyğunlaşmır</string>
+    <string name="callFailed_message_not_compatible_with_protocol_state">Mesaj, protokol statusu ilə uyğunlaşmır</string>
     <string name="callFailed_message_type_non_implemented">Mesaj növü mövcud deyil və ya tətbiq edilməyib</string>
-    <string name="callFailed_message_type_not_compatible_with_protocol_state">Mesaj növü, protokol vəziyyəti ilə uyğunlaşmır</string>
+    <string name="callFailed_message_type_not_compatible_with_protocol_state">Mesaj növü, protokol statusu ilə uyğunlaşmır</string>
     <string name="callFailed_network_out_of_order">Şəbəkə işləmir</string>
     <string name="callFailed_noSignal">Siqnal yoxdur</string>
     <string name="callFailed_no_answer_from_user">İstifadəçi xəbərdarlığı, cavab yoxdur</string>
@@ -329,7 +329,7 @@
     <string name="callFailed_requested_facility_not_implemented">Tələb edilən təsis tətbiq edilmədi</string>
     <string name="callFailed_requested_facility_not_subscribed">Tələb edilən təsis abunə edilmədi</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Resurslar mövcud deyil, müəyyənləşdirilməyib</string>
-    <string name="callFailed_resp_to_status_enquiry">VƏZİYYƏT ARAŞDIRMA üçün cavab</string>
+    <string name="callFailed_resp_to_status_enquiry">STATUS ARAŞDIRMA üçün cavab</string>
     <string name="callFailed_secure_mode">Güvənli rejimdə fövqəladə olmayan zəng edilə bilmir.</string>
     <string name="callFailed_semantically_incorrect_message">Semantik olaraq yanlış mesaj</string>
     <string name="callFailed_server_error">Server xətası. Daha sonra yenidən sınayın.</string>
@@ -443,13 +443,13 @@
     <string name="cbrs_data_switch_string">Cbrs Datası</string>
     <string name="cdma_activate_device">Cihazı aktivləşdirin</string>
     <string name="cdma_alert_message">"Əgər başqa kartı, ilkin mobil internet kartı olaraq seçsəniz, China Telecom UIM kartınızı (rouminq istisna) istifadə edə bilməyəcəksiniz."</string>
-    <string name="cdma_alert_title">UIM kartı, ilkin vəziyyətdə olmalıdır</string>
+    <string name="cdma_alert_title">UIM kartı, ilkin halında qalmalıdır</string>
     <string name="cdma_call_waiting">Zəng gözlətmə işə salınsın?</string>
     <string name="cdma_call_waiting_in_ims_off">IMS altında CDMA zəng gözlətmə bağlıdır</string>
     <string name="cdma_call_waiting_in_ims_on">IMS altında CDMA zəng gözlətmə açıqdır</string>
-    <string name="cdma_display_precise_call_state_message">"Şəbəkə provayderiniz bu funksiyanı dəstəkləməsə, zəng vəziyyəti qeyri-dəqiq ola bilər."</string>
+    <string name="cdma_display_precise_call_state_message">"Şəbəkə provayderiniz bu funksiyanı dəstəkləməsə, zəng statusu qeyri-dəqiq ola bilər."</string>
     <string name="cdma_display_precise_call_state_summary">Şəbəkə provayderinizin bu funksiyanı dəstəklədiyini təsdiqləyin</string>
-    <string name="cdma_display_precise_call_state_title">Zəngin vəziyyətini göstər</string>
+    <string name="cdma_display_precise_call_state_title">Zəngin statusunu göstər</string>
     <string name="cdma_lte_data_service">Data xidmətini quraşdır</string>
     <string name="cdma_options">CDMA Seçimləri</string>
     <string name="cdma_subscription_dialogtitle">abunəlik</string>
@@ -796,10 +796,10 @@
     <string name="fdn_with_label">Sabit yığım nömrələri (%s)</string>
     <string name="fire_type_description">Yanğın</string>
     <string name="fiveg_available_status1">NR əlçatandır:</string>
-    <string name="fiveg_bearer_status1">5G daşıyıcı vəziyyəti:</string>
+    <string name="fiveg_bearer_status1">5G daşıyıcı statusu:</string>
     <string name="fiveg_carrier_aggregation_title">5G daşıyıcı yığma</string>
     <string name="fiveg_endc_available1">NR ENDC əlçatandır:</string>
-    <string name="fiveg_endc_status1">Endc vəziyyəti:</string>
+    <string name="fiveg_endc_status1">Endc statusu:</string>
     <string name="fiveg_hosted_mode_summary">Batareyaya qənaət etmək üçün ən yaxşı şəbəkəni avtomatik seç</string>
     <string name="fiveg_hosted_mode_title">5G Ağıllı Açar</string>
     <string name="fiveg_icon_type1">Nr Nişan Növü :</string>
@@ -823,9 +823,9 @@
     <string name="fiveg_sa_vice_switch_title">İkinci SIM-də SA</string>
     <string name="fiveg_signal_strength1">5G Siqnal gücü:</string>
     <string name="fiveg_switch_per_slot_summary">Mobil internet bağlantı sürətini artırmaq üçün 5G-ni istifadə edin</string>
-    <string name="fiveg_switch_status1">5G keçid vəziyyəti:</string>
+    <string name="fiveg_switch_status1">5G keçid statusu:</string>
     <string name="fiveg_switch_title">5G şəbəkələrini istifadə et</string>
-    <string name="fiveg_upperlayer_indication1">Üst qat göstərici vəziyyəti:</string>
+    <string name="fiveg_upperlayer_indication1">Üst qat göstərici statusu:</string>
     <string name="flash_when_ring_summary">Gələn zəngləri bildirmək üçün fənəri istifadə et</string>
     <string name="flash_when_ring_title">Zəng çalarkən yandırıb söndür</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -1276,8 +1276,8 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
     <string name="network_settings_title">Mobil şəbəkələr</string>
     <string name="network_settings_turn_off">Bağlı</string>
     <string name="network_settings_warn_message">Cihazınız yalnız əllə seçdiyiniz şəbəkələrlə bağlantı quracaq.</string>
-    <string name="network_state_display">Şəbəkə vəziyyətini göstər</string>
-    <string name="network_state_display_title">Şəbəkə vəziyyət tənzimləmələri</string>
+    <string name="network_state_display">Şəbəkə statusunu göstər</string>
+    <string name="network_state_display_title">Şəbəkə statusu tənzimləmələri</string>
     <string name="network_unlock">Kilidi aç</string>
     <string name="networks_title">Mobil şəbəkələr</string>
     <string name="newPin2Label">Yeni PIN2</string>
@@ -1476,8 +1476,8 @@ Başqa uğursuz cəhddən sonra PIN2 ilə əlaqəli funksiyalar kilidlənəcək.
 Başqa uğursuz cəhddən sonra telefonunuz avtomatik kilidlənəcək"</string>
     <string name="pin_progress_change_pin">PIN dəyişdirilir…</string>
     <string name="pin_progress_change_pin2">PIN2 dəyişdirilir…</string>
-    <string name="pin_progress_set_fdn_lock">FDN kilid vəziyyəti tənzimlənir…</string>
-    <string name="pin_progress_set_icc_lock">ICC kilid vəziyyəti tənzimlənir…</string>
+    <string name="pin_progress_set_fdn_lock">FDN kilid statusu tənzimlənir…</string>
+    <string name="pin_progress_set_icc_lock">ICC kilid statusu tənzimlənir…</string>
     <string name="pin_progress_unlock_icc">SIM kart kilidi açılır…</string>
     <string name="pin_puk_system_user_only">Yalnız cihazın sahibi PIN/PUK kodlarını daxil edə bilər.</string>
     <string name="ping_test_label">Ping testini çalışdır</string>
@@ -1627,7 +1627,7 @@ Digər uğursuz cəhddən sonra SIM kartınız kilidlənəcək."</string>
     <string name="radio_info_dcnr_restricted">DCNR məhdudlaşdırıldı (NSA):</string>
     <string name="radio_info_dds">İlkin internet SIM alt kimliyi:</string>
     <string name="radio_info_dl_kbps">DL diapazon genişliyi (kbps):</string>
-    <string name="radio_info_dsda_state_label">DSDA Vəziyyəti:</string>
+    <string name="radio_info_dsda_state_label">DSDA Statusu:</string>
     <string name="radio_info_endc_available">EN-DC Əlçatandır (NSA):</string>
     <string name="radio_info_gprs_service_label">İnternet xidməti:</string>
     <string name="radio_info_gsm_service_label">Səsli xidmət:</string>
@@ -1648,7 +1648,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="radio_info_network_slicing_config">Şəbəkə Dilimləmə Konfiqurasiyası:</string>
     <string name="radio_info_nr_available">NR əlçatandır (NSA):</string>
     <string name="radio_info_nr_frequency">NR Tezliyi:</string>
-    <string name="radio_info_nr_state">NR vəziyyəti (NSA):</string>
+    <string name="radio_info_nr_state">NR Statusu (NSA):</string>
     <string name="radio_info_override_network_type_label">Şəbəkə növünü yararsız et:</string>
     <string name="radio_info_phone_number_label">Telefon nömrəsi:</string>
     <string name="radio_info_phy_chan_config">LTE Fiziki Kanal Konfiqurasiyası:</string>
@@ -1679,7 +1679,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="register_on_network">%s şəbəkəsində qeydiyyatdan keçirilir…</string>
     <string name="registration_cf_forbidden">"Operatorunuz zəng yönləndirməsini dəstəkləmir."</string>
     <string name="registration_done">Şəbəkədə qeydiyyatlıdır.</string>
-    <string name="registration_status_checking_status">Vəziyyət yoxlanılır…</string>
+    <string name="registration_status_checking_status">Status yoxlanılır…</string>
     <string name="registration_status_done">Bu cihaz zəngləri ala bilir.</string>
     <string name="registration_status_failed_try_later">"Hesab qeydiyyatı uğursuz oldu: %s. Daha sonra yenidən cəhd ediləcək."</string>
     <string name="registration_status_invalid_credentials">"Hesab qeydiyyatdan keçirilə bilmədi. Yanlış istifadəçi adı və ya parol."</string>
@@ -1852,7 +1852,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="smart_switch_dual_sim_diag_ok">Tənzimləmələr</string>
     <string name="smart_switch_dual_sim_diag_title">Diqqət</string>
     <string name="smart_switch_dual_sim_prompt">SIM %1$s istifadə edərək mobil internet şəbəkəsinə bağlanmaq, əlavə internet xərcləri yarada bilər. Əlavə xərclərin qarşısını almaq üçün internet istifadə limiti təyin edin.</string>
-    <string name="smart_switch_dual_sim_summary">Şəbəkə bağlantısı keyfiyyətinə və cihazın vəziyyətinə görə internet üçün SIM kartlar arasında avtomatik keçid edin</string>
+    <string name="smart_switch_dual_sim_summary">Şəbəkə bağlantısı keyfiyyətinə və cihazın statusuna görə internet üçün SIM kartlar arasında avtomatik keçid edin</string>
     <string name="smart_switch_dual_sim_title">İnternet üçün SIM kartlar arasında keçid</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Daxil etdiyiniz nömrənin doğru olduğuna əmin olun. Əks halda, SMS göndərə və ya ala bilməyəcəksiniz. SMSC nömrənizi təsdiqləmək üçün operatorunuzla əlaqə saxlayın."</string>

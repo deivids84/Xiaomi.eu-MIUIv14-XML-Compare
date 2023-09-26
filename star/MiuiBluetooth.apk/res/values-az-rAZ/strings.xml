@@ -246,7 +246,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="mi_audio_relay_phone_name">Telefonum</string>
     <string name="mi_audio_relay_title">Cihaz seçin</string>
     <string name="mi_band_vibrate_alarm">Siqnal səslənəndə titrət</string>
-    <string name="mi_band_vibrate_incall">Çalarkən titrət</string>
+    <string name="mi_band_vibrate_incall">Zəng çalarkən titrət</string>
     <string name="mi_band_vibrate_incall_in_contacts">Kontaktlardan gələn zənglər</string>
     <string name="mi_band_vibrate_incall_no_contacts">Bilinməyən nömrələrdən gələn zənglər</string>
     <string name="mi_band_vibrate_sms">SMS mesajları üçün titrət</string>

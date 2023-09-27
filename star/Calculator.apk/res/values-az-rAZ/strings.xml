@@ -410,7 +410,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_use_degress_summary">Triqonometrik funksiyalarda bucaqları radianla ifadə et</string>
     <string name="preference_use_degress_title">Bucaqları istifadə et</string>
     <string name="preference_use_voice">Səs çıxışı</string>
-    <string name="preference_use_voice_summary">Hesablamalar əsnasında nitq çıxışını istifadə etmək üçün işə salın</string>
+    <string name="preference_use_voice_summary">Hesablamalar zamanı nitq çıxışını istifadə etmək üçün işə salın</string>
     <string name="preference_use_voice_title">Nitq çıxışı</string>
     <string name="preference_user_feedback_title">Əks-əlaqə</string>
     <string name="privacy_dialog_title">Gizlilik</string>

@@ -1614,7 +1614,7 @@ icazə tələb olundu"</string>
     <string name="reboot_safemode_confirm">Güvənli rejimdə yenidən başlatmaq istəyirsiniz? Bu, quraşdırdığınız bütün üçüncü tərəf tətbiqləri sıradan çıxardacaq. Daha sonra yenidən başladılanda bərpa ediləcək.</string>
     <string name="reboot_safemode_title">Güvənli rejimdə yenidən başlat</string>
     <string name="reboot_to_reset_message">Yenidən başladılır…</string>
-    <string name="reboot_to_reset_title">Fabrik tənzimləmələrinə qayıt</string>
+    <string name="reboot_to_reset_title">Fabrik datasının sıfırlanması</string>
     <string name="reboot_to_update_package">Güncəllənmə paketi emal olunur…</string>
     <string name="reboot_to_update_prepare">Güncəlləmək üçün hazırlanır…</string>
     <string name="reboot_to_update_reboot">Yenidən başladılır…</string>
@@ -1838,11 +1838,11 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="sync_too_many_deletes_desc">%3$s hesabında %2$s üçün %1$d silinmiş element var. Nə etmək istəyirsiniz?</string>
     <string name="sync_undo_deletes">Silinənləri geri qaytar</string>
     <string name="system_error_manufacturer">"Cihazınızın daxili problemi var. Əlavə məlumat üçün istehsalçı ilə əlaqə saxlayın."</string>
-    <string name="system_error_wipe_data">"Cihazınızın daxili problemi var və istehsalçı sıfırlanması olmayana qədər qeyri-stabil ola bilər."</string>
+    <string name="system_error_wipe_data">"Cihazınızın daxili bir problemi var və fabrik verilənlərinə sıfırlanana qədər qeyri-stabil ola bilər."</string>
     <string name="system_locale_title">Sistem ilkin halı</string>
     <string name="taking_remote_bugreport_notification_title">Xəta hesabatı düzəldilir…</string>
     <string name="terabyteShort">TB</string>
-    <string name="test_harness_mode_notification_message">Test Harness rejimini sıradan çıxartmaq üçün fabrik tənzimləmələrinə qaytarın.</string>
+    <string name="test_harness_mode_notification_message">Test Harness rejimini sıradan çıxartmaq üçün fabrik sıfırlaması edin.</string>
     <string name="test_harness_mode_notification_title">Test Harness rejimi fəaldır</string>
     <string name="tethered_notification_message">Quraşdırmaq üçün toxunun.</string>
     <string name="tethered_notification_multi_device_message">%1$s qoşulu cihaz</string>

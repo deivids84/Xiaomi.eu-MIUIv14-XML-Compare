@@ -665,10 +665,10 @@
     <string name="offline_notification_text">Reklamı açmaq üçün toxunun</string>
     <string name="offline_notification_title">Oflayn olarkən saxladığınız reklama baxın</string>
     <string name="offline_opt_in_confirm">Oldu</string>
-    <string name="offline_opt_in_confirmation">"Təkrar xətdə olanda keçidlə birgə bir bildiriş alacaqsınız"</string>
+    <string name="offline_opt_in_confirmation">"Təkrar onlayn olduqda keçidlə birgə bir bildiriş alacaqsınız"</string>
     <string name="offline_opt_in_decline">Xeyr, təşəkkürlər</string>
     <string name="offline_opt_in_message">"Sizə reklamçının saytına keçid olan bir bildiriş göndərəcəyik."</string>
-    <string name="offline_opt_in_title">"Təkrar xətdə olduqda reklamı aç."</string>
+    <string name="offline_opt_in_title">"Təkrar onlayn olduqda reklamı aç."</string>
     <string name="ok">Oldu</string>
     <string name="one_tap_clean_GB">%s GB</string>
     <string name="one_tap_clean_M">%d MB</string>

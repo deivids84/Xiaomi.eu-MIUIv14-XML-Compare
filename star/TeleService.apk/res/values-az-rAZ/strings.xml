@@ -1743,7 +1743,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="roaming_user_package_summary_kr">"Rouminq paketinizi satın alın, ləğv edin və ya ona düzəliş edin. Rouminqdə olarkən bu menyunun istifadəsinə görə sizdən ödəniş tutulmayacaq."</string>
     <string name="roaming_user_package_title_kr">Rouminq paketi istifadə et</string>
     <string name="roaming_warning">Əhəmiyyətli dərəcədə xərc tutula bilər.</string>
-    <string name="rtt_mode_more_information">RTT, eşitmə qabiliyyəti tam və ya qismən məhdud olan, danışma qabiliyyəti məhdud və ya səsdən daha çoxuna ehtiyacı olan zənglərə kömək edir.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Daha ətraflı&lt;/a&gt; &lt;br&gt;&lt;br&gt; - RTT zəngləri, bir mesaj transkripti olaraq saxlanılır &lt;br&gt; - RTT, görüntülü zənglər üçün əlçatmazdır</string>
+    <string name="rtt_mode_more_information">RTT, eşitmə qabiliyyəti tam və ya qismən məhdud olan, nitq qabiliyyəti məhdud və ya səsdən daha çoxuna ehtiyacı olan zənglərə kömək edir.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Daha ətraflı&lt;/a&gt; &lt;br&gt;&lt;br&gt; - RTT zəngləri, bir mesaj transkripti olaraq saxlanılır &lt;br&gt; - RTT, görüntülü zənglər üçün əlçatmazdır</string>
     <string name="rtt_mode_summary">Səsli zəngdə mesajlaşmaya icazə ver</string>
     <string name="rtt_mode_title">Real vaxtlı mətn (RTT) zəngi</string>
     <string name="sa_switch_debug_summary">Əlavə SIM tənzimləmələrində 5G şəbəkə rejimi seçimlərini göstər</string>

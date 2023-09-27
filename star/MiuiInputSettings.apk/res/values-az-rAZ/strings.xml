@@ -395,7 +395,7 @@ Düyməni %s saniyə basılı saxlasanız, bunun əvəzinə söndürmə menyusun
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preferred_app_settings_reset">İlkin halına sıfırla</string>
     <string name="preferred_app_settings_reset_button">Sıfırla</string>
-    <string name="preferred_app_settings_reset_message">İlkin tətbiq tərcihləri fabrik tənzimləmələrinə sıfırlansın?</string>
+    <string name="preferred_app_settings_reset_message">İlkin tətbiq tərcihləri fabrik ön tənzimləmələrinə sıfırlansın?</string>
     <string name="preferred_media_app_summary">Musiqi pleyeri seçin</string>
     <string name="regional_screen_shot">Qismən ekran şəkli</string>
     <string name="saturday">Şənbə</string>

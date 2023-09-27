@@ -751,7 +751,7 @@
     <string name="toast_notes_delete_success">Uğurla silindi</string>
     <string name="toast_notes_hidden_edit">Bu qeyd uğurla gizlədildi. Gizli qeydlərə baxmaq üçün aşağı çəkin.</string>
     <string name="toast_notes_hidden_home">Bu qeyd uğurla gizlədildi. Gizli qeydlərə baxmaq üçün aşağı çəkin.</string>
-    <string name="toast_notes_hidden_pad">Bu qeyd indi gizlidir. Gizli qeydləri görmək üçün yan paneli aşağı çəkin.</string>
+    <string name="toast_notes_hidden_pad">Bu qeyd indi gizlidir. Gizli qeydlərə baxmaq üçün yan paneli aşağı çəkin.</string>
     <string name="toast_notes_unhidden">Uğurla göstərildi</string>
     <string name="toast_pic_is_not_really">Təsvir saxlanılır…</string>
     <string name="toast_reach_text_limit_attachment">"Qeyd məzmunu çox uzun olduğu üçün yeni elementlər əlavə edilə bilmir"</string>

@@ -365,7 +365,7 @@
     <string name="language_translate_entry_auto">Avto</string>
     <string name="link_to_network">Bağlantı qur</string>
     <string name="local_ocr_recognition">Yerli ocr tanıma</string>
-    <string name="local_ocr_recognition_str">Xətdən kənar tərcüməyə keçildi</string>
+    <string name="local_ocr_recognition_str">Oflayn tərcüməyə keçildi</string>
     <string name="location_permission_message">Wi-Fi ilə bağlantı qurmaq üçün</string>
     <string name="location_permissions_text">Bu özəlliyi istifadə edə bilmək üçün Tənzimləmələrdən yerləşmə müraciətinə icazə verin.</string>
     <string name="logistics">Sürətli çatdırılma</string>

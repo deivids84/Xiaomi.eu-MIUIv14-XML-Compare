@@ -1209,7 +1209,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_input_vcode_hint">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_input_voice_captcha_hint">Səsli təsdiqləmə kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
-    <string name="passport_international_phone_password_login_tip">(Çin xaricində olan istifadəçilər mobil telefon nömrəsini aşağıdakı üsulda daxil etməlidir: +[sahə kodu][telefon nömrəsi], məs.: +91 817282982)</string>
+    <string name="passport_international_phone_password_login_tip">(Çin xaricində olan istifadəçilər mobil telefon nömrəsini aşağıdakı formatda daxil etməlidir: +[ölkə kodu][telefon nömrəsi], məs.: +91 817282982)</string>
     <string name="passport_log_detail">Detallara bax</string>
     <string name="passport_login_failed">"Daxil ola bilmədi"</string>
     <string name="passport_next">Növbəti</string>

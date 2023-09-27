@@ -160,7 +160,7 @@
     <string name="crop_and_create">Excel faylı kəsilib yaradılır…</string>
     <string name="crop_cancel_description">İmtina</string>
     <string name="crop_done_description">Hazırdır</string>
-    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Seçim sahəsi dörd tərəfdən olmalıdır</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Seçim sahəsi dörd tərəfə malik olmalıdır</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Kəsmə dördbucaqlısı, çökük dördbucaqlı ola bilməz və maksimum bucaq 140 dərəcəni aşa bilməz</string>
     <string name="crop_title_study">Fotonu kəs</string>
     <string name="crop_title_translation">Tərcümə ediləcək mətni seçin</string>

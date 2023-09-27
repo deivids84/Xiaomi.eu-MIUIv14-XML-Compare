@@ -703,7 +703,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="detail_title">Detal məlumatı</string>
     <string name="device_list_all">Bütün cihazlar</string>
     <string name="device_list_more">Daha çox</string>
-    <string name="device_offline">Digər cihaz xətdən kənardadır. Başdan başlat.</string>
+    <string name="device_offline">Digər cihaz oflayndır. Başdan başlat.</string>
     <string name="device_status_failed">"Göndərilə bilmədi"</string>
     <string name="device_status_sending">Göndərilir…</string>
     <string name="device_status_success">Uğurla göndərildi</string>

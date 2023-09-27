@@ -380,7 +380,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="capability_desc_canControlMagnification">"Ekranın yaxınlaşdırma səviyyəsi və mövqeyinə nəzarət edin."</string>
     <string name="capability_desc_canPerformGestures">Toxuna, sürüşdürə, çimdikləyə və digər jestləri edə bilər.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Kredit kartı nömrələri və parollar kimi şəxsi məlumatlar daxildir.</string>
-    <string name="capability_desc_canRequestTouchExploration">Toxunulan elementlər səsli olaraq oxunulacaq və jestlər istifadə edilərək ekran kəşf ediləcək.</string>
+    <string name="capability_desc_canRequestTouchExploration">Toxunulan elementlər ucadan danışılacaq və jestlər istifadə edilərək ekran kəşf edilə biləcək.</string>
     <string name="capability_desc_canRetrieveWindowContent">"Qarşılıqlı əlaqədə olduğunuz pəncərənin məzmununu yoxlayır."</string>
     <string name="capability_desc_canTakeScreenshot">Ekran şəklini çəkə bilər.</string>
     <string name="capability_title_canCaptureFingerprintGestures">Barmaq izi jestləri</string>

@@ -576,7 +576,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="galleryplus_subtitle_edit_hide">Altyazıları gizlət</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Mətnə düzəliş et</string>
     <string name="galleryplus_subtitle_edit_reminder">Daxil etdiyiniz mətn çox uzundur</string>
-    <string name="galleryplus_subtitle_recognized_empty_subtitles">"Səs yazarkən danışıq tanına bilmədi"</string>
+    <string name="galleryplus_subtitle_recognized_empty_subtitles">"Səs yazarkən nitq tanına bilmədi"</string>
     <string name="galleryplus_talkback_btn_back">Geri</string>
     <string name="galleryplus_talkback_btn_cancel">İmtina</string>
     <string name="galleryplus_talkback_btn_fold_speed_view">Oxutma sürətini gizlət</string>

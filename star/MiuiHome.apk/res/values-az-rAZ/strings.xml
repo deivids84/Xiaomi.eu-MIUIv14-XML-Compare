@@ -76,7 +76,7 @@
     <string name="all_apps_install_contentcenter_msg">Deyəsən, Məzmun Mərkəzi silindi. Yenidən quraşdırılsın?</string>
     <string name="all_apps_install_contentcenter_title">Məzmun Mərkəzini quraşdırın</string>
     <string name="all_apps_search_app">Tətbiq axtar</string>
-    <string name="all_apps_search_market_message">İnternetdə axtar</string>
+    <string name="all_apps_search_market_message">Onlayn axtar</string>
     <string name="all_apps_setting_classic_title">Klassik</string>
     <string name="all_apps_setting_drawer_title">Tətbiq siyirməsi ilə</string>
     <string name="all_apps_setting_jeejen_title">Lite rejimi</string>

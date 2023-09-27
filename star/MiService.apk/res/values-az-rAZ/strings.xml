@@ -305,7 +305,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="public_net_error_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="public_open_feedback_service">Başlat</string>
     <string name="public_please_authorize">Davam etmək üçün icazələr tələb edilir</string>
-    <string name="public_welcome_use_feedback_service">\"Xidmətlər və əks-əlaqə\"yə xoş gəldiniz! Bu tətbiqi əks-əlaqə vermək, tez-tez soruşulan suallara baxmaq, məhsulların geri qaytarılması və mübadiləsi üçün müraciət etmək və daha çoxu üçün istifadə edə bilərsiniz.</string>
+    <string name="public_welcome_use_feedback_service">\"Xidmətlər və əks-əlaqə\"yə xoş gəldiniz! Bu tətbiqi əks-əlaqə vermək, tez-tez verilən suallara baxmaq, məhsulların geri qaytarılması və mübadiləsi üçün müraciət etmək və daha çoxu üçün istifadə edə bilərsiniz.</string>
     <string name="rationale_ask">Bu tətbiq, tələb olunan icazələr olmadan düzgün işləməyə bilər.</string>
     <string name="rationale_ask_again">Bu tətbiq, tələb olunan icazələr olmadan düzgün işləməyə bilər. Tətbiq icazələrini dəyişdirmək üçün tətbiq tənzimləmələri ekranını açın.</string>
     <string name="saturday">Şənbə</string>

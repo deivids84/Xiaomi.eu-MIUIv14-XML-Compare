@@ -374,7 +374,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="process_whole_recovery">\"%s\" bərpa edilir</string>
     <string name="provision_back">Geri</string>
     <string name="provision_background_restore_more_data">Arxaplanda daha çox element bərpa et</string>
-    <string name="provision_error_connect_msg">"Şəbəkəni test edib yenidən sınayın. Nüsxələr, cihaz xətdən kənarda olduqda əlçatmazdır."</string>
+    <string name="provision_error_connect_msg">"Şəbəkəni test edib yenidən sınayın. Nüsxələr, cihazınız oflayn olduqda əlçatmazdır."</string>
     <string name="provision_error_connect_title">"Bağlantı qurula bilmir"</string>
     <string name="provision_next">Növbəti</string>
     <string name="provision_restore_data">Elementlər bərpa edilir</string>

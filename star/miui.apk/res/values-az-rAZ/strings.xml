@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Sinxr təkrar aktivləşdir</string>
     <string name="activating">Aktivləşdirilir…</string>
     <string name="address">Ünvan</string>
-    <string name="after_reset_need_restore_system_app">"Deyəsən, fabrik tənzimləmələrinə qayıtdınız. MIUI-ni normal istifadə edə bilmək üçün üçün şəbəkəyə qoşulun və sistem elementlərini bərpa edin."</string>
+    <string name="after_reset_need_restore_system_app">"Deyəsən, fabrik sıfırlaması icra etdiniz. MIUI-ni normal istifadə edə bilmək üçün üçün şəbəkəyə bağlanın və sistem elementlərini bərpa edin."</string>
     <string name="afternoon">GS</string>
     <string name="am">GƏ</string>
     <string name="birthday">Doğum günü</string>
@@ -19,7 +19,7 @@
     <string name="check_phone_error_title">Sinxr bağlıdır</string>
     <string name="check_phone_io_error">"Şəbəkə ilə bağlantı qurula bilmir"</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_to_restore">Fabrik tənzimləmələrinə qayıtdıqdan sonra MIUI-ni normal istifadə edə bilmək üçün sistem elementlərini bərpa edin. Başlamaq üçün toxunun.</string>
+    <string name="click_to_restore">Fabrik sıfırlamasından sonra MIUI-ni normal istifadə edə bilmək üçün sistem elementlərini bərpa edin. Başlamaq üçün toxunun.</string>
     <string name="close">Bağla</string>
     <string name="com_android_email">Poçt</string>
     <string name="com_android_soundrecorder">Səsyazan</string>

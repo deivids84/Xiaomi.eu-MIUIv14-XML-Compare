@@ -1499,7 +1499,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="novel_tab_popup_ok">Oldu</string>
     <string name="occupy">%s istifadə edilir</string>
     <string name="offline_notification_text">Reklamı açmaq üçün toxunun</string>
-    <string name="offline_notification_title">Xətdən kənar olduğunuz vaxt saxladığınız reklama baxın</string>
+    <string name="offline_notification_title">Oflayn olarkən saxladığınız reklama baxın</string>
     <string name="offline_opt_in_confirm">Oldu</string>
     <string name="offline_opt_in_confirmation">"Təkrar xətdə olanda keçidlə birgə bir bildiriş alacaqsınız"</string>
     <string name="offline_opt_in_decline">Xeyr, təşəkkürlər</string>

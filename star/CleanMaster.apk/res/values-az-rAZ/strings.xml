@@ -663,7 +663,7 @@
     <string name="notification_whatsapp_clean_button_text">Təmizlə</string>
     <string name="notification_whatsapp_clean_size">WhatsApp keşi %s həcminə çatdı</string>
     <string name="offline_notification_text">Reklamı açmaq üçün toxunun</string>
-    <string name="offline_notification_title">Xətdən kənar olduğunuz vaxt saxladığınız reklama baxın</string>
+    <string name="offline_notification_title">Oflayn olarkən saxladığınız reklama baxın</string>
     <string name="offline_opt_in_confirm">Oldu</string>
     <string name="offline_opt_in_confirmation">"Təkrar xətdə olanda keçidlə birgə bir bildiriş alacaqsınız"</string>
     <string name="offline_opt_in_decline">Xeyr, təşəkkürlər</string>
@@ -719,7 +719,7 @@
     <string name="pref_summary_garbage_cleanup_check_size">Tullantı həcmi müəyyən ölçüyə çatanda avtomatik təmizlə</string>
     <string name="pref_summary_garbage_cleanup_check_time">Müntəzəm təmizləməni planlaşdır</string>
     <string name="pref_summary_garbage_process_mode">Təmizləyici işlək olduqda bildirişləri tənzimlə</string>
-    <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını onlayn təriflərlə yükləyin və müqayisə edin</string>
+    <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını yükləyin və onlayn təriflərlə müqayisə edin</string>
     <string name="pref_title_apps_cleanup_size">Keş, bu ölçüyə çatdıqda</string>
     <string name="pref_title_auto_clean_content_choose">Təmizlənəcək elementləri seçin</string>
     <string name="pref_title_auto_update_cleanup_db">Avto-güncəlləmə</string>

@@ -130,7 +130,7 @@
     <string name="global_cta_feature_control">Ağıllı telefon tətbiqlərinizi planşetinizdə görüntüləmə və istifadə etmə</string>
     <string name="global_cta_user_agreement">%1$s istifadə etməzdən əvvəl &lt;txt href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%3$s\"&gt;Privacy Gizlilik Siyasətimizi&lt;/txt&gt; oxuyub qəbul edin.</string>
     <string name="guide_window_btn_know">Anladım</string>
-    <string name="guide_window_operation">Ekranın kənarından mərkəzə doğru sürüşdürün</string>
+    <string name="guide_window_operation">Ekranın yan tərəfindən mərkəzə doğru sürüşdürün</string>
     <string name="guide_window_title">Geri qayıt</string>
     <string name="http_buffer_size">HTTP keş ölçüsü</string>
     <string name="invisible_mode_dialog_cancel">İmtina</string>

@@ -394,8 +394,8 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
     <string name="some_app_taking">(%1$s, artıq bu özəlliyi istifadə edir)</string>
-    <string name="start_speech">Danışığı başlat</string>
-    <string name="stop_speech">Danışığı dayandır</string>
+    <string name="start_speech">Nitqi başlat</string>
+    <string name="stop_speech">Nitqi dayandır</string>
     <string name="stylus_firmware_failed_summary">Yerləşmə xidmətlərini açıb Bluetooth-u yenidən başladın. Bundan sonra, qələmi təkrar taxıb yenidən sınayın.</string>
     <string name="stylus_firmware_failed_title">"Firmware güncəllənə bilmədi"</string>
     <string name="stylus_firmware_success_summary">Cütləşdirmək üçün qələmi taxın.</string>

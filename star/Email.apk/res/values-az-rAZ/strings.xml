@@ -670,7 +670,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="message_invite_state_tentative">Gözləyir</string>
     <string name="message_invite_tentative">Bəlkə</string>
     <string name="message_view_attachment_background_load">Yönləndirilmiş mesajınızdakı qoşmalar göndərilməzdən əvvəl endiriləcək.</string>
-    <string name="mi_slide_menu">Kənar çubuğu</string>
+    <string name="mi_slide_menu">Yan çubuğu</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>

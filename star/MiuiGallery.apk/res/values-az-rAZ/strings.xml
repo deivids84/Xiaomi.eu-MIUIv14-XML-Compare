@@ -2891,8 +2891,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="text_item_type_talkback_bubble_circular">Nitq qabarcığı</string>
     <string name="text_item_type_talkback_bubble_none">Mətn sahəsi</string>
     <string name="text_item_type_talkback_bubble_oval">Oval nitq qabarcığı</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat danışıq qabarcığı %d</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat danışıq qabarcığı %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Kvadrat nitq qabarcığı %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Kvadrat nitq qabarcığı %d</string>
     <string name="text_item_type_talkback_bubble_signature">İmza</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Həmişə gözəl bir şeyin baş verəcəyinə inanın</string>
     <string name="text_item_type_talkback_bubble_watermark_2">Mükəmməl bir tətil 1</string>

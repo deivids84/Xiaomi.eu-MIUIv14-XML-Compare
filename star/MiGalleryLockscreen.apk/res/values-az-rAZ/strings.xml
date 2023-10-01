@@ -90,7 +90,7 @@
     <string name="cancel_service_running">Xidmətlər ləğv edilir…</string>
     <string name="cancel_service_summary">"Davam etsəniz, Divar kağızı Karuseli xidmətlərini ləğv edəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Yenə də xidmətlər ləğv edilsin?"</string>
     <string name="carousel_declaration_btn_text">\"Divar kağızı Karuseli\"ni aç</string>
-    <string name="carousel_declaration_cta">"Divar kağızı Karuseli, normal işləməsi üçün internet bağlantısı tələb edir. Onlayn məzmuna müraciət əldə etmək üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul etməlisiniz. Razısınız?"</string>
+    <string name="carousel_declaration_cta">"Divar kağızı Karuseli, normal işləməsi üçün internet bağlantısı tələb edir. Onlayn məzmuna müraciət əldə etmək üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizlə&lt;/a&gt; razılaşmalısınız. Razılaşırsınız?"</string>
     <string name="carousel_declaration_cta_btn_text">Razılaş və işə sal</string>
     <string name="carousel_declaration_des">Divar kağızı Karuseli ilə gözəl məkanları görün və maraqlı sürprizlər əldə edin</string>
     <string name="carousel_declaration_des2">\"Divar kağızı Karuseli\"nə özəl şəkillərinizi əlavə edin</string>
@@ -261,7 +261,7 @@
     <string name="lks_cta_ok">Razıyam</string>
     <string name="lks_cta_reject">"Razı deyiləm"</string>
     <string name="lks_cta_summary1">Divar kağızı Karuseli, aşağıdakı özəllikləri təqdim edir:</string>
-    <string name="lks_cta_summary2">"1. Avto-güncəllənən divar kağızları&lt;br&gt;2. Kilid ekranınıza göndərilən yeni şəkillər və hekayələr&lt;br&gt;3. Özəlləşdirmə seçimləri&lt;br&gt;Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.&lt;br&gt;&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik. Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyub qəbul edin."</string>
+    <string name="lks_cta_summary2">"1. Avto-güncəllənən divar kağızları&lt;br&gt;2. Kilid ekranınıza göndərilən yeni şəkillər və hekayələr&lt;br&gt;3. Özəlləşdirmə seçimləri&lt;br&gt;Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.&lt;br&gt;&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik. Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyun və razılaşın."</string>
     <string name="lks_cta_title">Şərtlər və qaydalar</string>
     <string name="lks_data_warning_toast_1">"Divar kağızlarına baxmaq üçün mobil internet istifadə edirsiniz.
 Bu əlavə ödənişlərə səbəb ola bilər."</string>
@@ -697,8 +697,8 @@ mm"</string>
     <string name="privacy_update_confirm">Razıyam</string>
     <string name="privacy_update_quit">Çıx</string>
     <string name="privacy_update_summary1">Divar kağızı Karuseli Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_update_summary2">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyub qəbul edin."</string>
-    <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını qəbul etmədiyiniz müddətcə \"Divar kağızı Karuseli\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
+    <string name="privacy_update_summary2">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyun və razılaşın."</string>
+    <string name="privacy_update_summary3">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə \"Divar kağızı Karuseli\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə indi razılaşırsınız?"</string>
     <string name="privacy_update_title1">Güncəllənmiş gizlilik siyasəti</string>
     <string name="privacy_update_title2">Diqqət</string>
     <string name="prv_end"><CDATA>\"İndilik bu qədər.\"</CDATA></string>
@@ -865,11 +865,11 @@ mm"</string>
     <string name="subscribe_success_content_per_unlock">Divar kağızını hər cihaz kilidlənəndə dəyişdir</string>
     <string name="subscribe_update_time_setting">Fərqli bir interval tənzimlə</string>
     <string name="summary">"Onlayn məzmuna baxmaq üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul edin. Razı deyilsinizsə, yerli divar kağızları hələ də əlçatan olacaq."</string>
-    <string name="summary2">"Bu özəlliyi istifadə edərək &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; qəbul etmiş olursunuz. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır."</string>
-    <string name="summary3">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. Bu tətbiq, normal işləməsi üçün internetə bağlanmalı və tələb olunan şəxsi məlumatları yığmalıdır.&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik.&lt;br&gt;Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamağınız üçün, tətbiqi istifadə etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyub qəbul edin."</string>
+    <string name="summary2">"Bu özəlliyi istifadə edərək &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamız&lt;/font&gt;&lt;/a&gt; və &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizlə&lt;/font&gt;&lt;/a&gt; razılaşırsınız. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.​"</string>
+    <string name="summary3">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. Bu tətbiq, normal işləməsi üçün internetə bağlanmalı və tələb olunan şəxsi məlumatları yığmalıdır.&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik.&lt;br&gt;Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamağınız üçün, tətbiqi istifadə etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyun və razılaşın."</string>
     <string name="summary4">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. "</string>
     <string name="summary5">"Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik. "</string>
-    <string name="summary_international">"Bu özəlliyi istifadə edərək &lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul etmiş olursunuz. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır."</string>
+    <string name="summary_international">"Bu özəlliyi istifadə edərək &lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamız&lt;/a&gt; və &lt;a href='%2$s'&gt;Gizlilik Siyasətimizlə&lt;/a&gt; razılaşırsınız. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.​"</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>

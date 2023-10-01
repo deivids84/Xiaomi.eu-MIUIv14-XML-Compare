@@ -104,7 +104,7 @@ onları İkinci sahədə göstərin"</string>
     <string name="create_work_space">İş sahəsi yarat</string>
     <string name="creating_app_icon">Nişan yaradılır…</string>
     <string name="cta_declaration_agree_and_continue">Razıyam</string>
-    <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxuyub qəbul etməlisiniz: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
+    <string name="cta_declaration_message_format" formatted="false">Müəssisə rejimini istifadə etməzdən əvvəl bunları oxumalı və razılaşmalısınız: &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt;. Müəssisə rejimini aktivləşdirmək üçün cihazınız internetə bağlanmalıdır. Razılaşırsınız?</string>
     <string name="cta_declaration_title">Şərtlər və Qaydalar</string>
     <string name="current_space">Hazırkı sahə</string>
     <string name="dataSafe">İkinci sahəni istifadə etmək iki cihaza sahib olmaq kimidir.</string>
@@ -138,11 +138,11 @@ onları İkinci sahədə göstərin"</string>
     <string name="ent_activation">Aktivləşdir</string>
     <string name="ent_activation_hint">Müəssisə rejimini aktivləşdirmək üçün korporativ kodunuzu lisenziya kodu ilə birlikdə daxil edin. Bundan sonra, özəl müəssisə xidmətləri fəallaşdırılacaq.</string>
     <string name="ent_activation_hint_whit_licence">"Özəl müəssisə xidmətlərini fəallaşdırmaq üçün Müəssisə rejimini aktivləşdirin.
-Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvəl müvafiq gizlilik siyasətlərini oxuyun və qəbul edin."</string>
+Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvəl müvafiq gizlilik siyasətlərini oxuyun və razılaşın."</string>
     <string name="ent_agency_code">Korporativ kod</string>
     <string name="ent_agency_code_hint">Korporativ kodu daxil edin</string>
     <string name="ent_agency_code_invalid">Daxil etdiyiniz korporativ kod yararsızdır.</string>
-    <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və qəbul etdim"</string>
+    <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və razılaşıram"</string>
     <string name="ent_app_verified">Deyəsən, cihazınızda müəssisə tətbiqləri quraşdırılıb. Müəssisə rejimi aktivləşdirilsin?</string>
     <string name="ent_confirm_dialog_content">"Müəssisə rejimini aktivləşdirdikdən sonra sisteminizin indiki vəziyyətinə qayıda bilməyəcəksiniz. Ancaq, bütün məlumatlarınız hələ də bu cihazda saxlanılacaq. Müəssisə rejimini aktivləşdirmək üçün cihazınızı yenidən başlatmalısınız. İndi aktivləşdirilsin?"</string>
     <string name="ent_disallow_running">Tətbiqin işləməsi yasaqlanıb</string>

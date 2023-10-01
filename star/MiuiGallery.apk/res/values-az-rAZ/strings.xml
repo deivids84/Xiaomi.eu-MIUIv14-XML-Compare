@@ -332,7 +332,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_cloud_space_low_desc">%1$s Xiaomi Cloud | %2$s əlçatandır</string>
     <string name="backup_cloud_space_low_title">Yetərsiz Xiaomi Cloud anbar sahəsi</string>
     <string name="backup_cta_not_allow_btn_text">İcazə ver</string>
-    <string name="backup_cta_not_allow_desc">Avto-nüsxələməni qəbul et</string>
+    <string name="backup_cta_not_allow_desc">Avtomatik nüsxələmə ilə razılaş</string>
     <string name="backup_cta_not_allow_title">"Şəbəkəyə müraciət edilə bilmir"</string>
     <string name="backup_detail_page_empty">Nüsxələnməni gözləyən foto və ya video yoxdur</string>
     <string name="backup_detail_page_title">Sinxronlaşdırılan elementlər</string>
@@ -661,7 +661,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="creativity_summary">Əlavə yaradıcılıq və düzəliş özəlliklərini göstər</string>
     <string name="creativity_title">Yaradıcılıq</string>
     <string name="crop_label">Kəsilmiş fotolar</string>
-    <string name="cta_agreement_declare"><Data>Bu tətbiqi istifadə etməzdən əvvəl, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı istifadə etmə yollarımızı tam anlamaq üçün bunları oxuyub qəbul edin: &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;.</Data></string>
+    <string name="cta_agreement_declare"><Data>Bu tətbiqi istifadə etməzdən əvvəl, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı istifadə etmə yollarımızı tam anlamaq üçün bunları oxuyun və razılaşın: &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;.</Data></string>
     <string name="cta_network_declare">Foto və videoları Xiaomi Cloud ilə sinxronlaşdırmaq üçün bu tətbiq internetə bağlanmalıdır.</string>
     <string name="cta_screenthrow_declare">"Bu cihazın ekranını xarici monitorlarda yayımlaya bilmək üçün, bu tətbiqin internetə bağlanması lazımdır."</string>
     <string name="custom_select_title_deselect_all">Seçmə</string>
@@ -1492,7 +1492,7 @@ mövcuddur"</string>
     <string name="map_guide_message">Foto və videolarınıza xəritədə baxın</string>
     <string name="map_location">Hazırkı yerə daşı</string>
     <string name="map_positioning_failed_tip">"Zəif siqnala görə yer məlumatları alına bilmədi"</string>
-    <string name="map_privacy_dialog_content"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara bir xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyub qəbul edin.</Data></string>
+    <string name="map_privacy_dialog_content"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara bir xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Daha ətraflı öyrənmək üçün &lt;a href=\"%1$s\"&gt;AÇıq Platforma Məhsulları və Xidmətləri üçün Baidu Map Gizlilik Siyasətini&lt;/a&gt; oxuyun.</Data></string>
     <string name="map_privacy_dialog_title">Qalereya xəritəsi</string>
     <string name="map_privacy_policy">Qalereya Xəritəsi Gizlilik Siyasəti</string>
@@ -2202,7 +2202,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_cloud_confirm">Sinxrn aç</string>
     <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Gizlilik Siyasəti</string>
     <string name="privacy_cloud_confirm_content2">İstifadəçi Razılaşması</string>
-    <string name="privacy_cloud_confirm_detail"><Data>\"Sinxronlaşdırmanı işə saldıqdan sonra bu cihazdakı foto və videolar Xiaomi Cloud-a yüklənəcək və daha əvvəl sinxronlaşdırılmış elementlərlə (əgər varsa) birləşdiriləcək. Davam etməzdən əvvəl Xiaomi Cloud-un &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.\"</Data></string>
+    <string name="privacy_cloud_confirm_detail"><Data>\"Sinxronlaşdırmanı işə saldıqdan sonra bu cihazdakı foto və videolar Xiaomi Cloud-a yüklənəcək və daha əvvəl sinxronlaşdırılmış elementlərlə (əgər varsa) birləşdiriləcək. Davam etməzdən əvvəl Xiaomi Cloud-un &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="privacy_cloud_confirm_detail_negative">Çıx</string>
     <string name="privacy_cloud_confirm_detail_positive">Razıyam</string>
     <string name="privacy_cloud_confirm_rejected">Bu hesab üçün Xiaomi Cloud-un Gizlilik Siyasətinə verilən razılıq geri götürüldü. Fərqli bir hesabı yoxlayın.</string>
@@ -2210,7 +2210,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_detail_map">Qalereya Xəritəsinin Gizlilik Siyasətinə baxın</string>
     <string name="privacy_entrance">Gizlilik</string>
     <string name="privacy_map">Qalereya Xəritəsi</string>
-    <string name="privacy_map_detail"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;AÇıq Platforma Məhsulları və Xidmətləri üçün Baidu Map Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.</Data></string>
+    <string name="privacy_map_detail"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;AÇıq Platforma Məhsulları və Xidmətləri üçün Baidu Map Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="privacy_map_detail_content">Açıq Platforma Məhsul və Xidmətləri üçün Baidu Xəritəsi Gizlilik Siyasəti</string>
     <string name="privacy_map_detail_content_new">Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatı</string>
     <string name="privacy_permission">İcazələr</string>
@@ -2242,7 +2242,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_rejected_map_new">Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşma Bəyanatına verilən razılığın geri götürülməsi</string>
     <string name="privacy_rejected_pos_btn">Geri götür</string>
     <string name="privacy_share_album_confirm">Şərtlər və qaydalar</string>
-    <string name="privacy_share_album_confirm_detail">Paylaşılan albomlar, Xiaomi Cloud tərəfindən dəstəklənir. Bu özəlliyi istifadə etməzdən əvvəl, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin.</string>
+    <string name="privacy_share_album_confirm_detail">Paylaşılan albomlar, Xiaomi Cloud tərəfindən dəstəklənir. Bu özəlliyi istifadə etməzdən əvvəl, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="private_entry_lock_state_activated_text">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="private_entry_lock_state_enterd_text">Şəxsi qovluğu açmaq üçün aşağı çəkin</string>
     <string name="problem_feedback">Əks-əlaqə</string>
@@ -2329,7 +2329,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="rename_fail_msg">"Ad dəyişdirilə bilmədi"</string>
     <string name="rename_from_contact">Kontaktlardan adlar</string>
     <string name="request_agree">İcazə ver</string>
-    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="request_cancel">İmtina</string>
     <string name="request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>

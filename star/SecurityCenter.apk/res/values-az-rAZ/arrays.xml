@@ -124,7 +124,7 @@
     <string-array name="debug_open_intercept">
         <item>Bir kompüter istifadə edərək cihazınızdakı fayllara müraciət etmək və düzəliş etmək mümkün olacaq.</item>
         <item>Açıq icazəniz olmadan cihazınızda tətbiq quraşdırmasına icazə veriləcək.</item>
-        <item>"Ekran məzmununuzu uzaqdan izləyə və qeyd edə biləcəksiniz."</item>
+        <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
         <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">

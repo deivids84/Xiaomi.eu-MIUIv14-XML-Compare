@@ -862,8 +862,8 @@ Bu səhifəni tərk etmək istədiyinizə əminsiniz?"</string>
     <string name="kg_failed_attempts_almost_at_login">"Naxışın kilidini açmaq üçün %1$d dəfə yanlış çəkdiniz. Daha %2$d uğursuz cəhddən sonra bir e-poçt hesabı istifadə edərək telefon kilidinin açılması soruşulacaq.
 
  %3$d saniyə ərzində yenidən sınayın."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">Telefon kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra telefonunuz fabrik tənzimləmələrinə sıfırlanacaq və bütün istifadəçi verilənləri silinəcək.</string>
-    <string name="kg_failed_attempts_now_wiping">Telefon kilidini açmaq üçün %d dəfə yanlış cəhd etdiniz. Telefon, fabrik tənzimləmələrinə sıfırlanacaq.</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Telefon kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra telefonunuz ilkin halına qaytarılacaq və bütün istifadəçi datası silinəcək.</string>
+    <string name="kg_failed_attempts_now_wiping">Telefon kilidini açmaq üçün %d dəfə yanlış cəhd etdiniz. Telefon, ilkin halına qaytarılacaq.</string>
     <string name="kg_forgot_pattern_button_text">Naxışı unutdum</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kodlar uyğunlaşmır</string>
     <string name="kg_invalid_puk">Doğru PUK kodu yenidən daxil edin. Təkrarlanan cəhdlər SIM-i birdəfəlik sıradan çıxardacaq.</string>
@@ -935,11 +935,11 @@ Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda bas
     <string name="lockscreen_access_pattern_start">Naxış başladıldı</string>
     <string name="lockscreen_carrier_default">Xidmət yoxdur</string>
     <string name="lockscreen_emergency_call">Fövqəladə hal</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe">Telefon kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra telefonunuz fabrik tənzimləmələrinə sıfırlanacaq və bütün istifadəçi verilənləri silinəcək.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Telefon kilidini açmaq üçün %1$d dəfə yanlış cəhd etdiniz. Daha %2$d uğursuz cəhddən sonra telefonunuz ilkin halına qaytarılacaq və bütün istifadəçi datası silinəcək.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Naxışın kilidini açmaq üçün %1$d dəfə yanlış çəkdiniz. Daha %2$d uğursuz cəhddən sonra Google giriş məlumatlarınızı istifadə edərək telefon kilidinin açılması soruşulacaq.
 
  %3$d saniyə ərzində yenidən sınayın."</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini açmaq üçün %d dəfə yanlış cəhd etdiniz. Telefon, fabrik tənzimləmələrinə sıfırlanacaq.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini açmaq üçün %d dəfə yanlış cəhd etdiniz. Telefon, ilkin halına qaytarılacaq.</string>
     <string name="lockscreen_forgot_pattern_button_text">Naxışı unutdunuz?</string>
     <string name="lockscreen_glogin_account_recovery_hint">\"İstifadəçi adınızı və ya parolunuzu unutdunuz?
  \"<b>google.com/accounts/recovery</b> ünvanını ziyarət edin.</string>
@@ -1576,7 +1576,7 @@ icazə tələb olundu"</string>
     <string name="policydesc_setGlobalProxy">Siyasət fəal olanda istifadə ediləcək cihazın qlobal proksisini tənzimlə. Yalnız cihaz sahibi, qlobal proksini tənzimləyə bilər.</string>
     <string name="policydesc_watchLogin">"Ekran kilidini açarkən yazılan yanlış parolların sayını müşahidə et və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bütün telefon verilənlərini sil."</string>
     <string name="policydesc_watchLogin_secondaryUser">"Ekran kilidini açarkən yazılan yanlış parolların sayını müşahidə et və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bu istifadəçinin bütün verilənlərini sil."</string>
-    <string name="policydesc_wipeData">"Fabrik tənzimləmələrinə qayıtma prosesini icra edərək xəbərdarlıq olmadan telefonun verilənlərini sil."</string>
+    <string name="policydesc_wipeData">"Fabrik datasını sıfırlama prosesini icra edərək xəbərdarlıq olmadan telefonun datasını sil."</string>
     <string name="policydesc_wipeData_secondaryUser">"Xəbərdarlıq olmadan bu istifadəçinin verilənlərini sil."</string>
     <string name="policylab_disableCamera">Kameraları sıradan çıxart</string>
     <string name="policylab_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərini sıradan çıxart</string>
@@ -1614,7 +1614,7 @@ icazə tələb olundu"</string>
     <string name="reboot_safemode_confirm">Güvənli rejimdə yenidən başlatmaq istəyirsiniz? Bu, quraşdırdığınız bütün üçüncü tərəf tətbiqləri sıradan çıxardacaq. Daha sonra yenidən başladılanda bərpa ediləcək.</string>
     <string name="reboot_safemode_title">Güvənli rejimdə yenidən başlat</string>
     <string name="reboot_to_reset_message">Yenidən başladılır…</string>
-    <string name="reboot_to_reset_title">Fabrik datasının sıfırlanması</string>
+    <string name="reboot_to_reset_title">Fabrik datasına sıfırla</string>
     <string name="reboot_to_update_package">Güncəllənmə paketi emal olunur…</string>
     <string name="reboot_to_update_prepare">Güncəlləmək üçün hazırlanır…</string>
     <string name="reboot_to_update_reboot">Yenidən başladılır…</string>
@@ -1838,7 +1838,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="sync_too_many_deletes_desc">%3$s hesabında %2$s üçün %1$d silinmiş element var. Nə etmək istəyirsiniz?</string>
     <string name="sync_undo_deletes">Silinənləri geri qaytar</string>
     <string name="system_error_manufacturer">"Cihazınızın daxili problemi var. Əlavə məlumat üçün istehsalçı ilə əlaqə saxlayın."</string>
-    <string name="system_error_wipe_data">"Cihazınızın daxili bir problemi var və fabrik verilənlərinə sıfırlanana qədər qeyri-stabil ola bilər."</string>
+    <string name="system_error_wipe_data">"Cihazınızın daxili bir problemi var və fabrik datasına sıfırlanana qədər qeyri-stabil ola bilər."</string>
     <string name="system_locale_title">Sistem ilkin halı</string>
     <string name="taking_remote_bugreport_notification_title">Xəta hesabatı düzəldilir…</string>
     <string name="terabyteShort">TB</string>

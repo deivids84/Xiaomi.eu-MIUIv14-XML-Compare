@@ -90,7 +90,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="hide_mode_desc">Bir tətbiq arxaplanda işləyəndə, onun fəaliyyətləri batareya istifadəsini azaltmaq üçün izlənir. Bu funksiya, istifadəçi verilənlərini %s üzrə alır və istifadə edir</string>
+    <string name="hide_mode_desc">Bir tətbiq arxaplanda işləyəndə, onun fəaliyyətləri batareya istifadəsini azaltmaq üçün izlənilir. Bu funksiya, istifadəçi datasını %s üzrə alır və istifadə edir</string>
     <string name="hide_system_app">Sistem tətbiqlərini gizlət</string>
     <string name="high_temp_benchmark_state">Aşırı isinmə</string>
     <string name="high_temp_benchmark_state_message">"Deyəsən, bu cihaz artıq çox istidir. Cihaz soyuduqdan sonra bu tətbiqi istifadə edin: "</string>

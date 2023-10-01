@@ -586,7 +586,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="platform_chooser_title">Köhnə cihazı seçin</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" löhvəyə kopyalandı.</string>
-    <string name="privacy_policy_link"><Data>\"Davam etməzdən əvvəl dataları emal edən tətbiqlərimiz və bir istifadəçi kimi hüquqlarınız haqqında daha ətraflı məlumat almaq üçün &lt;a href=\'%1s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.\"</Data></string>
+    <string name="privacy_policy_link"><Data>\"Davam etməzdən əvvəl dataları emal edən tətbiqlərimiz və bir istifadəçi kimi hüquqlarınız haqqında daha ətraflı məlumat almaq üçün &lt;a href=\'%1s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="privacy_settings_title">Gizlilik Siyasəti</string>
     <string name="private_policy_text">Gizlilik Siyasəti</string>
@@ -599,7 +599,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="reconnect">Yenidən bağlantı qur</string>
     <string name="recreate_soft_ap_tips">Yenidən sınamaq üçün aşağıdakı düyməyə toxunun.</string>
     <string name="refresh">Təzələ</string>
-    <string name="remote_receive">Qəbul et</string>
+    <string name="remote_receive">Al</string>
     <string name="restore">Bərpa et</string>
     <string name="restore_backup">Bərpa et</string>
     <string name="restore_contact">Kontaktları bərpa et</string>
@@ -900,7 +900,7 @@ Sonra QR kodu yaratmaq üçün \"Yenidən bağlantı qur\"a toxunun."</string>
     <string name="trans_progress_subdescript_transing_sender">%1$s göndərilir, %2$s tamamlandı</string>
     <string name="trans_progress_subdescript_transingsd_receiver">Fayllar alınır, %s tamamlandı</string>
     <string name="trans_progress_subdescript_transingsd_sender">Fayllar göndərilir, %s tamamlandı</string>
-    <string name="trans_progress_subdescript_transingsddata_receiver">%1$s SD kart faylları qəbul edilir, %2$s tamamlandı</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">%1$s SD kart faylı alınır, %2$s tamamlandı</string>
     <string name="trans_progress_subdescript_transingsddata_sender">%1$s SD kart faylları göndərilir, %2$s tamamlandı</string>
     <string name="trans_progress_subdescript_waiting">%s qəbul edilməsi gözlənilir</string>
     <string name="trans_receiver">"Alıcıyam"</string>

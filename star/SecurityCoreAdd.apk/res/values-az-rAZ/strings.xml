@@ -264,11 +264,11 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="loading_space">Bir saniyə…</string>
     <string name="loading_success">Uğurla yükləndi</string>
     <string name="lock_screen_open_second_space">Kilid ekranından İkinci sahəyə daxil ol</string>
-    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik verilənlərinə sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
-    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınız fabrik verilənlərinə sıfırlanacaq, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
+    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik datasına sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
+    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınızda fabrik datasına sıfırlama prosesi icra ediləcək, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
     <string name="master_clear_apply_title">Diqqət</string>
     <string name="master_clear_not_available">Fabrik sıfırlama prosesi şirkətiniz tərəfindən məhdudlaşdırılıb.</string>
-    <string name="master_clear_not_available_ep">"Fabrik sıfırlamanı icra etmə və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
+    <string name="master_clear_not_available_ep">"Fabrik sıfırlama prosesini icra etmə və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
     <string name="menu_item_about_privacy_title">Gizlilik Siyasəti</string>
     <string name="messageData">Mesajlar</string>
     <string name="midnight">Gecə</string>
@@ -559,7 +559,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda zavod tənzimləmələrinə sıfırlanma həyata keçiriləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış verilənləri idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib zavod tənzimləmələrinə sıfırlansın?"</string>
+    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda fabrik datasına sıfırlanma icra ediləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış dataları idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib fabrik datasına sıfırlama icra edilsin?"</string>
     <string name="undo_activated_dialog_ok">Ləğv et</string>
     <string name="undo_grant_dialog_message">Səlahiyyəti ləğv etdikdən sonra Xiaomi, bu özəllik üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. İndi ləğv edilsin?</string>
     <string name="undo_privacy_menu">Səlahiyyəti ləğv et</string>

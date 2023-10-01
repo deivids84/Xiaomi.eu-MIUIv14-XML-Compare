@@ -258,7 +258,7 @@
     <string name="public_permission_storage_disallow_msg">"İcazəni ləğv etdikdən sonra sənədlərlə işləyə bilməyəcəksiniz."</string>
     <string name="public_play">Oxut</string>
     <string name="public_ppt_label">Mi Təqdimat Göstərici</string>
-    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyub qəbul edin.&lt;/Data&gt;</string>
+    <string name="public_privacy_update">&lt;Data&gt;Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizin&lt;/a&gt; yeni versiyasını oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Səlahiyyət ver</string>
     <string name="public_readOnlyMode">Yalnız oxunan</string>
     <string name="public_recory_edit_not_save_tips">Saxlanılmamış məzmun artıq sizin üçün geri qaytarıldı.</string>
@@ -284,7 +284,7 @@
     <string name="public_secre_dialog_content_2" formatted="false">&lt;Data&gt;Şəxsi məlumatlarınızı &lt;a href=\"%s\"&gt;İstifadəçi Razılaşması&lt;/a &gt; və &lt;a href=\"%s\"&gt;Gizlilik Siyasətimizə&lt;/a &gt; uyğun olaraq qoruyacağıq.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Çıx</string>
     <string name="public_secre_dialog_positive">Razıyam</string>
-    <string name="public_secre_dialog_tips_agree">İstifadəçi Razılaşması və Gizlilik Siyasətimizin şərtlərini və qaydalarını qəbul edirsinizsə, xidmətlərimizi istifadə etməyə başlamaq üçün \"Razıyam\"a toxunun.</string>
+    <string name="public_secre_dialog_tips_agree">İstifadəçi Razılaşması və Gizlilik Siyasətimizin şərtləri və qaydaları ilə razılaşırsınızsa, xidmətlərimizi istifadə etməyə başlamaq üçün \"Razıyam\"a toxunun.</string>
     <string name="public_secre_dialog_tips_small">Mi Doc Viewer-ə xoş gəldiniz (WPS tərəfindən təmin edilir)! Bu tətbiqi cihazınızdakı sənədlərə baxmaq üçün istifadə edə bilərsiniz.</string>
     <string name="public_secre_dialog_title">Gizlilik bəyanatı</string>
     <string name="public_selectAll">Hamısını seç</string>

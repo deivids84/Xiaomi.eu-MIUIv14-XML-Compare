@@ -97,7 +97,7 @@ Sizə tövsiyələr vermək üçün sağlamlıq məlumatlarınızı üçüncü t
 Üçüncü tərəf xidmət provayderlərinin aldıqları məlumatlara əsasən sizi şəxsən tanımaqlarını önləmək üçün paylaşmazdan əvvəl bu elementləri anonimləşdirəcəyik.
 
 Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm məşqlərinizi davam etdirə bilərsiniz."</string>
-    <string name="auth_dialog_link">Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin.</string>
+    <string name="auth_dialog_link">Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="auth_dialog_title">Tövsiyə edilən siniflər</string>
     <string name="auto_start_fail">"İcazə verilə bilmədi"</string>
     <string name="auto_start_success">İcazə uğurla verildi</string>
@@ -349,7 +349,7 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="dialog_exercise_purpose">Xiaomi Heath-ə xoş gəldiniz! \"Addım sayğacı\", sizə gün ərzində neçə addım atdığınızı görməyə, həmçinin fəaliyyət hədəflərinizi tənzimləməyə və idarə etməyə imkan verir. Bütün əlaqəli məlumatlar cihazınızın yerli anbarında saxlanılacaq. Bu da onu asanlıqla idarə etməyə imkan verir.</string>
     <string name="dialog_exit">Çıx</string>
     <string name="dialog_exit_use">Çıx</string>
-    <string name="dialog_feedback_content">"Bu növ icazələrin verilməsini qəbul etmirsinizsə, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; lakin, təməl funksionallığı sizin üçün əlçatan olacaqdır. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="dialog_feedback_content">"Bu növ icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; lakin, təməl funksionallığı sizin üçün əlçatan olacaqdır. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="dialog_feedback_purpose">Xiaomi Heath, əks əlaqəni göndərmək üçün anbara müraciət etməlidir.</string>
     <string name="dialog_feedback_purpose2">Əks əlaqəni göndərmək üçün</string>
     <string name="dialog_feedback_title">Əks əlaqə</string>
@@ -1370,7 +1370,7 @@ tapıla bilmədi"</string>
     <string name="sport_btn_unlock">Kilidi aç</string>
     <string name="sport_counter_begin">İndi başlat</string>
     <string name="sport_data_use_subtitle">Məşq və fitnes irəliləyişinizi izləmək üçün, məşq marşrutları, yuxu məlumatları, ürək döyüntüsü sürəti və çəki kimi məlumatları yığıb emal edirik.</string>
-    <string name="sport_data_use_tip">"Məlumatlarınızı necə yığdığımızı və emal etdiyimizi daha yaxşı anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Sağlamlıq və Fəaliyyət Məlumatlarının İstifadə Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyub qəbul edin. Yığmağımıza və emal etməyimizə razılıq verməsəniz, bu xidməti istifadə edə bilməyəcəksiniz."</string>
+    <string name="sport_data_use_tip">"Məlumatlarınızı necə yığdığımızı və emal etdiyimizi daha yaxşı anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Sağlamlıq və Fəaliyyət Məlumatlarının İstifadə Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın. Yığmağımıza və emal etməyimizə razılıq verməsəniz, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="sport_data_use_title">Məlumat icazələri</string>
     <string name="sport_home_begin">Başlat</string>
     <string name="sport_home_set_goal">Hədəfi tənzimlə</string>

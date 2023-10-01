@@ -390,7 +390,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="powerDesc">güc</string>
     <string name="preference_about_calculator">Hesablayıcı haqqında</string>
     <string name="preference_alert_follow_qq_group">Əks-əlaqə vermək üçün QQ-yə kopyalayıb yapışdırın</string>
-    <string name="preference_alert_follow_wechat">Əks əlaqə vermək üçün WeChat-a kopyalayıb yapışdırın.</string>
+    <string name="preference_alert_follow_wechat">İzləmək üçün kopyala və WeChat-a yapışdırın</string>
     <string name="preference_alert_follow_wechat_button">Kopyala</string>
     <string name="preference_check_update_summary_current_version">Hazırkı versiya: %s</string>
     <string name="preference_check_update_summary_new_version">Güncəlləmə mövcuddur: %s</string>

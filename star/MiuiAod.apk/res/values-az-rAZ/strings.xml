@@ -345,9 +345,9 @@ dd/MM"</string>
 baş verəcəyinə inanın"</string>
     <string name="standard_clock_panel">Standart</string>
     <string name="standard_style">Standart</string>
-    <string name="step_component_info_active_tip">Addım sayı Xiaomi Health tərəfindən təmin edilir. Davam etmək üçün Xiaomi Health şərtlərini və qaydalarını qəbul edin.</string>
+    <string name="step_component_info_active_tip">Addım sayı Xiaomi Health tərəfindən təmin edilir. Davam etmək üçün Xiaomi Health şərtləri və qaydaları ilə razılaşın.</string>
     <string name="step_component_info_desc">Hədəfinizə çatanda addım sayğacı kuboka çevriləcəkdir. Addım sayğacı, Xiaomi Health tərəfindən təmin edilir.</string>
-    <string name="step_component_info_tip">Addım sayğacı, Xiaomi Health tərəfindən təmin edilir. Xiaomi Health-i quraşdırın və ya güncəlləyin və davam etmək üçün şərtlərini və qaydalarını qəbul edin.</string>
+    <string name="step_component_info_tip">Addım sayğacı, Xiaomi Health tərəfindən təmin edilir. Xiaomi Health-i quraşdırın və ya güncəlləyin və davam etmək üçün şərtləri və qaydaları ilə razılaşın.</string>
     <string name="step_to_image_community">Xiaomi Cəmiyyətində daha çoxunu tap</string>
     <string name="summary">"Enerji sərfiyyatını azaltmaq üçün cihazınız uzun müddət qaranlıqda qaldıqda elementlər göstərilməyəcək."</string>
     <string name="sunday">Bazar</string>

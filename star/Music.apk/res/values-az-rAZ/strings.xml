@@ -573,7 +573,7 @@
     <string name="i_know">Oldu</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="imported">Daxilə köçürüldü</string>
-    <string name="impunity_declaration_content">Məhsulu istifadə etməzdən əvvəl &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz.</string>
+    <string name="impunity_declaration_content">Məhsulu istifadə etməzdən əvvəl &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxumalı və razılaşmalısınız.</string>
     <string name="impunity_declaration_ignore">"Təkrar göstərmə"</string>
     <string name="impunity_declaration_negative_text">Çıx</string>
     <string name="impunity_declaration_positive_text">Razıyam</string>
@@ -642,7 +642,7 @@
     <string name="joox_category_vip">Azarkeş Mərkəzi</string>
     <string name="joox_download_title">JOOX endirilənlər</string>
     <string name="joox_privacy_desc">JOOX Gizlilik Siyasəti (ixtiyari)</string>
-    <string name="joox_privacy_tips_content">Bu onlayn xidmətləri istifadə etməzdən əvvəl <a href="/link/click">JOOX Gizlilik Siyasətini</a> oxuyub qəbul edin.</string>
+    <string name="joox_privacy_tips_content">Bu onlayn xidmətləri istifadə etməzdən əvvəl <a href="/link/click">JOOX Gizlilik Siyasətini</a> ooxuyun və razılaşın.</string>
     <string name="joox_privacy_tips_title">JOOX Gizlilik Siyasəti</string>
     <string name="joox_recommend_artist_title">Tövsiyə edilən sənətçilər</string>
     <string name="joox_recommend_playlist_title">Tövsiyə edilən pleylistlər</string>
@@ -1097,7 +1097,7 @@
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
-    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
@@ -1208,7 +1208,7 @@
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Tənzimləmələrdə \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
-Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.
+Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
 Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.\"</Data></string>
     <string name="privacy_request_subtitle">"\"Mi Musiqi\"yə xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri göstərir:
 - Yerli səs pleyeri
@@ -1224,7 +1224,7 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="queue_is_empty">Oxutma növbəsi boşdur.</string>
     <string name="read_and_agree_joox_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
     <string name="read_and_agree_mi_protocol"><Data>\"Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_protocol">Davam etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimi oxuyub qəbul edin.</string>
+    <string name="read_and_agree_protocol">Davam etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxuyun və razılaşın.</string>
     <string name="ready_to_play">Növbəti</string>
     <string name="recently_played">Təzəlikcə oynadılan</string>
     <string name="recently_played_songs">Sonuncu</string>
@@ -1242,7 +1242,7 @@ Xoşbəxt ol"</string>
     <string name="repeat_all_notif">Bütün mahnılar təkrarlanır.</string>
     <string name="repeat_current_notif">Hazırkı mahnı təkrarlanır.</string>
     <string name="request_overlay_permission_desc">Bu özəlliyi istifadə edə bilmək üçün Mi Musiqiyə üzən pəncərələri görüntüləmə icazəsi verin.</string>
-    <string name="request_privacy_permission_title">Bütün xidmətlərimizə müraciət etmək üçün aşağıdakı şərtləri və qaydaları oxuyub qəbul edin.</string>
+    <string name="request_privacy_permission_title">Bütün xidmətlərimizə müraciət etmək üçün aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
     <string name="request_share_info">Bir saniyə…</string>
     <string name="request_subscription_status">Bir saniyə…</string>
     <string name="restart_immediate">Yenidən başlat</string>

@@ -325,7 +325,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="just_a_second">Bir saniyə…</string>
     <string name="keep_phone_ticket_login">Təsdiqləmə kodu ilə daxil ol</string>
-    <string name="kr_license_desc">Xiaomi Hesabı və Xiaomi Bulud xidmətlərini istifadə etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməlisiniz.</string>
+    <string name="kr_license_desc">Xiaomi Hesabı və Xiaomi Bulud xidmətlərini istifadə etməzdən əvvəl İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmalısınız.</string>
     <string name="kr_permission_contacts_desc">Kontakt məlumatlarına müraciət üçün</string>
     <string name="kr_permission_desc">Tələb olunan icazələr</string>
     <string name="kr_permission_phone_desc">Hesabınızı qorumaq üçün</string>
@@ -634,7 +634,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_error_unknow_host_network_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="passport_error_unknow_network_error">Şəbəkə xətası baş verdi</string>
     <string name="passport_error_unknown">"Daxil ola bilmir"</string>
-    <string name="passport_error_user_agreement_error">Əvvəlcə şərtlər və qaydaları qəbul edin</string>
+    <string name="passport_error_user_agreement_error">Əvvəlcə şərtlər və qaydalarla razılaşın</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır.</string>
     <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
     <string name="passport_error_verify_activator_phone_message">SIM kart xidmətinizin aktiv olduğuna və cihazın şəbəkəyə qoşulu olduğuna əmin olun.</string>
@@ -841,11 +841,11 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_use_generated_pwd_message">Parolunuzu xatırladığınıza əmin olun. Digər Xiaomi xidmətlərinə daxil olmaq üçün bunu istifadə edə bilərsiniz.</string>
     <string name="passport_use_generated_pwd_title">Parolunuzu xatırlayın!</string>
     <string name="passport_user_agreement">İstifadəçi Razılaşması</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum qəbul edirəm: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>

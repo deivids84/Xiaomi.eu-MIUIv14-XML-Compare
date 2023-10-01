@@ -608,13 +608,13 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_setting_privacy_perm_not_granted">İcazə verilmədi</string>
     <string name="pa_setting_privacy_perm_storage">Anbara müraciət</string>
     <string name="pa_setting_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="pa_setting_privacy_policy_update_again_message">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik siyasətini indi qəbul edirsiniz?"</string>
+    <string name="pa_setting_privacy_policy_update_again_message">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik siyasəti ilə indi razılaşırsınız?"</string>
     <string name="pa_setting_privacy_policy_update_again_title">Diqqət</string>
     <string name="pa_setting_privacy_policy_update_agree">Razıyam</string>
     <string name="pa_setting_privacy_policy_update_exit">Çıx</string>
     <string name="pa_setting_privacy_policy_update_link">Gizlilik Siyasəti</string>
     <string name="pa_setting_privacy_policy_update_message" formatted="false">"Tətbiq kassası Gizlilik Siyasəti güncəlləndi:
-%sDavam etməzdən əvvəl %s yeni versiyasını oxuyub qəbul edin."</string>
+%sDavam etməzdən əvvəl %s yeni versiyasını oxuyun və razılaşın."</string>
     <string name="pa_setting_privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="pa_setting_privacy_revoke_cta">Razılığın geri götürülməsi</string>
     <string name="pa_setting_privacy_revoke_cta_message">"Davam etsəniz, Tətbiq kassası Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Tətbiq kassası, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi Tətbiq kassası xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
@@ -631,7 +631,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_setting_privacy_view_priv">Gizlilik Siyasətinə bax</string>
     <string name="pa_setting_simplify_title_bar">Tətbiq kassası</string>
     <string name="pa_setting_version">Versiya：%1$s</string>
-    <string name="pa_shopping_dialog_privacy_authorize_message">Alış-verişə xoş gəldiniz! Endirim və alış-veriş təklifləri əldə etmək üçün bu viceti istifadə edə bilərsiniz. Davam etməzdən əvvəl Üçüncü Tərəf Xidmətlər və Gizlilik Siyasəti haqqında Bəyanatımızı oxuyub qəbul edin.</string>
+    <string name="pa_shopping_dialog_privacy_authorize_message">Alış-verişə xoş gəldiniz! Endirim və alış-veriş təklifləri əldə etmək üçün bu viceti istifadə edə bilərsiniz. Davam etməzdən əvvəl Üçüncü Tərəf Xidmətlər və Gizlilik Siyasəti haqqında Bəyanatımızı oxuyun və razılaşın.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Şərtlər və qaydalar</string>
     <string name="pa_shopping_dialog_privacy_desc">Gizlilik Siyasəti</string>
     <string name="pa_shopping_dialog_privacy_withdraw_message">"Davam etsəniz, Shopping Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatlarınızı toplamağı dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Shopping, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi bu xidmətləri qəbul etməkdən imtina olaraq qəbul ediləcək."</string>

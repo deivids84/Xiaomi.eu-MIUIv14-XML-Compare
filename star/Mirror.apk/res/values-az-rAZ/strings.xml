@@ -57,7 +57,7 @@
     <string name="circulate_cta_premission_wlan_subtitle_china">Wi-Fi ilə elementləri köçürmək və cihazlar arasında bağlantı qurmaq üçün</string>
     <string name="circulate_cta_premission_wlan_title">Wi-Fi-ı açıb bağlama</string>
     <string name="circulate_cta_premission_wlan_title_china">Wi-Fi-ı aç / bağla</string>
-    <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/txt&gt; oxuyub qəbul edin.</string>
+    <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/txt&gt; oxuyun və razılaşın.</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clipboard_tip">Buradan kopyalandı: %1$s</string>
     <string name="close">Bağla</string>
@@ -128,7 +128,7 @@
     <string name="global_cta_exit">"Razı deyiləm"</string>
     <string name="global_cta_feature_connect">Xiaomi Hesabınızı istifadə edərək telefonlar və planşetlərlə bağlantı qurun</string>
     <string name="global_cta_feature_control">Ağıllı telefon tətbiqlərinizi planşetinizdə görüntüləmə və istifadə etmə</string>
-    <string name="global_cta_user_agreement">%1$s istifadə etməzdən əvvəl &lt;txt href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%3$s\"&gt;Privacy Gizlilik Siyasətimizi&lt;/txt&gt; oxuyub qəbul edin.</string>
+    <string name="global_cta_user_agreement">%1$s istifadə etməzdən əvvəl &lt;txt href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%3$s\"&gt;Privacy Gizlilik Siyasətimizi&lt;/txt&gt; oxuyun və razılaşın.</string>
     <string name="guide_window_btn_know">Anladım</string>
     <string name="guide_window_operation">Ekranın yan tərəfindən mərkəzə doğru sürüşdürün</string>
     <string name="guide_window_title">Geri qayıt</string>

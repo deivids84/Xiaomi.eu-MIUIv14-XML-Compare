@@ -316,7 +316,7 @@
     <string name="guard_item_browser_title">Məhdudiyyətlər</string>
     <string name="guard_item_call_summary">Zəng etmək üçün müəyyən kontaktlara icazə verin</string>
     <string name="guard_item_call_title">Rabitə</string>
-    <string name="guard_item_eye_protect_summary">Duruşu müşahidə edin</string>
+    <string name="guard_item_eye_protect_summary">Duruşu izlə</string>
     <string name="guard_item_eye_protect_title">Göz rahatlığı</string>
     <string name="guard_range_from">Buradan:</string>
     <string name="guard_range_to">Buraya</string>

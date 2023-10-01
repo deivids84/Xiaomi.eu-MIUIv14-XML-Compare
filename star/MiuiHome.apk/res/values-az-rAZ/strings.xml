@@ -160,7 +160,7 @@
     <string name="branch_deepview_button">Tətbiqi əldə et</string>
     <string name="branch_deepview_button_description">Quraşdırdıqdan sonra bu məzmuna baxın</string>
     <string name="branch_feature_description">Tətbiqlərdən başqa, Quick Finder, tətbiq daxili məzmunu və elementləri onlayn tapa bilir.</string>
-    <string name="branch_guide_attention">Təkmil axtarışı istifadə etmək, axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağı tələb edir. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyub qəbul edin.</string>
+    <string name="branch_guide_attention">Təkmil axtarışı istifadə etmək, axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağı tələb edir. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="branch_guide_description_one">"Bütün tətbiqlərinizi Tətbiq siyirməsində yerləşdirəcəyik. Əsas ekranınız səliqəli və mütəşəkkil görünəcək."</string>
     <string name="branch_guide_description_three">"Daxili axtarışla, ehtiyacınız olan hər şeyi bir anda tapa biləcəksiniz!"</string>
     <string name="branch_guide_description_two">Tətbiq siyirməsi, tətbiqləri avtomatik olaraq kateqoriyalara ayırır.</string>
@@ -176,7 +176,7 @@
     <string name="branch_new_feature">Yeni özəllik</string>
     <string name="branch_privacy_policy">Gizlilik Siyasəti</string>
     <string name="branch_search_guide_description">Axtarış nəticələrimiz artıq daha əhatəlidir</string>
-    <string name="branch_search_guide_privacy">\"Bu xidmət Branch Metrics Inc. tərəfindən dəstəklənir. Yerləşmə məlumatlarınız, axtarış sorğularınız və Google Ads Kimliyiniz Branch ilə paylaşılacaq. Bu xidməti istifadə etməzdən əvvəl \"Branch\"ın \"<font color="#B3000000"><a href="http://url1">Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasətini</a></font> oxuyub qəbul edin.</string>
+    <string name="branch_search_guide_privacy">\"Bu xidmət Branch Metrics Inc. tərəfindən dəstəklənir. Yerləşmə məlumatlarınız, axtarış sorğularınız və Google Ads Kimliyiniz Branch ilə paylaşılacaq. Bu xidməti istifadə etməzdən əvvəl \"Branch\"ın \"<font color="#B3000000"><a href="http://url1">Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="branch_search_guide_title">"Axtardığınızı sevimli tətbiqlərdə tapın"</string>
     <string name="branch_terms_condition">Şərtlər və qaydalar</string>
     <string name="branch_tip_title">Quick Finder ilə ehtiyacınız olan hər şeyi bir anda tapa bilərsiniz.</string>
@@ -674,7 +674,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="select_all">Hamısını seç</string>
     <string name="send">Göndər</string>
     <string name="server_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="service_double_attention">Təkmil axtarışı funksionallığı Branch Metrics Inc. tərəfindən təmi edilir. Bu özəlliyin işləməsi üçün axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağımız lazımdır. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyub qəbul edin.</string>
+    <string name="service_double_attention">Təkmil axtarışı funksionallığı Branch Metrics Inc. tərəfindən təmi edilir. Bu özəlliyin işləməsi üçün axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağımız lazımdır. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="setting_wallpaper_tip">Tənzimləmək üçün çimdiklə və ya sürüşdür</string>
     <string name="settings">Tənzimləmələr</string>
     <string name="settings_shortcut">Tənzimləmələr</string>
@@ -721,9 +721,9 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="system_text">Avto</string>
     <string name="task_access_locked_app_msg">Tətbiq kilidi işə salındı</string>
     <string name="term_of_service">Şərtlər və qaydalar</string>
-    <string name="terms_of_services_one">\"Tətbiq siyirməsi və \"Quick Finder\"ə xoş gəlmisiniz. Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəllikləri istifadə etməzdən əvvəl Xiaomi-nin <font color="#B3000000"><a href="http://url1">Gizlilik Siyasətini</a></font> oxuyub qəbul edin.</string>
+    <string name="terms_of_services_one">\"Tətbiq siyirməsi və \"Quick Finder\"ə xoş gəlmisiniz. Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəllikləri istifadə etməzdən əvvəl Xiaomi-nin <font color="#B3000000"><a href="http://url1">Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="terms_of_services_three">Bu özəlliyi Tənzimləmələrdə söndürə bilərsiniz.</string>
-    <string name="terms_of_services_two">Təkmil axtarışı istifadə etmək, axtarış sorğularınız, Google Advertising Kimliyiniz və IP ünvanınız daxil olmaqla lazımi şəxsi məlumatlarınızın Branch Metrics Inc. ilə paylaşılmasını tələb edir. Branch, şəxsi məlumatlarınızı <font color="#B3000000"><a href="http://url1">Branch Discovery Gizlilik Siyasətinə</a></font> uyğun olaraq emal edəcək. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url2">End User Discovery Şərtləri və Qaydaları</a></font> və <font color="#B3000000"><a href="http://url3">Branch Discovery Gizlilik Siyasətini</a></font> oxuyub qəbul edin.</string>
+    <string name="terms_of_services_two">Təkmil axtarışı istifadə etmək, axtarış sorğularınız, Google Advertising Kimliyiniz və IP ünvanınız daxil olmaqla lazımi şəxsi məlumatlarınızın Branch Metrics Inc. ilə paylaşılmasını tələb edir. Branch, şəxsi məlumatlarınızı <font color="#B3000000"><a href="http://url1">Branch Discovery Gizlilik Siyasətinə</a></font> uyğun olaraq emal edəcək. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url2">End User Discovery Şərtləri və Qaydaları</a></font> və <font color="#B3000000"><a href="http://url3">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>

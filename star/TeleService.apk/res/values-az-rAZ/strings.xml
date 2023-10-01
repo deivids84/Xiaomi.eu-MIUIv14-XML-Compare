@@ -837,7 +837,7 @@
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
     <string name="fold_answer_pref_summary">Gələn bir zəngi avtomatik qəbul etmək üçün cihazı qatlayın</string>
-    <string name="fold_answer_pref_title">Zəngləri qəbul etmək üçün qatlayın</string>
+    <string name="fold_answer_pref_title">Zəngləri qəbul etmək üçün qatla</string>
     <string name="forbidden_fakecell">"Saxta baza stansiyaları ilə bağlantı qurmayın"</string>
     <string name="forbidden_fakecell_summary">Telefonunuzun saxta baza stansiyalarına bağlanmasını önləyin</string>
     <string name="forbidden_network">(yasaqlanıb)</string>

@@ -101,7 +101,7 @@
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">yaxın sahə rabitəsi (NFC) avadanlığına müraciət</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon tətbiqinə müraciət</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">gələn zəngləri müşahidə edir</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">gələn zəngləri izlə</string>
     <string name="HIPS_Perm_read_clipboard">Lövhədəki elementlərə müraciət</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Tətbiqin mübadilə lövhəsindəki elementlərə müraciətinə icazə verir</string>
     <string name="HIPS_Perm_read_notification_sms">Xidmət SMS-i</string>

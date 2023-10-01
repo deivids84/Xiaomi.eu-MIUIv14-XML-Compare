@@ -38,7 +38,7 @@
     <string name="cta_button_continue">Razıyam</string>
     <string name="cta_button_quit">Çıx</string>
     <string name="cta_check_reminder">"Təkrar göstərmə"</string>
-    <string name="cta_message_license">Bu məhsulu istifadə edərək, Xidmət Şərtləri və Gizlilik Siyasətimizdə qeyd olunan şərtlərimizi qəbul edirsiniz.</string>
+    <string name="cta_message_license">Bu məhsulu istifadə edərək, Xidmət Şərtləri və Gizlilik Siyasətimizdə qeyd olunan şərtlərimizlə razılaşırsınız.</string>
     <string name="cta_message_permission">Bu tətbiqin normal işləməsi üçün %2$s icazəsi lazımdır.</string>
     <string name="cta_permission_and"> və </string>
     <string name="cta_title">İstifadə Şərtləri</string>

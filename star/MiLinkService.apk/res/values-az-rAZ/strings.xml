@@ -140,7 +140,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_cta_premission_storage_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_wlan_subtitle">Wi-Fi ilə elementləri köçürmək və cihazlar arasında bağlantı qurmaq üçün</string>
     <string name="circulate_cta_premission_wlan_title">Wi-Fi-ı açıb bağlama</string>
-    <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/txt&gt; oxuyub qəbul edin.</string>
+    <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/txt&gt; oxuyun və razılaşın.</string>
     <string name="circulate_device_type_name_pad">Planşet</string>
     <string name="circulate_device_type_name_pc">Kompüter</string>
     <string name="circulate_device_type_name_phone">Telefon</string>
@@ -321,7 +321,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="global_privacy">Şərtlər və qaydalar</string>
-    <string name="global_privacy_detail"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.&lt;br&gt;Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razı deyilsinizsə, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq.\"</Data></string>
+    <string name="global_privacy_detail"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;br&gt;Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq.\"</Data></string>
     <string name="global_privacy_explain">\"Yayım\"a xoş gəldiniz\" Bu tətbiq, aşağıdakı xidmətləri təqdim edir:</string>
     <string name="global_privacy_feature">Kiçildilmiş pəncərələri istifadə etmək, ekran sönülü ikən yayımlamaq və şəxsi elementləri gizlətmək.</string>
     <string name="global_privacy_main">"Telefonunuzun ekranındakı elementləri daha böyük monitorda əks etdirin."</string>
@@ -637,7 +637,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_agree">Razıyam</string>
     <string name="privacy_detail">Davam etməzdən əvvəl bu tətbiqin internetə bağlanmasına icazə verin və tələb olunan icazələri verin.</string>
-    <string name="privacy_detail_extra"><Data>Bəzi özəlliklər üçüncü tərəf provayder olan HappyCast tərəfindən təqdim olunur. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; və &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; oxuyub qəbul edin.</Data></string>
+    <string name="privacy_detail_extra"><Data>Bəzi özəlliklər üçüncü tərəf provayder olan HappyCast tərəfindən təqdim olunur. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; və &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="privacy_explain">"\"Yayım\"a xoş gəlmisiniz! Yayım, telefonunuzun ekranındakı elementləri daha böyük bir xarici ekranda əks etdirməyə imkan verir. Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="privacy_negative">Çıxış</string>
     <string name="privacy_permission_ble">Bluetooth-u aç/bağla</string>
@@ -679,10 +679,10 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="privacy_setting_show_policy">Gizlilik Siyasətinə bax</string>
     <string name="privacy_setting_show_user_agreement">İstifadəçi Razılaşmasına bax</string>
     <string name="privacy_text_1"><Data>\"Yayım\"a xoş gəlmisiniz! Yayım, telefonunuzun ekranındakı elementlərin daha böyük bir xarici monitorda əks etdirməyə imkan verir.
-Şəxsi məlumatlarınızı müvafiq qaydalara, qanunlara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Bəzi özəlliklər üçüncü tərəf xidməti olan HappyCast provayderi tərəfindən təmin edilir. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; və &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; oxuyub qəbul edin.
+Şəxsi məlumatlarınızı müvafiq qaydalara, qanunlara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Bəzi özəlliklər üçüncü tərəf xidməti olan HappyCast provayderi tərəfindən təmin edilir. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; və &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.
 Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb etməsi lazımdır.\"</Data></string>
     <string name="privacy_text_2"><Data>\"Bu cür icazələrin verilməsinə və ya şəxsi məlumatlarınızın paylaşılmasına və yüklənməsinə razılıq vermirsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda, Tənzimləmələrdə bu tətbiqi silməyi, hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.
-Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul edin.\"</Data></string>
+Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="privacy_text_pemission">"　　•Bu elementləri xarici monitorlarda əks etdirmək üçün cihazınızdakı şəkillərə müraciət edin və onları saxlayın
 　　•Səsi xarici cihazlarda yayımlamaq üçün zəngləri və səsi yazın
 　　•Cihazınızı müəyyənləşdirmək üçün telefon nömrəsinə, IMEI və IMSI-ə müraciət edin

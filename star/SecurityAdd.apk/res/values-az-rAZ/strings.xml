@@ -206,7 +206,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_weixinpay_can_not_complete">"Ödəniş tamamlana bilmir. Davam etmək üçün quraşdırın."</string>
     <string name="gdpr_msg"><Data>\"\"Güvənlik\" tətbiqinin təməl özəlliklərini istifadə etmək üçün, bunlarla razılaşmalısınız: Xiaomi, \"Güvənlik\" tətbiqinin özəlliklərini hansı üsullarla istifadə etdiyinizlə bağlı məlumatlar (məs. mobil internet istifadə statistikaları, zərərli proqram təminatı haqqında məlumat, həmçinin cihazınız haqqında təməl məlumatlar) və &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; göstərilən digər məlumat növləri daxil olmaqla, şəxsi məlumatlarınızı yığacaq, emal edəcək və istifadə edəcək.\"</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Xunyou Game Booster istifadə etmək üzrəsiniz. Bu xidmət, üzvlük müddətinizi qeyd etmək üçün Xiaomi Hesab Kimliyinizi yığacaq."</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>\"Xunyou Game Booster &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və qəbul edirəm.\"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>\"Xunyou Game Booster &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və razılaşıram.\"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Oyun Sürətləndirici</string>
     <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
     <string name="icon_content_description">Dialoq nişanı</string>

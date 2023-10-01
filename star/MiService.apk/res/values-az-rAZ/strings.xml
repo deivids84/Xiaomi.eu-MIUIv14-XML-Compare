@@ -125,8 +125,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Cihaz anbarına müraciət et</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Razı deyiləm"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Razıyam</string>
-    <string name="miui_feedback_edit_submit_dialog_content"><Data>\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; qəbul etməlisiniz. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.\"</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Qəbul et\"in seçilməsi ilə &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub qəbul etmiş olursunuz.\"</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimiz&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızla&lt;/a&gt; razılaşmalısınız. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.\"</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilənlərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.\"</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Hesabat göndər</string>
     <string name="miui_feedback_edit_submit_directly">Göndər</string>
@@ -274,7 +274,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Tənzimlənmədi</string>
     <string name="permission_agree">Razıyam</string>
-    <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
+    <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
     <string name="permission_complete">Hazırdır</string>
     <string name="permission_contacts_info">Hesab məlumatına müraciət</string>
     <string name="permission_contacts_introduce">Xiaomi Hesabı istifadə edərək daxil olmaq üçün</string>
@@ -288,7 +288,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="permission_location_introduce">Yaxınlıqdakı xidmət nöqtələrini göstərmək üçün</string>
     <string name="permission_main_purpose">MIUI özəllik demolarını göstərmək, əks-əlaqə vermək və satın sonrası xidmətlərə müraciət etmək.</string>
     <string name="permission_privacy">Gizlilik Siyasəti (məcburi)</string>
-    <string name="permission_region_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub qəbul etməlisiniz.</Data></string>
+    <string name="permission_region_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız.</Data></string>
     <string name="permission_select_all">Hamısını seç</string>
     <string name="permission_storage">Anbar</string>
     <string name="permission_storage_introduce">Cihazınızda elementləri saxlamaq üçün</string>
@@ -296,7 +296,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_policy_update_hint">"%1$s Gizlilik Siyasəti güncəlləndi:
 %2$s
-Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</string>
+Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."</string>
     <string name="privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="public_authorize_now">Tənzimləmələr</string>
     <string name="public_loading_text">Bir saniyə…</string>
@@ -364,7 +364,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyub qəbul edin."</stri
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="user_must_known">Diqqət</string>
-    <string name="user_must_known_content">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
+    <string name="user_must_known_content">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə indi razılaşırsınız?"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="wednesday">Çərşənbə</string>

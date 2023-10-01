@@ -230,7 +230,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_device_fail">"Cihaza bağlana bilmədi"</string>
     <string name="console_guide_btn_got_it">Anladım</string>
     <string name="console_guide_subtitle_hang_up">Cihazın ekranı sönülü ikən yayımı davam etdirə bilərsiniz. Bu özəllik enerji sərfiyyatını azaldır.</string>
-    <string name="console_guide_subtitle_private">"Xarici monitorlarda üzən bildirişləri, gələn zəngləri və digər şəxsi elementləri göstərmə"</string>
+    <string name="console_guide_subtitle_private">"Xarici monitorlarda üzən bildirişləri, gələn zəngləri və digər şəxsi elementləri göstərməyin"</string>
     <string name="console_guide_subtitle_small_window">"Telefonunuzdakı digər özəllikləri istifadə edə bilmək üçün yayımlanan pəncərəni kiçildin"</string>
     <string name="copy">Kopyala</string>
     <string name="current_wifi_tv">Hazırkı şəbəkə</string>
@@ -280,7 +280,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="dual_wifi_warning_china">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
     <string name="dual_wifi_warning_global">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
     <string name="early_morning">Səhər</string>
-    <string name="enable_screen_projection_summary">Ekran məzmunlarını xarici bir monitorda yayımlayın</string>
+    <string name="enable_screen_projection_summary">Ekran məzmunlarını xarici bir monitorda yayımla</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="err_toast_msg_audio_support_support_only">Bu cihaz yalnız səs oxutma ötürülməsini dəstəkləyir. Səs kartını sürükləməyə çalışın.</string>
@@ -638,7 +638,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="privacy_agree">Razıyam</string>
     <string name="privacy_detail">Davam etməzdən əvvəl bu tətbiqin internetə bağlanmasına icazə verin və tələb olunan icazələri verin.</string>
     <string name="privacy_detail_extra"><Data>Bəzi özəlliklər üçüncü tərəf provayder olan HappyCast tərəfindən təqdim olunur. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; və &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; oxuyub qəbul edin.</Data></string>
-    <string name="privacy_explain">"\"Yayım\"a xoş gəlmisiniz! Yayım, telefonunuzun ekranındakı elementləri daha böyük bir xarici ekrana proyeksiya etməyə imkan verir. Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:"</string>
+    <string name="privacy_explain">"\"Yayım\"a xoş gəlmisiniz! Yayım, telefonunuzun ekranındakı elementləri daha böyük bir xarici ekranda əks etdirməyə imkan verir. Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="privacy_negative">Çıxış</string>
     <string name="privacy_permission_ble">Bluetooth-u aç/bağla</string>
     <string name="privacy_permission_ble_desc">Yaxınlıqdakı mövcud cihazları tapmaq üçün</string>

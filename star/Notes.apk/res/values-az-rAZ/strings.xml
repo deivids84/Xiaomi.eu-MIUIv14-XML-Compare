@@ -554,7 +554,7 @@
     <string name="permission_storage_desc_new_v12">Qeydlərə şəkillər əlavə etmək və qeydləri şəkillər kimi saxlamaq üçün</string>
     <string name="permission_storage_desc_pad_new_v12">Qeydlərə şəkillər əlavə etmək və qeydləri şəkillər kimi saxlamaq üçün</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI, səsi mətnə çevirmək və səsli qeydlər yaratmaq üçün səsyazmalarınızı və cihaz kimliyinizi yığacaq. Mi AI &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətindən&lt;/a&gt; ətraflı öyrənin.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Nitqdən mətnə transkripsiya xidmətlərini təmin etmək üçün Mi AI, təsadüfi yaradılmış səs girişi və cihaz kimliyinizi yığmalıdır. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatımızı&lt;/a&gt; oxuyub qəbul edin. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq daha çox öyrənə bilərsiniz.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Nitqdən mətnə transkripsiya xidmətlərini təmin etmək üçün Mi AI, təsadüfi yaradılmış səs girişi və cihaz kimliyinizi yığmalıdır. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatımızı&lt;/a&gt; oxuyun və razılaşın. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq daha çox öyrənə bilərsiniz.</Data></string>
     <string name="permission_xiaoai_title">Nitqdən mətnə</string>
     <string name="permlab_accessNote">Qeydlərə müraciət</string>
     <string name="pm">GS</string>

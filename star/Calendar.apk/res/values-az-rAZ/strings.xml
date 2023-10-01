@@ -613,10 +613,10 @@
     <string name="premission_description_notice">Tədbirlər və bayramlar haqqında bildiriş göndərmək üçün</string>
     <string name="premission_description_ringtone">Zəng səslərini tənzimləmək üçün</string>
     <string name="privacy_and_permissions">Gizlilik və icazələr</string>
-    <string name="privacy_card_description">Bütün özəlliklərə müraciət etmək üçün Gizlilik Siyasətimizi qəbul edin.</string>
+    <string name="privacy_card_description">Bütün özəlliklərə müraciət etmək üçün Gizlilik Siyasətimizlə razılaşın.</string>
     <string name="privacy_policy_dialog_agree">Razıyam</string>
     <string name="privacy_policy_dialog_dont_agree">"Razı deyiləm"</string>
-    <string name="privacy_policy_dialog_message"><Data>\"Təqvimə xoş gəldiniz!&lt;br/&gt;Bu tətbiqi tədbirlər yaratmaq və idarə etmək, xatırladıcılar tənzimləmək və yerləşmənizə xas əlavə məlumatlar almaq üçün istifadə edə bilərsiniz.&lt;br/&gt;Təqvim, sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız verilənləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. &lt;br/&gt;\"Təqvim\"i istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyub qəbul edin. \"Təqvim\"in Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz.&lt;br/&gt; \"Gizlilik Siyasəti\"mizi qəbul etməsəniz, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="privacy_policy_dialog_message"><Data>\"Təqvimə xoş gəldiniz!&lt;br/&gt;Bu tətbiqi tədbirlər yaratmaq və idarə etmək, xatırladıcılar tənzimləmək və yerləşmənizə xas əlavə məlumatlar almaq üçün istifadə edə bilərsiniz.&lt;br/&gt;Təqvim, sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. &lt;br/&gt;\"Təqvim\"i istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Təqvim\"in Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz.&lt;br/&gt; \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="privacy_policy_dialog_title">Şərtlər və qaydalar</string>
     <string name="privacy_revoke_switch_text">Razılığın geri götürülməsi</string>
     <string name="pull_refresh_events">%d tədbirə bax</string>
@@ -855,7 +855,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="user_experience_revoke_switch">İstifadəçi Təcrübə Proqramı</string>
     <string name="user_notice_button_exit">İmtina</string>
     <string name="user_notice_button_ok">Oldu</string>
-    <string name="user_notice_message">"Bu məhsulu istifadə edərək, bunları qəbul edirsiniz: %1$s və %2$s. Bəzi özəlliklər, normal işləməsi üçün internet bağlantısı, yerləşməyə, kontaktlara və SMS-ə müraciət tələb edir."</string>
+    <string name="user_notice_message">"Bu məhsulu istifadə edərək razılaşırsınız: %1$s və %2$s. Bəzi özəlliklər, normal işləməsi üçün internet bağlantısı, yerləşməyə, kontaktlara və SMS-ə müraciət tələb edir."</string>
     <string name="user_notice_title">Diqqət</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>

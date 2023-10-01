@@ -754,7 +754,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Çıxış etdikdən sonra aşağıdakı əməliyyatları icra edə bilməyəcəksiniz.
 Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün və istifadə edin."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">\"Divar kağızı və fərdiləşdirmə\"dən çıxılsın?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>\"Bunları oxudum və razılaşıram: \"Divar kağızı və fərdiləşdirmə\"nin &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="pad_fold_log_in_wallpaper">\"Divar kağızı və fərdiləşdirmə\"yə daxil olun</string>
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
@@ -784,7 +784,7 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
 2. Rəy və bəyənmə əlavə etmə, digər şəxsləri izləmə və onlarla qarşılıqlı əlaqədə olma."</string>
     <string name="phone_exit_theme_warning_title">\"Temalar\"dan çıxılsın?</string>
     <string name="phone_log_in_theme">\"Temalar\"a daxil olun</string>
-    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və qəbul edirəm: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>\"Bunları oxudum və razılaşıram: \"Temalar\"ın &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;, həmçinin Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; və &lt;a href=\"%4$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; (sistem hesabını istifadə edərək daxil olmaq üçün).\"</Data></string>
     <string name="playing_ringtone">Oynadılır</string>
     <string name="pm">GS</string>
     <string name="pref_lockscreen_magazine_summary">Divar kağızını müxtəlif kateqoriyalardan olan şəkillərin slayd şouları ilə əvəz edin</string>
@@ -832,22 +832,22 @@ Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keş
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Xidmətin ləğv edilməsi, xidmətlərin ləğv edilməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">\"Divar kağızı və Fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Divar kağızı və fərdiləşdirmə xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Divar kağızı və fərdiləşdirmə xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"\"Divar kağızı və fərdiləşdirmə\" xidmətlərini ləğv etmək üzrəsiniz."</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\" xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Bu cihaza endirilmiş bütün divar kağızları, şriftlər və zəng səsləri.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">"Davam etsəniz, \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Divar kağızı və fərdiləşdirmə, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Divar kağızı və fərdiləşdirmə\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="privacy_pad_fold_update_content">\"Divar kağızı və fərdiləşdirmə\" Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_pad_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməmisiniz. Ancaq \"Divar kağızı və fərdiləşdirmə\"nin təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
+    <string name="privacy_pad_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Divar kağızı və fərdiləşdirmə\"nin təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
 Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_permission_management_description">İcazə detalları</string>
     <string name="privacy_permission_related_content">İcazələr</string>
-    <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını qəbul etmədiyiniz müddətcə \"Divar kağızı və fərdiləşdirmə\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasətini indi qəbul edirsiniz?"</string>
-    <string name="privacy_phone_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi qəbul etməmisiniz. Ancaq \"Temalar\"ın təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
+    <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə \"Divar kağızı və fərdiləşdirmə\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə razılaşırsınız?"</string>
+    <string name="privacy_phone_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Temalar\"ın təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
 Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_phone_logoff_service_content">\"Temalar\"ın xidmətlərini ləğv et</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Bu cihaza endirilmiş bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.</string>
@@ -862,12 +862,12 @@ Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcih
 Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İlkin fərdiləşdirmə tərcihləri bərpa ediləcək."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Xidmətin ləğv edilməsi, xidmətlərin ləğv edilməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Temalar xidmətlərinin ləğv edilməsi barədə bəyanat</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Temalar xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Xidmətlərimizi ləğv etməzdən əvvəl \"Temalar xidmətlərinin ləğv edilməs barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Temalar xidmətlərini ləğv etmək üzrəsiniz."</string>
     <string name="privacy_phone_read_and_write_storage">Anbara müraciət</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Anbar müraciəti</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Temalar xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>\"Bunu oxudum və qəbul edirəm: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Temalar xidmətlərinin ləğv edilməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>\"Bunu oxudum və razılaşıram: \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat&lt;/a&gt;&lt;/font&gt;\".\"</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Bu cihaza endirilmiş bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmək hüququnuzun olduğuna əmin olun.
@@ -881,14 +881,14 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. \"Temalar\"ın Gizlilik Siyasətinə verdiyiniz razılığı geri götürdükdən sonra, şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. 
 5. Razılığın geri götürülməsi, razılığın geri götürülməsindən əvvəl edilmiş əməliyyatların nəticəsində yaranan öhdəliklərlə bağlı azad edilmə və ya yüngəlləşdirmə deyil."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat</string>
-    <string name="privacy_phone_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyub qəbul edin.</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Razılığı geri götürməzdən əvvəl \"\"Temalar\"ın Gizlilik Siyasətinə verilən razılığın geri götürülməsi barədə bəyanat\"ı oxuyun və razılaşın.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Davam etsəniz, \"Temalar\"ın Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Temalar, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Temalar\"ın xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="privacy_phone_update_content">Temalar Gizlilik Siyasəti güncəlləndi:</string>
-    <string name="privacy_read_statement">Əvvəlcə şərtlər və qaydaları qəbul edin</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyub qəbul edin."</string>
+    <string name="privacy_read_statement">Əvvəlcə şərtlər və qaydalarla razılaşın</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Davam etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyasını oxuyun və razılaşın."</string>
     <string name="privacy_reading_the_application_list">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
     <string name="privacy_remind_user_mode_agree">Razıyam</string>
-    <string name="privacy_remind_user_mode_content"><Data>Bu özəlliyi istifadə etmək üçün Gizlilik Siyasətimiz qəbul edin. \"Temalar\"ı istifadə edərkən bizə təqdim etdiyiniz şəxsi məlumatları necə yığdığımızı, istifadə etdiyimizi, açıqladığımızı, emal etdiyimizi və saxladığımızı öyrənmək üçün &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun.</Data></string>
+    <string name="privacy_remind_user_mode_content"><Data>Bu özəlliyi istifadə etmək üçün Gizlilik Siyasətimizlə razılaşın. \"Temalar\"ı istifadə edərkən bizə təqdim etdiyiniz şəxsi məlumatları necə yığdığımızı, istifadə etdiyimizi, açıqladığımızı, emal etdiyimizi və saxladığımızı öyrənmək üçün &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun.</Data></string>
     <string name="privacy_remind_user_mode_title">Diqqət</string>
     <string name="privacy_revoke_agree_content">Razılığın geri götürülməsi</string>
     <string name="privacy_revoke_agree_content_1">1. Xiaomi Hesabını istifadə etdiyiniz Xiaomi cihazlarında edilən bütün sifarişlər (ödənişli sifarişlər daxil olmaqla). Artıq satın aldığınız elementləri istifadə edə bilməyəcəksiniz.</string>
@@ -898,7 +898,7 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="privacy_revoke_succeed">Razılıq uğurla geri götürüldü</string>
     <string name="privacy_revoking_warning">Razılıq geri götürülür…</string>
     <string name="privacy_select_mode">Rejim seçin</string>
-    <string name="privacy_select_mode_desc">"Gizlilik Siyasətimizi qəbul etmədiyiniz üçün aşağıdakı rejimlərədn birini seçin:"</string>
+    <string name="privacy_select_mode_desc">"Gizlilik Siyasətimizlə razılaşmadığınız üçün aşağıdakı rejimlərdən birini seçin:"</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="privacy_update_prompt_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Davam etməzdən əvvəl razılığı geri götürmə hüququnuzun olduğuna əmin olun.
@@ -921,7 +921,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="pull_down_view_refresh">Təzələ</string>
     <string name="pull_down_view_title">"Yeniliklər"</string>
     <string name="purchased">Sifarişlər</string>
-    <string name="read_and_agree_account_privacy"><Data>\"Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və qəbul edirəm.\"</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>\"Xiaomi Hesabının &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxudum və razılaşıram.\"</Data></string>
     <string name="recently_used">Təzəlikcə istifadə edilən</string>
     <string name="recommend_trigger">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="recommend_trigger_summary">Tərcihlərinizə görə tövsiyələr almaq üçün işə salın</string>
@@ -1378,7 +1378,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="theme_share_app_name">Mi Temalar</string>
     <string name="theme_staggered_item_text">Mi Krediti alın</string>
     <string name="theme_user_agreement_allow">Razıyam</string>
-    <string name="theme_user_agreement_content1">"Bu məhsulu istifadə edərək bunları qəbul edirsiniz "</string>
+    <string name="theme_user_agreement_content1">"Bu məhsulu istifadə edərək razılaşırsınız "</string>
     <string name="theme_user_agreement_content2">İstifadəçi Razılaşması</string>
     <string name="theme_user_agreement_content3">" və "</string>
     <string name="theme_user_agreement_content4">Gizlilik Siyasəti</string>

@@ -533,7 +533,7 @@
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
-    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>

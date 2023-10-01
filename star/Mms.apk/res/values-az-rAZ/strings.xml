@@ -1034,14 +1034,15 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="switch_to_editor">Redaktor rejimi</string>
     <string name="switch_to_menu">Menyu rejimi</string>
     <string name="system_permission_declare_disagree">İmtina</string>
-    <string name="system_permission_declare_double_link" formatted="false">Bu özəlliyi istifadə etməzdən əvvəl bunları oxuyub qəbul edin: %1s və %2s</string>
+    <string name="system_permission_declare_double_link" formatted="false">Bu özəlliyi istifadə etməzdən əvvəl bunları oxuyun və razılaşın: %1s və %2s.</string>
     <string name="system_permission_declare_exit">Çıx</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s - xoş gəldiniz! %2s</string>
     <string name="system_permission_declare_mi_message">\"Mi Mesaj\"a xoş gəldiniz!</string>
-    <string name="system_permission_declare_no_say_no">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsini və ya şəxsi məlumatlarınızın paylaşılmasını və yüklənməsini qəbul etmirsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>
+    <string name="system_permission_declare_no_say_no">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.
+Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>
     <string name="system_permission_declare_rcs">\"5G Mesajlaşma\"ya xoş gəldiniz!</string>
     <string name="system_permission_declare_revoke_path">Mesajlaşma tənzimləmələrindən səlahiyyəti ləğv edib xidmətləri söndürə bilərsiniz.</string>
-    <string name="system_permission_declare_single_link">Bu özəlliyi istifadə etməzdən əvvəl bunu oxuyub qəbul edin: %1s.</string>
+    <string name="system_permission_declare_single_link">Bu özəlliyi istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %1s.</string>
     <string name="system_permission_declare_smart_message">\"Ağıllı Mesajlaşma\"ya xoş gəldiniz!</string>
     <string name="system_permission_declare_user_agree">Razıyam</string>
     <string name="system_permission_disabled">İcazə verilmədi</string>
@@ -1066,7 +1067,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="system_permission_perm_write_contact">Kontakt yaratmaq və düzəliş etmək üçün</string>
     <string name="system_permission_prem_rcs_read_contact">5G qrup mesajlarında kontaktlara mesajların çatdırılma statusunu göstərmək üçün</string>
     <string name="system_permission_requested">Soruş</string>
-    <string name="system_permission_user_privacy">Davam etməzdən əvvəl, aşağıdakı şərtləri və qaydaları oxuyub qəbul edin.</string>
+    <string name="system_permission_user_privacy">Davam etməzdən əvvəl, aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
     <string name="tab_finance">Maliyyə</string>
     <string name="tab_message">Mesajlar</string>
     <string name="tab_promotions">Promosyonlar</string>

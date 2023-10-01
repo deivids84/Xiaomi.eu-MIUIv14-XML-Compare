@@ -38,7 +38,7 @@
     <string name="account_change">Hesabları dəyişdir</string>
     <string name="account_child_dialog_neg_text">Çıxış</string>
     <string name="account_child_dialog_pos_text">Qəyyum razılaşır</string>
-    <string name="account_child_dialog_text">"Əgər 14 yaşından kiçiksinizsə, qəyyumunuza bildirin ki, \"Kingsoft-un Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatı\"nı oxuyub qəbul etməlidir. Həmçinin xidmətlərimizi istifadə etməzdən və bizə hər hansısa bir şəxsi məlumatı verməzdən əvvəl onların razılığını və rəhbərliyini almalısınız. Bir istifadəçi kimi hüquqlarınızı və verilənlərinizi necə emal etdiyimizi tam anlamaq üçün \"Kingsoft-un Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatı\"nı oxuyun."</string>
+    <string name="account_child_dialog_text">"Əgər 14 yaşından kiçiksinizsə, qəyyumunuza bildirin ki, \"Kingsoft-un Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Datanın Qorunmasına dair Bəyanatı\"nı oxuyub razılaşmalıdır. Həmçinin xidmətlərimizi istifadə etməzdən və bizə hər hansısa bir şəxsi məlumatı verməzdən əvvəl onların razılığını və rəhbərliyini almalısınız. Bir istifadəçi kimi hüquqlarınızı və datanızı necə emal etdiyimizi tam anlamaq üçün \"Kingsoft-un Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Datanın Qorunmasına dair Bəyanatı\"nı oxuyun."</string>
     <string name="account_child_dialog_title">"Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanat"</string>
     <string name="account_child_save_statement">"Kingsoft-un Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatı"</string>
     <string name="account_duplicate_dlg_message_fmt">"Bu istifadəçi adını \"%s\" hesabı üçün artıq istifadə edirsiniz."</string>
@@ -917,7 +917,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="permission_read_attachment_label">Qoşmaları oxu</string>
     <string name="permission_write_contacts_subtitle">"Kontaktların e-poçt ünvanlarını görüntüləmək və dəyişdirmək üçün"</string>
     <string name="permission_write_external_storage_title">Cihazdakı fotolara və fayllara müraciət et və onları saxla</string>
-    <string name="personal_data_collection_summary">Açar açıq olduqda, şəxsi verilənlərinizi yığa biləcəyimizi qəbul etmiş olursunuz. Açarı söndürə, səlahiyyəti geri ala və verilənlərinizi serverlərimizdən istədiyiniz vaxt silə bilərsiniz.</string>
+    <string name="personal_data_collection_summary">Açar açıq olduqda, şəxsi verilənlərinizi yığa biləcəyimizlə razılaşırsınız. Açarı söndürə, səlahiyyəti geri ala və verilənlərinizi serverlərimizdən istədiyiniz vaxt silə bilərsiniz.</string>
     <string name="personal_data_collection_title">Şəxsi verilənlərin yığılmasına icazə verin</string>
     <string name="pl_select_age">Yaş seçin</string>
     <string name="please_save_sign_first">Əvvəlcə imzanı saxla</string>
@@ -1194,7 +1194,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="upload_log_no">İmtina</string>
     <string name="upload_log_title">\"Poçt\"u təkmilləşdirməyimizə kömək etmək üçün xəta jurnallarını bizə göndərin</string>
     <string name="upload_log_yes">Göndər</string>
-    <string name="user_experience_content">Zəhmət olmasa İstifadəçi Təcrübə Planını oxuyub qəbul etdiyinizi təsdiqləyin</string>
+    <string name="user_experience_content">Zəhmət olmasa İstifadəçi Təcrübə Planını oxuyub razılaşdığınızı təsdiqləyin</string>
     <string name="user_experience_log">İstifadəçi Təcrübə Planı</string>
     <string name="user_experience_login">Qoşul</string>
     <string name="user_experience_logout">Təcrübə proqramından çıx</string>
@@ -1202,7 +1202,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="user_experience_title">Bəyannamə və şərtlər</string>
     <string name="user_new_auth_code">Daxil olmaq üçün yeni kodu istifadə edin</string>
     <string name="user_privacy_settings">Gizlilik tənzimləmələri</string>
-    <string name="user_privacy_settings_agreement_authorization">"(\"Qəbul et\"ə toxunaraq, \"Poçt\"a bütün tələb edilən icazələri verirsiniz)"</string>
+    <string name="user_privacy_settings_agreement_authorization">"(\"Razıyam\"a toxunaraq, \"Poçt\"a bütün tələb edilən icazələri verirsiniz)"</string>
     <string name="user_privacy_settings_path">Səlahiyyəti ləğv etmək üçün Tənzimləmələr &gt; Gizlilik tənzimləmələrinə gedin.</string>
     <string name="user_privacy_settings_summary">"Android Kimliyinizi şifrəli formada toplayacağıq və onu Mail-dəki unikal istifadəçi identifikatoru kimi istifadə edəcəyik. İstifadə qeydlərini də toplaya bilərik. Səlahiyyətləndirmənizi istənilən vaxt gizlilik tənzimləmələri menyusundan ləğv edə bilərsiniz."</string>
     <string name="user_privacy_settings_title">E-poçt gizlilik bəyanatı</string>

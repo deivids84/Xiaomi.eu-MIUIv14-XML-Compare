@@ -657,7 +657,7 @@
     <string name="pure_function_introduction">Güvənli rejim özəllikləri</string>
     <string name="pure_guarding">İşə salındı</string>
     <string name="pure_introduction_des1">Quraşdırmazdan əvvəl mümkün güvənlik riskləri üçün bilinməyən mənbələrdən gələn tətbiqləri yoxlayın</string>
-    <string name="pure_introduction_des2">Zərərli tətbiq fəaliyyətlərini müşahidə edin, idarə edin və məhdudlaşdırın</string>
+    <string name="pure_introduction_des2">Zərərli tətbiq fəaliyyətlərini izləyin, idarə edin və məhdudlaşdırın</string>
     <string name="pure_introduction_des3">Maliyyə əməliyyatlarının yararlılığını təmin etmək üzrə güvənlik məsələləri üçün ödəniş mühitini yoxlayın</string>
     <string name="pure_introduction_des4">Şəxsi məlumatlarınızın ifşa olunmasını önləmək üçün gizliliklə əlaqəli icazələri idarə edin</string>
     <string name="pure_introduction_des5">Şübhəli fəaliyyəti aşkarlayın və mümkün fırıldaqçılığı əngəlləyin</string>
@@ -667,7 +667,7 @@
     <string name="pure_introduction_label4">Gizlilik</string>
     <string name="pure_introduction_label5">Fırıldaqçılığa qarşı mübarizə</string>
     <string name="pure_introduction_title1">Riskli tətbiqlərdən qoruyun</string>
-    <string name="pure_introduction_title2">Tətbiq davranışını müşahidə edin</string>
+    <string name="pure_introduction_title2">Tətbiq davranışını izlə</string>
     <string name="pure_introduction_title3">Ödəniş təhlükəsizliyi</string>
     <string name="pure_introduction_title4">Gizlilik qoruması</string>
     <string name="pure_introduction_title5">Fırıldaqçılığa qarşı qoruma</string>
@@ -789,12 +789,12 @@
     <string name="settings_security_mode_service_msg_3">Gizliliklə əlaqəli icazələri idarə edin</string>
     <string name="settings_security_mode_service_msg_4">Güvənlik məsələləri üçün ödəniş mühitini yoxlayın</string>
     <string name="settings_security_mode_service_opening_msg_1">Riskli tətbiqlərdən qoruyun</string>
-    <string name="settings_security_mode_service_opening_msg_2">Tətbiq davranışını müşahidə edin</string>
+    <string name="settings_security_mode_service_opening_msg_2">Tətbiq davranışını izlə</string>
     <string name="settings_security_mode_service_opening_msg_3">Ödəniş təhlükəsizliyi</string>
     <string name="settings_security_mode_service_opening_msg_4">Gizlilik qoruması</string>
     <string name="settings_security_mode_service_opening_msg_5">Fırıldaqçılığa qarşı qoruma</string>
     <string name="settings_security_mode_service_title_1">Riskli tətbiqlərdən qoruyun</string>
-    <string name="settings_security_mode_service_title_2">Tətbiq davranışını müşahidə edin</string>
+    <string name="settings_security_mode_service_title_2">Tətbiq davranışını izlə</string>
     <string name="settings_security_mode_service_title_3">Gizlilik qoruması</string>
     <string name="settings_security_mode_service_title_4">Ödəniş təhlükəsizliyi</string>
     <string name="settings_security_mode_status_off_msg">Bağlı</string>

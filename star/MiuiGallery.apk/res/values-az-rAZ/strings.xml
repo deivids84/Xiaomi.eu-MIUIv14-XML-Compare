@@ -1200,7 +1200,7 @@ mövcuddur"</string>
     <string name="grant_permission_unlock_and_set">Kilidi aç və tənzimlə</string>
     <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
     <string name="grant_permission_write_clipboard">Elementləri kopyalaya bilmək üçün bu tətbiqin elementləri lövhədə saxlamasına icazə verin.</string>
-    <string name="group_header_title_immutable_album">Fotoları təşkil et</string>
+    <string name="group_header_title_immutable_album">Fotoları düz</string>
     <string name="group_header_title_media_group">Media növləri</string>
     <string name="group_header_title_third_album">Daha çox albom</string>
     <string name="group_header_title_user_create_album">Albomlarım</string>
@@ -2531,7 +2531,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="set_face_group_toast_msg_new_user">Birləşdirmək və ya yox saymaq üçün bir şəxsə basılı saxlayın.</string>
     <string name="set_face_group_toast_msg_old_user">"Qrup yaratmaq üçün bir şəxsin fotosuna basılı saxlayın (Ailə, Dostlar, Sinif yoldaşları və s.)"</string>
     <string name="set_face_group_toast_title_new_user">Təklif</string>
-    <string name="set_face_group_toast_title_old_user">İnsanlar qrup halında təşkil edilə bilər</string>
+    <string name="set_face_group_toast_title_old_user">İnsanlar qrup halında düzülə bilər</string>
     <string name="set_face_image">Yeni bir profil şəkli tənzimlə</string>
     <string name="set_group">Qrupu tənzimlə</string>
     <string name="set_video_wallpaper_failed">"Bu element video divar kağızı olaraq istifadə edilə bilmir"</string>

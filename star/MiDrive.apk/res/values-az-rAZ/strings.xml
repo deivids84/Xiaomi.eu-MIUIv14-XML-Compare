@@ -414,7 +414,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="privacy_recall_success">Razılıq uğurla geri götürüldü</string>
     <string name="privacy_recall_title">Razılığın geri götürülməsi</string>
     <string name="privacy_recalling">Razılıq geri götürülür…</string>
-    <string name="privacy_update_dialog_msg">Mi Drive Gizlilik Siyasəti güncəlləndi:&lt;br/&gt;%1$s&lt;br/&gt;Davam etməzdən əvvəl yeni &lt;a href=%2$s&gt;&lt;u&gt;Gizlilik Siyasətini&lt;/u&gt;&lt;/a&gt; oxuyun və qəbul edin.</string>
+    <string name="privacy_update_dialog_msg">Mi Drive Gizlilik Siyasəti güncəlləndi:&lt;br/&gt;%1$s&lt;br/&gt;Davam etməzdən əvvəl yeni &lt;a href=%2$s&gt;&lt;u&gt;Gizlilik Siyasətini&lt;/u&gt;&lt;/a&gt; oxuyun və razılaşın.</string>
     <string name="privacy_update_dialog_title">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Çıxış</string>
     <string name="privacy_user_notice_dialog_msg">"&lt;a href=%1$s&gt;&lt;u&gt;Gizlilik Siyasətinin&lt;/u&gt;&lt;/a&gt; yeni versiyası ilə razılaşmasanız \"Mi Drive\"ı istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə razılaşırsınız?"</string>

@@ -2580,7 +2580,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_intercept_title">Endirmələri idarə et</string>
     <string name="web_permission_setting_page_permission_title">Gizlilik qoruması</string>
     <string name="web_permission_setting_page_privcay_des">"Veb saytların məlumatları yığmasına və fəaliyyətinizi izləməsinə icazə verməyin"</string>
-    <string name="web_permission_setting_page_privcay_subtitle">İzləmə</string>
+    <string name="web_permission_setting_page_privcay_subtitle">İzləməyin</string>
     <string name="web_permission_setting_page_privcay_title">İzlənilir</string>
     <string name="web_permission_setting_page_title">Veb sayt tənzimləmələri</string>
     <string name="web_permission_setting_page_web_enhance_desc">Bu veb saytda reklam əngəlləməsini dayandırmaq üçün söndürün</string>

@@ -1103,7 +1103,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="needPuk">SIM kartınız PUK kilidindədir. Kilidi açmaq üçün PUK kodu daxil edin.</string>
     <string name="needPuk2">SIM kartı əngəldən çıxartmaq üçün PUK2-ni yazın.</string>
     <string name="network_available_sign_in">Şəbəkəyə daxil ol</string>
-    <string name="network_logging_notification_text">Təşkilatınız, bu cihazı idarə edə və şəbəkə trafikini müşahidə edə bilər. Detallar üçün toxunun.</string>
+    <string name="network_logging_notification_text">Təşkilatınız, bu cihazı idarə edə və şəbəkə trafikini izləyə bilər. Detallar üçün toxunun.</string>
     <string name="network_logging_notification_title">Cihaz idarə edilir</string>
     <string name="network_partial_connectivity">%1$s, limitli bağlantıya sahibdir</string>
     <string name="network_partial_connectivity_detailed">Yenə də bağlantı qurmaq üçün toxunun</string>
@@ -1311,9 +1311,9 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_readSyncSettings">Tətbiqə, bir hesab üçün sinxronlaşdırma tənzimləmələrini oxuma icazəsi verir. Nümunə üçün, bu, Kontaktlar tətbiqin bir hesabla sinxron olub-olmadığını müəyyən edə bilər.</string>
     <string name="permdesc_readSyncStats">Tətbiqə, sinxron tədbirlərin tarixçəsi və nə qədər verilənlərin sinxron olduğu daxil olmaqla bir hesab üçün sinxronlaşdırma statistikalarını oxuma icazəsi verir.</string>
     <string name="permdesc_receiveBootCompleted">Tətbiqin, sistem yüklənməsinin bitməsindən dərhal sonra özünü başlatmasına icazə verir. Bu, telefonun açılmasını ləngidə və tətbiqin həmişə işləyərək telefonun ümumi sürətini yavaşlandırmasına imkan verə bilər.</string>
-    <string name="permdesc_receiveMms">Tətbiqə, MMS mesajlarını alma və emal etmə icazəsi verir. Bu o deməkdir ki, tətbiq, cihazınıza göndərilən mesajları sizə göstərmədən müşahidə edə və ya silə bilər.</string>
-    <string name="permdesc_receiveSms">Tətbiqə, SMS mesajlarını alma və emal etmə icazəsi verir. Bu o deməkdir ki, tətbiq, cihazınıza göndərilən mesajları sizə göstərmədən müşahidə edə və ya silə bilər.</string>
-    <string name="permdesc_receiveWapPush">Tətbiqə, WAP mesajlarını alma və emal etmə icazəsi verir. Bu icazəyə, sizə göndərilən mesajları sizə göstərmədən müşahidə etmə və ya silmə özəlliyini də ehtiva edir.</string>
+    <string name="permdesc_receiveMms">Tətbiqə, MMS mesajlarını alma və emal etmə icazəsi verir. Bu o deməkdir ki, tətbiq, cihazınıza göndərilən mesajları sizə göstərmədən izləyə və ya silə bilər.</string>
+    <string name="permdesc_receiveSms">Tətbiqə, SMS mesajlarını alma və emal etmə icazəsi verir. Bu o deməkdir ki, tətbiq, cihazınıza göndərilən mesajları sizə göstərmədən izləyə və ya silə bilər.</string>
+    <string name="permdesc_receiveWapPush">Tətbiqə, WAP mesajlarını alma və emal etmə icazəsi verir. Bu icazəyə, sizə göndərilən mesajları sizə göstərmədən izləyə və ya silmə özəlliyini də ehtiva edir.</string>
     <string name="permdesc_recordAudio">Bu tətbiq, tətbiq istifadədə olarkən mikrofonu istifadə edərək səs yaza bilər.</string>
     <string name="permdesc_recordBackgroundAudio">Bu tətbiq, istənilən vaxt mikrofonu istifadə edərək səs yaza bilər.</string>
     <string name="permdesc_register_call_provider">Tətbiqə, yeni telekom bağlantılarını qeydiyyatdan keçirmə icazəsi verir.</string>
@@ -1574,8 +1574,8 @@ icazə tələb olundu"</string>
     <string name="policydesc_limitPassword">Ekran kilidi parollarında və PIN-lərində icazə verilən uzunluğa və simvollara nəzarət et.</string>
     <string name="policydesc_resetPassword">Ekran kilidini dəyişdir.</string>
     <string name="policydesc_setGlobalProxy">Siyasət fəal olanda istifadə ediləcək cihazın qlobal proksisini tənzimlə. Yalnız cihaz sahibi, qlobal proksini tənzimləyə bilər.</string>
-    <string name="policydesc_watchLogin">"Ekran kilidini açarkən yazılan yanlış parolların sayını müşahidə et və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bütün telefon verilənlərini sil."</string>
-    <string name="policydesc_watchLogin_secondaryUser">"Ekran kilidini açarkən yazılan yanlış parolların sayını müşahidə et və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bu istifadəçinin bütün verilənlərini sil."</string>
+    <string name="policydesc_watchLogin">"Ekran kilidini açarkən yazılan yanlış parolların sayını izlə və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bütün telefon datanı sil."</string>
+    <string name="policydesc_watchLogin_secondaryUser">"Ekran kilidini açarkən yazılan yanlış parolların sayını izlə və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bu istifadəçinin bütün datanı sil."</string>
     <string name="policydesc_wipeData">"Fabrik datasını sıfırlama prosesini icra edərək xəbərdarlıq olmadan telefonun datasını sil."</string>
     <string name="policydesc_wipeData_secondaryUser">"Xəbərdarlıq olmadan bu istifadəçinin verilənlərini sil."</string>
     <string name="policylab_disableCamera">Kameraları sıradan çıxart</string>
@@ -1586,7 +1586,7 @@ icazə tələb olundu"</string>
     <string name="policylab_limitPassword">Parol qaydalarını tənzimlə</string>
     <string name="policylab_resetPassword">Ekran kilidini dəyişdir</string>
     <string name="policylab_setGlobalProxy">Cihazın qlobal proksisini tənzimlə</string>
-    <string name="policylab_watchLogin">Ekran kilidi cəhdlərini müşahidə et</string>
+    <string name="policylab_watchLogin">Ekran kilidi cəhdlərini izlə</string>
     <string name="policylab_wipeData">Bütün verilənləri sil</string>
     <string name="policylab_wipeData_secondaryUser">İstifadəçi verilənlərini sil</string>
     <string name="popup_window_default_title">Açılan pəncərə</string>

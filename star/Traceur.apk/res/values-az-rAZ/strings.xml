@@ -309,7 +309,7 @@ seçimi"</string>
     <string name="default_user_icon_description">İlkin istifadəçi nişanı</string>
     <string name="delete_blob_confirmation_text">Bu paylaşılan verilənləri silmək istədiyinizə əminsiniz?</string>
     <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
-    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı verilənlərini silməyimiz lazımdır.</string>
+    <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı datasını silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
     <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
     <string name="dev_settings_warning_title">Tərtibatçı tənzimləmələrinə icazə verilsin?</string>

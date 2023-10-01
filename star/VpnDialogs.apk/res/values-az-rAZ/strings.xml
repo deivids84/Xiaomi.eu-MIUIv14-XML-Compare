@@ -152,7 +152,7 @@
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="warning">%s, şəbəkə trafikini müşahidə etməyə icazə verən bir VPN bağlantısı qurmaq istəyir. Mənbəyə güvənirsinizsə qəbul edin. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; VPN aktiv ikən ekranınızın yuxarısında görünür.</string>
+    <string name="warning">%s, şəbəkə trafikini izləməyə imkan verən bir VPN bağlantısı qurmaq istəyir. Mənbəyə güvənirsinizsə qəbul edin. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; VPN aktiv ikən ekranınızın yuxarısında görünür.</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

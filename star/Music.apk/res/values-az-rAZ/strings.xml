@@ -1066,7 +1066,7 @@
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
     <string name="passport_input_verify_code">Təsdiqləmə kodunu daxil edin</string>
-    <string name="passport_input_voice_captcha_hint">Səsli təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_input_voice_captcha_hint">Səsli doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
     <string name="passport_login_by_local_phone_long_text">İndi daxil ol</string>
     <string name="passport_login_by_local_phone_short_text">Daxil olun</string>
@@ -1119,8 +1119,8 @@
     <string name="passport_system_error">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_switch_voice_captcha">Səsli təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_voice_captcha">Səsli təsdiqləmə kodunu oxut</string>
+    <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
+    <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>

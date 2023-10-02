@@ -667,7 +667,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tts_engine_settings_title">%s üçün tənzimləmələr</string>
     <string name="tts_general_section_title">Ümumi</string>
     <string name="tts_install_data_summary">Nitq sintezi üçün tələb olunan səs datasını quraşdır</string>
-    <string name="tts_install_data_title">Səs verilənlərini quraşdır</string>
+    <string name="tts_install_data_title">Səs datasını quraşdır</string>
     <string name="tts_lang_not_selected">Dil seçilməyib</string>
     <string name="tts_lang_use_system">Sistem dilini istifadə et</string>
     <string name="tts_play_example_summary">Nitq sintezinin qısa nümayişini oxut</string>

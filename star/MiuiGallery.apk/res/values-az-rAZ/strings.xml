@@ -768,7 +768,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="drag_failed_because_not_custom_sort">Yalnız özəl sıralama sırası seçiləndə elementləri yenidən düzə bilərsiniz</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"Ekran şəkli albomu silinə və ya gizlədilə bilməz"</string>
     <string name="drag_failed_because_share_album_cant_sort">"Başqalarının paylaşdığı albomlar silinə bilməz"</string>
-    <string name="drag_view_tip_sub_title">Yenidən düzmək üçün bir alboma basılı saxlayın</string>
+    <string name="drag_view_tip_sub_title">Yenidən düzmək üçün albomu basılı tutun</string>
     <string name="drag_view_tip_title">Albomları yenidən düz</string>
     <string name="drop_failed">"Saxlanıla bilmədi"</string>
     <string name="drop_format_not_supported">"Bu növ fayl dəstəklənmir"</string>
@@ -907,7 +907,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
 Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="face_album_empty_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Məlumatları sinxronlaşdırmaq üçün şəbəkəyə bağlanın</string>
-    <string name="face_album_long_tap_tip">Çoxlu şəxs seçmək və ya qrup tənzimləmələrini dəyişdirmək üçün, profil şəklinə basılı saxlayın</string>
+    <string name="face_album_long_tap_tip">Çoxlu şəxs seçmək və ya qrup tənzimləmələrini dəyişdirmək üçün, profil şəklini basılı tutun</string>
     <string name="face_album_new_name_hint">Yeni ad</string>
     <string name="face_album_not_named">Adsız</string>
     <string name="face_album_rename_hint">Adı daxil edin</string>
@@ -1243,7 +1243,7 @@ mövcuddur"</string>
     <string name="homepage_allphotos_tip_dialog_description_only_camera">Kamera ilə çəkilib</string>
     <string name="homepage_allphotos_tip_dialog_subtitle">Bunu daha sonra Tənzimləmələrdə də edə bilərsiniz</string>
     <string name="homepage_allphotos_tip_dialog_title">\"Fotolar\"da hansı təsvirləri görmək istərdiniz?</string>
-    <string name="how_to_set_relation">Qrup yaratmaq üçün bir alboma basılı saxlayın</string>
+    <string name="how_to_set_relation">Qrup yaratmaq üçün albomu basılı tutun</string>
     <string name="hr_preview_108m">108MP önbaxışına keçildi</string>
     <string name="hr_preview_200m">200MP önbaxışına keçildi</string>
     <string name="hybrid_check_network">Şəbəkə tənzimləmələri</string>
@@ -1376,7 +1376,7 @@ mövcuddur"</string>
     <string name="login_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="login_with_sns">Digər daxil olma yolları</string>
     <string name="logout_account">Çıxış et</string>
-    <string name="long_press_to_refocus">Yenidən fokuslamaq üçün basılı saxlayın</string>
+    <string name="long_press_to_refocus">Yenidən fokuslamaq üçün basılı tutun</string>
     <string name="look_baby_info">Körpə albom məlumatına bax</string>
     <string name="macarons_download_dialog_confirm">Oldu</string>
     <string name="macarons_download_dialog_message">Sehrli vinyet qoşması indi endirilsin?</string>
@@ -1467,7 +1467,7 @@ mövcuddur"</string>
     <string name="magic_video_cut_frame_back">Ləğv etmək üçün təkrar toxunun</string>
     <string name="magic_video_cut_max">%1$d saniyəyə qədər seçin</string>
     <string name="magic_video_cut_min">Ən azı %1$d saniyə seçin</string>
-    <string name="magic_video_long_press">Əlavə etmək üçün basılı saxlayın</string>
+    <string name="magic_video_long_press">Əlavə etmək üçün basılı tutun</string>
     <string name="magic_video_make">Başla</string>
     <string name="magic_video_soundtrack">Film musiqisi</string>
     <string name="magic_video_soundtrack_is_turned_off">Orijinal səs söndürüldü</string>
@@ -1504,7 +1504,7 @@ mövcuddur"</string>
     <string name="mark_operation_failed">"Əlavə edilə bilmədi"</string>
     <string name="mark_operation_processing">Emal olunur…</string>
     <string name="mark_operation_succeeded">Uğurla əlavə edildi</string>
-    <string name="mark_people_ignore_info_message">İnsanları qruplara əlavə etmək üçün fotolarına basılı saxlayın</string>
+    <string name="mark_people_ignore_info_message">İnsanları qruplara əlavə etmək üçün fotolarını basılı tutun</string>
     <string name="media_type_burst_photo">Ardıcıl</string>
     <string name="media_type_clone_photo">Klonlar</string>
     <string name="media_type_doc_photo">Sənədlər</string>
@@ -2015,7 +2015,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_common_download_finish">Qoşma uğurla endirildi</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Deyəsən, Wi-Fi-ya bağlanmamısınız. Qoşma, mobil internet istifadə edilərək (%1$d MB) endirilsin?"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Qoşmanı endir</string>
-    <string name="photo_editor_compare_tip">Orijinal şəklə baxmaq üçün basılı saxlayın</string>
+    <string name="photo_editor_compare_tip">Orijinal şəklə baxmaq üçün basılı tutun</string>
     <string name="photo_editor_crop_and_rotate">Kəs</string>
     <string name="photo_editor_crop_auto">Avto</string>
     <string name="photo_editor_crop_auto_tips">Avtomatik kəsildi</string>
@@ -2528,8 +2528,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="set_as_video_wallpaper_title">Video divar kağızı et</string>
     <string name="set_as_wallpaper_description">Bu təsvir bir eksizdir, orijinalı endirilsin?</string>
     <string name="set_as_wallpaper_title">Divar kağızı olaraq tənzimlə</string>
-    <string name="set_face_group_toast_msg_new_user">Birləşdirmək və ya yox saymaq üçün bir şəxsə basılı saxlayın.</string>
-    <string name="set_face_group_toast_msg_old_user">"Qrup yaratmaq üçün bir şəxsin fotosuna basılı saxlayın (Ailə, Dostlar, Sinif yoldaşları və s.)"</string>
+    <string name="set_face_group_toast_msg_new_user">Birləşdirmək və ya yox saymaq üçün bir şəxsi basılı tutun.</string>
+    <string name="set_face_group_toast_msg_old_user">"Qrup yaratmaq üçün bir şəxsin fotosunu basılı tutun (Ailə, Dostlar, Sinif yoldaşları və s.)"</string>
     <string name="set_face_group_toast_title_new_user">Təklif</string>
     <string name="set_face_group_toast_title_old_user">İnsanlar qrup halında düzülə bilər</string>
     <string name="set_face_image">Yeni bir profil şəkli tənzimlə</string>

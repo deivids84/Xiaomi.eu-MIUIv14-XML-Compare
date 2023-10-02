@@ -537,7 +537,7 @@ Söndürmək üçün toxunun."</string>
     <string name="lockscreen_wallpaper">Kilid ekranı</string>
     <string name="lockstyle_personal_settings">Özəlləşdir</string>
     <string name="login_theme">\"Temalar\"a daxil olun</string>
-    <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı saxlayın</string>
+    <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı tutun</string>
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">"Saat %1$s"</string>

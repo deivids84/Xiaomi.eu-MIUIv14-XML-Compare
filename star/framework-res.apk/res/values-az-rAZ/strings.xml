@@ -615,7 +615,7 @@ nömrəni yığın"</string>
     <string name="face_acquired_too_right">Telefonu sola aparın.</string>
     <string name="face_acquired_too_similar">Çox oxşardır, pozanızı dəyişin.</string>
     <string name="face_app_setting_name">\"Üzlə kilid açma\"nı istifadə et</string>
-    <string name="face_authenticated_confirmation_required">Üz kimliyi doğrulandı, zəhmət olmasa \"təsdiqlə\"yə toxunun</string>
+    <string name="face_authenticated_confirmation_required">Üz kimliyi doğrulandı, lütfən \"təsdiqlə\"yə toxunun</string>
     <string name="face_authenticated_no_confirmation_required">Üz kimliyi doğrulandı</string>
     <string name="face_dialog_default_subtitle">Davam etmək üçün üzünüzü istifadə edin</string>
     <string name="face_error_canceled">Üz əməliyyatı ləğv edildi.</string>
@@ -664,11 +664,11 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_acquired_imager_dirty">Barmaq izi sensorunu təmizləyib yenidən sınayın</string>
     <string name="fingerprint_acquired_imager_dirty_alt">Sensoru təmizləyib yenidən sınayın</string>
     <string name="fingerprint_acquired_immobile">Hər dəfə barmağınızın yerini bir qədər dəyişdirin</string>
-    <string name="fingerprint_acquired_insufficient">"Barmaq izi emal oluna bilmədi. Zəhmət olmasa yenidən sınayın."</string>
+    <string name="fingerprint_acquired_insufficient">"Barmaq izi emal oluna bilmədi. Lütfən yenidən sınayın."</string>
     <string name="fingerprint_acquired_partial">Sensora möhkəm basın</string>
     <string name="fingerprint_acquired_too_bright">Çox parlaq</string>
     <string name="fingerprint_acquired_too_fast">Sensora möhkəm basın</string>
-    <string name="fingerprint_acquired_too_slow">Barmaq hərəkəti çox yavaşdır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="fingerprint_acquired_too_slow">Barmaq hərəkəti çox yavaşdır. Lütfən yenidən sınayın.</string>
     <string name="fingerprint_acquired_try_adjusting">Nizamlamağa çalışın</string>
     <string name="fingerprint_app_setting_name">Barmaq izi istifadə et</string>
     <string name="fingerprint_authenticated">Barmaq izi kimliyi doğrulandı</string>

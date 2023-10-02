@@ -555,7 +555,7 @@ nömrəni yığın"</string>
     <string name="expand_button_content_description_collapsed">Genişləndir</string>
     <string name="expand_button_content_description_expanded">Yığcamlaşdır</string>
     <string name="expires_on">Bitmə vaxtı:</string>
-    <string name="ext_media_badremoval_notification_message">Məzmun itkisinin qarşısını almaq üçün ayırmazdan əvvəl medianı çıxardın</string>
+    <string name="ext_media_badremoval_notification_message">Məzmun itkisini önləmək üçün ayırmazdan əvvəl medianı çıxardın</string>
     <string name="ext_media_badremoval_notification_title">%s gözlənilmədən çıxarıldı</string>
     <string name="ext_media_browse_action">Kəşf et</string>
     <string name="ext_media_checking_notification_message">Hazırkı məzmun incələnir</string>

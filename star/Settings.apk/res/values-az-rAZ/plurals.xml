@@ -73,12 +73,12 @@
         <item quantity="one">%d dəstəklənən keçid</item>
     </plurals>
     <plurals name="app_launch_verified_links_message">
-        <item quantity="other">Bu keçid təsdiqləndi və avtomatik olaraq bu tətbiqdə açılır.</item>
-        <item quantity="one">Bu keçid təsdiqləndi və avtomatik olaraq bu tətbiqdə açılır.</item>
+        <item quantity="other">Bu keçid doğrulandı və avtomatik olaraq bu tətbiqdə açılır.</item>
+        <item quantity="one">Bu keçid doğrulandı və avtomatik olaraq bu tətbiqdə açılır.</item>
     </plurals>
     <plurals name="app_launch_verified_links_title">
-        <item quantity="other">%d təsdiqlənmiş keçid</item>
-        <item quantity="one">%d təsdiqlənmiş keçid</item>
+        <item quantity="other">%d doğrulanmış keçid</item>
+        <item quantity="one">%d doğrulanmış keçid</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">Tətbiq %d keçidi idarə etmək istəyir</item>

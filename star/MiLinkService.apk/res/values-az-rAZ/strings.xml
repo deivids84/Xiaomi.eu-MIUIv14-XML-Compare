@@ -148,19 +148,19 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_device_type_name_wifi_speaker">Dinamik</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Toxunaqlı ekran dinamiki</string>
     <string name="circulate_headset_back_to_box_desc">"1. Hər iki qulaqlığı doldurma qutusuna qoyun.
-2. Qutudakı düyməyə basılı saxlayın.
+2. Qutudakı düyməni basılı tutun.
 3. Hədəf cihazla cütləşdirməni bitirin."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Oxutmanı cihazlar arasında ötürə bilmək üçün əvvəlcə qulaqlıqlarınızı TV-nizlə cütləşdirin.</string>
     <string name="circulate_headset_back_to_box_desc_err_310">"1. Dinamiklərin bağlantısını kəsmək TV pultundakı Güc düyməsinə basın.
 2. Ekran yandıqdan sonra qulaqlıqlara yenidən bağlanmağa çalışın."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Hər iki qulaqlığı qutuya qoyun.
-2. Qutudakı düyməni basılı saxlayın.
+2. Qutudakı düyməni basılı tutun.
 3. Bluetooth tənzimləmələrində və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
     <string name="circulate_headset_back_to_box_desc_phone">"1. Hər iki qulaqlığı qutuya qoyun.
-2. Qutudakı düyməni basılı saxlayın.
+2. Qutudakı düyməni basılı tutun.
 3. Bluetooth tənzimləmələrində və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
     <string name="circulate_headset_back_to_box_desc_tv">"1. Hər iki qulaqlığı doldurma qutusuna qoyun.
-2. Qutudakı düyməyə basılı saxlayın.
+2. Qutudakı düyməni basılı tutun.
 3. Tv-nizdəki mövcud Bluetooth cihazlarının siyahısını açın və cütləşdirməni təsdiqləyin."</string>
     <string name="circulate_headset_back_to_box_subtitle">"Bu qulaqlıqlar avtomatik cütləşdirilə bilmir. Bunun əvəzinə onları hədəf cihazda əllə cütləşdirin."</string>
     <string name="circulate_headset_back_to_box_title">Əvvəlcə qulaqlıqları cütləşdirin</string>

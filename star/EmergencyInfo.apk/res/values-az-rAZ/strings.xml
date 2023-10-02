@@ -400,7 +400,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="help_label">Kömək &amp; əks-əlaqə</string>
     <string name="home">Tənzimləmələr əsas səhifəsi</string>
     <string name="icon_content_description">Dialoq nişanı</string>
-    <string name="ime_security_warning">Bu giriş metodu, parollar və kredit kart nömrələri kimi şəxsi verilənlər daxil olmaqla yazdığınız bütün mətnləri yığa bilər. %1$s tətbiqindən gəlir. Bu giriş metodu istifadə edilsin?</string>
+    <string name="ime_security_warning">Bu giriş üsulu, parollar və kredit kart nömrələri kimi şəxsi datalar daxil olmaqla yazdığınız bütün mətnləri yığa bilər. %1$s tətbiqindən gəlir. Bu giriş üsulu istifadə edilsin?</string>
     <string name="immediately_destroy_activities">Fəaliyyətlər saxlanılmasın</string>
     <string name="immediately_destroy_activities_summary">İstifadəçinin tərk etdiyi hər fəaliyyəti dərhal məhv et</string>
     <string name="ims_reg_status_not_registered">Qeydiyyatsız</string>

@@ -38,7 +38,7 @@
     <string name="activate_feature_mx">Mi Mesaj</string>
     <string name="activate_feature_register_xiaomi_account">Xiaomi Hesabı quraşdırması</string>
     <string name="activate_feature_remote_assist">Uzaq köməkçi</string>
-    <string name="activate_feature_verify_mx_token">Xiaomi Hesabı təsdiqləməsi</string>
+    <string name="activate_feature_verify_mx_token">Xiaomi Hesabı doğrulama</string>
     <string name="activate_feature_voip">Mi Mesaj VoIP</string>
     <string name="activate_history_canceled_overview">SIM kart aktivləşdirmə ləğv edildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>
     <string name="activate_history_multisim_canceled_overview">SIM kart %2$d aktivləşdirmə ləğv edildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>

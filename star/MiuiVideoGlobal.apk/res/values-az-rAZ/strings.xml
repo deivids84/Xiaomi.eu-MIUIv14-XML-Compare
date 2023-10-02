@@ -679,7 +679,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="inline_auto_play_tip">"Mobil internet istifadə edilir… "</string>
     <string name="inline_auto_play_to_set">Tənzimləmələr</string>
     <string name="inline_mute_click_tip">Səsi açmaq üçün toxunun</string>
-    <string name="input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
+    <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
     <string name="input_size_tips_new">%d simvola qədər daxil edə bilərsiniz</string>
     <string name="introduction">Giriş</string>
@@ -1217,7 +1217,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_password_req_notice">Parol, 8-16 simvol uzunluğunda olmalıdır və ən azı bunlardan ikisini ehtiva etməlidir: rəqəmlər, hərflər və xüsusi simvollar (məs. 123abc@# və ya 123abc və ya abc@#).</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb olunur…</string>
     <string name="passport_quick_login_dialog_step2_title">2 addımlı təsdiqləmə</string>
-    <string name="passport_quick_login_dialog_title">Parolu təsdiqlə</string>
+    <string name="passport_quick_login_dialog_title">Parolu doğrula</string>
     <string name="passport_quick_login_step2_title">2 addımlı təsdiqləmə</string>
     <string name="passport_quick_login_title">Parolunuzu daxil edin</string>
     <string name="passport_re_get_verify_code">Yenidən kod al</string>
@@ -1250,8 +1250,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_vcode_notification_title">Daxil olma təsdiqləməniz tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_vcode_sms_send_prompt">Kod göndərildi: %s</string>
-    <string name="passport_verification_failed">"Təsdiqlənə bilmədi"</string>
-    <string name="passport_verify">Təsdiqlə</string>
+    <string name="passport_verification_failed">"Doğrulana bilmədi"</string>
+    <string name="passport_verify">Doğrula</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
@@ -1728,7 +1728,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmir</string>
     <string name="update">Güncəllə</string>
-    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_find_new_version">Bir güncəlləmə mövcuddur</string>
     <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>

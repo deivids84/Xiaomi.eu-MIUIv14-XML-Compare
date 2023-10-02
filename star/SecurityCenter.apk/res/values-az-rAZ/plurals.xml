@@ -310,10 +310,10 @@
     </plurals>
     <plurals name="gb_vision_enhance_desc_detail">
         <item quantity="other">"Qeyd:
-·Batareya qənaəti açıq olduqda və ya cihazınız həddən artıq qızdıqda təkmil vizuallar əlçatmaz olacaq.
+·Batareya qənaəti açıq olduqda və ya cihazınız aşırı isindikdə təkmil vizuallar əlçatmaz olacaq.
 ·Ağıllı kadr sürəti, oyununuz saniyədə ən azı %d kadr göstərməyə tənzimləndikdə, ən yaxşı nəticələri göstərir."</item>
         <item quantity="one">"Qeyd:
-·Batareya qənaəti açıq olduqda və ya cihazınız həddən artıq qızdıqda təkmil vizuallar əlçatmaz olacaq.
+·Batareya qənaəti açıq olduqda və ya cihazınız aşırı isindikdə təkmil vizuallar əlçatmaz olacaq.
 ·Ağıllı kadr sürəti, oyununuz saniyədə ən azı %d kadr göstərməyə tənzimləndikdə, ən yaxşı nəticələri göstərir."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">

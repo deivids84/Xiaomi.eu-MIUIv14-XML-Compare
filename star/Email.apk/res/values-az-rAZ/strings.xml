@@ -908,7 +908,7 @@ Bu problem, hesabın 2 mərhələli kimlik təsdiqləməsi ilə bağlı ola bil�
     <string name="permission_calendar_subtitle">Tədbirləri e-poçtunuzdan Təqviminizə sinxronlaşdırmaq üçün</string>
     <string name="permission_calendar_title">Təqvim tədbirlərinə müraciət et və onları əlavə et</string>
     <string name="permission_des_calendar">Təqvim tədbirlərini sinxronlaşdırmaq üçün</string>
-    <string name="permission_des_contact">E-poçt kontaktlarını sistem kontaktları kimi sinxronlaşdırmaq üçün. Kəsintilərin qarşısını almaq üçün \"Həmişə icazə ver\"i seçməyi məsləhət görürük.</string>
+    <string name="permission_des_contact">E-poçt kontaktlarını sistem kontaktları kimi sinxronlaşdırmaq üçün. Kəsintiləri önləmək üçün \"Həmişə icazə ver\"i seçməyi məsləhət görürük.</string>
     <string name="permission_des_external_storage">Yeni e-poçtlar yaratmaq, həm də qoşmaları saxlamaq və əlavə etmək üçün</string>
     <string name="permission_get_accounts_subtitle">Sistem hesablarına daxil olmaq və onları idarə etmək üçün</string>
     <string name="permission_phone_status_subtitle">Fərqli cihazları müəyyənləşdirmək üçün</string>

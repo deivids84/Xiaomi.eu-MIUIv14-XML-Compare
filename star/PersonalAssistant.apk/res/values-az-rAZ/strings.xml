@@ -201,7 +201,7 @@ başlamaq üçün cüt toxunun"</string>
 Başlatmaq üçün cüt toxunun."</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
 Detallar səhifəsinə baxmaq üçün 2 dəfə basın. 
-Sürükləmək üçün 2 dəfə basıb basılı saxlayın."</string>
+Sürükləmək üçün 2 dəfə basın və basılı tutun."</string>
     <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
 Detallar səhifəsinə getmək üçün cüt toxunun"</string>
     <string name="pa_accessibility_picker_home_search">Vicet axtar</string>
@@ -215,7 +215,7 @@ Başqa bir vicetlə əvəz etmək üçün altındakı düyməyə iki dəfə toxu
 Keçmək üçün iki dəfə basın."</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Quraşdırma statusu: %3$s, 
 detallar üçün iki dəfə toxunun, 
-daşımaq üçün iki dəfə toxunub basılı saxlayın."</string>
+daşımaq üçün iki dəfə toxunub basılı tutun."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, quraşdırma statusu: %3$s.
 Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, sətir %2$d, nömrə %3$d. 
@@ -387,7 +387,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_filter_title">Daha çox vicet</string>
     <string name="pa_finish">Hazırdır</string>
     <string name="pa_get_installed_app_permission_description">Tətbiqləri quraşdırmaq və vicetləri əlavə etmək üçün</string>
-    <string name="pa_guide_dialog_desc">Yenidən təşkil etmək üçün vicetə basıb saxlayın. Daha çox vicet əlavə etmək üçün üstəgələ toxunun.</string>
+    <string name="pa_guide_dialog_desc">Yenidən düzmək üçün viceti basılı tutun. Daha çox vicet əlavə etmək üçün üstəgələ toxunun.</string>
     <string name="pa_guide_dialog_sure">Anladım</string>
     <string name="pa_guide_dialog_title">Vicet mağazamıza nəzər yetirin</string>
     <string name="pa_horizontal_center">Üfüqi düzüm. Ortaya hizalanmış.</string>
@@ -728,7 +728,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_stock_desc_add_success">Uğurla əlavə edildi</string>
     <string name="pa_stock_desc_cancel_pin">Sancağı götür</string>
     <string name="pa_stock_desc_delete_stock">%1$s silinsin</string>
-    <string name="pa_stock_desc_move_stock">Səhmi daşımaq üçün basılı saxlayın</string>
+    <string name="pa_stock_desc_move_stock">Səhmi daşımaq üçün basılı tutun</string>
     <string name="pa_stock_desc_pin_stock">Başlanğıc səhifəyə sanc</string>
     <string name="pa_stock_display_limit_alert">"Daha çox şirkət əlavə edilə bilmir"</string>
     <string name="pa_stock_empty_display_list">Burada hələ ki, element yoxdur. Əlavə etmək üçün \"Əlavə et\"ə toxunun.</string>

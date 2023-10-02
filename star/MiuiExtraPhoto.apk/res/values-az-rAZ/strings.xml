@@ -180,7 +180,7 @@
     <string name="motion_photo_save_video">Video olaraq saxla</string>
     <string name="motion_photo_save_video_ing">Video yaddaşda saxlanılır…</string>
     <string name="motion_photo_toast_default">İlkin</string>
-    <string name="motion_photo_toast_long_press_play">Oxutmaq üçün fotoya basılı saxlayın</string>
+    <string name="motion_photo_toast_long_press_play">Oxutmaq üçün fotonu basılı tutun</string>
     <string name="motion_photo_toast_suggest">Tövsiyə edilən</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>

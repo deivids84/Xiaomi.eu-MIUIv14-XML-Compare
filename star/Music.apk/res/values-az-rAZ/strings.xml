@@ -201,7 +201,7 @@
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
     <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_update_button">Güncəllə</string>
     <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləyənə qədər %1$s işləməyəcək."</string>
@@ -1546,13 +1546,13 @@ Xoşbəxt ol"</string>
 
 Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</string>
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, lütfən Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
     <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
 Həcmi: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s
 Delta güncəlləmə həcmi: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s güncəlləməsi!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, zəhmət olmasa SD kartı yoxlayın.</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, lütfən SD kartı yoxlayın.</string>
     <string name="yandex_ads_internal_instream_call_to_action">Get ➔</string>
     <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
     <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>

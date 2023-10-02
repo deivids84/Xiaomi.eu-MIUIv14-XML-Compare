@@ -96,7 +96,7 @@ siyahısına əlavə edildi"</string>
     <string name="block_messaging_entry_title">Əngəllənmiş SMS</string>
     <string name="block_number_message">Bu telefon nömrəsi əngəlli siyahısına əlavə ediləcək. Bu nömrədən gələn bütün mesajlar əngəllənəcək.</string>
     <string name="block_support_text">Antiy tərəfindən dəstələklənir.</string>
-    <string name="block_tag_message">%s tərəfindən göndərilən bütün mesajlar əngəllənəcək. Bu xidmət tərəfindən göndərilən təsdiqləmə kodlarını və ya fakturaları ala bilməyəcəksiniz.</string>
+    <string name="block_tag_message">%s tərəfindən göndərilən bütün mesajlar əngəllənəcək. Bu xidmət tərəfindən göndərilən doğrulama kodlarını və ya fakturaları ala bilməyəcəksiniz.</string>
     <string name="bookmark">Sevimlilərə əlavə edildi</string>
     <string name="bookmark_confirm_delete_message">Seçilmiş mesajlar sevimlilərdən silinsin?</string>
     <string name="bookmark_empty">Sevimlilərdə mesaj yoxdur</string>
@@ -215,7 +215,7 @@ siyahısına əlavə edildi"</string>
     <string name="dialog_cancel">İmtina</string>
     <string name="dialog_choice_all_correct_as_normal">%s göndərən bütün mesajlar</string>
     <string name="dialog_complain_tips">Elementləri bildirə bilməsi üçün \"Mesajlaşma\"nın şəbəkəyə bağlanmasına icazə verin.</string>
-    <string name="dialog_message_correct_as_ad">%s göndərən bütün mesajlar (təsdiqləmə kodları istisna olmaqla) promosyon mesajlarına daşınacaq.</string>
+    <string name="dialog_message_correct_as_ad">%s göndərən bütün mesajlar (doğrulama kodları istisna olmaqla) promosyon mesajlarına daşınacaq.</string>
     <string name="dialog_message_fake_cell_detect_error">Bu mesaj haqqında məlumat düzəldilsin? Bunu etmək üçün MIUI, telefon nömrəsini (%1$s), mesajın məzmununu və yaxınlıqdakı yer haqqında məlumatları serverlərinə yükləməlidir.</string>
     <string name="dialog_message_mx">Mi Mesaj, heç bir ödəniş etmədən digər MIUI istifadəçilərinə mesaj göndərməyinizə imkan verir. \"Mi Mesaj\"ı aktivləşdirmək üçün bir SMS mesajı göndərilməlidir. Operatorunuz bu mesaj üçün sizdən ödəniş alacaq. \"Mi Mesaj\"ı istifadə etməzdən əvvəl \"%1$s\" və \"%2$s\" ilə razılaşmalısınız.</string>
     <string name="dialog_quit">Çıx</string>
@@ -730,7 +730,7 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="rcs_auto_resume">Yarımçıq kəsilmiş yükləmələri avtomatik davam etdir</string>
     <string name="rcs_auto_resume_only_by_wifi">Yükləmələri yalnız Wi-Fi-ya bağlandıqda davam etdir</string>
     <string name="rcs_chat_bot_instruction">Sahibi haqqında</string>
-    <string name="rcs_chat_bot_subject">%1$s tərəfindən təsdiqlənib</string>
+    <string name="rcs_chat_bot_subject">%1$s tərəfindən doğrulandı</string>
     <string name="rcs_chatbot_a2p_message">Bir A2P mesajı aldınız. Detallara baxmaq üçün toxunun.</string>
     <string name="rcs_chatbot_audio_message">Bir səsli mesaj aldınız. Detallara baxmaq üçün toxunun.</string>
     <string name="rcs_chatbot_blocked_tip">"Əngəlli siyahınızda söhbət botları ilə söhbət edə bilməzsiniz"</string>
@@ -1166,7 +1166,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="verification_code_list_title">Təsdiqləmə kodları</string>
+    <string name="verification_code_list_title">Doğrulama kodları</string>
     <string name="verification_code_safety_warning">"Bu kodları başqalarına verməyin"</string>
     <string name="video_compress_failed">"Video sıxışdırıla bilmədi"</string>
     <string name="video_compressing">Video sıxışdırılır…</string>

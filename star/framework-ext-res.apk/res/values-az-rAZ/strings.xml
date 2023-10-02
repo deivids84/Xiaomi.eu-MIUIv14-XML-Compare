@@ -469,7 +469,7 @@
     <string name="slavewifi_disconnect">Bağlantını kəs</string>
     <string name="slavewifi_notification_title">İki bantlı Wi-Fi istifadə edilir</string>
     <string name="slavewifi_settings">Tənzimləmələri dəyişdirmək üçün toxunun</string>
-    <string name="small_freeform_check_memory_exception_message">%1$s yaddaş xətasına səbəb oldu. Gecikmənin qarşısını almaq üçün bu tətbiqi bağlayın.</string>
+    <string name="small_freeform_check_memory_exception_message">%1$s yaddaş xətasına səbəb oldu. Gecikməni önləmək üçün bu tətbiqi bağlayın.</string>
     <string name="small_freeform_check_memory_exception_negative_message">İmtina</string>
     <string name="small_freeform_check_memory_exception_positive_message">Bağla</string>
     <string name="small_freeform_enter_warning">Üzən pəncərə</string>

@@ -177,7 +177,7 @@
     <string name="doodle_tool_eraser_pixel_mode">Piksel silgisi</string>
     <string name="doodle_tool_picture">Təsvir əlavə et</string>
     <string name="doodle_tool_text">Mətn əlavə et</string>
-    <string name="doodle_tool_text_dialog_hint">Zəhmət olmasa mətn daxil edin</string>
+    <string name="doodle_tool_text_dialog_hint">Lütfən mətn daxil edin</string>
     <string name="doodle_tool_text_hint">Mətn daxil etmək üçün toxunun</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_header_lock_description">Gizli qeyd</string>

@@ -153,7 +153,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="discard_draft_dialog_content">"Bu hesabatda etdiyiniz dəyişikliklərin hamısı itəcək."</string>
     <string name="discard_draft_dialog_title">Qaralama silinsin?</string>
     <string name="doing_query_account">Hesab məlumatı yoxlanılır…</string>
-    <string name="dynamic_dialog_content">Xüsusi problem yaxalama rejiminə aid olan və proqramın işlədildiyi qeyd (sistem zəngləri və sair daxil olmaqla) məlumatlarını ehtiva edən dinamik jurnal funksiyasını açmaq üzrəsiniz. Dinamik jurnal fəallaşdırıldıqdan sonra, sistemdə gecikmə və isinmə kimi problemlər yarana bilər (bu normaldır). Jurnal yaxalama bitdikdən sonra sistem avtomatik olaraq sönəcək. Zəhmət olmasa ehtiyatlı olun və problem yenidən görünən kimi əks-əlaqə verin. Aşağıdakı \"Razıyam\"ı seçərək bunlarla razılaşırsınız: yuxarıdakı dataları növbəti qeyd seansı üçün yığacağıq və əks-əlaqədə qeyd olunan problemi həll etmək üçün bu datalar bizə göndəriləcək</string>
+    <string name="dynamic_dialog_content">Xüsusi problem yaxalama rejiminə aid olan və proqramın işlədildiyi qeyd (sistem zəngləri və sair daxil olmaqla) məlumatlarını ehtiva edən dinamik jurnal funksiyasını açmaq üzrəsiniz. Dinamik jurnal fəallaşdırıldıqdan sonra, sistemdə gecikmə və isinmə kimi problemlər yarana bilər (bu normaldır). Jurnal yaxalama bitdikdən sonra sistem avtomatik olaraq sönəcək. Lütfən ehtiyatlı olun və problem yenidən görünən kimi əks-əlaqə verin. Aşağıdakı \"Razıyam\"ı seçərək bunlarla razılaşırsınız: yuxarıdakı dataları növbəti qeyd seansı üçün yığacağıq və əks-əlaqədə qeyd olunan problemi həll etmək üçün bu datalar bizə göndəriləcək</string>
     <string name="dynamic_dialog_negative_text">Razı deyiləm</string>
     <string name="dynamic_dialog_notification_text">Lütfən problem yenidən göründükdən sonra vaxtında əks-əlaqə verin. Funksiya avtomatik bağlanacaq</string>
     <string name="dynamic_dialog_notification_title">Dinamik jurnal alınması fəaldır</string>
@@ -163,7 +163,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dynamic_log_float_dump_activity">dump fəaliyyət</string>
     <string name="dynamic_log_float_dump_window">dump pəncərə</string>
     <string name="dynamic_log_load_text">Yüklənir...</string>
-    <string name="dynamic_log_restore_toast_text">Cihaz dinamik jurnalı bərpa edir, zəhmət olmasa daha sonra yenidən sınayın!</string>
+    <string name="dynamic_log_restore_toast_text">Cihaz dinamik jurnalı bərpa edir, lütfən daha sonra yenidən sınayın!</string>
     <string name="dynamic_log_title">Dinamik Jurnal</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
@@ -810,12 +810,12 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="withdraw_consent_hint">"Davam etsəniz, %1$s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %2$s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %3$s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="withdrawing">Razılıq geri götürülür…</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, zəhmət olmasa Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, lütfən Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
     <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyası ilə tanış olun
 Ölçüsü: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s
 Delta güncəlləmə həcmi: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s güncəlləməsi!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, zəhmət olmasa SD kartı yoxlayın.</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, lütfən SD kartı yoxlayın.</string>
     <string name="yesterday">Dünən</string>
 </resources>

@@ -585,7 +585,7 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="controls_favorite_load_error">Kontrollar yüklənə bilmədi. Tətbiq tənzimləmələrinin dəyişmədiyinə əmin olmaq üçün %s tətbiqini yoxlayın.</string>
     <string name="controls_favorite_load_none">Uyğun kontrollar əlçatmazdır</string>
     <string name="controls_favorite_other_zone_header">Digər</string>
-    <string name="controls_favorite_rearrange">Kontrolları yenidən düzmək üçün basıb sürükləyin</string>
+    <string name="controls_favorite_rearrange">Kontrolları yenidən düzmək üçün basılı tutun və sürükləyin</string>
     <string name="controls_favorite_removed">Bütün kontrollar silindi</string>
     <string name="controls_favorite_see_other_apps">Digər tətbiqlərə baxın</string>
     <string name="controls_favorite_subtitle">Cəld Tənzimləmələrdən müraciət ediləcək kontrolları seçin</string>
@@ -712,8 +712,8 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="done">Hazırdır</string>
     <string name="download_lock_wallpaper">\"Divar kağızı Karuseli\"ni endirmək üçün cüt toxunun</string>
     <string name="drag_split_not_supported">Bu bildiriş, Bölünmüş ekrana sürükləməyi dəstəkləmir.</string>
-    <string name="drag_to_add_tiles">Elementləri əlavə etmək və ya yenidən düzmək üçün basılı saxlayın</string>
-    <string name="drag_to_rearrange_tiles">Xanaları yenidən düzmək üçün basıb sürükləyin</string>
+    <string name="drag_to_add_tiles">Elementləri əlavə etmək və ya yenidən düzmək üçün basılı tutun</string>
+    <string name="drag_to_rearrange_tiles">Xanaları yenidən düzmək üçün basılı tutun və sürükləyin</string>
     <string name="drag_to_remove_disabled">Ən azı %1$d xana lazımdır</string>
     <string name="drag_to_remove_tiles">Çıxartmaq üçün bura sürükləyin</string>
     <string name="dream_complication_title_aqi">Hava keyfiyyəti</string>
@@ -1083,7 +1083,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="keyguard_sim_locked_message">SIM kart kilidlidir.</string>
     <string name="keyguard_sim_puk_locked_message">SIM kart PUK ilə kilidlənib.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM kart kilidi açılır…</string>
-    <string name="keyguard_torch_cover_text">Fənəri yandırmaq üçün Güc düyməsinə basılı saxlayın</string>
+    <string name="keyguard_torch_cover_text">Fənəri yandırmaq üçün Güc düyməsini basılı tutun</string>
     <string name="keyguard_try_fingerprint">Açmaq üçün barmaq izini istifadə et</string>
     <string name="keyguard_unlock">Açmaq üçün yuxarı sürüşdür</string>
     <string name="keyguard_unlock_press">Açmaq üçün kilid açma nişanına basın</string>
@@ -1613,7 +1613,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="phone_locked_foget_password_method_content"><Data>Fotolar və kontaktlar daxil olmaqla cihazınızdakı &lt;font color=#a5220e&gt;bütün datanı silməyiniz &lt;/font&gt; daha sonra yeni bir Kilid ekranı parolu təyin etməyiniz lazımdır.</Data></string>
     <string name="phone_locked_foget_password_method_next">Növbəti</string>
     <string name="phone_locked_foget_password_ok">Anladım</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı söndürün, Mi loqosunu görənə qədər eyni anda &lt;font color=#a5220e&gt;Güc düyməsi&lt;/font&gt; və &lt;font color=#a5220e&gt;Səs artırma düyməsini&lt;/font&gt; basılı saxlayın.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı söndürün, Mi loqosunu görənə qədər eyni anda &lt;font color=#a5220e&gt;Güc düyməsi&lt;/font&gt; və &lt;font color=#a5220e&gt;Səs artırma düyməsini&lt;/font&gt; basılı tutun.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e&gt;\"Sil &amp;amp; Sıfırla\"&lt;/font&gt; seçin, cihaz yenidən başladılana qədər gözləyin.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Data necə silinir?</string>
     <string name="phone_locked_string">Bu cihaz kilidlidir</string>
@@ -1859,7 +1859,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_sim_disabled">" (Sıradan çıxarıldı)"</string>
     <string name="quick_settings_sync_label">Sinxr</string>
     <string name="quick_settings_tiles_stock">internet;bt;fənər;narahat etməyin;zəngli saat;təyyarə;kontrollar;pulqabı;döndərmə;batareya;yayım;ekranyazma;mikrofonua açıb bağlama;kameranı açıb bağlama;yerləşmə;hotspot;tərs;qənaət;tünd;iş;gecə;əks;parlaqlığı_azalt;qr_kod_skaneri;təkəl;rəng_düzəltmə</string>
-    <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir element əlavə etmək üçün ona basılı saxlayın, daha sonra onu panelin üst hissəsinə sürükləyin.</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir element əlavə etmək üçün elementi basılı tutun, daha sonra onu panelin üst hissəsinə sürükləyin.</string>
     <string name="quick_settings_ui_mode_night_label">Qaranlıq tema</string>
     <string name="quick_settings_user_title">İstifadəçi</string>
     <string name="quick_settings_vibrate_label">Titrəmə</string>
@@ -1913,20 +1913,20 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="save">Saxla</string>
     <string name="saved_network">%1$s tərəfindən saxlanıldı</string>
     <string name="screen_pinning_can_open_other_apps">Sancılmış tətbiq digər tətbiqləri aça bilər.</string>
-    <string name="screen_pinning_description">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Geriyə və İcmala basılı saxlayın.</string>
-    <string name="screen_pinning_description_accessible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün İcmala basılı saxlayın.</string>
-    <string name="screen_pinning_description_gestural">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün yuxarı sürüşdürüb basılı saxlayın.</string>
-    <string name="screen_pinning_description_recents_invisible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Geriyə və Əsas ekran düyməsinə basılı saxlayın.</string>
-    <string name="screen_pinning_description_recents_invisible_accessible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Əsas ekran düyməsinə basılı saxlayın.</string>
+    <string name="screen_pinning_description">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Geriyə və İcmala basılı tutun.</string>
+    <string name="screen_pinning_description_accessible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün İcmala basılı tutun.</string>
+    <string name="screen_pinning_description_gestural">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün yuxarı sürüşdürüb basılı tutun.</string>
+    <string name="screen_pinning_description_recents_invisible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Geriyə və Əsas ekran düyməsini basılı tutun.</string>
+    <string name="screen_pinning_description_recents_invisible_accessible">Bu, siz sancağı götürənə qədər görünəcək. Sancağı götürmək üçün Əsas ekran düyməsini basılı tutun.</string>
     <string name="screen_pinning_exit">Tətbiq sancağı götürüldü</string>
     <string name="screen_pinning_exposes_personal_data">Şəxsi datalara (kontaktlar və e-poçt məzmunu kimi) müraciət edilə bilər.</string>
     <string name="screen_pinning_negative">Xeyr, təşəkkürlər</string>
     <string name="screen_pinning_positive">Anladım</string>
     <string name="screen_pinning_start">Tətbiq sancıldı</string>
     <string name="screen_pinning_title">Tətbiq sancıldı</string>
-    <string name="screen_pinning_toast">Bu tətbiqdən sancağı götürmək üçün Geri və İcmal düymələrinə basılı saxlayın</string>
-    <string name="screen_pinning_toast_gesture_nav">Bu tətbiqdən sancağı götürmək yuxarı sürüşdürüb basılı saxlayın</string>
-    <string name="screen_pinning_toast_recents_invisible">Bu tətbiqdən sancağı götürmək üçün Geri və Əsas ekran düymələrinə basılı saxlayın</string>
+    <string name="screen_pinning_toast">Bu tətbiqdən sancağı götürmək üçün Geri və İcmal düymələrini basılı tutun</string>
+    <string name="screen_pinning_toast_gesture_nav">Bu tətbiqdən sancağı götürmək yuxarı sürüşdürüb basılı tutun</string>
+    <string name="screen_pinning_toast_recents_invisible">Bu tətbiqdən sancağı götürmək üçün Geri və Əsas ekran düymələrini basılı tutun</string>
     <string name="screen_zoom_summary_custom">Özəl (%d)</string>
     <string name="screen_zoom_summary_default">İlkin</string>
     <string name="screen_zoom_summary_extremely_large">Ən böyük</string>
@@ -2027,7 +2027,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="show_screen_updates_summary">Güncəllənəndə bütün pəncərə səthləri yanıb sönür</string>
     <string name="show_touches">Toxunuşları göstər</string>
     <string name="show_touches_summary">Toxunuşlar üçün əyani əks-əlaqə göstər</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>&lt;img src=\"\"&gt; görənə qədər &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; və &lt;font color=#e6e6e6&gt;[Səs +]&lt;/font&gt; düymələrinə basılı saxlayın.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>&lt;img src=\"\"&gt; görənə qədər &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; və &lt;font color=#e6e6e6&gt;[Səs +]&lt;/font&gt; düymələrini basılı tutun.</Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Bundan sonra &lt;font color=#e6e6e6&gt;[\"Məlumatları təmizlə\"ni (Wipe data)]&lt;/font&gt; seçin və &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; seçiminə toxunun.</Data></string>
     <string name="sim_state_locked_dialog_title">Yararsız SIM kart</string>
     <string name="sim_state_locked_puk_dialog_message">"PUK kodu ən azı %d dəfə yanlış daxil etdiniz. SIM kartınız artıq yararsızdır. Bu SIM kartı başqası ilə əvəz edin."</string>

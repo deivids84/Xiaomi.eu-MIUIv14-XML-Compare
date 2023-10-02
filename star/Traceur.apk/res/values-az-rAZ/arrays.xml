@@ -232,7 +232,7 @@
         <item></item>
         <item>Skan edilir…</item>
         <item>Bağlantı qurulur…</item>
-        <item>Kimlik təsdiqlənir…</item>
+        <item>Kimlik doğrulanır…</item>
         <item>IP ünvanı alınır…</item>
         <item>Bağlantılıdır</item>
         <item>Dayandırılıb</item>
@@ -246,7 +246,7 @@
         <item></item>
         <item>Skan edilir…</item>
         <item>%1$s ilə bağlantı qurulur…</item>
-        <item>%1$s üzərində kimlik təsdiqlənir…</item>
+        <item>%1$s ilə kimlik doğrulanır…</item>
         <item>%1$s şəbəkəsindən IP ünvanı alınır…</item>
         <item>%1$s ilə bağlantılıdır</item>
         <item>Dayandırılıb</item>
@@ -260,7 +260,7 @@
         <item></item>
         <item>Skan edilir…</item>
         <item>Bağlantı qurulur…</item>
-        <item>Kimlik təsdiqlənir…</item>
+        <item>Kimlik doğrulanır…</item>
         <item>IP ünvanı alınır…</item>
         <item>Bağlantılıdır</item>
         <item>Dayandırıldı</item>

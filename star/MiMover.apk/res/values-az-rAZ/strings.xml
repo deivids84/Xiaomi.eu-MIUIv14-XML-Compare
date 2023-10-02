@@ -106,9 +106,9 @@
     <string name="close">Bağla</string>
     <string name="close_cellular_summary">Sistem məhdudiyyətlərinə görə cihazınız indi mobil internet istifadə edir. Mobil interneti söndürün və yeni cihaza yenidən bağlanın.</string>
     <string name="close_cellular_title">"Bağlantı qurula bilmədi"</string>
-    <string name="close_twice_auth_btn">İki mərhələli kimlik təsdiqləməni söndür</string>
+    <string name="close_twice_auth_btn">İki faktorlu kimlik doğrulamanı söndür</string>
     <string name="close_twice_auth_note">"Qeyd:
-Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdən sonra, Apple Kimliyiniz üçün iki mərhələli kimlik təsdiqləmə söndürüləcək. Apple ID hesab səhifəsində iki mərhələli kimlik təsdiqləməni söndürmə seçimini görmürsünüzsə, onu söndürə bilməzsiniz."</string>
+Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra, Apple Kimliyinizin iki faktorlu kimlik doğrulaması söndürüləcək. Apple Kimliyi hesab səhifəsində iki faktorlu kimlik doğrulamanı söndürmə seçimini görmürsünüzsə, bunu söndürə bilməzsiniz."</string>
     <string name="close_twice_auth_operation">"URL:
 Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını ziyarət edin"</string>
     <string name="close_twice_auth_step_1">1. İstənilən kompüterdə istənilən brauzeri açın və appleid.apple.com ünvanına gedin.</string>
@@ -258,13 +258,13 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="host_verify_lock_retry">Ekran kilidini təsdiqlə</string>
     <string name="host_verify_lock_summary">"Bu, yeni cihazınızın ekran kilidi olacaq"</string>
     <string name="host_verify_lock_title">"Köhnə cihazınızın ekran kilidini daxil edin"</string>
-    <string name="hsa_code_null">"Təsdiqləmə kodu boş ola bilməz"</string>
-    <string name="hsa_input_tip">Apple Kimliyiniz, iki mərhələli kimlik təsdiqləməsi istifadə edir. Təsdiqləmə kodunu daxil edin.</string>
+    <string name="hsa_code_null">"Doğrulama kodu boş ola bilməz"</string>
+    <string name="hsa_input_tip">Apple Kimliyiniz, iki mərhələli kimlik doğrulamanı istifadə edir. Doğrulama kodunu daxil edin.</string>
     <string name="hsa_send_again">Yenidən göndər</string>
     <string name="hsa_send_again_countdown">Yenidən göndər (%d san)</string>
-    <string name="hsa_send_failed">"Təsdiqləmə kodu göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="hsa_send_failed">"Doğrulama kodu göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="hsa_sending">Göndərilir…</string>
-    <string name="hsa_tip_message">"Təsdiqləmə kodu ala bilmirsinizsə, Apple cihazınızda iCloud-a daxil olduğunuza əmin olun."</string>
+    <string name="hsa_tip_message">"Doğrulama kodunu ala bilmirsinizsə, Apple cihazınızdakı iCloud-da artıq hesabınıza daxil olduğunuza əmin olun."</string>
     <string name="hsa_tip_message_shutdown_hsa">İki mərhələli kimlik təsdiqləməsini necə söndürmək olar</string>
     <string name="hsa_tip_title">Kömək</string>
     <string name="hsa_verify_failed">"İki mərhələli kimlik təsdiqləməsi işləmir"</string>
@@ -664,7 +664,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="select_old_device_title">Köhnə cihaz modelini seçin</string>
     <string name="selected">Seçildi</string>
     <string name="send">Göndər</string>
-    <string name="send_verification_code_fail">"Təsdiqləmə kodu göndərilə bilmədi"</string>
+    <string name="send_verification_code_fail">"Doğrulama kodu göndərilə bilmədi"</string>
     <string name="send_verification_code_fail_tips">"Apple cihazınızda bu hesaba daxil olduğunuza əmin olun. Əks halda, kodu ala bilməyəcəksiniz."</string>
     <string name="sender">Göndər</string>
     <string name="sender_finish_bottom_tips">"Bu cihazdakı verilənləri silməzdən əvvəl bütün vacib elementləri nüsxələdiyinizə əmin olun."</string>

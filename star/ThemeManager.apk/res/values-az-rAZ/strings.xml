@@ -279,7 +279,7 @@
     <string name="dev_options_summary">Veb resurslar</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">Hazırkı tema, Kilid ekranı divar kağızının dəyişdirilməsiini dəstəkləməyə bilər.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Kilid ekranı divar kağızı</string>
-    <string name="dialog_content_get_device_status">Bu tətbiq, digər cihazlarınızda satın alınmış elementləri təsdiqləyə bilmək üçün cihazın kimliyinə müraciət etməlidir. Bu özəlliyi söndürdükdən sonra satın alınmış bəzi elementləri istifadə etmək mümkün olmaya bilər. Yenə də söndürülsün?</string>
+    <string name="dialog_content_get_device_status">Bu tətbiq, digər cihazlarınızda satın alınmış elementlərin kimliyini doğrulaya bilmək üçün cihazın kimliyinə müraciət etməlidir. Bu özəlliyi söndürdükdən sonra satın alınmış bəzi elementləri istifadə etmək mümkün olmaya bilər. Yenə də söndürülsün?</string>
     <string name="dialog_negative_button_text">İndi yox</string>
     <string name="dialog_positive_button_text">İcazə ver</string>
     <string name="dialog_show_never">"Təkrar göstərmə."</string>
@@ -1196,7 +1196,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="settings">Tənzimləmələr</string>
     <string name="settings_search_keyword_font_free">Ödənişsiz şriftlər</string>
     <string name="settings_search_keyword_font_home">Əsas ekran şriftləri</string>
-    <string name="settings_search_keyword_font_input">Giriş metodu şriftləri</string>
+    <string name="settings_search_keyword_font_input">Giriş üsulu şriftləri</string>
     <string name="settings_search_keyword_font_keyboard">Klaviatura şriftləri</string>
     <string name="settings_search_keyword_font_manager">Şriftləri idarə et</string>
     <string name="settings_search_keyword_font_online">Onlayn şriftlər</string>

@@ -123,8 +123,8 @@ onları İkinci sahədə göstərin"</string>
     <string name="dialog_title">Diqqət</string>
     <string name="dialog_title_service_error">Server xətası</string>
     <string name="dialog_undo_negative">"Ləğv etməyin"</string>
-    <string name="dialog_verify">Barmaq izinizi təsdiqləyin</string>
-    <string name="dialog_verify_fingerprint_retry">"Barmaq izi təsdiqlənə bilmədi. Yenidən sınayın."</string>
+    <string name="dialog_verify">Barmaq izinizi doğrulayın</string>
+    <string name="dialog_verify_fingerprint_retry">"Barmaq izi doğrulana bilmədi. Yenidən sınayın."</string>
     <string name="dir_switch_out_all_photos">İkinci sahə Qalereyası</string>
     <string name="disable">Söndür</string>
     <string name="do_not_ask">"Təkrar soruşma"</string>

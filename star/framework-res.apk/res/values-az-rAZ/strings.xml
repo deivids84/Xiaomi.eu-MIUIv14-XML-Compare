@@ -345,7 +345,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="beforeOneMonthDurationPast">1 ay əvvəl</string>
     <string name="biometric_app_setting_name">Biometrik istifadə et</string>
     <string name="biometric_dialog_default_subtitle">Davam etmək üçün biometrik istifadə edin</string>
-    <string name="biometric_dialog_default_title">Siz olduğunuzu təsdiqləyin</string>
+    <string name="biometric_dialog_default_title">Siz olduğunuzu doğrulayın</string>
     <string name="biometric_error_canceled">Kimlik təsdiqləmə ləğv edildi</string>
     <string name="biometric_error_device_not_secured">PIN, naxış və ya parol tənzimlənməyib</string>
     <string name="biometric_error_generic">Kimlik təsdiqləmə xətası</string>
@@ -619,7 +619,7 @@ nömrəni yığın"</string>
     <string name="face_authenticated_no_confirmation_required">Üz kimliyi təsdiqləndi</string>
     <string name="face_dialog_default_subtitle">Davam etmək üçün üzünüzü istifadə edin</string>
     <string name="face_error_canceled">Üz əməliyyatı ləğv edildi.</string>
-    <string name="face_error_hw_not_available">Üz təsdiqlənə bilmir. Avadanlıq təminatı əlçatmazdır.</string>
+    <string name="face_error_hw_not_available">Üz doğrulana bilmir. Avadanlıq təminatı əlçatmazdır.</string>
     <string name="face_error_hw_not_present">Üzlə kilid açma, bu cihazda dəstəklənmir</string>
     <string name="face_error_lockout">Həddindən çox cəhd edildi. Daha sonra yenidən sınayın.</string>
     <string name="face_error_lockout_permanent">Həddindən çox cəhd edildi. Üzlə kilid açma sıradan çıxarıldı.</string>
@@ -628,7 +628,7 @@ nömrəni yığın"</string>
     <string name="face_error_not_enrolled">\"Üzlə kilid açma\"nı quraşdırmadınız</string>
     <string name="face_error_security_update_required">Sensor müvəqqəti olaraq sıradan çıxarıldı.</string>
     <string name="face_error_timeout">\"Üzlə kilid açma\"nı yenidən sınayın</string>
-    <string name="face_error_unable_to_process">Üz təsdiqlənə bilmir. Yenidən sınayın.</string>
+    <string name="face_error_unable_to_process">Üz doğrulana bilmir. Yenidən sınayın.</string>
     <string name="face_error_user_canceled">Üzlə kilid açma, istifadəçi tərəfindən ləğv edildi</string>
     <string name="face_error_vendor_unknown">Nəsə səhv getdi. Yenidən sınayın.</string>
     <string name="face_icon_content_description">Üz nişanı</string>
@@ -708,10 +708,10 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="forward_intent_to_work">"Bu tətbiqi iş profilinizdə istifadə edirsiniz"</string>
     <string name="fp_power_button_bp_message">"Güc düyməsinə basdınız — bu, adətən ekranı söndürür.
 
-Barmaq izinizi təsdiqləmək üçün yüngülcə toxunmağa çalışın."</string>
+Barmaq izinizi doğrulamaq üçün yüngülcə toxunmağa çalışın."</string>
     <string name="fp_power_button_bp_negative_button">Davam</string>
     <string name="fp_power_button_bp_positive_button">Ekranı söndür</string>
-    <string name="fp_power_button_bp_title">Barmaq izinizi yoxlamağa davam edirsiniz?</string>
+    <string name="fp_power_button_bp_title">Barmaq izinizin doğrulanmağına davam edilsin?</string>
     <string name="fp_power_button_enrollment_message">"Güc düyməsinə basdınız — bu, adətən ekranı söndürür.
 
 Barmaq izinizi quraşdırarkən yüngülcə toxunmağa çalışın."</string>

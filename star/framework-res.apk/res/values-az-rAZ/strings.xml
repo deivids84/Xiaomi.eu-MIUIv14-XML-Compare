@@ -1181,7 +1181,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_title">%1$s üçün giriş xətası</string>
     <string name="notification_title_abusive_bg_apps">Bir tətbiq batareyanı boşaldır</string>
     <string name="notification_title_long_running_fgs">Bir tətbiq hələ də aktivdir</string>
-    <string name="notification_verified_content_description">Təsdiqləndi</string>
+    <string name="notification_verified_content_description">Doğrulandı</string>
     <string name="notification_work_profile_content_description">İş profili</string>
     <string name="now_string_shortest">i̇ndi</string>
     <string name="number_picker_decrement_button">Azalt</string>

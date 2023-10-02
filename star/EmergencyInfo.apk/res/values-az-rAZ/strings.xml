@@ -760,7 +760,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wifi_disabled_by_recommendation_provider">Aşağı keyfiyyətli şəbəkəyə görə bağlantı qurulmadı</string>
     <string name="wifi_disabled_generic">Sıradan çıxarıldı</string>
     <string name="wifi_disabled_network_failure">IP Konfiqurasiya Xətası</string>
-    <string name="wifi_disabled_password_failure">Kimlik təsdiqləmə problemi</string>
+    <string name="wifi_disabled_password_failure">Kimlik doğrulama problemi</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi Bağlantı Xətası</string>
     <string name="wifi_disconnected">Bağlantı kəsildi</string>
     <string name="wifi_display_certification">Naqilsiz ekran sertifikatı</string>
@@ -796,7 +796,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wifi_wapi_as_certificate">AS sertifikatı</string>
     <string name="wifi_wapi_cert_mode_hand_text">Sertifikatı əllə seçin</string>
     <string name="wifi_wapi_certification_dont_exist">WAPI sertifikatları mövcud deyil. Zəhmət olmasa onları quraşdırın.</string>
-    <string name="wifi_wapi_fail_to_auth">"WAPI kimlik təsdiqləməsi uğursuz oldu
+    <string name="wifi_wapi_fail_to_auth">"WAPI kimlik doğrulaması uğursuz oldu
 Zəhmət olmasa sertifikatların etibarlılığını yoxlayın"</string>
     <string name="wifi_wapi_fail_to_init">"WAPI sertifikatları açıla bilmir
 Kimlik məlumatı anbarı fəal olmaya bilər"</string>
@@ -821,7 +821,7 @@ Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Cihaza bağlandı. İnternet təmin edilə bilmir."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Sıradan çıxarıldı</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP konfiqurasiya xətası</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Kimlik təsdiqləmə problemi</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Kimlik doğrulama problemi</string>
     <string name="wifitrackerlib_wifi_disconnected">Bağlantı kəsildi</string>
     <string name="wifitrackerlib_wifi_limited_connection">Limitli bağlantı</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Bağlantı qurula bilmir. Daha sonra yenidən sınayın."</string>

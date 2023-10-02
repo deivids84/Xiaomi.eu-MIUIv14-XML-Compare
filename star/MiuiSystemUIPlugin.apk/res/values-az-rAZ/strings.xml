@@ -126,7 +126,7 @@
     <string name="controls_pin_instructions">PIN daxil et</string>
     <string name="controls_pin_instructions_retry">Digər PIN-i sınayın</string>
     <string name="controls_pin_use_alphanumeric">PIN hərflər və ya simvollar ehtiva edir</string>
-    <string name="controls_pin_verify">Təsdiqlə %s</string>
+    <string name="controls_pin_verify">Doğrula %s</string>
     <string name="controls_pin_wrong">Yanlış PIN</string>
     <string name="controls_providers_title">Kontrol əlavə edəcək tətbiqi seçin</string>
     <string name="controls_seeding_in_progress">Tövsiyələr yüklənir</string>

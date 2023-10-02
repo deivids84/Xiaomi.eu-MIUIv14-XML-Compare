@@ -1288,7 +1288,7 @@ mövcuddur"</string>
     <string name="input_a_name">Adı daxil edin</string>
     <string name="input_baby_name">Ləqəbi dəyişdir</string>
     <string name="input_baby_nick_name">Ləqəbi daxil edin</string>
-    <string name="input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
+    <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_nickname_toast">"Körpənin adını daxil edin"</string>
     <string name="input_or_select_a_name">Adı daxil edin və ya seçin</string>
     <string name="input_relation_name">Qrup adını daxil edin</string>
@@ -2331,7 +2331,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="request_agree">İcazə ver</string>
     <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="request_cancel">İmtina</string>
-    <string name="request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
+    <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
@@ -3174,7 +3174,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="update_btn_positive">Güncəllə</string>
     <string name="update_check">Güncəlləmələri yoxla</string>
     <string name="update_check_title">Hazırkı versiya: %s</string>
-    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_ignore">Bu versiyanı yox say</string>
     <string name="update_latest_version">Hazırkı versiya güncəldir</string>

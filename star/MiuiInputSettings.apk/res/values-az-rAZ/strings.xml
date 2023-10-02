@@ -161,7 +161,7 @@
     <string name="google_assistant_guide_cancel">İmtina</string>
     <string name="google_assistant_guide_message">\"Google Köməkçi\"si ilə danışmağa başlamaq üçün Güc düyməsini %s saniyə basılı tutun. Bu qısayol indi tənzimlənsin?</string>
     <string name="google_assistant_guide_ok">Tənzimlə</string>
-    <string name="google_assistant_guide_tip">*Söndürmə menyusunu açmaq üçün Güc düyməsinə %s basılı saxlayın.</string>
+    <string name="google_assistant_guide_tip">*Söndürmə menyusunu açmaq üçün Güc düyməsinə %s saniyə basılı tutun.</string>
     <string name="google_assistant_guide_title">Google Köməkçisi</string>
     <string name="google_pay">Google Pay</string>
     <string name="home_app">Başladıcı</string>
@@ -205,7 +205,7 @@
     <string name="keyboard_connect_success_text">Klaviatura uğurla bağlantılıdır</string>
     <string name="keyboard_cursor_style_title">Kursor üslubu</string>
     <string name="keyboard_cursor_title">Kursor</string>
-    <string name="keyboard_function_summary_first_line">·Qısayolları göstərmək üçün basılı saxlayın.</string>
+    <string name="keyboard_function_summary_first_line">·Qısayolları göstərmək üçün basılı tutun.</string>
     <string name="keyboard_function_summary_second_line">·Ekranı ötürmək üçün eyni hesaba daxil olmuş bir telefonla klaviaturanın NFC sahəsinə toxunun. Cihazlar arasında asanlıqla köçürmək üçün bir fayl və ya foto seçin.</string>
     <string name="keyboard_funtion_key">Funksiya açarı</string>
     <string name="keyboard_layout_default_label">İlkin</string>
@@ -291,7 +291,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="long_press_power_guide_title">Güc düyməsi ilə oyandır</string>
     <string name="long_press_power_key">Güc düyməsinə uzun bas</string>
     <string name="long_press_power_key_half_of_second">\"Google Köməkçisi\"ni işə salmaq üçün Güc düyməsini 0.5 saniyə basılı tutun</string>
-    <string name="long_press_power_key_half_second">Güc düyməsinə %s saniyə basılı saxlayın</string>
+    <string name="long_press_power_key_half_second">Güc düyməsinə %s saniyə basılı tutun</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Güc düyməsini uzun basmaq&lt;font color=#999999&gt;daha sürətli və daha əlverişlidir&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Səs azaltma düyməsinə uzun bas</string>
     <string name="media_button">Media düyməsi</string>
@@ -381,11 +381,11 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="pointer_settings_category">Siçan/trekpad</string>
     <string name="pointer_speed">Kursor sürəti</string>
     <string name="power_key_how_power_force_off">Cihazınızı necə məcburi yenidən başlada bilərsiniz</string>
-    <string name="power_key_how_power_force_off_detail">Cihazınız yenidən başlayana qədər Güc düyməsinə basılı saxlayın</string>
+    <string name="power_key_how_power_force_off_detail">Cihazınız yenidən başlayana qədər Güc düyməsini basılı tutun</string>
     <string name="power_key_how_power_off">Söndürmə səhifəsinə necə gedilir</string>
-    <string name="power_key_how_power_off_detail">Güc düyməsinə 3 saniyə basılı saxlayın</string>
+    <string name="power_key_how_power_off_detail">Güc düyməsini 3 saniyə basılı tutun</string>
     <string name="power_key_how_start">Google Köməkçisi necə oyandırılır</string>
-    <string name="power_key_how_start_detail">Güc düyməsinə 0.5 saniyə basılı saxlayın. Danışmaq üçün buraxın.</string>
+    <string name="power_key_how_start_detail">Güc düyməsini 0.5 saniyə basılı tutun. Danışmaq üçün buraxın.</string>
     <string name="power_key_start_enjoy">\"Google Köməkçisi\"ni istifadə etməyə başla</string>
     <string name="power_key_start_guide">Tam ekran cihazlarda Güc düyməsini istifadə edərək \"Google Köməkçisi\"ni oyandırın</string>
     <string name="pref_volume_launch_camera_summary">Kameranı başlatmaq üçün Səsi azaltma düyməsinə iki dəfə basın</string>
@@ -493,12 +493,12 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="stylus_quick_note_summary">Ekran sönülü olduqda, yazmağa başlamaq üçün qələminizlə ona toxunun. Bu özəllik enerji sərfiyyatını artırır.</string>
     <string name="stylus_quick_note_title">Ekran sönülü ikən yaz</string>
     <string name="stylus_quick_write">Yaz</string>
-    <string name="stylus_quick_write_summary">Yazmaq və ya çəkmək üçün yazma düyməsini basılı saxlayın</string>
+    <string name="stylus_quick_write_summary">Yazmaq və ya çəkmək üçün yazma düyməsini basılı tutun</string>
     <string name="stylus_schematic_diagram">Demo</string>
     <string name="stylus_screen_shot">Ekran şəkli çək</string>
-    <string name="stylus_screen_shot_summary">Ekran şəkli çəkmək və ona düzəliş etmək üçün ekran şəkli düyməsini basılı saxlayın</string>
+    <string name="stylus_screen_shot_summary">Ekran şəkli çəkmək və ona düzəliş etmək üçün ekran şəkli düyməsini basılı tutun</string>
     <string name="stylus_settings_title">Qələm</string>
-    <string name="stylus_shortcut_actions_summary">Yazmaq üçün birinci düyməni basılı saxlayın. Ekran şəkli çəkmək üçün ikinci düyməni basılı saxlayın.</string>
+    <string name="stylus_shortcut_actions_summary">Yazmaq üçün birinci düyməni basılı tutun. Ekran şəkli çəkmək üçün ikinci düyməni basılı tutun.</string>
     <string name="stylus_shortcut_actions_title">Cəld əməliyyatlar</string>
     <string name="stylus_shortcut_title_note">Yazı</string>
     <string name="stylus_shortcut_title_screenshot">Ekran şəkli</string>
@@ -552,7 +552,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Səsli köməkçini tam ekran rejimində oyandırın (virtual düymələr yoxdur)</string>
     <string name="three_gesture_down">3 barmaqla aşağı sürüşdür</string>
     <string name="three_gesture_horizontal">%d barmaqla üfüqi sürüşdür</string>
-    <string name="three_gesture_long_press">%d barmaqla basıb saxla</string>
+    <string name="three_gesture_long_press">%d barmaqla basılı tutun</string>
     <string name="three_gesture_pc_mode">PC rejimini işə sal</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>

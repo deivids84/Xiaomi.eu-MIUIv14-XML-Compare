@@ -631,7 +631,7 @@
     <string name="description_image_button_three">üç</string>
     <string name="description_image_button_two">iki</string>
     <string name="description_image_button_zero">sıfır</string>
-    <string name="description_voicemail_button">səsli mesaj</string>
+    <string name="description_voicemail_button">səsli poçt</string>
     <string name="detect_fakecell">Saxta baza stansiyalarından gələn SMS-ləri tanıyın</string>
     <string name="dialFailed_low_battery">Batareya səviyyəsi aşağı olduğu üçün görüntülü zəng edilə bilmir.</string>
     <string name="dial_emergency_calling_not_available">Fövqəladə hal zəngi edilə bilmir</string>
@@ -855,7 +855,7 @@
     <string name="full_forwarding_number_prefix">"Telefon nömrəsi: "</string>
     <string name="full_forwarding_option_forwarding">Yönləndirmə</string>
     <string name="full_forwarding_option_off">BAĞLI</string>
-    <string name="full_forwarding_option_voicemail">Səsli mesaj</string>
+    <string name="full_forwarding_option_voicemail">Səsli poçt</string>
     <string name="full_forwarding_settings">Tam yönləndirmə</string>
     <string name="fw_change_failed">"Yönləndirmə nömrəsi dəyişdirilə bilmədi.
 Bu problem davam etsə, mobil operatorunuzla əlaqə saxlayın."</string>
@@ -887,7 +887,7 @@ Yenə də yeni provayderə keçilsin?"</string>
     <string name="incall_error_cannot_add_call">Zəng hal-hazırda əlavə edilə bilmir. Mesaj göndərərək əlaqə saxlaya bilərsiniz.</string>
     <string name="incall_error_ecm_emergency_only">Fövqəladə olmayan zəng etmək üçün fövqəladə geri zəng rejimindən çıxın.</string>
     <string name="incall_error_emergency_only">Şəbəkədə qeydiyyatsız.</string>
-    <string name="incall_error_missing_voicemail_number">Səsli mesaj nömrəsi bilinmir.</string>
+    <string name="incall_error_missing_voicemail_number">Səsli poçt nömrəsi bilinmir.</string>
     <string name="incall_error_no_phone_number_supplied">Zəng etmək üçün, yararlı bir nömrə daxil edin.</string>
     <string name="incall_error_out_of_service">Mobil şəbəkə əlçatmazdır.</string>
     <string name="incall_error_out_of_service_kr">Yalnız fövqəladə hal zəngi edilə bilər.</string>
@@ -1295,8 +1295,8 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
     <string name="no_rtt_when_roaming">Qeyd: Rouminqdə olarkən RTT əlçatmazdır</string>
     <string name="no_unlock_chance_hint">"Yenidən sınama cəhdiniz yoxdur.
 Zəhmət olmasa operatorunuzla əlaqə saxlayın"</string>
-    <string name="no_vm_number">Əskik səsli mesaj nömrəsi</string>
-    <string name="no_vm_number_msg">SIM kartda heç bir səsli mesaj nömrəsi yoxdur.</string>
+    <string name="no_vm_number">Əskik səsli poçt nömrəsi</string>
+    <string name="no_vm_number_msg">SIM kartda heç bir səsli poçt nömrəsi yoxdur.</string>
     <string name="no_voice_capability">"Operatorla əlaqə saxlanıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="no_voip">"SIP zəngi dəstəklənmir"</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">"Zəng edilə bilmir. HD səs xidməti, SIM %d üçün qeydiyyatdan keçirilməyib (China Broadnet)."</string>
@@ -1316,10 +1316,10 @@ Zəhmət olmasa operatorunuzla əlaqə saxlayın"</string>
     <string name="notification_network_selection_title">Xidmət yoxdur</string>
     <string name="notification_switch_auto_text">"Deyəsən, geri qayıtdınız. Yerli şəbəkələrə dəyişdirildi."</string>
     <string name="notification_switch_auto_title">Mobil şəbəkələr</string>
-    <string name="notification_voicemail_no_vm_number">Səsli mesaj nömrəsi bilinmir</string>
+    <string name="notification_voicemail_no_vm_number">Səsli poçt nömrəsi bilinmir</string>
     <string name="notification_voicemail_text_format">Zəng et: %s</string>
-    <string name="notification_voicemail_title">Yeni səsli mesaj</string>
-    <string name="notification_voicemail_title_count">Yeni səsli mesaj (%d)</string>
+    <string name="notification_voicemail_title">Yeni səsli poçt</string>
+    <string name="notification_voicemail_title_count">Yeni səsli poçt (%d)</string>
     <string name="nr_network_info">5G şəbəkə istifadə məlumatı</string>
     <string name="nr_usaged_first_used_time">5G şəbəkəsində qeydiyyatlı</string>
     <string name="nr_usaged_module">Cihaz modeli</string>
@@ -1425,7 +1425,7 @@ Yenidən sınayın və ya daha çox seçim üçün müştəri xidmətlərinə z�
     <string name="path_telocation_custom_location_title">Sistem tətbiqləri/Telefon/Yerləşmə/Yerləşmələrim</string>
     <string name="path_telocation_enable_title">Sistem tətbiqləri/Telefon/Yerləşmə/Yerləşməni göstər</string>
     <string name="path_turnover_mute_title">Sistem tətbiqləri/Telefon/Gələn zəng tənzimləmələri/Susdurmaq üçün çevir</string>
-    <string name="path_voicemail_settings">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Səsli mesaj tənzimləmələri</string>
+    <string name="path_voicemail_settings">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Səsli poçt tənzimləmələri</string>
     <string name="pause_prompt_no">Xeyr</string>
     <string name="pause_prompt_str">"Səs tonları göndərilir
 "</string>
@@ -1481,7 +1481,7 @@ Başqa uğursuz cəhddən sonra telefonunuz avtomatik kilidlənəcək"</string>
     <string name="pin_progress_unlock_icc">SIM kart kilidi açılır…</string>
     <string name="pin_puk_system_user_only">Yalnız cihazın sahibi PIN/PUK kodlarını daxil edə bilər.</string>
     <string name="ping_test_label">Ping testini çalışdır</string>
-    <string name="play_voicemail_settings">Səsli mesajı oxut</string>
+    <string name="play_voicemail_settings">Səsli poçtu oxut</string>
     <string name="pm">GS</string>
     <string name="police_type_description">Polis</string>
     <string name="prefered_network_type_3g_promp">Tərcih edilən şəbəkə növünü 3G olaraq seçməzdən əvvəl VoLTE-ni söndürməlisiniz. İndi söndürülsün?</string>
@@ -1899,7 +1899,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="sum_loading_settings">Tənzimləmələr yüklənir…</string>
     <string name="sum_select_automatically">Tərcih edilən şəbəkəni avtomatik seç</string>
     <string name="sum_show_caller_id">Gedən zənglərdə nömrə göstərilir</string>
-    <string name="sum_voicemail_choose_provider">Səsli mesaj xidmətini seçin</string>
+    <string name="sum_voicemail_choose_provider">Səsli poçt xidmətini seçin</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
@@ -2048,7 +2048,7 @@ Növbəti dövr %2$d günə başlayır (%3$s)"</string>
     <string name="vice_slot_volte_data_switch_summary">VoLTE zəngləri əsnasında, cihaz ikinci SIM-i istifadə edərək bir mobil internet şəbəkəsinə bağlanacaq</string>
     <string name="vice_slot_volte_data_switch_title">VoLTE zəngləri əsnasında mobil interneti ikinci SIM-də istifadə et</string>
     <string name="video_calling_settings_title">Operator görüntülü zəngi</string>
-    <string name="vm_change_failed">"Səsli mesaj nömrəsi dəyişdirilə bilmədi.
+    <string name="vm_change_failed">"Səsli poçt nömrəsi dəyişdirilə bilmədi.
 Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="vm_change_pin_error_invalid">Yeni PIN, yararsız simvollar ehtiva edir.</string>
     <string name="vm_change_pin_error_mismatch">Köhnə PIN uyğunlaşmır.</string>
@@ -2059,8 +2059,8 @@ Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="vm_change_pin_new_pin">Yeni PIN</string>
     <string name="vm_change_pin_old_pin">Köhnə PIN</string>
     <string name="vm_change_pin_progress_message">Zəhmət olmasa gözləyin.</string>
-    <string name="vm_changed">Səsli mesaj nömrəsi dəyişdirildi.</string>
-    <string name="voice_number_setting_primary_user_only">Səsli mesaj tənzimləmələri yalnız Əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
+    <string name="vm_changed">Səsli poçt nömrəsi dəyişdirildi.</string>
+    <string name="voice_number_setting_primary_user_only">Səsli poçt tənzimləmələri yalnız Əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
     <string name="voice_privacy">Səs gizliliyi</string>
     <string name="voice_privacy_summary">Təkmilləşdirilmiş gizlilik rejimini aç</string>
     <string name="voice_report_incoming_call">Zəng edilir</string>
@@ -2078,23 +2078,23 @@ Bu planşetdə qulaqlıq sahəsi yoxdur. Zəng edə bilmək üçün əllər-sər
     <string name="voice_service_warning_dialog_ok">Anladım</string>
     <string name="voice_service_warning_dialog_ok_timer">Anladım (%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE zəngləri</string>
-    <string name="voicemail">Səsli mesaj</string>
+    <string name="voicemail">Səsli poçt</string>
     <string name="voicemail_abbreviated">VM:</string>
-    <string name="voicemail_callforward_settings">Səsli mesaj və zəng yönləndirmə</string>
+    <string name="voicemail_callforward_settings">Səsli poçt və zəng yönləndirmə</string>
     <string name="voicemail_change_pin_dialog_title">PIN-i dәyişdir</string>
     <string name="voicemail_default">Operatorunuz</string>
     <string name="voicemail_notification_vibrate_when_title">Titrəmə</string>
     <string name="voicemail_notifications_preference_title">Bildirişlər</string>
     <string name="voicemail_number_not_set">&lt;Tənzimlənmədi&gt;</string>
     <string name="voicemail_provider">Xidmət</string>
-    <string name="voicemail_provider_summary">Səsli mesaj xidmətini seçin</string>
+    <string name="voicemail_provider_summary">Səsli poçt xidmətini seçin</string>
     <string name="voicemail_set_pin_dialog_title">PIN tənzimlə</string>
-    <string name="voicemail_settings">Səsli mesaj tənzimləmələri</string>
-    <string name="voicemail_settings_number_hint">Səsli mesaj nömrəsini daxil edin</string>
-    <string name="voicemail_settings_number_label">Səsli mesaj nömrəsi</string>
-    <string name="voicemail_settings_number_title">Səsli mesaj nömrəsi</string>
-    <string name="voicemail_settings_with_label">Səsli mesaj (%s)</string>
-    <string name="voicemail_visual_voicemail_switch_title">Vizual səsli mesaj</string>
+    <string name="voicemail_settings">Səsli poçt tənzimləmələri</string>
+    <string name="voicemail_settings_number_hint">Səsli poçt qutusu nömrəsini daxil edin</string>
+    <string name="voicemail_settings_number_label">Səsli poçt nömrəsi</string>
+    <string name="voicemail_settings_number_title">Səsli poçt nömrəsi</string>
+    <string name="voicemail_settings_with_label">Səsli poçt (%s)</string>
+    <string name="voicemail_visual_voicemail_switch_title">Vizual səsli poçt</string>
     <string name="voip_setting">VoIP tənzimləmələri</string>
     <string name="volte_provision_notification_activate">Aktivləşdir</string>
     <string name="volte_provision_text">VoLTE zəngləri, müntəzəm zənglərdən daha yaxşı keyfiyyət təmin edir. Aktivləşdirmək üçün SMS göndərilsin?</string>
@@ -2161,7 +2161,7 @@ Mobil şəbəkələrə üstünlük verməyi seçsəniz, bunlar ilkin olaraq tele
     <string name="wificall_switch_title">Wi-Fi ilə zəng edin</string>
     <string name="wild_prompt_str">Joker simvolunu bununla əvəz et</string>
     <string name="wrong_password">Daxil etdiyiniz parol yanlışdır</string>
-    <string name="xcap_setting_summary">Zəng qadağası, Səsli mesaj və zəng yönləndirmə və Zəng gözlətmə</string>
+    <string name="xcap_setting_summary">Zəng qadağası, Səsli poçt və zəng yönləndirmə və Zəng gözlətmə</string>
     <string name="xcap_setting_title">Zəng xidməti tənzimləmələri</string>
     <string name="xiaoai_assistant_setting_title">Mi AI Zəng Köməkçisi</string>
     <string name="yesterday">Dünən</string>

@@ -314,7 +314,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="loading_data">Datalar yüklənir</string>
     <string name="local_app_name">Nüsxələmə</string>
     <string name="local_back_up_detail_description">"Qeyd:
-1. Məlumat iktisinin qarşısını almaq üçün yerli nüsxələri kompüterinizə kopyalayın.
+1. Məlumat iktisini önləmək üçün yerli nüsxələri kompüterinizə kopyalayın.
 2. Fabrik sıfırlaması prosesini icra etməzdən əvvəl yerli nüsxələri həmişə kompüterinizə kopyalayın. Əks halda, nüsxələriniz itəcək.
 3. Yerli nüsxələr harada saxlanılır? %1$s"</string>
     <string name="local_backup_select_activity">Nüsxə yarat</string>
@@ -445,10 +445,10 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="new_local_button_restore">Bərpa et</string>
     <string name="new_local_click_to_jump">Detallı təlimatlara baxmaq üçün toxunun</string>
     <string name="new_local_detail_description">"Qeyd:
-%1$d. Məlumat itkisinin qarşısını almaq üçün nüsxələri kompüterinizə kopyalayın. %2$s.
+%1$d. Məlumat itkisini önləmək üçün nüsxələri kompüterinizə kopyalayın. %2$s.
 %3$d. Nüsxələr, MIUI-Backup-AllBackup qovluğunda saxlanılacaq."</string>
     <string name="new_local_detail_description_global">"Qeyd:
-%1$d. Məlumat itkisinin qarşısını almaq üçün nüsxələri kompüterinizə kopyalayın. %2$s.
+%1$d. Məlumat itkisini önləmək üçün nüsxələri kompüterinizə kopyalayın. %2$s.
 %3$d. Nüsxələr, MIUI-Backup-AllBackup qovluğunda saxlanılacaq.
 %4$d. Bəzi tətbiqlər nüsxələməni dəstəkləməyə bilər."</string>
     <string name="new_local_tab_backup">Nüsxələ</string>
@@ -840,7 +840,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_intro_desc_9_method_3_title">3. QQ-da problem bildirin</string>
     <string name="trans_intro_desc_account">Güvənlik səbəblərinə görə yeni cihazda hesablarınıza (məsələn, Mi Hesabı, Exchange, Google və s.) yenidən daxil olmalısınız.</string>
     <string name="trans_intro_desc_gms">"Uyğunluq problemlərinin səbəb olduğu yüksək uğursuz köçürmə ehtimalına görə Mi Mover, Google tətbiqləri tərəfindən yaradılan verilənlərin köçürülməsini dəstəkləmir."</string>
-    <string name="trans_intro_desc_multiapp">"Mi Mover, fayllar arasındakı baş verə biləcək ziddiyətlərin qarşısını almaq üçün İkili tətbiqlərin verilənlərini köçürmür."</string>
+    <string name="trans_intro_desc_multiapp">"Mi Mover, fayllar arasındakı baş verə biləcək ziddiyətləri önləmək üçün İkili tətbiqlərin datalarını köçürmür."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover, İkinci sahədəki elementlərə müraciət edə bilmir. Elementləri Birinci sahəyə köçürün və bu sahədə Mi Mover-i başladın."</string>
     <string name="trans_intro_desc_new">"\"Alıcıyam\"a toxunun. Bir QR kod yaradılacaq."</string>
     <string name="trans_intro_desc_old">"\"Göndərənəm\"ə toxunun. Yeni telefonda QR kodu skan edin, Mi Mover-in göndəriləcək faylları müəyyən etməsini gözləyin və \"Göndər\"ə toxunun."</string>

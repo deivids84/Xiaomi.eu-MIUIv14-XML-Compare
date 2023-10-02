@@ -858,7 +858,7 @@
         <item>30 dəqiqə</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>Təsdiqləmə</item>
+        <item>Doğrulamayın</item>
         <item>Sertifikat statusunu tələb et</item>
         <item>Sertifikat statusunu tələb et</item>
     </string-array>

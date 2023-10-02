@@ -338,7 +338,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_setting_subscribe_phone_success">Telefon nömrəsi əlavə edildi</string>
     <string name="pa_express_setting_verification_code_failed">"SMS göndərilə bilmədi"</string>
     <string name="pa_express_setting_verify_failed">"Doğrulana bilmədi"</string>
-    <string name="pa_express_setting_verify_success">Uğurla təsdiqləndi</string>
+    <string name="pa_express_setting_verify_success">Uğurla doğrulandı</string>
     <string name="pa_express_settings_bind_other_phone">Telefon nömrəsi əlavə et</string>
     <string name="pa_express_settings_dialog_cancel">Saxla</string>
     <string name="pa_express_settings_dialog_desc">"Silsəniz, bu telefon nömrəsi ilə əlaqələndirilmiş paketləri izləyə bilməyəcəksiniz."</string>
@@ -357,7 +357,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_settings_title_1">"Hələ heç bir telefon nömrəsi əlavə etməmisiniz."</string>
     <string name="pa_express_shunfeng_verify_dialog_message">"SF Express istifadəçilərinin gizliliyini və güvənliyini təmin etmək üçün alıcının/göndərənin telefon nömrəsinin son dörd rəqəmini daxil edin."</string>
     <string name="pa_express_shunfeng_verify_dialog_ok">Oldu</string>
-    <string name="pa_express_shunfeng_verify_dialog_title">Təsdiqləməni tamamla</string>
+    <string name="pa_express_shunfeng_verify_dialog_title">Doğrulamanı tamamla</string>
     <string name="pa_express_shunfeng_verify_failed">"Əlaqə məlumatları doğrulana bilmədi. Daxil etdiyiniz telefon nömrəsinin son dörd rəqəminin düzgün olub-olmadığını yoxlayıb yenidən sınayın."</string>
     <string name="pa_express_state_abandoned">Tərk edildi</string>
     <string name="pa_express_state_accept">Yola salındı</string>

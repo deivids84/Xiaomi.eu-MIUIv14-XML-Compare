@@ -606,7 +606,7 @@
     <string name="dc_alert_dialog_message">Bəzi tətbiqlər mobil internet bağlantısı tələb edir. Mövcud %s seçimlərini öyrənmək üçün operatorunuzla əlaqə saxlayın.</string>
     <string name="dc_alert_dialog_title">İnternet istifadə xəbərdarlığı</string>
     <string name="dds_switch_warning_message_data_off">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Mobil internet indi söndürüldü."</string>
-    <string name="dds_switch_warning_message_data_on">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Lazımsız operator xərclərinin qarşısını almaq üçün mobil internet söndürüldü."</string>
+    <string name="dds_switch_warning_message_data_on">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Lazımsız operator xərclərini önləmək üçün mobil internet söndürüldü."</string>
     <string name="deactivate_all">Hamısını ləğv et</string>
     <string name="default_carrier_mmi_msg_title">Operator Mesajı</string>
     <string name="default_notification_description">İlkin səs (%1$s)</string>
@@ -1839,7 +1839,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="skt_msim_emm_cause_7_8_15">"SIM %d, şəbəkəni qeydiyyatdan keçirə bilmədi. Cihazı söndürün, sonra açıb yenidən sınayın. Bundan sonra bu problemlə yenə qarşılaşsanız, müştəri dəstəyi ilə əlaqə saxlayın (1599-0011)."</string>
     <string name="smart_divert_summary">CFNRc tənzimləmələri</string>
     <string name="smart_divert_title">Ağıllı yönləndirmə</string>
-    <string name="smart_dual_sim_prompt">Mövcud bağlantı zəif olarsa cihazınız, ikinci SIM kartınızı istifadə edərək mobil internet şəbəkəsi ilə bağlantı quracaq. Bu, əlavə xərclər yarada bilər. Əlavə xərclərin qarşısını almaq üçün internet istifadə limiti təyin edin.</string>
+    <string name="smart_dual_sim_prompt">Mövcud bağlantı zəif olarsa cihazınız, ikinci SIM kartınızı istifadə edərək mobil internet şəbəkəsi ilə bağlantı quracaq. Bu, əlavə xərclər yarada bilər. Əlavə xərcləri önləmək üçün internet istifadə limiti təyin edin.</string>
     <string name="smart_dual_sim_prompt_ok">Tənzimləmələr</string>
     <string name="smart_dual_sim_prompt_title">İnternet istifadə xəbərdarlığı (SIM %s)</string>
     <string name="smart_dual_sim_summary">Hazırkı bağlantı zəif olduqda, avtomatik olaraq ikinci SIM karta keçib mobil interneti istifadə edin. Bağlantı yaxşılaşdıqda, orijinal SIM kartda geri qayıdın.</string>
@@ -1851,7 +1851,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="smart_switch_dual_sim_diag_message">"Deyəsən, hazırkı data SIM, stabil şəbəkə bağlantısı təmin etmir. Data SIM kartlar arasında avtomatik keçid bağlantı keyfiyyətini yaxşılaşdıra bilər. Bunu Tənzimləmələrdə işə sala bilərsiniz."</string>
     <string name="smart_switch_dual_sim_diag_ok">Tənzimləmələr</string>
     <string name="smart_switch_dual_sim_diag_title">Diqqət</string>
-    <string name="smart_switch_dual_sim_prompt">SIM %1$s istifadə edərək mobil internet şəbəkəsinə bağlanmaq, əlavə internet xərcləri yarada bilər. Əlavə xərclərin qarşısını almaq üçün internet istifadə limiti təyin edin.</string>
+    <string name="smart_switch_dual_sim_prompt">SIM %1$s istifadə edərək mobil internet şəbəkəsinə bağlanmaq, əlavə internet xərcləri yarada bilər. Əlavə xərcləri önləmək üçün internet istifadə limiti təyin edin.</string>
     <string name="smart_switch_dual_sim_summary">Şəbəkə bağlantısı keyfiyyətinə və cihazın statusuna görə internet üçün SIM kartlar arasında avtomatik keçid edin</string>
     <string name="smart_switch_dual_sim_title">İnternet üçün SIM kartlar arasında keçid</string>
     <string name="sms_messages_title">SMS</string>

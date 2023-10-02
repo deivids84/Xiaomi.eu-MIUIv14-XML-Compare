@@ -341,7 +341,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="autozoom_hint">Hərəkət edən obyekti izlə</string>
     <string name="autozoom_landscape_hint">Ən yaxşı effekt üçün mənzərə rejimində çəkin</string>
     <string name="auxiliary_close_status">Əlavə effektlər bağlıdır</string>
-    <string name="auxiliary_exposure_feedback_status">Ekspozisiya təsdiqləməsi açıqdır</string>
+    <string name="auxiliary_exposure_feedback_status">Ekspozisiya doğrulaması açıqdır</string>
     <string name="auxiliary_focus_peak_status">Fokus zirvəsi açıqdır</string>
     <string name="back_bokeh_use_hint">Ən yaxşı effekt üçün obyektinizi 1,5 metr məsafədə tutun</string>
     <string name="background">Arxaplan</string>
@@ -1158,7 +1158,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_et_title">Çəkiliş sürəti</string>
     <string name="parameter_exposure_description">Bu özəllik şəklinizin, miqyasın təklif etdiyindən daha parlaq və ya daha qaranlıq olmasını istədiyiniz zaman ekspozisiyanı kompensasiya etməyinizə icazə verir.</string>
     <string name="parameter_exposure_feecback_description">Ekspozisiyanı düzgün tənzimləyə bilmək üçün az ekspozisiya edilmiş əraziləri mavi rənglə, çox ekspozisiya edilmiş əraziləri isə qırmızı rənglə vurğulayın.</string>
-    <string name="parameter_exposure_feecback_title">Ekspozisiya təsdiqləməsi</string>
+    <string name="parameter_exposure_feecback_title">Ekspozisiya doğrulaması</string>
     <string name="parameter_exposure_title">Ekspozisiya kompensasiyası</string>
     <string name="parameter_focus_description">Həm əllə, həm də avtomatik olaraq fokuslaya bilərsiniz. Diyircəkdə seçdiyiniz fokus dəyəri nə qədər böyük olsa, fokuslanan sahə linzadan bir o qədər uzaq olacaq.</string>
     <string name="parameter_focus_title">Fokus</string>
@@ -1280,7 +1280,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Nöqtə ölçmə</string>
     <string name="pref_camera_autoexposure_title">Avto-ekspozisiya tənzimləmələri</string>
     <string name="pref_camera_auxiliary_close">Bağlı</string>
-    <string name="pref_camera_auxiliary_exposure_feedback">Ekspozisiya təsdiqləməsi</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Ekspozisiya doğrulaması</string>
     <string name="pref_camera_auxiliary_focus_peak">Fokus zirvəsi</string>
     <string name="pref_camera_auxiliary_title">Köməkçi</string>
     <string name="pref_camera_beautify_entry_high">Yüksək</string>

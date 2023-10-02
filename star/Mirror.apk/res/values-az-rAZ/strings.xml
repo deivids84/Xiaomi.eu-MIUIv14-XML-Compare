@@ -104,7 +104,7 @@
     <string name="fingerprint_dialog_touch_sensor">Barmaq izi sensoruna toxunun</string>
     <string name="fingerprint_error_hw_not_available">Barmaq izi avadanlığı əlçatmazdır.</string>
     <string name="fingerprint_error_hw_not_present">Bu cihazda barmaq izi sensoru yoxdur</string>
-    <string name="fingerprint_error_lockout">Həddindən artıq cəhd. Zəhmət olmasa daha sonra yenidən sınayın.</string>
+    <string name="fingerprint_error_lockout">Həddindən artıq cəhd. Lütfən daha sonra yenidən sınayın.</string>
     <string name="fingerprint_error_no_fingerprints">Heç bir barmaq izi yazılmayıb.</string>
     <string name="fingerprint_error_user_canceled">Barmaq izi əməliyyatı istifadəçi tərəfindən ləğv edildi.</string>
     <string name="fingerprint_not_recognized">Tanınmadı</string>

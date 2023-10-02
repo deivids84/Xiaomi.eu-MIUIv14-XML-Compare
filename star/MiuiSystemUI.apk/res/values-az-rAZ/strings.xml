@@ -63,7 +63,7 @@
     <string name="accessibility_action_start_one_handed">Tək əl rejimini başlat</string>
     <string name="accessibility_action_stop_one_handed">Tək əl rejimindən çıx</string>
     <string name="accessibility_airplane_mode">Təyyarə rejimi.</string>
-    <string name="accessibility_authenticate_hint">kimliyi təsdiqlə</string>
+    <string name="accessibility_authenticate_hint">kimliyi doğrula</string>
     <string name="accessibility_back">Geri</string>
     <string name="accessibility_banner_message_dismiss">Bağla</string>
     <string name="accessibility_battery_level">Batareya %d faizdir.</string>
@@ -115,7 +115,7 @@
     <string name="accessibility_ethernet_connected">Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kəsildi.</string>
     <string name="accessibility_expand_button">Daha çox göstər</string>
-    <string name="accessibility_fingerprint_bouncer">Kimlik təsdiqləmə tələb olunur. Kimliyi təsdiqləmək üçün barmaq izi sensoruna toxunun.</string>
+    <string name="accessibility_fingerprint_bouncer">Kimlik doğrulama tələb olunur. Kimliyi doğrulamaq üçün barmaq izi sensoruna toxunun.</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Barmaq izi nişanı</string>
     <string name="accessibility_fingerprint_label">Barmaq izi sensoru</string>
     <string name="accessibility_floating_button_action_double_tap_to_toggle">keçid</string>
@@ -334,13 +334,13 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="battery_saver_start_action">İşə sal</string>
     <string name="battery_state_unknown_notification_text">Daha çox məlumat üçün toxunun</string>
     <string name="battery_state_unknown_notification_title">Batareya sayğacınızı oxumaqda problem</string>
-    <string name="biometric_dialog_authenticated">Kimlik təsdiqləndi</string>
+    <string name="biometric_dialog_authenticated">Kimlik doğrulandı</string>
     <string name="biometric_dialog_confirm">Təsdiqlə</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">Yenidən sınayın. %1$d/%2$d cəhd.</string>
     <string name="biometric_dialog_credential_too_many_attempts">"Həddən artıq yanlış cəhd.
 %d saniyə ərzində yenidən sınayın."</string>
-    <string name="biometric_dialog_empty_space_description">Kimlik təsdiqləməsini ləğv etmək üçün toxunun</string>
-    <string name="biometric_dialog_face_icon_description_authenticated">Üz kimliyi təsdiqləndi</string>
+    <string name="biometric_dialog_empty_space_description">Kimlik doğrulamanı ləğv etmək üçün toxunun</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">Üz kimliyi doğrulandı</string>
     <string name="biometric_dialog_face_icon_description_authenticating">Üzünüz axtarılır</string>
     <string name="biometric_dialog_face_icon_description_confirmed">Təsdiqləndi</string>
     <string name="biometric_dialog_face_icon_description_idle">Yenidən sınayın</string>
@@ -934,7 +934,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="how_to_use_drawer_summary">Ekranın üst hissəsində sağa sürüşdür</string>
     <string name="how_to_use_fsg">Jestlərlə bu əməliyyatları edə bilərsiniz:</string>
     <string name="icon_content_description">Dialoq nişanı</string>
-    <string name="ime_security_warning">Bu giriş metodu, parollar və kredit kart nömrələri kimi şəxsi datalar daxil olmaqla yazdığınız bütün mətnləri yığa bilər. %1$s tətbiqindən gəlir. Bu giriş metodu istifadə edilsin?</string>
+    <string name="ime_security_warning">Bu giriş üsulu, parollar və kredit kart nömrələri kimi şəxsi datalar daxil olmaqla yazdığınız bütün mətnləri yığa bilər. %1$s tətbiqindən gəlir. Bu giriş üsulu istifadə edilsin?</string>
     <string name="immediately_destroy_activities">Fəaliyyətlər saxlanılmasın</string>
     <string name="immediately_destroy_activities_summary">İstifadəçinin tərk etdiyi hər fəaliyyəti dərhal məhv et</string>
     <string name="ims_reg_status_not_registered">Qeydiyyatsız</string>
@@ -2355,7 +2355,7 @@ Wi‑Fi ünvanı (BSSID)
     <string name="wifi_disabled_by_recommendation_provider">Şəbəkə keyfiyyəti aşağı olduğuna görə bağlantı qurulmadı</string>
     <string name="wifi_disabled_generic">Sıradan çıxarıldı</string>
     <string name="wifi_disabled_network_failure">IP Konfiqurasiya Xətası</string>
-    <string name="wifi_disabled_password_failure">Kimlik təsdiqləmə problemi</string>
+    <string name="wifi_disabled_password_failure">Kimlik doğrulama problemi</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi Bağlantı Xətası</string>
     <string name="wifi_disconnected">Bağlantı kəsildi</string>
     <string name="wifi_display_certification">Naqilsiz ekran sertifikatı</string>
@@ -2398,7 +2398,7 @@ Wi‑Fi ünvanı (BSSID)
     <string name="wifi_wapi_as_certificate">AS sertifikatı</string>
     <string name="wifi_wapi_cert_mode_hand_text">Sertifikatı əllə seçin</string>
     <string name="wifi_wapi_certification_dont_exist">WAPI sertifikatları mövcud deyil. Zəhmət olmasa onları quraşdırın.</string>
-    <string name="wifi_wapi_fail_to_auth">"WAPI kimlik təsdiqləməsi uğursuz oldu
+    <string name="wifi_wapi_fail_to_auth">"WAPI kimlik doğrulaması uğursuz oldu
 Zəhmət olmasa sertifikatların etibarlılığını yoxlayın"</string>
     <string name="wifi_wapi_fail_to_init">"WAPI sertifikatları açıla bilmir
 Kimlik məlumatı anbarı fəal olmaya bilər"</string>
@@ -2424,7 +2424,7 @@ Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Cihaza bağlandı. İnternet təmin edilə bilmir."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Sıradan çıxarıldı</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP konfiqurasiya xətası</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Kimlik təsdiqləmə problemi</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Kimlik doğrulama problemi</string>
     <string name="wifitrackerlib_wifi_disconnected">Bağlantı kəsildi</string>
     <string name="wifitrackerlib_wifi_limited_connection">Məhdud bağlantı</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Bağlantı qurula bilmir. Daha sonra yenidən sınayın."</string>

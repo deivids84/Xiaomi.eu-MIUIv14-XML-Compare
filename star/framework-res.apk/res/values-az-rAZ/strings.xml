@@ -135,7 +135,7 @@
     <string name="RestrictedOnAllVoiceTitle">Səs xidməti və ya fövqəladə hal zəngi yoxdur</string>
     <string name="RestrictedOnDataTitle">Mobil internet xidməti yoxdur</string>
     <string name="RestrictedOnEmergencyTitle">Fövqəladə hal zəngi əlçatmazdır</string>
-    <string name="RestrictedOnNormalTitle">Səsli zəng xidməti yoxdur</string>
+    <string name="RestrictedOnNormalTitle">Səs xidməti yoxdur</string>
     <string name="RestrictedStateContent">Operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
     <string name="RestrictedStateContentMsimTemplate">SIM %d üçün operatorunuz tərəfindən müvəqqəti olaraq söndürüldü</string>
     <string name="RuacMmi">İstənməyən bezdirici zənglərin rədd edilməsi</string>
@@ -469,7 +469,7 @@ kontakt yarat"</string>
     <string name="days">gün</string>
     <string name="decline">Rədd et</string>
     <string name="decline_remote_bugreport_action">RƏDD ET</string>
-    <string name="defaultVoiceMailAlphaTag">Səsli mesaj</string>
+    <string name="defaultVoiceMailAlphaTag">Səsli poçt</string>
     <string name="default_audio_route_category_name">Sistem</string>
     <string name="default_audio_route_id">default_audio_route</string>
     <string name="default_audio_route_name">Telefon</string>
@@ -1161,7 +1161,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="notification_channel_updates">Güncəlləmələr</string>
     <string name="notification_channel_usb">USB bağlantısı</string>
     <string name="notification_channel_virtual_keyboard">Virtual klaviatura</string>
-    <string name="notification_channel_voice_mail">Səsli mesajlar</string>
+    <string name="notification_channel_voice_mail">Səsli poçt mesajları</string>
     <string name="notification_channel_vpn">VPN statusu</string>
     <string name="notification_channel_wfc">Wi-Fi zəngi</string>
     <string name="notification_content_abusive_bg_apps">%1$s arxaplanda işləyir. Batareya istifadəsini idarə etmək üçün toxunun.</string>
@@ -1232,7 +1232,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_accessWimaxState">Tətbiqin, WiMAX-ın fəal olub-olmadığını aşkarlamasına və qoşulan istənilən WiMAX şəbəkələri haqqında məlumatlanmasına icazə verir.</string>
     <string name="permdesc_access_notification_policy">Tətbiqin, \"Narahat etməyin\" konfiqurasiyasını oxumasına və yazmasına icazə verir.</string>
     <string name="permdesc_activityRecognition">Bu tətbiq, fiziki fəaliyyətinizi tanıya bilər.</string>
-    <string name="permdesc_addVoicemail">Tətbiqin, səsli mesaj gələn qutunuza mesaj əlavə etməsinə icazə verir.</string>
+    <string name="permdesc_addVoicemail">Tətbiqin, səsli poçt gələn qutunuza mesaj əlavə etməsinə icazə verir.</string>
     <string name="permdesc_answerPhoneCalls">Tətbiqin, gələn telefon zəngini cavablandırmasına icazə verir.</string>
     <string name="permdesc_audioWrite">Tətbiqin, musiqi kolleksiyanızı dəyişdirməsinə icazə verir.</string>
     <string name="permdesc_backgroundCamera">Bu tətbiq, istənilən vaxt kameranı istifadə edərək şəkil və video çəkə bilər.</string>
@@ -1410,7 +1410,7 @@ icazə tələb olundu"</string>
     <string name="permlab_accessWimaxState">WiMAX ilə bağlantı qur və bağlantını kəs</string>
     <string name="permlab_access_notification_policy">\"Narahat etməyin\"ə müraciət et</string>
     <string name="permlab_activityRecognition">fiziki fəaliyyəti tanı</string>
-    <string name="permlab_addVoicemail">səsli mesaj əlavə et</string>
+    <string name="permlab_addVoicemail">səsli poçt əlavə et</string>
     <string name="permlab_answerPhoneCalls">telefon zənglərini cavablandır</string>
     <string name="permlab_audioWrite">musiqi kolleksiyasını dəyişdir</string>
     <string name="permlab_backgroundCamera">arxaplanda şəkil və video çək</string>

@@ -66,13 +66,13 @@
     <string name="input_method_clipboard_clear_all_phrase_title">Lövhə təmizlənir</string>
     <string name="input_method_clipboard_copy_success">Uğurla kopyalandı</string>
     <string name="input_method_clipboard_delete_success">Uğurla silindi</string>
-    <string name="input_method_clipboard_move_cursor_guide1">Kursoru hərəkət etdirmək üçün mavi sahəyə basılı saxlayın</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Kursoru hərəkət etdirmək üçün mavi sahəni basılı tutun</string>
     <string name="input_method_clipboard_move_cursor_guide2">Barmağınızı üfüqi şəkildə hərəkət etdirin</string>
     <string name="input_method_clipboard_settings_button">Tənzimləmələr</string>
     <string name="input_method_clipboard_tips">Kopyalanmış elementlər 48 saat sonra lövhədən silinəcək</string>
     <string name="input_method_edit_phrase_text">Çox işlədilən ifadələrə düzəliş et</string>
     <string name="input_method_function_clipboard">Lövhə və çox işlədilən ifadələr</string>
-    <string name="input_method_function_select_guide_title">Daha çox seçim üçün basılı saxlayın</string>
+    <string name="input_method_function_select_guide_title">Daha çox seçim üçün basılı tutun</string>
     <string name="input_method_function_select_left_view_title">Sol düymə üçün funksiyanı tənzimlə</string>
     <string name="input_method_function_select_right_view_title">Sağ düymə üçün funksiyanı tənzimlə</string>
     <string name="input_method_function_switch">Klaviaturalar arasında keçid</string>

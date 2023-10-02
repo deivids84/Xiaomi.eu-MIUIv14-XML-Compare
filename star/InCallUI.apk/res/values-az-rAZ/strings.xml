@@ -69,7 +69,7 @@
     <string name="call_recording_error_privacy">"Qonaq rejimində səs yazıla bilmir"</string>
     <string name="call_recording_error_sd_access">"SD karta müraciət edilə bilmir"</string>
     <string name="call_recording_error_sd_unmounted">Səsyazma dayandırıldı: SD kart çıxarıldı.</string>
-    <string name="call_recording_error_start_failed">Səsyazma, başqa bir tətbiq tərəfindən istifadə edilir.</string>
+    <string name="call_recording_error_start_failed">Səsyazan başqa bir tətbiq tərəfindən istifadə edilir.</string>
     <string name="call_recording_error_unknown">Bilinməyən bir xəta baş verdi.</string>
     <string name="call_recording_notification_message">Dinləmək üçün toxunun.</string>
     <string name="call_recording_notification_message_low_storage">SD kart dolub.</string>

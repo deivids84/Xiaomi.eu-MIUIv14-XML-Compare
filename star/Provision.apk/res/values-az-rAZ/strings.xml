@@ -120,7 +120,7 @@
     <string name="download_introduction">Endirilənlər, Xunlei tərəfindən təqdim edilən və Xiaomi cihazlarının istifadəçiləri üçün endirmələr və (Tətbiq mağazası məzmunu, videolar, sistem güncəlləmələri, temalar və brauzer məzmunu daxil olmaqla) endirilən məzmunu idarə etmək üçün istifadə olunan bir tətbiqdir.</string>
     <string name="early_morning">Səhər</string>
     <string name="enable_accessibility_canceled">Əlçatımlılıq ləğv edildi.</string>
-    <string name="enable_accessibility_dialog_message">Ekrana 2 barmağınızla 10 saniyədən çox basılı saxlayaraq TalkBack-ı işə saldınız. TalkBack, görmə məhdudiyyətli insanlar üçün səsli əks-əlaqə təqdim edir. Səhvən işə salmısınızsa, İmtina düyməsinə basın, daha sonra ekrana iki dəfə toxunun.</string>
+    <string name="enable_accessibility_dialog_message">Ekrana 2 barmağınızla 10 saniyədən çox basılı tutaraq TalkBack-ı işə saldınız. TalkBack, görmə məhdudiyyətli insanlar üçün səsli əks-əlaqə təqdim edir. Səhvən işə salmısınızsa, İmtina düyməsinə basın, daha sonra ekrana iki dəfə toxunun.</string>
     <string name="enable_accessibility_dialog_negative_btn">İmtina</string>
     <string name="enable_accessibility_dialog_positive_btn">Oldu</string>
     <string name="enable_or_disable_bluetooth">Bluetooth-u aç/bağla</string>

@@ -322,7 +322,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="friday_shortest">Cüm</string>
     <string name="global_privacy">Şərtlər və qaydalar</string>
     <string name="global_privacy_detail"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;br&gt;Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq.\"</Data></string>
-    <string name="global_privacy_explain">\"Yayım\"a xoş gəldiniz\" Bu tətbiq, aşağıdakı xidmətləri təqdim edir:</string>
+    <string name="global_privacy_explain">\"Yayım\"a xoş gəldiniz! Bu tətbiq, aşağıdakı xidmətləri təqdim edir:</string>
     <string name="global_privacy_feature">Kiçildilmiş pəncərələri istifadə etmək, ekran sönülü ikən yayımlamaq və şəxsi elementləri gizlətmək.</string>
     <string name="global_privacy_main">"Telefonunuzun ekranındakı elementləri daha böyük monitorda əks etdirin."</string>
     <string name="global_privacy_negative">"Razı deyiləm"</string>
@@ -358,7 +358,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="help_page_text_01">Kömək</string>
     <string name="help_page_text_02">Yayım nədir?</string>
     <string name="help_page_text_03">"Yayım, telefonunuzun ekranındakı elementləri daha böyük xarici monitorda əks etdirir. Bu, mobil internet istifadə etmədən dostlarınız və ailənizlə şəkilləri və videoları paylaşmağa imkan verir."</string>
-    <string name="help_page_text_04">Elementləri necə daha böyük ekranda yayımlaya bilərəm?</string>
+    <string name="help_page_text_04">Elementləri daha böyük ekranda necə yayımlaya bilərəm?</string>
     <string name="help_page_text_05">Addım %1$d: Cihazlarınızı və şəbəkə mühitinizi yoxlayın</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TV-lər, rəqəmsal TV alıcısı, proyektorlar:
 Ən yaxşı effekti əldə etmək üçün həm mobil cihazınızı, həm də xarici monitoru eyni Wi-Fi şəbəkəsinə bağlayın. Fərqli şəbəkələrə bağlanıbsa, xarici monitoru tapmaq və ona bağlanmaq bir az çəkə bilər.

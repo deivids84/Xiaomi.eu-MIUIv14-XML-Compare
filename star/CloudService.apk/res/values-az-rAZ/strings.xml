@@ -435,7 +435,7 @@
     <string name="micloud_space_duokan_detail">E-kitabları Duokan tətbiqi ilə endirib idarə edin.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Xiaomi cihazınızda Səsyazan tətbiqini açın və buludda saxlanılmış elementlər olan qovluğu seçin. MIUI sistem hesabı kimi əlaqələndirilmiş Xiaomi Hesabınızı istifadə etdiyinizə əmin olun."</string>
-    <string name="micloud_space_soundrecorder_title">Səsyazmalar</string>
+    <string name="micloud_space_soundrecorder_title">Yazılar</string>
     <string name="micloud_storage_detail">Detallar</string>
     <string name="micloud_storage_family_quota">Paylaşılan sahə</string>
     <string name="micloud_storage_full_tip">Anbar dolub</string>

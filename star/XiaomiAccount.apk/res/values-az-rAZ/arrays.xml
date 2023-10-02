@@ -127,9 +127,9 @@
         <item>Mi Hesabı;Hesab;Xiaomi Hesabı;Hesab köməki;Kömək mərkəzi</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
-        <item>2 addımlı təsdiqləmə</item>
-        <item>Xiaomi Hesabınız üçün 2 addımlı təsdiqləməni tənzimlə</item>
-        <item>Daxil ol;Giriş et;2 addımlı;təsdiqləmə;Xiaomi;Hesab;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
+        <item>2 addımlı doğrulama</item>
+        <item>Xiaomi Hesabınız üçün 2 addımlı doğrulamanı tənzimlə</item>
+        <item>Daxil ol;Giriş et;2 addımlı;doğrulama;Xiaomi;Hesab;Mi Hesabı;Hesab;Xiaomi Hesabı</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Hesab təhlükəsizliyi</item>

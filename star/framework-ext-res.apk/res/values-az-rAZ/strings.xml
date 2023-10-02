@@ -250,7 +250,7 @@
     <string name="launch_calculator">Hesablayıcı</string>
     <string name="launch_camera">Kameranı başlat</string>
     <string name="launch_control_center">İdarəetmə mərkəzi</string>
-    <string name="launch_google_search">Google Köməkçisini başlat</string>
+    <string name="launch_google_search">\"Google Köməkçisi\"ni başlat</string>
     <string name="launch_notification_center">Bildiriş paneli</string>
     <string name="launch_recents">Sonuncuları aç</string>
     <string name="launch_smarthome">Xiaomi Magic Control</string>

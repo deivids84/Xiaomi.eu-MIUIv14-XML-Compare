@@ -58,7 +58,7 @@
     <string name="cit_USB3_plug_out_test_fail">"Cihaz çıxarıldı, test uğursuz oldu
 Test avadanlığı %1$s dəstəkləməyə bilər, əvəzedici avadanlığın yenidən test edilməsi tövsiyə olunur"</string>
     <string name="cit_USB3_plug_pass">%1$s keçdi, lütfən cihazları çıxarın</string>
-    <string name="cit_USB3_plug_re_plugin">"%1$s testi bitdi, zəhmət olmasa testi təkrarlamayın"</string>
+    <string name="cit_USB3_plug_re_plugin">"%1$s testi bitdi, lütfən testi təkrarlamayın"</string>
     <string name="cit_accelermeter_sensor_check_summary">"Cihazı sürətlə bir istiqamətdə hərəkət etdirin. X，Y，Z koordinant dəyərləri aşağıda görünür. (cihaz hərəkətdə ikən: X, sol/sağı, Y, ön/arxanı, Z isə yuxarı/aşağını təmsil edir).
 Kalibrləməzdən əvvəl onu düz bir səthə qoyun."</string>
     <string name="cit_audio_hw_check_summary">Səs Avadanlıq Yoxlanış Testi</string>
@@ -82,8 +82,8 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
 2. Çəkim düyməsinə toxunun.
 3. Sistem, çəkilişdən sonrakı fotonu avtomatik saxlayacaq.
 4. Çəkdiyiniz foto ekranda görüntülənməlidir, testi tamamlamaq üçün \"Pass\"a toxunun."</string>
-    <string name="cit_camera_hardware_check">Kameranın avandanlıqla əlaqəli funksiyanı aşkarlaması davam edir, zəhmət olmasa gözləyin....</string>
-    <string name="cit_camera_rearsub">Alt kamera testi davam edir, zəhmət olmasa gözləyin....</string>
+    <string name="cit_camera_hardware_check">Kameranın avandanlıqla əlaqəli funksiyanı aşkarlaması davam edir, lütfən gözləyin....</string>
+    <string name="cit_camera_rearsub">Alt kamera testi davam edir, lütfən gözləyin....</string>
     <string name="cit_esim_check_summary">Aşağıda eSIM statusu göstərilir və eSIM statusunun düzgün göstərilməsi testdən keçdiyini bildirir</string>
     <string name="cit_esim_check_title">eSIM kartı</string>
     <string name="cit_esim_eid_error">eID uyğunsuzluğu</string>
@@ -98,7 +98,7 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="cit_horn_motor_test">Siqnal mühərrik testi</string>
     <string name="cit_modem_hardware_title">Modem Avandanlıq Testi</string>
     <string name="cit_pixeworks_chip_check_title">Pixeworks Iris 7 çip yoxlanışı</string>
-    <string name="cit_reverse_charge_check_summary">"Qarşı tərəfin cihazını doldurmaq üçün zəhmət olmasa OTG tərsinə doldurma cihazınızı taxın"</string>
+    <string name="cit_reverse_charge_check_summary">"Qarşı tərəfin cihazını doldurmaq üçün lütfən OTG tərsinə doldurma cihazınızı taxın"</string>
     <string name="cit_soft_light_check_title">Yumşaq işıq</string>
     <string name="cit_tool_current_size">Hazırkı ölçü</string>
     <string name="cit_tool_gps_path_loss_test_request_location">yerləşməni tələb et</string>
@@ -114,9 +114,9 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="cold_light_title">Soyuq işıq</string>
     <string name="edittextdisplay">Sar alətinə xoş gəldiniz !!!</string>
     <string name="edittextdisplayf">İcazələr məhdudlaşdırılıb !!!</string>
-    <string name="enrollment_error_tip">Barmaq izi giriş kartı kontrol strategiyası tətikləndi, zəhmət olmasa barmaq izlərinin aydın və təmiz olduğuna əmin olun və ya hazırkı test elementindən çıxıb testi yenidən başladın.</string>
-    <string name="headset_plug_check_tip">İndi lenti oxudun, qulaqlığı dinləyin, zəhmət olmasa testi bağlayarkən qulaqlığı çıxarın</string>
-    <string name="main_mic_check_record_tip">Yazılır, zəhmət olmasa cihazın altındakı mikrofona nəsə deyin</string>
+    <string name="enrollment_error_tip">Barmaq izi giriş kartı kontrol strategiyası tətikləndi, lütfən barmaq izlərinin aydın və təmiz olduğuna əmin olun və ya hazırkı test elementindən çıxıb testi yenidən başladın.</string>
+    <string name="headset_plug_check_tip">İndi lenti oxudun, qulaqlığı dinləyin, lütfən testi bağlayarkən qulaqlığı çıxarın</string>
+    <string name="main_mic_check_record_tip">Yazılır, lütfən cihazın altındakı mikrofona nəsə deyin</string>
     <string name="mtb_tool_modem_cdma_manager">CDMA Cap Meneceri</string>
     <string name="password_enroll_error">Telefonunuzda parol var, barmaq izi məlumatları yazıla bilmir</string>
     <string name="radio_info_data_connected">Bağlantılıdır</string>
@@ -125,12 +125,12 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="sar_algo_data_check_description">Sar Algo məlumat yığma</string>
     <string name="sar_mtk_test_title">Sar Mtk Kimlik doğrulama testi</string>
     <string name="search_menu_title">Axtarış</string>
-    <string name="sidebottom_mic_check_record_tip">Səs yazılır, zəhmət olmasa cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
-    <string name="sidetop_mic_check_record_tip">Səs yazılır, zəhmət olmasa cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
+    <string name="sidebottom_mic_check_record_tip">Səs yazılır, lütfən cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
+    <string name="sidetop_mic_check_record_tip">Səs yazılır, lütfən cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>
     <string name="soft_light_title">Yumşaq işıq</string>
     <string name="test_aux_mic">AUX mikrofon</string>
     <string name="test_horn_motor_summary">"İki təsadüfi rəqəm eşidəcəksiniz
-Zəhmət olmasa eşitdiyiniz rəqəmə uyğun müvafiq düyməyə basın
+Lütfən eşitdiyiniz rəqəmə uyğun müvafiq düyməyə basın
 Fərqli titrəmə şərtlərinə uyğun olaraq düzgün düyməni seçin"</string>
     <string name="test_sidebottom_mic">Yan alt mikrofon</string>
     <string name="test_sidetop_mic">Yan üst mikrofon</string>

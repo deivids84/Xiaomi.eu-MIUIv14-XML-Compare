@@ -78,7 +78,7 @@
     <string name="ble_start_ap_successed">Hotspot uğurla yaradıldı. Bağlantı qurmaq üçün gözlənilir…</string>
     <string name="ble_starting_ap">Hotspot yaradılır…</string>
     <string name="ble_wait_verify_code">Yeni cihazda kod yaradılır…</string>
-    <string name="ble_waiting_verify_code">Kod təsdiqlənir…</string>
+    <string name="ble_waiting_verify_code">Kod doğrulanır…</string>
     <string name="ble_waiting_verify_code_error">Daxil etdiyiniz kod yanlışdır</string>
     <string name="btn_got_it">Anladım</string>
     <string name="btn_install_complete">Quraşdırıldı</string>

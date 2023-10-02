@@ -877,8 +877,8 @@ Anbar sahəsini boşaldın və ya vacib elementləri köçürün."</string>
     <string name="trans_open_location_button">Aç</string>
     <string name="trans_open_location_message">Əlçatan Wi-Fi şəbəkələrinin siyahısını almaq üçün yerləşmə xidmətlərini açın.</string>
     <string name="trans_open_location_title">Yerləşmə xidmətlərini aç</string>
-    <string name="trans_operate_func_one">A metodu</string>
-    <string name="trans_operate_func_two">B metodu</string>
+    <string name="trans_operate_func_one">A üsulu</string>
+    <string name="trans_operate_func_two">B üsulu</string>
     <string name="trans_operate_new_phone_tips">"Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Mi Mover
 QR kodu yaratmaq üçün [Alıcıyam] seçiminə toxunun"</string>
     <string name="trans_operate_old_phone_tips1">"1. Köhnə cihazınızda Mi Mover-i quraşdırın

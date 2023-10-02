@@ -41,7 +41,7 @@
     <string name="aptx_notification_aptx_hd">Bu cihaz Qualcomm® aptX™ HD dəstəkləyir</string>
     <string name="aptx_notification_title">Bluetooth</string>
     <string name="auth_notif_message">%1$s üçün seans açarını yazın</string>
-    <string name="auth_notif_ticker">Obex kimlik təsdiqləmə tələbi</string>
+    <string name="auth_notif_ticker">Obex kimlik doğrulama tələbi</string>
     <string name="auth_notif_title">Seans açarı</string>
     <string name="bluetooth_a2dp_sink_queue_name">İndi oxudulur</string>
     <string name="bluetooth_broadcast_status">Yayımda</string>

@@ -521,7 +521,7 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="service_policy_adjust_content">Xunlei Gizlilik Siyasəti</string>
     <string name="service_policy_download"><Data>Davam etməzdən əvvəl &lt;a href=%1$s&gt;Xunlei Gizlilik Siyasətini&lt;/a &gt; və &lt;a href=%1$s&gt;Xunlei Şəbəkə Xidmətləri İstifadəçi Razılaşmasını&lt;/a &gt; oxuyun və razılaşın.</Data></string>
     <string name="service_privacy_index">Gizlilik Siyasəti</string>
-    <string name="service_security_over_r"><Data>&lt;a href=%1$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;br/&gt;&lt;br/&gt;Android &lt;xliff:g id=version_number example=11&gt;%2$d&lt;/xliff:g&gt; standartlarına uyğun olaraq, müvafiq tətbiq işləməyi dayandırdıqdan sonra müəyyən bir müddət ərzində (təxminən &lt;xliff:g example=5 seconds id=short&gt;%3$s&lt;/xliff:g&gt;) birdəfəlik icazə geri çəkiləcək. Bu qısa müddət ərzində tətbiqi açsanız, icazə geri götürüləcək.</Data></string>
+    <string name="service_security_over_r"><Data>&lt;a href=%1$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;br/&gt;&lt;br/&gt;Android &lt;xliff:g id=version_number example=11&gt;%2$d&lt;/xliff:g&gt; standartlarına uyğun olaraq, müvafiq tətbiq işləməyi dayandırdıqdan sonra müəyyən bir müddət ərzində (təxminən &lt;xliff:g example=5 seconds id=short&gt;%3$s&lt;/xliff:g&gt;) birdəfəlik icazə geri götürüləcək. Bu qısa müddət ərzində tətbiqi açsanız, icazə geri götürüləcək.</Data></string>
     <string name="service_sim_activation">SIM kartın aktivləşdirilməsi</string>
     <string name="servicestate_title">Təməl xidmətlər haqqında bəyanat</string>
     <string name="setting_locale">Bölgə tənzimlənir…</string>

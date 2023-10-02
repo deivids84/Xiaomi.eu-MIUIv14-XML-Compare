@@ -54,7 +54,7 @@
 FQDN: %2$s
 Rouminq Konsorsiumları: %3$s
 Ölkə: %4$s
-Səlahiyyət metodu: EAP-%5$s
+Səlahiyyət üsulu: EAP-%5$s
 "</string>
     <string name="wifi_detail_label">Detallar</string>
     <string name="wifi_detail_title">%s üçün detallar</string>

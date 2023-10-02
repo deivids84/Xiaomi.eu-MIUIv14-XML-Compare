@@ -180,8 +180,8 @@
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
-    <string name="no_vm_number">Əskik səsli mesaj nömrəsi</string>
-    <string name="no_vm_number_msg">SIM kartda heç bir səsli mesaj nömrəsi yoxdur.</string>
+    <string name="no_vm_number">Əskik səsli poçt nömrəsi</string>
+    <string name="no_vm_number_msg">SIM kartda heç bir səsli poçt nömrəsi yoxdur.</string>
     <string name="non_primary_user">Yalnız cihaz sahibi əngəllənmiş nömrələrə baxa və idarə edə bilər.</string>
     <string name="noon">Günorta</string>
     <string name="notification_AllMissedCallTitle">Bütün buraxılmış zənglər</string>

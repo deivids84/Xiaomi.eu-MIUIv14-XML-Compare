@@ -579,7 +579,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="xspace_account">İkili tətbiq hesabları</string>
     <string name="xspace_chocie">İkili tətbiq dəstəyi</string>
     <string name="xspace_creating">İkili tətbiq yaradılır…</string>
-    <string name="xspace_default_app_summary">Daxil olmaq, paylaşmaq və səs köməkçisi üçün istifadə olunan ilkin tətbiqləri seçin</string>
+    <string name="xspace_default_app_summary">Daxil olmaq, paylaşmaq və səsli köməkçi üçün istifadə olunan ilkin tətbiqləri seçin</string>
     <string name="xspace_default_app_title">Fərdiləşdirmə</string>
     <string name="xspace_default_guide_notification_content">Dəyişdirmək üçün toxunun</string>
     <string name="xspace_default_guide_notification_main_title">İlkin tətbiq istifadə edilir</string>

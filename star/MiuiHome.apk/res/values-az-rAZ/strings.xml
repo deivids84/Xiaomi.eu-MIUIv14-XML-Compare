@@ -252,7 +252,7 @@
     <string name="dock_and_folder_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan və qovluqdan çıxarın</string>
     <string name="dock_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan çıxarın</string>
     <string name="double_tap_to_lock_title">Ekranı kilidləmək üçün cüt toxunun</string>
-    <string name="drag_icon_to_homescreen_guide">Bir tətbiq nişanına basılı saxlayın, daha sonra Əsas ekran qısayolu əlavə etmək üçün sürükləyin</string>
+    <string name="drag_icon_to_homescreen_guide">Bir tətbiq nişanını basılı tutun, daha sonra Əsas ekran qısayolu əlavə etmək üçün sürükləyin</string>
     <string name="drawer_background">Arxaplanlar</string>
     <string name="drawer_background_dark">Qaranlıq</string>
     <string name="drawer_background_light">Açıq</string>
@@ -286,7 +286,7 @@
     <string name="fmt_time_12hour">"hh"</string>
     <string name="fmt_time_24hour">"HH"</string>
     <string name="fold_pair_install_shortcut_launcher_success">Uğurla yaradıldı</string>
-    <string name="fold_pair_install_shortcut_long_click">Əsas ekrana əlavə etmək üçün basılı saxlayın</string>
+    <string name="fold_pair_install_shortcut_long_click">Əsas ekrana əlavə etmək üçün basılı tutun</string>
     <string name="fold_pair_installed_shortcut_launcher">Bu qısayol artıq mövcuddur</string>
     <string name="folder_name">Qovluq</string>
     <string name="folder_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi qovluqdan çıxarın</string>
@@ -524,7 +524,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="navigation_guide_appswitch_anim_summary">Əvvəlki tətbiqə qayıtmaq üçün kənardan başlayaraq ekranı boyunca sürüşdürün</string>
     <string name="navigation_guide_appswitch_anim_title">Əvvəlki tətbiqə qayıt</string>
     <string name="navigation_guide_appswitch_click">Əvvəlcə \"Əvvəlki tətbiqə qayıt\"ı işə sal</string>
-    <string name="navigation_guide_appswitch_summary">Ekranın sol və ya sağ kənarından sürüşdürün və bir az basılı saxlayın</string>
+    <string name="navigation_guide_appswitch_summary">Ekranın sol və ya sağ kənarından sürüşdürün və bir az basılı tutun</string>
     <string name="navigation_guide_appswitch_title">Əvvəlki tətbiqə dəyişdir</string>
     <string name="navigation_guide_back_summary">Ekranın kənarından sola və ya sağa sürüşdür</string>
     <string name="navigation_guide_back_title">Geri qayıt</string>

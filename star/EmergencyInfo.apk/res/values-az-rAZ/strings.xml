@@ -727,7 +727,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT vasitəsilə quraşdırılan tətbiqləri zərərli davranışa qarşı yoxlayın.</string>
-    <string name="verify_apps_over_usb_title">USB üzərindən tətbiqləri təsdiqlə</string>
+    <string name="verify_apps_over_usb_title">Tətbiqləri USB üzərindən doğrula</string>
     <string name="vpn_settings_not_available">VPN tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
     <string name="wait_for_debugger">Sazlayıcını gözləyin</string>
     <string name="wait_for_debugger_summary">Sazlanmış tətbiq, işə salınmazdan əvvəl sazlayıcının əlavə edilməsini gözləyir</string>

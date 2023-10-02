@@ -297,7 +297,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="get_back_password">Parolu sıfırla</string>
     <string name="get_back_pwd">Parol sıfırlama</string>
     <string name="get_device_list_failed">"Cihazlar alına bilmir"</string>
-    <string name="get_identity_auth_url_failed">"Kimlik təsdiqlənə bilmədi"</string>
+    <string name="get_identity_auth_url_failed">"Kimlik doğrulana bilmədi"</string>
     <string name="get_phone_bind_exceed_limit">"Bir telefon nömrəsi ilə ən çox %d Xiaomi Hesabı əlaqələndirə bilərsiniz. Yeni hesablar əlavə edilə bilmir."</string>
     <string name="get_phone_verifycode_exceed_limit">"Bu nömrəyə daha çox təsdiqləmə kodu göndərilə bilmir"</string>
     <string name="google_login">Google ilə daxil olun</string>
@@ -359,7 +359,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="messenger_send_button_text">Göndər</string>
     <string name="mi_account">Hesabım</string>
-    <string name="mi_account_identity_title">Kimliyinizi təsdiqləyin</string>
+    <string name="mi_account_identity_title">Kimliyinizi doğrulayın</string>
     <string name="mi_finance">Mənim maliyyəm</string>
     <string name="mi_finance_info">Yeni istifadəçilər üçün bonuslar</string>
     <string name="mi_health">Xiaomi Health</string>
@@ -502,7 +502,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="notify_verify_again_security_phone">Təsdiqlə</string>
     <string name="notify_verify_security_phone">Telefon</string>
     <string name="oauth_get_scopes_failed">"Hesab məlumatları alına bilmədi"</string>
-    <string name="oauth_getting_scopes">Hesab təsdiqlənir…</string>
+    <string name="oauth_getting_scopes">Hesab doğrulanır…</string>
     <string name="oauth_scopes_intro">" &lt;font color=#%1$s&gt;%2$s&lt;/font&gt; aşağıdakı icazələri alacaq:&lt;br&gt; &lt;br&gt; %3$s "</string>
     <string name="oauth_title">Xiaomi Hesabı ilə daxil olun</string>
     <string name="off">Bağlı</string>
@@ -528,7 +528,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_account_error_shorter_user_name">Ad %d simvoldan uzun olmalıdır</string>
     <string name="passport_account_error_user_name">Bu ləqəb yararsızdır. Fərqlisini yoxlayın.</string>
     <string name="passport_account_hint_text">E-poçt/Telefon nömrəsi/Xiaomi Hesabı kimliyi</string>
-    <string name="passport_account_identity_title">Kimliyinizi təsdiqləyin</string>
+    <string name="passport_account_identity_title">Kimliyinizi doğrulayın</string>
     <string name="passport_account_invalid_user_avatar">Bu foto yararsızdır. Fərqlisini yoxlayın.</string>
     <string name="passport_account_label">Xiaomi Hesabı</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
@@ -638,7 +638,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır.</string>
     <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
     <string name="passport_error_verify_activator_phone_message">SIM kart xidmətinizin aktiv olduğuna və cihazın şəbəkəyə qoşulu olduğuna əmin olun.</string>
-    <string name="passport_error_verify_activator_phone_title">"Telefon nömrəsi təsdiqlənə bilmədi"</string>
+    <string name="passport_error_verify_activator_phone_title">"Telefon nömrəsi doğrulana bilmədi"</string>
     <string name="passport_facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="passport_failed_to_send_activate_email">"Aktivləşdirmə e-poçtu göndərilə bilmədi"</string>
     <string name="passport_find_password_on_web_msg">Parolunuzu sıfırlamaq üçün ziyarət edin: account.mi.com.</string>
@@ -697,7 +697,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_login_using_other_ways">Digər daxil olma yolları</string>
     <string name="passport_login_with_sns">Digər daxil olma yolları</string>
     <string name="passport_logout_account">Çıxış et</string>
-    <string name="passport_message_dialog_title">Təsdiqləmə kodları olan SMS</string>
+    <string name="passport_message_dialog_title">Doğrulama kodları olan SMS</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
     <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
@@ -732,7 +732,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb edilir…</string>
     <string name="passport_quick_login">Daxil ol</string>
     <string name="passport_quick_login_dialog_step2_title">2 addımlı təsdiqləmə</string>
-    <string name="passport_quick_login_dialog_title">Parolu təsdiqlə</string>
+    <string name="passport_quick_login_dialog_title">Parolu doğrula</string>
     <string name="passport_quick_login_step2_title">2 addımlı təsdiqləmə</string>
     <string name="passport_quick_login_title">Parolunuzu daxil edin</string>
     <string name="passport_quick_register">Qeydiyyat</string>
@@ -776,7 +776,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_request_agree">İcazə ver</string>
     <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil şəkilinizi tənzimləmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
-    <string name="passport_request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
+    <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
@@ -834,7 +834,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_uplink_slot2_reg">SIM 2 istifadə et</string>
     <string name="passport_uplink_sms_send_cancel">Uplink SMS göndərilməsi ləğv edildi</string>
     <string name="passport_uplink_sms_send_confirm">Göndərildi</string>
-    <string name="passport_uplink_sms_send_failed">"Uplink SMS təsdiqlənə bilmədi"</string>
+    <string name="passport_uplink_sms_send_failed">"Uplink SMS-i doğrulana bilmədi"</string>
     <string name="passport_uplink_sms_sending">Ödənişli mesaj göndərilir…</string>
     <string name="passport_uplink_suggest_dialog_msg">"Kod alına bilmədi. Əvəzində ödənişli uplink SMS-i istifadə edilsin?"</string>
     <string name="passport_uplink_suggest_dialog_title">Diqqət</string>
@@ -865,9 +865,9 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_vcode_sms_send_prompt">%s nömrəsinə təsdiqləmə kodu göndər</string>
     <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz &lt;font color=#1F93FF&gt;%s&lt;/font&gt; geri qaytarma telefonunuza göndəriləcək</string>
-    <string name="passport_verification_failed">"Hesab təsdiqlənə bilmədi"</string>
-    <string name="passport_verify">Təsdiqlə</string>
-    <string name="passport_verifying_activator_phone">Telefon güvənliyi təsdiqlənir…</string>
+    <string name="passport_verification_failed">"Hesab doğrulana bilmədi"</string>
+    <string name="passport_verify">Doğrula</string>
+    <string name="passport_verifying_activator_phone">Telefon güvənliyi doğrulanır…</string>
     <string name="passport_wait_for_sms_prompt">"İndi başdan başlatılsın? Telefonunuz şəbəkə əhatə dairəsi daxilində ikən təsdiqləmə mesajlarının çatması 10 dəqiqəyə qədər çəkə bilər."</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_weibo_login_btn_content_description">Weibo ilə daxil olun</string>
@@ -1058,10 +1058,10 @@ Bu kodu nəzarətçiyə göndərin."</string>
 %3$d. Kilid açma nömrəniz: %4$s"</string>
     <string name="update_apk_version_later">İndi yox</string>
     <string name="update_apk_version_now">Güncəllə</string>
-    <string name="update_email_address_dialog_message">E-poçtu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_message">E-poçtu güncəlləyə bilməyiniz üçün əvvəlcə kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">E-poçtu güncəllə</string>
     <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>
-    <string name="update_phone_number_notice_message">Telefon nömrənizi güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_phone_number_notice_message">Telefon nömrəsini güncəlləyə bilməyiniz üçün əvvəlcə kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="use_google_account_login">Google ilə daxil olun</string>
     <string name="used_cloud_storage_info">İstifadə edilən: %s</string>
     <string name="user_agreement_device_permission_desc">Giriş mühitinin güvənliyini təmin etmək üçün</string>

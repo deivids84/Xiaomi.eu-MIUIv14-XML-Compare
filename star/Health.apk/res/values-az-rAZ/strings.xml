@@ -326,7 +326,7 @@ Saxlamağı seçdikdən sonra sağlamlıq məlumatlarını silməyə qərar vers
     <string name="diagnosis_log_send_failed">Diaqnoz jurnalı göndərilmədi.</string>
     <string name="diagnosis_log_sent_format">"Diaqnoz jurnalı göndərildi.
 Kimlik: %s
-Zəhmət olmasa bu kodu texniki mütəxəssisə göndərin."</string>
+Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="dialog_abandon">Ləğv et</string>
     <string name="dialog_abandon_sleep_edit">Dəyişikliklər ləğv edilsin?</string>
     <string name="dialog_account_perm_desc">Sistem hesabına müraciət etmək və daxil olmaq üçün</string>
@@ -620,11 +620,11 @@ Dairə qırmızı olana qədər gözləyin."</string>
 Yenidən başlayın."</string>
     <string name="hr_fp_report_common_desc">Normal ürək döyüntüsü, dəqiqədə 60-100 döyünmə arasında dəyişir. 60 BPM-dən aşağı ürək döyüntüsü, bradikardiyanın əlamətidir. Böyüklərdə 100 BPM-dən yuxarı ürək döyüntüsü, taxikardiya olaraq qəbul edilir.</string>
     <string name="hr_heart_rate_unit">Ürək döyünmə sürəti (BPM)</string>
-    <string name="hr_in_detect">Zəhmət olmasa test zamanı barmaqlarınızı buraxmayın</string>
+    <string name="hr_in_detect">Lütfən test zamanı barmaqlarınızı buraxmayın</string>
     <string name="hr_input_heart_rate">Ürək döyüntüsünü qeyd edin</string>
     <string name="hr_measure_heart_rate">Ürək döyüntüsünün ölçülməsi</string>
     <string name="hr_open_permission_desc">MiHealth-in, ürək döyüntüsünü aşkarlamaq üzrə qan axını dəyişikliklərini əldə etmək üçün kamera icazəsinə ehtiyacı var. Razılaşırsınız?</string>
-    <string name="hr_open_permission_title">Zəhmət olmasa əlaqəli icazələri açın</string>
+    <string name="hr_open_permission_title">Lütfən əlaqəli icazələri açın</string>
     <string name="hr_phone_detect_records">Mobil telefon aşkarlama qeydi</string>
     <string name="hr_pre_detect">Fənəri və kameranı tək barmaqla tam örtün</string>
     <string name="hr_pre_detect_finger">Yoxlanılır…</string>

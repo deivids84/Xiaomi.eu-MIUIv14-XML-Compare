@@ -274,24 +274,24 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="guarded_mode_dialog_title">"Qonaq rejimindəsiniz"</string>
     <string name="guarded_mode_dialog_transfer_message">"Qonaq rejimində Mi Mover istifadə edilə bilmir."</string>
     <string name="hide_password_description">Parolu gizlət</string>
-    <string name="hsa_code_null">"Təsdiqləmə kodu boş buraxıla bilməz"</string>
-    <string name="hsa_input_hint">Təsdiqləmə kodunu daxil edin</string>
-    <string name="hsa_input_tip">Apple Kimliyiniz, iki mərhələli kimlik təsdiqləməsi istifadə edir. Təsdiqləmə kodunu daxil edin.</string>
+    <string name="hsa_code_null">"Doğrulama kodu boş ola bilməz"</string>
+    <string name="hsa_input_hint">Doğrulama kodunu daxil edin</string>
+    <string name="hsa_input_tip">Apple Kimliyiniz, iki mərhələli kimlik doğrulamanı istifadə edir. Doğrulama kodunu daxil edin.</string>
     <string name="hsa_send_again">Yenidən göndər</string>
     <string name="hsa_send_again_countdown">Yenidən göndər (%d san)</string>
-    <string name="hsa_send_failed">"Təsdiqləmə kodu göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="hsa_send_failed">"Doğrulama kodu göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="hsa_sending">Göndərilir…</string>
-    <string name="hsa_tip_message">"1. Təsdiqləmə kodunu ala bilmirsinizsə, Apple cihazınızda iCloud-a daxil olduğunuzdan əmin olun.
-2. Daxil edilən təsdiqləmə kodu kömək etmirsə, iki mərhələli kimlik təsdiqləməni söndürün. "</string>
+    <string name="hsa_tip_message">"1. Doğrulama kodunu ala bilmirsinizsə, Apple cihazınızdakı iCloud-da hesabınıza daxil olduğunuza əmin olun.
+2. Daxil edilən doğrulama kodu kömək etmirsə, iki mərhələli kimlik doğrulamanı söndürün. "</string>
     <string name="hsa_tip_message_shutdown_hsa">İki mərhələli kimlik təsdiqləməsini necə söndürmək olar?</string>
-    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqələndirilmiş \"%s\" cihazına təsdiqləmə kodu olan bir mesaj göndərildi.\n2. Əgər təsdiqləmə kodu işləməsə, iki mərhələli kimlik təsdiqləməsini söndürün."</string>
+    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqələndirilmiş \"%s\" cihazına doğrulama kodu olan bir mesaj göndərildi.\n2. Əgər doğrulama kodu işləməsə, iki mərhələli kimlik doğrulamanı söndürün."</string>
     <string name="hsa_tip_title">Məsləhətlər:</string>
     <string name="hsa_title">İki mərhələli kimlik təsdiqləmə</string>
     <string name="hsa_verify_failed">İki mərhələli kimlik təsdiqləmə uğursuz oldu</string>
     <string name="hsa_verify_failed_message">İki mərhələli kimlik təsdiqləmə uğursuz oldu. Yenidən sınaya və ya iki mərhələli kimlik təsdiqləməni söndürə bilərsiniz.</string>
     <string name="hsa_verify_retry">Yenidən sına</string>
     <string name="hsa_verify_shutdown">Bağla</string>
-    <string name="iCloud_ID_verification_tip">Təsdiqləmə kodunu göstərmək üçün Apple cihazınızda \"İcazə ver\" seçiminə toxunun. Təsdiqləmə kodunu bura daxil edin.</string>
+    <string name="iCloud_ID_verification_tip">Doğrulama kodunu göstərmək üçün Apple cihazınızda \"İcazə ver\" seçiminə toxunun. doğrulama kodunu bura daxil edin.</string>
     <string name="icloud_backup_tip">Köhnə iOS cihazınızın iCloud hesabına daxil olun</string>
     <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Tənzimləmələri açın və iCloud-u seçin.
 2. Kontaktlar və digər elementlər üçün düymələri dəyişdirin.
@@ -338,7 +338,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="local_main_backup_time">Ən son nüsxələmə: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Mi Hesabınızı istifadə edərək nüsxələdiyiniz elementləri şifrələyin</string>
-    <string name="local_main_encrypt_backup_title">Elementləri bərpa etmək üçün hesabı təsdiqləyin</string>
+    <string name="local_main_encrypt_backup_title">Elementləri bərpa etmək üçün hesabı doğrulayın</string>
     <string name="local_main_latest_backup_time_loading">Bir saniyə…</string>
     <string name="local_no_backup">Nüsxə yoxdur.</string>
     <string name="local_no_backup_data">Hələ ki, burada nüsxə yoxdur</string>

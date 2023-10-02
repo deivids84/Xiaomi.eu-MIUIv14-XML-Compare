@@ -1733,7 +1733,7 @@ mövcuddur"</string>
     <string name="network_title">Şəbəkəyə bağlan</string>
     <string name="new_album_invalid_byte">Bu ad çox uzundur</string>
     <string name="new_album_invalid_char">"Adlara \"%s\" simvolu daxil ola bilməz, hərf və ya rəqəm daxil edin."</string>
-    <string name="new_album_invalid_name">\"%s\" sistem albomudur, zəhmət olmasa adını dəyişin.</string>
+    <string name="new_album_invalid_name">\"%s\" sistem albomudur, lütfən adını dəyişdirin.</string>
     <string name="new_album_invalid_prefix">"Albom adı başlanğıcında \".\" və ya \"_\" istifadə etməyin."</string>
     <string name="new_relation_invalid_char">"Qrup adlarına “%s” daxil ola bilməz. Hərflər, rəqəmlər və ya simvollar istifadə edin."</string>
     <string name="new_relation_invalid_name">“%s” adlı qrup artıq mövcuddur, bu qrupun adını dəyişin.</string>

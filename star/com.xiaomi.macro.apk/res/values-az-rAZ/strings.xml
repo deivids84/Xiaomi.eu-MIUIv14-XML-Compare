@@ -64,7 +64,7 @@
     <string name="gb_game_macro_record_action">Yazmağa başlamaq üçün toxunun</string>
     <string name="gb_game_macro_save">Saxla</string>
     <string name="gb_game_macro_save_exit">Saxla</string>
-    <string name="gb_macro_floatview_noti">Zəhmət olmasa MiMacro-nun digər tətbiqlərin üzərində görüntülənməsinə icazə verin</string>
+    <string name="gb_macro_floatview_noti">Lütfən MiMacro-nun digər tətbiqlərin üzərində görüntülənməsinə icazə verin</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
     <string name="multiple_times">Sürət</string>
     <string name="name_can_not_be_renamed">Bu adda bir element artıq mövcuddur</string>

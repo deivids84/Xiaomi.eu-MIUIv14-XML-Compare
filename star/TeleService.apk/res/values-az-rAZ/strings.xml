@@ -462,8 +462,8 @@
     <string name="cell_bc_sms_enable">Hüceyrəvi Yayım SMS-i fəallaşdırıldı</string>
     <string name="cell_broadcast_settings">Fövqəladə hal yayımları</string>
     <string name="cell_broadcast_sms">Hüceyrəvi Yayım SMS-i</string>
-    <string name="cf_setting_mobile_data_alert">Zəhmət olmasa mobil interneti açın və Wi-Fi-ın sönülü olduğundan əmin olun</string>
-    <string name="cf_setting_mobile_data_roaming_alert">Zəhmət olmasa data roaminqi işə salın</string>
+    <string name="cf_setting_mobile_data_alert">Lütfən mobil interneti açın və Wi-Fi-ın sönülü olduğundan əmin olun</string>
+    <string name="cf_setting_mobile_data_roaming_alert">Lütfən data rouminqi işə salın</string>
     <string name="cfb_title">Məşğul olduqda yönləndir</string>
     <string name="cfnrc_title">Əlçatmaz olduqda yönləndir</string>
     <string name="cfnrc_title_cta">Əlçatmaz olduqda yönləndir</string>
@@ -755,7 +755,7 @@
     <string name="enter_callbarring_password">Zəng qadağası parolunu daxil edin (%d rəqəmli)</string>
     <string name="enter_esim_manager">eSIM-i idarə et</string>
     <string name="enter_esim_manager_title">eSIM-i idarə et</string>
-    <string name="enter_input">USSD mesajı %1$d-%2$d arası simvoldan ibarət olmalıdır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="enter_input">USSD mesajı %1$d-%2$d arası simvoldan ibarət olmalıdır. Lütfən yenidən sınayın.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">SIM PIN:</string>
     <string name="entertainment_news_settings">Əyləncə xəbərləri</string>
@@ -1294,7 +1294,7 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
     <string name="no_mobile_data_roaming">Data roaminq əlçatmazdır</string>
     <string name="no_rtt_when_roaming">Qeyd: Rouminqdə olarkən RTT əlçatmazdır</string>
     <string name="no_unlock_chance_hint">"Yenidən sınama cəhdiniz yoxdur.
-Zəhmət olmasa operatorunuzla əlaqə saxlayın"</string>
+Lütfən operatorunuzla əlaqə saxlayın"</string>
     <string name="no_vm_number">Əskik səsli poçt nömrəsi</string>
     <string name="no_vm_number_msg">SIM kartda heç bir səsli poçt nömrəsi yoxdur.</string>
     <string name="no_voice_capability">"Operatorla əlaqə saxlanıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -1820,7 +1820,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Aktivləşdir</string>
     <string name="sip_account_disable">"Hesab aktiv deyil. Zənglər qəbul edilə bilmir."</string>
     <string name="sip_accounts_removed_notification_action">Tənzimləmələrə get</string>
-    <string name="sip_accounts_removed_notification_message">"SIM zəngi, artıq Android platformasında dəstəklənmir. Mövcud SIP hesablarınız %s silindi. Zəhmət olmasa ilkin zəng hesabı tənzimləmənizi təsdiqləyin."</string>
+    <string name="sip_accounts_removed_notification_message">"SIM zəngi, artıq Android platformasında dəstəklənmir. Mövcud SIP hesablarınız %s silindi. Lütfən ilkin zəng hesabı tənzimləmənizi təsdiqləyin."</string>
     <string name="sip_accounts_removed_notification_title">Köhnəlmiş SIP hesabları tapıldı və silindi</string>
     <string name="sip_add_account_tip_text">İnternet zəngini istifadə etmək üçün, bir SIP hesabı əlavə edin</string>
     <string name="sip_call_options_entry_3">Hər zəng üçün soruş</string>
@@ -1929,7 +1929,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="switch_cancel_btn_text">İmtina</string>
     <string name="switch_confirm_btn_text">Oldu</string>
     <string name="switch_dds_to_sub_alert">Bu kartı ilkin internet kartı olaraq tənzimlə.</string>
-    <string name="switch_dds_to_sub_alert_msg">Zəhmət olmasa mobil interneti SIM-ə keçirin</string>
+    <string name="switch_dds_to_sub_alert_msg">Lütfən mobil interneti SIM-ə keçirin</string>
     <string name="switch_debug_menu">Əlavə şəbəkə tənzimləmələri</string>
     <string name="switch_off">Bağlı</string>
     <string name="switch_on">Açıq</string>
@@ -2058,7 +2058,7 @@ Bu problem davam edərsə, operatorunuzla əlaqə saxlayın."</string>
     <string name="vm_change_pin_error_too_weak">Yeni PIN kod çox zəifdir. Güclü parol, davamlı ardıcıllıq və ya təkrarlanan rəqəmlərdən ibarət olmamalıdır.</string>
     <string name="vm_change_pin_new_pin">Yeni PIN</string>
     <string name="vm_change_pin_old_pin">Köhnə PIN</string>
-    <string name="vm_change_pin_progress_message">Zəhmət olmasa gözləyin.</string>
+    <string name="vm_change_pin_progress_message">Lütfən gözləyin.</string>
     <string name="vm_changed">Səsli poçt nömrəsi dəyişdirildi.</string>
     <string name="voice_number_setting_primary_user_only">Səsli poçt tənzimləmələri yalnız Əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
     <string name="voice_privacy">Səs gizliliyi</string>

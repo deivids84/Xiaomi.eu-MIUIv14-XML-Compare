@@ -440,8 +440,8 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="cannot_move_warning_message">Foto çəkilir, cihazı sabit saxlayın</string>
     <string name="capture_back_pressed_hint">Çıxmaq üçün yenidən toxunun</string>
     <string name="capture_shortcut_short">Selfi</string>
-    <string name="ccc_temperature_warning_msg">Cihazınız həddindən çox qızıb. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</string>
-    <string name="ccc_temperature_warning_title">Cihaz həddindən çox qızıb</string>
+    <string name="ccc_temperature_warning_msg">Cihazınız aşırı isinib. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</string>
+    <string name="ccc_temperature_warning_title">Cihaz aşırı isinib</string>
     <string name="center_mark">Mərkəz işarəsi</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clone_adjust">Tənzimlə</string>
@@ -474,8 +474,8 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="clone_too_much_movement_stop">Cihazı çox uzaqlaşdırdınız. İndilik yaxalama dayandırıldı.</string>
     <string name="clone_video_mode">Video</string>
     <string name="close">Bağla</string>
-    <string name="close_back_flash_toast">Həddindən artıq qızmaya görə fənər söndürüldü</string>
-    <string name="close_front_flash_toast">"Cihazınız həddindən artıq qızıb. İndi fənər istifadə edilə bilmir."</string>
+    <string name="close_back_flash_toast">Aşırı isinməyə görə fənər söndürüldü</string>
+    <string name="close_front_flash_toast">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
     <string name="close_night_algo_toast_low_power">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı doldurun</string>
     <string name="close_night_algo_toast_thermal">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı soyudun</string>
     <string name="color_effect_entry_berry">Giləmeyvələr</string>
@@ -1137,7 +1137,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="object_track_enable_toast">Bir obyekti seçmək üçün sərhədinin ətrafındakı iki diaqonal nöqtəyə eyni anda toxunun.</string>
     <string name="only_mimoji_multi_window_mode_not_supported">"Bu özəllik çoxlu pəncərə rejimində istifadə edilə bilməz"</string>
     <string name="pad_cannot_connect_camera_twice">"Kameraya hələ də bağlana bilmir. Cihazınızı yenidən başlatmağa çalışın."</string>
-    <string name="pad_close_back_flash_toast">"Cihazınız həddindən artıq qızıb. İndi fənər istifadə edilə bilmir."</string>
+    <string name="pad_close_back_flash_toast">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
     <string name="pad_close_night_algo_toast_thermal">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı soyudun</string>
     <string name="pad_pref_camera_lying_summary">Cihaz yerə paralel olduqda hazırkı istiqaməti bildir</string>
     <string name="pad_super_night_toast">Foto çəkərkən cihazınızı sabit saxlayın</string>

@@ -589,7 +589,7 @@
     <string name="copy">Kopyala</string>
     <string name="crescendo_ringer_summary">Zəng səsi səviyyəsi tədricən təyin etdiyiniz səviyyəyə qədər artacaq</string>
     <string name="crescendo_ringer_title">Artan zəng səsi</string>
-    <string name="ct_ut_not_support_close_4glte">UT əlçatmazdır, zəhmət olmasa Tənzimləmələrdə Təkmilləşdirilmiş 4G LTE rejimini söndürün</string>
+    <string name="ct_ut_not_support_close_4glte">UT əlçatmazdır, lütfən Tənzimləmələrdə Təkmilləşdirilmiş 4G LTE rejimini söndürün</string>
     <string name="data_disable_warning_no_mms">"Mobil interneti söndürsəniz, MMS göndərə və ala bilməyəcəksiniz (WCDMA/LTE). Bununla belə, cihazınız Wi-Fi şəbəkəsi ilə bağlantı qurduqda bunu edə biləcəksiniz."</string>
     <string name="data_disable_warning_with_mms">"Mobil interneti söndürsəniz, yenə də MMS göndərə və ala biləcəksiniz (WCDMA/LTE). İnterneti istifadə etmək üçün Wi-Fi şəbəkəsi ilə bağlantı qurun."</string>
     <string name="data_enable_always_warn">Mobil internetin istifadə edilib-edilməyəcəyini soruş</string>
@@ -1232,7 +1232,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="msim_switch_data_conn_toast">SIM kartlar dəyişdirilir. Şəbəkə növü dəyişdirildi.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM 2 yuvası yalnız GSM şəbəkələrini dəstəkləyir. Bu yuva üçün tərcih edilən şəbəkə növü yalnız 2G olaraq dəyişdirildi.</string>
     <string name="mtn_simlock_emergency">Fövqəladə hal</string>
-    <string name="mtn_simlock_text_tip">Taxılmış SIM kart tələblərə cavab vermir. Telefonu istifadə etməzdən əvvəl müqavilə üzrə tələb olunan bir SIM kart taxmalısınız. Detallar üçün, zəhmət olmasa yerli operatorla əlaqə saxlayın.</string>
+    <string name="mtn_simlock_text_tip">Taxılmış SIM kart tələblərə cavab vermir. Telefonu istifadə etməzdən əvvəl müqavilə üzrə tələb olunan bir SIM kart taxmalısınız. Detallar üçün, lütfən yerli operatorla əlaqə saxlayın.</string>
     <string name="multi_category_disable">Çoxlu kateqoriya sıradan çıxarıldı</string>
     <string name="multi_category_enable">Çoxlu kateqoriya fəallaşdırıldı</string>
     <string name="n28_summary">803MHz tezlik bantını istifadə et</string>
@@ -2036,7 +2036,7 @@ Növbəti dövr %2$d günə başlayır (%3$s)"</string>
     <string name="ussdRunning">USSD kodu işləyir…</string>
     <string name="ussdinitiated_title">USSD başladıldı</string>
     <string name="ut_not_support">UT əlçatmazdır</string>
-    <string name="ut_unavailable_to_set_video_cf_toast">UT, görüntü üzrə zəng yönləndirməsini tənzimləmək üçün əlçatmazdır, zəhmət olmasa bu səhifəni bağlayıb çıxın.</string>
+    <string name="ut_unavailable_to_set_video_cf_toast">UT, görüntü üçün zəng yönləndirməsini tənzimləyə bilmir, lütfən bu səhifəni bağlayıb çıxın.</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="vibrating_for_outgoing_call_accepted_summary">Qəbul edilən gedən zəng üçün titrəmə rejimini fəallaşdır</string>

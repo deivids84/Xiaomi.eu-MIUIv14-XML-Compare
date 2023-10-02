@@ -940,8 +940,8 @@ Hələ də fövqəladə hal zəngləri edə bilərsiniz.\"</string>
     <string name="jp_sb_label_ndp">"digər operatorun USIM-i daxil edildi
 kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="jp_sb_sim_lock_unlock_psw_max_length">Daxil edilən kilid açma kodu 8 rəqəmdən az və ya 16 rəqəmdən çoxdur</string>
-    <string name="jp_sb_unlock_failed">Kilid açma kodunun təsdiqlənməsi uğursuz oldu.</string>
-    <string name="jp_sb_unlock_success">Kilid açma kodu uğurla təsdiqləndi.</string>
+    <string name="jp_sb_unlock_failed">Kilid açma kodunun doğrulanması uğursuz oldu.</string>
+    <string name="jp_sb_unlock_success">Kilid açma kodu uğurla doğrulandı.</string>
     <string name="jump_to_mobile_network_setting">Mobil şəbəkə tənzimləmələri</string>
     <string name="keywords_carrier_settings_euicc">operator, esim, sim, euicc, operatoru dəyişdir, operator əlavə et</string>
     <string name="kr_emergency_111">Milli təhlükəsizlik (111)</string>

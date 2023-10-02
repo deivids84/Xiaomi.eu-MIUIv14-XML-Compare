@@ -63,7 +63,7 @@
     <string name="ad_in_installing">Quraşdırılır</string>
     <string name="add">Əlavə et</string>
     <string name="add_home_icon_success">Uğurla əlavə edildi</string>
-    <string name="add_resource_detail_fail">"Mənbə əlavə edilə bilmədi"</string>
+    <string name="add_resource_detail_fail">"Resurs əlavə edilə bilmir"</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="all_resources">Hamısı</string>
     <string name="allow">İcazə verildi</string>
@@ -139,7 +139,7 @@
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="browse_mode">Onlayn rejim</string>
     <string name="browse_mode_desc">"Temalar, internetə bağlanacaq və həm yerli, həm də onlayn məzmunu istifadə edəcək. Şəxsi məlumatlarınız yığılmayacaq."</string>
-    <string name="browser_local_resource">Yerli mənbələr</string>
+    <string name="browser_local_resource">Yerli resurslar</string>
     <string name="can_not_apply">Tətbiq edilə bilmir</string>
     <string name="can_not_apply_error">"Bu video formatı dəstəklənmir"</string>
     <string name="can_not_apply_pc_video">"PC rejimi, canlı divar kağızlarını dəstəkləmir"</string>
@@ -512,7 +512,7 @@ Bu özəlliyi söndürmək üçün, Tənzimləmələr &gt; Səs və titrəmə &g
     <string name="load_from_local_photos">Qalereya</string>
     <string name="loading">Bir saniyə…</string>
     <string name="loading_picture">Təsvir yüklənir…</string>
-    <string name="loading_resource_detail_fail">"Mənbə yüklənə bilmədi"</string>
+    <string name="loading_resource_detail_fail">"Resurs yüklənə bilmir"</string>
     <string name="loading_resource_detail_info">Bir saniyə…</string>
     <string name="local_mode">Xətdən kənar rejimi</string>
     <string name="local_mode_close">Xətdən kənar rejimi söndürülsün?</string>
@@ -744,7 +744,7 @@ mm"</string>
     <string name="online_precust_museum">Britaniya Muzeyi</string>
     <string name="online_precust_plant">Bitki</string>
     <string name="online_precust_scenery">Mənzərə</string>
-    <string name="online_search_hint">Onlayn mənbələrdə axtarın</string>
+    <string name="online_search_hint">Onlayn resursları axtar</string>
     <string name="order_list">Sifariş tarixçəsi</string>
     <string name="ota_recovery_theme_dialog_message">Daha əvvəl istifadə edilən temanın bəzi elementləri MIUI-ın yeni versiyası ilə uyğunlaşmaya bilər. Uyğunsuz elementlər ilkin seçimlərlə əvəzlənəcək.</string>
     <string name="ota_recovery_theme_dialog_title">Orijinal tema bərpa edilir</string>
@@ -944,7 +944,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_account_login_title">Daxil ol</string>
     <string name="resource_account_switch">Dəyişdir</string>
     <string name="resource_alarm_default">Zəngli saat</string>
-    <string name="resource_app_name">Mənbələrə bax</string>
+    <string name="resource_app_name">Resurslara bax</string>
     <string name="resource_apply">Tətbiq et</string>
     <string name="resource_apply_trial">Tətbiq et</string>
     <string name="resource_back">Geri</string>
@@ -994,13 +994,13 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_comment_upload_success">Rəyiniz qısa bir incələmədən sonra görüntülənəcək.</string>
     <string name="resource_comment_wonderful_comments">Məşhur rəylər</string>
     <string name="resource_continue">Növbəti</string>
-    <string name="resource_current_using_title">Mövcud mənbələr</string>
+    <string name="resource_current_using_title">Mövcud resurslar</string>
     <string name="resource_data_empty">Burada element yoxdur.</string>
     <string name="resource_default">İlkin zəng səsi</string>
-    <string name="resource_default_name">Mənbə</string>
+    <string name="resource_default_name">Resurs</string>
     <string name="resource_delete">Sil</string>
-    <string name="resource_delete_all">Seçilmiş %1$d mənbə silinsin?</string>
-    <string name="resource_delete_confirm">Bu mənbələr silinsin?</string>
+    <string name="resource_delete_all">Seçilmiş %1$d resurs silinsin?</string>
+    <string name="resource_delete_confirm">Bu resurslar silinsin?</string>
     <string name="resource_delete_font_title">Şriftləri sil</string>
     <string name="resource_delete_icon_title">Nişanları sil</string>
     <string name="resource_delete_ring_title">Zəng səslərini sil</string>
@@ -1021,7 +1021,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_download">Endir</string>
     <string name="resource_download_notification_title_one">%1$s uğurla endirildi</string>
     <string name="resource_download_trial">Sına</string>
-    <string name="resource_downloaded_title">Endirilmiş mənbələr</string>
+    <string name="resource_downloaded_title">Endirilmiş resurslar</string>
     <string name="resource_downloading">Endirilir</string>
     <string name="resource_exchange">İstifadə et</string>
     <string name="resource_exchange_confirm">Oldu</string>
@@ -1125,7 +1125,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_share_text">"Xoşlayacağını düşündüyüm bir tema: %1$s! Link: %2$s"</string>
     <string name="resource_share_title">Paylaş</string>
     <string name="resource_status_error">"Bir xəta baş verdi. Bu divar kağızına indi baxıla bilmir."</string>
-    <string name="resource_system_title">Sistem mənbələri</string>
+    <string name="resource_system_title">Sistem resursları</string>
     <string name="resource_tab_to_view">Baxmaq üçün toxunun.</string>
     <string name="resource_tip_select_none">Heç biri seçilmədi</string>
     <string name="resource_title">Detallar</string>

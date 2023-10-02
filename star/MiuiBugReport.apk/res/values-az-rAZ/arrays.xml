@@ -13,14 +13,14 @@
         <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
-        <item>Şəbəkəyə müraciət üçün kimlik təsdiqləmə tələb olunur</item>
+        <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
         <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
         <item>Şəbəkə xətası. HTTP proksi tənzimləmələrini yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
         <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
-        <item>Şəbəkəyə müraciət üçün kimlik təsdiqləmə tələb olunur</item>
+        <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
         <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
         <item>Şəbəkə xətası. HTTP proksi tənzimləmələrini yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>

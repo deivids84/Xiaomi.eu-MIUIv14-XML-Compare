@@ -3089,7 +3089,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="transfer_banner_msg_migrate_complete">Elementlər \"Google Fotolar\"a köçürüldü. Sinxronlaşdırılmamış nüsxələri yoxa çıxmazdan əvvəl görün və endirin.</string>
     <string name="transfer_banner_msg_migrate_download_progress">Tələb olunan endirmə hazırlanır…</string>
     <string name="transfer_banner_msg_migrate_download_success">Tələb olunan elementləri endirə bilərsiniz. Endirmə keçidi yalnız %d günlük yararlıdır.</string>
-    <string name="transfer_banner_msg_migrate_tips">İtirməmək üçün sinxronlaşdırılmamış elementləri %1$s tarixindən əvvəl köçürün</string>
+    <string name="transfer_banner_msg_migrate_tips">Sinxronlaşdırılmamış elementləri itirməmək üçün %1$s tarixindən əvvəl köçürün</string>
     <string name="transfer_dialog_btn_cancel">İmtina</string>
     <string name="transfer_dialog_btn_cancle_deal">İndi yox</string>
     <string name="transfer_dialog_btn_check_download_status">İrəliləyişə bax</string>

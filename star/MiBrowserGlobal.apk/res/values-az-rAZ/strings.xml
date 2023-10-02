@@ -1597,8 +1597,8 @@ Bu səhifə tərk edilsin?"</string>
     <string name="passport_sms_phone_intro">Kod göndərildi: %1$s</string>
     <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_switch_voice_captcha">Səsli təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_voice_captcha">Səsli təsdiqləmə kodunu oxut</string>
+    <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
+    <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
     <string name="passport_timeout_network_error">Şəbəkə tələbinin vaxtı bitdi</string>
     <string name="passport_trust_device">Bu, güvənli cihazdır</string>
     <string name="passport_trying_read_verify_code_sms">Təsdiqləmə kodu alınır…</string>

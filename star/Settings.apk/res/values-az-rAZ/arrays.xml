@@ -1476,10 +1476,10 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>PPTP VPN</item>
         <item>Ön-paylaşılmış açarlara sahib L2TP/IPSec VPN</item>
         <item>Sertifikatlara sahib L2TP/IPSec VPN</item>
-        <item>Ön-paylaşılmış açarlara və Xauth kimlik təsdiqləməsinə sahib IPSec VPN</item>
-        <item>Sertifikatlara və Xauth kimlik təsdiqləməsinə IPSec VPN</item>
-        <item>Sertifikatlara və hibrid kimlik təsdiqləməsinə sahib IPSec VPN</item>
-        <item>Sertifikatlara və istifadəçi adı/parol təsdiqləməsinə sahib IKEv2/IPSec VPN</item>
+        <item>Ön-paylaşılmış açarlara və Xauth kimlik doğrulamasına sahib IPSec VPN</item>
+        <item>Sertifikatlara və Xauth kimlik doğrulamasına sahib IPSec VPN</item>
+        <item>Sertifikatlara və hibrid kimlik doğrulamasına sahib IPSec VPN</item>
+        <item>Sertifikatlara və istifadəçi adı/parol kimlik doğrulamasına sahib IKEv2/IPSec VPN</item>
         <item>Ön-paylaşılmış açarlara sahib L2TP/IPSec VPN</item>
         <item>Sertifikatlara sahib IKEv2/IPSec VPN</item>
     </string-array>
@@ -1596,7 +1596,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item></item>
         <item>Skan edilir…</item>
         <item>Bağlantı qurulur…</item>
-        <item>Kimlik təsdiqlənir…</item>
+        <item>Kimlik doğrulanır…</item>
         <item>IP ünvanı alınır…</item>
         <item>Bağlantılıdır</item>
         <item>Dayandırıldı</item>
@@ -1610,7 +1610,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item></item>
         <item>Skan edilir…</item>
         <item>%1$s ilə bağlantı qurulur…</item>
-        <item>%1$s üzərində kimlik təsdiqlənir…</item>
+        <item>%1$s ilə kimlik doğrulanır…</item>
         <item>%1$s şəbəkəsindən IP ünvanı alınır…</item>
         <item>%1$s ilə bağlantılıdır</item>
         <item>Dayandırıldı</item>
@@ -1631,7 +1631,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item></item>
         <item>Skan edilir…</item>
         <item>Bağlantı qurulur…</item>
-        <item>Kimlik təsdiqlənir…</item>
+        <item>Kimlik doğrulanır…</item>
         <item>IP ünvanı əldə edilir…</item>
         <item>Bağlantılıdır</item>
         <item>Dayandırıldı</item>

@@ -379,12 +379,12 @@ Hər iki cihaz eyni şəbəkəyə bağlana bilmirsə, xarici monitorunuzda Mirac
     <string name="help_page_text_13">"Xarici cihaza bağlana bilmirsiniz?"</string>
     <string name="help_page_text_14">"%1$d. Bir Xiaomi cihazı istifadə etmək istəyirsiniz, ancaq mövcud cihazların siyahısında onu tapa bilmirsinizsə, aşağıdakıları sınayın:
 Mobil cihazınızı və xarici monitorunuzu (məs. TV-niz) eyni şəbəkəyə bağlayın və ya xarici monitorunuzu mobil cihazınızın hotspot-una bağlayın. Heç bir əlçatan şəbəkə yoxdursa və ya cihazlarınızı eyni şəbəkəyə bağlaya bilmirsinizsə, xarici monitorunuzdakı yayım özəlliklərinin güncəl olub-olmadığını yoxlayın, mobil cihazınızda və xarici monitorunuzda Bluetooth-u açın, TV-nizdə Miracast-ı işə salın.
-%2$d. Bir Xiaomi cihazında ilk dəfə yayım edirsinizsə, təsdiqləmə prosesini tamamlamağınız lazımdır.
+%2$d. Bir Xiaomi cihazında ilk dəfə yayım edirsinizsə, doğrulamanı tamamlamağınız lazımdır.
 %3$d. Bir Xiaomi olmayan cihaz istifadə etmək istəyirsiniz, ancaq mövcud cihazların siyahısında onu tapa bilmirsinizsə, aşağıdakıları sınayın:
 Mobil cihazınızı və xarici monitorunuzu (məs. TV-niz) eyni şəbəkəyə bağlayın və ya xarici monitorunuzu mobil cihazınızın hotspot-una bağlayın. Əgər bu kömək etməsə, TV-nizdə HappyCast tətbiqini quraşdırıb təlimatları izləyin."</string>
     <string name="help_page_text_14_global">"%1$d. Bir Xiaomi cihazı istifadə etmək istəyirsiniz, ancaq mövcud cihazların siyahısında onu tapa bilmirsinizsə, aşağıdakıları sınayın:
 Mobil cihazınızı və xarici monitorunuzu (məs. TV-niz) eyni şəbəkəyə bağlayın və ya xarici monitorunuzu mobil cihazınızın hotspot-una bağlayın. Heç bir əlçatan şəbəkə yoxdursa və ya cihazlarınızı eyni şəbəkəyə bağlaya bilmirsinizsə, xarici monitorunuzdakı yayım özəlliklərinin güncəl olub-olmadığını yoxlayın, mobil cihazınızda və xarici monitorunuzda Bluetooth-u açın, TV-nizdə Miracast-ı işə salın.
-%2$d. Bir Xiaomi cihazında ilk dəfə yayım edirsinizsə, təsdiqləmə prosesini tamamlamağınız lazımdır.
+%2$d. Bir Xiaomi cihazında ilk dəfə yayım edirsinizsə, doğrulamanı tamamlamağınız lazımdır.
 %3$d. Bir Xiaomi olmayan cihaz istifadə etmək istəyirsiniz, ancaq mövcud cihazların siyahısında onu tapa bilmirsinizsə, aşağıdakıları sınayın:
 Mobil cihazınızı və xarici monitorunuzu (məs. TV-niz) eyni şəbəkəyə bağlayın və ya xarici monitorunuzu mobil cihazınızın hotspot-una bağlayın."</string>
     <string name="help_page_text_15">Fərqli cihazlardakı Miracast funksionallığı</string>

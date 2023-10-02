@@ -8,7 +8,7 @@
     <string name="cert_missing_error">"Sertifikat faylı tapıla bilmədiyi üçün quraşdırıla bilmədi."</string>
     <string name="cert_not_saved">Sertifikat quraşdırılmayıb.</string>
     <string name="cert_read_error">"Sertifikat faylı oxuna bilmədiyi üçün quraşdırıla bilmədi."</string>
-    <string name="cert_temp_error">Müvəqqəti xəta. Zəhmət olmasa daha sonra yenidən sınayın.</string>
+    <string name="cert_temp_error">Müvəqqəti xəta. Lütfən daha sonra yenidən sınayın.</string>
     <string name="cert_too_large_error">"Sertifikat həcmi çox böyük olduğu üçün quraşdırıla bilmədi."</string>
     <string name="certificate">Sertifikat</string>
     <string name="certificate_capabilities_warning">Qeyd: Bu sertifikatı verən, cihaza gələn və cihazdan gedən bütün trafiki yoxlaya bilər.</string>

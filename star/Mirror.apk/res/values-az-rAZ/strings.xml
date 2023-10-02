@@ -40,8 +40,8 @@
     <string name="cancel">İmtina</string>
     <string name="cast_mcc_tips_button_cancel">Yox say</string>
     <string name="cast_mcc_tips_button_ok">Tənzimləmələr</string>
-    <string name="cast_mcc_tips_message">MIUI+ ilə gecikmələrin qarşısını almaq üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
-    <string name="cast_mcc_tips_message_china">MIUI+ ilə gecikmələrin qarşısını almaq üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
+    <string name="cast_mcc_tips_message">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
+    <string name="cast_mcc_tips_message_china">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
     <string name="cast_mcc_tips_title">Wi-Fi tənzimləmələrini dəyişdir</string>
     <string name="cast_mcc_tips_title_china">Wi-Fi tənzimləmələrini dəyişdir</string>
     <string name="circulate_cta_agree">Razıyam</string>

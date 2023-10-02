@@ -280,7 +280,7 @@
     <string name="micloud_confusion_entrance_title">Məlumat dəyişdirildi</string>
     <string name="micloud_confusion_finish_hint">"Bu cihazda etdiyiniz dəyişikliklər bütün cihazlarınızda sinxronlaşdırılacaq. Hesabınızı qorumaq üçün, digər cihazlarınızı istifadə etməyəndə sinxronlaşdırmanı bağlamağı məsləhət görürük."</string>
     <string name="micloud_confusion_finish_message">Digər cihazlarda sinxronlaşdırmanı bağla.</string>
-    <string name="micloud_confusion_finish_title">Hesab təsdiqləndi</string>
+    <string name="micloud_confusion_finish_title">Hesab doğrulandı</string>
     <string name="micloud_confusion_no">Xeyr</string>
     <string name="micloud_confusion_ok">Oldu</string>
     <string name="micloud_confusion_setting_notify_text">Hesabınızla əlaqələndirilmiş digər cihazlar üçün sinxronlaşdırmanı bağlayın.</string>
@@ -624,7 +624,7 @@
     <string name="provision_sync_items_loading">Elementlər sinxronlaşdırılmağa hazırlanır</string>
     <string name="quick_service_after_sale_policy_title">Siyasət</string>
     <string name="quick_service_after_sale_service_title">Xidmətlər</string>
-    <string name="quick_service_authenticity_check_title">Kimlik təsdiqləmə</string>
+    <string name="quick_service_authenticity_check_title">Kimlik doğrulama</string>
     <string name="quick_service_maintenance_price_title">Təmirlər</string>
     <string name="quick_service_title">Cəld xidmətlər</string>
     <string name="reading_status">Status yüklənir…</string>

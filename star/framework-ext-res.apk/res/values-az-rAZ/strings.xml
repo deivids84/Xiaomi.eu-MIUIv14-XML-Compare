@@ -488,7 +488,7 @@
     <string name="standard_description">Gələn zənglər və bildirişlər üçün zəng səslərini susdur</string>
     <string name="standard_title">Səssiz</string>
     <string name="start_dump_log">Problemlə əlaqəli jurnal almağa başlayın</string>
-    <string name="start_security_permission_verify_text">Xiaomi Hesabınızla icazələri təsdiqləyin</string>
+    <string name="start_security_permission_verify_text">Xiaomi Hesabınızla icazələri doğrulayın</string>
     <string name="status_bar_toggle_auto_brightness">Parlaqlıq</string>
     <string name="status_bar_toggle_battery_saver">Batareyaya qənaət</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>

@@ -36,7 +36,7 @@
     <string name="arrange_restore_order">Tətbiqlər yenidən düzülür…</string>
     <string name="as_new_device">Əvvəlki Əsas ekran və tənzimləmələri dəyişdir</string>
     <string name="as_new_device_summary">Əvvəlki Xiaomi Cloud nüsxələrini sil</string>
-    <string name="authentication_failed">"Hesab təsdiqlənə bilmədi."</string>
+    <string name="authentication_failed">"Hesab doğrulana bilmədi."</string>
     <string name="back_up_task_in_process">Nüsxələnir…</string>
     <string name="back_up_task_unfinished">"Nüsxələnə bilmədi"</string>
     <string name="backing_up_to_micloud">Nüsxələnir…</string>

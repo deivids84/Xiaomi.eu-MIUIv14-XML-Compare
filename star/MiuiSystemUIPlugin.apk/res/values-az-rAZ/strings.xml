@@ -107,7 +107,7 @@
     <string name="controls_favorite_default_title">Kontrollar</string>
     <string name="controls_favorite_load_error">Bütün kontrolların siyahısı yüklənə bilmədi.</string>
     <string name="controls_favorite_other_zone_header">Digər</string>
-    <string name="controls_favorite_rearrange">Daşımaq üçün bir kontrolu basıb sürükləyin</string>
+    <string name="controls_favorite_rearrange">Daşımaq üçün bir kontrolu basılı tutun və sürükləyin</string>
     <string name="controls_favorite_removed">Bütün kontrollar silindi</string>
     <string name="controls_favorite_subtitle">Güc menyusundan müraciət etmək üçün kontrolları seçin</string>
     <string name="controls_favorite_toast_no_changes">Dəyişikliklər saxlanılmadı</string>
@@ -122,7 +122,7 @@
     <string name="controls_no_favorites_title">Ağıllı ev cihazlarını buradan idarə etmək üçün tətbiqləri seçin</string>
     <string name="controls_not_found_device_toast">Bu element artıq tətbiqdə silinib</string>
     <string name="controls_not_found_device_toast_mihome">Bu element artıq tətbiqdə silinib</string>
-    <string name="controls_offline_device_toast">Bu cihaz xətdən kənardadır. Tətbiqi açmaq üçün basılı saxlayın.</string>
+    <string name="controls_offline_device_toast">Bu cihaz oflayndır. Tətbiqi açmaq üçün basılı tutun.</string>
     <string name="controls_pin_instructions">PIN daxil et</string>
     <string name="controls_pin_instructions_retry">Digər PIN-i sınayın</string>
     <string name="controls_pin_use_alphanumeric">PIN hərflər və ya simvollar ehtiva edir</string>
@@ -131,7 +131,7 @@
     <string name="controls_providers_title">Kontrol əlavə edəcək tətbiqi seçin</string>
     <string name="controls_seeding_in_progress">Tövsiyələr yüklənir</string>
     <string name="controls_structure_tooltip">Daha çoxuna baxmaq üçün sürüşdürün</string>
-    <string name="controls_unsupport_toggle_toast">"Bu cihaz cəld əməliyyatları dəstəkləmir. Tətbiqi açmaq üçün basılı saxlayın."</string>
+    <string name="controls_unsupport_toggle_toast">"Bu cihaz cəld əməliyyatları dəstəkləmir. Tətbiqi açmaq üçün basılı tutun."</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
@@ -139,7 +139,7 @@
     <string name="dnd_popup_close_message">Anladım</string>
     <string name="dnd_popup_message">Media səslərini söndürmədən zəngləri və bildirişləri susdurmaq üçün \"Narahat etməyin\" rejimini aça bilərsiniz.</string>
     <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
-    <string name="drag_to_add_tiles">Elementləri əlavə etmək və ya yenidən düzmək üçün basılı saxlayın</string>
+    <string name="drag_to_add_tiles">Elementləri əlavə etmək və ya yenidən düzmək üçün basılı tutun</string>
     <string name="early_morning">Səhər</string>
     <string name="emergency_call">Fövqəladə hal zəngi</string>
     <string name="eras_ad">E.S.</string>
@@ -360,7 +360,7 @@
     <string name="quick_settings_screenshot_label">Ekran şəkli</string>
     <string name="quick_settings_sim_disabled">" (Sıradan çıxarıldı)"</string>
     <string name="quick_settings_sync_label">Sinxr</string>
-    <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir element əlavə etmək üçün ona basılı saxlayın, daha sonra onu panelin üst hissəsinə sürükləyin.</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir element əlavə etmək üçün elementi basılı tutun, daha sonra onu panelin üst hissəsinə sürükləyin.</string>
     <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_vibrate_label">Titrəmə</string>
     <string name="quick_settings_vowifi_label">Wi-Fi Zəngi</string>

@@ -147,7 +147,7 @@
     <string name="VideoView_error_title">Video problemi</string>
     <string name="accept">Qəbul et</string>
     <string name="accessibility_binding_label">Əlçatımlılıq</string>
-    <string name="accessibility_button_instructional_text">Özəlliklər arasında keçid etmək üçün, əlçatımlılıq düyməsinə basılı saxlayın.</string>
+    <string name="accessibility_button_instructional_text">Özəlliklər arasında keçid etmək üçün əlçatımlılıq düyməsini basılı tutun.</string>
     <string name="accessibility_button_prompt_text">Əlçatımlılıq düyməsinə toxunanda istifadə ediləcək özəlliyi seçin:</string>
     <string name="accessibility_dialog_button_allow">İcazə ver</string>
     <string name="accessibility_dialog_button_deny">Rədd et</string>
@@ -155,9 +155,9 @@
     <string name="accessibility_edit_shortcut_menu_volume_title">Səs düyməsi qısayolu ilə istifadə ediləcək özəllikləri seçin</string>
     <string name="accessibility_enable_service_title">%1$s üçün cihazınıza tam nəzarət icazəsi verirsiniz?</string>
     <string name="accessibility_freeform_caption">%1$s - başlıq çubuğu.</string>
-    <string name="accessibility_gesture_3finger_instructional_text">Özəlliklər arasında keçid etmək üçün, üç barmaqla yuxarı sürüşdürüb basılı saxlayın.</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Özəlliklər arasında keçid etmək üçün üç barmaqla yuxarı sürüşdürüb basılı tutun.</string>
     <string name="accessibility_gesture_3finger_prompt_text">Əlçatımlılıq jesti ilə istifadə ediləcək bir özəlliyi seçin (ekranın aşağısından yuxarıya üç barmaqla sürüşdürün):</string>
-    <string name="accessibility_gesture_instructional_text">Özəlliklər arasında keçid etmək üçün, iki barmaqla yuxarı sürüşdürüb basılı saxlayın.</string>
+    <string name="accessibility_gesture_instructional_text">Özəlliklər arasında keçid etmək üçün iki barmaqla yuxarı sürüşdürüb basılı tutun.</string>
     <string name="accessibility_gesture_prompt_text">Əlçatımlılıq jesti ilə istifadə ediləcək bir özəlliyi seçin (ekranın aşağısından yuxarıya iki barmaqla sürüşdürün):</string>
     <string name="accessibility_magnification_chooser_text">Böyütmə</string>
     <string name="accessibility_select_shortcut_menu_title">İstifadə etməyə başlamaq üçün bir özəlliyə toxunun:</string>
@@ -166,13 +166,13 @@
     <string name="accessibility_service_screen_control_description">Ekrandakı bütün məzmunu oxuya və digər tətbiqlərin üzərində görüntüləyə bilər.</string>
     <string name="accessibility_service_screen_control_title">Ekrana baxma və nəzarət</string>
     <string name="accessibility_service_warning_description">Tam nəzarət, əlçatımlılıq ehtiyaclarında sizə kömək edən tətbiqlər üçün uyğundur, digər bir çox tətbiq üçün uyğun deyildir.</string>
-    <string name="accessibility_shortcut_disabling_service">Səs düymələrinə basılı saxlayın. %1$s söndürüldü.</string>
-    <string name="accessibility_shortcut_enabling_service">Səs düymələrinə basılı saxlayın. %1$s işə salındı.</string>
+    <string name="accessibility_shortcut_disabling_service">Səs düymələrini basılı tutun. %1$s söndürüldü.</string>
+    <string name="accessibility_shortcut_enabling_service">Səs düymələrini basılı tutun. %1$s işə salındı.</string>
     <string name="accessibility_shortcut_menu_item_status_off">BAĞLI</string>
     <string name="accessibility_shortcut_menu_item_status_on">AÇIQ</string>
     <string name="accessibility_shortcut_multiple_service_list">" • %1$s
 "</string>
-    <string name="accessibility_shortcut_multiple_service_warning">"Hər iki səs düyməsini bir neçə saniyə ərzində basılı saxlamaq, əlçatımlılıq özəlliklərini işə salır. Bu cihazın işləmə formasını dəyişdirə bilər.
+    <string name="accessibility_shortcut_multiple_service_warning">"Hər iki səs düyməsini bir neçə saniyə tutmaq, əlçatımlılıq özəlliklərini işə salır. Bu cihazın işləmə formasını dəyişdirə bilər.
 
 Hazırkı özəlliklər:
 %1$s
@@ -180,12 +180,12 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da seçilmiş özəllikləri dəyiş
     <string name="accessibility_shortcut_multiple_service_warning_title">Əlçatımlılıq özəllikləri üçün qısayol işə salınsın?</string>
     <string name="accessibility_shortcut_off">İşə salınmasın</string>
     <string name="accessibility_shortcut_on">İşə sal</string>
-    <string name="accessibility_shortcut_single_service_warning">"Hər iki səs düyməsini bir neçə saniyə ərzində basılı saxlasanız, %1$s işə salınacaq. Bu cihazın işləmə formasını dəyişdirə bilər.
+    <string name="accessibility_shortcut_single_service_warning">"Hər iki səs düyməsini bir neçə saniyə basılı tutmaq, %1$s işə salınacaq. Bu cihazın işləmə formasını dəyişdirə bilər.
 
 Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyişdirə bilərsiniz."</string>
     <string name="accessibility_shortcut_single_service_warning_title">%1$s qısayolu işə salınsın?</string>
-    <string name="accessibility_shortcut_spoken_feedback">%1$s istifadə etmək üçün hər iki səs düyməsini üç saniyə basılı saxlayın</string>
-    <string name="accessibility_shortcut_toogle_warning">Qısayol açıq olanda, hər iki səs düyməsini 3 saniyə ərzində basılı saxlamaq, əlçatımlılıq xidmətini başladacaq.</string>
+    <string name="accessibility_shortcut_spoken_feedback">%1$s istifadə etmək üçün hər iki səs düyməsini üç saniyə basılı tutun</string>
+    <string name="accessibility_shortcut_toogle_warning">Qısayol açıq olanda, hər iki səs düyməsini 3 saniyə basılı tutmaq, əlçatımlılıq xidmətini başladacaq.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Əlçatımlılıq qısayolu istifadə edilsin?</string>
     <string name="accessibility_system_action_back_label">Geri</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Bildiriş panelini bağla</string>
@@ -358,7 +358,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth səs</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth, təyyarə rejimində açıq qalacaq</string>
     <string name="bugreport_countdown">{count, plural, one {}=1 {# saniyəyə xəta hesabatı üçün ekran şəkli çəkilir.} other {# saniyəyə xəta hesabatı üçün ekran şəkli çəkilir.} }</string>
-    <string name="bugreport_message">Bu, e-poçt məktubu olaraq göndərmək üçün cihazınızın hazırkı statusu barədə məlumatları yığır. Xəta hesabatının başladılmasından göndərilməyə hazır hala gətirilməsi bir az vaxt aparır. Zəhmət olmasa səbrli olun.</string>
+    <string name="bugreport_message">Bu, e-poçt məktubu olaraq göndərmək üçün cihazınızın hazırkı statusu barədə məlumatları yığır. Xəta hesabatının başladılmasından göndərilməyə hazır hala gətirilməsi bir az vaxt aparır. Lütfən səbrli olun.</string>
     <string name="bugreport_option_full_summary">Cihazınız cavab verməyəndə və ya çox yavaşlayanda və ya bütün hesabat bölmələrinə ehtiyacınız olanda sistemə müdaxiləni minimuma endirmək üçün bu seçimi istifadə edin. Daha ətraflı məlumat daxil etməyə və ya ekran şəkilləri əlavə etməyə icazə verilmir.</string>
     <string name="bugreport_option_full_title">Tam hesabat</string>
     <string name="bugreport_option_interactive_summary">Bir çox hallarda bunu istifadə edin. Bu, hesabatın gedişatını izləməyə, problem haqqında daha ətraflı məlumat daxil etməyə və ekran şəkillərini çəkməyə imkan verir. Hesabat verilməsi, uzun çəkən və az istifadə olunan bəzi bölmələr buraxıla bilər.</string>
@@ -424,7 +424,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="contentServiceSync">Sinxronlaşdırma</string>
     <string name="contentServiceSyncNotificationTitle">"Sinx bilmir"</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Həddindən artıq %s silinməsi üçün cəhd edildi.</string>
-    <string name="content_description_sliding_handle">Sürüşən tutacaq. Basılı saxlayın.</string>
+    <string name="content_description_sliding_handle">Sürüşən tutacaq. Basılı tutun.</string>
     <string name="conversation_single_line_image_placeholder">bir şəkil göndərildi</string>
     <string name="conversation_title_fallback_group_chat">Qrup danışığı</string>
     <string name="conversation_title_fallback_one_to_one">Danışıq</string>
@@ -598,8 +598,8 @@ nömrəni yığın"</string>
     <string name="face_acquired_not_detected">Üzünüzü telefonun qarşısına gətirin.</string>
     <string name="face_acquired_obscured">Üzünüzü gizlədən hər şeyi götürün.</string>
     <string name="face_acquired_pan_too_extreme">Başınızı bir az çevirin.</string>
-    <string name="face_acquired_poor_gaze">Zəhmət olmasa birbaşa cihazınıza baxın.</string>
-    <string name="face_acquired_recalibrate">Zəhmət olmasa üzünüzü yenidən qeyd edin.</string>
+    <string name="face_acquired_poor_gaze">Lütfən birbaşa cihazınıza baxın.</string>
+    <string name="face_acquired_recalibrate">Lütfən üzünüzü yenidən qeyd edin.</string>
     <string name="face_acquired_roll_too_extreme">Başınızı bir az da çevirin.</string>
     <string name="face_acquired_sensor_dirty">Qara çubuq daxil olmaqla ekranınızın üst hissəsini təmizləyin</string>
     <string name="face_acquired_tilt_too_extreme">Başınızı bir az da əyin.</string>
@@ -918,12 +918,12 @@ Bu səhifəni tərk etmək istədiyinizə əminsiniz?"</string>
     <string name="lock_pattern_view_aspect">kvadrat</string>
     <string name="lock_to_app_description">"Ekranda sancma, ekranı tək bir görünüşdə kilidləyir.
 
-Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın."</string>
+Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basılı tutun."</string>
     <string name="lock_to_app_description_accessible">"Ekranda sancma, ekranı tək bir görünüşdə kilidləyir.
 
-Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın."</string>
-    <string name="lock_to_app_toast">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın.</string>
-    <string name="lock_to_app_toast_accessible">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basıb saxlayın.</string>
+Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basılı tutun."</string>
+    <string name="lock_to_app_toast">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basılı tutun.</string>
+    <string name="lock_to_app_toast_accessible">Sancağı götürmək üçün Əsas ekran və Güc düymələrinə eyni anda basılı tutun.</string>
     <string name="lock_to_app_unlock_password">Sancağı götürməzdən əvvəl parol soruş</string>
     <string name="lock_to_app_unlock_pattern">Sancağı götürməzdən əvvəl kilid açma naxışını soruş</string>
     <string name="lock_to_app_unlock_pin">Sancağı götürməzdən əvvəl PIN soruş</string>
@@ -1187,7 +1187,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="number_picker_decrement_button">Azalt</string>
     <string name="number_picker_increment_button">Artır</string>
     <string name="number_picker_increment_scroll_action">Artırmaq üçün yuxarı, azaltmaq üçün aşağı sürüşdürün.</string>
-    <string name="number_picker_increment_scroll_mode">%s basıb saxlayın.</string>
+    <string name="number_picker_increment_scroll_mode">%s basılı tutun.</string>
     <string name="ok">Oldu</string>
     <string name="old_app_action">%1$s tətbiqinə geri qayıt</string>
     <string name="older">Daha köhnə</string>

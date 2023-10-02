@@ -76,7 +76,7 @@
     <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi bağlantısını dəyişdir</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi-ı açır və ya bağlayır</string>
     <string name="HIPS_Perm_add_voicemail">Səsli mesajlar</string>
-    <string name="HIPS_Perm_add_voicemail_Desc">sistem səsli mesajları əlavə edər</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">sistem səsli mesajları əlavə etmə</string>
     <string name="HIPS_Perm_background_start_activity">Açılan pəncərələri arxaplanda işləyərkən görüntülə</string>
     <string name="HIPS_Perm_background_start_activity_Desc">açılan pəncərələri arxaplanda işləyərkən görüntülə</string>
     <string name="HIPS_Perm_clipboard">Lövhə</string>

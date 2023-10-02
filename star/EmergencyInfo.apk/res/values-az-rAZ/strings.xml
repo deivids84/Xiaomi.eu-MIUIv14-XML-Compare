@@ -797,7 +797,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wifi_wapi_cert_mode_hand_text">Sertifikatı əllə seçin</string>
     <string name="wifi_wapi_certification_dont_exist">WAPI sertifikatları mövcud deyil. Zəhmət olmasa onları quraşdırın.</string>
     <string name="wifi_wapi_fail_to_auth">"WAPI kimlik doğrulaması uğursuz oldu
-Zəhmət olmasa sertifikatların etibarlılığını yoxlayın"</string>
+Lütfən sertifikatların etibarlılığını yoxlayın"</string>
     <string name="wifi_wapi_fail_to_init">"WAPI sertifikatları açıla bilmir
 Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifi_wapi_psk_type">Parol növü</string>

@@ -26,7 +26,7 @@
     <string name="dialog_btn_wifi">Wi-Fi-a keç</string>
     <string name="dialog_stop_desc">Endirməyə fasilə verə və ya onu dayandıra bilərsiniz, seçiminizi indi edin.</string>
     <string name="dialog_stop_title">Endirmə dayandırılsın?</string>
-    <string name="dialog_twrp">Daxili anbarınız şifrəlidir. Cihazı Geri qaytarma rejimində yenidən başlatdıqdan sonra, zəhmət olmasa davam etmək üçün cihazın kilid açma parolunu daxil edin.</string>
+    <string name="dialog_twrp">Daxili anbarınız şifrəlidir. Cihazı Geri qaytarma rejimində yenidən başlatdıqdan sonra, lütfən davam etmək üçün cihazın kilid açma parolunu daxil edin.</string>
     <string name="downgrade_warning">OTA ilə versiya endirmə aşkarlandı və əngəlləndi! Sisteminizi zədələməyə imkan verməmək üçün!</string>
     <string name="download_done">Uğurla endirildi!</string>
     <string name="download_fail">Endirilərkən xəta baş verdi!</string>
@@ -49,7 +49,7 @@
     <string name="fetch_notification_download_resume">Davam et</string>
     <string name="fetch_notification_download_retry">Yenidən sına</string>
     <string name="fetch_notification_download_starting">Başladılır</string>
-    <string name="fetching_data">Endirmə bağlantısı alınır, zəhmət olmasa gözləyin…</string>
+    <string name="fetching_data">Endirmə keçidi alınır, lütfən gözləyin…</string>
     <string name="install_desc">Cihaz, Geri qaytarma rejimində yenidən başladılacaq və seçilmiş faylı quraşdıracaq:
 <b>%1$s</b>\"
 Datalar silinməyəcək.\"</string>

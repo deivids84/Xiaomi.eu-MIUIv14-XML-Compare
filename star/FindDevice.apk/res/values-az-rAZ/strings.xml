@@ -96,7 +96,7 @@ kilidlənib.
     <string name="friday_shortest">Cüm</string>
     <string name="i_know">Oldu</string>
     <string name="lock_msg_phone">Əlaqə məlumatları: %s</string>
-    <string name="login_extra_steps">Daxil olma təsdiqləməsi</string>
+    <string name="login_extra_steps">Daxil olma doğrulaması</string>
     <string name="login_failed">"Daxil ola bilmədi. %s."</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -171,11 +171,11 @@ kilidlənib.
     <string name="not_set">Tənzimlənmədi</string>
     <string name="open_wifi_settings">Wi-Fi tənzimləmələrini aç</string>
     <string name="passport_checking_vcode">Parol yoxlanılır…</string>
-    <string name="passport_error_empty_vcode">Təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_error_empty_vcode">Doğrulama kodunu daxil edin</string>
     <string name="passport_notification_need_unlock_again">Yenidən kilidi açmağa çalışın</string>
     <string name="passport_notification_processing">Emal olunur…</string>
     <string name="passport_trust_device">Bu cihaza güvən</string>
-    <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_vcode_prompt_long">Doğrulama kodunu daxil edin</string>
     <string name="passport_verify">Doğrula</string>
     <string name="password">Parol daxil edin</string>
     <string name="phone_locked">Bu cihaz, Mi Hesabı (%s) ilə əlaqələndirilib. Cihazı aktivləşdirmək üçün parolu daxil edin.</string>

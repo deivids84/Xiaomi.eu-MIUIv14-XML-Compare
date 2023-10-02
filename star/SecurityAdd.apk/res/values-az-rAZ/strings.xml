@@ -139,7 +139,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_advance_settings_edge_gear3">Orta</string>
     <string name="gb_advance_settings_edge_gear4">Böyük</string>
     <string name="gb_advance_settings_edge_suppression">Toxunmaya davamlı sahə</string>
-    <string name="gb_advance_settings_edge_suppression_summary">Toxunuş kontrollarının tətiklənməsinin qarşısını almaq üçün kənarlara yaxın toxunuş həssaslığını azaldın. Dinamikləri açıq saxlamaq üçün cihazınızı göstərilən yerlərdən tutun.</string>
+    <string name="gb_advance_settings_edge_suppression_summary">Toxunuş kontrollarının tətiklənməsini önləmək üçün kənarlara yaxın toxunuş həssaslığını azaldın. Dinamikləri açıq saxlamaq üçün cihazınızı göstərilən yerlərdən tutun.</string>
     <string name="gb_advance_settings_finger_up">Davamlı toxunuşlara qarşı həssaslıq</string>
     <string name="gb_advance_settings_follow_up">Toxunuş reaksiyası</string>
     <string name="gb_advance_settings_reset">İlkin tənzimləmələrə qaytar</string>

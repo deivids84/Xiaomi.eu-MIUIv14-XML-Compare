@@ -909,8 +909,8 @@
         <item quantity="one">%d virus silindi</item>
     </plurals>
     <plurals name="sim_lock_puk_dialog_message">
-        <item quantity="other">SIM PUK-unuzu təsdiqləmək üçün yalnız %d cəhdiniz qalıb. Yanlış PUK-ları daxil etmə limitinə çatsanız, SIM kartınız ləğv ediləcək. Yenə də davam edilsin?</item>
-        <item quantity="one">SIM PUK-unuzu təsdiqləmək üçün yalnız %d cəhdiniz qalıb. Yanlış PUK-ları daxil etmə limitinə çatsanız, SIM kartınız ləğv ediləcək. Yenə də davam edilsin?</item>
+        <item quantity="other">SIM PUK-unuzu doğrulamaq üçün yalnız %d cəhdiniz qalıb. Yanlış PUK-ları daxil etmə limitinə çatsanız, SIM kartınız ləğv ediləcək. Yenə də davam edilsin?</item>
+        <item quantity="one">SIM PUK-unuzu doğrulamaq üçün yalnız %d cəhdiniz qalıb. Yanlış PUK-ları daxil etmə limitinə çatsanız, SIM kartınız ləğv ediləcək. Yenə də davam edilsin?</item>
     </plurals>
     <plurals name="simlock_set_pin_error">
         <item quantity="other">Daxil etdiyiniz PIN yanlışdır. %d cəhd qaldı.</item>

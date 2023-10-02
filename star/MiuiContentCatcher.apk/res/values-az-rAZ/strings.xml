@@ -35,7 +35,7 @@
     <string name="auth_fingerprint_content">Barmaq izi oxunur…</string>
     <string name="auth_fingerprint_content_message">Barmağınızı sensorun üzərinə qoyun</string>
     <string name="auth_fingerprint_content_message_error">"Barmaq izi skan edilə bilmədi, yenidən sınayın"</string>
-    <string name="auth_fingerprint_title">Barmaq izinizi təsdiqləyin</string>
+    <string name="auth_fingerprint_title">Barmaq izinizi doğrulayın</string>
     <string name="autofill_description">"MIUI, parollarınızı şifrələyə və saxlaya bilər, beləliklə ehtiyacınız olduqda avtomatik olaraq daxil edə bilərsiniz. Xiaomi, şifrələnmiş parollarınızı oxuya bilmir."</string>
     <string name="autofill_hint_email_address">E-poçt</string>
     <string name="autofill_hint_name">Ad</string>

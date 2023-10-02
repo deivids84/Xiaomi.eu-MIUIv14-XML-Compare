@@ -1265,7 +1265,7 @@ EEEE"</string>
     <string name="media_output_dialog_connect_failed">"Dəyişdirilə bilmir. Yenidən sınamaq üçün toxunun."</string>
     <string name="media_output_dialog_disconnected">(bağlantı kəsildi)</string>
     <string name="media_output_dialog_group">Qruplaşdır</string>
-    <string name="media_output_dialog_launch_app_text">Bu seansı yayımlamaq üçün zəhmət olmasa tətbiqi açın.</string>
+    <string name="media_output_dialog_launch_app_text">Bu seansı yayımlamaq üçün lütfən tətbiqi açın.</string>
     <string name="media_output_dialog_multiple_devices">%1$d cihaz seçilib</string>
     <string name="media_output_dialog_pairing_new">Yeni cihazla cütləşdir</string>
     <string name="media_output_dialog_single_device">1 cihaz seçildi</string>
@@ -2306,7 +2306,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wait_for_debugger_summary">Sazlanmış tətbiq, işə salınmazdan əvvəl sazlayıcının əlavə edilməsini gözləyir</string>
     <string name="wallet_app_button_label">Hamısını göstər</string>
     <string name="wallet_empty_state_label">Telefonunuzla daha sürətli, daha güvənli satın almalar etmək üçün quraşdırın</string>
-    <string name="wallet_error_generic">Kartlarınız əldə edilərkən bir problem yarandı, zəhmət olmasa daha sonra yenidən sınayın</string>
+    <string name="wallet_error_generic">Kartlarınız əldə edilərkən bir problem yarandı, lütfən daha sonra yenidən sınayın</string>
     <string name="wallet_lockscreen_settings_label">Kilid ekranı tənzimləmələri</string>
     <string name="wallet_secondary_label_device_locked">İstifadə etmək üçün kilidi aç</string>
     <string name="wallet_secondary_label_no_card">Açmaq üçün toxunun</string>
@@ -2314,8 +2314,8 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wallet_title">Pulqabı</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Detallara baxmaq üçün buraxın</string>
     <string name="wapi_all_sel_mode">Rejim seçin</string>
-    <string name="wapi_auto_sel_cert_fail">Sertifikat avtomatik seçilə bilmir. Zəhmət olmasa siyahıdan bir sertifikat seçib bağlantı qurmağa çalışın.</string>
-    <string name="wapi_cert_is_not_exist">Mövcud sertifikat yoxdur, zəhmət olmasa əvvəlcə sertifikat quraşdırın</string>
+    <string name="wapi_auto_sel_cert_fail">Sertifikat avtomatik seçilə bilmir. Lütfən siyahıdan bir sertifikat seçib bağlantı qurmağa çalışın.</string>
+    <string name="wapi_cert_is_not_exist">Mövcud sertifikat yoxdur, lütfən əvvəlcə sertifikatı quraşdırın</string>
     <string name="wapi_cert_is_not_selected">Əvvəlcə serifikatı quraşdırın</string>
     <string name="wapi_cert_manage_error">WAPI sertifikatını tənzimləmək uğursuz oldu.</string>
     <string name="wapi_cert_manage_summary">WAPI sertifikatı əlavə et və ya sil</string>
@@ -2397,9 +2397,9 @@ Wi‑Fi ünvanı (BSSID)
     <string name="wifi_verbose_logging_summary">Wi‑Fi qeyd jurnalını səviyyəsini artır, Wi‑Fi Seçicidə hər SSID RSSI üçün göstər</string>
     <string name="wifi_wapi_as_certificate">AS sertifikatı</string>
     <string name="wifi_wapi_cert_mode_hand_text">Sertifikatı əllə seçin</string>
-    <string name="wifi_wapi_certification_dont_exist">WAPI sertifikatları mövcud deyil. Zəhmət olmasa onları quraşdırın.</string>
+    <string name="wifi_wapi_certification_dont_exist">WAPI sertifikatları mövcud deyil. Lütfən onları quraşdırın.</string>
     <string name="wifi_wapi_fail_to_auth">"WAPI kimlik doğrulaması uğursuz oldu
-Zəhmət olmasa sertifikatların etibarlılığını yoxlayın"</string>
+Lütfən sertifikatların etibarlılığını yoxlayın"</string>
     <string name="wifi_wapi_fail_to_init">"WAPI sertifikatları açıla bilmir
 Kimlik məlumatı anbarı fəal olmaya bilər"</string>
     <string name="wifi_wapi_psk_type">Parol növü</string>

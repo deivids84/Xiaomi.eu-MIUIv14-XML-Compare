@@ -613,7 +613,7 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="controls_pin_instructions">PIN daxil et</string>
     <string name="controls_pin_instructions_retry">Digər PIN-i sınayın</string>
     <string name="controls_pin_use_alphanumeric">PIN hərflər və ya simvollar ehtiva edir</string>
-    <string name="controls_pin_verify">Təsdiqlə %s</string>
+    <string name="controls_pin_verify">Doğrula %s</string>
     <string name="controls_pin_wrong">Yanlış PIN</string>
     <string name="controls_providers_title">Kontrol əlavə edəcək tətbiqi seçin</string>
     <string name="controls_removed">Silindi</string>
@@ -763,8 +763,8 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="external_source_untrusted">İcazə verilmədi</string>
     <string name="face_unlock_be_on_the_screen">Cihazı üzünüzün önündə saxlayın</string>
     <string name="face_unlock_check_failed">"Sizi tanıya bilmədi"</string>
-    <string name="face_unlock_fail">"Üz təsdiqlənə bilmədi"</string>
-    <string name="face_unlock_fail_retry">"Üzünüz təsdiqlənə bilmədi. Yenidən sınamaq üçün yuxarı toxunun."</string>
+    <string name="face_unlock_fail">"Üz doğrulana bilmədi"</string>
+    <string name="face_unlock_fail_retry">"Üzünüz doğrulana bilmədi. Yenidən sınamaq üçün yuxarı toxunun."</string>
     <string name="face_unlock_fail_retry_global">Üzlə kilid açmanı istifadə etmək üçün yuxarıya toxunun</string>
     <string name="face_unlock_locked">"Üzlə kilid açma indi istifadə edilə bilmir"</string>
     <string name="face_unlock_not_found">"Sizi tanıya bilmədi"</string>
@@ -817,7 +817,7 @@ Kilidi açmaq üçün naxışınızı çəkin."</string>
     <string name="fingerprint_not_identified_msg_pin">"Həddindən artıq uğursuz cəhd.
 Kilidi açmaq üçün PIN-nizi daxil edin."</string>
     <string name="fingerprint_not_identified_title">Parolu daxil edin</string>
-    <string name="fingerprint_try_again_msg">"Barmaq izi təsdiqlənə bilmədi, yenidən sınayın."</string>
+    <string name="fingerprint_try_again_msg">"Barmaq izi doğrulana bilmədi, yenidən sınayın."</string>
     <string name="fingerprint_try_again_text">Yenidən sına</string>
     <string name="float_notification_snooze_strategy">Üzən bildirişləri müvəqqəti gizlət</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -2129,7 +2129,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="torch_high_temperature_warning">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
-    <string name="touch_filtered_warning">Tənzimləmələr, cavabınızı təsdiqləyə bilmir, çünki bir tətbiq bir icazə tələbini əngəllədi.</string>
+    <string name="touch_filtered_warning">Tənzimləmələr, cavabınızı doğrulaya bilmir, çünki bir tətbiq bir icazə tələbini əngəllədi.</string>
     <string name="track_frame_time">Profil HWUI renderləmə</string>
     <string name="traffic_unit_byte">B</string>
     <string name="traffic_unit_gigabyte">GB</string>
@@ -2277,7 +2277,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT vasitəsilə quraşdırılan tətbiqləri zərərli davranışa qarşı yoxlayın.</string>
-    <string name="verify_apps_over_usb_title">USB üzərindən tətbiqləri təsdiqlə</string>
+    <string name="verify_apps_over_usb_title">Tətbiqləri USB üzərindən doğrula</string>
     <string name="video_status">İzlənir</string>
     <string name="voice_assist_label">səsli köməyi aç</string>
     <string name="voice_hint">Səsli kömək üçün nişandan sürüşdürün</string>

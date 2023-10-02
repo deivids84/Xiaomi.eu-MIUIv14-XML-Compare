@@ -156,7 +156,7 @@
     <string name="input_method_category">"Mesajları, qeydləri və demək olar ki, hər şeyi yazmaq üçün istifadə edəcəyiniz ilkin klaviaturanı seçin. Unutmayın ki, üçüncü tərəf klaviaturaları daha sonra quraşdıra bilərsiniz."</string>
     <string name="input_method_setting">Klaviaturanı seçin</string>
     <string name="install_preinstall_app">Tətbiqlər yüklənir…</string>
-    <string name="intent_filter_verification_service">Niyyət Filtr Təsdiqləmə Xidməti</string>
+    <string name="intent_filter_verification_service">Niyyət Filtr Doğrulama Xidməti</string>
     <string name="interconnection_communication_introduction">Xiaomi İnternet Rabitə Xidmətləri, digər Xiaomi cihazlarını kəşf etməyinizə, onlara bağlanmağınıza və onlarla ünsiyyət qurmağınıza imkan verir.</string>
     <string name="interconnection_service_summary">"Xiaomi Ara Bağlantı Xidmətləri, cihazlarınızın bir-biri ilə naqilsiz olaraq əlaqə qurmasına imkan verir. Bu xidmətlərə Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share və yayım daxildir.
 Normal işləyə bilməsi üçün bu xidmətlərin internetə bağlanması və aşağıdakı icazələri tələb etməsi lazımdır:
@@ -526,7 +526,7 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="servicestate_title">Təməl xidmətlər haqqında bəyanat</string>
     <string name="setting_locale">Bölgə tənzimlənir…</string>
     <string name="shut_down">Söndür</string>
-    <string name="sim_activation_introduction">SIM kart aktivləşdirmə xidməti, MIUI xidmətlərinin normal işləyə bildiyinə əmin olmaq üçün hazırda daxil edilmiş SIM kartın məlumatlarını təsdiqləyir. Bu xidmətlərə \"Cihazı tap\", Mi Mesaj, telefon nömrələrini istifadə edərək Mi Hesablarını yaratma və mesaj və zəng tarixçəsinin sinxronlaşdırılması daxildir.</string>
+    <string name="sim_activation_introduction">SIM kart aktivləşdirmə xidməti, MIUI xidmətlərinin normal işləyə bildiyinə əmin olmaq üçün hazırda daxil edilmiş SIM kartın məlumatlarını doğrulayır. Bu xidmətlərə \"Cihazı tap\", Mi Mesaj, telefon nömrələrini istifadə edərək Mi Hesablarını yaratma və mesaj və zəng tarixçəsinin sinxronlaşdırılması daxildir.</string>
     <string name="sim_card_detecting">SIM kart yoxlanılır…</string>
     <string name="sim_card_detecting_check">"SIM kart tapıla bilmədi. SIM kartın düzgün quraşdırıldığına və balansınızda yetərli vəsait olduğuna əmin olun."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Mobil internet şəbəkələrinə bağlanmağa icazə verilsin? Bunu etsəniz, taxdığınız SIM kart mobil internet şəbəkələrinə bağlanmaq üçün istifadə ediləcək.</string>

@@ -616,7 +616,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="collect_diagnosis_log">Jurnalları yığ</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Anları</string>
     <string name="confirm">Oldu</string>
-    <string name="confirm_activate_email">Təsdiqləndi</string>
+    <string name="confirm_activate_email">Doğrulandı</string>
     <string name="confirm_cancel_task_files">Bura fayl göndərilməsi ləğv edilsin: %1$s?</string>
     <string name="confirm_cancel_task_images">Bura şəkil göndərilməsi ləğv edilsin: %1$s?</string>
     <string name="confirm_delete_selected_albums">Seçilmiş albomlar silinsin?</string>
@@ -1174,7 +1174,7 @@ mövcuddur"</string>
     <string name="get_GP_app_msg">Nüsxələməni işə salmaq üçün \"Google Fotolar\"ı quraşdırmalısınız. Davam etmək üçün \"Google Fotolar\"ı quraşdırdıqdan sonra bu səhifəyə geri qayıdın.</string>
     <string name="get_GP_app_title">\"Google Fotolar\"ı quraşdır</string>
     <string name="get_album_info_in_process">"Paylaşılan albom detalları alınır…"</string>
-    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddindən çox təsdiqləmə kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
+    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="get_user_info_btn_text">Axtar</string>
     <string name="get_user_info_edit_text_hint">Telefon/E-poçt/Xiaomi Hesabı</string>
     <string name="get_user_info_failed_hint">"Bu şəxs tapıla bilmədi"</string>
@@ -1898,7 +1898,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_empty_password">"Parol boş ola bilməz"</string>
     <string name="passport_error_auth_fail">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="passport_error_device_id">"Cihaz kimliyi alına bilmir"</string>
-    <string name="passport_error_dynamic_token_error">Təsdiqləmə kodu yanlışdır</string>
+    <string name="passport_error_dynamic_token_error">Doğrulama kodu yanlışdır</string>
     <string name="passport_error_email">Daxil etdiyiniz e-poçt ünvanı yararsızdır</string>
     <string name="passport_error_empty_email">E-poçt ünvanınızı daxil edin</string>
     <string name="passport_error_empty_password">Parolunuzu daxil edin</string>
@@ -1909,7 +1909,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_error_no_password_user">"Hələ ki, heç bir parol təyin etməmisiniz. SMS ilə daxil olun."</string>
     <string name="passport_error_phone">Yararsız telefon nömrəsi</string>
     <string name="passport_error_server">Server xətası</string>
-    <string name="passport_error_sms_limit">Bu nömrəyə həddən artıq təsdiqləmə kodu göndərilib. Daha sonra yenidən sınayın.</string>
+    <string name="passport_error_sms_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. Daha sonra yenidən sınayın.</string>
     <string name="passport_error_ticket_invalid">Bu kod yanlışdır</string>
     <string name="passport_error_timeout_network_error">Tələbin vaxtı bitdi</string>
     <string name="passport_error_token_expired">Kodun müddəti bitdi. Yenidən sına.</string>
@@ -1922,11 +1922,11 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_error_user_password">"Parollar uyğunlaşmır"</string>
     <string name="passport_get_login_type_next">Növbəti</string>
     <string name="passport_header_back">Geri</string>
-    <string name="passport_identification_expired">Təsdiqləmə kodunun müddəti bitdi. Başdan başlat.</string>
+    <string name="passport_identification_expired">Doğrulama kodunun müddəti bitdi. Başdan başlat.</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
-    <string name="passport_input_verify_code">Təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_input_verify_code">Doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_captcha_hint">Səsli doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
@@ -1947,12 +1947,12 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
     <string name="passport_retry">Yenidən sına</string>
     <string name="passport_send_sms_to">Kod göndərildi: %1$s</string>
-    <string name="passport_send_too_many_code">Bu nömrəyə həddindən artıq təsdiqləmə kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
+    <string name="passport_send_too_many_code">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="passport_sending_vcode">Kod göndərilir…</string>
     <string name="passport_set_password">Parol təyin et</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
-    <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
-    <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
+    <string name="passport_talkback_image_captcha">Şəkil doğrulama kodu</string>
+    <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
@@ -1963,7 +1963,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
     <string name="passport_user_id_intro">%1$s üçün parol daxil edin</string>
     <string name="passport_user_password_hint">Parol</string>
-    <string name="passport_vcode_what_app_send_prompt">WhatsApp təsdiqləmə kodunuz geri qaytarma telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp doğrulama kodunuz geri qaytarma telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
@@ -2340,7 +2340,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="request_sms_url_msg">Məlumat tələb edilir…</string>
     <string name="request_sms_url_title">Məsləhət</string>
     <string name="resend_active_email">Təkrar göndər</string>
-    <string name="resend_email_reach_limit_message">"Həddindən artıq təsdiqləmə e-poçtu tələb etdiniz. Təsdiqləmə e-poçtunun Spam qovluğunda olmadığına əmin olun."</string>
+    <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="resend_email_success">Uğurla göndərildi</string>
     <string name="retry_to_create_album">Yenidən sına</string>
@@ -2509,7 +2509,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="send_diagnosis_log">Jurnalları göndər</string>
     <string name="send_dolby_vision_duration_more_than_40s">4 dəqiqədən uzun Dolby Vision videoları yalnız alıcı cihaz tərəfindən dəstəklənməyə biləcək orijinal video formatında paylaşıla bilər. Yenə də davam edilsin?</string>
     <string name="send_dolby_vision_video_continue">Davam et</string>
-    <string name="send_email_activate_message">Təsdiqləmə e-poçtu uğurla göndərildi</string>
+    <string name="send_email_activate_message">Doğrulama kodu uğurla göndərildi</string>
     <string name="send_file_beautify_failed">"Paylaşıla bilmədi"</string>
     <string name="send_files_by">Faylları paylaş</string>
     <string name="send_files_to">Elementləri göndər</string>
@@ -3186,16 +3186,16 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="user_agreement2">Xidmət Şərtləri</string>
     <string name="user_agreement4">Gizlilik Siyasəti</string>
     <string name="user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="user_agreement_hint_default"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="user_agreement_hint_default_1"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="user_agreement_hint_default_extra"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti.&lt;/a&gt; İlk giriş, avtomatik olaraq bir Xiaomi hesabı yaradacaq\"</Data></string>
     <string name="user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom təsdiqləmə xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="user_alias_self">Mən</string>
     <string name="user_avatar_update_title">Profil fotosunu dəyişdir</string>
     <string name="user_avatar_uploading">Bir saniyə…</string>

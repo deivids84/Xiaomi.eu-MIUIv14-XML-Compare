@@ -452,7 +452,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="description_call_log_missed_call">Buraxılmış zəng</string>
     <string name="description_call_log_missed_forwarding_call">Buraxılmış yönləndirilən zəng</string>
     <string name="description_call_log_outgoing_call">Gedən zəng</string>
-    <string name="description_call_log_voicemail">Səsli mesaj</string>
+    <string name="description_call_log_voicemail">Səsli poçt</string>
     <string name="description_contact_photo">Kontakt fotosu</string>
     <string name="description_dial_phone_number">Telefonu yığ: %1$s</string>
     <string name="description_image_button_comma">Vergül</string>
@@ -720,8 +720,8 @@ Səbəb: \"%s\""</string>
     <string name="menu_newContactButton">Əlavə et</string>
     <string name="menu_new_favorite_action_bar">Sevimlilərə əlavə et</string>
     <string name="menu_new_group_action_bar">Yeni</string>
-    <string name="menu_not_redirect_calls_to_vm">Səsli mesaj istifadə edilmir</string>
-    <string name="menu_redirect_calls_to_vm">Bütün zəngləri səsli mesaja yönləndir</string>
+    <string name="menu_not_redirect_calls_to_vm">Səsli poçt istifadə edilmir</string>
+    <string name="menu_redirect_calls_to_vm">Bütün zəngləri səsli poçta yönləndir</string>
     <string name="menu_removeStar">Sevimlilərdən silin</string>
     <string name="menu_settings">Tənzimləmələr</string>
     <string name="menu_share">Paylaş</string>
@@ -882,7 +882,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_dailog_positive_button">Get</string>
     <string name="permission_dailog_title">Tələb olunan icazələr</string>
     <string name="permission_notice_desc_access_fine_location">Kontaktları Bluetooth vasitəsilə digər cihazlardan daxilə köçürmək üçün</string>
-    <string name="permission_notice_desc_add_voicemail">Səsli mesaj və səs mesajı özəlliklərini istifadə etmək üçün</string>
+    <string name="permission_notice_desc_add_voicemail">Səsli poçt və səsli mesaj özəlliklərini istifadə etmək üçün</string>
     <string name="permission_notice_desc_call_phone">Əsas ekran qısayolları vasitəsilə zəng etmək üçün</string>
     <string name="permission_notice_desc_call_phone_for_pad">Üçüncü tərəf tətbiqlərində zəng etmək üçün</string>
     <string name="permission_notice_desc_camera">Profil şəkilləri çəkmək üçün</string>
@@ -1290,7 +1290,7 @@ Aşağıdakı seçimlərdən birini seçin:"</string>
     <string name="viewContactTitle">Kontakt detalları</string>
     <string name="view_more_call_logs">Daha çoxuna bax</string>
     <string name="view_updates_from_group">Güncəlləmələrə bax</string>
-    <string name="voicemail">Səsli mesaj</string>
+    <string name="voicemail">Səsli poçt</string>
     <string name="websiteLabelsGroup">Veb sayt</string>
     <string name="webview_btn_retry">Yenidən sına</string>
     <string name="webview_network_failure">"Şəbəkəyə bağlana bilmədi"</string>

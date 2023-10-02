@@ -878,7 +878,7 @@ Səbəb: \"%s\""</string>
     <string name="payphone">Taksafon</string>
     <string name="people">Kontaktlar</string>
     <string name="permission_access_fine_location_desc">Yerli şəbəkə siqnalını yaxşılaşdırmaq üçün</string>
-    <string name="permission_camera_desc">Kimlik təsdiqləməsi zamanı foto çəkmək üçün</string>
+    <string name="permission_camera_desc">Kimlik doğrulaması zamanı foto çəkmək üçün</string>
     <string name="permission_dailog_positive_button">Get</string>
     <string name="permission_dailog_title">Tələb olunan icazələr</string>
     <string name="permission_notice_desc_access_fine_location">Kontaktları Bluetooth vasitəsilə digər cihazlardan daxilə köçürmək üçün</string>
@@ -894,7 +894,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_notice_desc_write_call_logs">Zəng tarixçəsinə düzəliş etmək üçün</string>
     <string name="permission_notice_desc_write_contacts">Kontaktları idarə etmək üçün</string>
     <string name="permission_notice_desc_write_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
-    <string name="permission_record_audio_desc">Kimlik təsdiqləməsi zamanı səsinizi istifadə etmək üçün</string>
+    <string name="permission_record_audio_desc">Kimlik doğrulama zamanı səsinizi istifadə etmək üçün</string>
     <string name="permission_retry_deny">İmtina</string>
     <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək üçün, Əsas ekran qısayolları vasitəsilə zənglər etmək, kontaktlarınızı idarə etmək və zəng tarixçəsini güncəl saxlamaq üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə müraciət və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
     <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə etməsi üçün bu tətbiqin kontaktlarınıza müraciət və düzəliş etməsinə, həmçinin cihaz məlumatlarına müraciət etməsinə icazə verin.</string>

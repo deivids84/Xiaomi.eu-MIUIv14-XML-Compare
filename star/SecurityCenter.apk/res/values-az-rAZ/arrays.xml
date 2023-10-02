@@ -183,7 +183,7 @@
         <item>Operatorunuzla əlaqəli və dil tənzimləmələrinə, eləcə də digər detallara müraciət edin</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Təsdiqlənməyən üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>
+        <item>"Doğrulanmamış üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>
         <item>Bəzi üçüncü tərəf tətbiqlərdə şəxsi məlumatlarınızı riskə atan zərərli proqram ola bilər.</item>
     </string-array>
     <string-array name="pp_lab_compact_blur_location_entry">

@@ -45,8 +45,8 @@
     <string name="ai_button_desc">AI düyməsi, \"Mi AI\"ni açmağa və Mi AI qısayollarını istifadə etməyə icazə verir.</string>
     <string name="ai_button_double_press">İki dəfə bas</string>
     <string name="ai_button_double_press_desc">Özəl tapşırıqları tamamlamaq üçün AI düyməsinə iki dəfə basın</string>
-    <string name="ai_button_long_press">Basıb saxla</string>
-    <string name="ai_button_long_press_desc">Mi AI ilə danışmaq üçün AI düyməsinə basıb saxlayın</string>
+    <string name="ai_button_long_press">Basılı tut</string>
+    <string name="ai_button_long_press_desc">Mi AI ilə danışmaq üçün AI düyməsini basılı tutun</string>
     <string name="ai_button_single_press">Bas</string>
     <string name="ai_button_single_press_desc">Mi AI qısayollarına baxmaq üçün AI düyməsinə basın</string>
     <string name="ai_button_title">AI düyməsi</string>
@@ -87,7 +87,7 @@
     <string name="content_description_complete">Tamamlandı</string>
     <string name="content_description_start">Başlat</string>
     <string name="content_introduction">Məzmun Mərkəzi, çoxsaylı kanallardan məzmunu və xidmətləri yığır. Burada məqalələr oxuya, videolar izləyə, gündəlik seçilmiş elementlərə baxa və məzmun tövsiyələri ala bilərsiniz.</string>
-    <string name="continue_to_enable_accessibility">Əlçatımlılığı fəallaşdırmaq üçün iki barmaqla basılı saxlayın.</string>
+    <string name="continue_to_enable_accessibility">Əlçatımlılığı fəallaşdırmaq üçün iki barmaqla basılı tutun.</string>
     <string name="cookies_content_one">"\"Divar kağızı Karuseli\"ndəki təsvirlərə və hekayələrə toxunduqda, onların tam versiyalarını brauzerinizdə açacağıq. Güvənilən üçüncü tərəf məzmun provayderimiz Taboola, maraqlarınıza uyğun əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq versəniz, Taboola, Taboola-nın &lt;a href =%1$s&gt;Çərəz Siyasətində&lt;/a&gt; qeyd olunduğu kimi cihazınıza brauzer vasitəsilə çərəzləri yerləşdirəcək. Çərəzlərin istifadəsindən imtina etsəniz, Divar kağızı Karuseli elementləri Kilid ekranınızda görünməyə davam edəcək və tam hekayələr brauzerinizdə açılacaq, ancaq əlavə tövsiyələr sizin üçün xüsusi olaraq seçilməyəcək. Tərcihlərinizi istənilən vaxt Tənzimləmələrdə dəyişdirə bilərsiniz."</string>
     <string name="cookies_content_two">"Güvənilən üçüncü tərəf məzmun provayderlərimizin, məzmun tövsiyələrini və reklamları maraqlarınıza görə fərdiləşdirmək məqsədilə çərəzləri istifadə etmələrini istəyib-istəmədiyinizə qərar verin."</string>
     <string name="cookies_title">Fərdiləşdirilmiş məzmun və çərəzlər</string>

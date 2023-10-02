@@ -75,7 +75,7 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="notif_install">Quraşdır</string>
     <string name="notif_new_summary">Detalları almaq üçün toxunun</string>
     <string name="notif_new_title">Yeni versiya mövcuddur!</string>
-    <string name="notif_service_summary">\"Arxaplan Xidməti\" bildirişini sıradan çıxartmaq üçün basılı saxlayın!</string>
+    <string name="notif_service_summary">\"Arxaplan Xidməti\" bildirişini sıradan çıxartmaq üçün basılı tutun!</string>
     <string name="notif_service_title">Tətbiq arxaplanda işləyir…</string>
     <string name="notifications_switch">Bildirişləri göstər</string>
     <string name="permdesc_cache_filesystem">Tətbiqə /cache-ə fayl yazma icazəsi verir.</string>

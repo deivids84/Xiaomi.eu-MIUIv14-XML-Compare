@@ -90,9 +90,9 @@
     <string name="activate_progress_status_title">\"%s\" aktivləşdirilir…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">"Xiaomi Hesabı yaradıla bilmədi"</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi Hesabı uğurla yaradıldı</string>
-    <string name="activate_status_desc_acquire_phone_number">Telefon nömrəsi təsdiqlənir…</string>
-    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Telefon nömrəsi təsdiqlənə bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
-    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Telefon nömrəsi təsdiqlənə bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_acquire_phone_number">Telefon nömrəsi doğrulanır…</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Telefon nömrəsi doğrulana bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Telefon nömrəsi doğrulana bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
     <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">Bu xidməti aktivləşdirmək üçün %d normal SMS göndərildi.</string>
     <string name="activate_status_desc_getting_gateway">SMS şəbəkə keçidi alınır…</string>
     <string name="activate_status_desc_query_activation_server_info">Məlumat alınır…</string>
@@ -125,7 +125,7 @@
     <string name="evening">Günortadan sonra</string>
     <string name="explain_activate_register_xiaomi_account_title">Xiaomi Hesab Yarat</string>
     <string name="explain_activate_send_sms_permission_msg">%s aktivləşdirmək üçün cihazınıza aktivləşdirmə SMS-i göndərmə icazələri lazımdır. Operatorunuz bu mesaja görə sizdən ödəniş alacaq.</string>
-    <string name="explain_send_sms_permission_button">Təsdiqlə</string>
+    <string name="explain_send_sms_permission_button">Doğrula</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>

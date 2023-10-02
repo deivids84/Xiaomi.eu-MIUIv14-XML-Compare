@@ -23,10 +23,10 @@
     </string-array>
     <string-array name="ai_item_action_array">
         <item>Heç biri</item>
-        <item>Google Assistant-ı aktivləşdir</item>
+        <item>\"Google Köməkçisi\"ni aktivləşdir</item>
     </string-array>
     <string-array name="ai_key_item_name">
-        <item>Google Assistant ilə danışın</item>
+        <item>Google Köməkçisi ilə danış</item>
         <item>Google axtarışı aç</item>
         <item>Arxa kameranı aç</item>
         <item>Ön kameranı aç</item>
@@ -113,7 +113,7 @@
         <item>Media düymələri</item>
         <item>Səs fokusu</item>
         <item>Əsas səsin səviyyəsi</item>
-        <item>Danışıq səsinin səviyyəsi</item>
+        <item>Danışıq səsi səviyyəsi</item>
         <item>Zəng səsinin səviyyəsi</item>
         <item>Media səsinin səviyyəsi</item>
         <item>Zəngli saat səsinin səviyyəsi</item>
@@ -180,7 +180,7 @@
         <item>media düymələri</item>
         <item>səs fokusu</item>
         <item>əsas səsin səviyyəsi</item>
-        <item>danışıq səsinin səviyyəsi</item>
+        <item>danışıq səsi səviyyəsi</item>
         <item>zəng səsinin səviyyəsi</item>
         <item>media səsinin səviyyəsi</item>
         <item>zəngli saat səs səviyyəsi</item>

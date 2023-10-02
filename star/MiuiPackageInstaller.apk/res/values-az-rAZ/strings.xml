@@ -140,7 +140,7 @@
     <string name="dev_complaint">Müraciət forması</string>
     <string name="dev_complaint_btntext">Göndər</string>
     <string name="dev_complaint_result_tip1">Müraciət uğurla göndərildi</string>
-    <string name="dev_complaint_result_tip2">"%d iş günü ərzində sizinlə əlaqə saxlayacağıq. Zəhmət olmasa təkrar müraciətlər göndərməyin."</string>
+    <string name="dev_complaint_result_tip2">"%d iş günü ərzində sizinlə əlaqə saxlayacağıq. Lütfən təkrar müraciətlər göndərməyin."</string>
     <string name="dev_complaint_tiptext">"Müraciətinizi göndərdikdən sonra %d iş günü ərzində sizinlə əlaqə saxlayacağıq"</string>
     <string name="device_pad">Planşet</string>
     <string name="device_phone">Telefon</string>

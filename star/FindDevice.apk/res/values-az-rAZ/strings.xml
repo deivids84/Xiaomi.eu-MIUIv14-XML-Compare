@@ -47,7 +47,7 @@
 kilidlənib.
 Ətraflı məlumat üçün satış nümayəndəsi ilə əlaqə saxlayın."</string>
     <string name="default_lock_msg_words">Bu cihaz, mövcud bir Mi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə, cihazı doğrulamaq üçün parolu daxil etməyiniz lazımdır.</string>
-    <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Zəhmət olmasa mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
+    <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Lütfən mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
     <string name="device_locked">Bu cihaz kilidlidir</string>
     <string name="device_lost">Bu cihaz itib</string>
     <string name="disable_find_device_error">"\"Cihazı tap\" söndürülə bilmədi. %1$s"</string>

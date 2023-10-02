@@ -113,8 +113,8 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Cihazınız həddindən çox qızıb. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
-        <item quantity="one">Cihazınız həddindən çox qızıb. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
+        <item quantity="other">Cihazınız aşırı isinib. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
+        <item quantity="one">Cihazınız aşırı isinib. Kamera %d saniyə ərzində bağlanılacaq. Foto və ya videolarınız avtomatik olaraq saxlanılacaq.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s dəq</item>

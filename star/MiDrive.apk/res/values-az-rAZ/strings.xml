@@ -43,7 +43,7 @@
     <string name="app_name">Mi Drive</string>
     <string name="auto_save_to_file">\"PDF-ə çevrildi\" qovluğunda saxlanıldı</string>
     <string name="be_sure_to_clear_cache">Keş təmizlənsin?</string>
-    <string name="btn_recall_text_next_step_timer">Geri çək (%ds)</string>
+    <string name="btn_recall_text_next_step_timer">Geri götür (%ds)</string>
     <string name="btn_recall_text_ok_timer">Geri götür</string>
     <string name="camera">Kamera</string>
     <string name="cancel">İmtina</string>

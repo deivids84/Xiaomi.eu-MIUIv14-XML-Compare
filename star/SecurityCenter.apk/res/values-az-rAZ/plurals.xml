@@ -345,8 +345,8 @@
         <item quantity="one">%d günlük ödənişsiz sınaq al</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
-        <item quantity="other">%d ədədə qədər tətbiq əlavə edin. Yenidən düzmək üçün basılı saxlayın.</item>
-        <item quantity="one">%d ədədə qədər tətbiq əlavə edin. Yenidən düzmək üçün basılı saxlayın.</item>
+        <item quantity="other">%d ədədə qədər tətbiq əlavə edin. Yenidən düzmək üçün basılı tutun.</item>
+        <item quantity="one">%d ədədə qədər tətbiq əlavə edin. Yenidən düzmək üçün basılı tutun.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Bu özəllik, enerjiyə qənaət etmək üçün %d dəqiqəlik fəaliyyətsizlikdən sonra ekran parlaqlığını avtomatik azaldır. Bu özəllik açıq qalsın?</item>

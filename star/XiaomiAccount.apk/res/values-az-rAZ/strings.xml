@@ -472,7 +472,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Deyəsən, Birinci sahə Xiaomi Hesabınızı istifadə edirsiniz."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"Belə vəziyyətdə, bütün məlumatlar İkinci sahənizə sinxronlaşdırılacaq. Bunun qarşısını almaq üçün buludla sinxronlaşdırmanı açmayın."</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"Belə vəziyyətdə, bütün məlumatlar İkinci sahənizə sinxronlaşdırılacaq. Bunu önləmək üçün buludla sinxronlaşdırmanı işə salmayın."</string>
     <string name="multi_user_not_show_sync_activity_title">"Buludla sinxronlaşdırmanı açmayın"</string>
     <string name="my_device_title">Hazırkı cihaz</string>
     <string name="navigation_menu">Naviqasiya menyusu</string>

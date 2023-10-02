@@ -143,8 +143,8 @@
         <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="global_wa_voice">
-        <item quantity="other"><Data>&lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; səsyazmalı mesaj tapıldı</Data></item>
-        <item quantity="one"><Data>&lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; səsyazmalı mesaj tapıldı</Data></item>
+        <item quantity="other">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; səsli mesaj tapıldı&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; səsli mesaj tapıldı&lt;/Data&gt;</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>

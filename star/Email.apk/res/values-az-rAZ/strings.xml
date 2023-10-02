@@ -97,8 +97,8 @@
     <string name="account_setup_basics_password_label">Parol</string>
     <string name="account_setup_basics_password_label_authcode">Parolu və ya doğrulama kodunu daxil edin</string>
     <string name="account_setup_basics_title">Hesab əlavə et</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Server tənzimləmələri təsdiqlənir…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">SMTP tənzimləmələri təsdiqlənir…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Server tənzimləmələri doğrulanır…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">SMTP tənzimləmələri doğrulanır…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Hesab məlumatları alınır…"</string>
     <string name="account_setup_correct_address_tips">Daxil etdiyiniz e-poçt ünvanı yarasızdır.</string>
     <string name="account_setup_deleting_account_msg">"    Hesab silinir…"</string>
@@ -267,7 +267,7 @@ yol prefiksi"</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="chat_item_msg_people_unit">insanlar</string>
     <string name="chat_item_msg_user_etc">və s.</string>
-    <string name="check_setup_data">"    Server tənzimləmələri təsdiqlənir…"</string>
+    <string name="check_setup_data">"    Server tənzimləmələri doğrulanır…"</string>
     <string name="chip_text">Çip mətni</string>
     <string name="clear">Təmizlə</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
@@ -1019,7 +1019,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="send_encrypt_dialog_fail_title">"Şifrəli e-poçt göndərilə bilmir"</string>
     <string name="senders_split_token">, </string>
     <string name="sending_message">Mesaj göndərilir…</string>
-    <string name="ser_resp_err_map_certificate_validator_err">"Server sertifikatı təsdiqlənə bilmədi.
+    <string name="ser_resp_err_map_certificate_validator_err">"Server sertifikatı doğrulana bilmədi.
 \u0009( Tənzimləmələrdə ‘Avto-sinxronlaşdırma vaxtı’nın açıq olduğuna əmin olun)"</string>
     <string name="ser_resp_err_map_landing_more_failure">"Ardıcıl olaraq bir neçə dəfə daxil ola bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="ser_resp_err_map_landing_too_frequently">Həddən çox tez-tez daxil olma cəhdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>

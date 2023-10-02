@@ -168,7 +168,7 @@
     <string name="doodle_guide_dialog_confirm">Oldu</string>
     <string name="doodle_guide_dialog_skip">Ötür</string>
     <string name="doodle_guide_dialog_title">Eskiz</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Ştrixləri avtomatik nizamlamaq üçün eskizi %d–%d saniyəlik basılı saxlayın</string>
+    <string name="doodle_guide_quick_shape_hint" formatted="false">Ştrixləri avtomatik nizamlamaq üçün eskizi %d–%d saniyə basılı tutun</string>
     <string name="doodle_palette">Rəng palitrası</string>
     <string name="doodle_saving">Saxlanılır…</string>
     <string name="doodle_tool_background">Kətanı dəyişdir</string>
@@ -316,7 +316,7 @@
     <string name="miui_penengine_ppw_select_cut">Kəs</string>
     <string name="miui_penengine_ppw_select_delete">Sil</string>
     <string name="miui_penengine_ppw_select_paste">Yapışdır</string>
-    <string name="miui_penengine_ppw_shortcut_long_click">Basılı saxla</string>
+    <string name="miui_penengine_ppw_shortcut_long_click">Basılı tut</string>
     <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Silgiyə keçin. Silmək üçün saxlayın.</string>
     <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Alətləri dəyişdir</string>
     <string name="miui_penengine_ppw_shortcut_primary_key">Yazma düyməsi</string>
@@ -462,7 +462,7 @@
     <string name="new_app_name">Mi Qeydlər</string>
     <string name="new_audio_create_cancel_talkback_des">Ləğv edildi</string>
     <string name="new_audio_create_done_talkback_des">Yaradıldı</string>
-    <string name="new_audio_create_talkback_des">Bir mətn qeydi yaratmaq üçün toxunun. Bir səsli qeyd yaratmaq üçün basılı saxlayın. Səsyazmanı dayandırmaq üçün düyməni buraxın və yeni qeyd yaradın və ya ləğv etmək üçün yuxarı sürüşdürün.</string>
+    <string name="new_audio_create_talkback_des">Bir mətn qeydi yaratmaq üçün toxunun. Bir səsli qeyd yaratmaq üçün basılı tutun. Səsyazmanı dayandırmaq üçün düyməni buraxın və yeni qeyd yaradın və ya ləğv etmək üçün yuxarı sürüşdürün.</string>
     <string name="new_data_empty_note">Burada hələ heç bir element yoxdur</string>
     <string name="new_lite_audio_create_talkback_des">Bir qeyd yaratmaq üçün toxunun</string>
     <string name="new_sync_desc_state_disable">Qeydlər, tapşırıqlar və daha çoxu üçün buludla sinxr.nı işə sal</string>
@@ -474,8 +474,8 @@
     <string name="note_dual_screen_dialog_content">"Deyəsən, indi qeydlərə kompüterinizdə düzəliş edirsiniz. Ziddiyyətli düzəlişlərin qarşısını almaq üçün kompüterinizdə \"Qeydlər\"i bağlayın."</string>
     <string name="note_dual_screen_dialog_title">Screen Combo istifadə edilir…</string>
     <string name="note_gesture_guide_step1">Səsli qeyd yaratmaq üçün üstəgəl düyməsini basılı tutun</string>
-    <string name="note_gesture_guide_step2">Bir qeydə basılı saxlayın, daha sonra başqa bir qovluq yaratmaq üçün başqa bir qeydin üzərinə sürükləyin</string>
-    <string name="note_gesture_guide_step3">Bir qeydə basılı saxlayın, daha sonra qeydi ora daşımaq üçün bir qovluğun üzərinə sürükləyin</string>
+    <string name="note_gesture_guide_step2">Bir qeydi basılı tutun, daha sonra başqa bir qovluq yaratmaq üçün başqa bir qeydin üzərinə sürükləyin</string>
+    <string name="note_gesture_guide_step3">Bir qeydi basılı tutun, daha sonra qeydi ora daşımaq üçün bir qovluğun üzərinə sürükləyin</string>
     <string name="note_link_email">E-poçt yarat</string>
     <string name="note_link_other">Xəritə tətbiqini istifadə edərək aç</string>
     <string name="note_link_select">Mətni seç</string>

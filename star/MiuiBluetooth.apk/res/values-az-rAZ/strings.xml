@@ -147,7 +147,7 @@ Detallar üçün Tənzimləmələri yoxlayın."</string>
     <string name="fast_connect_device_connect_success">Hazırdır</string>
     <string name="fast_connect_device_headset_l">Sol</string>
     <string name="fast_connect_device_headset_r">Sağ</string>
-    <string name="fast_connect_device_headset_reset">Qutunun üzərindəki düyməyə basılı saxlayın</string>
+    <string name="fast_connect_device_headset_reset">Qutunun üzərindəki düyməni basılı tutun</string>
     <string name="fast_connect_device_title_connect_fail">"%1$s ilə bağlantı qurula bilmədi"</string>
     <string name="fast_connect_device_title_connecting">Bağlantı qurulur…</string>
     <string name="fast_connect_device_title_find_headset">Tap: %1$s</string>
@@ -156,7 +156,7 @@ Detallar üçün Tənzimləmələri yoxlayın."</string>
     <string name="fast_connect_new_feture_same_account">Sinxronlaşdırılmış cihazlara bağlan</string>
     <string name="fast_connect_new_feture_sound_normalizer">Daha yaxşı səs</string>
     <string name="fast_connect_new_feture_title">"Yeniliklər"</string>
-    <string name="fast_connect_nzbt_reset">Sönülü ikən yuxarı düyməni %1$s saniyəlik basılı saxlayın</string>
+    <string name="fast_connect_nzbt_reset">Sönülü ikən yuxarı düyməni %1$s saniyə basılı tutun</string>
     <string name="fast_connect_reset_common">Cütləşdirə bilmək üçün bu cihazı sıfırlayın</string>
     <string name="fast_connect_same_account_content">Bluetooth cihazları Mi Hesabınızla sinxronlaşdırıla bilər və digər cihazlarda cütləşmədən bağlana bilər.</string>
     <string name="fast_connect_same_accout_devices_connecting">Xiaomi Cloud ilə bağlantı qurulur…</string>
@@ -164,7 +164,7 @@ Detallar üçün Tənzimləmələri yoxlayın."</string>
     <string name="fast_connect_same_accout_ok">Anladım</string>
     <string name="fast_connect_sound_normalizer_content">"Səsli zənglərdə daha yaxşı səs.
 Daha sürətli bağlantı protokolu."</string>
-    <string name="fast_connect_wbs_reset">Sönülü ikən yuxarı düyməni %1$s saniyəlik basılı saxlayın</string>
+    <string name="fast_connect_wbs_reset">Sönülü ikən yuxarı düyməni %1$s saniyə basılı tutun</string>
     <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -227,7 +227,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="installer_error_internal_error">Daxili xəta</string>
     <string name="installer_error_invalid_request">Quraşdırma tələbi yararsızdır</string>
     <string name="installer_error_module_unavailable">Tələb olunan modul əlçatmazdır</string>
-    <string name="installer_error_network_error">Zəhmət olmasa telefonunuzun şəbəkə statusunu yoxlayın!</string>
+    <string name="installer_error_network_error">Lütfən telefonunuzun şəbəkə statusunu yoxlayın!</string>
     <string name="installer_error_service_died">Xidmət əlçatmazdır, zəhmət olmasa yenidən sınayın.</string>
     <string name="installer_installed">Tam quraşdırıldı</string>
     <string name="installer_installing">Quraşdırılır…</string>
@@ -260,7 +260,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="mi_key_find_mikey">Mi Key-i tap</string>
     <string name="mi_key_find_phone">Cihazı tap</string>
     <string name="mi_key_open_camera">Kameranı aç</string>
-    <string name="mi_key_summary_find_phone">Zəngin səslənmədi üçün Mi Key-ə basılı saxlayın</string>
+    <string name="mi_key_summary_find_phone">Zəngin səslənməsi üçün Mi Key-i basılı tutun</string>
     <string name="mi_key_summary_open_camera">Kameranı açmaq üçün Mi Key-ə iki dəfə basın</string>
     <string name="mi_key_summary_take_photo">Şəkil çəkmək üçün Mi Key-ə basın</string>
     <string name="mi_key_take_photo">Foto çək</string>

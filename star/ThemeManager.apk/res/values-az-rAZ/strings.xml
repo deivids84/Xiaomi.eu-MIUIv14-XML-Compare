@@ -1040,7 +1040,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_exchange_universal_finish">\"Temalar\"dan element endirmək üçün bu kodu istifadə edin.</string>
     <string name="resource_exchange_universal_goon">Bu kod, mağazadakı istənilən temanı endirmək üçün istifadə edilə bilər.</string>
     <string name="resource_exchange_wrong_format_by_local">Daxil etdiyiniz kod formatı yanlışdır.</string>
-    <string name="resource_exchange_wrong_format_by_server">"Kod təsdiqlənmədi. Kodu düzgün daxil etdiyinizə əmin olun."</string>
+    <string name="resource_exchange_wrong_format_by_server">"Kod doğrulanmadı. Kodu düzgün daxil etdiyinizə əmin olun."</string>
     <string name="resource_expand_full_text">Genişləndir</string>
     <string name="resource_failed_to_load_list">"Tema yüklənə bilmir."</string>
     <string name="resource_free_download">Ödənişsiz endir</string>

@@ -155,7 +155,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="doing_query_account">Hesab məlumatı yoxlanılır…</string>
     <string name="dynamic_dialog_content">Xüsusi problem yaxalama rejiminə aid olan və proqramın işlədildiyi qeyd (sistem zəngləri və sair daxil olmaqla) məlumatlarını ehtiva edən dinamik jurnal funksiyasını açmaq üzrəsiniz. Dinamik jurnal fəallaşdırıldıqdan sonra, sistemdə gecikmə və isinmə kimi problemlər yarana bilər (bu normaldır). Jurnal yaxalama bitdikdən sonra sistem avtomatik olaraq sönəcək. Zəhmət olmasa ehtiyatlı olun və problem yenidən görünən kimi əks-əlaqə verin. Aşağıdakı \"Razıyam\"ı seçərək bunlarla razılaşırsınız: yuxarıdakı dataları növbəti qeyd seansı üçün yığacağıq və əks-əlaqədə qeyd olunan problemi həll etmək üçün bu datalar bizə göndəriləcək</string>
     <string name="dynamic_dialog_negative_text">Razı deyiləm</string>
-    <string name="dynamic_dialog_notification_text">Zəhmət olmasa problem yenidən göründükdən sonra vaxtında əks-əlaqə verin. Funksiya avtomatik bağlanacaq</string>
+    <string name="dynamic_dialog_notification_text">Lütfən problem yenidən göründükdən sonra vaxtında əks-əlaqə verin. Funksiya avtomatik bağlanacaq</string>
     <string name="dynamic_dialog_notification_title">Dinamik jurnal alınması fəaldır</string>
     <string name="dynamic_dialog_positive_text">Razıyam</string>
     <string name="dynamic_dialog_title">Gizlilik Qeydi</string>

@@ -46,13 +46,13 @@
     <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödənişinə görə
 kilidlənib.
 Ətraflı məlumat üçün satış nümayəndəsi ilə əlaqə saxlayın."</string>
-    <string name="default_lock_msg_words">Bu cihaz, mövcud bir Mi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə, cihazı təsdiqləmək üçün parolu daxil etməlisiniz.</string>
+    <string name="default_lock_msg_words">Bu cihaz, mövcud bir Mi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə, cihazı doğrulamaq üçün parolu daxil etməyiniz lazımdır.</string>
     <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Zəhmət olmasa mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
     <string name="device_locked">Bu cihaz kilidlidir</string>
     <string name="device_lost">Bu cihaz itib</string>
     <string name="disable_find_device_error">"\"Cihazı tap\" söndürülə bilmədi. %1$s"</string>
     <string name="disable_find_device_success">\"Cihazı tap\" bağlıdır</string>
-    <string name="doing_extra_login_steps">Daxil olma təsdiqlənir…</string>
+    <string name="doing_extra_login_steps">Daxil olma doğrulanır…</string>
     <string name="early_morning">Səhər</string>
     <string name="emergency_call">Fövqəladə hal zəngi</string>
     <string name="enable_find_device_error">"\"Cihazı tap\" açıla bilmədi. %1$s"</string>
@@ -176,7 +176,7 @@ kilidlənib.
     <string name="passport_notification_processing">Emal olunur…</string>
     <string name="passport_trust_device">Bu cihaza güvən</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
-    <string name="passport_verify">Təsdiqlə</string>
+    <string name="passport_verify">Doğrula</string>
     <string name="password">Parol daxil edin</string>
     <string name="phone_locked">Bu cihaz, Mi Hesabı (%s) ilə əlaqələndirilib. Cihazı aktivləşdirmək üçün parolu daxil edin.</string>
     <string name="phone_locked_account_email">, əlaqələndirilmiş e-poçt: %s</string>
@@ -279,8 +279,8 @@ i.mi.com/ss ünvanına gedin və cihazın kilidini açmaq üçün müraciətiniz
     <string name="unlocking">Aktivləşdirilir…</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="verifing_account">Parol təsdiqlənir…</string>
-    <string name="verify_password_failed">"Mi Hesabı Kimliyi təsdiqlənə bilmədi. %s."</string>
+    <string name="verifing_account">Parol doğrulanır…</string>
+    <string name="verify_password_failed">"Mi Hesabı Kimliyi doğrulana bilmədi. %s."</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

@@ -50,14 +50,14 @@
     <string name="wifi_ca_cert_dialog_preT_continue_text">Bağlantılı qal</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">%1$s şəbəkəsinin bir sertifikatı əskikdir.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Sertifikatların necə əlavə edildiyini öyrənin</string>
-    <string name="wifi_ca_cert_dialog_preT_title">"Bu şəbəkə təsdiqlənə bilmir"</string>
+    <string name="wifi_ca_cert_dialog_preT_title">"Bu şəbəkə doğrulana bilmir"</string>
     <string name="wifi_ca_cert_dialog_title">Bu şəbəkə güvənlidir?</string>
     <string name="wifi_ca_cert_failed_to_install_ca_cert">Sertifikat quraşdırma uğursuz oldu.</string>
     <string name="wifi_ca_cert_notification_message">Bağlanmazdan əvvəl %1$s üçün şəbəkə detallarını nəzərdən keçirin. Davam etmək üçün toxunun.</string>
     <string name="wifi_ca_cert_notification_preT_abort_text">"Bağlantı qurma"</string>
     <string name="wifi_ca_cert_notification_preT_continue_text">Yenə də bağlantı qur</string>
     <string name="wifi_ca_cert_notification_preT_message">%1$s şəbəkəsinin bir sertifikatı əskikdir. Sertifikatların necə əlavə edildiyini öyrənmək üçün toxunun.</string>
-    <string name="wifi_ca_cert_notification_preT_title">"Bu şəbəkə təsdiqlənə bilmir"</string>
+    <string name="wifi_ca_cert_notification_preT_title">"Bu şəbəkə doğrulana bilmir"</string>
     <string name="wifi_ca_cert_notification_title">Şəbəkə təsdiqlənməlidir</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik tənzimləmələrini dəyişdirmək və yenidən sınamaq üçün toxunun</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"%1$s ilə bağlantı qurula bilmir"</string>

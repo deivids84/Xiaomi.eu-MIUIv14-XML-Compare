@@ -473,7 +473,7 @@
     <string name="not_set">Tənzimlənmədi</string>
     <string name="note_dual_screen_dialog_content">"Deyəsən, indi qeydlərə kompüterinizdə düzəliş edirsiniz. Ziddiyyətli düzəlişlərin qarşısını almaq üçün kompüterinizdə \"Qeydlər\"i bağlayın."</string>
     <string name="note_dual_screen_dialog_title">Screen Combo istifadə edilir…</string>
-    <string name="note_gesture_guide_step1">Səsli qeyd yaratmaq üçün üstəgəl düyməsinə basılı saxlayın</string>
+    <string name="note_gesture_guide_step1">Səsli qeyd yaratmaq üçün üstəgəl düyməsini basılı tutun</string>
     <string name="note_gesture_guide_step2">Bir qeydə basılı saxlayın, daha sonra başqa bir qovluq yaratmaq üçün başqa bir qeydin üzərinə sürükləyin</string>
     <string name="note_gesture_guide_step3">Bir qeydə basılı saxlayın, daha sonra qeydi ora daşımaq üçün bir qovluğun üzərinə sürükləyin</string>
     <string name="note_link_email">E-poçt yarat</string>

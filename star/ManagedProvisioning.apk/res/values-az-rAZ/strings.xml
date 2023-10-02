@@ -131,7 +131,7 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="fully_managed_device_with_permission_control_provisioning_summary">İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz verilənlərinizi və fəaliyyətinizi görə bilər. Həmçinin IT admininiz bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri tənzimləyə bilər.</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="if_questions_contact_admin">Sualınız varsa, IT admininizlə əlaqə saxlayın</string>
-    <string name="info_anim_title_0">İşləmə metodunu dəyişdirin</string>
+    <string name="info_anim_title_0">İşləmə tərzinizi dəyişdirin</string>
     <string name="info_anim_title_1">İşi şəxsidən ayırın</string>
     <string name="info_anim_title_2">"İşiniz bitdikdən sonra iş profilini bağlayın"</string>
     <string name="item_view_role_description">Vərəq</string>

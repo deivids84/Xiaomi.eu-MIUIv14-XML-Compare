@@ -111,7 +111,7 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="financed_restrict_device_subheader_description">Ödəniş edə bilməsəniz %1$s, bu cihaza müraciəti məhdudlaşdıra bilər.</string>
     <string name="financed_restrict_device_subheader_title">Bu cihaz məhdudlaşdırıla bilər</string>
     <string name="for_help_contact_admin">Kömək üçün IT admininizlə əlaqə saxlayın</string>
-    <string name="frp_clear_progress_text">Zəhmət olmasa gözləyin...</string>
+    <string name="frp_clear_progress_text">Lütfən gözləyin...</string>
     <string name="frp_clear_progress_title">Silinir</string>
     <string name="fully_managed_device_cancel_setup_button">Quraşdırmanı ləğv et</string>
     <string name="fully_managed_device_provisioning_accept_header">"İş cihazını quraşdıraq"</string>

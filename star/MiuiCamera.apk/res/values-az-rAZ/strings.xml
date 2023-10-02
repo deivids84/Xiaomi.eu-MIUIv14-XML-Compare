@@ -865,8 +865,8 @@ Daha yaxşı effekt üçün linzanı təmizləyin."</string>
     <string name="location_permission_not_ask_again_go_to_settings">İcazə ver</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Uzunluq</string>
-    <string name="lpl_dialog_item_name_burst">Ardıcıl çəkiliş üçün basılı saxla</string>
-    <string name="lpl_dialog_item_name_record">Video yazmaq üçün basılı saxlayın</string>
+    <string name="lpl_dialog_item_name_burst">Ardıcıl çəkiliş üçün basılı tutun</string>
+    <string name="lpl_dialog_item_name_record">Video yazmaq üçün basılı tutun</string>
     <string name="lpl_dialog_title">Sürgü üçün funksiya seçin</string>
     <string name="lunch_audio_permission_des">Səsli videolar yazmaq üçün</string>
     <string name="lunch_audio_permission_not_ask_again">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin səs yazmasına icazə verin.</string>
@@ -1008,7 +1008,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="mimoji_start_create">Avatar yaradılır…</string>
     <string name="mimoji_tab_cartoon">Cizgi filmi</string>
     <string name="mimoji_tab_human">Şəxs</string>
-    <string name="mimoji_tips">Foto çəkmək üçün toxunun. Video yazmaq üçün basılı saxlayın.</string>
+    <string name="mimoji_tips">Foto çəkmək üçün toxunun. Video yazmaq üçün basılı tutun.</string>
     <string name="miservice_notification_content">Daha çox öyrənmək üçün toxunun</string>
     <string name="miservice_notification_title">Kamerada yeni özəlliklər haqqında daha ətraflı öyrənin</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -1051,7 +1051,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="module_name_edit">Düzəliş et</string>
     <string name="module_name_edit_favorite_title">Başlanğıc ekranı</string>
     <string name="module_name_edit_full_toast">Başlanğıc ekranı dolub</string>
-    <string name="module_name_edit_sub_title">Yenidən düzmək üçün bir elementə basılı saxlayın</string>
+    <string name="module_name_edit_sub_title">Yenidən düzmək üçün bir elementə basılı tutun</string>
     <string name="module_name_edit_title">Özəlliklər</string>
     <string name="module_name_edit_unfavorite_title">Daha çox özəllik</string>
     <string name="module_name_fun">Qısa video</string>
@@ -1381,11 +1381,11 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_jpegquality_entry_normal">Standart</string>
     <string name="pref_camera_jpegquality_title">Şəkil keyfiyyəti</string>
     <string name="pref_camera_live_sticker_internal_title">Daxili sehrli alətlər</string>
-    <string name="pref_camera_long_press_shutter_feature_title">Çəkiliş düyməsinə basıb basılı saxla</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Sürgü düyməsini basılı tut</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Ardıcıl çəkiliş</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Video yaz</string>
-    <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB kilidləmək üçün Çəkiliş düyməsinə basıb basılı saxla</string>
+    <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB kilidləmək üçün Sürgü düyməsini basılı tutun</string>
     <string name="pref_camera_lying_summary">Telefon yerə paralel olduqda hazırkı istiqaməti bildir</string>
     <string name="pref_camera_lying_title">İstiqaməti bildir</string>
     <string name="pref_camera_magic_mirror_title">Sehirli güzgü</string>
@@ -1465,7 +1465,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_show_gender_age_title">Yaş və cins</string>
     <string name="pref_camera_snap_enable_title">Cəld çəkiliş rejimi</string>
     <string name="pref_camera_snap_entry_off">Bağlı</string>
-    <string name="pref_camera_snap_entry_summary">Foto çəkmək üçün ekran sönülü olduqda Səs azaltma düyməsinə basılı saxla</string>
+    <string name="pref_camera_snap_entry_summary">Foto çəkmək üçün ekran sönülü olduqda Səs azaltma düyməsini basılı tutun</string>
     <string name="pref_camera_snap_entry_take_movie">Cəld çəkiliş rejimi (video)</string>
     <string name="pref_camera_snap_entry_take_picture">Cəld çəkiliş rejimi (şəkil)</string>
     <string name="pref_camera_snap_label_take_movie">Video</string>

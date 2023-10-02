@@ -266,7 +266,7 @@
     <string name="new_search_app_records_hint">Tətbiq yazılarını axtar</string>
     <string name="new_search_call_records_hint">Zəng yazılarını axtar</string>
     <string name="new_search_fm_records_hint">Radio yazıları axtar</string>
-    <string name="new_search_recorder_records_hint">\"Yazıcı\"da axtar</string>
+    <string name="new_search_recorder_records_hint">\"Səsyazan\"da axtar</string>
     <string name="night">Axşam</string>
     <string name="no_content">Burada element yoxdur</string>
     <string name="no_file">Fayl yoxdur</string>

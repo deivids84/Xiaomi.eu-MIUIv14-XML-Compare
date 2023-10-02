@@ -93,7 +93,7 @@
     <string name="account_setup_autodiscover_dlg_authfail_title">"Hesab quraşdırıla bilmədi"</string>
     <string name="account_setup_basics_email_label">E-poçt ünvanı</string>
     <string name="account_setup_basics_manual_setup_action">Əllə quraşdır</string>
-    <string name="account_setup_basics_mi_mail_login_help">E-poçt almaq üçün hesabınızı SMS yolu ilə təsdiqləməyiniz tələb oluna bilər</string>
+    <string name="account_setup_basics_mi_mail_login_help">E-poçt almaq üçün hesabınızı SMS vasitəsilə doğrulamağınız lazım gələ bilər</string>
     <string name="account_setup_basics_password_label">Parol</string>
     <string name="account_setup_basics_password_label_authcode">Parol və ya təsdiqləmə kodunu daxil edin</string>
     <string name="account_setup_basics_title">Hesab əlavə et</string>
@@ -114,7 +114,7 @@
     <string name="account_setup_failed_dlg_certificate_message">"Serverə güvənli şəkildə bağlana bilmir."</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Serverə güvənli şəkildə bağlana bilmir.
 (%s)"</string>
-    <string name="account_setup_failed_dlg_device_locked">Hesabınız qorunur. Bu cihazı QQ Security ilə təsdiqəyin və ya qorumanı ləğv edin.</string>
+    <string name="account_setup_failed_dlg_device_locked">Hesabınız qorunur. Bu cihazı QQ Security istifadə edərək doğrulayın və ya qorumanı ləğv edin.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Detallara düzəliş et</string>
     <string name="account_setup_failed_dlg_error_code">Xəta kodu: %s</string>
     <string name="account_setup_failed_dlg_server_message">"Serverə bağlana bilmir."</string>
@@ -437,10 +437,10 @@ yol prefiksi"</string>
     <string name="error_message_blacklist">Hesabınız əngəlli siyahısına əlavə edildi. Bu problemi həll etmək üçün e-poçt xidmət provayderinizlə əlaqə saxlayın.</string>
     <string name="error_message_imap_or_pop3_service_not_open">IMAP və ya POP3-ü işə salıb yenidən sınayın.</string>
     <string name="error_message_imap_service_not_open">IMAP-ı işə salıb yenidən sınayın.</string>
-    <string name="error_message_outlook_error">Əvvəlcə kimliyinizi Outlook-un veb versiyasında təsdiqləyin.</string>
+    <string name="error_message_outlook_error">Əvvəlcə kimliyinizi Outlook-un veb versiyasında doğrulayın.</string>
     <string name="error_message_respond_revert_03">"Bu domen adı artıq mövcuddur. URL-ni yoxlayıb yenidən sınayın."</string>
     <string name="error_message_respond_revert_06">Daxil etdiyiniz parol yanlışdır.</string>
-    <string name="error_message_respond_revert_07">"Kimliyiniz təsdiqlənə bilmədi. Daxil olmaq üçün təsdiqləmə kodunu istifadə edin."</string>
+    <string name="error_message_respond_revert_07">"Kimliyiniz doğrulana bilmədi. Daxil olmaq üçün doğrulama kodunu istifadə edin."</string>
     <string name="error_message_respond_revert_16">Parolunuzun vaxtı bitib. Parolunuzu güncəlləyib yenidən daxil olun.</string>
     <string name="error_message_respond_revert_21">POP3-ü işə salıb yenidən sınayın.</string>
     <string name="error_message_respond_revert_24">IP ünvanınız əngəlləndi. Bu problemi həll etmək üçün Sohu Mail müştəri xidməti ilə əlaqə saxlayın.</string>

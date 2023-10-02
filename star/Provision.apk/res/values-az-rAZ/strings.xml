@@ -96,7 +96,7 @@
     <string name="data_traffic_enable_dialog_title">"İndi Wi-Fi şəbəkəsinə qoşulu deyilsinizsə, cihazınız mobil internet istifadə edəcək. Mobil internet istifadəsi əlavə operator xərcləri yarada bilər."</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
-    <string name="desc_fingerprint">Cihazınızın kilidini açmaq, Mi Pay əməliyyatlarını təsdiqləmək və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
+    <string name="desc_fingerprint">Cihazınızın kilidini açmaq, Mi Pay əməliyyatlarını doğrulamaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
     <string name="desc_international_fingerprint">Cihazınızın kilidini açmaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
     <string name="diagnose_report">Sistem problemlərini tapmaq və təhlil etmək və istifadəçi təcrübəsini təkmilləşdirmək üçün diaqnostika datalarını göndərin. Belə datalar şəxsi məlumatlar ehtiva edə bilər (məs: IP, yerləşmə və s.)</string>
     <string name="disageement_abnormal_download">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz."</string>
@@ -355,7 +355,7 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="permission_clock_info_introduction">Zəngli saat datalarını saxlamaq üçün</string>
     <string name="permission_contact">Kontaktlara müraciət</string>
     <string name="permission_contact_describe">Kontaktlara müraciət</string>
-    <string name="permission_contact_describe_MIUIDaemon_summary">Kimliyinizi təsdiqləmək üçün.</string>
+    <string name="permission_contact_describe_MIUIDaemon_summary">Kimliyinizi doğrulamaq üçün.</string>
     <string name="permission_contact_describe_bluetooth_summary">Bu cihaza bağladığınız digər uyğun cihazlarınızın kontaktlara müraciətinə icazə vermək üçün. Bu, yalnız Bluetooth açıq olduqda və ya Bluetooth açıq ikən kontaktlarınıza düzəliş etdikdə baş verəcək.</string>
     <string name="permission_contact_describe_desktop_summary">Lite rejimində Əsas ekran fövqəladə hal əlaqə özəlliyini istifadə etmək və danışıq bildirişlərini göstərmək üçün;</string>
     <string name="permission_contact_describe_message_summary">SMS və MMS-in müvafiq kontakt məlumatlarını göstərmək üçün.</string>
@@ -399,11 +399,11 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="permission_read_call_records">Zəng tarixçəsinə düzəliş et</string>
     <string name="permission_read_call_records_introduction">Zəng tarixçəsinə element əlavə etmək və əngəllənmiş zəngləri silmək üçün</string>
     <string name="permission_read_contacts">Kontaktlara müraciət edilir</string>
-    <string name="permission_read_contacts_introduction">Kimliyinizi təsdiqləmək üçün</string>
+    <string name="permission_read_contacts_introduction">Kimliyinizi doğrulamaq üçün</string>
     <string name="permission_read_device_store">Cihaz anbarına müraciət</string>
     <string name="permission_read_device_store_summary">Endirilmiş mənbə fayllarına və mənbə konfiqurasiya fayllarına müraciət etmək üçün;</string>
     <string name="permission_read_message">Mətn mesajlarına müraciət</string>
-    <string name="permission_read_message_introduction">Cihazınızın sahibliyini yoxlamaq üçün</string>
+    <string name="permission_read_message_introduction">Cihazınızın sahibliyini doğrulamaq üçün</string>
     <string name="permission_read_note_introduction">Qeydləri və qoşmalara müraciət etmək üçün</string>
     <string name="permission_read_send_message">SMS göndər və al</string>
     <string name="permission_read_send_message_fast_application_summary">Cəld tətbiqlərin SMS göndərməsinə və almasına imkan vermək üçün;</string>

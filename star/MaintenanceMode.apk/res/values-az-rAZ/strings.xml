@@ -139,7 +139,7 @@
     <string name="noon">Günorta</string>
     <string name="open">Baxım rejimini aç</string>
     <string name="open_maintenance_mode">Baxım rejimini aç</string>
-    <string name="open_maintenance_mode_msg">Məlumat itkisinin qarşısını almaq üçün təmirə göndərməzdən əvvəl </string>
+    <string name="open_maintenance_mode_msg">Məlumat itkisini önləmək üçün təmirə göndərməzdən əvvəl</string>
     <string name="open_maintenance_mode_msg_sub">datanız nüsxələnir</string>
     <string name="open_maintenance_mode_tips">Baxım rejimini indicə söndürdünüz və əlaqə dataları silirsiniz, zəhmət olmasa daha sonra yenidən sınayın</string>
     <string name="pm">GS</string>

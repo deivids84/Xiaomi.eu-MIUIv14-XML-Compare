@@ -123,7 +123,7 @@ Cihazı zəng edirmiş kimi tutun, üst mikrofona danışın, qəbuledicidən s�
     <string name="radio_info_data_disconnected">Bağlantı kəsildi</string>
     <string name="remove_finger">barmaq qaldırma testi</string>
     <string name="sar_algo_data_check_description">Sar Algo məlumat yığma</string>
-    <string name="sar_mtk_test_title">Sar Mtk Kimlik təsdiqləmə testi</string>
+    <string name="sar_mtk_test_title">Sar Mtk Kimlik doğrulama testi</string>
     <string name="search_menu_title">Axtarış</string>
     <string name="sidebottom_mic_check_record_tip">Səs yazılır, zəhmət olmasa cihazın yan alt hissəsindəki mikrofona nəsə deyin</string>
     <string name="sidetop_mic_check_record_tip">Səs yazılır, zəhmət olmasa cihazın yan üst hissəsindəki mikrofona nəsə deyin</string>

@@ -211,7 +211,7 @@
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
     <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_update_button">Güncəllə</string>
     <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləyənə qədər %1$s işləməyəcək."</string>

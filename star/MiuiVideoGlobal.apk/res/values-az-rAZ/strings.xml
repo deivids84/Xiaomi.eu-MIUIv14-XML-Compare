@@ -1207,7 +1207,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_hint">Telefon nömrəsini daxil et</string>
     <string name="passport_input_vcode_hint">Təsdiqləmə kodunu daxil edin</string>
-    <string name="passport_input_voice_captcha_hint">Səsli təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_input_voice_captcha_hint">Səsli doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
     <string name="passport_international_phone_password_login_tip">(Çin xaricində olan istifadəçilər mobil telefon nömrəsini aşağıdakı formatda daxil etməlidir: +[ölkə kodu][telefon nömrəsi], məs.: +91 817282982)</string>
     <string name="passport_log_detail">Detallara bax</string>
@@ -1235,8 +1235,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_sms_phone_intro">Kod göndərildi: %1$s</string>
     <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_switch_voice_captcha">Səsli təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_voice_captcha">Səsli təsdiqləmə kodunu oxut</string>
+    <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
+    <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
     <string name="passport_timeout_network_error">Şəbəkə tələbinin vaxtı bitdi</string>
     <string name="passport_trust_device">Bu, güvənli cihazdır</string>
     <string name="passport_trying_read_verify_code_sms">Təsdiqləmə kodu alınır…</string>

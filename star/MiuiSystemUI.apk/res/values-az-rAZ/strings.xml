@@ -2156,7 +2156,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="tts_engine_settings_title">%s üçün tənzimləmələr</string>
     <string name="tts_general_section_title">Ümumi</string>
     <string name="tts_install_data_summary">Nitq sintezi üçün tələb olunan səs datasını quraşdır</string>
-    <string name="tts_install_data_title">Səs verilənlərini quraşdır</string>
+    <string name="tts_install_data_title">Səs datasını quraşdır</string>
     <string name="tts_lang_not_selected">Dil seçilməyib</string>
     <string name="tts_lang_use_system">Sistem dilini istifadə et</string>
     <string name="tts_play_example_summary">Nitq sintezinin qısa nümayişini oxut</string>
@@ -2280,7 +2280,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="verify_apps_over_usb_title">USB üzərindən tətbiqləri təsdiqlə</string>
     <string name="video_status">İzlənir</string>
     <string name="voice_assist_label">səsli köməyi aç</string>
-    <string name="voice_hint">Səsli kömək üçün, nişandan sürüşdürün</string>
+    <string name="voice_hint">Səsli kömək üçün nişandan sürüşdürün</string>
     <string name="volume_and_do_not_disturb">Narahat etməyin</string>
     <string name="volume_dialog_ringer_guidance_ring">Zənglər və bildirişlər çalacaq (%1$s)</string>
     <string name="volume_dialog_title">%s səs kontrolları</string>

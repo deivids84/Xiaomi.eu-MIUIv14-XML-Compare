@@ -498,7 +498,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
 %3$d. \"Növbəti\"yə toxunun və Kontaktlara tələb olunan icazələri verin."</string>
     <string name="device_transfer_by_sim_message">"%1$d. Kontaktları SIM kartdakı digər cihazdan köçürün;
 
-%2$d. Kontaktlar tətbiqindəki tənzimləmələri açın və sonra \"Kontaktları Daxilə Xaricə köçür\" - \"SIM kartdan daxilə köçür\" bölməsinə gedin, seçmək üçün hər hansı bir SIM kontakta basıb saxlayın və bütün tələb edilən kontaktları seçin və \"Daxilə köçür\"ə toxunun."</string>
+%2$d. Kontaktlar tətbiqindəki tənzimləmələri açın və sonra \"Kontaktları Daxilə Xaricə köçür\" - \"SIM kartdan daxilə köçür\" bölməsinə gedin, seçmək üçün hər hansı bir SIM kontakta basılı tutun və bütün tələb edilən kontaktları seçin və \"Daxilə köçür\"ə toxunun."</string>
     <string name="device_version_header_bluetooth">Bluetooth ilə daxilə köçür</string>
     <string name="device_version_header_no_bluetooth">SIM kart ilə daxilə köçür</string>
     <string name="dialerIconLabel">Sonuncular</string>
@@ -1016,7 +1016,7 @@ Səbəb: \"%s\""</string>
     <string name="qrcode_card_title">QR kodu</string>
     <string name="quick_dial_setting_delete_dialog_message">Təyin edilmiş cəld yığım nömrəsi silinsin?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Sil</string>
-    <string name="quick_dial_setting_hint">Bir cəld yığım nömrəsi təyin etmək və ya silmək üçün bir düyməyə toxunun. Yığmaq üçün nömrə təyin edilmiş düyməyə basıb saxlayın.</string>
+    <string name="quick_dial_setting_hint">Bir cəld yığım nömrəsi təyin etmək və ya silmək üçün bir düyməyə toxunun. Yığmaq üçün nömrə təyin edilmiş düyməyə basılı tutun.</string>
     <string name="quick_dial_setting_set_dialog_message">Bu düyməyə cəld yığım nömrəsi təyin edilsin?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Bəli</string>
     <string name="quick_dial_setting_title">Cəld yığım</string>

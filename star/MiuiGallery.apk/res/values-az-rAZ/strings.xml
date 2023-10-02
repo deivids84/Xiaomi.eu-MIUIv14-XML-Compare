@@ -1927,7 +1927,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
     <string name="passport_input_verify_code">Təsdiqləmə kodunu daxil edin</string>
-    <string name="passport_input_voice_captcha_hint">Səsli təsdiqləmə kodunu daxil edin</string>
+    <string name="passport_input_voice_captcha_hint">Səsli doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
@@ -1953,8 +1953,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
     <string name="passport_talkback_image_captcha">Şəkil təsdiqləmə kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_switch_voice_captcha">Səsli təsdiqləmə koduna keç</string>
-    <string name="passport_talkback_voice_captcha">Səsli təsdiqləmə kodunu oxut</string>
+    <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
+    <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>

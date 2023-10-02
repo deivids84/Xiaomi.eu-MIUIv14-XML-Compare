@@ -31,11 +31,11 @@
     <string name="auto_frontflash_title">Ön kamera fənər testi</string>
     <string name="auto_rearflash_description">Bütün arxa kamera işıqları yanır, keçmək üçün toxunun, əks halda uğursuz olmaq üçün toxunun</string>
     <string name="auto_rearflash_title">Arxa kamera fənər testi</string>
-    <string name="aux_mic_check_record_tip">Yazılır, zəhmət olmasa cihazın altındakı AUX mikrofona nəsə deyin</string>
+    <string name="aux_mic_check_record_tip">Yazılır, lütfən cihazın altındakı AUX mikrofona nəsə deyin</string>
     <string name="battery_third_connector">Batareya Konnektorunun Gərginliyi</string>
     <string name="bottom_speaker_title">Aşağı dinamik testi</string>
     <string name="cit_DP_check_summary">Type-C - DP kabeli test zamanı taxılmalıdır</string>
-    <string name="cit_DP_in_start_test">Zəhmət olmasa testə başlamaq üçün Type-C - DP kabelini taxın</string>
+    <string name="cit_DP_in_start_test">Lütfən testə başlamaq üçün Type-C - DP kabelini taxın</string>
     <string name="cit_DP_plug_err">"Aşkarlama cihazı bağlantı dəyişikliyi 
  Təməl düyün dəyərini oxuma uğursuz oldu 
  Dəyər alınmadı"</string>
@@ -48,7 +48,7 @@
 "</string>
     <string name="cit_DP_plug_pass">"Aşkarlama cihazı bağlantı dəyişikliyi 
  Təməl düyün dəyərini oxuma uğurlu oldu 
- Zəhmət olmasa ekranın uğurlu olub-olmadığını müşahidə edin və müvafiq düyməyə basın"</string>
+ Lütfən ekranın uğurlu olub-olmadığını müşahidə edin və müvafiq düyməyə basın"</string>
     <string name="cit_USB3_2GEN1_check_summary">Test zamanı USB3.2 GEN1 dəstəkləyən cihazlar daxil edilməlidir</string>
     <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
     <string name="cit_USB3_2_check_summary">Test zamanı USB3.2 dəstəkləyən cihazlar daxil edilməlidir</string>
@@ -57,7 +57,7 @@
     <string name="cit_USB3_plug_fail">Test cihazı %1$s dəstəkləmir və test uğursuz oldu</string>
     <string name="cit_USB3_plug_out_test_fail">"Cihaz çıxarıldı, test uğursuz oldu
 Test avadanlığı %1$s dəstəkləməyə bilər, əvəzedici avadanlığın yenidən test edilməsi tövsiyə olunur"</string>
-    <string name="cit_USB3_plug_pass">%1$s keçdi, zəhmət olmasa cihazları çıxarın</string>
+    <string name="cit_USB3_plug_pass">%1$s keçdi, lütfən cihazları çıxarın</string>
     <string name="cit_USB3_plug_re_plugin">"%1$s testi bitdi, zəhmət olmasa testi təkrarlamayın"</string>
     <string name="cit_accelermeter_sensor_check_summary">"Cihazı sürətlə bir istiqamətdə hərəkət etdirin. X，Y，Z koordinant dəyərləri aşağıda görünür. (cihaz hərəkətdə ikən: X, sol/sağı, Y, ön/arxanı, Z isə yuxarı/aşağını təmsil edir).
 Kalibrləməzdən əvvəl onu düz bir səthə qoyun."</string>

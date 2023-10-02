@@ -138,14 +138,14 @@
     <string name="click_soft_ap_to_link">Bağlanmaq üçün bir hotspot seçin</string>
     <string name="click_to_view">Baxmaq üçün toxunun</string>
     <string name="close">Bağla</string>
-    <string name="close_twice_auth_btn">İki mərhələli kimlik təsdiqləməni söndür</string>
+    <string name="close_twice_auth_btn">İki faktorlu kimlik doğrulamanı söndür</string>
     <string name="close_twice_auth_note">"Qeyd:
-Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdən sonra, Apple Kimliyiniz üçün iki mərhələli kimlik təsdiqləmə söndürüləcək. Apple ID hesab səhifəsində iki mərhələli kimlik təsdiqləməni söndürmə seçimini görmürsünüzsə, onu söndürə bilməzsiniz."</string>
+Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra, Apple Kimliyinizin iki faktorlu kimlik doğrulaması söndürüləcək. Apple Kimliyi hesab səhifəsində iki faktorlu kimlik doğrulamanı söndürmə seçimini görmürsünüzsə, bunu söndürə bilməzsiniz."</string>
     <string name="close_twice_auth_step_1">1. Bir kompüterdə istənilən veb brauzeri açın və appleid.apple.com saytına gedin.</string>
-    <string name="close_twice_auth_step_2">2. İki mərhələli kimlik təsdiqləməsini sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab tənzimləmələrindən \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
-    <string name="close_twice_auth_step_3">3. \"İki mərhələli kimlik təsdiqləməsini söndür\" seçiminə toxunun. Təsdiqləmək üçün yenidən toxunun.</string>
-    <string name="close_twice_auth_steps">Apple Kimliyi üçün iki mərhələli kimlik təsdiqləməsini söndürmək üçün bu addımları izləyin:</string>
-    <string name="close_twice_auth_tutor">Apple Kimliyi üçün iki mərhələli kimlik təsdiqləməsini söndür</string>
+    <string name="close_twice_auth_step_2">2. İki faktorlu kimlik doğrulamanı sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab tənzimləmələrindən \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
+    <string name="close_twice_auth_step_3">3. \"İki faktorlu kimlik doğrulamanı söndür\" seçiminə toxunun. Təsdiqləmək üçün yenidən toxunun.</string>
+    <string name="close_twice_auth_steps">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndürmək üçün bu addımları izləyin:</string>
+    <string name="close_twice_auth_tutor">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndür</string>
     <string name="cloud_app_name">Xiaomi Cloud nüsxələməsi</string>
     <string name="cloud_backup_hint">Nüsxələrinizə müraciət etmək üçün indi daxil olun</string>
     <string name="cloud_backup_login">Mi Hesabınıza daxil olun</string>
@@ -216,7 +216,7 @@ Yeni təhlükəsizlik sualı yaratdıqdan və doğum tarixinizi təsdiqlədikdə
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="err_acquire_system_service">"Sistem xidmətləri başladıla bilmədi."</string>
-    <string name="err_authentication_failed">"Kimlik təsdiqlənə bilmədi"</string>
+    <string name="err_authentication_failed">"Kimlik doğrulana bilmədi"</string>
     <string name="err_bakfile_broken">"Bu nüsxəni istifadə edə bilməzsiniz."</string>
     <string name="err_bakfile_not_exist">"Nüsxə faylı mövcud deyil."</string>
     <string name="err_binder_died">Tətbiq gözlənilmədən dayandı.</string>
@@ -276,22 +276,22 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="hide_password_description">Parolu gizlət</string>
     <string name="hsa_code_null">"Doğrulama kodu boş ola bilməz"</string>
     <string name="hsa_input_hint">Doğrulama kodunu daxil edin</string>
-    <string name="hsa_input_tip">Apple Kimliyiniz, iki mərhələli kimlik doğrulamanı istifadə edir. Doğrulama kodunu daxil edin.</string>
+    <string name="hsa_input_tip">Apple Kimliyiniz, iki faktorlu kimlik doğrulamanı istifadə edir. Doğrulama kodunu daxil edin.</string>
     <string name="hsa_send_again">Yenidən göndər</string>
     <string name="hsa_send_again_countdown">Yenidən göndər (%d san)</string>
     <string name="hsa_send_failed">"Doğrulama kodu göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="hsa_sending">Göndərilir…</string>
     <string name="hsa_tip_message">"1. Doğrulama kodunu ala bilmirsinizsə, Apple cihazınızdakı iCloud-da hesabınıza daxil olduğunuza əmin olun.
-2. Daxil edilən doğrulama kodu kömək etmirsə, iki mərhələli kimlik doğrulamanı söndürün. "</string>
-    <string name="hsa_tip_message_shutdown_hsa">İki mərhələli kimlik təsdiqləməsini necə söndürmək olar?</string>
-    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqələndirilmiş \"%s\" cihazına doğrulama kodu olan bir mesaj göndərildi.\n2. Əgər doğrulama kodu işləməsə, iki mərhələli kimlik doğrulamanı söndürün."</string>
+2. Daxil edilən doğrulama kodu kömək etmirsə, iki faktorlu kimlik doğrulamanı söndürün. "</string>
+    <string name="hsa_tip_message_shutdown_hsa">İki faktorlu kimlik doğrulama necə söndürülür</string>
+    <string name="hsa_tip_message_with_device">"1. Apple Kimliyiniz ilə əlaqələndirilmiş \"%s\" cihazına doğrulama kodu olan bir mesaj göndərildi.\n2. Əgər doğrulama kodu işləməsə, iki faktorlu kimlik doğrulamanı söndürün."</string>
     <string name="hsa_tip_title">Məsləhətlər:</string>
-    <string name="hsa_title">İki mərhələli kimlik təsdiqləmə</string>
-    <string name="hsa_verify_failed">İki mərhələli kimlik təsdiqləmə uğursuz oldu</string>
-    <string name="hsa_verify_failed_message">İki mərhələli kimlik təsdiqləmə uğursuz oldu. Yenidən sınaya və ya iki mərhələli kimlik təsdiqləməni söndürə bilərsiniz.</string>
+    <string name="hsa_title">İki faktorlu kimlik doğrulama</string>
+    <string name="hsa_verify_failed">İki faktorlu kimlik doğrulama uğursuz oldu</string>
+    <string name="hsa_verify_failed_message">İki faktorlu kimlik doğrulama uğursuz oldu. Yenidən sınaya və ya iki faktorlu kimlik doğrulamanı söndürə bilərsiniz.</string>
     <string name="hsa_verify_retry">Yenidən sına</string>
     <string name="hsa_verify_shutdown">Bağla</string>
-    <string name="iCloud_ID_verification_tip">Doğrulama kodunu göstərmək üçün Apple cihazınızda \"İcazə ver\" seçiminə toxunun. doğrulama kodunu bura daxil edin.</string>
+    <string name="iCloud_ID_verification_tip">Doğrulama kodunu göstərmək üçün Apple cihazınızda \"İcazə ver\" seçiminə toxunun. Doğrulama kodunu bura daxil edin.</string>
     <string name="icloud_backup_tip">Köhnə iOS cihazınızın iCloud hesabına daxil olun</string>
     <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Tənzimləmələri açın və iCloud-u seçin.
 2. Kontaktlar və digər elementlər üçün düymələri dəyişdirin.

@@ -1044,7 +1044,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_expand_full_text">Genişləndir</string>
     <string name="resource_failed_to_load_list">"Tema yüklənə bilmir."</string>
     <string name="resource_free_download">Ödənişsiz endir</string>
-    <string name="resource_get_auth_checking">Təsdiqlənir…</string>
+    <string name="resource_get_auth_checking">Doğrulanır…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Bu hesabda artıq 10 cihaza səlahiyyət verilib</string>
     <string name="resource_get_auth_exceed_max_limit_tips_pad">\"Fərdiləşdirmə\"ni bir hesabla 10-a qədər cihazda istifadə edə bilərsiniz.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Həddindən çox cihaza səlahiyyət verildi</string>
@@ -1087,7 +1087,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_purchase_common_error">Xəta baş verdi, yenidən sınayın</string>
     <string name="resource_purchase_continue_to_pay">Ödəməyə davam et %s</string>
     <string name="resource_purchase_getting_order">Sifariş məlumatı alınır…</string>
-    <string name="resource_purchase_verifying_payment">Ödəniş məlumatları təsdiqlənir…</string>
+    <string name="resource_purchase_verifying_payment">Ödəniş məlumatları doğrulanır…</string>
     <string name="resource_purchase_vip_pay_failed">"VIP ödənişi edilə bilmədi"</string>
     <string name="resource_purchase_waiting_payment">Ödəniş məlumatları gözlənilir…</string>
     <string name="resource_ranking">Məşhur</string>

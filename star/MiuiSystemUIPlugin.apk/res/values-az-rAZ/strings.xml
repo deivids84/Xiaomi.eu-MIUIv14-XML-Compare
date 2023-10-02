@@ -454,7 +454,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="timer_off">Bağlı</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
-    <string name="torch_high_temperature_warning">"Cihazınız həddindən çox isinib. Fənəri indi istifadə edə bilməzsiniz."</string>
+    <string name="torch_high_temperature_warning">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>

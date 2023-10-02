@@ -937,7 +937,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
 • İnternet xidmət provayderiniz"</string>
     <string name="incognito_title">"Gizlisiniz"</string>
     <string name="inconsistent_pwd">"Parollar uyğunlaşmır"</string>
-    <string name="input_email_address_notice">"Hesabınızı təsdiqləmək üçün bu e-poçt ünvanını istifadə edəcəyik"</string>
+    <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
     <string name="ins_login_tips">Instagram-dan videolar endirmək üçün hesaba daxil olun</string>
     <string name="ins_register_btn">E-poçt və ya telefon nömrəsi daxil edərək hesab yaradın</string>
@@ -1304,7 +1304,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Zəif siqnala və ya yanlış şəbəkə konfiqurasiyasına görə şəbəkəyə bağlana bilmədi. %s1Şəbəkə tənzimləmələrinizi%s2 yoxlayıb yenidən sınayın."</string>
     <string name="mw_miuichromium_error_page_diagnose">Şəbəkə diaqnostikası</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Şəbəkə diaqnostikası</string>
-    <string name="mw_miuichromium_error_page_diagnose_certificate">"Şəbəkə protokolu təsdiqlənə bilmədi"</string>
+    <string name="mw_miuichromium_error_page_diagnose_certificate">"Şəbəkə protokolu doğrulana bilmədi"</string>
     <string name="mw_miuichromium_error_page_diagnose_connection">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="mw_miuichromium_error_page_diagnose_dns">Deyəsən, URL yanlışdır</string>
     <string name="mw_miuichromium_error_page_diagnose_protocol">Şəbəkə protokolu xətası</string>
@@ -1579,7 +1579,7 @@ Bu səhifə tərk edilsin?"</string>
     <string name="passport_password_req_notice">Parol, 8-16 simvol uzunluğunda olmalıdır və ən azı bunlardan ikisini ehtiva etməlidir: rəqəmlər, hərflər və xüsusi simvollar (məs. 123abc@# və ya 123abc və ya abc@#).</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb edilir…</string>
     <string name="passport_quick_login_dialog_step2_title">2 addımlı kimlik təsdiqləmə</string>
-    <string name="passport_quick_login_dialog_title">Parolu təsdiqlə</string>
+    <string name="passport_quick_login_dialog_title">Parolu doğrula</string>
     <string name="passport_quick_login_step2_title">2 addımlı kimlik təsdiqləmə</string>
     <string name="passport_quick_login_title">Parolunuzu daxil edin</string>
     <string name="passport_re_get_verify_code">Yenidən kod al</string>
@@ -1612,8 +1612,8 @@ Bu səhifə tərk edilsin?"</string>
     <string name="passport_vcode_notification_title">Daxil olma təsdiqləməniz tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Təsdiqləmə kodunu daxil edin</string>
     <string name="passport_vcode_sms_send_prompt">Kod göndərildi: %s</string>
-    <string name="passport_verification_failed">"Təsdiqlənə bilmədi"</string>
-    <string name="passport_verify">Təsdiqlə</string>
+    <string name="passport_verification_failed">"Doğrulana bilmədi"</string>
+    <string name="passport_verify">Doğrula</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
@@ -2200,7 +2200,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="ssl_bad_clock_date_settings">Tarixi təyin et</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Cihazınızın tarix və saatı (%s2) yanlış olduğuna görə %s1 ilə özəl bağlantı qurula bilmədi."</string>
     <string name="ssl_bad_expired_warning">"Bu kanal %1$s tərəfindən təmin edilir. Lakin, cihazınızda tənzimlənmiş tarix və vaxt (%2$s), %1$s ilə güvənli bağlantı yaratmağa imkan vermir. Doğru tarix və saatı təyin edə və ya bu kanalı istifadə etmək istəyirsinizsə \"Davam et\"ə toxuna bilərsiniz."</string>
-    <string name="ssl_bad_warning">"Bu kanal %1$s tərəfindən təmin edilir. Lakin Mi Brauzer, bu serverin %1$s aid olduğunu təsdiqləyə bilmir, çünki sertifikatı yararsızdır və ya ləğv edilmişdir. Yanlış konfiqurasiyalar və ya əngəllənmiş bağlantı bu problemə səbəb ola bilər. Hələ də bu kanalı istifadə etmək istəyirsinizsə \"Davam et\"ə toxunun."</string>
+    <string name="ssl_bad_warning">"Bu kanal %1$s tərəfindən təmin edilir. Lakin Mi Brauzer, bu serverin %1$s aid olduğunu doğrulaya bilmir, çünki sertifikatı yararsızdır və ya ləğv edilmişdir. Yanlış konfiqurasiyalar və ya əngəllənmiş bağlantı bu problemə səbəb ola bilər. Hələ də bu kanalı istifadə etmək istəyirsinizsə \"Davam et\"ə toxunun."</string>
     <string name="ssl_certificate">Güvənlik sertifikatı</string>
     <string name="ssl_certificate_is_valid">Sertifikat yararlıdır.</string>
     <string name="ssl_continue">Davam et</string>
@@ -2374,7 +2374,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək üçün əvvəlki
     <string name="unsecurity_url_toast">"Bu veb sayt güvənli deyil"</string>
     <string name="up_to_loading_tips">Təzələmək üçün burax</string>
     <string name="update">Güncəllə</string>
-    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi təsdiqləməlisiniz.</string>
+    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_no_network_toast">"Şəbəkəyə bağlana bilmir"</string>
     <string name="update_now">İNDİ GÜNCƏLLƏ</string>

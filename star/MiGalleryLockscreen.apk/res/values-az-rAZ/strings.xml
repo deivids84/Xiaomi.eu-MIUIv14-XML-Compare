@@ -589,7 +589,7 @@ mm"</string>
     <string name="passport_i_know">Anladım</string>
     <string name="passport_identification_expired">Təsdiqləmə kodunun müddəti bitdi. Başdan başlat.</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
-    <string name="passport_input_email_address_notice">"Bu e-poçtu hesabınızı təsdiqləmək üçün istifadə edəcəyik"</string>
+    <string name="passport_input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
     <string name="passport_input_verify_code">Təsdiqləmə kodunu daxil edin</string>
@@ -628,7 +628,7 @@ mm"</string>
     <string name="passport_request_agree">İcazə ver</string>
     <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil şəkilinizi tənzimləmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu növ icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
-    <string name="passport_request_error_invalid_token">"Təsdiqlənə bilmədi"</string>
+    <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>

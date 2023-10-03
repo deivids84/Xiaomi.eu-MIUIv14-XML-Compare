@@ -38,7 +38,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_list_type">Alınma vaxtına görə sırala</string>
     <string name="disable_description_content">"Bildirişlər, bir sistem tətbiqidir. Əgər sıradan çıxartsanız, tətbiq bildirişlərini idarə edə bilməyəcəksiniz. Yenə də sıradan çıxarılsın?"</string>
     <string name="disable_description_title">Sistem tətbiqi sıradan çıxarılsın?</string>
@@ -159,7 +159,7 @@
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_sent_recently">Təzəlikcə yoxdur</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notch_and_status_bar_setting">İdarəetmə mərkəzi və status çubuğu</string>
     <string name="notification_display_setting">Bildiriş paneli</string>
     <string name="notification_display_style">Bildiriş stili</string>

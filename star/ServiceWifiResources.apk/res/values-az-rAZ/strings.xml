@@ -84,7 +84,7 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_eap_error_message_code_32766">%1$s : EAP kimlik doğrulama xətası 32766</string>
     <string name="wifi_eap_error_message_code_32767">%1$s : EAP kimlik doğrulama xətası 32767</string>
     <string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP kimlik doğrulama xətası, bilinməyən xəta kodu</string>
-    <string name="wifi_enable_request_dialog_message">Wi‑Fi-ı Cəld Tənzimləmələrdə söndürə bilərsiniz</string>
+    <string name="wifi_enable_request_dialog_message">Wi‑Fi-ı \"Cəld Ayarlar\"da söndürə bilərsiniz</string>
     <string name="wifi_enable_request_dialog_negative_button">"İcazə vermə"</string>
     <string name="wifi_enable_request_dialog_positive_button">İcazə ver</string>
     <string name="wifi_enable_request_dialog_title">%1$s üçün Wi‑Fi-ı açma icazəsi verilsin?</string>

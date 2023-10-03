@@ -58,7 +58,7 @@
     <string name="cta_main_purpose">\"Ekran şəkli redaktoru\"na xoş gəldiniz! Ekran şəkillərini kəsmək və onlara düzəliş etmək üçün bu tətbiqi istifadə edə bilərsiniz.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran şəkillərini saxlamaq üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
     <string name="device_list_all">Bütün cihazlar</string>
     <string name="device_list_more">Daha çox</string>
@@ -187,7 +187,7 @@
     <string name="nearby_share">Yaxınlıqdakılarla paylaş</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="operation_send">Göndər</string>
     <string name="partial_screenshot_edit">Düzəliş et</string>
     <string name="partial_screenshot_failed_to_capture_title">"Bu səhifənin ekran şəkilləri çəkilə bilmir"</string>

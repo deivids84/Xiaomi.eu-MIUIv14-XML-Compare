@@ -41,7 +41,7 @@
     <string name="data_transmitted">Göndərildi:</string>
     <string name="data_value_format">%1$s bayt / %2$s paket</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="disconnect">Bağlantını kəs</string>
     <string name="dismiss">Ləğv et</string>
     <string name="duration">Müddət:</string>

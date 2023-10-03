@@ -52,7 +52,7 @@
     <string name="customization_pause_tip">Test indi dayandırılsın? Davam etmək üçün qulaqlıqları taxın.</string>
     <string name="customization_quit">Çıxış</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dolby_atoms">Dolby Atmos</string>
     <string name="dolby_dax_geq_select_title">Ön tənzimləmələr</string>
     <string name="dolby_dax_geq_title">Qrafik tarazlayıcı</string>
@@ -402,7 +402,7 @@
     <string name="name">Ad</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_sound_transmission_content">"Bu özəllik bağlantılı cihaz tərəfindən dəstəklənmir. Başqa bir Bluetooth cihazını sınayın."</string>
     <string name="not_support_sound_transmission_prompt">Diqqət</string>
     <string name="now_here">Bəs indi?</string>

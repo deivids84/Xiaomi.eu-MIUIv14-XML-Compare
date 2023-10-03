@@ -34,14 +34,14 @@
     <string name="app_not_installed">Quraşdırılmadı</string>
     <string name="applications">Tətbiqlər</string>
     <string name="category_others">Digər</string>
-    <string name="category_setting">Tənzimləmələr</string>
+    <string name="category_setting">Ayarlar</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="close_panel">\"Cəld top\"u söndür</string>
     <string name="copy">Kopyala</string>
     <string name="customize_entries">Qısayolları seçin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="edge_distance_pref_summary">\"Cəld top\"u görünən etmək üçün ekran kənarlarına yaxın oyandırma sahələrinə toxunun</string>
     <string name="edge_distance_pref_title">Oyandırma sahələri</string>
@@ -64,7 +64,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="function_settings">Qısayol tənzimləmələri</string>
+    <string name="function_settings">Qısayol ayarları</string>
     <string name="handy_mode_default_to_close_whether_open">Tək əl rejimi ilkin olaraq bağlıdır. Tək əl rejimi açılsın?</string>
     <string name="hide_touch_assistant">Avto-gizlətmə</string>
     <string name="hide_touch_assistant_intro">\"Cəld top\"u seçilmiş tətbiqlərdə gizlədin.</string>
@@ -168,7 +168,7 @@
     <string name="nfc_trans_card_not_in_use">"Nəqliyyat kartı aktivləşdirilmədi"</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_working">%s (İşləmir)</string>
     <string name="open">Aç</string>
     <string name="open_panel">\"Cəld top\"u işə sal</string>
@@ -179,8 +179,8 @@
     <string name="pref_category_mipay">NFC qısayolları</string>
     <string name="pref_category_others">Digər</string>
     <string name="pref_category_quick_pay">Cəld ödəmə</string>
-    <string name="pref_category_quick_settings">Cəld tənzimləmələr</string>
-    <string name="pref_category_system">Sistem tənzimləmələri</string>
+    <string name="pref_category_quick_settings">Cəld ayarlar</string>
+    <string name="pref_category_system">Sistem ayarları</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="restore_default">İlkin halına qaytar</string>

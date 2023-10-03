@@ -59,7 +59,7 @@
     <string name="copies_increase">Üstəgəl bir kopya</string>
     <string name="copy">Kopyala</string>
     <string name="could_not_create_file">Fayl yaradıla bilmədi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_saved_printer_content">Seçilmiş printerlər indi silinsin?</string>
     <string name="destination_default_text">Bir printer seçin</string>
     <string name="disabled_services_title">Sıradan çıxarılmış printerlər</string>
@@ -164,7 +164,7 @@
     <string name="night">Axşam</string>
     <string name="no_connection_to_printer">Printerlə bağlantı yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_failure">Uğursuz çap işləri</string>
     <string name="notification_channel_progress">Davam edən çap işləri</string>
     <string name="open">İşə sal</string>
@@ -187,7 +187,7 @@
     <string name="print_error_printer_unavailable">"Bu printer hazırda əlçatmazdır."</string>
     <string name="print_error_retry">Yenidən sına</string>
     <string name="print_fail">"Çap edilə bilmədi"</string>
-    <string name="print_fail_network_error">"Çap edilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="print_fail_network_error">"Çap edilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="print_forget_printer">Printeri unut</string>
     <string name="print_help_label">Kömək</string>
     <string name="print_help_tip">Printerin və telefonunuzun eyni Wi-Fi şəbəkəsinə qoşulu olduğuna və ya \"Wi-Fi Direct\"in açıq olduğuna əmin olun. %1$s.</string>

@@ -108,7 +108,7 @@
     <string name="create_pdf_manual">Yeni PDF</string>
     <string name="current_speed_content">Hazırkı sürət: %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_file_success">Uğurla silindi</string>
     <string name="delete_operation_record">Bu qeyd silinsin?</string>
     <string name="delete_operation_record_timeout">"Qeyd silinə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -326,7 +326,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="music_picker_title">Musiqi seçin</string>
     <string name="music_play_attention_network_traffic">Səs və video axını üçün mobil internet istifadəsi əlavə xərclərə səbəb ola bilər</string>
     <string name="music_play_online">Axın</string>
-    <string name="music_play_online_network_not_available">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="music_play_online_network_not_available">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="music_preview_download_failed">"Yüklənə bilmədi"</string>
     <string name="music_preview_failed">"Bu səs faylı oxudula bilmir"</string>
     <string name="music_preview_title_loading">Bir saniyə…</string>
@@ -345,7 +345,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_recent_activity">Burada son element yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_upload_file_for_overseas_users">"Yükləmə, Çin materikindən kənarda mövcud deyil"</string>
     <string name="notification_channel_remind">Xatırladıcılar</string>
     <string name="notification_channel_service">Xidmətlər</string>
@@ -517,7 +517,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tip_shortcut_added_success">Uğurla yaradıldı</string>
     <string name="tip_shortcut_already_added">Əsas ekran qısayolu artıq mövcuddur</string>
     <string name="today">Bu gün</string>
@@ -537,7 +537,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="update_dialog_title">Bir güncəlləmə var</string>
     <string name="update_failed">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="update_failed_no_app_info">"Quraşdırma paketi alına bilmədi"</string>
-    <string name="update_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="update_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="update_no_update">Hazırkı versiya güncəldir</string>
     <string name="update_progress_dialog_content">Endirilir…</string>
     <string name="upload_done">Uğurla yükləndi</string>

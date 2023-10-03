@@ -45,7 +45,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_call_setup_msg">Zəng davam edir…</string>
     <string name="default_close_channel_msg">Kanal bağlıdır</string>
     <string name="default_open_channel_msg">Kanal açılsın?</string>
@@ -192,7 +192,7 @@
     <string name="night">Axşam</string>
     <string name="no_sim_card_inserted">SIM Alət dəstini başlatmaq üçün SIM-i daxil edin.</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>

@@ -44,7 +44,7 @@
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Təsdiqlə</string>
     <string name="copyright">Müəllif hüquqları</string>
-    <string name="date_picker_dialog_title">Tarixi tənzimlə</string>
+    <string name="date_picker_dialog_title">Tarixi ayarla</string>
     <string name="date_picker_lunar">Ənənəvi Çin təqvimi</string>
     <string name="date_time_done">Hazırdır</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
@@ -238,7 +238,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

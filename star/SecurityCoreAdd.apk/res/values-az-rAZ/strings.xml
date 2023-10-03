@@ -229,7 +229,7 @@ quraşdırılan tətbiqlərə nəzarət edin</string>
     <string name="guide_contact_sub_title_desc">"İkinci sahəyə əlavə edilən kontaktlar şəxsi olacaq.
 Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="guide_contact_suc_sub_title_desc">İkinci sahədə yalnız şəxsi kontaktlar və mesajlar göstəriləcək</string>
-    <string name="guide_contact_suc_title_desc">Uğurla tənzimləndi</string>
+    <string name="guide_contact_suc_title_desc">Uğurla ayarlandı</string>
     <string name="guide_contact_title_desc">Şəxsi elementlər ikinci sahədə göstərilsin?</string>
     <string name="guide_pwd_detail_title">"Kilid ekranından İkinci sahəyə daxil olaraq
 məlumatlarınızı qoruyun"</string>
@@ -440,9 +440,9 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="setSecondSpacePasswordGuide">İkinci sahə parolu təyin et</string>
     <string name="setSecondSpacePasswordGuideDes">Kilid ekranından İkinci sahəyə daxil olmaq üçün bu parolu istifadə edin</string>
     <string name="setSpacePasswordGuide">Kilid ekranından hər iki sahəyə daxil olmaq üçün fərqli parollar istifadə edin</string>
-    <string name="setSuccess">Parollar uğurla tənzimləndi</string>
+    <string name="setSuccess">Parollar uğurla ayarlandı</string>
     <string name="set_space_finger">Barmaq izi təyin et</string>
-    <string name="set_space_finger_sub_text_suc">Barmaq izi uğurla tənzimləndi</string>
+    <string name="set_space_finger_sub_text_suc">Barmaq izi uğurla ayarlandı</string>
     <string name="set_space_password">Parol təyin et</string>
     <string name="set_space_pwd_detail">İkinci sahəyə parol istifadə edərək daxil ola bilərsiniz</string>
     <string name="set_space_pwd_suc">İkinci sahə parolu əlavə edildi</string>

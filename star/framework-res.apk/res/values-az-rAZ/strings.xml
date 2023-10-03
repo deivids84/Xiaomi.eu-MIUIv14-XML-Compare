@@ -202,7 +202,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Ekranda Əlçatımlılıq qısayolu seçici</string>
     <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Ekranda Əlçatımlılıq qısayolu</string>
     <string name="accessibility_system_action_power_dialog_label">Güc dialoqu</string>
-    <string name="accessibility_system_action_quick_settings_label">Cəld Tənzimləmələr</string>
+    <string name="accessibility_system_action_quick_settings_label">Cəld Ayarlar</string>
     <string name="accessibility_system_action_recents_label">Son tətbiqlər</string>
     <string name="accessibility_system_action_screenshot_label">Ekran şəkli</string>
     <string name="accessibility_uncheck_legacy_item_warning">%s söndürüldü</string>
@@ -730,7 +730,7 @@ Barmaq izinizi quraşdırarkən yüngülcə toxunmağa çalışın."</string>
     <string name="global_action_power_options">Güc</string>
     <string name="global_action_restart">Yenidən başlat</string>
     <string name="global_action_screenshot">Ekran şəkli</string>
-    <string name="global_action_settings">Tənzimləmələr</string>
+    <string name="global_action_settings">Ayarlar</string>
     <string name="global_action_silent_mode_off_status">Səs AÇIQDIR</string>
     <string name="global_action_silent_mode_on_status">Səs BAĞLIDIR</string>
     <string name="global_action_toggle_silent_mode">Səssiz rejim</string>
@@ -1013,7 +1013,7 @@ Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsən
     <string name="maximize_button_text">Maksimallaşdır</string>
     <string name="me">Mən</string>
     <string name="media_route_button_content_description">Yayım</string>
-    <string name="media_route_chooser_extended_settings">Tənzimləmələr</string>
+    <string name="media_route_chooser_extended_settings">Ayarlar</string>
     <string name="media_route_chooser_searching">Cihazlar axtarılır…</string>
     <string name="media_route_chooser_title">Cihaza qoşulun</string>
     <string name="media_route_chooser_title_for_remote_display">Ekranı cihazda yayımla</string>
@@ -1127,7 +1127,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="not_selected">seçilmədi</string>
     <string name="notification_action_check_bg_apps">Aktiv tətbiqləri yoxla</string>
     <string name="notification_alerted_content_description">Xəbərdarlıq göndərildi</string>
-    <string name="notification_app_name_settings">Tənzimləmələr</string>
+    <string name="notification_app_name_settings">Ayarlar</string>
     <string name="notification_app_name_system">Sistem</string>
     <string name="notification_appops_camera_active">Kamera</string>
     <string name="notification_appops_microphone_active">Mikrofon</string>
@@ -1486,7 +1486,7 @@ icazə tələb olundu"</string>
     <string name="permlab_readPhoneNumbers">telefon nömrələrini oxu</string>
     <string name="permlab_readPhoneState">telefon statusunu və kimliyini oxu</string>
     <string name="permlab_readSms">mətn mesajlarını oxu (SMS və ya MMS)</string>
-    <string name="permlab_readSyncSettings">sinxr tənzimləmələrini oxu</string>
+    <string name="permlab_readSyncSettings">sinxr. ayarlarını oxu</string>
     <string name="permlab_readSyncStats">sinxr statistikalarını oxu</string>
     <string name="permlab_receiveBootCompleted">başlanğıcda işə sal</string>
     <string name="permlab_receiveMms">mətn mesajları al (MMS)</string>
@@ -1948,7 +1948,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="volume_notification">Bildiriş səs səviyyəsi</string>
     <string name="volume_ringtone">Zəng səsi səviyyəsi</string>
     <string name="volume_unknown">Səs səviyyəsi</string>
-    <string name="vpn_lockdown_config">Şəbəkə və ya VPN tənzimləmələrini dəyişdir</string>
+    <string name="vpn_lockdown_config">Şəbəkə və ya VPN ayarlarını dəyişdir</string>
     <string name="vpn_lockdown_connected">Həmişə açıq VPN bağlantılıdır</string>
     <string name="vpn_lockdown_connecting">Həmişə açıq VPN bağlantısı qurulur…</string>
     <string name="vpn_lockdown_disconnected">Həmişə açıq VPN bağlantısı kəsildi</string>

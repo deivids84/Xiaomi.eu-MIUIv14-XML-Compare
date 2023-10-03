@@ -251,7 +251,7 @@ seçimi"</string>
     <string name="bt_le_audio_broadcast_dialog_title">%1$s yayımı dayandırılsın?</string>
     <string name="bugreport_in_power">Xəta hesabatı qısayolu</string>
     <string name="bugreport_in_power_summary">Xəta hesabatı almaq üçün güc menyusunda bir düymə göstər</string>
-    <string name="cached_apps_freezer_device_default">İlkin cihaz tənzimləmələri</string>
+    <string name="cached_apps_freezer_device_default">Cihaz ilkin ayarı</string>
     <string name="cached_apps_freezer_disabled">Sıradan çıxarıldı</string>
     <string name="cached_apps_freezer_enabled">Fəaldır</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Bu dəyişikliyin tətbiq edilməsi üçün cihaz yenidən başladılmalıdır. İndi yenidən başladın və ya ləğv edin.</string>
@@ -306,7 +306,7 @@ seçimi"</string>
     <string name="data_usage_uninstalled_apps_users">Silinmiş tətbiqlər və istifadəçilər</string>
     <string name="date_of_birth">Doğum tarixi</string>
     <string name="debug_app">Sazlama tətbiqini seçin</string>
-    <string name="debug_app_not_set">Sazlama tətbiqi tənzimlənmədi</string>
+    <string name="debug_app_not_set">Heç bir sazlama tətbiqi ayarlanmadı</string>
     <string name="debug_app_set">Sazlama tətbiqi: %1$s</string>
     <string name="debug_applications_category">Tətbiqlər</string>
     <string name="debug_debugging_category">Sazlama</string>
@@ -425,7 +425,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="local_backup_password_title">Masaüstü nüsxələmə parolu</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və parolun təkrarı uyğun gəlmir</string>
     <string name="local_backup_password_toast_success">Yeni nüsxə parolu tənzimləndi</string>
-    <string name="local_backup_password_toast_validation_failure">Nüsxə parolu tənzimlənmədi</string>
+    <string name="local_backup_password_toast_validation_failure">Nüsxə parolunu ayarlama uğursuz oldu</string>
     <string name="managed_user_title">Bütün iş tətbiqləri</string>
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -512,8 +512,8 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="no">Xeyr</string>
     <string name="no_application">Heç nə</string>
     <string name="no_info_provided">"Telefon sahibi haqqında heç bir məlumat yoxdur"</string>
-    <string name="not_default_data_content_description">Məlumat istifadə etmək üçün tənzimlənmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_default_data_content_description">Data istifadə edilmək üzrə ayarlanmadı</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="o_negative">O mənfi</string>
     <string name="o_positive">O müsbət</string>
     <string name="oem_unlock_enable">OEM kilid açma</string>

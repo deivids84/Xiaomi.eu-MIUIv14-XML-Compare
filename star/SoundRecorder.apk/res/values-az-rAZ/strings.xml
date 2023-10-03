@@ -65,7 +65,7 @@
     <string name="data_connection_button_text">Oldu</string>
     <string name="data_connection_title">İnternet istifadə xəbərdarlığı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_cloud_data_at_same_time">Buluddan da sil</string>
     <string name="delete_dialog_message">Səsyazma silinsin?</string>
@@ -251,7 +251,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="network_error_info">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkə ilə bağlantı qurula bilmədi. Yenidən sınayın."</string>
     <string name="network_tip_dialog_cancel">"Razı deyiləm"</string>
     <string name="network_tip_dialog_content">\"Səsyazan\"ın normal işləməsi üçün internetə bağlanması lazımdır. Razılaşırsınız?</string>
@@ -275,7 +275,7 @@
     <string name="no_records">Hələ burada heç bir səsyazma yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="not_allowed">İcazə verilmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_message_all_paused">Wi-Fi bağlantısı gözlənilir.</string>
     <string name="notification_playback">Oynadılır…</string>
     <string name="notification_recording">Səs yazılır…</string>

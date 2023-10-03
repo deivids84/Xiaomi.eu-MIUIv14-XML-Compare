@@ -59,12 +59,12 @@
     <string name="creat_task_success">Endirmə növbəsinə əlavə edildi</string>
     <string name="create_task">Tapşırıq yarat</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_download">Sil</string>
     <string name="dialog_btn_cancel">İmtina</string>
     <string name="dialog_btn_ok">Oldu</string>
-    <string name="dialog_btn_ok_disabled_net">Şəbəkə tənzimləmələri</string>
+    <string name="dialog_btn_ok_disabled_net">Şəbəkə ayarları</string>
     <string name="dialog_confirm_delete_checkbox_message">Yerli faylları da sil</string>
     <string name="dialog_confirm_delete_the_download_item_message">Bu tapşırıqları sil</string>
     <string name="dialog_content_limit0">Endirmələri məhdudlaşdır</string>
@@ -74,7 +74,7 @@
     <string name="dialog_download_dir_title">Yeni təyinat qovluğu</string>
     <string name="dialog_file_missing_body">"Fayl tapıla bilmədi, deyəsən silinib."</string>
     <string name="dialog_file_missing_title">"Fayl açıla bilmir"</string>
-    <string name="dialog_msg_disabled_net">%1$s, hazırkı şəbəkə üçün endirmələri məhdudlaşdırır. Güvənlik tətbiqinə getmək üçün Şəbəkə tənzimləmələrinə toxunun.</string>
+    <string name="dialog_msg_disabled_net">%1$s, hazırkı şəbəkə üçün endirmələri məhdudlaşdırır. Güvənlik tətbiqinə getmək üçün Şəbəkə ayarlarına toxunun.</string>
     <string name="dialog_msg_recommend">"Söndürdükdən sonra tövsiyə edilən mənbələrə baxa bilməyəcəksiniz. Mobil internetə qənaət etmək üçün \"Yalnız Wi-Fi istifadə edərək məzmunu yüklə\"ni seçə bilərsiniz."</string>
     <string name="dialog_privacy_update_button1">İmtina</string>
     <string name="dialog_privacy_update_button2">Razıyam</string>
@@ -149,7 +149,7 @@
     <string name="guess_like">Bunları da bəyənə bilərsiniz</string>
     <string name="hint">Diqqət</string>
     <string name="info_flow_only_load_wifi">Yalnız Wi-Fi istifadə edərək məzmun yüklə</string>
-    <string name="info_flow_setting">Məzmun tənzimləmələri</string>
+    <string name="info_flow_setting">Məzmun ayarları</string>
     <string name="info_flow_show">Tövsiyə edilən məzmunları göstər</string>
     <string name="info_rank_show">Məşhur elementləri tövsiyə et</string>
     <string name="input_valid_address">Fayl yolunu daxil edin</string>
@@ -168,7 +168,7 @@
     <string name="menu_title_fileexplore">Fayl Meneceri</string>
     <string name="menu_title_pause_all">Hamısına fasilə ver</string>
     <string name="menu_title_resume_all">Hamısını başlat</string>
-    <string name="menu_title_settings">Tənzimləmələr</string>
+    <string name="menu_title_settings">Ayarlar</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
@@ -251,7 +251,7 @@
     <string name="no_share_files_content">"Paylaşmağa cəhd etdiyiniz bəzi fayllar artıq silinmişdir. Digər fayllar uğurla paylaşıldı."</string>
     <string name="no_support_modify_path">"Güvənlik səbəblərinə görə endirilmiş elementlərin yerləşməsi dəyişdirilə bilmir"</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notify_install_guide_forward_text">Aç</string>
     <string name="notify_install_guide_msg">Uğurla quraşdırıldı</string>
     <string name="notify_not_support">"Bu növ bildirişlər dəstəklənmir, indi güncəllə"</string>
@@ -280,7 +280,7 @@
     <string name="pref_permission_description">İcazə detalları</string>
     <string name="pref_sniff_shortcut">Veb axtarışı üçün Əsas ekran qısayolunu yarat</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
-    <string name="preferences_title">Tənzimləmələr</string>
+    <string name="preferences_title">Ayarlar</string>
     <string name="privacy">Gizlilik</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_tip_cancel">İmtina</string>
@@ -324,7 +324,7 @@
     <string name="start_download">Endir</string>
     <string name="starting_analysis">Məlumat alınır…</string>
     <string name="storage_dialog_content">Özəlliklərini istifadə edə bilmək üçün \"Endirilənlər\"in cihaz anbarına müraciətinə icazə verin.</string>
-    <string name="storage_dialog_go">Tənzimləmələr</string>
+    <string name="storage_dialog_go">Ayarlar</string>
     <string name="storage_dialog_title">Cihaz anbarına müraciət et</string>
     <string name="storage_internal">Daxili anbar</string>
     <string name="storage_permission_deny">Anbar icazələri tələb olunur</string>

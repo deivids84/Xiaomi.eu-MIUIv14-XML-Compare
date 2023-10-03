@@ -346,13 +346,13 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tip_download_icon_restore">Endirilənlər üçün Əsas ekrana qısayol əlavə et</string>
     <string name="tip_download_icon_retry">"Qısayol əlavə edilə bilmədi. Yenidən sınayın."</string>
     <string name="title_tips">Diqqət</string>
     <string name="toast_download_icon_restore_fail">"Qısayol əlavə edilə bilmədi"</string>
     <string name="toast_download_icon_restore_success">Uğurla əlavə edildi</string>
-    <string name="toast_update_data_limit_fail">"Tənzimlənə bilmədi"</string>
+    <string name="toast_update_data_limit_fail">"Ayarlana bilmədi"</string>
     <string name="toast_xunlei_engine_open">Xunlei endirmə sürətləndiricisi işə salındı</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>

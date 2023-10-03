@@ -134,7 +134,7 @@
     <string name="controls_unsupport_toggle_toast">"Bu cihaz cəld əməliyyatları dəstəkləmir. Tətbiqi açmaq üçün basılı tutun."</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="disabled">Əlçatmazdır</string>
     <string name="dnd_popup_close_message">Anladım</string>
     <string name="dnd_popup_message">Media səslərini söndürmədən zəngləri və bildirişləri susdurmaq üçün \"Narahat etməyin\" rejimini aça bilərsiniz.</string>
@@ -299,7 +299,7 @@
     <string name="night">Axşam</string>
     <string name="no_avaliable_application">Heç bir tətbiq əlçatan deyil</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_control_center">Bildirişlər və İdarəetmə mərkəzi</string>
     <string name="offline">Xətdən kənar</string>
     <string name="online">Onlayn</string>

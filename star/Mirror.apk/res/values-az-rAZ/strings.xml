@@ -120,7 +120,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="fullscreen_sink_activity_label">Telefonum</string>
-    <string name="generic_error_no_device_credential">PIN, naxış və ya parol tənzimlənməyib.</string>
+    <string name="generic_error_no_device_credential">PIN, naxış və ya parol ayarlanmadı.</string>
     <string name="generic_error_no_keyguard">Bu cihazda PIN, naxış və ya parol dəstəklənmir.</string>
     <string name="generic_error_user_canceled">Kimlik doğrulama istifadəçi tərəfindən ləğv edildi.</string>
     <string name="global_cta_agree">Razıyam</string>

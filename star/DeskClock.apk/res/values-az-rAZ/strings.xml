@@ -500,7 +500,7 @@ d/M"</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="week_ringtone_recommend_desc">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. İlkin zəngli saat olaraq tənzimlənsin?</string>
+    <string name="week_ringtone_recommend_desc">Təbiət zəngli saatı, tarixə görə fərqli səslər oxudur. İlkin zəngli saat olaraq ayarlansın?</string>
     <string name="white_noise_guide_desc">Fokuslanmağınızı təmin etmək üçün bir arxaplan səsi əlavə edin</string>
     <string name="white_noise_selected">Seçildi</string>
     <string name="workday_alarm_clock">İş günləri zəngli saatı</string>

@@ -446,7 +446,7 @@ d/M"</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="time_picker_label_second">San</string>
-    <string name="time_settings">Saat tənzimləmələri</string>
+    <string name="time_settings">Saat ayarları</string>
     <string name="timer_alert_mute_off">Taymer dayananda zəngli saat çalacaq</string>
     <string name="timer_alert_mute_on">"Taymer dayananda zəngli saat çalmayacaq"</string>
     <string name="timer_alert_mute_switch">Taymer zəngli saatlarını susdurmaq üçün dəyişdirin</string>

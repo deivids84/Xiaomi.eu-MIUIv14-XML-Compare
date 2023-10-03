@@ -54,7 +54,7 @@
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth və Wi-Fi ilə fayl köçürmək üçün</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Faylları göndərmək və almaq üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
     <string name="device_list_all">Bütün cihazlar</string>
     <string name="device_list_more">Daha çox</string>
@@ -232,7 +232,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="no_longer_prompt">Əngəllə</string>
     <string name="no_longer_receive">"Bu cihaz əngəllənsin? Bu cihazdan fayl ala bilməyəcəksiniz."</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_name">Köçürmə bildirişləri</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>

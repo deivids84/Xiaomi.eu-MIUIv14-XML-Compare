@@ -182,7 +182,7 @@
     <string name="accessibility_qs_edit_tile_removed">%1$s silindi</string>
     <string name="accessibility_qs_edit_tile_start_add">Qutu əlavə et</string>
     <string name="accessibility_qs_edit_tile_start_move">Qutunu daşı</string>
-    <string name="accessibility_quick_settings_alarm">Zəngli saat tənzimləndi: %s</string>
+    <string name="accessibility_quick_settings_alarm">%s üçün zəngli saat ayarlandı.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihazınızın batareyası %d faizdir.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth açıqdır.</string>
@@ -1138,7 +1138,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="kg_wrong_pin">Yanlış PIN</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_view">Göstər</string>
-    <string name="launch_defaults_none">İlkin tərcihlər tənzimlənməyib</string>
+    <string name="launch_defaults_none">Heç bir ilkin dəyər ayarlanmadı</string>
     <string name="launch_defaults_some">Bəzi ilkin tərcihlər tənzimlənib</string>
     <string name="lb_guidedaction_continue_title">Davam</string>
     <string name="lb_guidedaction_finish_title">Bitir</string>
@@ -1189,7 +1189,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="local_backup_password_summary_none">Masaüstü tam nüsxələmələri hal-hazırda qorunmur</string>
     <string name="local_backup_password_title">Masaüstü nüsxələmə parolu</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və təsdiq uyğun gəlmir</string>
-    <string name="local_backup_password_toast_success">Yeni nüsxə parolu tənzimləndi</string>
+    <string name="local_backup_password_toast_success">Yeni nüsxə parolu ayarlandı</string>
     <string name="local_backup_password_toast_validation_failure">Nüsxə parolunu ayarlama uğursuz oldu</string>
     <string name="location_status">Yer paylaşılır</string>
     <string name="location_status_content_description">%1$s yeri paylaşır</string>
@@ -1372,7 +1372,7 @@ EEE"</string>
     <string name="mobile_data_off_summary">"Mobil internet avto-bağlantı qurmayacaq"</string>
     <string name="mobile_data_settings_title">Mobil internet</string>
     <string name="mock_location_app">Saxta yerləşmə tətbiqini seçin</string>
-    <string name="mock_location_app_not_set">Saxta yerləşmə tətbiqi tənzimlənməyib</string>
+    <string name="mock_location_app_not_set">Heç bir saxta yerləşmə tətbiqi ayarlanmadı</string>
     <string name="mock_location_app_set">Saxta yerləşmə tətbiqi: %1$s</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -1714,7 +1714,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="profile_connect_timeout_subtext">Bağlantı problemi. Cihazın söndürüb yenidən açın</string>
     <string name="profile_info_settings_title">Profil məlumatı</string>
     <string name="qr_code_scanner_title">QR kodu skan et</string>
-    <string name="qs_alarm_tile_no_alarm">Heç bir zəngli saat tənzimlənməyib</string>
+    <string name="qs_alarm_tile_no_alarm">Zəngli saat ayarlanmadı</string>
     <string name="qs_control_big_tile_state_closed">Bağlı</string>
     <string name="qs_control_big_tile_state_closing">Söndürülür…</string>
     <string name="qs_control_big_tile_state_connected">Bağlantılıdır</string>
@@ -1971,7 +1971,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="screenshot_scroll_label">Daha çox çək</string>
     <string name="screenshot_share_description">Ekran şəklini paylaş</string>
     <string name="screenshot_top_boundary_pct">Üst sərhəd %1$d faiz</string>
-    <string name="search_menu">Tənzimləmələrdə axtar</string>
+    <string name="search_menu">Ayarlarda axtar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="see_all_networks">Hamısına bax</string>
     <string name="see_more_title">Daha çoxuna bax</string>

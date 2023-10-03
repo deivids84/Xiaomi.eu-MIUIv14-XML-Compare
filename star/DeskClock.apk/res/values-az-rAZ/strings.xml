@@ -37,7 +37,7 @@
     <string name="alarm_alert_snooze_button">Ertələ</string>
     <string name="alarm_ascending_mode_summary">Zəngli saat səsi yavaş-yavaş yüksəlir</string>
     <string name="alarm_ascending_mode_title">Artan səs səviyyəsi</string>
-    <string name="alarm_clock_more_setting">Əlavə tənzimləmələr</string>
+    <string name="alarm_clock_more_setting">Əlavə ayarlar</string>
     <string name="alarm_disabled">Bağlı</string>
     <string name="alarm_in_furture_new">Zəngli saat %d dəqiqədən az vaxtda çalacaq</string>
     <string name="alarm_klaxon_service_desc">Saat tətbiqində tənzimlənən zəngli saatlar üçün səs oxutma xidməti.</string>
@@ -84,7 +84,7 @@
     <string name="bedtime_setting_no_disturbance_desc">Zəng səsləri, bildiriş səsləri və titrəmə oyanana qədər susdurulacaq</string>
     <string name="bedtime_setting_repeat_type">Yuxu vaxtı proqramı nə vaxt tətbiq olunacaq?</string>
     <string name="bedtime_setting_repeat_type_desc">"Xatırlatmalar alacağınız günləri seçin"</string>
-    <string name="bedtime_settings">Yuxu vaxtı tənzimləmələri</string>
+    <string name="bedtime_settings">Yuxu vaxtı ayarları</string>
     <string name="bedtime_sleep_time_remind_new">"Bu vaxtdan %d dəqiqə əvvəl yuxu vaxtının gəldiyinə dair xatırlatma alacaqsınız"</string>
     <string name="bedtime_sleep_time_setting">Nə vaxt yatacaqsınız?</string>
     <string name="bedtime_wake_up_time_remind">Zəngli saat, bu vaxtda çalacaq</string>
@@ -109,7 +109,7 @@
     <string name="continue_step">Növbəti</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_alarm_title">İlkin zəng səsi</string>
     <string name="default_label">Zəngli saat</string>
     <string name="delete">Sil</string>
@@ -227,8 +227,8 @@ d/M"</string>
     <string name="module_dialog_negative">"Razı deyiləm"</string>
     <string name="module_dialog_positive">Razıyam</string>
     <string name="module_download_cancel">Xeyr, təşəkkürlər</string>
-    <string name="module_download_failure">"Səs endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="module_download_no_network">\"Saat\", səsi endirmək üçün internetə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="module_download_failure">"Səs endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="module_download_no_network">\"Saat\", səsi endirmək üçün internetə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="module_download_ok">İcazə ver</string>
     <string name="module_download_success">Səs uğurla endirildi</string>
     <string name="module_downloading">Səs endirilir…</string>
@@ -292,7 +292,7 @@ d/M"</string>
     <string name="month_september_short">Sen</string>
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
-    <string name="more_alert_setting">Əlavə zəngli saat tənzimləmələri</string>
+    <string name="more_alert_setting">Əlavə zəngli saat ayarları</string>
     <string name="more_setting">Daha çox tənzimləmə</string>
     <string name="more_settings">Tənzimləmələr</string>
     <string name="morning">Səhər</string>
@@ -307,7 +307,7 @@ d/M"</string>
     <string name="no_worldclock">Saat yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="normal_settings">Ümumi tənzimləmələr</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_set_temporarily">Xeyr, təşəkkürlər</string>
     <string name="not_update">İndi yox</string>
     <string name="notification_adv_time_entries1">Təyin edilən vaxtda</string>
@@ -320,7 +320,7 @@ d/M"</string>
     <string name="open_keep_screen">Ekran açıq qalacaq</string>
     <string name="open_notification_permission_remind">Bildirişlərin siqnalları söndürə bilməsinə icazə verin</string>
     <string name="open_sleep_record">Aç</string>
-    <string name="other_settings">Əlavə tənzimləmələr</string>
+    <string name="other_settings">Əlavə ayarlar</string>
     <string name="pause">Fasilə ver</string>
     <string name="permission_desc">İcazə detalları</string>
     <string name="permission_granted">İcazə verildi</string>
@@ -442,7 +442,7 @@ d/M"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="time_picker_label_second">San</string>

@@ -184,8 +184,8 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="button_record_menstruation">Qeyd</string>
     <string name="buy">Al</string>
     <string name="calories">kalori</string>
-    <string name="camera_permission_desc">Profil şəklini tənzimləmək üçün</string>
-    <string name="camera_permission_subtitle">Nəbz sürətinin aşkarlanması və profil şəklinin tənzimləməsi üçün qan axını dəyişikliklərini əldə etmək üçün</string>
+    <string name="camera_permission_desc">Profil şəklini ayarlamaq üçün</string>
+    <string name="camera_permission_subtitle">Nəbz sürətinin aşkarlanması və profil şəklinin ayarlanması məqsədilə qan axını dəyişikliklərini əldə etmək üçün</string>
     <string name="camera_permission_title">Kamera istifadə et</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_edit">Dəyişiklikləri ləğv et</string>
@@ -221,8 +221,8 @@ Tövsiyə edilən siniflərə müraciət etmək istəmirsinizsə, müntəzəm m�
     <string name="completed">"Tamamlandı "</string>
     <string name="completed_stand">Ayağa qalxdınız</string>
     <string name="confirm_opening">İşə sal</string>
-    <string name="contact_permission_desc">Fövqəladə hal kontaktlarını tənzimləmək üçün</string>
-    <string name="contact_permission_subtitle">Fövqəladə hal kontaktlarını tənzimləmək üçün</string>
+    <string name="contact_permission_desc">Fövqəladə hal kontaktlarını ayarlamaq üçün</string>
+    <string name="contact_permission_subtitle">Fövqəladə hal kontaktlarını ayarlamaq üçün</string>
     <string name="contact_permission_title">Kontaktlara müraciət</string>
     <string name="copy">Kopyala</string>
     <string name="copy_done">Uğurla kopyalandı</string>
@@ -339,17 +339,17 @@ Xiaomi Heath, sizə yalnız vacib elementlər barədə məlumat verəcək."</str
     <string name="dialog_auto_start_title">Xiaomi Heath-ın avto-başladılmasına icazə ver</string>
     <string name="dialog_auto_start_title2">Xiaomi Heath-ın avto-başladılmasına icazə ver</string>
     <string name="dialog_body_weight_conflict">"Deyəsən, artıq seçilmiş vaxt ərzində çəki qeyd etmisiniz. Orijinal məlumatın üzərinə yazılsın?"</string>
-    <string name="dialog_body_weight_select">Çəkini tənzimlə</string>
+    <string name="dialog_body_weight_select">Çəkini ayarla</string>
     <string name="dialog_cancel">İmtina</string>
     <string name="dialog_cancel_edit_record">Dəyişikliklər indi ləğv edilsin?</string>
     <string name="dialog_confirm">Oldu</string>
     <string name="dialog_date_select">Tarixi seçin</string>
     <string name="dialog_delete">Sil</string>
     <string name="dialog_delete_record_confirm">Bu qeyd silinsin?</string>
-    <string name="dialog_exercise_purpose">Xiaomi Heath-ə xoş gəldiniz! \"Addım sayğacı\", sizə gün ərzində neçə addım atdığınızı görməyə, həmçinin fəaliyyət hədəflərinizi tənzimləməyə və idarə etməyə imkan verir. Bütün əlaqəli məlumatlar cihazınızın yerli anbarında saxlanılacaq. Bu da onu asanlıqla idarə etməyə imkan verir.</string>
+    <string name="dialog_exercise_purpose">Xiaomi Heath-ə xoş gəlmisiniz! \"Addım sayğacı\", sizə gün ərzində neçə addım atdığınızı görməyə, həmçinin fəaliyyət hədəflərinizi ayarlamağa və idarə etməyə imkan verir. Bütün əlaqəli məlumatlar cihazınızın yerli anbarında saxlanılacaq. Bu da onu asanlıqla idarə etməyə imkan verir.</string>
     <string name="dialog_exit">Çıx</string>
     <string name="dialog_exit_use">Çıx</string>
-    <string name="dialog_feedback_content">"Bu növ icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; lakin, təməl funksionallığı sizin üçün əlçatan olacaqdır. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="dialog_feedback_content">"Belə icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="dialog_feedback_purpose">Xiaomi Heath, əks əlaqəni göndərmək üçün anbara müraciət etməlidir.</string>
     <string name="dialog_feedback_purpose2">Əks əlaqəni göndərmək üçün</string>
     <string name="dialog_feedback_title">Əks əlaqə</string>
@@ -474,7 +474,7 @@ Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; D
     <string name="exercise_result_reminder_title">"Bugünkü addım sayı: %1$d. Hədəfə çatdınız!"</string>
     <string name="exercise_result_reminder_title_unaccomplished">"Bugünkü addım sayı: %1$d. Hələ hədəfə çata bilərsiniz!"</string>
     <string name="exercise_setting_label_reach_standard_remind">Fəaliyyət xəbərdarlığı</string>
-    <string name="exercise_setting_page_title">Fəaliyyət tənzimləmələri</string>
+    <string name="exercise_setting_page_title">Fəaliyyət ayarları</string>
     <string name="exercise_speed">Sürət</string>
     <string name="exercise_start">Başlat</string>
     <string name="exercise_strokes">Vuruş sayı</string>
@@ -488,7 +488,7 @@ Cihazınız yuxarıdakı siyahıda mövcuddursa, Xiaomi Health &gt; Menyu &gt; D
     <string name="expand_all">Hamısını göstər</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="external_storage_permission_subtitle">Profil şəklini tənzimləmək üçün</string>
+    <string name="external_storage_permission_subtitle">Profil şəklini ayarlamaq üçün</string>
     <string name="external_storage_permission_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
     <string name="fall_sleep_hard">Yuxuya getmə çətinliyi</string>
     <string name="falling_duration">Yuxuya getmə</string>
@@ -499,7 +499,7 @@ Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenome
     <string name="fat_rate">Yağ</string>
     <string name="fat_rate_descripe_content">Bədən yağının faizi, insan bədəninin ümumi çəkisindəki yağ nisbətini təmsil edir.</string>
     <string name="feedback_need_permission_msg">Xiaomi Health-ə, əks-əlaqə üzrə istifadə olunacaq jurnalları yarada bilmək üçün xarici anbara yazma icazəsi verin.</string>
-    <string name="feedback_permission_denied_msg">"Xiaomi Health, jurnalları xarici anbarda saxlaya bilmir. Tənzimləmələrdən Xiaomi Health-ə tələb olunan icazələri verin."</string>
+    <string name="feedback_permission_denied_msg">"Xiaomi Health, jurnalları xarici anbarda saxlaya bilmir. Ayarlarda Xiaomi Health-ə tələb olunan icazələri verin."</string>
     <string name="fewer">Bir az</string>
     <string name="find_new_verision">İndi %s versiyası mövcuddur</string>
     <string name="finish">Tamamla</string>
@@ -567,7 +567,7 @@ Yataqda 30 dəqiqədən sonra yuxuya getmək hələ də çətindirsə, bu fenome
     <string name="health_data_sync">Sağlamlıq məlumatlarını sinxronlaşdır</string>
     <string name="health_score">Sağlamlıq xalı</string>
     <string name="health_score_tips">Sağlamlıq xalı, BMI (bədən kütlə indeksi), yuxu və fəaliyyət addımlarınız əsasında hesablanır. Hədəflərinizə nə qədər yaxın olsanız, sağlamlıq xalınız bir o qədər yüksək olar.</string>
-    <string name="health_setting">Sağlamlıq tənzimləmələri</string>
+    <string name="health_setting">Sağlamlıq ayarları</string>
     <string name="health_uninstall_dialog_content">"Xiaomi Health, sistem tətbiqidir. Bu tətbiqi addımları saymaq, yuxunu, periodları və çəkini izləmək, həmçinin statistikalarınızı buludda sinxronlaşdırmaq üçün istifadə edə bilərsiniz. Tətbiqi sildikdən sonra bunları edə bilməyəcəksiniz."</string>
     <string name="health_uninstall_dialog_title">Xiaomi Health silinsin?</string>
     <string name="hearing">Eşitmə</string>
@@ -689,7 +689,7 @@ Yenidən başlayın."</string>
     <string name="label_late_sleep_time">Planlaşdırılandan daha gec</string>
     <string name="label_record_detail_page_record_date">Vaxt</string>
     <string name="label_record_detail_page_source">Mənbə</string>
-    <string name="label_set_exercise">Fəaliyyət hədəfi tənzimlə</string>
+    <string name="label_set_exercise">Fəaliyyət hədəfini ayarla</string>
     <string name="label_sleep">Yuxuya getdi</string>
     <string name="label_sleep2">Yuxuya getdi</string>
     <string name="label_sleep_duration">Yuxu müddəti</string>
@@ -723,7 +723,7 @@ Yenidən başlayın."</string>
     <string name="location_permission_dialog_title">Yerləşmə icazəsi tələb olunur</string>
     <string name="location_permission_subtitle">Açıq havadakı məşqləri izləmək və marşrutları qeyd etmək üçün</string>
     <string name="location_permission_title">Yerləşməyə müraciət</string>
-    <string name="location_service_dialog_content">Açıq havadakı məşqlərinizi izləyə bilmək üçün Tənzimləmələrdən yerləşmə xidmətlərini açın.</string>
+    <string name="location_service_dialog_content">Açıq hava məşqlərinizi izləyə bilmək üçün Ayarlarda yerləşmə xidmətlərini işə salın.</string>
     <string name="location_service_dialog_negative">İndi yox</string>
     <string name="location_service_dialog_positive">Aç</string>
     <string name="location_service_dialog_title">Yerləşmə xidmətləri bağlıdır</string>
@@ -832,7 +832,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="menstruation_last_start_date">Son menstruasiya başladı</string>
     <string name="menstruation_record">Qeyd edilən periodlar</string>
     <string name="menstruation_record_not_found">Burda hələ heç bir qeyd yoxdur</string>
-    <string name="menstruation_setting">Menstruasiya tənzimləmələri</string>
+    <string name="menstruation_setting">Menstruasiya ayarları</string>
     <string name="menu">Menyu</string>
     <string name="menu_title_settings">Ayarlar</string>
     <string name="mesens_card_title_stop_today">Period bu gün bitir</string>
@@ -887,7 +887,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
     <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
     <string name="miuix_search_recommendation_item_del_des">Sil</string>
-    <string name="model_card_setting">Kart tənzimləmələri</string>
+    <string name="model_card_setting">Kart ayarları</string>
     <string name="moderately_abnormal">Mərhələ 2 hipertoniya</string>
     <string name="moderately_abnormal_tip">Hər gün qalxdıqdan sonra və yatmazdan əvvəl</string>
     <string name="modify">Düzəliş et</string>
@@ -1011,7 +1011,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="period">Dövr</string>
     <string name="permission_check_result">Uğurla ayarlandı</string>
-    <string name="permission_check_result_failed">"Tənzimlənə bilmədi"</string>
+    <string name="permission_check_result_failed">"Ayarlana bilmədi"</string>
     <string name="permission_manage">İcazələri idarə et</string>
     <string name="permission_tip">Yuxunuzu daha dəqiq izləmək üçün Xiaomi Health-ə aşağıdakı icazələri verin</string>
     <string name="personal_course_recommend_subtitle">Şəxsi məlumatlarınıza, sağlamlıq statistikalarınıza və tərcihlərinizə görə sizə tövsiyə edilən siniflərə müraciət əldə edin</string>
@@ -1145,16 +1145,16 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="set_emergency_contact">Fövqəladə hal kontaktı</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_avatar">Profil şəkli</string>
-    <string name="setting_birthday">Doğum tarixini tənzimlə</string>
-    <string name="setting_blood_type">Qan qrupunu tənzimlə</string>
-    <string name="setting_cycling_goals">Velosiped hədəflərini tənzimlə</string>
+    <string name="setting_birthday">Doğum tarixini ayarla</string>
+    <string name="setting_blood_type">Qan qrupunu ayarla</string>
+    <string name="setting_cycling_goals">Velosiped hədəflərini ayarla</string>
     <string name="setting_data_cloud_sync_tip">Bu cihazdakı elementləri nüsxələmək və digər cihazlardan sağlamlıq məlumatlarını sinxronlaşdırmaq üçün bu özəlliyi istifadə edin</string>
     <string name="setting_gender">Cinsi seç</string>
-    <string name="setting_running_goals">Qaçış hədəflərini tənzimlə</string>
+    <string name="setting_running_goals">Qaçış hədəflərini ayarla</string>
     <string name="setting_sedentary_off">BAĞLI</string>
     <string name="setting_sedentary_on">AÇIQ</string>
     <string name="setting_sedentary_title">Hərəkət etməyi xatırlat</string>
-    <string name="setting_walking_goals">Gəzmə hədəflərini tənzimlə</string>
+    <string name="setting_walking_goals">Gəzinti hədəflərini ayarla</string>
     <string name="severe_abnormal">Hipertansif krizlər</string>
     <string name="severe_abnormal_tip">Hər gün qalxdıqdan sonra, günorta yeməyindən sonra və yatmazdan əvvəl</string>
     <string name="share">Paylaş</string>
@@ -1229,7 +1229,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_guide_one_title">Yuxunuzu izləyin</string>
     <string name="sleep_detection_guide_schedule_hint_one">"Yatmaq vaxtı rejiminiz olmasa, statistikalarınız dəqiq olmayacaq. "</string>
     <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini tənzimləyin.</string>
-    <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtını \"Saat\"da tənzimləyin.</string>
+    <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
     <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi tənzimlənəndə, yuxunuz avtomatik izləniləcək. "</string>
     <string name="sleep_detection_guide_three_title">Statistikaları avtomatik yarat</string>
     <string name="sleep_detection_guide_two_description">"Dəqiq statistikalar əldə etmək üçün, cihazınızı yastığın yanına və ya altına qoyun və bədəninizdən ən çox 50 sm uzaqda olduğuna əmin olun."</string>
@@ -1268,8 +1268,8 @@ Bu problem tez-tez baş verirsə, cihazınızda planlaşdırılmış söndürmə
     <string name="sleep_health_model_hint">Miao Health tərəfindən təqdim edilən yuxu qiymətləndirmə tövsiyələri</string>
     <string name="sleep_keep_hard">Yuxuya getmə ilə bağlı problemlər</string>
     <string name="sleep_light">Yüngül yuxu</string>
-    <string name="sleep_management_content1">Yatmaq və qalxmaq üçün xatırladıcılar tənzimləyin</string>
-    <string name="sleep_management_exp_hours_minutes">"Hazırkı tənzimləmələriniz sizə gündəlik %1$s %2$s yuxuya zəmanət verməyəcək. Bundan daha çoxuna ehtiyacınız var."</string>
+    <string name="sleep_management_content1">Yatmaq və qalxmaq üçün xatırladıcılar ayarlayın</string>
+    <string name="sleep_management_exp_hours_minutes">"Hazırkı ayarlarınız sizə gündəlik %1$s %2$s yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</string>
     <string name="sleep_management_label">Yatmaq vaxtını idarə et</string>
     <string name="sleep_month">Ay</string>
     <string name="sleep_need_auto_start">Yuxu məlumatlarını daha dəqiq etmək üçün Xiaomi Health-ın avto-başlamasına icazə verin</string>
@@ -1282,7 +1282,7 @@ dövründən keçin"</string>
     <string name="sleep_no_generate_report">"Yuxu məlumatları
 tapıla bilmədi"</string>
     <string name="sleep_notice">Yuxu bildirişləri</string>
-    <string name="sleep_record_content">Xiaomi Health telefon istifadəniz, fəaliyyət statistikası, həmçinin tənzimlədiyiniz yatma və oyanma vaxtı əsasında yuxunuzu avtomatik yazacaq.</string>
+    <string name="sleep_record_content">Xiaomi Health telefon istifadəniz, fəaliyyət statistikası, həmçinin ayarladığınız yatma və oyanma vaxtına görə yuxunuzu avtomatik yazacaq.</string>
     <string name="sleep_record_go_open">Yuxu məlumatlarını yazmağa başlamaq üçün \"Yuxunu izlə\" açarını dəyişdirin</string>
     <string name="sleep_record_label">Yuxunu yaz</string>
     <string name="sleep_remind">Yuxu xatırladıcısı</string>
@@ -1292,10 +1292,10 @@ tapıla bilmədi"</string>
     <string name="sleep_schedule">Yatmaq vaxtı</string>
     <string name="sleep_service">Yuxu izləmə xidməti</string>
     <string name="sleep_service_background_running">Yuxu izləmə xidməti arxaplanda işləyir</string>
-    <string name="sleep_setting_title">Yuxu tənzimləmələri</string>
+    <string name="sleep_setting_title">Yuxu ayarları</string>
     <string name="sleep_snore_audio_auto">Xoruldamanı və danışmanı avtomatik yaz</string>
     <string name="sleep_snore_audio_auto_desc">Xiaomi Health, yatmaq vaxtı rejiminizə əsasən xoruldamanı və danışmanı avtomatik olaraq yaza bilər. Səsyazma, qalxdığınız vaxt dayandırılacaq.</string>
-    <string name="sleep_snore_audio_close_desc">Bu özəlliyi istənilən vaxt Tənzimləmələrdə bağlaya bilərsiniz.</string>
+    <string name="sleep_snore_audio_close_desc">Bu özəlliyi istənilən vaxt Ayarlarda söndürə bilərsiniz.</string>
     <string name="sleep_snore_audio_enable">Avto-aşkarlama açıqdır</string>
     <string name="sleep_snore_audio_enable_desc">Yuxuladığınız vaxt xoruldamanız və danışmanız avtomatik yazılacaq.</string>
     <string name="sleep_snore_audio_file_mamagement_desc">Ən son yazıların 100 MB-nı bu cihazda saxlamaq üçün açın və anbar sahəsinə qənaət etmək üçün köhnələri avtomatik silin.</string>
@@ -1330,13 +1330,13 @@ tapıla bilmədi"</string>
     <string name="snore_detection_abnormal_state">Seans dayandırıldı</string>
     <string name="snore_detection_abnormal_state_description">Mikrofon bağlıdır</string>
     <string name="snore_detection_close_prompt">Xoruldama və danışma aşkarlanması bağlıdır</string>
-    <string name="snore_detection_close_prompt_desc">"Bir müddətdir ki, xoruldama və danışma aşkarlanmadı. Batareyaya qənaət etmək üçün bu özəlliyi söndürdük. Tənzimləmələri yoxlamaq üçün toxunun."</string>
+    <string name="snore_detection_close_prompt_desc">"Bir müddətdir ki, xoruldama və danışma aşkarlanmadı. Batareyaya qənaət etmək üçün bu özəlliyi söndürdük. Ayarları yoxlamaq üçün toxunun."</string>
     <string name="snore_detection_close_title">Xoruldama və danışmanı aşkarlama söndürülsün?</string>
     <string name="snore_detection_enable">Xoruldama və danışmanı aşkarla</string>
     <string name="snore_detection_guide_one_description">Siz yatarkən səs yazılacaq. Maşın öyrənməsi, Xiaomi Health-ın xoruldamanı, danışmanı və yüksək səsi aşkarlamasına və yazılan səsləri cihazınızda saxlamasına icazə verir.</string>
     <string name="snore_detection_guide_one_title">Səsi mikrofon istifadə edərək yazın</string>
     <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi tənzimləyin&gt;</string>
-    <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtında mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün, yatmaq vaxtınızı \"Saat\"da tənzimləyin.</string>
+    <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtı zamanı mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
     <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
     <string name="snore_detection_guide_three_title">Cihazın batareyasını dolu saxlayın</string>
     <string name="snore_detection_guide_two_description">Mikrofon, yatmaq vaxtı rejiminizə əsasən açılıb bağlanılacaq.</string>
@@ -1373,7 +1373,7 @@ tapıla bilmədi"</string>
     <string name="sport_data_use_tip">"Məlumatlarınızı necə yığdığımızı və emal etdiyimizi daha yaxşı anlamaq üçün &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Sağlamlıq və Fəaliyyət Məlumatlarının İstifadə Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın. Yığmağımıza və emal etməyimizə razılıq verməsəniz, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="sport_data_use_title">Məlumat icazələri</string>
     <string name="sport_home_begin">Başlat</string>
-    <string name="sport_home_set_goal">Hədəfi tənzimlə</string>
+    <string name="sport_home_set_goal">Hədəfi ayarla</string>
     <string name="sport_invalid_dialog_distance_content">Bu məşq zamanı qət etdiyiniz məsafə bir tarixçə qeydi yaratmaq üçün çox qısadır. Yenə də bu məşq bitirilsin?</string>
     <string name="sport_invalid_dialog_time_content">Bu məşq 5 saniyədən az davam etdi. Qeyd etmədən bitirilsin?</string>
     <string name="sport_invalid_dialog_title">Çox sürətli!</string>
@@ -1686,7 +1686,7 @@ tapıla bilmədi"</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time">Vaxt</string>
     <string name="time_format_hh_mm">HH:mm</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tips_default">Məlumat yoxdur</string>
@@ -1703,9 +1703,9 @@ tapıla bilmədi"</string>
     <string name="title_select_birthday_description">"Xidmətlərimizi yaşınıza görə uyğunlaşdıracağıq"</string>
     <string name="title_select_gender">Cinsi seçin</string>
     <string name="title_select_gender_description">"Xidmətlərimizi cinsinizə görə uyğunlaşdıracağıq"</string>
-    <string name="title_select_height">Boyu tənzimlə</string>
+    <string name="title_select_height">Boyu ayarla</string>
     <string name="title_select_height_description">Bu, statistikalarımızı daha dəqiq edəcək</string>
-    <string name="title_select_weight">Çəkini tənzimlə</string>
+    <string name="title_select_weight">Çəkini ayarla</string>
     <string name="title_select_weight_description">Bu, statistikalarımızı daha dəqiq edəcək</string>
     <string name="title_start_use">Başlat</string>
     <string name="title_start_use_menstruation_assistant">Menstruasiya dövrünüzü qeyd edin</string>

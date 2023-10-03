@@ -42,7 +42,7 @@
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Bu cihaz internetə bağlı olmadıqda onu tapmaq üçün"</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazı tapmaq və itmiş rejimə keçmək üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödənişinə görə
 kilidlənib.
 Ətraflı məlumat üçün satış nümayəndəsi ilə əlaqə saxlayın."</string>
@@ -168,8 +168,8 @@ kilidlənib.
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
-    <string name="open_wifi_settings">Wi-Fi tənzimləmələrini aç</string>
+    <string name="not_set">Ayarlanmadı</string>
+    <string name="open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="passport_checking_vcode">Parol yoxlanılır…</string>
     <string name="passport_error_empty_vcode">Doğrulama kodunu daxil edin</string>
     <string name="passport_notification_need_unlock_again">Yenidən kilidi açmağa çalışın</string>
@@ -245,7 +245,7 @@ kilidlənib.
     <string name="thursday_shortest">C.a.</string>
     <string name="time_correction_failure">"Vaxt düzəldilə bilmir. %s"</string>
     <string name="time_correction_success">Vaxt düzəldildi</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
@@ -261,7 +261,7 @@ kilidlənib.
     <string name="unlock_error_passport_sdk_timeout">"Mi Hesabı SDK cavab vermir"</string>
     <string name="unlock_error_rpc">RPC xətası</string>
     <string name="unlock_error_server">Server xətası</string>
-    <string name="unlock_error_ssl_hand_shake">"Serverə bağlana bilmədi. Tarix və saatı əllə tənzimləməyə çalışın."</string>
+    <string name="unlock_error_ssl_hand_shake">"Serverə bağlana bilmədi. Tarix və saatı əllə ayarlamağa çalışın."</string>
     <string name="unlock_error_unknown">"Daxil ola bilmir"</string>
     <string name="unlock_error_user_name">Yararsız istifadəçi adı</string>
     <string name="unlock_error_wrong_vcode">Daxil etdiyiniz kod yanlışdır</string>

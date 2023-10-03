@@ -35,7 +35,7 @@
     <string name="am">GƏ</string>
     <string name="app_name">bulanıq</string>
     <string name="app_switch_key">Sonuncular</string>
-    <string name="application_label">Giriş tənzimləmələri</string>
+    <string name="application_label">Giriş ayarları</string>
     <string name="au_pay">au PAY</string>
     <string name="auto_disable_screenbuttons_ask">Sıradan çıxartmaq üçün soruş</string>
     <string name="auto_disable_screenbuttons_auto">Həmişə sıradan çıxart</string>
@@ -78,7 +78,7 @@
     <string name="custom_gesture_title">Özəl jestlər</string>
     <string name="customize_knock_gesture">Özəl yumruq jestləri</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_suppression_title">İlkin (Tövsiyə edilən)</string>
     <string name="disable_power_key_long_press_under_keyguard">Güc düyməsi menyusunu söndür</string>
     <string name="diy_suppression_summary">Səhvən toxunmanın yox sayılacağı kənarlara yaxın ərazinin ölçülərini tənzimlə</string>
@@ -171,7 +171,7 @@
     <string name="kddi_long_press_power_guide_assistant_message">\"Google Köməkçisi\"ni oyandırmaq üçün Güc düyməsini %s san basılı tutun</string>
     <string name="kddi_long_press_power_guide_assistant_title">\"Google Köməkçisi\"ni oyandır</string>
     <string name="kddi_long_press_power_guide_know">Anladım</string>
-    <string name="kddi_long_press_power_guide_settings">Tənzimləmələr</string>
+    <string name="kddi_long_press_power_guide_settings">Ayarlar</string>
     <string name="kddi_long_press_power_guide_shutdown_message">Cihazınızı yenidən başlatmaq və ya söndürmək üçün Güc və səs düymələrinə eyni vaxtda basın</string>
     <string name="kddi_long_press_power_guide_shutdown_title">Cihazı yenidən başlat və ya söndür</string>
     <string name="key_combination_power_back">Güc + Geri</string>
@@ -220,7 +220,7 @@
     <string name="keyboard_shortcuts_helper">Klaviatura qısayolları</string>
     <string name="keyboard_shortcuts_helper_summary">Əlçatan qısayolları göstərin</string>
     <string name="knock_edge_area_invalid">"Bu jest, ekran kənarlarının yaxınlığında işləmir"</string>
-    <string name="knock_guide_dialog_title">Bu jest üçün bir əməliyyat seçin. Bunu daha sonra Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; \"Düymə qısayolları\"nda dəyişdirə bilərsiniz.</string>
+    <string name="knock_guide_dialog_title">Bu jest üçün bir əməliyyat seçin. Bunu daha sonra Ayarlar &gt; Əlavə ayarlar &gt; \"Düymə qısayolları\"nda dəyişdirə bilərsiniz.</string>
     <string name="knock_guide_drive_desc">Avtomobil sürərkən ekran şəkillərini çəkin</string>
     <string name="knock_guide_launch_desc">Telefonunuz masanın üstündə olarkən Mi AI-ni tətikləyin</string>
     <string name="knock_guide_set_screenshot">Ekran şəkli</string>
@@ -269,7 +269,7 @@
     <string name="launch_google_search">\"Google Köməkçisi\"ni başlat</string>
     <string name="launch_noapp_dialog_cancel">İmtina</string>
     <string name="launch_noapp_dialog_install">Quraşdır</string>
-    <string name="launch_noapp_dialog_replace">Tənzimləmələr</string>
+    <string name="launch_noapp_dialog_replace">Ayarlar</string>
     <string name="launch_notification_center">Bildiriş paneli</string>
     <string name="launch_recents">Sonuncuları aç</string>
     <string name="launch_smarthome">Xiaomi Magic Control</string>
@@ -278,7 +278,7 @@
     <string name="launch_wechat_health_code_auto_close">WeChat sağlam kodu qısayolu artıq mövcud deyil. Fərqli bir qısayola keçə bilərsiniz.</string>
     <string name="launch_wechat_payment_code">WeChat ödəniş kodu</string>
     <string name="launch_wechat_scanner">WeChat skaneri</string>
-    <string name="lock_settings_common_title">Tənzimləmələr</string>
+    <string name="lock_settings_common_title">Ayarlar</string>
     <string name="long_press_back_key">Geri düyməsinə uzun bas</string>
     <string name="long_press_buttom_key">Kilid ekranında Əsas ekran düyməsinə uzun bas</string>
     <string name="long_press_home_key">Əsas ekran düyməsinə uzun bas</string>
@@ -287,7 +287,7 @@
     <string name="long_press_power_guide_know">Anladım</string>
     <string name="long_press_power_guide_message" formatted="false">"\"Google Köməkçisi\"ni oyandırmaq üçün Güc düyməsini %s saniyə basılı tutun.
 Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu açacaqsınız."</string>
-    <string name="long_press_power_guide_settings">Tənzimləmələr</string>
+    <string name="long_press_power_guide_settings">Ayarlar</string>
     <string name="long_press_power_guide_title">Güc düyməsi ilə oyandır</string>
     <string name="long_press_power_key">Güc düyməsinə uzun bas</string>
     <string name="long_press_power_key_half_of_second">\"Google Köməkçisi\"ni işə salmaq üçün Güc düyməsini 0.5 saniyə basılı tutun</string>
@@ -375,8 +375,8 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="no_media_button_receiver">Xeyr</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
-    <string name="other_advanced_settings">Əlavə tənzimləmələr</string>
+    <string name="not_set">Ayarlanmadı</string>
+    <string name="other_advanced_settings">Əlavə ayarlar</string>
     <string name="pm">GS</string>
     <string name="pointer_settings_category">Siçan/trekpad</string>
     <string name="pointer_speed">Kursor sürəti</string>
@@ -395,7 +395,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preferred_app_settings_reset">İlkin halına sıfırla</string>
     <string name="preferred_app_settings_reset_button">Sıfırla</string>
-    <string name="preferred_app_settings_reset_message">İlkin tətbiq tərcihləri fabrik ön tənzimləmələrinə sıfırlansın?</string>
+    <string name="preferred_app_settings_reset_message">İlkin tətbiq tərcihləri fabrik ön ayarlarına sıfırlansın?</string>
     <string name="preferred_media_app_summary">Musiqi pleyeri seçin</string>
     <string name="regional_screen_shot">Qismən ekran şəkli</string>
     <string name="saturday">Şənbə</string>

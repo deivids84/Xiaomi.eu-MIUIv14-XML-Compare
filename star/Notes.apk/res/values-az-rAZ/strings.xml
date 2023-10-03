@@ -114,7 +114,7 @@
     <string name="date_time_picker_alarm_reminder">Zəngli saat</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_time_picker_has_not_set_alarm">"Zəngli saat ayarlanmadı"</string>
-    <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla tənzimləndi</string>
+    <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla ayarlandı</string>
     <string name="db_downgrade_clear_button">Tətbiq datasını təmizlə</string>
     <string name="db_downgrade_clear_date_reminder">"Fərqli bir MIUI versiyasına keçmək, Qeydlər üçün tətbiq datasının təmizlənməsini tələb edir. Bunu etməzdən əvvəl, qeydlərinizi buluda nüsxələdiyinizə əmin olun."</string>
     <string name="default_folder_name">Adsız qovluq</string>

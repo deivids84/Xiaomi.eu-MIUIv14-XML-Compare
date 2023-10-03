@@ -47,9 +47,9 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_download">Sil</string>
-    <string name="dialog_btn_ok_disabled_net">Şəbəkə tənzimləmələri</string>
+    <string name="dialog_btn_ok_disabled_net">Şəbəkə ayarları</string>
     <string name="dialog_button_cancel">İmtina</string>
     <string name="dialog_button_ok">Oldu</string>
     <string name="dialog_confirm_delete_checkbox_message">Yerli faylları da sil</string>
@@ -188,7 +188,7 @@
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notif_text_engine_off">Xunlei sürətləndirici bağlıdır.</string>
     <string name="notif_text_engine_on">Sürətləndirilir…</string>
     <string name="notif_title_file_size">Cəmi %1$d</string>
@@ -251,8 +251,8 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
-    <string name="toast_net_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
+    <string name="toast_net_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="today">Bu gün</string>
     <string name="today_download">Bu gün endirildi</string>
     <string name="tomorrow">Sabah</string>

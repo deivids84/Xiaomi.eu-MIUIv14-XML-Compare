@@ -66,7 +66,7 @@
     <string name="dialog_file_missing_title">"Fayl açıla bilmir"</string>
     <string name="dialog_insufficient_space_on_cache">Daxili anbarda yetərli boş sahə yoxdur</string>
     <string name="dialog_insufficient_space_on_external">Xarici anbarda yetərli boş sahə yoxdur</string>
-    <string name="dialog_msg_disabled_net">%1$s, hazırkı şəbəkə üçün endirmələri məhdudlaşdırır. Güvənlik tətbiqinə getmək üçün Şəbəkə tənzimləmələrinə toxunun.</string>
+    <string name="dialog_msg_disabled_net">Mövcud şəbəkə üçün %1$s endirmə məhdudlaşdırıldı. Güvənlik tətbiqinə getmək üçün Şəbəkə ayarlarına toxunun.</string>
     <string name="dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="dialog_tip_limit">%s həcmindən böyük faylları endirərkən xəbərdarlıq göstər</string>
     <string name="dialog_tip_limit0">Həmişə xəbərdarlıq göstər</string>

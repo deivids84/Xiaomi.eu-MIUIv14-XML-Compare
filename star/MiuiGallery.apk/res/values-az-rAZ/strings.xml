@@ -258,7 +258,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="app_summary">Foto və videolarınızı cihazınızda və Xiaomi Cloud-da idarə etmə və onlara düzəliş etmə</string>
     <string name="app_summary_2">Foto və videoları bu cihazda saxlama, idarə etmə və onlara düzəliş etmə</string>
     <string name="apply">Tətbiq et</string>
-    <string name="art_still_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="art_still_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="art_still_download_sdk_without_wifi_title">\"İncəsənət\" qoşmasını endir</string>
     <string name="art_still_load_data_fail">"Məlumat yüklənə bilmədi"</string>
     <string name="art_still_module_finish">\"İncəsənət\" qoşması uğurla endirildi</string>
@@ -267,7 +267,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="assistant_page_discovery">Kəşf et</string>
     <string name="assistant_page_image_printing">Çap et</string>
     <string name="assistant_page_label">Xatirələr</string>
-    <string name="assistant_page_server_error">Şəbəkə tənzimləmələrinizi yoxlayın</string>
+    <string name="assistant_page_server_error">Şəbəkə ayarlarınızı yoxlayın</string>
     <string name="assistant_today_of_year_function_closed_tip">İşə sal</string>
     <string name="assistant_today_of_year_function_no_address_tip">Zamanda geri</string>
     <string name="assistant_today_of_year_function_no_photo_tip">Başla</string>
@@ -366,10 +366,10 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_settings_banner_title_off">Nüsxələmə bağlıdır</string>
     <string name="backup_settings_banner_title_on">Nüsxələmə açıqdır</string>
     <string name="backup_settings_jump_err">"Google Fotolar nüsxələməsi işə salına bilmədi"</string>
-    <string name="backup_settings_more">Əlavə tənzimləmələr</string>
+    <string name="backup_settings_more">Əlavə ayarlar</string>
     <string name="backup_stop">Nüsxələməni dayandır</string>
     <string name="backup_sync_dialog_confirm">İşə sal</string>
-    <string name="backup_sync_dialog_tips">Tənzimləmələri dəyişdirmək üçün buludla sinxronlaşdırmanı işə sal.</string>
+    <string name="backup_sync_dialog_tips">Ayarları dəyişdirmək üçün buludla sinxr. işə sal.</string>
     <string name="backup_sync_dialog_title">Sinxr. bağlıdır</string>
     <string name="backup_sync_error_btn_text">Yenidən sına</string>
     <string name="backup_sync_error_desc">"\"Xiaomi Cloud\"a bağlana bilmir"</string>
@@ -564,7 +564,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="cloud_guide_login_title">Foto və videoları avto-nüsxələ</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
     <string name="cloud_login_ok">Anladım</string>
-    <string name="cloud_login_settings_title">Sinxr. tənzimləmələri</string>
+    <string name="cloud_login_settings_title">Sinxr. ayarları</string>
     <string name="cloud_privacy_with_ai_album">Özəlliklər və gizlilik</string>
     <string name="cloud_privacy_with_face">Özəlliklər və gizlilik</string>
     <string name="cloud_screenshots_display_name">Ekran şəkilləri</string>
@@ -669,7 +669,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="custom_select_title_select_all">Hamısını seç</string>
     <string name="custom_select_title_select_item">Elementləri seç</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="datetimepicker_dialog_title">Vaxtı dəyişdir</string>
     <string name="datetimepicker_updatetime_failed">"Vaxt dəyişdirilə bilmədi"</string>
     <string name="datetimepicker_updatetime_success">Vaxt uğurla dəyişdirildi</string>
@@ -816,7 +816,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="error_build_thumbnail_tip">"Eskiz endirilə bilmədi."</string>
     <string name="error_change_storage_action">Anbarı dəyişdir</string>
     <string name="error_change_storage_msg">Tənzimləmələrə gedin &gt; Anbar, anbarı dəyişdirib yenidən sınayın.</string>
-    <string name="error_check_network_later">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="error_check_network_later">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="error_cloud_not_active">Xiaomi Cloud-da foto yoxdur</string>
     <string name="error_connect_timeout_action">Şəbəkə seçin</string>
     <string name="error_connect_timeout_msg">Fərqli bir şəbəkəyə bağlanıb yenidən sınayın.</string>
@@ -845,7 +845,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="error_no_cta_permission_action">İcazə ver</string>
     <string name="error_no_cta_permission_msg">Şəbəkə müraciəti məhdudlaşdırılıb.</string>
     <string name="error_no_cta_permission_tip">Şəbəkə müraciəti məhdudlaşdırılıb</string>
-    <string name="error_no_network_action">Şəbəkə tənzimləmələri</string>
+    <string name="error_no_network_action">Şəbəkə ayarları</string>
     <string name="error_no_network_msg">Cihazınızın Wi-Fi-a bağlı və mobil interneti açıq olduğuna əmin olun.</string>
     <string name="error_no_network_tip">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="error_no_wifi_action">Mobil internet istifadə et</string>
@@ -1045,8 +1045,8 @@ mövcuddur"</string>
     <string name="filter_sky_dawn">Şəfəq</string>
     <string name="filter_sky_detect_forbidden_tips">"Səma aşkarlana bilmədi"</string>
     <string name="filter_sky_double_rainbow">Cüt göy qurşağı</string>
-    <string name="filter_sky_download_failed">"Qoşma endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="filter_sky_download_failed_msg">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="filter_sky_download_failed">"Qoşma endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="filter_sky_download_failed_msg">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="filter_sky_download_finish">Qoşma uğurla endirildi</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">"Wi-Fi-a bağlanmamısınızsa, fotolarınızdakı səmanı əvəz etməyə imkan verən qoşmanı (%1$d MB) endirmək üçün mobil interneti istifadə edə bilərsiniz."</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Qoşmanı endir</string>
@@ -1246,7 +1246,7 @@ mövcuddur"</string>
     <string name="how_to_set_relation">Qrup yaratmaq üçün albomu basılı tutun</string>
     <string name="hr_preview_108m">108MP önbaxışına keçildi</string>
     <string name="hr_preview_200m">200MP önbaxışına keçildi</string>
-    <string name="hybrid_check_network">Şəbəkə tənzimləmələri</string>
+    <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
     <string name="hybrid_network_access_denied">Şəbəkə müraciəti rədd edildi</string>
@@ -1258,7 +1258,7 @@ mövcuddur"</string>
     <string name="hybrid_service_unavailiable">Xidmət əlçatmazdır</string>
     <string name="hybrid_try_again">Yenidən sına</string>
     <string name="i_know">Anladım</string>
-    <string name="id_photo_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="id_photo_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">\"Kimlik\" qoşmasını endir</string>
@@ -1384,7 +1384,7 @@ mövcuddur"</string>
     <string name="macarons_download_dialog_without_wifi_confirm">Endir</string>
     <string name="macarons_download_dialog_without_wifi_message">"Wi-Fi bağlana bilmədi. Sehrli vinyet qoşmasını endirmək üçün mobil internet istifadə edə bilərsiniz."</string>
     <string name="macarons_download_later">Bir və ya iki dəqiqə gözləyib yenidən sınayın</string>
-    <string name="macarons_download_network_fail">"Qoşma endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="macarons_download_network_fail">"Qoşma endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="macarons_download_other_fail">"Bir xətaya görə endirilə bilmədi"</string>
     <string name="macarons_download_sdscard_fail">"Endirilə bilmədi. SD kart əlçatmazdır."</string>
     <string name="macarons_download_storage_fail">"Endirilə bilmədi. Yetərsiz anbar sahəsi."</string>
@@ -1431,7 +1431,7 @@ mövcuddur"</string>
     <string name="magic_make_save_1">Düzümü saxla</string>
     <string name="magic_make_save_title">Bir şəkil saxla</string>
     <string name="magic_make_save_title2">İkisini də saxla</string>
-    <string name="magic_matting_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="magic_matting_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="magic_matting_download_sdk_without_wifi_title">\"Cutout\" qoşmasını endir</string>
@@ -1444,7 +1444,7 @@ mövcuddur"</string>
     <string name="magic_mix_px">Bu təsvir çox kiçikdir</string>
     <string name="magic_more_fact">Deyəsən, bu fotoda bir neçə insan var</string>
     <string name="magic_more_no_fact">"Bu fotoda insanlar tapıla bilmədi"</string>
-    <string name="magic_network_error">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="magic_network_error">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="magic_next">Növbəti</string>
     <string name="magic_no_human_face">"İnsan tapıla bilmədi"</string>
     <string name="magic_ok">Oldu</string>
@@ -1727,7 +1727,7 @@ mövcuddur"</string>
     <string name="need_to_turn_on_sync_first">Əvvəlcə buludla sinxronlaşdırmanı işə sal</string>
     <string name="need_to_turn_on_wlan">Əvvəlcə Wi-Fi-a bağlanın</string>
     <string name="network_connected_rescan">"Şəbəkəyə bağlana bilmir"</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_message">"Bu özəllik normal işləmək üçün internet bağlanmalıdır. Deyəsən, bu cihaz Wi-Fi-a bağlanmayıb. Davam etmək üçün mobil internet istifadə edilsin? Mobil internet istifadəsi, əlavə operator xərcləri yarada bilər."</string>
     <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="network_title">Şəbəkəyə bağlan</string>
@@ -1745,7 +1745,7 @@ mövcuddur"</string>
     <string name="no_ignore_faces">Burada heç kim yoxdur</string>
     <string name="no_map_app">Bu əməliyyatı edə biləcək heç bir tətbiq tapılmadı</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
-    <string name="no_network_connect">"Əməliyyat tamamlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="no_network_connect">"Əməliyyat tamamlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="no_network_connected">Şəbəkə aşkarlanmadı</string>
     <string name="noon">Günorta</string>
     <string name="not_ask_any_more">"\"%s\" cavabı üçün təkrar soruşma"</string>
@@ -1755,7 +1755,7 @@ mövcuddur"</string>
     <string name="not_is">Xeyr</string>
     <string name="not_remind_again">"Təkrar göstərmə"</string>
     <string name="not_remind_any_more">"Təkrar göstərmə"</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notice_click_lock_orientation">İstiqaməti kilidləmək üçün toxunun</string>
     <string name="ocr_abnormal">"Mətn tanına bilmədi."</string>
     <string name="ocr_abnormal_pic_format">"Mətn tanına bilmədi. Bu təsvir formatı dəstəklənmir."</string>
@@ -1874,7 +1874,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="other_album">Digər albomlar</string>
     <string name="other_album_operation_move_to_rubbish_albums">Lazımsız albomlara daşı</string>
     <string name="other_album_operation_remove_from_other_albums">\"Digər albomlar\"dan sil</string>
-    <string name="other_settings">Əlavə tənzimləmələr</string>
+    <string name="other_settings">Əlavə ayarlar</string>
     <string name="owner_album_subtitle">%1$s nəfərlə paylaşıldı</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
@@ -1959,7 +1959,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil ol</string>
-    <string name="passport_unknow_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknow_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
     <string name="passport_user_id_intro">%1$s üçün parol daxil edin</string>
     <string name="passport_user_password_hint">Parol</string>
@@ -2011,7 +2011,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_beautify">Gözəlləşdirmə</string>
     <string name="photo_editor_beautify_auto">Avto</string>
     <string name="photo_editor_beauty_compare">Orijinal</string>
-    <string name="photo_editor_common_download_failed">"Qoşma endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="photo_editor_common_download_failed">"Qoşma endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="photo_editor_common_download_finish">Qoşma uğurla endirildi</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Deyəsən, Wi-Fi-ya bağlanmamısınız. Qoşma, mobil internet istifadə edilərək (%1$d MB) endirilsin?"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Qoşmanı endir</string>
@@ -2056,7 +2056,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_navigator_module_download_wait_wlan">Wi-Fi-ı gözləyin</string>
     <string name="photo_editor_navigator_module_downloading">%s endirilir…</string>
     <string name="photo_editor_navigator_need_download">%s endirmək üçün şəbəkəyə bağlanın.</string>
-    <string name="photo_editor_navigator_sticker_download_failed">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="photo_editor_navigator_sticker_download_failed">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="photo_editor_navigator_sticker_download_success">Uğurla endirildi</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Deyəsən, Wi-Fi-a bağlanmamısınız. Qoşmanı endirmək üçün %1$d MB mobil internet istifadə edilsin?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Deyəsən, Wi-Fi-a bağlanmamısınız. Qoşmanı endirmək üçün %1$d MB mobil internet istifadə edilsin?"</string>
@@ -2065,8 +2065,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_editor_remove_watermark">Filiqranı sil</string>
     <string name="photo_editor_remove_watermark_on">Filiqran əlavə et</string>
     <string name="photo_editor_remover">Sil</string>
-    <string name="photo_editor_remover2_download_failed">"AI Erase 2.0 endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="photo_editor_remover2_download_failed_msg">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="photo_editor_remover2_download_failed">"AI Erase 2.0 endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="photo_editor_remover2_download_failed_msg">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="photo_editor_remover2_download_finish">AI Erase 2.0 uğurla endirildi</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Deyəsən, Wi-Fi-a bağlanmamısınız. AI Erase 2.0 endirmək üçün %1$d MB mobil internet istifadə edilsin?"</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">AI Erase 2.0 endir</string>
@@ -2332,7 +2332,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="request_cancel">İmtina</string>
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
-    <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
     <string name="request_qr_code_failed">"QR kod alına bilmədi"</string>
@@ -2420,7 +2420,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_backup_title">Buludla sinxronlaşdır</string>
     <string name="search_clear_histories">Axtarış tarixçəsini təmizlə</string>
     <string name="search_connection_error">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="search_connection_error_and_set">Şəbəkə tənzimləmələrini yoxlamaq üçün toxunun</string>
+    <string name="search_connection_error_and_set">Şəbəkə ayarlarını yoxlamaq üçün toxunun</string>
     <string name="search_edit_hint">Faylları və ya albomları axtarın</string>
     <string name="search_empty_title">Qalereyanızdakı müəyyən şəxslərin, məkanların və obyektlərin olduğu fotoları tapın</string>
     <string name="search_error">Xəta baş verdi</string>
@@ -2458,7 +2458,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_result_empty">"Heç nə tapıla bilmədi"</string>
     <string name="search_retry">Yenidən sına</string>
     <string name="search_select_network">Şəbəkə seçin</string>
-    <string name="search_set_network_connection">Şəbəkə tənzimləmələri</string>
+    <string name="search_set_network_connection">Şəbəkə ayarları</string>
     <string name="search_setting_sub_title">Fotolarınızdakı insanları, məkanları və obyektləri axtarın.</string>
     <string name="search_setting_title">Fotoları Qalereyada tap</string>
     <string name="search_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
@@ -2500,7 +2500,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="security_share_subtitle_hide">Yer məlumatları silindi</string>
     <string name="security_share_subtitle_no_hide">Yer məlumatları daxildir</string>
     <string name="see_ignore_faces">"Yox saydığınız şəxslərə baxın"</string>
-    <string name="see_more_settings">Əlavə tənzimləmələr</string>
+    <string name="see_more_settings">Əlavə ayarlar</string>
     <string name="select_all">Hamısını seç</string>
     <string name="select_image_operation">Fotolar əlavə edilir</string>
     <string name="select_item_face">"Bu \"%s\" dır?"</string>
@@ -2536,7 +2536,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="set_group">Qrupu tənzimlə</string>
     <string name="set_video_wallpaper_failed">"Bu element video divar kağızı olaraq istifadə edilə bilmir"</string>
     <string name="set_wallpaper_get_image_failed">"Şəkil endirilə bilmədi, daha sonra yenidən sınayın"</string>
-    <string name="setup_network_connection">Şəbəkə tənzimləmələri</string>
+    <string name="setup_network_connection">Şəbəkə ayarları</string>
     <string name="share">Paylaş</string>
     <string name="share_album">Albomu paylaş</string>
     <string name="share_album_action_mode_title">Nəzarət müraciəti</string>
@@ -2616,7 +2616,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="share_album_sync_textline_action_upgrade_cloud">Yüksəlt</string>
     <string name="share_album_sync_textline_error_account">Elementləri sinxronlaşdırmaq üçün daxil olun</string>
     <string name="share_album_sync_textline_error_battery">Sinxr. davam etdirmək üçün cihazınızı doldurun</string>
-    <string name="share_album_sync_textline_error_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="share_album_sync_textline_error_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="share_album_sync_textline_owner_cloud_full">Buludun anbar sahəsi dolub. Anbar planınızı yüksəldin.</string>
     <string name="share_album_sync_textline_pause">Sinxronlaşdırmaya fasilə verildi. Davam etdirmək üçün toxunun.</string>
     <string name="share_album_sync_textline_sharer_cloud_full">"Sinxronlaşdırıla bilmədi. Bu albom sahibinin bulud anbar sahəsi qalmadı."</string>
@@ -3178,7 +3178,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_ignore">Bu versiyanı yox say</string>
     <string name="update_latest_version">Hazırkı versiya güncəldir</string>
-    <string name="update_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="update_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="update_new_version">Bir güncəlləmə var</string>
     <string name="update_title">İndi %s versiyası mövcuddur</string>
     <string name="upload_progress_message">"Xiaomi Cloud sinxr xidmətləri, \"Google Fotolar\" nüsxələməsi ilə əvəz olundu. Vacib heç nəyi itirmədiyinizə əmin olmaq üçün bu cihazda və buludda saxlanılan elementləri yoxlamaq lazımdır. Bu proses bir neçə dəqiqə çəkə bilər. Tamamlanana qədər Qalereyanı tərk etməyin."</string>
@@ -3207,10 +3207,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="v7_preference_on">AÇIQ</string>
     <string name="video_analytic_cancel">İmtina</string>
     <string name="video_analytic_download">Endir</string>
-    <string name="video_analytic_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="video_analytic_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="video_analytic_download_sdk_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Qoşmanı mobil internet istifadə edərək endirə bilərsiniz."</string>
     <string name="video_analytic_download_sdk_without_wifi_title">Qoşma endirilir…</string>
-    <string name="video_compress_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="video_compress_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="video_compress_encode_video">Video sıxışdırılır…</string>
     <string name="video_compress_lib_download">Video sıxışdırma qoşmasını endir</string>
     <string name="video_compress_lib_download_without_wifi">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Video sıxışdırma qoşmasını (%.1f MB) endirmək üçün mobil internet istifadə edə bilərsiniz."</string>
@@ -3276,7 +3276,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_editor_not_support_tips">"Belə video fayllar dəstəklənmir"</string>
     <string name="video_editor_ok">Oldu</string>
     <string name="video_editor_regulator">Tənzimlə</string>
-    <string name="video_editor_res_download_failed_tips">"Endirilə bilmədi, şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın"</string>
+    <string name="video_editor_res_download_failed_tips">"Endirilə bilmədi, şəbəkə ayarlarınızı yoxlayıb yenidən sınayın"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Film musiqisi mobil internet ilə endirilsin?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Mobil internet istifadə edilir</string>
     <string name="video_editor_return">Geri</string>
@@ -3320,7 +3320,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_editor_watermark">Filiqran</string>
     <string name="video_err">"Video oxudula bilmir"</string>
     <string name="video_not_exist">"Video mövcud deyil"</string>
-    <string name="video_post_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="video_post_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="video_post_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="video_post_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
     <string name="video_post_download_sdk_without_wifi_title">\"Video effektləri\" qoşmasını endir</string>
@@ -3378,7 +3378,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_caption_ai_generating">Avtomatik altyazılar yaradılır…</string>
     <string name="vlog_caption_ai_metered_network_msg">Avtomatik altyazılar yaratmaq üçün ödənişli şəbəkələrin istifadəsi əlavə operator xərcləri yarada bilər. Yenə də davam edilsin?</string>
     <string name="vlog_caption_ai_metered_network_title">Ödənişli şəbəkə bağlantısı istifadə olunur</string>
-    <string name="vlog_caption_ai_network_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="vlog_caption_ai_network_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="vlog_caption_ai_no_detect">"Avtomatik altyazılar yarada bilmədi"</string>
     <string name="vlog_caption_ai_replace_message">Avtomatik altyazılar özəl altyazılarla əvəz edilisin?</string>
     <string name="vlog_caption_ai_replace_title">Altyazıları əvəz et</string>
@@ -3402,8 +3402,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_download_btn">Endir</string>
     <string name="vlog_download_cloud_file_retry">"Elementlər buluddan endirilə bilmədi. Yenidən sınayın."</string>
     <string name="vlog_download_cloud_file_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Elementləri buluddan (%s) mobil internet istifadə edərək endirə bilərsiniz."</string>
-    <string name="vlog_download_fail">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="vlog_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="vlog_download_fail">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="vlog_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="vlog_download_sdk_without_wifi_msg">"Wi-Fi-ya bağlana bilmədi. Video redaktoru mobil internet istifadə edərək endirə bilərsiniz."</string>
     <string name="vlog_download_sdk_without_wifi_title">Video redaktoru endirilir…</string>
     <string name="vlog_downloading_cloud_file">Elementlər buluddan endirilir…</string>

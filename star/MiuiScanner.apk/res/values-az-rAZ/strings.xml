@@ -167,7 +167,7 @@
     <string name="cropping">Kəsilir…</string>
     <string name="current_word_is_locked">Hazırkı söz kilidlənib</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="dis_select_all">Heç birini seçmə</string>
     <string name="document_color_picture">Rəng</string>
@@ -490,7 +490,7 @@
     <string name="not_permissions_hint">Bu özəlliyi istifadə edə bilmək üçün kameraya müraciətə icazə verin.</string>
     <string name="not_permissions_title">Tələb olunan icazələr</string>
     <string name="not_recommend_access_web_url">Yenə də get</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="note">Açıqlama:</string>
     <string name="now_state">"Hazırkı status: "</string>
     <string name="ocr_plant_loading">Bir saniyə…</string>

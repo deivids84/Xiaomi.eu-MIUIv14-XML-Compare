@@ -154,7 +154,7 @@
     <string name="dall_sheep">Nazikbuynuz qoyun</string>
     <string name="dart_frog_info">Parlaq mavi dəri və zəhərli bezləri, potensial yırtıcılara qarşı müdafiə mexanizmləridir.</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dc_light_hint_enable_title">Diqqət</string>
     <string name="dc_light_hint_normal">DC qaralma, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_normal_anit">Titrəməsiz rejimi, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
@@ -196,8 +196,8 @@
     <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
     <string name="exo_controls_hide">Pleyer kontrollarını gizlət</string>
     <string name="exo_controls_next_description">Növbəti</string>
-    <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
-    <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
     <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
@@ -492,7 +492,7 @@
     <string name="north_white_rhinoceros">Ağ kərgədan</string>
     <string name="norway_lemmings">Norveç lemminqi</string>
     <string name="norway_lemmings_info">Norveç lemminqi, tundra və dağlıq ərazilərdə yaşayır və su yaxınlığında yaşamağa üstünlük verir.</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_sound">Bildiriş səsləri</string>
     <string name="ocelot">Oselot</string>
     <string name="olive_baboon">Anubis babunu</string>
@@ -601,7 +601,7 @@
     <string name="stop_app_timer">\"Ekran vaxtı\"nı söndür</string>
     <string name="stop_app_timer_fail">"Ekran vaxtı söndürülə bilmədi"</string>
     <string name="stop_app_timer_success">Ekran vaxtı uğurla söndürüldü</string>
-    <string name="stop_app_timer_tip">Fərdi tənzimləmələr daxil olmaqla, bütün Ekran vaxtı məlumatları və icazələri ilə yerli olaraq saxlanılan və buludda sinxronlaşdırılan elementlər, bu özəlliyi söndürdükdən sonra silinəcək.</string>
+    <string name="stop_app_timer_tip">Fərdi ayarlar daxil olmaqla, bütün Ekran vaxtı məlumatları və icazələri ilə yerli olaraq saxlanılan və buludda sinxronlaşdırılan elementlər, bu özəlliyi söndürdükdən sonra silinəcək.</string>
     <string name="stop_summary">Bu özəlliyi söndürdükdə, bütün Ekran vaxtı statistikaları və məlumatları silinəcək</string>
     <string name="suggestion">Əks-əlaqə</string>
     <string name="summary_max_fps_for_intelligent">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq %s Hz-ə qədər tənzimləyin</string>
@@ -662,7 +662,7 @@
     <string name="time_over_today">"Bugünlük
 vaxt qalmadı"</string>
     <string name="time_over_today_use">"Bugünkü seanslar: "</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="title_activity_easy_mode">Lite rejimi</string>
@@ -705,7 +705,7 @@ vaxt qalmadı"</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">%1s üçün qalan ekran vaxtı: %2s</string>
     <string name="usage_app_limit_summary">"Limitə çatdıqda seçilmiş tətbiqlər əlçatmaz olacaq"</string>
     <string name="usage_app_limit_title">Ekran vaxtını məhdudlaşdır</string>
-    <string name="usage_app_other_settings">Əlavə tənzimləmələr</string>
+    <string name="usage_app_other_settings">Əlavə ayarlar</string>
     <string name="usage_app_over_content">"Bu tətbiqi bu gün artıq %s istifadə etdiniz."</string>
     <string name="usage_app_over_summary">"Limitə çatdınız. Vaxt bitdi!"</string>
     <string name="usage_app_set_limit_time">Limit təyin et</string>
@@ -801,7 +801,7 @@ Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı 
     <string name="usage_new_home_week_unlock_equals_text">Əvvəlki həftə ilə eyni</string>
     <string name="usage_new_home_week_usage_title">Fərdi tətbiqlər</string>
     <string name="usage_new_home_which_week">Həftə %d</string>
-    <string name="usage_no_net_summary">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="usage_no_net_summary">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="usage_optional_summary">"Əlavə özəllikləri istifadə edərkən bu icazələr tələb olunur."</string>
     <string name="usage_optional_title">İxtiyari icazələr</string>
     <string name="usage_permisison_agree_desc_o">Sizi Ekran vaxtı statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı.</string>

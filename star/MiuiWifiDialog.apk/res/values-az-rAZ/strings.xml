@@ -101,7 +101,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="decline">Rədd et</string>
     <string name="dlg_ok">Oldu</string>
     <string name="early_morning">Səhər</string>
@@ -369,7 +369,7 @@
     <string name="wifi_ca_cert_notification_preT_message">%1$s şəbəkəsinin bir sertifikatı əskikdir. Sertifikatların necə əlavə edildiyini öyrənmək üçün toxunun.</string>
     <string name="wifi_ca_cert_notification_preT_title">"Bu şəbəkə doğrulana bilmir"</string>
     <string name="wifi_ca_cert_notification_title">Şəbəkənin doğrulanması lazımdır</string>
-    <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik tənzimləmələrini dəyişdirmək və yenidən sınamaq üçün toxunun</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik ayarlarını dəyişdirib yenidən sınamaq üçün toxunun</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"%1$s ilə bağlantı qurula bilmir"</string>
     <string name="wifi_connect_alert_message">%1$s tətbiqi %2$s Wi-Fi şəbəkəsinə bağlanmaq istəyir</string>
     <string name="wifi_connect_alert_title">Bağlantıya icazə verilsin?</string>
@@ -394,7 +394,7 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_eap_error_message_code_32766">%1$s : EAP kimlik doğrulama xətası 32766</string>
     <string name="wifi_eap_error_message_code_32767">%1$s : EAP kimlik doğrulama xətası 32767</string>
     <string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP kimlik doğrulama xətası, bilinməyən xəta kodu</string>
-    <string name="wifi_enable_request_dialog_message">Wi‑Fi-ı Cəld Tənzimləmələrdə söndürə bilərsiniz</string>
+    <string name="wifi_enable_request_dialog_message">Wi‑Fi-ı \"Cəld Ayarlar\"da söndürə bilərsiniz</string>
     <string name="wifi_enable_request_dialog_negative_button">"İcazə vermə"</string>
     <string name="wifi_enable_request_dialog_positive_button">İcazə ver</string>
     <string name="wifi_enable_request_dialog_title">%1$s üçün Wi‑Fi-ı açma icazəsi verilsin?</string>

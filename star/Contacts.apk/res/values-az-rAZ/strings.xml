@@ -237,7 +237,7 @@
     <string name="bind_simcard_default">Zənglər üçün ilkin SIM</string>
     <string name="bind_simcard_menu">Zənglər üçün ilkin SIM olaraq tənzimlə</string>
     <string name="bind_simcard_no_dual">"İkili SIM tapıla bilmədi"</string>
-    <string name="bind_simcard_not_set">Tənzimlənmədi</string>
+    <string name="bind_simcard_not_set">Ayarlanmadı</string>
     <string name="bind_simcard_title">Zənglər üçün ilkin SIM</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı yarımçıq kəsildi</string>
     <string name="blurbJoinContactDataWith">%s ilə birləşdirmək istədiyiniz kontaktı seçin:</string>
@@ -427,7 +427,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="custom_list_filter">Xüsusi baxışı müəyyənləşdir</string>
     <string name="custom_nickname_hint">Ləqəbi daxil edin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_year_toggle">İli daxil edin</string>
     <string name="default_ringtone">İlkin zəng səsi</string>
     <string name="deleteCloudConfirmationDetail">%s kontakt məlumatları Cloud-dan və bu cihazdan silinsin?</string>
@@ -622,7 +622,7 @@ Səbəb: \"%s\""</string>
     <string name="hide_app_description_title">\"Kontaktlar\" Əsas ekrandan silinsin?</string>
     <string name="hint_findContacts">Kontaktları axtar</string>
     <string name="hint_more_contact">Dublikat kontaktları birləşdir</string>
-    <string name="hybrid_check_network">Şəbəkə tənzimləmələri</string>
+    <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
     <string name="hybrid_network_unavaliable">"Şəbəkəyə bağlana bilmir"</string>
@@ -854,7 +854,7 @@ Səbəb: \"%s\""</string>
     <string name="non_phone_close">Bağla</string>
     <string name="noon">Günorta</string>
     <string name="not_applied">"Tətbiq edilə bilmədi"</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_click_detail">Detallara baxmaq üçün toxunun</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud bəzi kontaktlarınızı silmək istəyir</string>
     <string name="notification_missedCallTitle">Buraxılmış zəng</string>
@@ -1228,7 +1228,7 @@ Səbəb: \"%s\""</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="titleJoinContactDataWith">Kontaktları birləşdir</string>

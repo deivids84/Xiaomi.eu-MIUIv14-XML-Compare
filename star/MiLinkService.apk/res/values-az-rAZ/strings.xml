@@ -68,7 +68,7 @@ və onlarda səs və ya video oxutmaq üçün işə salın"</string>
     <string name="audio_record_des">Səsi mobil cihazınızdan xarici monitorlara ötürmək üçün</string>
     <string name="auth_MIUI_and_phone_model">"Bu səhifə yalnız MIUI 13 Beta testerləri üçün əlçatandır."</string>
     <string name="auth_check_loading">Bir saniyə…</string>
-    <string name="auth_no_user">"Bu səhifə yalnız Beta testerlər üçün əlçatandır. İcazələri sinxronlaşdırmaq üçün Tənzimləmələr &gt; \"Xiaomi Hesabı\"nda Xiaomi Hesabınıza giriş edin."</string>
+    <string name="auth_no_user">"Bu səhifə yalnız Beta testerlər üçün əlçatandır. İcazələri sinxronlaşdırmaq üçün Ayarlar &gt; \"Xiaomi Hesabı\"nda Xiaomi Hesabınıza giriş edin."</string>
     <string name="auth_phone_model">"Bu səhifə bu cihazda görüntülənə bilmir."</string>
     <string name="auth_show_to_test_user">Bu səhifə yalnız Beta testerlər üçün əlçatandır.</string>
     <string name="ball_hint_connect_fail">"Bu əməliyyat icra edilə bilmir. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -176,7 +176,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_headset_control_battery_case">Qutu</string>
     <string name="circulate_headset_control_battery_left">Sol</string>
     <string name="circulate_headset_control_battery_right">Sağ</string>
-    <string name="circulate_headset_control_more_settings">Əlavə tənzimləmələr</string>
+    <string name="circulate_headset_control_more_settings">Əlavə ayarlar</string>
     <string name="circulate_headset_duplicate_cancel">İmtina</string>
     <string name="circulate_headset_duplicate_dialog_message">Deyəsən, başqa qulaqlıq dəsti %1$s cihazınıza bağlanıb. Onları hazırkı dəstlə əvəz etmək istəyirsiniz?</string>
     <string name="circulate_headset_duplicate_dialog_title">%1$s cihazına bağlanmış qulaqlıqları əvəz et</string>
@@ -235,7 +235,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="copy">Kopyala</string>
     <string name="current_wifi_tv">Hazırkı şəbəkə</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="device_desc_trust">Güvənli cihaz</string>
     <string name="device_type_name_pad">Planşet</string>
     <string name="device_type_name_phone">Telefon</string>
@@ -603,7 +603,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="normal_device_desc_limit">"Bağlantı qurub güvənli olaraq işarələmədiyiniz cihazlar"</string>
     <string name="normal_device_none">Burada daha əvvəl bağlantı qurduğunuz cihaz yoxdur</string>
     <string name="normal_device_title">Güvənli cihaz yoxdur</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_cast_desc">Yayımlanır…</string>
     <string name="notification_desc_scanning">Yaxınlıqdakı cihazlar axtarılır…</string>
     <string name="notification_rc_title">XiaoMi TV Köməkçisi</string>
@@ -621,7 +621,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="paipai_connect_btn_text">Hazırdır</string>
     <string name="paipai_connect_tv1_text">Cihaza bağlandı</string>
     <string name="paipai_connect_tv2_text">Köçürülmüş verilənlər</string>
-    <string name="paipai_error_dialog_msg">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="paipai_error_dialog_msg">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="paipai_error_dialog_negative">Anladım</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="path_setting_cast">Bağlantı və paylaşım/Yayım</string>
@@ -775,7 +775,7 @@ Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Raz�
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="tile_label">Yayım</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="toast_guide_show_more">Daha ətraflı</string>

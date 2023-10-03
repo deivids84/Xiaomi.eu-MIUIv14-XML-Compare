@@ -104,7 +104,7 @@ dd/MM"</string>
     <string name="copy">Kopyala</string>
     <string name="custom_image">Özəl təsvir</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="deep_space_planet">Kosmos</string>
     <string name="deep_space_planet_des">Bu tema gün ərzində ətrafınızda baş verən işıq dəyişikliklərini əks etdirir. Gün doğuşu və qürubu da olduğunuz yerlə sinxronlaşdırılır.</string>
     <string name="delete">Sil</string>
@@ -291,7 +291,7 @@ dd/MM"</string>
     <string name="my_style_title">Temam</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_anim_pulse">Yanıb sönmə (Qırmızı)</string>
     <string name="notification_anim_rhythm">Yanıb sönmə (Mavi)</string>
     <string name="notification_anim_star">Ulduz işığı</string>

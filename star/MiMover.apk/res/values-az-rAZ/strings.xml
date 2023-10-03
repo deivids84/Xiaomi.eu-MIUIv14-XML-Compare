@@ -112,7 +112,7 @@ Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra,
     <string name="close_twice_auth_operation">"URL:
 Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını ziyarət edin"</string>
     <string name="close_twice_auth_step_1">1. İstənilən kompüterdə istənilən brauzeri açın və appleid.apple.com ünvanına gedin.</string>
-    <string name="close_twice_auth_step_2">2. İki faktorlu kimlik doğrulamanı sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab tənzimləmələrindən \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
+    <string name="close_twice_auth_step_2">2. İki faktorlu kimlik doğrulamanı sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab ayarlarında \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
     <string name="close_twice_auth_step_3">3. \"İki faktorlu kimlik doğrulamanı söndür\"ə toxunun. Təsdiqləmək üçün yenidən toxunun.</string>
     <string name="close_twice_auth_steps">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndürmək üçün bu addımları izləyin:</string>
     <string name="close_twice_auth_tutor">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndür</string>

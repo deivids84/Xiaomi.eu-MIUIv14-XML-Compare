@@ -76,7 +76,7 @@
     <item>Özəl</item>
   </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Wi-Fi üzərindən zəng etmək və mesaj göndərmək üçün əvvəlcə operatorunuzdan bu xidməti qurmağını xahiş edin. Daha sonra Tənzimləmələrdən \"Wi-Fi zəng etmə\"ni işə salın. (Xəta kodu: %1$s)</item>
+    <item>Wi-Fi üzərindən zəng etmək və mesaj göndərmək üçün əvvəlcə operatorunuzdan bu xidməti qurmağını xahiş edin. Daha sonra Ayarlarda \"Wi-Fi zəng etmə\"ni işə salın. (Xəta kodu: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
     <item>Operatorunuzla Wi-Fi zənginin qeydiyyat problemi: %1$s</item>

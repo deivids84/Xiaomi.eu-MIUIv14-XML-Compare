@@ -190,7 +190,7 @@ siyahısına əlavə edildi"</string>
     <string name="copy_verification_code_tip">Uğurla kopyalandı</string>
     <string name="current_data_version">Mi Mesaj versiyası</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="debug_about_mms">MMS haqqında</string>
     <string name="debug_category_db">Verilənlər bazası</string>
     <string name="debug_category_others">Digərləri</string>
@@ -318,7 +318,7 @@ siyahısına əlavə edildi"</string>
     <string name="hold_to_talk">Danışmaq üçün basın</string>
     <string name="home_tab_ad">Tanıtım</string>
     <string name="home_tab_common">Müntəzəm</string>
-    <string name="hybrid_check_network">Şəbəkə tənzimləmələri</string>
+    <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
     <string name="hybrid_network_unavaliable">"Şəbəkəyə bağlana bilmir"</string>
@@ -540,14 +540,14 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="no_conversations">Danışıq yoxdur</string>
     <string name="no_delivery_report">Çatdırılma hesabatı yoxdur</string>
     <string name="no_dialogue_yet">Bir danışıq seçin</string>
-    <string name="no_network_description">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="no_network_description">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="no_subject">(Mövzu yoxdur)</string>
     <string name="no_subject_view">(Mövzu yoxdur)</string>
     <string name="non_english_subject_limit">13 simvol</string>
     <string name="noon">Günorta</string>
     <string name="nosend_message">"Göndərilmədi"</string>
     <string name="not_prepare_for_send">Göndəriləcək mesaj yoxdur</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_audio_forward">"Səsli mesajlar yönləndirilə bilmir"</string>
     <string name="not_support_file">"Bu növ fayllar göndərilə bilmir"</string>
     <string name="notes_not_found">Əvvəlcə \"Qeydlər\"i quraşdırın</string>
@@ -596,7 +596,7 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="play">Oxut</string>
     <string name="playing_failed">"Oynadıla bilmir"</string>
     <string name="pm">GS</string>
-    <string name="pref_advanced_settings_title">Əlavə tənzimləmələr</string>
+    <string name="pref_advanced_settings_title">Əlavə ayarlar</string>
     <string name="pref_allow_network_access_summary">Çatdırılma və digər xidmətlər üzrə ən son məlumatları alın</string>
     <string name="pref_cell_broadcast">Fövqəladə hal xəbərdarlıqları</string>
     <string name="pref_collapse_sp_messages_summary">SMS bildirişlərini avtomatik qruplaşdır</string>
@@ -608,7 +608,7 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="pref_mms_settings_title">Multimedia (MMS) mesajları</string>
     <string name="pref_msg_trash_bin_title">Silinmiş mesajlar</string>
     <string name="pref_notification_settings_title">Bildirişlər</string>
-    <string name="pref_other_title">Əlavə tənzimləmələr</string>
+    <string name="pref_other_title">Əlavə ayarlar</string>
     <string name="pref_rcs_show_report_message">Çatdırılma hesabatlarını al</string>
     <string name="pref_rcs_show_report_message_tip">Mesajlarınız digər şəxsə çatdırıldıqda hesabat alın</string>
     <string name="pref_show_blocked_messages_summary">Danışıqlar siyahısında əngəllənmiş SMS-ləri göstər</string>
@@ -704,7 +704,7 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="privacy_policy_name_mms">Mesajlaşma</string>
     <string name="privacy_policy_name_smart_sms">Ağıllı Mesajlaşma</string>
     <string name="privacy_policy_name_websms">Mi Mesaj</string>
-    <string name="privacy_revoke_nonetwork_msg">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="privacy_revoke_nonetwork_msg">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="privacy_revoke_nonetwork_ok">Anladım</string>
     <string name="privacy_revoke_nonetwork_title">"Şəbəkəyə bağlana bilmir"</string>
     <string name="privacy_state_revoked_cancel">İmtina</string>
@@ -723,7 +723,7 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="quick_reply">Cavabla</string>
     <string name="rate_limit_surpassed">Oldu</string>
     <string name="rcs_auto_resend_as_sms_remind_change">Tənzimləmələri dəyişdir</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">"Şəbəkə zəif olduqda 900B-ə qədər olan mesajlar çevrilib SMS olaraq göndərilə bilər. Mesajlarınızı SMS-ə çevirmək istəmirsinizsə, \"Tənzimləmələri dəyişdir\"ə toxunun."</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">"Şəbəkə zəif olduqda 900B-ə qədər olan mesajlar çevrilib SMS olaraq göndərilə bilər. Mesajlarınızı SMS-ə çevirmək istəmirsinizsə, \"Ayarları dəyişdir\"ə toxunun."</string>
     <string name="rcs_auto_resend_as_sms_remind_title">SMS-ə çevir</string>
     <string name="rcs_auto_resend_mms">MMS-ə çevir</string>
     <string name="rcs_auto_resend_sms">SMS-ə çevir</string>
@@ -752,7 +752,7 @@ Mobil interneti açın və bu səhifəni yenidən açın."</string>
     <string name="rcs_chatbot_my_tab_empty">"Hələlik burada heç nə yoxdur.
 Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_chatbot_near_tab_empty">Burada hələ heç nə yoxdur</string>
-    <string name="rcs_chatbot_net_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="rcs_chatbot_net_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="rcs_chatbot_no_waring">Səssiz mesaj bildirişləri</string>
     <string name="rcs_chatbot_normal_message">Bir mesaj aldınız. Detallara baxmaq üçün toxunun.</string>
     <string name="rcs_chatbot_notification">[Chatbot] %s</string>
@@ -817,7 +817,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_more_bar_title">Detallar</string>
     <string name="rcs_msg">5G Mesajlaşma</string>
     <string name="rcs_my_black_chatbot_title">Əngəlli siyahısı</string>
-    <string name="rcs_not_online">"5G Mesajlaşma istifadə edilə bilmir. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="rcs_not_online">"5G Mesajlaşma istifadə edilə bilmir. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="rcs_offline">\"5G Mesajlaşma\"da daxil olmadı. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="rcs_offline_hint">"5G Mesajlaşma xətdən kənardadır. Bu mesaj yönləndirilə bilmir."</string>
     <string name="rcs_pref_category_rcs">RCS mesajlaşma</string>
@@ -849,7 +849,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_summary_silence_message">Masaüstü müştərisi işləyərkən mesaj bildirişlərini susdur</string>
     <string name="rcs_unable_send_file">"Bu fayl göndərilə bilmədi"</string>
     <string name="rcs_unavailable">"İndi 5G Mesajlaşma istifadə edilə bilmir. China Mobile SIM kartı ilkin internet kartınız deyil."</string>
-    <string name="rcs_up_not_online">5G Mesajlaşma xətdən kənardadır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="rcs_up_not_online">5G Mesajlaşma oflayndır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="rcs_wait_for_retry_text">Gözləyir…</string>
     <string name="received_label">"Alındı: "</string>
     <string name="recent_label">Son kontakt</string>
@@ -1116,7 +1116,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="title_use_gsm_alphabet">GSM əlifbasını istifadə et</string>
     <string name="to_address_label">"Kimə: "</string>
     <string name="to_send_wrapper">%s göndəriləcək</string>
-    <string name="toast_failed_to_close_priv_auth">"Səlahiyyətləndirmə ləğv edilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="toast_failed_to_close_priv_auth">"Səlahiyyətləndirmə ləğv edilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="toast_new_not_show_microphone_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün mikrofona müraciətinə icazə verin</string>
     <string name="toast_not_show_calendar_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün \"Təqvim\"ə müraciətinə icazə verin</string>
     <string name="toast_not_show_call_log_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün zəng tarixçənizə müraciətinə icazə verin</string>

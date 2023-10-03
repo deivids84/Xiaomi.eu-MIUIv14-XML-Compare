@@ -79,7 +79,7 @@
     <string name="change_default_dialer_warning_message">%s, zəng həyata keçirə və zəngləri hər tərəfdən idarə edə biləcək. Yalnız güvəndiyiniz tətbiqlər ilkin Telefon tətbiqi olaraq tənzimlənməlidir.</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Söndür</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="decline_incoming_call">Rədd et</string>
     <string name="delete_icon_description">Əngəldən çıxart</string>
     <string name="developer_enhanced_call_blocking">Təkmilləşdirilmiş Zəng Əngəlləmə</string>

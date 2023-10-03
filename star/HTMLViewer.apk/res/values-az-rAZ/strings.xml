@@ -41,7 +41,7 @@
     <string name="close">Bağla</string>
     <string name="copyright">Müəllif hüquqları</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -214,7 +214,7 @@ digər bağlantılı cihazda %s ünvanına gedin."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

@@ -67,7 +67,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="copy">Kopyala</string>
     <string name="current_cloud_addr_is">Bulud nəzarət serverinin ünvanı:</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_data_confirm">Bu element indi silinsin?</string>
     <string name="early_morning">Səhər</string>
     <string name="empty_title_apps_container_list">Tətbiq yoxdur</string>
@@ -220,7 +220,7 @@ Batareya qənaəti, vacib tətbiqləri seçici şəkildə idarə edəcək."</str
     <string name="nonui_mode_config_description">"MIUI, cihazınızı istifadə etmədiyinizi aşkarlayanda, bildirişlər üçün ekran işığı yandırılmır, LED işığı, barmaq izi sensoru və toxunuş kontrolları batareyaya qənaət etmək üçün söndürülür."</string>
     <string name="nonui_mode_config_title">Qeyri-interaktiv rejim</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permstep_description">Bu tətbiqin addım sayına müraciətinə icazə verin</string>
     <string name="permstep_label">Addım sayına müraciət</string>

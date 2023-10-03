@@ -23,7 +23,7 @@
     <string name="application_cannot_open_weixin_scanner">"WeChat skaneri açıla bilmədi"</string>
     <string name="application_not_install_content">"Deyəsən, bu əməliyyatı icra edəcək tətbiq cihazınızda quraşdırılmayıb. Tətbiqi quraşdıra və ya bu jest üçün başqa bir əməliyyat təyin edə bilərsiniz."</string>
     <string name="apply_password_action">Oldu</string>
-    <string name="apply_password_confirm_dlg_msg">%s tənzimləmələrə müraciət etmək üçün hazırkı kilid ekranı parolunuzu istifadə edin.</string>
+    <string name="apply_password_confirm_dlg_msg">%s ayarlarına müraciət etmək üçün hazırkı kilid ekranı parolunuzu istifadə edin.</string>
     <string name="apply_password_confirm_dlg_title">%s parolu</string>
     <string name="arcticanimals_preview">Arktika</string>
     <string name="asend">Göndər</string>
@@ -45,7 +45,7 @@
     <string name="autofill">Avto-doldurma</string>
     <string name="autofill_save_message">MIUI-ya hesablarınızı və parollarınızı saxlama icazəsi verilsin?</string>
     <string name="autofill_save_ok">İcazə ver</string>
-    <string name="autofill_save_sub_message">"Saxlanılmış parollarınızı Tənzimləmələr &gt; Parollar və güvənlik &gt; %s menyusunda idarə edə bilərsiniz."</string>
+    <string name="autofill_save_sub_message">"Saxlanılmış parollarınızı Ayarlar &gt; Parollar və güvənlik &gt; %s menyusunda idarə edə bilərsiniz."</string>
     <string name="autofill_save_title">Parolları avtomatik saxla</string>
     <string name="autofill_service_name">Parolları idarə et</string>
     <string name="back_double_tap">İki dəfə geri düyməsinə toxun</string>
@@ -160,7 +160,7 @@
     <string name="file_sending">Fayllar köçürülür…</string>
     <string name="fingerprint_double_tap">Barmaq izi sensoruna iki dəfə toxun</string>
     <string name="fireflies">İşıldaböcək</string>
-    <string name="first_back_long_press_message">Naviqasiya düymələrinə özəl basma və basılı tutma əməliyyatlarını tənzimləmək üçün Ayarlar &gt; Əlavə ayarlar &gt; \"Düymələr\"ə gedin</string>
+    <string name="first_back_long_press_message">Naviqasiya düymələrinə özəl basma və basılı tutma əməliyyatlarını ayarlamaq üçün Ayarlar &gt; Əlavə ayarlar &gt; \"Düymələr\"ə gedin</string>
     <string name="flip_screen_camera_tip">Kameranı istifadə etmək üçün cihazı çevirin</string>
     <string name="flute">Fleyta</string>
     <string name="fm_record_smaple_prefix_miui">FM səsyazmaları</string>
@@ -305,8 +305,8 @@
     <string name="miui_multiwindow_not_support_split">"%1$s, bölünmüş ekranı dəstəkləmir"</string>
     <string name="miui_screen_ratio_hint">Ekran nisbəti problemləri</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"Təkrar göstərmə"</string>
-    <string name="miui_screen_ratio_hint_go_to_settings">Tənzimləmələrə get</string>
-    <string name="miui_screen_ratio_hint_message">Bu tətbiq, görüntüləmə problemlərinə səbəb olacaq tam ekranda işləmə icazəsinə sahibdir. Bunu Tənzimləmələr &gt; \"Tam ekran\"da dəyişdirə bilərsiniz.</string>
+    <string name="miui_screen_ratio_hint_go_to_settings">Ayarlara get</string>
+    <string name="miui_screen_ratio_hint_message">Bu tətbiqin tam ekranda işləmə icazəsi var, bu da onun yanlış görüntülənməsinə səbəb ola bilər. Bunu Ayarlar &gt; \"Tam ekran görünüşü\"ndə dəyişdirə bilərsiniz.</string>
     <string name="miui_screen_ratio_hint_ok">Oldu</string>
     <string name="miui_upgrading_notification_title">Sistem yüklənir, bəzi özəlliklər mövcud olmaya bilər.</string>
     <string name="miui_warning_button_cancel">İmtina</string>
@@ -417,7 +417,7 @@
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung_phone">Samsung telefonu</string>
-    <string name="sc_notification_warning_content">"Tətbiq düzgün görüntülənmirsə, ilkin görünüşünü bərpa edə və ya Tənzimləmələrdə tətbiq görüntüləmə tərcihlərini dəyişdirə bilərsiniz."</string>
+    <string name="sc_notification_warning_content">"Tətbiq yanlış görüntülənirsə, ilkin görünüşünü bərpa edə və ya Ayarlarda tətbiq görüntüləmə tərcihlərini dəyişdirə bilərsiniz."</string>
     <string name="sc_notification_warning_restore">Bərpa et</string>
     <string name="sc_notification_warning_settings">Ayarlar</string>
     <string name="sc_notification_warning_title">Tətbiq görüntüləmə tərcihləri</string>
@@ -431,10 +431,10 @@
     <string name="screen_on_proximity_sensor_summary">"Qulaqlıq sahəsini örtməyin"</string>
     <string name="screen_on_proximity_sensor_summary_for_kddi">"Bildiriş işıq sensorunu örtməyin"</string>
     <string name="screen_on_proximity_sensor_title">Cib rejimi</string>
-    <string name="screen_paper_mode_enter_toast">Oxuma rejimi açıqdır. Bu özəlliyi bağlamaq üçün, Tənzimləmələr &gt; Ekran &gt; \"Oxuma rejimi\"nə gedin.</string>
+    <string name="screen_paper_mode_enter_toast">Oxuma rejimi açıqdır. Bu özəlliyi bağlamaq üçün Ayarlar &gt; Ekran &gt; \"Oxuma rejimi\"nə gedin.</string>
     <string name="screen_rotation_freeze_message">Avto-döndərmə sıradan çıxarıldı.</string>
     <string name="screen_shot">Ekran şəkli çək</string>
-    <string name="screenshot_gesture_detect_alert_button">Tənzimləmələrdə açın</string>
+    <string name="screenshot_gesture_detect_alert_button">Ayarlarda işə sal</string>
     <string name="screenshot_gesture_detect_alert_dont_again">"Təkrar göstərmə"</string>
     <string name="screenshot_gesture_detect_alert_msg">Üç barmaqla aşağı sürüşdürərək ekran şəkli çəkilsin?</string>
     <string name="screenshot_gesture_detect_alert_title">Üç barmaqla ekran şəkli</string>

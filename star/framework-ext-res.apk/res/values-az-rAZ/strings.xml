@@ -160,7 +160,7 @@
     <string name="file_sending">Fayllar köçürülür…</string>
     <string name="fingerprint_double_tap">Barmaq izi sensoruna iki dəfə toxun</string>
     <string name="fireflies">İşıldaböcək</string>
-    <string name="first_back_long_press_message">Naviqasiya düymələrinə özəl basma və basılı tutma əməliyyatlarını tənzimləmək üçün Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; \"Düymələr\"ə gedin</string>
+    <string name="first_back_long_press_message">Naviqasiya düymələrinə özəl basma və basılı tutma əməliyyatlarını tənzimləmək üçün Ayarlar &gt; Əlavə ayarlar &gt; \"Düymələr\"ə gedin</string>
     <string name="flip_screen_camera_tip">Kameranı istifadə etmək üçün cihazı çevirin</string>
     <string name="flute">Fleyta</string>
     <string name="fm_record_smaple_prefix_miui">FM səsyazmaları</string>
@@ -168,7 +168,7 @@
     <string name="force_exit_message">%1$s məcburi bağlanıldı</string>
     <string name="force_exit_skip_message">"Sistem tərəfindən tələb olunduğuna görə %1$s bağlanıla bilmir."</string>
     <string name="fourhours">2 saat</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Əsas ekran düyməsinə yüngülcə toxunaraq Əsas ekranınıza qayıda bilərsiz. Bu özəlliyi Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Düymələr &gt; \"Əsas ekrana qayıtmaq üçün Əsas ekran düyməsinə toxun\"da aça və bağlaya bilərsiz.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Əsas ekran düyməsinə yüngülcə toxunaraq Əsas ekranınıza qayıda bilərsiz. Bu özəlliyi Ayarlar &gt; Əlavə ayarlar &gt; Düymələr &gt; \"Əsas ekrana qayıtmaq üçün Əsas ekran düyməsinə toxun\"da aça və bağlaya bilərsiz.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">İndi yox</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
     <string name="fp_nav_center_action_choose_dlg_title">Cəld toxunmanı aç</string>
@@ -198,7 +198,7 @@
     <string name="guitar">Gitara</string>
     <string name="hallofmemories">Xatirələr</string>
     <string name="handset_text_unsupported_handset_insert">Detallara baxmaq üçün toxunun</string>
-    <string name="handset_text_usb_handset_insert">Əlavə tənzimləmələri açmaq üçün toxunun</string>
+    <string name="handset_text_usb_handset_insert">Əlavə ayarları açmaq üçün toxunun</string>
     <string name="handset_title_unsupported_handset_insert">"USB qulaqlıq adapterləri dəstəklənmir"</string>
     <string name="handset_title_usb_handset_insert">USB üzərindən səs oxudulur</string>
     <string name="handy_mode_enter_dlg_msg">Təl əl rejiminə daxil olunsun?</string>
@@ -280,7 +280,7 @@
     <string name="long_press_volume_down">Səs azaltma düyməsinə uzun bas</string>
     <string name="magic_window_toast">Tətbiq Multiplikatoru fəaldır.</string>
     <string name="makewishes">Doğum günü arzusu</string>
-    <string name="maml_component_customization_title">Tənzimləmələr</string>
+    <string name="maml_component_customization_title">Ayarlar</string>
     <string name="martix">Matriks</string>
     <string name="memory_clear_nothing_result">Keşdə təmizlənəcək heç nə yoxdur</string>
     <string name="memory_clear_result">%1$sB təmizləndi</string>
@@ -419,7 +419,7 @@
     <string name="samsung_phone">Samsung telefonu</string>
     <string name="sc_notification_warning_content">"Tətbiq düzgün görüntülənmirsə, ilkin görünüşünü bərpa edə və ya Tənzimləmələrdə tətbiq görüntüləmə tərcihlərini dəyişdirə bilərsiniz."</string>
     <string name="sc_notification_warning_restore">Bərpa et</string>
-    <string name="sc_notification_warning_settings">Tənzimləmələr</string>
+    <string name="sc_notification_warning_settings">Ayarlar</string>
     <string name="sc_notification_warning_title">Tətbiq görüntüləmə tərcihləri</string>
     <string name="sc_relaunch_dialog_message">Bu tətbiq bu ekranda düzgün görüntülənməyə bilər. Düzümləri nizamlamaq üçün tətbiqi yenidən başladın.</string>
     <string name="scanning_device_tips">Yaxınlıqdakı cihazlar axtarılır… Digər cihazların kəşf edilə bilən rejimdə olduğuna əmin olun.</string>
@@ -441,8 +441,8 @@
     <string name="secretgarden">Gizli bağ</string>
     <string name="security_permission_denied_text">Müraciət rədd edildi</string>
     <string name="security_permission_failed_text">Xəta baş verdi, daha sonra yenidən sınayın</string>
-    <string name="security_permission_network_failed_text">"Şəbəkə ilə bağlantı qurula bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="security_permission_open_wifi_settings">Wi-Fi tənzimləmələrini aç</string>
+    <string name="security_permission_network_failed_text">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="security_permission_open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="security_permission_validate_warning">MIUI-ni daha yaxşı etməyə kömək etdiyiniz üçün təşəkkür edirik!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi və mobil internet açıldı</string>
     <string name="security_permission_xiaomi_account_missed_text">Xiaomi Hesab Kimliyinizi daxil edin</string>
@@ -468,7 +468,7 @@
     <string name="slavewifi">İki bantlı Wi-Fi</string>
     <string name="slavewifi_disconnect">Bağlantını kəs</string>
     <string name="slavewifi_notification_title">İki bantlı Wi-Fi istifadə edilir</string>
-    <string name="slavewifi_settings">Tənzimləmələri dəyişdirmək üçün toxunun</string>
+    <string name="slavewifi_settings">Ayarları dəyişdirmək üçün toxunun</string>
     <string name="small_freeform_check_memory_exception_message">%1$s yaddaş xətasına səbəb oldu. Gecikməni önləmək üçün bu tətbiqi bağlayın.</string>
     <string name="small_freeform_check_memory_exception_negative_message">İmtina</string>
     <string name="small_freeform_check_memory_exception_positive_message">Bağla</string>

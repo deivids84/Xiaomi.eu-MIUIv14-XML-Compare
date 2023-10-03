@@ -397,7 +397,7 @@ seçimi"</string>
     <string name="keywords">sistem fəaliyyəti, izləmə, performans</string>
     <string name="keywords_adb_wireless">adb, sazlama, dev</string>
     <string name="keywords_alarms_and_reminders">cədvəl, zəngli saat, xatırladıcı, saat</string>
-    <string name="launch_defaults_none">İlkin tərcihlər tənzimlənməyib</string>
+    <string name="launch_defaults_none">Heç bir ilkin dəyər ayarlanmadı</string>
     <string name="launch_defaults_some">Bəzi ilkin tərcihlər tənzimlənib</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
@@ -442,7 +442,7 @@ seçimi"</string>
     <string name="local_backup_password_summary_none">Masaüstü tam nüsxələmələri hal-hazırda qorunmur</string>
     <string name="local_backup_password_title">Masaüstü nüsxələmə parolu</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və təsdiq uyğun gəlmir</string>
-    <string name="local_backup_password_toast_success">Yeni nüsxə parolu tənzimləndi</string>
+    <string name="local_backup_password_toast_success">Yeni nüsxə parolu ayarlandı</string>
     <string name="local_backup_password_toast_validation_failure">Nüsxə parolunu ayarlama uğursuz oldu</string>
     <string name="long_traces">Uzun izlər</string>
     <string name="long_traces_summary">Cihaz anbarında davamlı olaraq saxlanıldı</string>
@@ -470,7 +470,7 @@ seçimi"</string>
     <string name="mobile_data_always_on">Mobil internet həmişə aktiv</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi aktiv olsa belə mobil interneti həmişə aktiv saxla (şəbəkələr arasında sürətli keçid etmək üçün).</string>
     <string name="mock_location_app">Saxta yerləşmə tətbiqini seçin</string>
-    <string name="mock_location_app_not_set">Saxta yerləşmə tətbiqi tənzimlənməyib</string>
+    <string name="mock_location_app_not_set">Heç bir saxta yerləşmə tətbiqi ayarlanmadı</string>
     <string name="mock_location_app_set">Saxta yerləşmə tətbiqi: %1$s</string>
     <string name="mr_button_content_description">Yayım</string>
     <string name="mr_cast_button_connected">Yayım. Bağlantılıdır</string>
@@ -595,7 +595,7 @@ seçimi"</string>
     <string name="screen_zoom_summary_large">Böyük</string>
     <string name="screen_zoom_summary_small">Kiçik</string>
     <string name="screen_zoom_summary_very_large">Daha böyük</string>
-    <string name="search_menu">Tənzimləmələrdə axtar</string>
+    <string name="search_menu">Ayarlarda axtar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="select_application">Tətbiq seçin</string>
     <string name="select_logd_size_dialog_title">Hər jurnal buferi üçün Jurnal qeydiyyatçısı ölçülərini seçin</string>

@@ -118,7 +118,7 @@
     <string name="crbt_second_hold_prompt_conference">Konfrans zəngi gözləmədədir…</string>
     <string name="crbt_second_hold_prompt_no_name">Əvvəlki zəng gözləmədədir…</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="description_icon_sim_card">SIM %1$d</string>
     <string name="description_image_button_answer">Cavabla</string>
     <string name="description_image_button_dialpad">Nömrə paneli</string>
@@ -377,7 +377,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

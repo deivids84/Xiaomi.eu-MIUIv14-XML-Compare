@@ -31,7 +31,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="always_on_disconnected_message">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. Telefonunuz, %1$s ilə təkrar bağlantılı olana qədər hər kəsə açıq bir şəbəkə istifadə edəcək."</string>
     <string name="always_on_disconnected_message_lockdown">"%1$s daim bağlantılı qalacaq formada qurulub, ancaq indi bağlantı qurula bilmir. VPN təkrar bağlantılı olana qədər bağlantınız olmayacaq."</string>
-    <string name="always_on_disconnected_message_settings_link">VPN tənzimləmələrini dəyişdir</string>
+    <string name="always_on_disconnected_message_settings_link">VPN ayarlarını dəyişdir</string>
     <string name="always_on_disconnected_title">"Həmişə açıq VPN-ə bağlana bilmir"</string>
     <string name="am">GƏ</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -146,7 +146,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

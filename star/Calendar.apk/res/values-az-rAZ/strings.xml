@@ -88,7 +88,7 @@
     <string name="birthday_saved">Doğum günü saxlanıldı</string>
     <string name="birthday_term">doğum günü</string>
     <string name="button_record_menstruation">Qeyd</string>
-    <string name="calendar_account_settings">Hesab tənzimləmələri</string>
+    <string name="calendar_account_settings">Hesab ayarları</string>
     <string name="calendar_permission_desc">Tədbirləri idarə et</string>
     <string name="calendar_privacy_policy">Gizlilik Siyasəti</string>
     <string name="can_not_create_long_event">Tədbir adı çox uzundur</string>
@@ -176,7 +176,7 @@
     <string name="date_jump_hint">Birbaşa müəyyən tarixə gedin</string>
     <string name="date_jump_title">Tarixə get</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_today">" (bu gün)"</string>
     <string name="date_view">Tarix</string>
     <string name="day">Gün</string>
@@ -356,7 +356,7 @@
     <string name="install_email_finished">Uğurla quraşdırıldı</string>
     <string name="installing_email">Quraşdırılır…</string>
     <string name="item_num_selected">%1$d element seçildi</string>
-    <string name="language_change_confirmation">Uğurla dəyişdirildi. Dili, Təqvim tənzimləmələrindən dəyişdirə bilərsiniz.</string>
+    <string name="language_change_confirmation">Uğurla dəyişdirildi. Dili, Təqvim ayarlarında dəyişdirə bilərsiniz.</string>
     <string name="launch_weather_comment">Hava durumu məlumatını üçün buraya toxunun</string>
     <string name="load_more_events">%d tədbirə bax</string>
     <string name="load_more_events_default">"Növbəti ilin tədbirlərinə bax"</string>
@@ -397,7 +397,7 @@
     <string name="menstruation_last_start_date">Son menstruasiya başladı</string>
     <string name="menstruation_record">Qeyd edilən periodlar</string>
     <string name="menstruation_select_date">Tarixi seçin</string>
-    <string name="menstruation_setting">Menstruasiya tənzimləmələri</string>
+    <string name="menstruation_setting">Menstruasiya ayarları</string>
     <string name="menstrution_auth_description">Menstruasiya köməkçisi periodları qeyd etməyinizə, yaxınlaşan periodların təxmini tarixlərini müəyyən etməyinizə və xatırladıcılar almağınıza imkan verir. Bütün əlaqəli verilənlər cihazınızın yerli yaddaşında saxlanılır.</string>
     <string name="menu_general_preferences">Ümumi</string>
     <string name="menu_reminder_preferences">Xatırladıcılar</string>
@@ -516,12 +516,12 @@
     <string name="no_events_hint">Tədbir yoxdur</string>
     <string name="no_holiday_selected">"İstirahət günləri seçilmədi"</string>
     <string name="no_internet">"İnternetə bağlana bilmədi"</string>
-    <string name="no_internet_dialog_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="no_internet_dialog_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="no_internet_dialog_title">Xəta baş verdi</string>
     <string name="no_long_holidays">Yaxınlaşan uzun bayram yoxdur</string>
     <string name="no_more_events">Göstəriləcək heç bir tədbir yoxdur</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmədi.
-Şəbəkə tənzimləmələrini yoxlayıb yenidən sınayın."</string>
+Şəbəkə ayarlarını yoxlayıb yenidən sınayın."</string>
     <string name="no_network_btn">Yenidən sına</string>
     <string name="no_records">Burada hələ element yoxdur.</string>
     <string name="no_storage">Yetərli anbar sahəsi yoxdur</string>
@@ -532,7 +532,7 @@
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="not_more_than_three_weekday">%d günə qədər seçə bilərsiniz</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notes_hint">Tapşırıq əlavə etmək üçün toxunun</string>
     <string name="notes_reminders_channel">Qeyd xatırladıcıları</string>
     <string name="notes_settings_summary">Gündəlik tapşırıqları və qeydləri Təqvimə əlavə edin</string>
@@ -686,7 +686,7 @@
     <string name="send">Göndər</string>
     <string name="set_interval">Aralığı tənzimlə</string>
     <string name="set_reminder">Xatırladıcını tənzimlə</string>
-    <string name="setting">Tənzimləmələr</string>
+    <string name="setting">Ayarlar</string>
     <string name="setting_about_calendar_version">Təqvim versiyası:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">MIUI versiyası:</string>
@@ -694,7 +694,7 @@
     <string name="setting_accounts">Təqvim hesabları</string>
     <string name="setting_change_language">Təqvim dilini seçin</string>
     <string name="setting_desc_import_todo">\"Qeydlər\"dən vaxta həssas tapşırıqları daxilə köçürün</string>
-    <string name="setting_features_title">Özəllik tənzimləmələri</string>
+    <string name="setting_features_title">Özəllik ayarları</string>
     <string name="setting_holiday_display_desc">Bayram kartları əsas səhifədə gündəliyinizin altında yerləşir</string>
     <string name="setting_holiday_reminder">Bayram xatırladıcı</string>
     <string name="setting_import_events">Tədbirləri daxilə köçür</string>
@@ -715,7 +715,7 @@
     <string name="short_date_format">dd MMM</string>
     <string name="shortcut_new_event">Tədbir əlavə et</string>
     <string name="shortcut_next_agenda">Növbəti tədbir</string>
-    <string name="shortcut_settings">Tənzimləmələr</string>
+    <string name="shortcut_settings">Ayarlar</string>
     <string name="show_day_view">Günü göstər</string>
     <string name="show_indic_date_summary">Hindistan dillərindən biri sistem dili kimi təyin edildikdə, Hind təqvimi əlçatan olacaq</string>
     <string name="show_menstruation_info">Menstruasiya məlumatlarını göstər</string>
@@ -761,7 +761,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="tab_view_week">Həftə</string>
     <string name="tab_view_year">İl</string>
     <string name="talk_back_read_date">%1$s (%2$s ay təqviminə görə).</string>
-    <string name="talk_back_setting">Tənzimləmələr</string>
+    <string name="talk_back_setting">Ayarlar</string>
     <string name="talk_back_tab_switch">Baxışlar arasında keçid</string>
     <string name="talk_back_tab_switch_language">Təqvim dilini seçin</string>
     <string name="talkback_bengali">Benqalca</string>
@@ -800,7 +800,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_zone">Saat qurşağı</string>
     <string name="timezone_label">Saat qurşağı</string>
     <string name="title_click_record_menstruation">Period qeyd edin</string>

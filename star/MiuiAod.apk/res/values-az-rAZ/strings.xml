@@ -112,7 +112,7 @@ dd/MM"</string>
     <string name="disable_aod_in_dark_room">Qaranlıqda yatarkən söndür</string>
     <string name="disable_aod_in_power_save_mode">Batareyaya qənaət açıq olanda söndür</string>
     <string name="disable_aod_in_power_save_mode_summary">"Enerjiyə qənaət etmək üçün elementləri göstərmə"</string>
-    <string name="dual_clock_tip">İkili saat açıqdır. Tənzimləmələri açmaq üçün toxunun.</string>
+    <string name="dual_clock_tip">İkili saat açıqdır. Ayarları açmaq üçün toxunun.</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>

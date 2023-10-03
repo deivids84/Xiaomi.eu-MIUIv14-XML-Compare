@@ -38,7 +38,7 @@
     <string name="confirm_reset_message">İlkin tətbiqlərə qaytarılsın?</string>
     <string name="contributors">Töhfəçilər</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>

@@ -54,7 +54,7 @@ Baxmaq üçün toxunun"</string>
     <string name="close_screen_record">Yazı dayandırıldı</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="description_content">"Ekran Yazıcı, sistem səviyyəli yazı imkanları təqdim edir. Davam etsəniz, Ekran Yazıcını istifadə edə bilməyəcəksiniz. Davam etmək üçün təsdiqləyin."</string>
     <string name="description_title">Ekran Yazıcı haqqında</string>
     <string name="deselect_all">Heç birini seçmə</string>
@@ -178,7 +178,7 @@ Baxmaq üçün toxunun"</string>
     <string name="no_recorder_info2">Yazmağa başlamaq üçün düyməyə toxunun</string>
     <string name="no_sound">Səssiz</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_send">Göndər</string>
     <string name="permission_desc">İcazə detalları</string>

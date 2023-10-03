@@ -65,7 +65,7 @@
     <string name="ad_close">Bağla</string>
     <string name="ad_data_exception">Reklam məlumat xətası</string>
     <string name="ad_recommend">Reklamları göstər</string>
-    <string name="ad_setting">Əlavə tənzimləmələr</string>
+    <string name="ad_setting">Əlavə ayarlar</string>
     <string name="add">Əlavə et</string>
     <string name="add_music">Mahnı əlavə et</string>
     <string name="add_songs_manually_bottom">Əlavə et</string>
@@ -232,7 +232,7 @@
     <string name="data_use_desc">Hüquqi sənədlər</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_download">Sil</string>
     <string name="delete_file_as_well">Bu mahnını həmişəlik sil</string>
@@ -313,7 +313,7 @@
     <string name="download_auto_cancel">Sevimliləri endirmə bağlıdır</string>
     <string name="download_auto_message">"Sevimli mahnılarınız Wi-Fi-a bağlananda avtomatik olaraq endiriləcək. Bunu Tənzimləmələrdə dəyişdirə bilərsiniz."</string>
     <string name="download_auto_when_free_network">Yalnız Wi-Fi istifadə et</string>
-    <string name="download_auto_when_free_network_summary">Sevimli mahnılarınız üçün əlavə tənzimləmələr</string>
+    <string name="download_auto_when_free_network_summary">Sevimli mahnılarınız üçün əlavə ayarlar</string>
     <string name="download_complete">Endirmə tamamlandı</string>
     <string name="download_complete_btn">Quraşdırıldı</string>
     <string name="download_complete_start_install">Quraşdırılır…</string>
@@ -339,7 +339,7 @@
     <string name="download_paused_in_power_save_mode">Batareyeya qənaət açıq olanda endirmələrə fasilə verilir</string>
     <string name="download_processing">Endirilir…</string>
     <string name="download_quality">Endirmə keyfiyyəti</string>
-    <string name="download_quality_summary">Endirdiyiniz mahnılar üçün əlavə tənzimləmələr</string>
+    <string name="download_quality_summary">Endirdiyiniz mahnılar üçün əlavə ayarlar</string>
     <string name="download_queued">Növbədədir</string>
     <string name="download_running">Davam edir</string>
     <string name="download_running_percent">Davam edir, %d%%</string>
@@ -415,8 +415,8 @@
     <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
     <string name="exo_controls_hide">Pleyer kontrollarını gizlət</string>
     <string name="exo_controls_next_description">Növbəti</string>
-    <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
-    <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
     <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
@@ -467,7 +467,7 @@
     <string name="fail_to_play">"Mahnı oxudula bilmir"</string>
     <string name="failed_not_access_sd_card">Əvvəlcə SD karta müraciətə icazə verin</string>
     <string name="failed_obtain_permissions">"İcazələr alına bilmədi"</string>
-    <string name="failed_to_connect_hint">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="failed_to_connect_hint">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="failed_to_connect_text">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="fallback_menu_item_copy_link">Keçidi kopyala</string>
     <string name="fallback_menu_item_open_in_browser">Brauzerdə aç</string>
@@ -538,7 +538,7 @@
     <string name="headset_and_audio_effect_category">Qulaqlıqlar və səs effektləri</string>
     <string name="headset_and_audio_effect_summary">Qulaqlıqlar və ekvalayzer</string>
     <string name="headset_and_audio_effect_title">Qulaqlıqlar və səs effektləri</string>
-    <string name="hgm_failed_to_connect_hint">"Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın. Əgər problem hungama server xətasıdırsa, mümkün qədər tez düzəldəcəyik."</string>
+    <string name="hgm_failed_to_connect_hint">"Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın. Əgər problem hungama server xətasıdırsa, mümkün qədər tez düzəldəcəyik."</string>
     <string name="hgm_network_request_error_toast">"Hungama serverlərinə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="hgm_vip_btn_desc">Ödənişsiz sınağı başlat</string>
     <string name="hgm_vip_high_quality">Yüksək keyfiyyətli endirmələr</string>
@@ -916,7 +916,7 @@
     <string name="not_login">Daxil olunmadı</string>
     <string name="not_now">İndi yox</string>
     <string name="not_selected">Bir mahnı seçin</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_documentui">"Sənəd interfeysi bu cihazda dəstəklənmir"</string>
     <string name="notif_title_file_size">Cəmi %1$d</string>
     <string name="notif_title_single_downloading">%1$s endirilir</string>
@@ -964,7 +964,7 @@
     <string name="online_apk_install_failed_with_reason" formatted="false">"Onlayn məzmun yüklənə bilmıdi. Yenidən sınamaq üçün %s toxunun. Xəta kodu: %d."</string>
     <string name="online_apk_install_in_background">Onlayn məzmun arxaplanda yüklənir…</string>
     <string name="online_apk_install_network_change_paused">"Mobil internet istifadə edirsiniz. Hələlik elementlərin yüklənməsinə fasilə verildi. Baxmaq üçün %s toxunun."</string>
-    <string name="online_apk_install_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="online_apk_install_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="online_apk_install_tips">"Bu məzmun provayderinin qoşmasını bir dəfə endirməlisiniz. Növbəti dəfə mahnılara birbaşa müraciət edə biləcəksiniz."</string>
     <string name="online_list_delete_message">Bu pleylistdəki bütün endirilən mahnılar daxili anbardan silinəcək.</string>
     <string name="online_playlist_category">Pleylistlər</string>
@@ -1076,7 +1076,7 @@
     <string name="passport_logout_account">Çıxış et</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
-    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
     <string name="passport_network_timeout">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="passport_next">Növbəti</string>
@@ -1100,7 +1100,7 @@
     <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
-    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
@@ -1126,7 +1126,7 @@
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil ol</string>
     <string name="passport_unknown_error">Bilinməyən xəta</string>
-    <string name="passport_unknown_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
@@ -1201,7 +1201,7 @@
     <string name="preset_music_playlist">Mi Musiqi pleylisti</string>
     <string name="priority_storage">Xarici SD kart istifadə et</string>
     <string name="priority_storage_summary">Xarici SD kart mövcud olduqda avtomatik endir</string>
-    <string name="privacy_authorize_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="privacy_authorize_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="privacy_authorize_revoke_failed">"Səlahiyyət ləğv edilə bilmədi"</string>
     <string name="privacy_authorize_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
     <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
@@ -1561,7 +1561,7 @@ Delta güncəlləmə həcmi: %2$s"</string>
     <string name="you_may_like">Bunları da bəyənə bilərsiniz</string>
     <string name="you_might_like_it">Bəyənə bilərsiniz</string>
     <string name="youtube_download_canl">İmtina</string>
-    <string name="youtube_download_fail_net">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="youtube_download_fail_net">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="youtube_download_fail_source">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="youtube_download_fail_space">"Endirilə bilmədi. Yetərsiz anbar sahəsi."</string>
     <string name="youtube_download_fail_unknown">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>

@@ -122,7 +122,7 @@
     <string name="connect_fail">"Şəbəkə ilə bağlantı qurula bilmədi, yenidən sınayın"</string>
     <string name="content_desc_activity_main_add_city">Şəhər əlavə et</string>
     <string name="content_desc_activity_main_add_city_manage">Şəhərləri idarə et</string>
-    <string name="content_desc_activity_main_more_settings">Daha çox tənzimləmə</string>
+    <string name="content_desc_activity_main_more_settings">Daha çox ayar</string>
     <string name="content_desc_activity_main_page">Səhifə %1$d/%2$d</string>
     <string name="content_desc_back_button">Geri</string>
     <string name="content_desc_city_manage_del">Sil</string>
@@ -320,7 +320,7 @@
     <string name="not_set">Ayarlanmadı</string>
     <string name="notif_aqi_title">Bu gün %2$s üçün HKİ %1$d</string>
     <string name="notif_weather_title">Bu gün %2$s üçün %1$s</string>
-    <string name="other_settings">Digər tənzimləmələr</string>
+    <string name="other_settings">Digər ayarlar</string>
     <string name="pad_keyboard_add_city">Yer әlavә et</string>
     <string name="pad_keyboard_left_switch">Əvvəlki yer</string>
     <string name="pad_keyboard_right_switch">Növbəti yer</string>
@@ -341,8 +341,8 @@
     <string name="privacy_grant_or_revoke_settings">Razılığın geri götürülməsi</string>
     <string name="privacy_grant_success">Səlahiyyət uğurla verildi</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_msg"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz.</Data></string>
-    <string name="privacy_policy_msg_for_gp"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi, tətbiq bağlı ikən və ya istifadə edilmədikdə belə bu özəllikləri əlçatan etmək üçün yerləşmə məlumatları da daxil olmaqla lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz.</Data></string>
+    <string name="privacy_policy_msg"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi, tətbiq bağlı ikən və ya istifadə edilmədikdə belə bu özəllikləri əlçatan etmək üçün yerləşmə məlumatları da daxil olmaqla lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz.</Data></string>
     <string name="privacy_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
     <string name="privacy_settings">Gizlilik Siyasəti</string>
     <string name="pull_fresh_updated">Uğurla güncəlləndi</string>
@@ -467,7 +467,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Birisigün: %1$s</string>

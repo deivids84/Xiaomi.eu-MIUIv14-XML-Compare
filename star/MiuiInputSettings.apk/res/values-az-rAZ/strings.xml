@@ -81,7 +81,7 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_suppression_title">İlkin (Tövsiyə edilən)</string>
     <string name="disable_power_key_long_press_under_keyguard">Güc düyməsi menyusunu söndür</string>
-    <string name="diy_suppression_summary">Səhvən toxunmanın yox sayılacağı kənarlara yaxın ərazinin ölçülərini tənzimlə</string>
+    <string name="diy_suppression_summary">Səhvən toxunmanın yox sayılacağı kənarlara yaxın ərazinin ölçülərini ayarla</string>
     <string name="diy_suppression_title">Özəl</string>
     <string name="double_click_power_key">Güc düyməsinə iki dəfə bas</string>
     <string name="double_click_volume_down_when_lock">Ekran kilidli ikən Səs azaltma düyməsinə iki dəfə bas</string>
@@ -159,14 +159,14 @@
     <string name="global_stylus_title_beta">Yazıçı (Beta)</string>
     <string name="go_to_sleep">Ekranı söndür</string>
     <string name="google_assistant_guide_cancel">İmtina</string>
-    <string name="google_assistant_guide_message">\"Google Köməkçi\"si ilə danışmağa başlamaq üçün Güc düyməsini %s saniyə basılı tutun. Bu qısayol indi tənzimlənsin?</string>
-    <string name="google_assistant_guide_ok">Tənzimlə</string>
+    <string name="google_assistant_guide_message">\"Google Köməkçi\"si ilə danışmağa başlamaq üçün Güc düyməsini %s saniyə basılı tutun. Bu qısayol indi ayarlansın?</string>
+    <string name="google_assistant_guide_ok">Ayarla</string>
     <string name="google_assistant_guide_tip">*Söndürmə menyusunu açmaq üçün Güc düyməsinə %s saniyə basılı tutun.</string>
     <string name="google_assistant_guide_title">Google Köməkçisi</string>
     <string name="google_pay">Google Pay</string>
     <string name="home_app">Başladıcı</string>
     <string name="home_key">Ev</string>
-    <string name="intelligence_suppression_summary">Tutmağınızdan asılı olaraq səhvən toxunmanın yox sayılacağı kənara yaxın ərazinin ölçüsünü dinamik olaraq tənzimlə</string>
+    <string name="intelligence_suppression_summary">Tutmağınızdan asılı olaraq səhvən toxunmanın yox sayılacağı kənara yaxın ərazinin ölçüsünü dinamik olaraq ayarla</string>
     <string name="intelligence_suppression_title">Avtomatik (Tövsiyə edilən)</string>
     <string name="kddi_long_press_power_guide_assistant_message">\"Google Köməkçisi\"ni oyandırmaq üçün Güc düyməsini %s san basılı tutun</string>
     <string name="kddi_long_press_power_guide_assistant_title">\"Google Köməkçisi\"ni oyandır</string>
@@ -403,7 +403,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="saturday_shortest">Şәn</string>
     <string name="screen_key_long_press">Naviqasiya düymələrinə uzun basma</string>
     <string name="screen_key_long_press_action">Tətikləyici funksiya</string>
-    <string name="screen_key_long_press_timeout">Uzun basma vaxtını tənzimlə</string>
+    <string name="screen_key_long_press_timeout">Uzun basma vaxtını ayarla</string>
     <string name="screen_key_position">Naviqasiya düymələri</string>
     <string name="screen_key_press">Naviqasiya düymələrinə basma</string>
     <string name="screen_key_press_action">Tətikləmə funksiyası</string>
@@ -557,7 +557,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="today">Bu gün</string>

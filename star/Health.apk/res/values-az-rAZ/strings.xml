@@ -1010,7 +1010,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="per_time_minutes1">" / dəq"</string>
     <string name="per_time_minutes_heart_rate">" BPM"</string>
     <string name="period">Dövr</string>
-    <string name="permission_check_result">Uğurla tənzimləndi</string>
+    <string name="permission_check_result">Uğurla ayarlandı</string>
     <string name="permission_check_result_failed">"Tənzimlənə bilmədi"</string>
     <string name="permission_manage">İcazələri idarə et</string>
     <string name="permission_tip">Yuxunuzu daha dəqiq izləmək üçün Xiaomi Health-ə aşağıdakı icazələri verin</string>

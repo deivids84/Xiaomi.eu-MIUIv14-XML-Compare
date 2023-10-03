@@ -64,7 +64,7 @@
     <string name="calculator_introduction">Bu tətbiqi hesablamalar, vahidləri və pul vahidlərini çevirmək və ipoteka ödənişlərinizi təxmin etmək üçün istifadə edə bilərsiniz.</string>
     <string name="camera_application_introduction">Bu tətbiqi foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
     <string name="camera_introduction">Kamera tətbiqini foto və video çəkmək üçün istifadə edə bilərsiniz.</string>
-    <string name="carousel_cookies_content"><Data>\"Divar kağızı Karuseli\"ndə təsvirlərə və hekayələrə toxunduqda, onların tam versiyaları brauzerinizdə açılacaq. Güvənli üçüncü tərəf məzmun provayderimiz daha sonra maraqlarınıza uyğun gələn əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq verirsinizsə, onlar bu &lt;a href=\"%1$s\"&gt;Çərəz Siyasətində&lt;/a&gt; açıqlandığı kimi brauzerinizdə çərəzlər yerləşdirəcək. Çərəzləri rədd etsəniz, Divar kağızı Karuseli hələ də işləyəcək, ancaq məzmun və tövsiyələri sizinlə əlaqəli olmaya bilər. İstənilən vaxt Tənzimləmələrdə tərcihlərinizi dəyişdirə bilərsiniz.</Data></string>
+    <string name="carousel_cookies_content"><Data>\"Divar kağızı Karuseli\"ndə təsvirlərə və hekayələrə toxunduqda, onların tam versiyaları brauzerinizdə açılacaq. Güvənli üçüncü tərəf məzmun provayderimiz daha sonra maraqlarınıza uyğun gələn əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq verirsinizsə, onlar bu &lt;a href=\"%1$s\"&gt;Çərəz Siyasətində&lt;/a&gt; açıqlandığı kimi brauzerinizdə çərəzlər yerləşdirəcək. Çərəzləri rədd etsəniz, Divar kağızı Karuseli hələ də işləyəcək, ancaq məzmun və tövsiyələri sizinlə əlaqəli olmaya bilər. İstənilən vaxt Ayarlarda tərcihlərinizi dəyişdirə bilərsiniz.</Data></string>
     <string name="carousel_cookies_subtitle">Çərəzlər, Kilid ekranı təcrübənizi fərdiləşdirməyimizə icazə verir.</string>
     <string name="carousel_cookies_title">Fərdiləşdirilmiş məzmun və çərəzlər</string>
     <string name="carousel_privacy"><Data>\"\"Divar kağızı Karuseli\"ni istifadə etməzdən əvvəl, güvənli üçüncü tərəf xidmət provayderimizin &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
@@ -88,14 +88,14 @@
     <string name="content_description_start">Başlat</string>
     <string name="content_introduction">Məzmun Mərkəzi, çoxsaylı kanallardan məzmunu və xidmətləri yığır. Burada məqalələr oxuya, videolar izləyə, gündəlik seçilmiş elementlərə baxa və məzmun tövsiyələri ala bilərsiniz.</string>
     <string name="continue_to_enable_accessibility">Əlçatımlılığı fəallaşdırmaq üçün iki barmaqla basılı tutun.</string>
-    <string name="cookies_content_one">"\"Divar kağızı Karuseli\"ndəki təsvirlərə və hekayələrə toxunduqda, onların tam versiyalarını brauzerinizdə açacağıq. Güvənilən üçüncü tərəf məzmun provayderimiz Taboola, maraqlarınıza uyğun əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq versəniz, Taboola, Taboola-nın &lt;a href =%1$s&gt;Çərəz Siyasətində&lt;/a&gt; qeyd olunduğu kimi cihazınıza brauzer vasitəsilə çərəzləri yerləşdirəcək. Çərəzlərin istifadəsindən imtina etsəniz, Divar kağızı Karuseli elementləri Kilid ekranınızda görünməyə davam edəcək və tam hekayələr brauzerinizdə açılacaq, ancaq əlavə tövsiyələr sizin üçün xüsusi olaraq seçilməyəcək. Tərcihlərinizi istənilən vaxt Tənzimləmələrdə dəyişdirə bilərsiniz."</string>
+    <string name="cookies_content_one">"\"Divar kağızı Karuseli\"ndəki təsvirlərə və hekayələrə toxunduqda, onların tam versiyalarını brauzerinizdə açacağıq. Güvənilən üçüncü tərəf məzmun provayderimiz Taboola, maraqlarınıza uyğun əlavə məzmun və reklamlar tövsiyə edə bilər. Bu özəlliyin aktivləşdirilməsinə razılıq versəniz, Taboola, Taboola-nın &lt;a href =%1$s&gt;Çərəz Siyasətində&lt;/a&gt; qeyd olunduğu kimi cihazınıza brauzer vasitəsilə çərəzləri yerləşdirəcək. Çərəzlərin istifadəsindən imtina etsəniz, Divar kağızı Karuseli elementləri Kilid ekranınızda görünməyə davam edəcək və tam hekayələr brauzerinizdə açılacaq, ancaq əlavə tövsiyələr sizin üçün xüsusi olaraq seçilməyəcək. Tərcihlərinizi istənilən vaxt Ayarlarda dəyişdirə bilərsiniz."</string>
     <string name="cookies_content_two">"Güvənilən üçüncü tərəf məzmun provayderlərimizin, məzmun tövsiyələrini və reklamları maraqlarınıza görə fərdiləşdirmək məqsədilə çərəzləri istifadə etmələrini istəyib-istəmədiyinizə qərar verin."</string>
     <string name="cookies_title">Fərdiləşdirilmiş məzmun və çərəzlər</string>
     <string name="copy">Kopyala</string>
     <string name="create_shortcut">Əsas ekran qısayolu</string>
     <string name="data_traffic_enable_dialog_title">"İndi Wi-Fi şəbəkəsinə qoşulu deyilsinizsə, cihazınız mobil internet istifadə edəcək. Mobil internet istifadəsi əlavə operator xərcləri yarada bilər."</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="desc_fingerprint">Cihazınızın kilidini açmaq, Mi Pay əməliyyatlarını doğrulamaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
     <string name="desc_international_fingerprint">Cihazınızın kilidini açmaq və ya tətbiq və xidmətlərdə hesaba daxil olmaq üçün barmaq izinizi istifadə edin.</string>
     <string name="diagnose_report">Sistem problemlərini tapmaq və təhlil etmək və istifadəçi təcrübəsini təkmilləşdirmək üçün diaqnostika datalarını göndərin. Belə datalar şəxsi məlumatlar ehtiva edə bilər (məs: IP, yerləşmə və s.)</string>
@@ -108,7 +108,7 @@
     <string name="disagreement_donnot_use_product">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu məhsulu istifadə edə bilməyəcəksiniz. Belə hallarda bu məhsulu istifadə etməməyi seçə bilərsiniz."</string>
     <string name="disagreement_donnot_use_service">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz. Belə hallarda bu xidməti istifadə etməməyi seçə bilərsiniz."</string>
     <string name="disagreement_exit_app">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda Tənzimləmələrdə hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz."</string>
-    <string name="disagreement_fast_pairing_abnormal">"Bu icazələri verməyə razı deyilsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Bu xidməti istənilən vaxt Tənzimləmələr &gt; Bluetooth &gt; Əlavə tənzimləmələr &gt; \"Mi Link\"də işə sala və ya söndürə bilərsiniz."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Bu icazələri verməyə razı deyilsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Bu xidməti istənilən vaxt Ayarlar &gt; Bluetooth &gt; Əlavə ayarlar &gt; \"Mi Link\"də işə sala və ya söndürə bilərsiniz."</string>
     <string name="disagreement_function">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu özəlliyi istifadə edə bilməyəcəksiniz. Belə hallarda bu özəlliyi istifadə etməməyi seçə bilərsiniz."</string>
     <string name="disagreement_location_service">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz."</string>
     <string name="disagreement_location_service_abnormal">"Bu icazələrin verilməsi ilə razılaşmasanız, yerləşmə xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Tənzimləmələr &gt; \"Gizlilik qoruması\"nda yerləşmə xidmətlərini açıb bağlaya bilərsiniz."</string>
@@ -302,7 +302,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="next_fingerprint">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="note_introduction">Bu tətbiq qeydləri yaratmağınıza, onlara baxmağınıza və düzəliş etməyinizə imkan verir.</string>
     <string name="other_settings">Təməl tənzimləmələr</string>
     <string name="other_settings_ad_dialog_agree">İşə sal</string>
@@ -550,7 +550,7 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="skip_gesture_guide_dialog_title">Tam ekran jestləri</string>
     <string name="skip_underline">Bu addımı ötür</string>
     <string name="start_up_slogan">Hər şeyin birləşdiyi yer</string>
-    <string name="summary_not_set">Tənzimlənmədi</string>
+    <string name="summary_not_set">Ayarlanmadı</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>

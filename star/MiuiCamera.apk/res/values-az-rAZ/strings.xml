@@ -579,7 +579,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="custom_watermark_words_input_hint">Mətn daxil edin</string>
     <string name="custom_watermark_words_save_success">Uğurla saxlanıldı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dd_frn_f_t">Ön kameranı istifadə etmək üçün cihazınızı qatlayın</string>
     <string name="dialog_button_accept">Qəbul et</string>
     <string name="dialog_button_back">Geri</string>
@@ -1133,7 +1133,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="no_storage">Kameranı istifadə etməzdən əvvəl SD kartı daxil edin</string>
     <string name="noon">Günorta</string>
     <string name="not_enough_space">SD kart dolub</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="object_track_enable_toast">Bir obyekti seçmək üçün sərhədinin ətrafındakı iki diaqonal nöqtəyə eyni anda toxunun.</string>
     <string name="only_mimoji_multi_window_mode_not_supported">"Bu özəllik çoxlu pəncərə rejimində istifadə edilə bilməz"</string>
     <string name="pad_cannot_connect_camera_twice">"Kameraya hələ də bağlana bilmir. Cihazınızı yenidən başlatmağa çalışın."</string>
@@ -1245,7 +1245,7 @@ və insanları önə çıxarır."</string>
 Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_960_watermark_title">960 FPS filiqranı</string>
     <string name="pref_a_c_f">Sonoqraf</string>
-    <string name="pref_advance_settings">Əlavə tənzimləmələr</string>
+    <string name="pref_advance_settings">Əlavə ayarlar</string>
     <string name="pref_ai_detect">AI aşkarlama</string>
     <string name="pref_audio_denoise_title">Audio səs-küyün azaldılması</string>
     <string name="pref_audio_focus_entry_front">Ön</string>
@@ -1422,7 +1422,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_predictive_shutter_title">Hərəkəti yaxala</string>
     <string name="pref_camera_proximity_lock_summary">Cibə qoyulduqda toxunma jestlərini kilidlə</string>
     <string name="pref_camera_proximity_lock_title">Cib rejimi</string>
-    <string name="pref_camera_quick_settings">Cəld tənzimləmələr</string>
+    <string name="pref_camera_quick_settings">Cəld ayarlar</string>
     <string name="pref_camera_quick_shot_anim_enable_title">Cəld çəkiliş animasiyasını işə sal</string>
     <string name="pref_camera_quick_shot_enable_title">Cəld çəkilişi işə sal</string>
     <string name="pref_camera_rec_type_3d_record">3D səsi</string>

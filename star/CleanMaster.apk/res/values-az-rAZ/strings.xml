@@ -738,9 +738,9 @@
     <string name="privacy_app_desc">Hesab və parol</string>
     <string name="privacy_app_desc_message">Hesab, parollar və mesajlar</string>
     <string name="privacy_app_desc_search">Hesab, parollar və axtarış tarixçəsi</string>
-    <string name="privacy_app_desc_setting">Hesab, parollar və tənzimləmələr</string>
+    <string name="privacy_app_desc_setting">Hesab, parollar və ayarlar</string>
     <string name="privacy_browser_desc">Axtarılmış elementlər</string>
-    <string name="privacy_cache_desc">Hesab, parol, tarixçə, tənzimləmələr və daha çoxu</string>
+    <string name="privacy_cache_desc">Hesab, parol, tarixçə, ayarlar və daha çoxu</string>
     <string name="privacy_cache_empty">Şəxsi verilənlər yoxdur</string>
     <string name="privacy_cache_scaning">Yoxlanılır…</string>
     <string name="privacy_cache_title">Şəxsi məlumatlar</string>

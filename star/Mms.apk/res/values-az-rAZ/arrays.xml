@@ -24,7 +24,7 @@
         <item>2 gün</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Tənzimlənmədi</item>
+        <item>Ayarlanmadı</item>
         <item>1 saat</item>
         <item>6 saat</item>
         <item>12 saat</item>

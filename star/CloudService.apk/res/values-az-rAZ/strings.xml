@@ -217,7 +217,7 @@
     <string name="keybag_set_password_negative">Tənzimlə</string>
     <string name="keybag_set_password_positive">Ekran kilidi istifadə et</string>
     <string name="keybag_set_password_success_get">Anladım</string>
-    <string name="keybag_set_password_success_tip">"Uğurla tənzimləndi. Şifrələnmiş elementlərə müraciət edə bilmək üçün bu parolu digər cihazlarda daxil etməlisiniz."</string>
+    <string name="keybag_set_password_success_tip">"Uğurla ayarlandı. Şifrələnmiş elementlərə müraciət edə bilmək üçün bu parolu digər cihazlarda daxil etməyiniz lazımdır."</string>
     <string name="keybag_set_password_title">Diqqət</string>
     <string name="ks_certificate_udpate_time">Sertifikat güncəlləməsi</string>
     <string name="ks_certificate_version">Seertifikat nömrəsi</string>

@@ -42,7 +42,7 @@
     <string name="create_fail">Baxım rejiminin yaradılması uğursuz oldu, lütfən daha sonra yenidən sınayın</string>
     <string name="create_fail_because_max_user">Sistemdəki maksimum istifadəçi sayına çatıldı, lütfən avatar, cüt açma və ya uşaq rejimi datasını silib yenidən sınayın</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete_maintenance_mode">baxış rejimini sil...</string>
     <string name="disagree">Razı deyiləm</string>
     <string name="early_morning">Səhər</string>
@@ -162,7 +162,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="today">Bu gün</string>

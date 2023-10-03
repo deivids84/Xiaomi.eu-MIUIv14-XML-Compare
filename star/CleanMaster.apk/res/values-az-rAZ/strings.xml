@@ -45,7 +45,7 @@
     <string name="activity_title_residual">Qalıqlar</string>
     <string name="activity_title_scanfinish">Skan tamamlandı</string>
     <string name="activity_title_screenshot">Ekran şəkilləri</string>
-    <string name="activity_title_settings">Tənzimləmələr</string>
+    <string name="activity_title_settings">Ayarlar</string>
     <string name="activity_title_similar_image">Dublikat fotolar</string>
     <string name="activity_title_similar_image_group">Dublikatları sil</string>
     <string name="activity_title_tedious_image">Səhvən çəkilən fotolar</string>
@@ -174,7 +174,7 @@
     <string name="cd_list_item_expanded">genişlənmiş</string>
     <string name="cd_percent">faiz</string>
     <string name="cd_scanning">skan edilir</string>
-    <string name="cd_settings">tənzimləmələr</string>
+    <string name="cd_settings">ayarlar</string>
     <string name="cd_sort_type">sıralama növü</string>
     <string name="clean_master_icon_recall_button_text">Əlavə et</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Xeyr, təşəkkürlər</string>
@@ -227,7 +227,7 @@
     <string name="copy">Kopyala</string>
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dc_activity_title">Dərin təmizlik</string>
     <string name="dc_advise_delete">Boş yer aç</string>
     <string name="dc_group_title_appclean">Tətbiqlər</string>
@@ -421,7 +421,7 @@
     <string name="global_wa_wrapper">Divar kağızları</string>
     <string name="go_to">Davam et</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Aç</string>
-    <string name="goto_set">Tənzimlə</string>
+    <string name="goto_set">Ayarla</string>
     <string name="gps_prompt_context">Mobil şəbəkə ilə endirilsin?</string>
     <string name="gps_prompt_title">Məsləhətlər</string>
     <string name="grabage_rank_title">Bu gün təmizləndi</string>
@@ -607,7 +607,7 @@
     <string name="no_network">"Şəbəkəyə bağlana bilmir, daha sonra yenidən sınayın"</string>
     <string name="no_network_btn">Yenidən sına</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_apk_clean_button_text">Təmizlə</string>
     <string name="notification_checker_installed_apk_hint">Quraşdırdıqdan sonra APK-ları saxlamağa ehtiyac yoxdur</string>
     <string name="notification_checker_picture_hint_a">Keşlənmiş şəkillər həddindən çox yer tuta bilər</string>
@@ -683,7 +683,7 @@
     <string name="open_browser">Brauzerdə aç</string>
     <string name="open_file_error">"Bu faylı açmaq üçün tətbiq tapıla bilmədi"</string>
     <string name="output_videos">Videoları xaricə köçür</string>
-    <string name="permission_dialog_storage_btn1">Tənzimləmələr</string>
+    <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İmtina</string>
     <string name="permission_dialog_storage_content">Təmizləyicinin normal işləməsi üçün daxili anbara müraciət icazəsinə ehtiyacı var. Anbar icazələrini idarə etmək üçün \"Tənzimləmələr\"ə toxunun.</string>
     <string name="permission_dialog_storage_title">Tələb olunan icazələr</string>
@@ -705,11 +705,11 @@
     <string name="powerful_acceleration_toast">"Defraqmentasiya, cihazı istifadə etmədiyiniz müddətdə həyata keçiriləcək"</string>
     <string name="pref_about_privacy_title">Gizlilik Siyasəti</string>
     <string name="pref_category_title_auto_clean_settings">Təmizləməni xatırlat</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Əlavə tənzimləmələr</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Əlavə ayarlar</string>
     <string name="pref_category_title_cleanup_white_list">İstisnalar</string>
-    <string name="pref_category_title_engine_settings">Skan tərif tənzimləmələri</string>
+    <string name="pref_category_title_engine_settings">Skan tərifi ayarları</string>
     <string name="pref_category_title_garbage_cleanup_check">Bildirişlər</string>
-    <string name="pref_category_title_other_clean_settings">Əlavə tənzimləmələr</string>
+    <string name="pref_category_title_other_clean_settings">Əlavə ayarlar</string>
     <string name="pref_content_cleanup_white_list_none">Yoxdur</string>
     <string name="pref_summary_auto_clean_and_alert">Təmizləyicinin avtomatik işə düşməsini planlaşdır</string>
     <string name="pref_summary_auto_update_cleanup_db">%s güncəlləndi</string>
@@ -784,7 +784,7 @@
     <string name="security_center_slogan">Cihazınızı sürətli və güvənli saxlayın</string>
     <string name="see_more">Daha çox</string>
     <string name="send">Göndər</string>
-    <string name="set_immediately">Tənzimlə</string>
+    <string name="set_immediately">Ayarla</string>
     <string name="seton_immediately">Aç</string>
     <string name="share">Paylaş</string>
     <string name="similar_image_desc">Oxşar fotoları sil</string>
@@ -853,7 +853,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_low_storage_dialog_cancel">İmtina</string>
     <string name="tips_low_storage_dialog_msg_qq_new">QQ keş ölçüsü %d GB-ə çatdı. Bu cihazınızı yavaşlada bilər. QQ keşi indi silinsin?</string>
     <string name="tips_low_storage_dialog_msg_storage_new">"Anbar sahənizin %s qədərini istifadə edirsiniz. İstifadə etmədiyiniz tətbiqləri silin."</string>
@@ -884,8 +884,8 @@
     <string name="title_of_garbage_cloud_scan">Bulud skanı</string>
     <string name="title_of_garbage_data_set">Təmizləyici verilənlər bazası güncəlləmələri</string>
     <string name="title_of_network_speed_set">Status çubuğunda şəbəkə bağlantı sürətini göstər</string>
-    <string name="title_of_operators_set">Operator tənzimləmələri</string>
-    <string name="title_of_package_set">İnternet planı tənzimləmələri</string>
+    <string name="title_of_operators_set">Operator ayarları</string>
+    <string name="title_of_package_set">İnternet planı ayarları</string>
     <string name="title_of_traffic_notification">İnternet statistika çubuğu</string>
     <string name="title_share_link">URL-ni paylaş</string>
     <string name="toast_add_white_list_success">İstisnalara uğurla əlavə edildi</string>

@@ -108,7 +108,7 @@ onları İkinci sahədə göstərin"</string>
     <string name="cta_declaration_title">Şərtlər və Qaydalar</string>
     <string name="current_space">Hazırkı sahə</string>
     <string name="dataSafe">İkinci sahəni istifadə etmək iki cihaza sahib olmaq kimidir.</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="declare_dialog_title">İkili tətbiqlər haqqında</string>
     <string name="deleteAll">Hamısını sil</string>
     <string name="deleteDataConfirm">Bütün elementlər silinəcək</string>
@@ -159,7 +159,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="ent_licence_code_hint">Lizensiya kodunu daxil edin</string>
     <string name="ent_licence_code_invalid">Daxil etdiyiniz lisenziya kodu yararsızdır.</string>
     <string name="ent_mode_activated">Müəssisə rejimi aktivləşdirildi</string>
-    <string name="ent_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="ent_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ent_next_step">Növbəti</string>
     <string name="ent_privacy_policy_notice">* Bu rejimdə şəxsi məlumatlar, korporasiyanız tərəfindən müəyyən edilmiş siyasətlərə uyğun olaraq yığılır. Xiaomi, bu rejimdə heç bir şəxsi məlumat yığmır.</string>
     <string name="enter_air_space">İş sahəsinə get</string>
@@ -356,7 +356,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="no_match_repate_scanner">"Uyğunlaşan barmaq izləri tapıla bilmədi, yenidən skan edin"</string>
     <string name="noon">Günorta</string>
     <string name="normal_app">Birinci sahə</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_air_space">"Bu özəllik telefonunuzda dəstəklənmir"</string>
     <string name="not_support_multiple_users">"Çoxlu sahələr dəstəklənmir"</string>
     <string name="notificationSetPassword">Parol təyin et</string>

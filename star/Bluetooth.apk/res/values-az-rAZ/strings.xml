@@ -53,7 +53,7 @@
     <string name="bluetooth_map_settings_intro">Bluetooth vasitəsilə paylaşmaq istədiyiniz hesabları seçin. Bağlantı qurarkən yenə də hesablara müraciəti qəbul etməlisiniz.</string>
     <string name="bluetooth_map_settings_no_account_slots_left">Hesablar seçilə bilmir. 0 yuva qaldı</string>
     <string name="bluetooth_map_settings_save">Saxla</string>
-    <string name="bluetooth_map_settings_title">Bluetooth Mesaj Paylaşma tənzimləmələri</string>
+    <string name="bluetooth_map_settings_title">Bluetooth Mesaj Paylaşma Ayarları</string>
     <string name="bluetooth_opp_file_limit_exceeded">4 GB-dan böyük fayllar köçürülə bilməz</string>
     <string name="bluetooth_sap_notif_disconnect_button">Bağlantını kəs</string>
     <string name="bluetooth_sap_notif_disconnecting">Müştərinin bağlantısının kəsilməsi gözlənilir</string>
@@ -83,7 +83,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="defaultname">Avtomobil dəsti</string>
     <string name="deleteAll_record">Bütün yazıları sil</string>
     <string name="delete_record">Yazını sil</string>
@@ -272,7 +272,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Yenidən bu cihazda səs oxutmağa başlamaq üçün ilkin səs çıxışını seçin.</string>
     <string name="switch_audio_device_phone">Bu cihaz</string>
     <string name="switch_audio_device_phone_summary">Bu cihazda səs oxut</string>
-    <string name="switch_audio_device_switch_hint">Bağlantılı cihazlar haqqında bildirişləri Tənzimləmələr &gt; Bluetooth &gt; \"Əlavə tənzimləmələr\"dən söndürə bilərsiniz.</string>
+    <string name="switch_audio_device_switch_hint">Bağlantılı cihazlar haqqında bildirişləri Ayarlar &gt; Bluetooth &gt; \"Əlavə ayarlar\"da söndürə bilərsiniz.</string>
     <string name="switch_audio_dialog_title">Səs çıxışını seçin</string>
     <string name="switch_audio_notification_content">"Mövcud səs çıxış cihazı: "</string>
     <string name="switch_audio_notification_title">Cihaz bağlantısı</string>
@@ -319,7 +319,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="transfer_clear_dlg_msg">Bütün elementlər siyahıdan silinəcək.</string>

@@ -100,7 +100,7 @@
     <string name="data_merge_dialog_loading">Data doğrulanır…</string>
     <string name="data_merge_dialog_title">Elementləri birləşdir</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_noti_quota_full_title">Bulud anbarı dolub</string>
     <string name="detect_sim_card">SIM kartı axtar</string>
     <string name="device_activation_card_cannot_get_yet">"Məlumat alına bilmədi. 3-5 gün ərzində yenidən sınayın."</string>
@@ -108,7 +108,7 @@
     <string name="device_activation_card_description_china">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlananda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşmə statusunu yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
     <string name="device_activation_card_device_not_support">Bu cihazda dəstəklənmir</string>
     <string name="device_activation_card_local_service_error">"Məlumat alına bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
-    <string name="device_activation_card_no_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="device_activation_card_no_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="device_activation_card_title">Birinci aktivləşdirmə</string>
     <string name="device_activation_page_title">Cihaz aktivləşdirmə</string>
     <string name="dialog_storage_full_title">Cloud anbar sahəsi dolub</string>
@@ -358,7 +358,7 @@
     <string name="micloud_manual_local_storage_low_summary_pad">Anbar sahəsini boşaldıb yenidən sınayın.</string>
     <string name="micloud_manual_local_storage_low_title">"Sinxronlaşdırıla bilmir. Cihazınızda yetərli anbar sahəsi yoxdur."</string>
     <string name="micloud_manual_local_storage_low_title_pad">"Sinxronlaşdırıla bilmir. Cihazınızda yetərli anbar sahəsi yoxdur."</string>
-    <string name="micloud_manual_network_disconnet_button_text">Şəbəkə tənzimləmələrini yoxla</string>
+    <string name="micloud_manual_network_disconnet_button_text">Şəbəkə ayarlarını yoxla</string>
     <string name="micloud_manual_network_disconnet_title">"Şəbəkə xətasına görə sinxronlaşdırıla bilmir"</string>
     <string name="micloud_manual_paused">Fasilə verildi</string>
     <string name="micloud_manual_pausing">Sinxrn. fasilə verildi</string>
@@ -382,8 +382,8 @@
     <string name="micloud_notif_content_depend_wifi">Sinxronlaşdırmaq üçün Wi-Fi-a bağlanın.</string>
     <string name="micloud_notif_content_depend_wifi_china">Sinxronlaşdırmaq üçün Wi-Fi-a bağlanın.</string>
     <string name="micloud_notif_content_dirty_data">Detallar</string>
-    <string name="micloud_notif_content_master_depend_wifi">Wi-Fi-a bağlanın və ya sinxronlaşdırma tənzimləmələrini dəyişdirin. Dəyişdirmək üçün toxunun.</string>
-    <string name="micloud_notif_content_master_depend_wifi_china">Wi-Fi-a bağlanın və ya sinxronlaşdırma tənzimləmələrini dəyişdirin. Dəyişdirmək üçün toxunun.</string>
+    <string name="micloud_notif_content_master_depend_wifi">Wi-Fi-a bağlanın və ya sinxr. ayarlarını dəyişdirin. Dəyişdirmək üçün toxunun.</string>
+    <string name="micloud_notif_content_master_depend_wifi_china">Wi-Fi-a bağlanın və ya sinxr. ayarlarını dəyişdirin. Dəyişdirmək üçün toxunun.</string>
     <string name="micloud_notif_content_memory_low">Yetərli anbar sahəsi yoxdur.</string>
     <string name="micloud_notif_content_multi_user_error">Daxil olduğunuz hesab, Birinci sahədəki eyni hesabdır.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Detallara bax</string>
@@ -428,8 +428,8 @@
     <string name="micloud_setting_recorder_summary">Səs və zəng səsyazmaları</string>
     <string name="micloud_setting_sms_summary">SMS və MMS mesajları</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Mətn mesajları</string>
-    <string name="micloud_setting_wifi_summary">Wi-Fi tənzimləmələri</string>
-    <string name="micloud_setting_wifi_summary_china">Wi-Fi tənzimləmələri</string>
+    <string name="micloud_setting_wifi_summary">Wi-Fi ayarları</string>
+    <string name="micloud_setting_wifi_summary_china">Wi-Fi ayarları</string>
     <string name="micloud_share_cloud_storage_entrance_title">Bulud anbarı ailə qrupunuzla paylaşın</string>
     <string name="micloud_space_applist_detail">Əsas ekranınızdakı tətbiqləri idarə edin</string>
     <string name="micloud_space_duokan_detail">E-kitabları Duokan tətbiqi ilə endirib idarə edin.</string>
@@ -536,7 +536,7 @@
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_sim">"SIM kart tapıla bilmədi"</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="noti_quota_button_text">Yüksəlt</string>
     <string name="noti_quota_full_sum">Elementləri sinxronlaşdırmağa davam etmək üçün anbar planınızı yüksəldin.</string>
     <string name="noti_quota_full_sum_without_button">Elementləri sinxronlaşdırmağa davam etmək üçün daha çox anbar sahəsi alın.</string>
@@ -662,7 +662,7 @@
     <string name="share_location_guide_action_btn_loading_text">Bir saniyə…</string>
     <string name="share_location_guide_action_btn_text">Aç</string>
     <string name="share_location_guide_extra_btn_text">Ötür</string>
-    <string name="share_location_menu_finddevice_settings">Cihaz tənzimləmələrini tapın</string>
+    <string name="share_location_menu_finddevice_settings">\"Cihazı tap\" ayarları</string>
     <string name="share_location_menu_help">Kömək və əks əlaqə</string>
     <string name="share_location_menu_messages">Mesaj tarixçəsi</string>
     <string name="share_location_start_navigation_error">"Cihazınızda xəritələr tapıla bilmədi"</string>
@@ -798,7 +798,7 @@
     <string name="sync_page_route_not_now">Xeyr, təşəkkürlər</string>
     <string name="sync_page_route_ok">Aç</string>
     <string name="sync_page_route_remember">"Təkrar göstərmə"</string>
-    <string name="sync_setting_title">Sinxr. tənzimləmələri</string>
+    <string name="sync_setting_title">Sinxr. ayarları</string>
     <string name="system_busy_or_network_error">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="talkback_hide_passcode">Parolu gizlət</string>
     <string name="talkback_show_passcode">Parolu göstər</string>
@@ -845,7 +845,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tip_short_cut_added_success">Uğurla yaradıldı</string>
     <string name="tip_short_cut_already_added">Yaradıldı</string>
     <string name="title_reg">Xiaomi Hesab Yarat</string>

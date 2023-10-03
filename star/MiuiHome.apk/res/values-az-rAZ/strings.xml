@@ -229,7 +229,7 @@
     <string name="copy">Kopyala</string>
     <string name="current_preview">Önbaxış</string>
     <string name="current_wallpaper">Mövcud</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="defalut_launcher_title">İlkin başladıcı</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Oyunlar</string>
@@ -560,7 +560,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="no_space_toast">Yetərli sahə yoxdur</string>
     <string name="no_space_toast_when_click_widget">Bu səhifədə yetərli sahə yoxdur. Bu elementi fərqli bir səhifədə sürükləməyə çalışın.</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_open_button">Aç</string>
     <string name="notification_reset_title">Nişanlar uğurla düzüldü</string>
     <string name="one_key_call_title">Yığmaq üçün toxunun</string>

@@ -111,7 +111,7 @@
     <string name="cpu_compatible_error">"Bu tətbiq, 64 bitlik arxitektura ilə tam olaraq uyğunlaşmır. Bunu istifadə etmək sistem performansını zəiflədə və enerji sərfiyyatını artıra bilər. Daha ətraflı öyrənmək üçün toxunun."</string>
     <string name="cta_button_text_cancel">Çıx</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_net_loading">Bir saniyə…</string>
     <string name="default_reason_list1">"GetApps xaricindəki mənbələrdən tətbiq endirə bilmirəm"</string>
     <string name="default_reason_list2">"İstifadə edərkən faydasını görmədim"</string>
@@ -406,7 +406,7 @@
     <string name="no_install_permission_tip">"%1$s elementləri quraşdırmaq icazənizə sahib deyil"</string>
     <string name="no_set_lock_screen_tip">"Hələ də Kilid ekranı parolu, barmaq izi və ya Üzlə kilid açma quraşdırmamısınızsa, bunu Tənzimləmələrdə edə bilərsiniz."</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="ok">Oldu</string>
     <string name="once_authorize_dialog_message">"Bu tətbiq, Xiaomi güvənlik testlərindən keçməyib və hələlik GetApps-da mövcud deyil. Əgər güvənirsinizsə, bu tətbiqin quraşdırılmasına icazə verə bilərsiniz. Unutmayın ki, güvənlik testlərimizi keçməyən tətbiqlər risk təşkil edə bilər."</string>
     <string name="once_authorize_dialog_title">%s - quraşdırılmasına icazə verilsin?</string>
@@ -512,7 +512,7 @@
     <string name="passport_logout_account">Çıxış et</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
-    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
     <string name="passport_network_timeout">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="passport_next">Növbəti</string>
@@ -536,7 +536,7 @@
     <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
-    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
     <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
@@ -562,7 +562,7 @@
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil ol</string>
     <string name="passport_unknown_error">Bilinməyən xəta</string>
-    <string name="passport_unknown_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>

@@ -40,7 +40,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -180,7 +180,7 @@
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="pa_accessibility_home_search">"Axtar, 
 başlamaq üçün cüt toxunun"</string>
     <string name="pa_accessibility_home_widget_drag">Element sürükləmə</string>
@@ -395,7 +395,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_horizontal_right">Üfüqi düzüm. Sağa hizalanmış.</string>
     <string name="pa_install">Quraşdır</string>
     <string name="pa_lite_cell_layout_empty">Hələ ki, burada vicet yoxdur</string>
-    <string name="pa_lite_setting_others">Əlavə tənzimləmələr</string>
+    <string name="pa_lite_setting_others">Əlavə ayarlar</string>
     <string name="pa_lite_setting_private_auth">Tətbiq istifadəsini təhlil etməyə icazə ver</string>
     <string name="pa_lite_setting_private_auth_summary">Tətbiq təklifləri, istifadə məlumatlarınıza əsaslanacaq</string>
     <string name="pa_lite_setting_private_policy">Gizlilik Siyasəti</string>
@@ -446,7 +446,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_pad_setting_privacy_revoke_cta_summary">Əsas ekran vicetlərinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürmə</string>
     <string name="pa_picker_accessibility_fab_description">Səhifənin başına qayıt</string>
     <string name="pa_picker_classic_widget">Android vicetləri</string>
-    <string name="pa_picker_detail_add_maml_net_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="pa_picker_detail_add_maml_net_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="pa_picker_detail_add_to_home">Əsas ekrana əlavə et</string>
     <string name="pa_picker_detail_add_to_minus">Tətbiq kassasına əlavə et</string>
     <string name="pa_picker_detail_add_widget_success">Uğurla əlavə edildi</string>
@@ -473,7 +473,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_download_maml_dialog_confirm">Endir</string>
     <string name="pa_picker_detail_download_maml_dialog_message">Bu viceti indi endirmək üçün %s mobil internet tələb olunur. Yenə də endirilsin?</string>
     <string name="pa_picker_detail_download_maml_dialog_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="pa_picker_detail_edit_maml_net_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="pa_picker_detail_edit_maml_net_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="pa_picker_detail_install_tip_un_install">Əvvəlcə tətbiqi quraşdırın</string>
     <string name="pa_picker_detail_install_tip_un_upgrade">Əvvəlcə tətbiqi güncəlləyin</string>
     <string name="pa_picker_detail_launcher_screen_lock">"Əsas ekran düzümünüz kilidlidir. Vicet əlavə edilə bilmir."</string>
@@ -624,7 +624,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Tətbiq kassası Gizlilik Siyasətinə verdiyiniz razılığı geri götürün</string>
     <string name="pa_setting_privacy_revoke_error_message">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Razılıq geri götürülə bilmədi"</string>
-    <string name="pa_setting_privacy_revoke_no_net_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="pa_setting_privacy_revoke_no_net_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="pa_setting_privacy_revoke_positive">Anladım</string>
     <string name="pa_setting_privacy_third_parties">Üçüncü tərəflərlə məlumatların paylaşılmasına dair bəyanat</string>
@@ -639,11 +639,11 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_shopping_dialog_statement_desc">Üçüncü Tərəf Xidmətlər haqqında bəyanat</string>
     <string name="pa_shopping_page_product_action_bar_title">Bütün məhsullar</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Məhsulları sil</string>
-    <string name="pa_shopping_page_product_delete_error">Bir xəta baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
-    <string name="pa_shopping_page_product_jump_setting_error">Bir xəta baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="pa_shopping_page_product_delete_error">Bir xəta baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
+    <string name="pa_shopping_page_product_jump_setting_error">Bir xəta baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="pa_shopping_page_setting_source_desc">Məhsullara endirim və təkliflər əldə edin</string>
     <string name="pa_shopping_page_setting_statement">Məsuliyyətdən imtina</string>
-    <string name="pa_shopping_page_setting_update_channel_failure">Bir xəta baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="pa_shopping_page_setting_update_channel_failure">Bir xəta baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="pa_shopping_page_setting_widthdraw_desc">Alış-Veriş Gizlilik Siyasətinə verdiyiniz razılığı geri götürün</string>
     <string name="pa_shopping_page_setting_withdraw">Razılığın geri götürülməsi</string>
     <string name="pa_shopping_widget_empty_content_click_desc">Burada hələ heç nə yoxdur</string>

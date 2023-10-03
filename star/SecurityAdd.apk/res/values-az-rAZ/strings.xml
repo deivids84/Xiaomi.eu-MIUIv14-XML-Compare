@@ -47,7 +47,7 @@
     <string name="copy">Kopyala</string>
     <string name="cta_main_purpose">Game Turbo-ya xoş gəldiniz!</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dialog_market_score_cancel">İmtina</string>
     <string name="dialog_market_score_dislike">Rəy</string>
     <string name="dialog_market_score_like">Beş ulduz!</string>
@@ -161,7 +161,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_dialog_game_speed_close">İşıq sürəti rejimi söndürülür…</string>
     <string name="gb_dialog_game_speed_exist">İşıq sürəti rejimində yalnız bir oyun istifadə edə bilərsiniz. \"%s\" indi dəyişdirilsin?</string>
     <string name="gb_game_control">GPU tənzimləmələri</string>
-    <string name="gb_game_settings">Əlavə tənzimləmələr</string>
+    <string name="gb_game_settings">Əlavə ayarlar</string>
     <string name="gb_game_speed_closed">İşıq sürəti rejimi bağlıdır</string>
     <string name="gb_game_speed_closed_fail">"İşıq sürəti rejimi söndürülə bilmədi"</string>
     <string name="gb_game_speed_open">İşıq sürəti rejimi açıqdır</string>
@@ -199,7 +199,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_pannel_control_mode_power_saving">Enerjiyə qənaət et</string>
     <string name="gb_web_panel_failure_retry">"Elementlər yüklənilə bilmədi. Yenidən sınayın."</string>
     <string name="gb_web_panel_game_loading">Bir saniyə…</string>
-    <string name="gb_web_panel_network_exception">"Şəbəkə xətasına görə hal-hazırda oyun tövsiyə edilə bilmir. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="gb_web_panel_network_exception">"Şəbəkə xətasına görə hal-hazırda oyun tövsiyə edilə bilmir. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="gb_webwindow_schemedialog_accept">Aç</string>
     <string name="gb_webwindow_schemedialog_cancel">İmtina</string>
     <string name="gb_webwindow_schemedialog_title">Oyunlar indi açılsın?</string>
@@ -319,7 +319,7 @@ proqramımıza qoşulun"</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_network_btn">Yenidən sına</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="ok_button">Oldu</string>
     <string name="open_browser">Brauzerdə aç</string>
     <string name="page_load_failed">"Səhifə açıla bilmir"</string>

@@ -78,7 +78,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
     <string name="alaka_required">Bu mahnını dinləmək üçün ödəniş etməlisiniz</string>
-    <string name="alarm_clock_ringtones_successful">Zəngli saat uğurla tənzimləndi</string>
+    <string name="alarm_clock_ringtones_successful">Zəngli saat uğurla ayarlandı</string>
     <string name="album_cover">Albom üzü</string>
     <string name="album_is_empty">Albom adı boş ola bilməz.</string>
     <string name="album_label">Albom üzləri</string>
@@ -1254,7 +1254,7 @@ Xoşbəxt ol"</string>
     <string name="ringtone_selected">Seçildi</string>
     <string name="ringtones_play">Oxut</string>
     <string name="ringtones_stop">Dayandır</string>
-    <string name="ringtones_successful">Zəng səsi uğurla tənzimləndi</string>
+    <string name="ringtones_successful">Zəng səsi uğurla ayarlandı</string>
     <string name="root_downloads">Endirilənlər</string>
     <string name="s1">Təsviri saxla</string>
     <string name="s2">Reklamın şəkil qalereyasında şəkil saxlamasına icazə verilsin?</string>
@@ -1311,7 +1311,7 @@ Xoşbəxt ol"</string>
     <string name="set_online_home_subtitle">Tətbiq açılanda onlayn tövsiyələri aç</string>
     <string name="set_online_home_title">Başlanğıcda onlayn tövsiyələri göstər</string>
     <string name="set_ringtones_failed">"Zəngi səsi olaraq tənzimlənə bilmədi"</string>
-    <string name="set_ringtones_successful">%s, zəng səsi olaraq tənzimləndi</string>
+    <string name="set_ringtones_successful">%s, zəng səsi olaraq ayarlandı</string>
     <string name="setting_feature_setting">Özəllik tənzimləmələri</string>
     <string name="settings">Tənzimləmələr</string>
     <string name="settings_search_key_notification">Musiqi bildirişləri;Musiqi;Bildirişlər;mahnılar</string>
@@ -1465,16 +1465,16 @@ Xoşbəxt ol"</string>
     <string name="toast_my_playlist_sync_failed">"Şəbəkə xətasına görə pleylistlər sinxronlaşdırıla bilmədi."</string>
     <string name="toast_new_playlist_name_no_enter">"Yeni bir paraqraf başladıla bilmir"</string>
     <string name="toast_new_playlist_name_too_long">Pleylistin adı çox uzundur</string>
-    <string name="toast_normal_songs_for_download">Endirmə keyfiyyəti \"Standart\"a tənzimləndi</string>
-    <string name="toast_normal_songs_for_stream">Axın keyfiyyəti \"Standart\"a tənzimləndi</string>
+    <string name="toast_normal_songs_for_download">Endirmə keyfiyyəti \"Standart\"a ayarlandı</string>
+    <string name="toast_normal_songs_for_stream">Axın keyfiyyəti \"Standart\"a ayarlandı</string>
     <string name="toast_playlist_has_been_added">Uğurla növbəyə əlavə edildi</string>
     <string name="toast_playlist_has_been_private">Bu pleylist şəxsidir</string>
     <string name="toast_playlist_has_been_public">Bu pleylist hər kəsə açıqdır</string>
     <string name="toast_playmode_loop_playback">Hazırkı pleylist dövr etdirilir</string>
     <string name="toast_playmode_shuffle_play">Oxutma qarışdırıldı</string>
     <string name="toast_playmode_single_cycle">Hazırkı mahnı dövr etdirilir</string>
-    <string name="toast_uhd_songs_for_download">Endirmə keyfiyyəti \"Yüksək\"ə tənzimləndi</string>
-    <string name="toast_uhd_songs_for_stream">Axın keyfiyyəti \"Yüksək\"ə tənzimləndi</string>
+    <string name="toast_uhd_songs_for_download">Endirmə keyfiyyəti \"Yüksək\"ə ayarlandı</string>
+    <string name="toast_uhd_songs_for_stream">Axın keyfiyyəti \"Yüksək\"ə ayarlandı</string>
     <string name="toast_will_play_list_when_ad_pause">Pleylist reklamlardan sonra oynadılmağa başlayacaq</string>
     <string name="toast_will_play_song_when_ad_pause">Bu mahnı reklamlardan sonra oxudulmağa başlayacaq</string>
     <string name="today">Bu gün</string>

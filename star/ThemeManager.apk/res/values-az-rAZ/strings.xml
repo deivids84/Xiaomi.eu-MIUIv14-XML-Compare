@@ -843,12 +843,12 @@ Hazırda bu cihazda istifadə edilən bütün fərdiləşdirmə elementləri. İ
     <string name="privacy_pad_fold_revoke_agree_introduce">"Davam etsəniz, \"Divar kağızı və fərdiləşdirmə\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Divar kağızı və fərdiləşdirmə, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Divar kağızı və fərdiləşdirmə\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək."</string>
     <string name="privacy_pad_fold_update_content">\"Divar kağızı və fərdiləşdirmə\" Gizlilik Siyasəti güncəlləndi:</string>
     <string name="privacy_pad_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Divar kağızı və fərdiləşdirmə\"nin təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
-Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
+Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq ayarlandıqda), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_permission_management_description">İcazə detalları</string>
     <string name="privacy_permission_related_content">İcazələr</string>
     <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Gizlilik Siyasətinin&lt;/font&gt;&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə \"Divar kağızı və fərdiləşdirmə\"ni istifadə edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə razılaşırsınız?"</string>
     <string name="privacy_phone_important_prompt_content">"Deyəsən, hələ İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmamısınız. Ancaq \"Temalar\"ın təməl özəllikləri və xidmətləri sizin üçün əlçatan olacaq.
-Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq tənzimləndikdə), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
+Bu cihazda saxlanılan elementləri fərdiləşdirmə üçün hər dəfə istifadə etdikdə (məs. onları divar kağızı və ya zəng səsi olaraq ayarlandıqda), bu tətbiqin cihazın anbarına müraciət etməsinə icazə verməyinizi soruşacağıq."</string>
     <string name="privacy_phone_logoff_service_content">\"Temalar\"ın xidmətlərini ləğv et</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Bu cihaza endirilmiş bütün temalar, divar kağızları, dinamik divar kağızları, şriftlər, nişanlar və zəng səsləri.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. Bu cihazda yaradılmış bütün axtarış tarixçəsi qeydləri, icazə tərcihləri, tənzimləmələr və keşlənmiş elementlər.</string>
@@ -1147,7 +1147,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_trial_end_title">Sınaq müddəti bitdi</string>
     <string name="resource_trial_fail_cancel">Oldu</string>
     <string name="resource_trial_fail_go_settings">Ayarlar</string>
-    <string name="resource_trial_fail_message">Sistem saatınızın düzgün vaxta tənzimləndiyinə əmin olun.</string>
+    <string name="resource_trial_fail_message">Sistem saatınızın düzgün vaxta ayarlandığına əmin olun.</string>
     <string name="resource_trial_fail_title">"Sınaq seansı qurula bilmədi"</string>
     <string name="resource_trial_hours">(sınaq: %1$d sa)</string>
     <string name="resource_trial_hours_minutes">(sınaq: %1$d sa %2$d dəq)</string>
@@ -1162,7 +1162,7 @@ Bu icazəni Tənzimləmələr &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="restore_icon_later">Əsas ekran qısayolunu Tənzimləmələrdə yenidən əlavə edə bilərsiniz</string>
     <string name="ringtone_confirm_dialog_message">"Bu zəng səsinin müddəti nisbətən uzundur. Yenə də istifadə edilsin?"</string>
     <string name="ringtone_confirm_dialog_title">Diqqət</string>
-    <string name="ringtone_set_success">Uğurla tənzimləndi</string>
+    <string name="ringtone_set_success">Uğurla ayarlandı</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1436,7 +1436,7 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="transparent_wallpaper_enable_success">Uğurla işə salındı</string>
     <string name="transparent_wallpaper_filter_pref_summary">"Şəffaf divar kağızları məhdud tətbiqlərdə görüntülənməyəcək"</string>
     <string name="transparent_wallpaper_filter_pref_title">Şəffaf divar kağızları ilə işləyəcək tətbiqləri seçin</string>
-    <string name="transparent_wallpaper_filter_set_successfully">Uğurla tənzimləndi</string>
+    <string name="transparent_wallpaper_filter_set_successfully">Uğurla ayarlandı</string>
     <string name="transparent_wallpaper_filter_setting">Fərdi tətbiqlər</string>
     <string name="transparent_wallpaper_guide">\"Temalar\"a get</string>
     <string name="transparent_wallpaper_guide_tip">İndi \"Temalar\"da şəffaf bir divar kağızı seçə bilərsiniz.</string>

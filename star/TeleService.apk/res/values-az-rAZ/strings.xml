@@ -605,8 +605,8 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dc_alert_dialog_message">Bəzi tətbiqlər mobil internet bağlantısı tələb edir. Mövcud %s seçimlərini öyrənmək üçün operatorunuzla əlaqə saxlayın.</string>
     <string name="dc_alert_dialog_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="dds_switch_warning_message_data_off">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Mobil internet indi söndürüldü."</string>
-    <string name="dds_switch_warning_message_data_on">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Lazımsız operator xərclərini önləmək üçün mobil internet söndürüldü."</string>
+    <string name="dds_switch_warning_message_data_off">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq ayarlandı. Mobil internet indi söndürüldü."</string>
+    <string name="dds_switch_warning_message_data_on">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq ayarlandı. Lazımsız operator xərclərini önləmək üçün mobil internet söndürüldü."</string>
     <string name="deactivate_all">Hamısını ləğv et</string>
     <string name="default_carrier_mmi_msg_title">Operator Mesajı</string>
     <string name="default_notification_description">İlkin səs (%1$s)</string>
@@ -737,7 +737,7 @@
     <string name="enable_fdn_ok">FDN-i sıradan çıxart</string>
     <string name="enable_in_progress">PIN qurulur…</string>
     <string name="enable_pin">SIM PIN-i fəallaşdır/sıradan çıxart</string>
-    <string name="enable_pin_ok">PIN tənzimləndi</string>
+    <string name="enable_pin_ok">PIN ayarlandı</string>
     <string name="enable_proximity_summary">"Zəng əsnasında cihazı qulağınıza aparanda ekran avtomatik sönür"</string>
     <string name="enable_proximity_title">Yaxınlıq sensoru</string>
     <string name="enable_sim_pin">SIM PIN-i tənzimlə</string>

@@ -60,7 +60,7 @@
     <string name="account_settings_background_attachments_security_title">Risklər üçün qoşmaları yoxlayın</string>
     <string name="account_settings_background_attachments_summary">Qoşmaları Wi-Fi istifadə edərək endir</string>
     <string name="account_settings_background_attachments_title">Qoşmaları avtomatik endir</string>
-    <string name="account_settings_data_usage">Sinxronlaşdırma tənzimləmələri</string>
+    <string name="account_settings_data_usage">Sinxr. ayarları</string>
     <string name="account_settings_description_label">Hesab adı</string>
     <string name="account_settings_display">Görüntülə</string>
     <string name="account_settings_does_not_support_pop">"Bu özəllik POP3 tərəfindən dəstəklənmir"</string>
@@ -260,7 +260,7 @@ yol prefiksi"</string>
     <string name="certificate_password_prompt_title">Sertifikat al</string>
     <string name="certificate_password_tips">Sertifikat almaq üçün parolu daxil edin</string>
     <string name="certificate_password_tips_w">Daxil etdiyiniz parol yanlışdır</string>
-    <string name="change_sync_settings">Sinxronlaşdırma tənzimləmələrini dəyişdir</string>
+    <string name="change_sync_settings">Sinxr. ayarlarını dəyişdir</string>
     <string name="changepw_dialog_auth_tips">%s üçün kodu yenidən daxil edin</string>
     <string name="changepw_dialog_tips">%s üçün parolu yenidən daxil edin</string>
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
@@ -343,7 +343,7 @@ yol prefiksi"</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Bu gün, %1$s</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="debug_mode_preferencecategory">Jurnal çıxışını quraşdır</string>
     <string name="debug_mode_settings">Sazlama rejimi tənzimləmələri</string>
     <string name="default_">İLKİN</string>
@@ -488,7 +488,7 @@ yol prefiksi"</string>
     <string name="folder_list_switch_account">Dəyişdir</string>
     <string name="folder_no_mails">Poçt yoxdur</string>
     <string name="folder_notification_setting_tip">Gələn qutunuzda bir neçə qovluq var. Xüsusi qovluqlarda yeni mesajlarla bağlı bildirişlər qurun.</string>
-    <string name="folder_synchronization_mail_settings">Qovluq sinxrn tənzimləmələri</string>
+    <string name="folder_synchronization_mail_settings">Qovluq sinxr. ayarları</string>
     <string name="font_bold_add">Qalın</string>
     <string name="font_bold_remove">Qalın növü çıxart</string>
     <string name="font_color">Hazırkı mətn rəngi: %s</string>
@@ -623,7 +623,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="mailbox_name_display_unread">Oxunmamış</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sinxr bağlıdır</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sinxr açıqdır</string>
-    <string name="mailbox_settings_activity_title">Sinxr tənzimləmələri</string>
+    <string name="mailbox_settings_activity_title">Sinxr. ayarları</string>
     <string name="mailbox_settings_mailbox_sync_window_label">E-poçtları buradan sinxr</string>
     <string name="mailbox_settings_sync_enabled_label">Bu qovluğu sinxr</string>
     <string name="mailbox_settings_sync_enabled_summary">Mesajları bu qovluqda sinxr</string>
@@ -799,7 +799,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="no_search_results">Serverdə axtar</string>
     <string name="noon">Günorta</string>
     <string name="not_install_qq_tip">Uğurla kopyalandı. QQ-nu açın və qoşulmaq üçün bu qrupu tapın.</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_subject">(Mövzu yoxdur)</string>
     <string name="not_synced_title">Hesab sinxronlaşmadı</string>
     <string name="notification_action_archive">Arxiv</string>
@@ -1020,7 +1020,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="senders_split_token">, </string>
     <string name="sending_message">Mesaj göndərilir…</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Server sertifikatı doğrulana bilmədi.
-\u0009( Tənzimləmələrdə ‘Avto-sinxronlaşdırma vaxtı’nın açıq olduğuna əmin olun)"</string>
+\u0009( Ayarlarda ‘Avto-sinxronlaşdırma vaxtı’nın açıq olduğuna əmin olun)"</string>
     <string name="ser_resp_err_map_landing_more_failure">"Ardıcıl olaraq bir neçə dəfə daxil ola bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="ser_resp_err_map_landing_too_frequently">Həddən çox tez-tez daxil olma cəhdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="ser_resp_err_map_mailbox_locked">Bu e-poçt hesabı kilidlidir. Kilidini açmaq üçün əvvəlcə e-poçt xidmət provayderinizlə əlaqə saxlayın.</string>
@@ -1088,12 +1088,12 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="sync_calendra_fail_permission">Təqvim tədbirlərini sinxronlaşdıra bilmək üçün Tənzimləmələr &gt; \"İcazələr\"də təqvim icazələrini verin.</string>
+    <string name="sync_calendra_fail_permission">Təqvim tədbirlərini sinxronlaşdıra bilmək üçün Ayarlar &gt; \"İcazələr\"də təqvim icazələrini verin.</string>
     <string name="syncing_wait_restart">Yenidən sına</string>
     <string name="syncing_wait_restart_title">Server bağlantısının vaxtı bitdi</string>
     <string name="system_account_create_failed">"Hesab yaradıla bilmədi. Yenidən sınayın."</string>
     <string name="system_security_open_error">\"Güvənlik\"i aça bilmək üçün Tənzimləmələrdə icazələri verin</string>
-    <string name="system_setup_open_error">Tənzimləmələrdə Mail üçün sinxronlaşdırmanı aç</string>
+    <string name="system_setup_open_error">Ayarlarda Mail üçün sinxr.nı işə sal</string>
     <string name="tap_to_configure">Quraşdırmaq üçün toxun.</string>
     <string name="tell_you_later">Sonra</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
@@ -1139,7 +1139,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="title_activity_about">Haqqında</string>
     <string name="to">Kimə</string>
     <string name="to_heading">"A: "</string>
@@ -1147,7 +1147,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="toast_bar_insufficient_memory_space">"E-poçt alına bilmir. Yetərli anbar sahəsi yoxdur."</string>
     <string name="toast_bar_invalid_account">Hesab məlumatının müddəti bitdi. Yenidən daxil olmaq üçün toxunun.</string>
     <string name="toast_bar_no_connection_network">"İnternet bağlantınız yoxdur"</string>
-    <string name="toast_bar_open_gmail_synchronization">"Gmail-ə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="toast_bar_open_gmail_synchronization">"Gmail-ə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="toast_bar_send_fail_remind">"E-poçt göndərilə bilmədi. \"Gedən\" qovluğunda saxlanıldı."</string>
     <string name="toast_bar_sync_failed_client_cert">"Əskik sertifikata görə sinxronlaşdırıla bilmədi. Sertifikatı yenidən əlavə etmək üçün toxunun."</string>
     <string name="toast_bar_sync_failed_mi_authority">"Bu cihaza səlahiyyət verilmədi. Səlahiyyət mesajı üçün SMS-inizi yoxlayın."</string>
@@ -1211,7 +1211,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="verify_code">Doğrulama kodu</string>
     <string name="version_string">Versiya: %s</string>
     <string name="wait_for_manual_sync_body">\"Bu hesab avtomatik sinxronlaşdırma üçün quraşdırılmayıb.
-E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a toxunun və ya bu hesabı, poçtu avtomatik sinxronlaşdıracaq şəkildə quraşdırmaq üçün <b>Sinxronlaşdırma tənzimləmələrini dəyişdir</b>ə toxunun.</string>
+E-poçtu bir dəfə sinxronlaşdırmaq üçün\"<b>İndi Sinxronlaşdır</b>a toxunun və ya bu hesabı, poçtu avtomatik sinxronlaşdıracaq şəkildə quraşdırmaq üçün <b>Sinxr. ayarlarını dəyişdir</b>ə toxunun.</string>
     <string name="wait_for_sync_title">Sinxronlaşdırma gözlənilir</string>
     <string name="web_view_load_error_tip">Brauzeriniz çökdü. Bu problemi həll etmək üçün Google Play-dən Webview-in son versiyasını endirin.</string>
     <string name="webview_logout">Təkrar daxil olmağı sınaya bilərsiniz</string>

@@ -131,7 +131,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="connecting">Bağlantı qurulur…</string>
     <string name="connection_tips_activity_label">Problemlərin aradan qaldırılması</string>
     <string name="connection_tips_other_message">"1. Köhnə cihazınızda Mi Mover-in ən son versiyasının quraşdırıldığına əmin olun. Ən son Mi Mover versiyasını GetApps-da endirə və ya bu keçidi istifadə edə bilərsiniz: %1$s.
-2. Yeni cihazın hotspot-u Mi Mover-də görünmürsə, Wi-Fi tənzimləmələrini açıb görüb-görmədiyinizi yoxlayın. Əgər görürsünüzsə üzərinə toxunmayın.
+2. Yeni cihazın hotspot-u Mi Mover-də görünmürsə, Wi-Fi ayarlarını açıb görüb-görmədiyinizi yoxlayın. Əgər görürsünüzsə üzərinə toxunmayın.
 3. Mi Mover-ə geri qayıdın və hotspot-un adına toxunun."</string>
     <string name="connection_tips_other_title">Köhnə cihazınız üçüncü tərəf bir Android telefonudursa:</string>
     <string name="connection_tips_owner_message">Mi Mover, MIUI 11 işlədən bütün cihazlarda əvvəlcədən quraşdırılmışdır. MIUI versiyanız daha köhnədirsə, \"Mi Mover\"in son versiyasını GetApps-da endirə və ya bu keçidi istifadə edə bilərsiniz: %1$s.</string>
@@ -144,7 +144,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="current_user_not_supported_title">"Elementlər köçürülə bilmir"</string>
     <string name="data_read_white_permission_desc">Elementləri digər cihazlara köçürmək üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="deselect_all">Heç birini seçmə</string>
     <string name="dialog_airplane_mode_button">Tənzimləmələr</string>
     <string name="dialog_airplane_mode_content">"Təyyarə rejimi açıq ikən Mi Mover işləyə bilmir. Əvvəlcə Tənzimləmələrdə onu söndürün."</string>
@@ -454,7 +454,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="new_trans_intro_desc_8">Köhnə cihazınızdakı WeChat tarixçəsi, köçürmə ərzində yeni cihazınızdakı Wechat tarixçəsinin üzərinə yazılacaq.</string>
     <string name="new_trans_intro_desc_new">1. Yeni cihazınızdakı Mi Mover-in güncəl olduğuna əmin olun. Ən son Mi Mover versiyasını GetApps-da endirə və ya bu keçidi istifadə edə bilərsiniz: %1$s.</string>
     <string name="new_trans_intro_desc_new_click">Endir</string>
-    <string name="new_trans_intro_desc_old">"2. Hotspot Mi Mover-də görünmürsə, Wi-Fi tənzimləmələrini açıb görüb-görmədiyinizi yoxlayın. Əgər görürsünüzsə, Mi Mover-ə qayıdıb hotspot-un adına toxunun."</string>
+    <string name="new_trans_intro_desc_old">"2. Hotspot Mi Mover-də görünmürsə, Wi-Fi ayarlarını açıb görüb-görmədiyinizi yoxlayın. Əgər görürsünüzsə, Mi Mover-ə qayıdıb hotspot-un adına toxunun."</string>
     <string name="new_trans_intro_question_1">"1. Niyə köhnə cihazımda yeni cihazımın hotspot-unu görə bilmirəm?"</string>
     <string name="new_trans_intro_question_2">2. Hotspot-un parolu nədir?</string>
     <string name="new_trans_intro_question_3">"3. Niyə köhnə cihazımda yetərli anbar sahəsinin olmadığını deyir?"</string>
@@ -473,7 +473,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="night">Axşam</string>
     <string name="no_more_memory_title">"\"Mi Mover\"in bu cihazda yerli nüsxə yaratmasına ehtiyacı var. İndi bir nüsxə yaratmaq üçün yetərli anbar sahəsi yoxdur. Əvvəlcə bir az yer boşaldın."</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support">Dəstəklənmir</string>
     <string name="not_support_data_content1">1. Cihaz modelinə xas olan elementlər</string>
     <string name="not_support_data_content2">2. Seçilmiş tətbiqlərin verilənləri</string>
@@ -682,7 +682,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="settings_powerkeeper">Addım hesablayıcı məlumatı</string>
     <string name="settings_sms">Mesajlaşma tənzimləmələri</string>
     <string name="settings_system">Sistem tənzimləmələri</string>
-    <string name="settings_wifi">WLAN tənzimləmələri</string>
+    <string name="settings_wifi">Wi-Fi ayarları</string>
     <string name="skip_transfer">Ötür</string>
     <string name="skip_underline">Bu addımı ötür</string>
     <string name="soft_ap_create_failed">"Hotspot yaradıla bilmədi. Yenidən sınayın."</string>
@@ -748,7 +748,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="time_spent">Vaxt: %1$s</string>

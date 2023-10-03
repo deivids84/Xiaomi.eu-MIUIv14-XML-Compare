@@ -157,7 +157,7 @@
     <string name="global_search_key_volume_convertion">Həcm vahidi çevirmə;Həcm çevirmə;Həcm çevirici</string>
     <string name="global_search_key_weight_convertion">Çəki vahidi çevirmə;Çəki çevirmə;Çəki çevirici;Kilo;Kq;Kiloqram;Funt;Funt;lbs</string>
     <string name="global_search_key_word_figure">Maliyyə xarakterləri</string>
-    <string name="golbal_search_calculator_setting">Hesablayıcı;Hesablayıcı tənzimləmələri;Tənzimləmələr</string>
+    <string name="golbal_search_calculator_setting">Hesablayıcı;Hesablayıcı ayarları;Ayarlar</string>
     <string name="golbal_search_path_calculator_setting">Sistem tətbiqləri/Hesablayıcı/Tənzimləmələr</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Hündürlük</string>
@@ -247,7 +247,7 @@
     <string name="leftParenDesc">sol mötərizə</string>
     <string name="lg">lg</string>
     <string name="lgDesc">loqarifma</string>
-    <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="license_host_unreachable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ln">ln</string>
     <string name="lnDesc">natural loqarifma</string>
     <string name="loading">Bir saniyə…</string>
@@ -381,7 +381,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="night">Axşam</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_supported_due_to_language">Bu xüsusiyyət yalnız Çin dili üçün mövcuddur</string>
     <string name="ok">Oldu</string>
     <string name="percentDesc">faiz</string>
@@ -406,7 +406,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_other">Digər</string>
     <string name="preference_privacy_title">Gizlilik Siyasəti</string>
     <string name="preference_rating_title">Tətbiqimizi qiymətləndirin</string>
-    <string name="preference_settings">Tənzimləmələr</string>
+    <string name="preference_settings">Ayarlar</string>
     <string name="preference_use_degress_summary">Triqonometrik funksiyalarda bucaqları radianla ifadə et</string>
     <string name="preference_use_degress_title">Bucaqları istifadə et</string>
     <string name="preference_use_voice">Səs çıxışı</string>
@@ -430,7 +430,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="search_menu_title">Axtar</string>
     <string name="secondFunctionDesc">İkinci funksiyaya keç</string>
     <string name="send">Göndər</string>
-    <string name="settingsDesc">tənzimləmələr</string>
+    <string name="settingsDesc">ayarlar</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
     <string name="sqrtDesc">kvadrat kök</string>
@@ -505,7 +505,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_update_time_format">Məlumatlar HeXun (%s) tərəfindən təmin edilir</string>
     <string name="tenure_year_month">%1$s və %2$s</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="tv_recurrence_monthly">Aylıq</string>
     <string name="tv_recurrence_quaterly">Rüblük</string>
@@ -865,7 +865,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="wednesday_shortest">Çər</string>
     <string name="weight_prompt">Çəki</string>
     <string name="wf_word_figure">Maliyyə xarakterləri</string>
-    <string name="withdraw_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="word_figure_big_unit_fen">Dəqiqə</string>
     <string name="word_figure_big_unit_jiao">Buynuz</string>
     <string name="word_figure_big_unit_wan">"On min "</string>

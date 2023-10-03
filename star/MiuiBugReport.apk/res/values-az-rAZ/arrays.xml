@@ -15,14 +15,14 @@
     <string-array name="net_diag_err_network_connectivity">
         <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
         <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
-        <item>Şəbəkə xətası. HTTP proksi tənzimləmələrini yoxlayın.</item>
+        <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
         <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
         <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
-        <item>Şəbəkə xətası. HTTP proksi tənzimləmələrini yoxlayın.</item>
+        <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
         <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
@@ -38,7 +38,7 @@
     </string-array>
     <string-array name="net_diag_err_network_latency">
         <item>Yerli şəbəkədən böyük gecikmələr. Ruteri yenidən başladın və ya başqa bir şəbəkəyə bağlanın.</item>
-        <item>İnternetdən böyük gecikmələr. Operatorun şəbəkə tənzimləmələrini yoxlayın və ya başqa bir şəbəkəyə bağlanın.</item>
+        <item>İnternetdən böyük gecikmələr. Operatorun şəbəkə ayarlarını yoxlayın və ya başqa bir şəbəkəyə bağlanın.</item>
     </string-array>
     <string-array name="net_diag_err_network_parameters">
         <item>Statik IP-dən DHCP-yə keçid</item>

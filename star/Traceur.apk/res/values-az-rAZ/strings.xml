@@ -104,7 +104,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="allow_turn_screen_on">Ekranı açmağa icazə ver</string>
     <string name="allow_turn_screen_on_description">Bir tətbiqin ekranı açmasına icazə verin. İcazə versəniz, tətbiq istənilən vaxt sizin müdaxiləniz olmadan ekranı aça bilər.</string>
     <string name="animator_duration_scale_title">Animator müddəti miqyası</string>
-    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) tənzimləmələri bu istifadəçi üçün əlçatan deyil</string>
+    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) ayarları bu istifadəçi üçün əlçatan deyil</string>
     <string name="app_process_limit_title">Arxaplan proses limiti</string>
     <string name="applications">Tətbiqlər</string>
     <string name="attach_to_bug_report">Xəta hesabatlarına izləri əlavə edin</string>
@@ -116,7 +116,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="available_via_passpoint">%1$s ilə əlçatandır</string>
     <string name="avatar_picker_title">Bir profil şəkli seçin</string>
     <string name="back_navigation_animation">Proqnozlaşdırılan geri animasiyalar</string>
-    <string name="back_navigation_animation_dialog">Bu tənzimləmə, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback tənzimləməsinin true olaraq tənzimlənməsini tələb edir.</string>
+    <string name="back_navigation_animation_dialog">Bu ayar, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback dəyərinin true olaraq ayarlanmasını tələb edir.</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır.</string>
     <string name="battery_info_status_charging">Dolur</string>
     <string name="battery_info_status_charging_fast">Sürətlə dolur</string>
@@ -235,7 +235,7 @@ seçimi"</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI müşahidə jurnalını fəallaşdır</string>
-    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu tənzimləməni dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
+    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu ayarı dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Çıxışı dəyişdir</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">%1$s yayımlasanız və ya çıxışı dəyişdirsəniz, hazırkı yayımınız dayandırılacaq</string>
     <string name="bt_le_audio_broadcast_dialog_switch_app">%1$s yayımla</string>
@@ -264,7 +264,7 @@ seçimi"</string>
     <string name="clear_saved_traces_question">Saxlanılmış izlər təmizlənsin?</string>
     <string name="clear_saved_traces_summary">İzlər bir ay sonra təmizlənir</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
-    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu tənzimləmə açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
+    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu ayar açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
     <string name="confirm_enable_oem_unlock_title">OEM kilid açmaya icazə verilsin?</string>
     <string name="connected_to_metered_access_point">Ölçülmüş şəbəkəyə bağlandı</string>
     <string name="connected_via_app">%1$s vasitəsilə bağlantılıdır</string>
@@ -311,11 +311,11 @@ seçimi"</string>
     <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
     <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı datasını silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
-    <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
-    <string name="dev_settings_warning_title">Tərtibatçı tənzimləmələrinə icazə verilsin?</string>
+    <string name="dev_settings_warning_message">Bu ayarlar yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
+    <string name="dev_settings_warning_title">Tərtibatçı ayarlarına icazə verilsin?</string>
     <string name="development_settings_enable">Tərtibatçı seçimlərini fəallaşdır</string>
     <string name="development_settings_not_available">Tərtibatçı seçimləri bu istifadəçi üçün əlçatan deyil</string>
-    <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri tənzimlə</string>
+    <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri ayarla</string>
     <string name="development_settings_title">Tərtibatçı seçimləri</string>
     <string name="direct_boot_unaware_dialog_message">"Qeyd: Cihazınızı yenidən başlatdığınızda və kilidi açdığınızdan sonra bu klaviaturadan istifadə edə biləcəksiniz"</string>
     <string name="disable_overlays">HW örtüklərini sıradan çıxart</string>
@@ -323,7 +323,7 @@ seçimi"</string>
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="disabled_by_admin">Admin tərəfindən sıradan çıxarıldı</string>
     <string name="disabled_by_admin_summary_text">Admin tərəfindən nəzarət olunur</string>
-    <string name="disabled_by_app_ops_text">Məhdud Tənzimləmə tərəfindən idarə olunur</string>
+    <string name="disabled_by_app_ops_text">Məhdud Ayar tərəfindən idarə olunur</string>
     <string name="done">Hazırdır</string>
     <string name="dont_show_again">"Təkrar göstərmə"</string>
     <string name="dream_complication_title_aqi">Hava keyfiyyəti</string>
@@ -356,7 +356,7 @@ seçimi"</string>
     <string name="failed_attempts_now_wiping_dialog_dismiss">Bağla</string>
     <string name="failed_attempts_now_wiping_profile">Həddindən artıq yanlış cəhd. Bu iş profili və onun məlumatları silinəcək.</string>
     <string name="failed_attempts_now_wiping_user">Həddindən artıq yanlış cəhd. Bu istifadəçi silinəcək.</string>
-    <string name="failed_to_open_app_settings_toast">%1$s üçün tənzimləmələr açılmadı</string>
+    <string name="failed_to_open_app_settings_toast">%1$s üçün ayarlar açılmadı</string>
     <string name="force_allow_on_external">Xarici anbardakı tətbiqlərə icazə verməyə məcbur et</string>
     <string name="force_allow_on_external_summary">Manifest dəyərindən asılı olmayaraq, istənilən tətbiqi xarici anbara yazmaq üçün uyğun vəziyyətə gətirir</string>
     <string name="force_msaa">4x MSAA-nı məcbur et</string>
@@ -364,7 +364,7 @@ seçimi"</string>
     <string name="force_resizable_activities">Fəaliyyətləri yenidən ölçüləndirilə bilən olmağa məcbur et</string>
     <string name="force_resizable_activities_summary">Manifest dəyərindən asılı olmayaraq, bütün fəaliyyətləri çoxlu pəncərə üçün yenidən ölçüləndirilə bilən et.</string>
     <string name="force_rtl_layout_all_locales">Sağdan sola düzümü məcbur et</string>
-    <string name="force_rtl_layout_all_locales_summary">Bütün yerli tənzimləmələr üçün ekran düzüm istiqamətini sağdan sola məcbur et</string>
+    <string name="force_rtl_layout_all_locales_summary">Bütün yerli ayarlar üçün ekran düzüm istiqamətini sağdan sola məcbur et</string>
     <string name="guest_exit_guest">Qonağı sil</string>
     <string name="guest_new_guest">Qonaq əlavə et</string>
     <string name="guest_remove_guest_confirm_button">Sil</string>
@@ -373,11 +373,11 @@ seçimi"</string>
     <string name="guest_reset_guest_confirm_button">Sıfırla</string>
     <string name="guest_reset_guest_dialog_title">Qonaq seansı sıfırlansın?</string>
     <string name="guest_resetting">Qonaq seansı sıfırlanır…</string>
-    <string name="hdcp_checking_dialog_title">HDCP yoxlanış davranışını tənzimlə</string>
+    <string name="hdcp_checking_dialog_title">HDCP yoxlanış davranışını ayarla</string>
     <string name="hdcp_checking_title">HDCP yoxlanışı</string>
     <string name="help_feedback_label">Kömək və əks-əlaqə</string>
     <string name="help_label">Kömək və əks-əlaqə</string>
-    <string name="home">Tənzimləmələr əsas səhifəsi</string>
+    <string name="home">Ayarlar Əsas səhifəsi</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="ime_security_warning">Bu giriş üsulu, parollar və kredit kart nömrələri kimi şəxsi data daxil olmaqla yazdığınız bütün mətnləri yığa bilər. %1$s tətbiqindən gəlir. Bu giriş üsulu istifadə edilsin?</string>
     <string name="immediately_destroy_activities">Fəaliyyətlər saxlanılmasın</string>
@@ -398,7 +398,7 @@ seçimi"</string>
     <string name="keywords_adb_wireless">adb, sazlama, dev</string>
     <string name="keywords_alarms_and_reminders">cədvəl, zəngli saat, xatırladıcı, saat</string>
     <string name="launch_defaults_none">Heç bir ilkin dəyər ayarlanmadı</string>
-    <string name="launch_defaults_some">Bəzi ilkin tərcihlər tənzimlənib</string>
+    <string name="launch_defaults_some">Bəzi ilkin dəyərlər ayarlandı</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_guidedaction_continue_title">Davam</string>
@@ -606,7 +606,7 @@ seçimi"</string>
     <string name="select_private_dns_configuration_title">Şəxsi DNS</string>
     <string name="select_usb_configuration_dialog_title">USB konfiqurasiyasını seçin</string>
     <string name="select_usb_configuration_title">USB konfiqurasiyasını seçin</string>
-    <string name="select_webview_provider_dialog_title">WebView tətbiqini tənzimlə</string>
+    <string name="select_webview_provider_dialog_title">WebView tətbiqini ayarla</string>
     <string name="select_webview_provider_title">WebView tətbiqi</string>
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
     <string name="settings_label">Ayarlar</string>
@@ -671,7 +671,7 @@ seçimi"</string>
     <string name="tether_settings_title_wifi">Portativ hotspot</string>
     <string name="tethering_hardware_offload">İnternet paylaşımı təchizat sürətləndirmə</string>
     <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı təchizat sürətləndirməni istifadə et</string>
-    <string name="tethering_settings_not_available">İnternet paylaşım tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
+    <string name="tethering_settings_not_available">İnternet paylaşım ayarları bu istifadəçi üçün əlçatmazdır</string>
     <string name="thirty_minutes">30 dəqiqə</string>
     <string name="time_unit_just_now">İndicə</string>
     <string name="trace_debuggable_applications">Sazlana bilən tətbiqləri izlə</string>
@@ -683,10 +683,10 @@ seçimi"</string>
     <string name="transcode_disable_cache">Transkodlaşdırma keşini söndür</string>
     <string name="transcode_enable_all">Transkodlaşdırmanı fəallaşdır</string>
     <string name="transcode_notification">Transkodlaşdırma bildirişlərini göstər</string>
-    <string name="transcode_settings_title">Media transkodlaşdırma tənzimləmələri</string>
+    <string name="transcode_settings_title">Media transkodlaşdırma ayarları</string>
     <string name="transcode_user_control">Transkodlaşdırma ilkin seçimlərini yararsız et</string>
     <string name="transition_animation_scale_title">Keçid animasiya miqyası</string>
-    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi tənzimləyir</string>
+    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi ayarlayır</string>
     <string name="tts_default_lang_title">Dil</string>
     <string name="tts_default_pitch_summary">Sintez olunmuş nitqin tonuna təsir edir</string>
     <string name="tts_default_pitch_title">Ton</string>
@@ -696,7 +696,7 @@ seçimi"</string>
     <string name="tts_engine_network_required">Bu dil, mətndən nitqə çıxış üçün işləyən bir şəbəkə bağlantısı tələb edir.</string>
     <string name="tts_engine_preference_section_title">Tərcih edilən mühərrik</string>
     <string name="tts_engine_security_warning">Bu nitq sintez mühərriki, parollar və kredit kartı nömrələri kimi şəxsi datalar daxil olmaqla danışılan bütün mətni yığa bilər. %s mühərrikindən gəlir. Bu nitq sintez mühərrikinin istifadəsi fəallaşdırılsın?</string>
-    <string name="tts_engine_settings_button">Mühərrik tənzimləmələrini başlat</string>
+    <string name="tts_engine_settings_button">Mühərrik ayarlarını başlat</string>
     <string name="tts_engine_settings_title">%s üçün ayarlar</string>
     <string name="tts_general_section_title">Ümumi</string>
     <string name="tts_install_data_summary">Nitq sintezi üçün tələb olunan səs datasını quraşdır</string>
@@ -707,7 +707,7 @@ seçimi"</string>
     <string name="tts_play_example_title">Bir nümunə dinləyin</string>
     <string name="tts_reset_speech_pitch_summary">Mətnin danışıldığı səviyyəni ilkin halına sıfırla.</string>
     <string name="tts_reset_speech_pitch_title">Nitq səviyyəsini sıfırla</string>
-    <string name="tts_settings">Mətndən nitqə tənzimləmələri</string>
+    <string name="tts_settings">Mətndən nitqə ayarları</string>
     <string name="tts_settings_title">Mətndən nitqə çıxış</string>
     <string name="tts_status_checking">Yoxlanılır…</string>
     <string name="tts_status_not_supported">%1$s dəstəklənmir</string>
@@ -758,14 +758,14 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT vasitəsilə quraşdırılan tətbiqləri zərərli davranışa qarşı yoxlayın.</string>
     <string name="verify_apps_over_usb_title">Tətbiqləri USB üzərindən doğrula</string>
-    <string name="vpn_settings_not_available">VPN tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
+    <string name="vpn_settings_not_available">VPN ayarları bu istifadəçi üçün əlçatmazdır</string>
     <string name="wait_for_debugger">Sazlayıcını gözlə</string>
     <string name="wait_for_debugger_summary">Sazlanmış tətbiq, işə salınmazdan əvvəl sazlayıcının əlavə edilməsini gözləyir</string>
     <string name="wapi_all_sel_mode">Rejim seçin</string>
     <string name="wapi_auto_sel_cert_fail">Sertifikat avtomatik seçilə bilmir. Lütfən siyahıdan bir sertifikat seçib bağlantı qurmağa çalışın.</string>
     <string name="wapi_cert_is_not_exist">Mövcud sertifikat yoxdur, lütfən əvvəlcə sertifikatı quraşdırın</string>
     <string name="wapi_cert_is_not_selected">Əvvəlcə serifikatı quraşdırın</string>
-    <string name="wapi_cert_manage_error">WAPI sertifikatını tənzimləmək uğursuz oldu.</string>
+    <string name="wapi_cert_manage_error">WAPI sertifikatını ayarlamaq uğursuz oldu.</string>
     <string name="wapi_cert_manage_summary">WAPI sertifikatı əlavə et və ya sil</string>
     <string name="wapi_cert_manage_title">WAPI sertifikat idarəsi</string>
     <string name="wapi_cert_roaming">Bağlantı qurulur…</string>

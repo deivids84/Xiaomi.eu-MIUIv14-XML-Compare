@@ -17,19 +17,19 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
-        <item>Wi-Fi və görüntü daxil olmaqla vacib tənzimləmələri nüsxələyin</item>
+        <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
-        <item>Wi-Fi və görüntü daxil olmaqla vacib tənzimləmələri nüsxələyin</item>
+        <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
-        <item>Wi-Fi və görüntü daxil olmaqla vacib tənzimləmələri nüsxələyin</item>
+        <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
@@ -39,13 +39,13 @@
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
-        <item>Wi-Fi və görüntü daxil olmaqla vacib tənzimləmələri nüsxələyin</item>
+        <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Əgər cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Tətbiq datası sinxr</item>
         <item>Əsas ekran düzümünü nüsxələ</item>
-        <item>Sistem tənzimləmələrini nüsxələ</item>
+        <item>Sistem ayarlarını nüsxələ</item>
         <item>Cihazı tap</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray_pad">
@@ -173,12 +173,12 @@
         <item>Yetərsiz anbar;Üzvlük;Anbar;Anbar sahəsi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud;Tullantı;Silinən elementlər;Güvənlik</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Wi-Fi tənzimləmələrini Xiaomi Cloud ilə sinxronlaşdır</item>
+        <item>Wi-Fi ayarlarını Xiaomi Cloud ilə sinxronlaşdır</item>
         <item>Sinxrn. aç</item>
         <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>WLAN tənzimləmələrini Xiaomi Cloud ilə sinxronlaşdır</item>
+        <item>Wi-Fi ayarlarını Xiaomi Cloud ilə sinxronlaşdır</item>
         <item>Sinxrn. aç</item>
         <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>

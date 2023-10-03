@@ -147,9 +147,9 @@
     <string name="add_fdn_contact">Sabit yığım nömrəsi əlavə edin</string>
     <string name="add_vm_number_str">Nömrə əlavə et</string>
     <string name="adding_fdn_contact">Sabit yığım nömrəsi əlavə olunur…</string>
-    <string name="additional_cdma_call_settings">Əlavə CDMA zəng tənzimləmələri</string>
-    <string name="additional_gsm_call_settings">Əlavə tənzimləmələr</string>
-    <string name="additional_gsm_call_settings_with_label">Əlavə tənzimləmələr (%s)</string>
+    <string name="additional_cdma_call_settings">Əlavə CDMA zəng ayarları</string>
+    <string name="additional_gsm_call_settings">Əlavə ayarlar</string>
+    <string name="additional_gsm_call_settings_with_label">Əlavə ayarlar (%s)</string>
     <string name="administrative_disable">Administrativ sıradan çıxarıldı</string>
     <string name="administrative_enable">Administrativ fəallaşdırıldı</string>
     <string name="advanced_mobile_settings">Qabaqcıl tənzimləmələr</string>
@@ -602,7 +602,7 @@
     <string name="data_usage_disable_mobile">Mobil internet söndürülsün?</string>
     <string name="data_usage_template">%2$s üzrə %1$s mobil internet istifadə edildi</string>
     <string name="data_usage_title">Tətbiq internet istifadəsi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dc_alert_dialog_message">Bəzi tətbiqlər mobil internet bağlantısı tələb edir. Mövcud %s seçimlərini öyrənmək üçün operatorunuzla əlaqə saxlayın.</string>
     <string name="dc_alert_dialog_title">İnternet istifadə xəbərdarlığı</string>
     <string name="dds_switch_warning_message_data_off">"SIM %1$s tapıla bilmədi. İndi SIM %2$s ilkin mobil internet kartınız olaraq tənzimləndi. Mobil internet indi söndürüldü."</string>
@@ -743,8 +743,8 @@
     <string name="enable_sim_pin">SIM PIN-i tənzimlə</string>
     <string name="enable_vice_volte_if_dual_ct">İki China Telecom SIM kartı taxılanda, ikinci SIM üçün VoLTE-ni avtomatik işə sal.</string>
     <string name="enable_video_calling_dialog_close">Bağla</string>
-    <string name="enable_video_calling_dialog_msg">Görüntülü zəngi işə salmaq üçün, şəbəkə tənzimləmələrində Təkmilləşdirilmiş 4G LTE rejimini fəallaşdırmaq lazımdır.</string>
-    <string name="enable_video_calling_dialog_settings">Şəbəkə tənzimləmələri</string>
+    <string name="enable_video_calling_dialog_msg">Görüntülü zəngi işə salmaq üçün, şəbəkə ayarlarında Təkmilləşdirilmiş 4G LTE rejimini fəallaşdırmaq lazımdır.</string>
+    <string name="enable_video_calling_dialog_settings">Şəbəkə ayarları</string>
     <string name="enable_video_calling_title">Görüntülü zəngləri işə sal</string>
     <string name="enabled_by_admin">Administrator tərəfindən fəallaşdırıldı</string>
     <string name="enhanced_4g_lte_mode_off_failed">"VoLTE söndürülə bilmədi."</string>
@@ -942,7 +942,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="jp_sb_sim_lock_unlock_psw_max_length">Daxil edilən kilid açma kodu 8 rəqəmdən az və ya 16 rəqəmdən çoxdur</string>
     <string name="jp_sb_unlock_failed">Kilid açma kodunun doğrulanması uğursuz oldu.</string>
     <string name="jp_sb_unlock_success">Kilid açma kodu uğurla doğrulandı.</string>
-    <string name="jump_to_mobile_network_setting">Mobil şəbəkə tənzimləmələri</string>
+    <string name="jump_to_mobile_network_setting">Mobil şəbəkə ayarları</string>
     <string name="keywords_carrier_settings_euicc">operator, esim, sim, euicc, operatoru dəyişdir, operator əlavə et</string>
     <string name="kr_emergency_111">Milli təhlükəsizlik (111)</string>
     <string name="kr_emergency_112">Polis (112)</string>
@@ -982,7 +982,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="labelCommonMore_with_label">Zəng tənzimləmələri (%s)</string>
     <string name="labelGSMMore">GSM zəng tənzimləmələri</string>
     <string name="labelGsmMore_with_label">GSM zəng tənzimləmələri (%s)</string>
-    <string name="labelNwService">Şəbəkə xidməti tənzimləmələri</string>
+    <string name="labelNwService">Şəbəkə xidməti ayarları</string>
     <string name="label_available">Əlçatan şəbəkələr</string>
     <string name="label_ndp">SIM şəbəkə kilid açma PIN kodu</string>
     <string name="label_ndp_nck">SIM şəbəkə kilid açma NCK</string>
@@ -1134,8 +1134,8 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="mobile_geo_location_config_title">Sabit nöqtə şəbəkə optimallaşdırması</string>
     <string name="mobile_intelligent_connection_title">Mobil şəbəkə ağıllı optimallaşdırma</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">İkili SIM və mobil şəbəkələr</string>
-    <string name="mobile_network_settings_not_available">Mobil şəbəkə tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
-    <string name="mobile_networks">Mobil şəbəkə tənzimləmələri</string>
+    <string name="mobile_network_settings_not_available">Mobil şəbəkə ayarları bu istifadəçi üçün əlçatmazdır</string>
+    <string name="mobile_networks">Mobil şəbəkə ayarları</string>
     <string name="mobile_property">Mobil şəbəkə özəllikləri</string>
     <string name="mobile_special_network_optimization_config_summary">Rabitə təcrübəsini təkmilləşdirmək üçün şəbəkədəki çoxsaylı ssenariləri ağıllı şəkildə qavrayın</string>
     <string name="mobile_special_network_optimization_config_title">Səhnəyə uyğunlaşma rejimi</string>
@@ -1186,7 +1186,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
-    <string name="msim_apn_not_set">Tənzimlənmədi</string>
+    <string name="msim_apn_not_set">Ayarlanmadı</string>
     <string name="msim_cmcc_dds_switch_not_support">"Operator məhdudiyyətlərinə görə SIM kartlar dəyişdirilə bilmir."</string>
     <string name="msim_disable_sim_card_btn_text">Oldu</string>
     <string name="msim_disable_sim_card_summary_default_card">"Bu kart, hal-hazırda ilkin SIM-iniz olaraq tənzimlənib. Bu kartı istifadə etməsəniz, zəng edə və ya mobil internet bağlantınızı istifadə edə bilməyəcəksiniz. Bu SIM kartın istifadəsini, digər SIM-i ilkin kartınız olaraq tənzimlədikdən sonra dayandıra bilərsiniz."</string>
@@ -1207,7 +1207,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="msim_info_editor_set_name_error">"Ad saxlanıla bilmədi"</string>
     <string name="msim_mode_progress_activating_message">İşə salınır</string>
     <string name="msim_mode_progress_deactivating_message">Söndürülür</string>
-    <string name="msim_not_set_summary">Tənzimlənmədi</string>
+    <string name="msim_not_set_summary">Ayarlanmadı</string>
     <string name="msim_set_icc_card_error">ICC kart xətası</string>
     <string name="msim_set_sub_not_supported_phone_in_call">"Zəng əsnasında tənzimlənə bilmir"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">SIM kart xətası</string>
@@ -1220,7 +1220,7 @@ kilid açma kodunu daxil edilməsi gözlənilir"</string>
     <string name="msim_setting_install_virtual_sim_message">SIM kart almaq və operator planını idarə etmək üçün Mi Operator Xidmətlərini quraşdır.</string>
     <string name="msim_setting_install_virtual_sim_tip">Mi Operator Xidmətləri</string>
     <string name="msim_setting_no_sim_indicator">SIM kart yoxdur</string>
-    <string name="msim_setting_no_sim_number">Tənzimlənmədi</string>
+    <string name="msim_setting_no_sim_number">Ayarlanmadı</string>
     <string name="msim_setting_no_sim_package_info">Balans məlumatı yoxdur</string>
     <string name="msim_setting_operator_network_title">Mobil şəbəkə</string>
     <string name="msim_setting_pop_text">Yığmaq üçün SIM kartı seçin</string>
@@ -1277,7 +1277,7 @@ Bunun əvəzinə tərcih edilən şəbəkə istifadə edilir."</string>
     <string name="network_settings_turn_off">Bağlı</string>
     <string name="network_settings_warn_message">Cihazınız yalnız əllə seçdiyiniz şəbəkələrlə bağlantı quracaq.</string>
     <string name="network_state_display">Şəbəkə statusunu göstər</string>
-    <string name="network_state_display_title">Şəbəkə statusu tənzimləmələri</string>
+    <string name="network_state_display_title">Şəbəkə statusu ayarları</string>
     <string name="network_unlock">Kilidi aç</string>
     <string name="networks_title">Mobil şəbəkələr</string>
     <string name="newPin2Label">Yeni PIN2</string>
@@ -1304,7 +1304,7 @@ Lütfən operatorunuzla əlaqə saxlayın"</string>
     <string name="noon">Günorta</string>
     <string name="not_a_valid_port">Port nömrəsi %1$d-%2$d arası olmalıdır.</string>
     <string name="not_allowed">"SIM kartınız bu şəbəkə ilə bağlantı qurmağa icazə vermir."</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_forbidden_fakecell">"Cihazınız saxta baza stansiyalarından çip səviyyəli qorumanı dəstəkləmir."</string>
     <string name="not_voice_capable">Səsli zəng dəstəklənmir</string>
     <string name="notallow">İcazə verilmədi</string>
@@ -1418,7 +1418,7 @@ Yenidən sınayın və ya daha çox seçim üçün müştəri xidmətlərinə z�
     <string name="path_missed_call_notify_times_title">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Cavabsız zəng xatırladıcıları</string>
     <string name="path_preference_dial_pad_touch_tone_title">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Yığım paneli toxunma səsləri</string>
     <string name="path_preference_telocation_title">Sistem tətbiqləri/Telefon/Yerləşmə</string>
-    <string name="path_reject_via_sms">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/Cəld cavablar</string>
+    <string name="path_reject_via_sms">Sistem tətbiqləri/Telefon/Qabaqcıl ayarlar/Cəld cavablar</string>
     <string name="path_t9_indexing_method_title">Sistem tətbiqləri/Telefon/Qabaqcıl tənzimləmələr/T9 axtarış girişi</string>
     <string name="path_telocation_auto_country_code">Sistem tətbiqləri/Telefon/Yerləşmə/Ölkə kodu əlavə et</string>
     <string name="path_telocation_contacts_countrycode">Sistem tətbiqləri/Telefon/Yerləşmə/İlkin ölkə kodu</string>
@@ -1746,7 +1746,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="rtt_mode_more_information">RTT, eşitmə qabiliyyəti tam və ya qismən məhdud olan, nitq qabiliyyəti məhdud və ya səsdən daha çoxuna ehtiyacı olan zənglərə kömək edir.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Daha ətraflı&lt;/a&gt; &lt;br&gt;&lt;br&gt; - RTT zəngləri, bir mesaj transkripti olaraq saxlanılır &lt;br&gt; - RTT, görüntülü zənglər üçün əlçatmazdır</string>
     <string name="rtt_mode_summary">Səsli zəngdə mesajlaşmaya icazə ver</string>
     <string name="rtt_mode_title">Real vaxtlı mətn (RTT) zəngi</string>
-    <string name="sa_switch_debug_summary">Əlavə SIM tənzimləmələrində 5G şəbəkə rejimi seçimlərini göstər</string>
+    <string name="sa_switch_debug_summary">Əlavə SIM ayarlarında 5G şəbəkə rejimi seçimlərini göstər</string>
     <string name="sa_switch_debug_title">5G şəbəkə rejimi seçimlərini göstər</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -1772,7 +1772,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="set_smsc_address_timeout">Bağlantının vaxtı bitdi</string>
     <string name="set_smsc_address_title">Qısa Mesaj xidmət mərkəzi (SMSC)</string>
     <string name="set_time_period">Vaxt müddətini tənzimlə</string>
-    <string name="settings_label">Şəbəkə tənzimləmələri</string>
+    <string name="settings_label">Şəbəkə ayarları</string>
     <string name="show_volte_switch_summary">SIM detallarında VoLTE keçidini göstər</string>
     <string name="show_volte_switch_title">VoLTE keçidini göstər</string>
     <string name="show_vonr_switch_summary">SIM detallarında VoNR keçidini göstər</string>
@@ -1873,7 +1873,7 @@ UT İnterfeysi: %5$s"</string>
     <string name="strPasswordLengthIncorrect">4-16 nömrə!</string>
     <string name="sum_call_barring_disabled">Bağlı</string>
     <string name="sum_call_barring_enabled">Açıq</string>
-    <string name="sum_cdma_call_settings">Yalnız CDMA zəngi əlavə tənzimləmələri</string>
+    <string name="sum_cdma_call_settings">Yalnız CDMA-ya xas əlavə zəng ayarları</string>
     <string name="sum_cfb_disabled">Bağlı</string>
     <string name="sum_cfb_enabled">{0} nömrəsinə yönləndirilir</string>
     <string name="sum_cfnl_disabled">Bağlı</string>
@@ -1887,14 +1887,14 @@ UT İnterfeysi: %5$s"</string>
     <string name="sum_cfu_enabled_indicator">Bütün zənglər yönləndirilir</string>
     <string name="sum_cfu_enabled_indicator_by_sim">SIM %s-ə edilən bütün zənglər yönləndiriləcək</string>
     <string name="sum_cfu_enabled_no_number">Nömrə əlçatmazdır</string>
-    <string name="sum_common_call_settings">Əlavə zəng tənzimləmələri</string>
+    <string name="sum_common_call_settings">Əlavə zəng ayarları</string>
     <string name="sum_cw_disabled">Zəng əsnasında, gələn zəngləri mənə bildir</string>
     <string name="sum_cw_enabled">Zəng əsnasında, gələn zəngləri mənə bildir</string>
     <string name="sum_default_caller_id">Gedən zənglərdə nömrəmi göstərmək üçün ilkin operator tənzimləmələrini istifadə et</string>
     <string name="sum_fdn">Sabit Yığım Nömrələrini idarə et</string>
     <string name="sum_fdn_change_pin">FDN müraciəti üçün PIN-i dəyişdir</string>
     <string name="sum_fdn_manage_list">Telefon nömrəsi siyahısını idarə et</string>
-    <string name="sum_gsm_call_settings">Yalnız GSM zəngləri əlavə tənzimləmələri</string>
+    <string name="sum_gsm_call_settings">Yalnız GSM-ə xas əlavə zəng ayarları</string>
     <string name="sum_hide_caller_id">Gedən zənglərdə nömrə gizlədilir</string>
     <string name="sum_loading_settings">Tənzimləmələr yüklənir…</string>
     <string name="sum_select_automatically">Tərcih edilən şəbəkəni avtomatik seç</string>
@@ -1920,17 +1920,17 @@ UT İnterfeysi: %5$s"</string>
     <string name="supp_service_notification_call_forwarded">Zəng yönləndirildi.</string>
     <string name="supp_service_notification_call_waiting">Zəng gözlədilir.</string>
     <string name="supp_service_outgoing_calls_barred">Gedən zənglərə qadağa qoyulub.</string>
-    <string name="supp_service_over_ut_precautions">%s istifadə etmək üçün mobil internetin açıq olduğuna əmin olun. Bunu mobil şəbəkə tənzimləmələrində dəyişdirə bilərsiniz.</string>
+    <string name="supp_service_over_ut_precautions">%s istifadə etmək üçün mobil internetin açıq olduğuna əmin olun. Bunu mobil şəbəkə ayarlarında dəyişdirə bilərsiniz.</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Bağla</string>
-    <string name="supp_service_over_ut_precautions_dual_sim">%1$s istifadə etmək üçün SIM %2$d üçün mobil internetin açıq olduğuna əmin olun. Bunu mobil şəbəkə tənzimləmələrində dəyişdirə bilərsiniz.</string>
-    <string name="supp_service_over_ut_precautions_roaming">%s istifadə etmək üçün mobil internetin və internet rouminqin açıq olduğuna əmin olun. Bunu mobil şəbəkə tənzimləmələrində dəyişdirə bilərsiniz.</string>
-    <string name="supp_service_over_ut_precautions_roaming_dual_sim">%1$s istifadə etmək üçün SIM %2$d üçün mobil internetin və internet rouminqin açıq olduğuna əmin olun. Bunu mobil şəbəkə tənzimləmələrində dəyişdirə bilərsiniz.</string>
+    <string name="supp_service_over_ut_precautions_dual_sim">%1$s istifadə etmək üçün SIM %2$d üçün mobil internetin açıq olduğuna əmin olun. Bunu mobil şəbəkə ayarlarında dəyişdirə bilərsiniz.</string>
+    <string name="supp_service_over_ut_precautions_roaming">%s istifadə etmək üçün mobil internetin və internet rouminqin açıq olduğuna əmin olun. Bunu mobil şəbəkə ayarlarında dəyişdirə bilərsiniz.</string>
+    <string name="supp_service_over_ut_precautions_roaming_dual_sim">%1$s istifadə etmək üçün SIM %2$d üçün mobil internetin və internet rouminqin açıq olduğuna əmin olun. Bunu mobil şəbəkə ayarlarında dəyişdirə bilərsiniz.</string>
     <string name="support_forbidden_fakecell">Qeyd: Saxta baza stansiyaları ilə bağlantını məhdudlaşdırmaq, zəif əhatə dairəsi olan ərazilərdə siqnalı azalda bilər.</string>
     <string name="switch_cancel_btn_text">İmtina</string>
     <string name="switch_confirm_btn_text">Oldu</string>
     <string name="switch_dds_to_sub_alert">Bu kartı ilkin internet kartı olaraq tənzimlə.</string>
     <string name="switch_dds_to_sub_alert_msg">Lütfən mobil interneti SIM-ə keçirin</string>
-    <string name="switch_debug_menu">Əlavə şəbəkə tənzimləmələri</string>
+    <string name="switch_debug_menu">Əlavə şəbəkə ayarları</string>
     <string name="switch_off">Bağlı</string>
     <string name="switch_on">Açıq</string>
     <string name="t9_indexing_method_pinyin">Pinyin</string>
@@ -2085,7 +2085,7 @@ Bu planşetdə qulaqlıq sahəsi yoxdur. Zəng edə bilmək üçün əllər-sər
     <string name="voicemail_default">Operatorunuz</string>
     <string name="voicemail_notification_vibrate_when_title">Titrəmə</string>
     <string name="voicemail_notifications_preference_title">Bildirişlər</string>
-    <string name="voicemail_number_not_set">&lt;Tənzimlənmədi&gt;</string>
+    <string name="voicemail_number_not_set">&lt;Ayarlanmadı&gt;</string>
     <string name="voicemail_provider">Xidmət</string>
     <string name="voicemail_provider_summary">Səsli poçt xidmətini seçin</string>
     <string name="voicemail_set_pin_dialog_title">PIN tənzimlə</string>

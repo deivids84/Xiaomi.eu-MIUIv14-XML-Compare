@@ -283,7 +283,7 @@
     <string name="fps_nature_title">Maksimum</string>
     <string name="fps_normal">Standart</string>
     <string name="fps_radio_btn_title">Yeniləmə sürəti</string>
-    <string name="fps_save_battery_tips">Batareya qənaəti açıqdır. Yeniləmə sürəti %d Hz-ə tənzimləndi.</string>
+    <string name="fps_save_battery_tips">Batareya qənaəti açıqdır. Yeniləmə sürəti %d Hz-ə ayarlandı.</string>
     <string name="fps_smooth_summary">Yüksək yeniləmə sürəti detallara daha çox aydınlıq gətirir</string>
     <string name="fps_smooth_title">Yüksək</string>
     <string name="fps_standard_summary">Standart yeniləmə sürəti batareyaya qənaət edir</string>

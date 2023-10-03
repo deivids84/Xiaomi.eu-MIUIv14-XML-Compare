@@ -38,7 +38,7 @@
     <string name="contentDescription">Pəncərəni daşı</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -162,7 +162,7 @@
     <string name="multi_window_cvw_title">Üzən pəncərə</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>

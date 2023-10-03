@@ -45,7 +45,7 @@
     <string name="account_duplicate_dlg_title">Dublikat hesab</string>
     <string name="account_failure">Seansın vaxtı bitdi</string>
     <string name="account_login_type_title">%1$s hesabı əlavə et</string>
-    <string name="account_options_actionbar_title">Hesab tənzimləmələri</string>
+    <string name="account_options_actionbar_title">Hesab ayarları</string>
     <string name="account_permission_child_statement">"Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanat"</string>
     <string name="account_permission_dialog_cancel_text">Geri götür</string>
     <string name="account_permission_dialog_text">"Davam etsəniz, Son İstifadəçi Lisenziya Razılaşmasına, Gizlilik Siyasətinə və Yetkinlik Yaşına Çatmayanlar üçün Şəxsi Verilənlərin Qorunmasına dair Bəyanatına verdiyiniz razılığı geri götürəcəksiniz. Bundan sonra WPS Poçtunu istifadə edə bilməyəcəksiniz və bu cihazda yaradılmış bütün verilənlər silinəcək."</string>
@@ -55,7 +55,7 @@
     <string name="account_security_verification">Hesab doğrulama</string>
     <string name="account_setting_message_body_load_complete">Tam mesaj</string>
     <string name="account_setting_message_body_load_head_abstract">E-poçt icmalı</string>
-    <string name="account_settings_action">Hesab tənzimləmələri</string>
+    <string name="account_settings_action">Hesab ayarları</string>
     <string name="account_settings_background_attachments_security_summary">Güvənlik riskləri üçün quraşdırma paketləri ehtiva edən qoşmaları yoxlayın</string>
     <string name="account_settings_background_attachments_security_title">Risklər üçün qoşmaları yoxlayın</string>
     <string name="account_settings_background_attachments_summary">Qoşmaları Wi-Fi istifadə edərək endir</string>
@@ -65,7 +65,7 @@
     <string name="account_settings_display">Görüntülə</string>
     <string name="account_settings_does_not_support_pop">"Bu özəllik POP3 tərəfindən dəstəklənmir"</string>
     <string name="account_settings_does_not_support_pop_attachment">"POP3, qoşmaları avtomatik endirə bilər, ancaq onlara düzəliş edə bilməz"</string>
-    <string name="account_settings_incoming_summary">İstifadəçi adı, parol və digər server tənzimləmələri</string>
+    <string name="account_settings_incoming_summary">İstifadəçi adı, parol və digər server ayarları</string>
     <string name="account_settings_mail_check_frequency_dialog_title">E-poçtlarınızı sinxronlaşdırmaq üçün, Poçt tətbiqini əllə təzələməlisiniz</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"Mesaj və təqvim tədbirlərini sinxronlaşdıra bilmək üçün, Poçt tətbiqini əllə təzələməlisiniz."</string>
     <string name="account_settings_mail_check_frequency_label">Sinxronlaşdırma tezliyi</string>
@@ -73,13 +73,13 @@
     <string name="account_settings_notifications">Bildirişlər</string>
     <string name="account_settings_notify_label">E-poçt bildirişləri</string>
     <string name="account_settings_op_title">E-poçtları idarə et</string>
-    <string name="account_settings_param">Hesab tənzimləmələri</string>
+    <string name="account_settings_param">Hesab ayarları</string>
     <string name="account_settings_preference_att_save_path">Qoşmalar üçün ilkin yer</string>
     <string name="account_settings_preference_head_icon">Profil fotoları</string>
     <string name="account_settings_preference_head_icon_summary">"Poçt siyahısı göndərənin avatarını göstərir"</string>
     <string name="account_settings_receive_title">Gələn e-poçtlar</string>
     <string name="account_settings_send_title">Gedən e-poçtlar</string>
-    <string name="account_settings_servers">Server tənzimləmələri</string>
+    <string name="account_settings_servers">Server ayarları</string>
     <string name="account_settings_smime_title">S/MIME (Güvənli/Çoxməqsədli İnternet Poçt Uzantıları)</string>
     <string name="account_settings_summary">Sinxronlaşdırma tezliyi, bildirişlər, və s.</string>
     <string name="account_settings_sync_calendar_enable">Təqvimi sinxronlaşdır</string>
@@ -87,9 +87,9 @@
     <string name="account_settings_sync_contacts_enable">Kontaktları sinxronlaşdır</string>
     <string name="account_settings_sync_contacts_summary">Bu hesab üçün kontaktları sinxronlaşdır</string>
     <string name="account_settings_sync_other_tips">Yalnız Exchange serverləri dəstəklənir</string>
-    <string name="account_settings_user_usage">Hesab tənzimləmələri</string>
+    <string name="account_settings_user_usage">Hesab ayarları</string>
     <string name="account_setup_address_label">E-poçt</string>
-    <string name="account_setup_autodiscover_dlg_authfail_message">İstifadəçi adının, parolun və hesab tənzimləmələrinin doğru olduğunu təsdiqləyin.</string>
+    <string name="account_setup_autodiscover_dlg_authfail_message">İstifadəçi adının, parolun və hesab ayarlarının doğru olduğunu təsdiqləyin.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">"Hesab quraşdırıla bilmədi"</string>
     <string name="account_setup_basics_email_label">E-poçt ünvanı</string>
     <string name="account_setup_basics_manual_setup_action">Əllə quraşdır</string>
@@ -97,8 +97,8 @@
     <string name="account_setup_basics_password_label">Parol</string>
     <string name="account_setup_basics_password_label_authcode">Parolu və ya doğrulama kodunu daxil edin</string>
     <string name="account_setup_basics_title">Hesab əlavə et</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Server tənzimləmələri doğrulanır…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">SMTP tənzimləmələri doğrulanır…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Server ayarları doğrulanır…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanır…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Hesab məlumatları alınır…"</string>
     <string name="account_setup_correct_address_tips">Daxil etdiyiniz e-poçt ünvanı yarasızdır.</string>
     <string name="account_setup_deleting_account_msg">"    Hesab silinir…"</string>
@@ -121,7 +121,7 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"Serverə bağlana bilmir.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">"Hesab quraşdırıla bilmədi"</string>
-    <string name="account_setup_failed_dlg_todo2">Hesabı aşağıda göstərilən kimi tənzimlə</string>
+    <string name="account_setup_failed_dlg_todo2">Hesabı aşağıda göstərildiyi kimi ayarla</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Bilinməyən xəta.</string>
     <string name="account_setup_failed_ioerror">"Serverlə bağlantı qurula bilmədi."</string>
     <string name="account_setup_failed_protocol_unsupported">"Yanlış server ünvanı daxil etdiniz və ya server, poçt tətbiqinin dəstəkləmədiyi bir protokol versiyası tələb edir."</string>
@@ -267,7 +267,7 @@ yol prefiksi"</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="chat_item_msg_people_unit">insanlar</string>
     <string name="chat_item_msg_user_etc">və s.</string>
-    <string name="check_setup_data">"    Server tənzimləmələri doğrulanır…"</string>
+    <string name="check_setup_data">"    Server ayarları doğrulanır…"</string>
     <string name="chip_text">Çip mətni</string>
     <string name="clear">Təmizlə</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
@@ -345,10 +345,10 @@ yol prefiksi"</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="debug_mode_preferencecategory">Jurnal çıxışını quraşdır</string>
-    <string name="debug_mode_settings">Sazlama rejimi tənzimləmələri</string>
+    <string name="debug_mode_settings">Sazlama rejimi ayarları</string>
     <string name="default_">İLKİN</string>
     <string name="default_opening_attchemnt_mode">Qoşmaları, ilkin tətbiqlər istifadə edərək aç</string>
-    <string name="default_setup">İLKİN TƏNZİMLƏMƏLƏR</string>
+    <string name="default_setup">İLKİN AYARLAR</string>
     <string name="default_signature">Xiaomi cihazımdan göndərildi</string>
     <string name="default_signature_2">%s cihazımdan göndərildi</string>
     <string name="default_signature_pad">Mi cihazımdan göndərildi</string>
@@ -360,7 +360,7 @@ yol prefiksi"</string>
     <string name="delete_message_dialog_right_button">Yalnız sil</string>
     <string name="delete_message_dialog_title">E-poçt silinir</string>
     <string name="delete_message_event">Bu dəvət silinsin?</string>
-    <string name="device_activity_lint_str">Poçt xidmətinin tam güncəlləmələrini fəallaşdır və güvənlik tənzimləmələrini aktivləşdir</string>
+    <string name="device_activity_lint_str">Poçt xidmətinin tam güncəlləməsini fəallaşdır və güvənlik ayarlarını aktivləşdir</string>
     <string name="dialog_agree">Razıyam</string>
     <string name="dialog_change_sync_lookback">%s əvvəl alınan poçt avtomatik silinəcək. Dəyişdirmək üçün toxunun.</string>
     <string name="dialog_disagree">"Razı deyiləm"</string>
@@ -527,7 +527,7 @@ yol prefiksi"</string>
     <string name="general_preference_trash_contact">Spam-ı filtrlə</string>
     <string name="general_preference_trash_contact_sum">Bir neçə istifadəçi tərəfindən bildirilən göndərənlərdən gələn e-poçtları filtrlə</string>
     <string name="generic_attachment_problem">"Qoşma əlavə edilə bilmədi."</string>
-    <string name="get_database_exception">"Tənzimləmələr &gt; \"Sistem tətbiqləri\"ndə bu tətbiqin verilənlərini təmizləyib yenidən sınayın."</string>
+    <string name="get_database_exception">"Ayarlar &gt; \"Sistem tətbiqləri\"ndə bu tətbiqin datasını təmizləyib yenidən sınayın."</string>
     <string name="get_oauth_code">Kodu al</string>
     <string name="gmail_invalid_tip_cancel">İmtina</string>
     <string name="gmail_invalid_tip_confirm">Daxil ol</string>
@@ -654,7 +654,7 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="menu_folder_options">Sinxronlaşdırma seçimləri</string>
     <string name="menu_move_to">Daşı</string>
     <string name="menu_resend_all">Hamısını yenidən göndər</string>
-    <string name="menu_settings">Tənzimləmələr</string>
+    <string name="menu_settings">Ayarlar</string>
     <string name="message_all_body">Tam mesaj</string>
     <string name="message_body_load_set_description">Mobil internet istifadə edərkən e-poçtları yüklə</string>
     <string name="message_discarded">Qaralama silindi</string>
@@ -1050,10 +1050,10 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="server_cet_subject_cn">"Dəstəklənən domen: "</string>
     <string name="server_cet_title">Sertifikat detalları</string>
     <string name="service_protocol_title">Xidmət Razılaşması</string>
-    <string name="set_network">Şəbəkəni tənzimlə</string>
+    <string name="set_network">Şəbəkəni ayarla</string>
     <string name="setting_kids_subtitle">Təsdiqlənən istifadəçi yaşı</string>
     <string name="setting_kids_title">16 yaşdan yuxarı</string>
-    <string name="settings_activity_title">Tənzimləmələr</string>
+    <string name="settings_activity_title">Ayarlar</string>
     <string name="settings_attachment">Qoşmalar</string>
     <string name="share_choose">Paylaşmaq üçün fayl seç</string>
     <string name="sharing">Paylaş</string>
@@ -1092,7 +1092,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="syncing_wait_restart">Yenidən sına</string>
     <string name="syncing_wait_restart_title">Server bağlantısının vaxtı bitdi</string>
     <string name="system_account_create_failed">"Hesab yaradıla bilmədi. Yenidən sınayın."</string>
-    <string name="system_security_open_error">\"Güvənlik\"i aça bilmək üçün Tənzimləmələrdə icazələri verin</string>
+    <string name="system_security_open_error">\"Güvənlik\"i aça bilmək üçün Ayarlarda icazələri verin</string>
     <string name="system_setup_open_error">Ayarlarda Mail üçün sinxr.nı işə sal</string>
     <string name="tap_to_configure">Quraşdırmaq üçün toxun.</string>
     <string name="tell_you_later">Sonra</string>
@@ -1190,7 +1190,7 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="undo">Geri al</string>
     <string name="unselected">Seçim ləğv edildi</string>
     <string name="update_domain_summary">Mövcud domenlərin və konfiqurasiyaların siyahısını güncəllə</string>
-    <string name="update_domain_title">Domen tənzimləmələrini güncəllə</string>
+    <string name="update_domain_title">Domen ayarlarını güncəllə</string>
     <string name="upload_log_no">İmtina</string>
     <string name="upload_log_title">\"Poçt\"u təkmilləşdirməyimizə kömək etmək üçün xəta jurnallarını bizə göndərin</string>
     <string name="upload_log_yes">Göndər</string>
@@ -1201,9 +1201,9 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="user_experience_positive">Razılaş və davam et</string>
     <string name="user_experience_title">Bəyannamə və şərtlər</string>
     <string name="user_new_auth_code">Daxil olmaq üçün yeni kodu istifadə edin</string>
-    <string name="user_privacy_settings">Gizlilik tənzimləmələri</string>
+    <string name="user_privacy_settings">Gizlilik ayarları</string>
     <string name="user_privacy_settings_agreement_authorization">"(\"Razıyam\"a toxunaraq, \"Poçt\"a bütün tələb edilən icazələri verirsiniz)"</string>
-    <string name="user_privacy_settings_path">Səlahiyyəti ləğv etmək üçün Tənzimləmələr &gt; Gizlilik tənzimləmələrinə gedin.</string>
+    <string name="user_privacy_settings_path">Səlahiyyəti ləğv etmək üçün Tənzimləmələr &gt; Gizlilik ayarlarına gedin.</string>
     <string name="user_privacy_settings_summary">"Android Kimliyinizi şifrəli formada toplayacağıq və onu Mail-dəki unikal istifadəçi identifikatoru kimi istifadə edəcəyik. İstifadə qeydlərini də toplaya bilərik. Səlahiyyətləndirmənizi istənilən vaxt gizlilik tənzimləmələri menyusundan ləğv edə bilərsiniz."</string>
     <string name="user_privacy_settings_title">E-poçt gizlilik bəyanatı</string>
     <string name="v7_preference_off">BAĞLI</string>

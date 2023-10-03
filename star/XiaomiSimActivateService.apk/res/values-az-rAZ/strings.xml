@@ -73,7 +73,7 @@
     <string name="activate_popup_desc_failed_query_info_msg_one_sim">"Telefon nömrəsi yoxlanıla bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
     <string name="activate_popup_desc_failed_receive_sms">Daxil etdiyiniz telefon nömrəsinin düzgün olduğuna və SIM kartınızın aktivləşdirildiyinə əmin olun.</string>
     <string name="activate_popup_desc_failed_server">Şəbəkə bağlantınızı yoxlayıb yenidən sınayın.</string>
-    <string name="activate_popup_desc_failed_server_msg">Bir xəta baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="activate_popup_desc_failed_server_msg">Bir server xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s \"%3$s\" xidmətini aktivləşdirmək üçün SIM %2$d telefon nömrəsini daxil edin. Bu SIM kartı dəyişdirsəniz, başqa bir aktivləşdirmə SMS-i göndəriləcək.</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s \"%2$s\" xidmətini aktivləşdirmək üçün telefon nömrənizi daxil edin. Bu SIM kartı dəyişdirsəniz, başqa bir aktivləşdirmə SMS-i göndəriləcək.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">\"%2$s\" xidmətini aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;beynəlxalq ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesaja görə sizdən ödəniş tələb edəcək.</string>
@@ -112,12 +112,12 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="error_checking_client_tip">"Aktivləşdirmə mühiti yoxlanıla bilmədi. Yenidən sınamaq üçün toxunun."</string>
-    <string name="error_network_io_tip">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="error_network_io_tip">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="error_no_get_send_sms_permission">Əvvəlcə SIM %d-ə SMS göndərməyə icazə verin.</string>
     <string name="error_no_get_send_sms_permission_one_sim">Əvvəlcə SMS göndərməyə icazə verin.</string>
     <string name="error_sim_not_in_service_tip">"SIM %d şəbəkə ilə bağlantı qura bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>

@@ -99,8 +99,8 @@
     <string name="accessibility_desc_lock_screen">Kilid ekranı.</string>
     <string name="accessibility_desc_notification_icon">%1$s bildirişi: %2$s</string>
     <string name="accessibility_desc_notification_shade">Bildiriş paneli.</string>
-    <string name="accessibility_desc_quick_settings">Cəld tənzimləmələr.</string>
-    <string name="accessibility_desc_quick_settings_edit">Cəld tənzimləmələr redaktoru.</string>
+    <string name="accessibility_desc_quick_settings">Cəld ayarlar.</string>
+    <string name="accessibility_desc_quick_settings_edit">Cəld ayarlar redaktoru.</string>
     <string name="accessibility_desc_work_lock">İş profili kilid ekranı</string>
     <string name="accessibility_detail_switch">Keçidlər arasında dəyişdirin</string>
     <string name="accessibility_detail_switch_disable">Əlçatmazdır</string>
@@ -187,12 +187,12 @@
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihazınızın batareyası %d faizdir.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth açıqdır.</string>
     <string name="accessibility_quick_settings_choose_user_action">istifadəçi seçin</string>
-    <string name="accessibility_quick_settings_collapse">Cəld tənzimləmələri bağla.</string>
+    <string name="accessibility_quick_settings_collapse">Cəld ayarları bağla.</string>
     <string name="accessibility_quick_settings_dnd">Narahat Etməyin.</string>
     <string name="accessibility_quick_settings_dnd_alarms_on">yalnız zəngli saatlar</string>
     <string name="accessibility_quick_settings_dnd_none_on">tam sakitlik</string>
     <string name="accessibility_quick_settings_edit">Tənzimləmələr sırasına düzəliş et.</string>
-    <string name="accessibility_quick_settings_expand">Cəld tənzimləmələri aç.</string>
+    <string name="accessibility_quick_settings_expand">Cəld ayarları aç.</string>
     <string name="accessibility_quick_settings_less_time">Daha az vaxt.</string>
     <string name="accessibility_quick_settings_more_time">Daha çox vaxt.</string>
     <string name="accessibility_quick_settings_open_settings">%s tənzimləmələrini aç.</string>
@@ -504,7 +504,7 @@ seçimi"</string>
     <string name="bugreport_in_power_summary">Xəta hesabatı almaq üçün güc menyusunda bir düymə göstər</string>
     <string name="build_number_clip_data_label">Quruluş nömrəsi</string>
     <string name="build_number_copy_toast">Quruluş nömrəsi lövhəyə kopyalandı.</string>
-    <string name="cached_apps_freezer_device_default">İlkin cihaz tənzimləmələri</string>
+    <string name="cached_apps_freezer_device_default">Cihaz ilkin ayarı</string>
     <string name="cached_apps_freezer_disabled">Sıradan çıxarıldı</string>
     <string name="cached_apps_freezer_enabled">Fəaldır</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Bu dəyişikliyin tətbiq edilməsi üçün cihaz yenidən başladılmalıdır. İndi yenidən başladın və ya ləğv edin.</string>
@@ -588,7 +588,7 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="controls_favorite_rearrange">Kontrolları yenidən düzmək üçün basılı tutun və sürükləyin</string>
     <string name="controls_favorite_removed">Bütün kontrollar silindi</string>
     <string name="controls_favorite_see_other_apps">Digər tətbiqlərə baxın</string>
-    <string name="controls_favorite_subtitle">Cəld Tənzimləmələrdən müraciət ediləcək kontrolları seçin</string>
+    <string name="controls_favorite_subtitle">Cəld Ayarlardan müraciət ediləcək kontrolları seçin</string>
     <string name="controls_favorite_toast_no_changes">Dəyişikliklər saxlanılmadı</string>
     <string name="controls_media_active_session">Hazırkı media seansı gizlədilə bilmir.</string>
     <string name="controls_media_button_connecting">Bağlantı qurulur</string>
@@ -654,10 +654,10 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="data_usage_uninstalled_apps">Silinmiş tətbiqlər</string>
     <string name="data_usage_uninstalled_apps_users">Silinmiş tətbiqlər və istifadəçilər</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="days_timestamp">%1$s gün əvvəl</string>
     <string name="debug_app">Sazlama tətbiqini seçin</string>
-    <string name="debug_app_not_set">Sazlama tətbiqi tənzimlənmədi</string>
+    <string name="debug_app_not_set">Heç bir sazlama tətbiqi ayarlanmadı</string>
     <string name="debug_app_set">Sazlama tətbiqi: %1$s</string>
     <string name="debug_applications_category">Tətbiqlər</string>
     <string name="debug_debugging_category">Sazlama</string>
@@ -1190,7 +1190,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="local_backup_password_title">Masaüstü nüsxələmə parolu</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Yeni parol və təsdiq uyğun gəlmir</string>
     <string name="local_backup_password_toast_success">Yeni nüsxə parolu tənzimləndi</string>
-    <string name="local_backup_password_toast_validation_failure">Nüsxə parolu tənzimlənmədi</string>
+    <string name="local_backup_password_toast_validation_failure">Nüsxə parolunu ayarlama uğursuz oldu</string>
     <string name="location_status">Yer paylaşılır</string>
     <string name="location_status_content_description">%1$s yeri paylaşır</string>
     <string name="lock_screen_access_to_5G">5G-yə müraciət</string>
@@ -1517,8 +1517,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="no_shortcut">%1$s daşınıq özəlliklərini dəstəkləmir</string>
     <string name="non_carrier_network_unavailable">Başqa heç bir şəbəkə mövcud deyil</string>
     <string name="noon">Günorta</string>
-    <string name="not_default_data_content_description">Data istifadə edilmək üzrə tənzimlənmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_default_data_content_description">Data istifadə edilmək üzrə ayarlanmadı</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notif_inline_reply_remove_attachment_description">Qoşmanı sil</string>
     <string name="notification_alert_title">İlkin</string>
     <string name="notification_app_settings">Özəlləşdir</string>
@@ -2376,7 +2376,7 @@ Wi‑Fi ünvanı (BSSID)
     <string name="wifi_not_in_range">Əhatə dairəsi xaricində</string>
     <string name="wifi_passpoint_expired">Müddəti bitdi</string>
     <string name="wifi_remembered">Saxlanıldı</string>
-    <string name="wifi_scan_notify_message">Cihaz təcrübəsini təkmilləşdirmək üçün, tətbiqlər və xidmətlər istənilən vaxt Wi‑Fi bağlı olsa belə, Wi‑Fi şəbəkələrini skan edə bilər. Bunu Wi‑Fi skan tənzimləmələrində dəyişdirə bilərsiniz. <annotation id="link">Dəyişdir</annotation></string>
+    <string name="wifi_scan_notify_message">Cihaz təcrübəsini təkmilləşdirmək üçün, tətbiqlər və xidmətlər istənilən vaxt Wi‑Fi bağlı olsa belə, Wi‑Fi şəbəkələrini skan edə bilər. Bunu Wi‑Fi skan ayarlarında dəyişdirə bilərsiniz. <annotation id="link">Dəyişdir</annotation></string>
     <string name="wifi_scan_throttling">Wi‑Fi skanını boğma</string>
     <string name="wifi_scan_throttling_summary">Enerji sərfiyyatını azaldır və şəbəkə performansını yaxşılaşdırır</string>
     <string name="wifi_security_dpp">DPP</string>

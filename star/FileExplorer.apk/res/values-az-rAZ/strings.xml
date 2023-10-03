@@ -198,7 +198,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="delete_folder">Bu qovluq silinsin?</string>
     <string name="des_hide_pwd">Parolu gizlət</string>
     <string name="des_show_pwd">Parolu göstər</string>
-    <string name="dialog_account_permission_denied_msg">Mi Drive-a daxil ola bilmək üçün bu tətbiqin cihaz hesablarına müraciət etməsinə icazə verin. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="dialog_account_permission_denied_msg">Mi Drive-a daxil ola bilmək üçün bu tətbiqin cihaz hesablarına müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="dialog_account_permission_denied_negative_button">İmtina</string>
     <string name="dialog_account_permission_denied_positive_button">Tənzimləmələr</string>
     <string name="dialog_account_permission_denied_title">Tələb olunan icazələr</string>

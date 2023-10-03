@@ -42,8 +42,8 @@
     <string name="cast_mcc_tips_button_ok">Tənzimləmələr</string>
     <string name="cast_mcc_tips_message">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
     <string name="cast_mcc_tips_message_china">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
-    <string name="cast_mcc_tips_title">Wi-Fi tənzimləmələrini dəyişdir</string>
-    <string name="cast_mcc_tips_title_china">Wi-Fi tənzimləmələrini dəyişdir</string>
+    <string name="cast_mcc_tips_title">Wi-Fi ayarlarını dəyişdir</string>
+    <string name="cast_mcc_tips_title_china">Wi-Fi ayarlarını dəyişdir</string>
     <string name="circulate_cta_agree">Razıyam</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">Mi Smart Hub-a xoş gəldiniz! Bu tətbiqi ekran məzmununu yayımlamaq, multimedia oxutmanı cihazlar arasında ötürmək, Mi Smart Play, MIUI+ istifadə etmək və tətbiq köçürmək üçün istifadə edə bilərsiniz. Bu tətbiqin internetə bağlanması lazımdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:</string>
@@ -69,7 +69,7 @@
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Yayım zamanı səs ötürmək üçün</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Cihazlar arasında faylların köçürülməsi üçün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_boss_terminal_name">Xiaomi kompüteri</string>
     <string name="default_error_msg">Bilinməyən xəta</string>
     <string name="device_max_screen_count_toast">Bu cihaz eyni anda yalnız iki pəncərənin açılmasını dəstəkləyir</string>
@@ -256,7 +256,7 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="nfc_wifi_and_bluetooth_china">Wi-Fi və Bluetooth-u aç</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_description_download">Bildiriş panelində endirmə irəliləyişini göstər</string>
     <string name="notification_channel_name_download">Endirmə irəliləyişini göstər</string>
     <string name="notification_mirror">Digər şəxs ekranını paylaşır. Daha sonra yenidən sınayın.</string>
@@ -514,7 +514,7 @@ telefonun kilidini aç"</string>
     <string name="worker_authorization_trusted">Həmişə bağlantı qur</string>
     <string name="worker_authorization_trusted_only_once">Bir dəfə bağlantı qur</string>
     <string name="worker_connect_fail_btn_retry">Yenidən sına</string>
-    <string name="worker_connect_fail_message">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="worker_connect_fail_message">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="worker_connect_fail_title">"Bağlantı qurula bilmədi"</string>
     <string name="worker_connect_help">Kömək</string>
     <string name="worker_connecting_message">Bağlantı qurulur…</string>

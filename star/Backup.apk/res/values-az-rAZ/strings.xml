@@ -71,8 +71,8 @@
     <string name="backup_data">Nüsxələnəcək elementləri seçin</string>
     <string name="backup_delete">Sil:</string>
     <string name="backup_empty">Nüsxə yoxdur.</string>
-    <string name="backup_empty_info">" Datalarınızı, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
-    <string name="backup_empty_info_onpad">" Datalarınızı, tənzimləmələrinizi və tətbiqlərinizi nüsxələyin"</string>
+    <string name="backup_empty_info">" Datalarınızı, ayarlarınızı və tətbiqlərinizi nüsxələyin"</string>
+    <string name="backup_empty_info_onpad">" Datalarınızı, ayarlarınızı və tətbiqlərinizi nüsxələyin"</string>
     <string name="backup_error">"Nüsxələnə bilmədi"</string>
     <string name="backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="backup_file_error">"Nüsxələnə bilmədi"</string>
@@ -126,8 +126,8 @@
     <string name="button_return">Geri</string>
     <string name="button_send">Göndər</string>
     <string name="call_title">Zəng tarixçəsi</string>
-    <string name="camera_summary">Kamera tənzimləmələri (fotolar daxil deyil)</string>
-    <string name="camera_summary_for_cta">Kamera tənzimləmələri</string>
+    <string name="camera_summary">Kamera ayarları (fotolar daxil deyil)</string>
+    <string name="camera_summary_for_cta">Kamera ayarları</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_backup">Dayandır</string>
     <string name="cancel_moving_dialog_message">Daxilə köçürmə indi dayandırlsın?</string>
@@ -142,7 +142,7 @@
     <string name="close_twice_auth_note">"Qeyd:
 Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra, Apple Kimliyinizin iki faktorlu kimlik doğrulaması söndürüləcək. Apple Kimliyi hesab səhifəsində iki faktorlu kimlik doğrulamanı söndürmə seçimini görmürsünüzsə, bunu söndürə bilməzsiniz."</string>
     <string name="close_twice_auth_step_1">1. Bir kompüterdə istənilən veb brauzeri açın və appleid.apple.com saytına gedin.</string>
-    <string name="close_twice_auth_step_2">2. İki faktorlu kimlik doğrulamanı sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab tənzimləmələrindən \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
+    <string name="close_twice_auth_step_2">2. İki faktorlu kimlik doğrulamanı sıradan çıxartmaq istədiyiniz Apple Kimliyinə giriş edin, hesab ayarlarının \"Güvənlik\" bölməsinə gedin və \"Düzəliş et\"i seçin.</string>
     <string name="close_twice_auth_step_3">3. \"İki faktorlu kimlik doğrulamanı söndür\" seçiminə toxunun. Təsdiqləmək üçün yenidən toxunun.</string>
     <string name="close_twice_auth_steps">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndürmək üçün bu addımları izləyin:</string>
     <string name="close_twice_auth_tutor">Apple Kimliyi üçün iki faktorlu kimlik doğrulamanı söndür</string>
@@ -179,7 +179,7 @@ Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra,
     <string name="data_no_enough_space_message">"Cihazınızda kifayət qədər yaddaş sahəsi yoxdur."</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_backup_process">Silinir…</string>
     <string name="delete_backup_title">Nüsxəni sil</string>
@@ -194,13 +194,13 @@ Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra,
     <string name="dialog_backup_password_change_device_restore_tips">"Nüsxələmə parolu açıq olduqda Mi Mover istifadə edilə bilmir. Əvvəlcə nüsxələmə parolunu bağlayın."</string>
     <string name="dialog_backup_password_change_machine_tips">"Parolla qorunan nüsxələri köçürə bilməzsiniz. Mi Mover-i istifadə etməzdən əvvəl nüsxə parolunu söndürün."</string>
     <string name="dialog_backup_password_restore_tips">"Nüsxələmə parolu açıq olduqda elementlər bərpa edilə bilmir. Əvvəlcə nüsxələmə parolunu bağlayın."</string>
-    <string name="dialog_backup_password_to_settings">Tənzimləmələr</string>
+    <string name="dialog_backup_password_to_settings">Ayarlar</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">Şifrəli deyil</string>
     <string name="disable_encrypt_title">Şifrələməni söndür</string>
     <string name="disable_local_backup">Yerli nüsxələməni söndür</string>
     <string name="disable_local_backup_and_restore">Yerli nüsxələməni söndür</string>
-    <string name="disable_local_backup_tips">"Bu özəlliyi söndürdükdən sonra bütün yerli nüsxələmələr silinəcək. Nüsxələmə tənzimləmələri təmizlənəcək və elementlər arıtq avtomatik nüsxələnməyəcək. Cihazınızı həmişəki kimi istifadə edə biləcəksiniz. Yenə də söndürülsün?"</string>
+    <string name="disable_local_backup_tips">"Bu özəlliyi söndürdükdən sonra bütün yerli nüsxələmələr silinəcək. Nüsxələmə ayarları təmizlənəcək və elementlər arıtq avtomatik nüsxələnməyəcək. Cihazınızı həmişəki kimi istifadə edə biləcəksiniz. Yenə də söndürülsün?"</string>
     <string name="early_morning">Səhər</string>
     <string name="enable_encrypt">Şifrələməni işə sal</string>
     <string name="enable_encrypt_description">Şifrələ</string>
@@ -243,7 +243,7 @@ Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra,
     <string name="feature_title_call_log">Zəng tarixçəsi</string>
     <string name="feature_title_contacts">Kontaktlar</string>
     <string name="feature_title_mms">MMS</string>
-    <string name="feature_title_mms_setting">Mesajlaşma tənzimləmələri</string>
+    <string name="feature_title_mms_setting">Mesajlaşma ayarları</string>
     <string name="feature_title_sms">Mesajlar</string>
     <string name="file_uploading">Yüklənir…</string>
     <string name="files_backup_info">SD kartdakı bütün fayllar (fotolar, mahnılar, videolar, tətbiq dataları və s. daxil olmaqla)</string>
@@ -267,7 +267,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="gallery_summary">Qalereya tənzimləmələri (fotolar daxil deyil)</string>
+    <string name="gallery_summary">Qalereya ayarları (fotolar daxil deyil)</string>
     <string name="grant_all_permission_content">Elementləri nüsxələyə və bərpa edə bilmək üçün bütün məcburi icazələri verin.</string>
     <string name="grant_all_permission_title">Tələb olunan icazələr</string>
     <string name="guarded_mode_dialog_backup_message">"Qonaq rejimində nüsxələməyə icazə verilmir."</string>
@@ -293,7 +293,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="hsa_verify_shutdown">Bağla</string>
     <string name="iCloud_ID_verification_tip">Doğrulama kodunu göstərmək üçün Apple cihazınızda \"İcazə ver\" seçiminə toxunun. Doğrulama kodunu bura daxil edin.</string>
     <string name="icloud_backup_tip">Köhnə iOS cihazınızın iCloud hesabına daxil olun</string>
-    <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Tənzimləmələri açın və iCloud-u seçin.
+    <string name="icloud_how_to_backup_tip_steps">"1. iOS cihazınızda Ayarları açın və iCloud-u seçin.
 2. Kontaktlar və digər elementlər üçün düymələri dəyişdirin.
 3. Fotoları seçin və iCloud Foto Kitabxanası düyməsini dəyişdirin."</string>
     <string name="icloud_how_to_backup_tip_summary">iOS-dan dataları daxilə köçürmək üçün, bir iCloud nüsxəsi yaratmalısınız.</string>
@@ -330,11 +330,11 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="local_main_auto_backup_title">Avtomatik nüsxələ</string>
     <string name="local_main_backup">Yerli nüsxələr</string>
     <string name="local_main_backup_and_restore">Bu cihazda</string>
-    <string name="local_main_backup_detail_title">Sistem tənzimləmələri, hesablar və tətbiq dataları</string>
+    <string name="local_main_backup_detail_title">Sistem ayarları, hesablar və tətbiq dataları</string>
     <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Yerli nüsxələri idarə et</string>
     <string name="local_main_backup_manager_title">Nüsxələri idarə et</string>
-    <string name="local_main_backup_settings">Yerli nüsxələmə tənzimləmələri</string>
+    <string name="local_main_backup_settings">Yerli nüsxələmə ayarları</string>
     <string name="local_main_backup_time">Ən son nüsxələmə: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Mi Hesabınızı istifadə edərək nüsxələdiyiniz elementləri şifrələyin</string>
@@ -456,7 +456,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="new_local_tab_restore">Bərpa et</string>
     <string name="new_local_tab_restore_pad">Bərpa et</string>
     <string name="new_low_storage_title">Yetərli anbar sahəsi yoxdur</string>
-    <string name="new_more_settings_label">Əlavə tənzimləmələr</string>
+    <string name="new_more_settings_label">Əlavə ayarlar</string>
     <string name="new_pc_backup_content1">%1$d. \"%2$s\" aç.</string>
     <string name="new_pc_backup_content2">%d. Bütün elementlərin nüsxələnməsini gözləyin.</string>
     <string name="new_pc_backup_content3">%d. Nüsxəni MIUI-Backup-AllBackup qovluğunda tapın.</string>
@@ -497,7 +497,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="noon">Günorta</string>
     <string name="not_enough_storage_tips">Anbar sahəsi yetərsizdir. Bir az yer açıb yenidən sınayın.</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="note_title">Qeydlər</string>
     <string name="nothing_searched">Nəticə yoxdur.</string>
     <string name="notif_backup_complete_title">Uğurla nüsxələndi</string>
@@ -553,7 +553,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="permission_backup_sms">Mesajları nüsxələmək üçün</string>
     <string name="permission_backup_sms_desc">Mesajları nüsxələyə bilmək üçün əvvəlcə bu tətbiqin mesajlarınıza müraciətinə icazə verin.</string>
     <string name="permission_content_title">Tələb olunan icazələr</string>
-    <string name="permission_dialog_positive_btn">Tənzimləmələr</string>
+    <string name="permission_dialog_positive_btn">Ayarlar</string>
     <string name="permission_intro">İcazə detalları</string>
     <string name="permission_management_entrance">İcazələri idarə et</string>
     <string name="permission_not_admit">İcazə verilmədi</string>
@@ -579,7 +579,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="permission_write_calllog">Zəng tarixçəsinə düzəliş et</string>
     <string name="permission_write_contacts">Kontaktlara düzəliş et</string>
     <string name="permission_write_storage">Elementləri anbarda saxla</string>
-    <string name="phone_title">Telefon tənzimləmələri</string>
+    <string name="phone_title">Telefon ayarları</string>
     <string name="platform_chooser_item_android_mi">Mi telefon</string>
     <string name="platform_chooser_item_android_others">Digər markalar</string>
     <string name="platform_chooser_item_ios">iOS cihazından daxilə köçür</string>
@@ -611,7 +611,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="restore_files">Elementləri bərpa etmək üçün</string>
     <string name="restore_finished">Uğurla bərpa edildi</string>
     <string name="restore_is_running">Cihaz bərpa edilir</string>
-    <string name="restore_launcher_layout_hit">Başladıcı tənzimləmələrini bərpa et</string>
+    <string name="restore_launcher_layout_hit">Başladıcı ayarlarını bərpa et</string>
     <string name="restore_progress">Bərpa edilir…</string>
     <string name="restore_report">Bərpa detalları</string>
     <string name="restore_telephony_hit">Bərpa etmə Telefon tətbiqini yenidən başladacaq.</string>
@@ -658,7 +658,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="select_storage_location">Nüsxələmə yerini seçin</string>
     <string name="send">Göndər</string>
     <string name="service_stoped">Xidmət dayandı</string>
-    <string name="settings_summary">Telefon və mesajlaşma tənzimləmələri</string>
+    <string name="settings_summary">Telefon və mesajlaşma ayarları</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -684,7 +684,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="system_backup">Nüsxələmə</string>
-    <string name="system_backup_info">Sistem tənzimləmələri və Əsas ekran düzülüşü</string>
+    <string name="system_backup_info">Sistem ayarları və Əsas ekran düzümü</string>
     <string name="task_backup_cancel_progress">Dayandırılır…</string>
     <string name="task_backup_finished_local">"Nüsxələndi "</string>
     <string name="task_canceled">Nüsxələmə ləğv edildi</string>
@@ -755,7 +755,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="total_size">, %s</string>
@@ -774,7 +774,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_cancelling">Ləğv edilir…</string>
     <string name="trans_complete_restoring">Uğurla köçürüldü. Tətbiq datası bərpa edilir…</string>
     <string name="trans_connect_failed_device_incompatible">"Cihaz uyğun deyil. Köçürməni ləğv edin və yenidən sınayın."</string>
-    <string name="trans_connect_failed_message">"Bağlantı qurula bilmədi, yenidən sınayın və ya cihazı yenidən başladın. Digər cihazda, Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Mi Mover bölməsinə gedin, [Göndərənəm] seçiminə toxunun və ya cihazınızı yenidən başlatdıqdan sonra Mi Moveri-i açın."</string>
+    <string name="trans_connect_failed_message">"Bağlantı qurula bilmədi, yenidən sınayın və ya cihazı yenidən başladın. Digər cihazda, Ayarlar &gt; Əlavə ayarlar &gt; Mi Mover bölməsinə gedin, [Göndərənəm] seçiminə toxunun və ya cihazınızı yenidən başlatdıqdan sonra Mi Moveri-i açın."</string>
     <string name="trans_connect_failed_title">"Bağlantı qurula bilmədi"</string>
     <string name="trans_connect_failed_toast">"Bağlantı qurula bilmədi"</string>
     <string name="trans_connecting_toast">Bağlantı qurulur…</string>
@@ -831,7 +831,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_intro_desc_5">Köhnə cihazlarda anbar sahəsi köçürmə paketləri yaratmaq üçün istifadə olunur. Köçürməyə başlamazdan əvvəl köhnə telefonunuzda ən azı 500 MB - 1 GB qədər boş yer olduğuna əmin olun.</string>
     <string name="trans_intro_desc_6">Bunun baş verməsin bir neçə səbəbi ola bilər: sistem və tətbiq versiyaları arasında uyğunluq problemləri, şəbəkə problemləri, müəyyən bir cihaza xas uyğunluq problemləri və s.</string>
     <string name="trans_intro_desc_7">Bəzi tətbiq profilləri (e-bankçılıq, maliyyə və s.) güvənlik səbəblərinə görə müəyyən bir cihazla əlaqələndirilir. Tətbiq verilənlərini təmizləməyə və ya tətbiqi yeni cihazda təkrar quraşdırmağa çalışın.</string>
-    <string name="trans_intro_desc_8">"WeChat tətbiq verilənləri və söhbət tarixçəsi Mi Mover istifadə edərək tam köçürülməyə bilir. Uğurlu bir köçürmə şansınızı artırmaq üçün WeChat tənzimləmələrinə gedib hesabınızdan çıxış edin."</string>
+    <string name="trans_intro_desc_8">"WeChat tətbiq datası və söhbət tarixçəsi Mi Mover istifadə edilərək tam köçürülməyə bilir. Uğurlu bir köçürmə şansınızı artırmaq üçün WeChat ayarlarına gedib hesabınızdan çıxış edin."</string>
     <string name="trans_intro_desc_9_method_1_dec">Əsas ekran &gt; Alətlər &gt; Əks-əlaqə bölməsinə gedin.</string>
     <string name="trans_intro_desc_9_method_1_title">1.\"Əks-əlaqə\" tətbiqini istifadə edərək fikirlərinizi paylaşın.</string>
     <string name="trans_intro_desc_9_method_2_dec">Əks-əlaqələrinizi miui-mover@xiaomi.com ünvanına göndərin.</string>
@@ -865,7 +865,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="trans_intro_title_new">Yeni telefonda:</string>
     <string name="trans_intro_title_old">Köhnə telefonda:</string>
     <string name="trans_intro_title_private">Gizli albom:</string>
-    <string name="trans_main_tutor">Kontaktları, zəng tarixçəsini, mesajları, əsas ekran düzülüşünü, tətbiqləri, tənzimləmələri və sair yeni cihaza daşıyın</string>
+    <string name="trans_main_tutor">Kontaktları, zəng tarixçəsini, mesajları, əsas ekran düzümünü, tətbiqləri, ayarları və sair yeni cihaza daşıyın</string>
     <string name="trans_my_device">Cihazım</string>
     <string name="trans_native_no_space">"Köhnə cihazda yetərli anbar sahəsi yoxdur (%s boşdur).
 Anbar sahəsini boşaldın və ya vacib elementləri köçürün."</string>
@@ -879,12 +879,12 @@ Anbar sahəsini boşaldın və ya vacib elementləri köçürün."</string>
     <string name="trans_open_location_title">Yerləşmə xidmətlərini aç</string>
     <string name="trans_operate_func_one">A üsulu</string>
     <string name="trans_operate_func_two">B üsulu</string>
-    <string name="trans_operate_new_phone_tips">"Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Mi Mover
+    <string name="trans_operate_new_phone_tips">"Ayarlar &gt; Əlavə ayarlar &gt; Mi Mover
 QR kodu yaratmaq üçün [Alıcıyam] seçiminə toxunun"</string>
     <string name="trans_operate_old_phone_tips1">"1. Köhnə cihazınızda Mi Mover-i quraşdırın
 2. Tətbiqi açıb başlada toxunun
 3. Köhnə cihazınızla QR kodu skan edin"</string>
-    <string name="trans_operate_old_phone_tips2">"Tənzimləmələr &gt; Əlavə tənzimləmələr &gt; Mi Mover, [Göndərənəm] seçiminə toxunun"</string>
+    <string name="trans_operate_old_phone_tips2">"Ayarlar &gt; Əlavə ayarlar &gt; Mi Mover, [Göndərənəm] seçiminə toxunun"</string>
     <string name="trans_operate_reconnect_new_tips">"Yeni telefonda \"Bağlantı yarımçıq kəsildi\" görünənə qədər gözləyin.
 Sonra QR kodu yaratmaq üçün \"Yenidən bağlantı qur\"a toxunun."</string>
     <string name="trans_operate_reconnect_old_tips">"Köhnə telefonda \"Bağlantı yarımçıq kəsildi\" görünənə qədər gözləyin.
@@ -990,7 +990,7 @@ Bağlantı qurulmadan səhifəni bağlamayın."</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="wifi_title">Wi-Fi tənzimləmələri</string>
+    <string name="wifi_title">Wi-Fi ayarları</string>
     <string name="xiaomi_connect_download_manager_fail">"Endirmə başladıla bilmədi. Endirmə Menecerinin düzgün işlədiyinə əmin olun."</string>
     <string name="xiaomi_external_storage_unavailable">"Anbar əlçatmazdır, SD kartınızı yoxlayın."</string>
     <string name="xiaomi_router">Mi Router</string>

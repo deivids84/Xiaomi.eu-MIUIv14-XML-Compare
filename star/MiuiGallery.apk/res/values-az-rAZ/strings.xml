@@ -3474,7 +3474,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_talkback_audio_local">Yerli musiqi</string>
     <string name="vlog_talkback_audio_null">Film musiqisi yoxdur</string>
     <string name="vlog_talkback_audio_seekbar">Səsi tənzimlə</string>
-    <string name="vlog_talkback_audio_seekbar_adjust">Səs %d səviyyəsinə tənzimləndi</string>
+    <string name="vlog_talkback_audio_seekbar_adjust">Səs səviyyəsi %d olaraq ayarlandı</string>
     <string name="vlog_talkback_audio_voice">Orijinal fim musiqisi</string>
     <string name="vlog_talkback_caption_add_view">Mətn əlavə et</string>
     <string name="vlog_talkback_clip_add_videos">Video əlavə et</string>

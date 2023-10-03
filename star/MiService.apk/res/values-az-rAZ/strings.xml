@@ -34,7 +34,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
@@ -272,7 +272,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="permission_agree">Razıyam</string>
     <string name="permission_china_version_msg"><Data>\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</Data></string>
     <string name="permission_complete">Hazırdır</string>
@@ -301,7 +301,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="public_authorize_now">Tənzimləmələr</string>
     <string name="public_loading_text">Bir saniyə…</string>
     <string name="public_net_error_retry">Yenidən sına</string>
-    <string name="public_net_error_sub_title">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="public_net_error_sub_title">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="public_net_error_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="public_open_feedback_service">Başlat</string>
     <string name="public_please_authorize">Davam etmək üçün icazələr tələb edilir</string>
@@ -354,7 +354,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_settings_dialog">Tələb olunan icazələr</string>
@@ -372,7 +372,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="wednesday_shortest">Çər</string>
     <string name="withdraw_consent_failed">"Razılıq geri götürülə bilmədi"</string>
     <string name="withdraw_consent_failed_hint">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="withdrawing">Razılıq geri götürülür…</string>
     <string name="yesterday">Dünən</string>
 </resources>

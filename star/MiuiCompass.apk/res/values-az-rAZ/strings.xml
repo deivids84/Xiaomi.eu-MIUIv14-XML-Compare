@@ -59,7 +59,7 @@
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmasına və bütün özəllikləri istifadə edə bilməsi üçün ixtiyari icazələri verməsinə icazə ver.</string>
     <string name="cta_v2_app_purpose">istiqamətlər, koordinatlar, atmosfer təzyiqi və mövcud yüksəklik göstərilir</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dialog_body_no_network">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
     <string name="dialog_body_no_network_china">Wi-Fi şəbəkəsinə qoşul və ya mobil interneti aç.</string>
     <string name="dialog_calibrat_altitude">Kalibrlənir…</string>
@@ -221,7 +221,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_allowed">İcazə verilmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="open_camera">Kameranı istifadə et</string>
     <string name="open_perm_msg">Kompasın yerləşmə məlumatlarına və kameraya müraciətinə ethiyacı var. Bu, kordinatların aşkarlanması və canlı önbaxışların təmin edilməsi üçün lazımdır. İcazə verilsin?</string>
     <string name="open_perm_msg_no_camera">Kompasın koordinantları aşkarlaya bilməsi üçün yerləşmə məlumatlarına müraciətinə ehtiyacı var. İcazə verilsin?</string>

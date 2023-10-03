@@ -65,8 +65,8 @@
     <string name="HIPS_Perm_SendMMS_Desc">birbaşa multimedia mesajları göndərər</string>
     <string name="HIPS_Perm_SendSMS">SMS mesajları göndərmə</string>
     <string name="HIPS_Perm_SendSMS_Desc">birbaşa SMS mesajları göndərir</string>
-    <string name="HIPS_Perm_Settings">Sistem tənzimləmələrini dəyişdirmə</string>
-    <string name="HIPS_Perm_Settings_Desc">sistem tənzimləmələrini dəyişdirir</string>
+    <string name="HIPS_Perm_Settings">Sistem ayarlarını dəyişdir</string>
+    <string name="HIPS_Perm_Settings_Desc">sistem ayarlarını dəyişdir</string>
     <string name="HIPS_Perm_SystemAlert">Açılan pəncərə görüntülə</string>
     <string name="HIPS_Perm_SystemAlert_Desc">açılan pəncərə görüntülə</string>
     <string name="HIPS_Perm_UDevice_ID">Oyun təcrübənizi təkmilləşdirmələrinə kömək etmək üçün cihaz hissələrinin məlumatlarını tərtibatçılar ilə paylaşın. Razılaşırsınız?</string>
@@ -165,7 +165,7 @@
     <string name="cetus_invisible_mode_notice_audio">"Gizli rejimdəsiniz. Mikrofon indi istifadə edilə bilmir."</string>
     <string name="cetus_invisible_mode_notice_camera">"Gizli rejimdəsiniz. Kamera indi istifadə edilə bilmir."</string>
     <string name="cetus_invisible_mode_notice_location">"Gizli rejimdəsiniz. Yerləşmə xidmətləri indi istifadə edilə bilmir."</string>
-    <string name="cetus_invisible_mode_notice_tip">Tənzimləmələrdə Gizli rejimi söndürmək üçün toxunun</string>
+    <string name="cetus_invisible_mode_notice_tip">Ayarlarda Gizli rejimi söndürmək üçün toxunun</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clipboard_ai_allow_once">%1$s üçün mübadilə lövhəsindəki elementlərə avtomatik müraciət etmə icazəsi verildi</string>
     <string name="clipboard_data">"Məzmun: "</string>
@@ -180,7 +180,7 @@
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_permission_description">bilinməyən əməliyyatları icra edir</string>
     <string name="early_morning">Səhər</string>
     <string name="eras_ad">B.E</string>
@@ -201,7 +201,7 @@
     <string name="friday_shortest">Cüm</string>
     <string name="go_behavior_record">Tətbiq davranış tarixçəsi</string>
     <string name="go_perm_manager">İcazələri idarə et</string>
-    <string name="go_setting">Tənzimləmələr</string>
+    <string name="go_setting">Ayarlar</string>
     <string name="gold_master_dialog_reject">Məhdudlaşdır (%d)</string>
     <string name="gold_master_dialog_title">%1$s, mübadilə lövhənizə müraciət etmək istəyir</string>
     <string name="grant_dialog_button_allow">İcazə ver</string>
@@ -220,8 +220,8 @@
     <string name="grant_dialog_storage_sociality_title">Sosial media tətbiqlərindəki mesajlar</string>
     <string name="keep_blur_location">Bəli</string>
     <string name="keep_notice_me">Bildirməyə davam et</string>
-    <string name="location_settings">Yerləşmə tənzimləmələri</string>
-    <string name="location_warning">%1$s, bu cihaz üçün yerləşmə xidmətlərinin provayderidir. Yerləşmə xidmətləri, yerləşmə tənzimləmələrindən dəyişdirilə bilər.</string>
+    <string name="location_settings">Yerləşmə ayarları</string>
+    <string name="location_warning">%1$s, bu cihaz üçün yerləşmə xidmətlərinin provayderidir. Yerləşmə xidmətləri, yerləşmə ayarlarından dəyişdirilə bilər.</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
@@ -294,12 +294,12 @@
     <string name="night">Axşam</string>
     <string name="no">Xeyr</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notification_click_tip">Detallara baxmaq üçün toxunun</string>
     <string name="ok">Oldu</string>
     <string name="perm_action_allow">İcazə ver</string>
     <string name="perm_action_deny">Heç vaxt icazə vermə</string>
-    <string name="perm_educate_post_notification">Bildirişlər, Bildiriş panelində və Əsas ekran nişanlarında göründüyü üçün səs və titrəmə ilə müşayiət oluna bilər. Bildiriş tərcihlərinizi Tənzimləmələrdən dəyişdirə bilərsiniz.</string>
+    <string name="perm_educate_post_notification">Bildirişlər, Bildiriş panelində və Əsas ekran nişanlarında göründüyü üçün səs və titrəmə ilə müşayiət oluna bilər. Bildiriş tərcihlərinizi Ayarlarda dəyişdirə bilərsiniz.</string>
     <string name="perm_manager_suggest_operation">İcazələri idarə et</string>
     <string name="perm_manager_suggest_title">İcazələr tənzimlənsin?</string>
     <string name="perm_modem_location">Yerləşmənizə müraciət</string>
@@ -349,7 +349,7 @@
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_privacy_related">Gizlilik</string>
     <string name="permission_group_title_sensitive_privacy_related">Həssas icazələr</string>
-    <string name="permission_group_title_settings_related">Tənzimləmələr</string>
+    <string name="permission_group_title_settings_related">Ayarlar</string>
     <string name="permission_list_include">Aşağıdakılar daxil olmaqla</string>
     <string name="permission_reminders">İcazə xatırladıcıları</string>
     <string name="permission_warning_template">%1$s üçün %2$s icazəsi verilsin?</string>
@@ -364,7 +364,7 @@
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
-    <string name="screen_overlay_button">Tənzimləmələri aç</string>
+    <string name="screen_overlay_button">Ayarları aç</string>
     <string name="screen_overlay_message">Bu icazəni dəyişdirmək üçün, Tənzimləmələr &gt; Tətbiqlər bölməsindən ekran örtülməsini söndürməyiniz lazımdır.</string>
     <string name="screen_overlay_title">Ekran örtüyü aşkarlandı</string>
     <string name="search_menu_title">Axtar</string>

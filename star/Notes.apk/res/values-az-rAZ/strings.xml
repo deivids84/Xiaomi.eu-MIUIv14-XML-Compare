@@ -112,8 +112,8 @@
     <string name="date_calculate_today">0 gün</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_alarm_reminder">Zəngli saat</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
-    <string name="date_time_picker_has_not_set_alarm">"Zəngli saat tənzimlənmədi"</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
+    <string name="date_time_picker_has_not_set_alarm">"Zəngli saat ayarlanmadı"</string>
     <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla tənzimləndi</string>
     <string name="db_downgrade_clear_button">Tətbiq datasını təmizlə</string>
     <string name="db_downgrade_clear_date_reminder">"Fərqli bir MIUI versiyasına keçmək, Qeydlər üçün tətbiq datasının təmizlənməsini tələb edir. Bunu etməzdən əvvəl, qeydlərinizi buluda nüsxələdiyinizə əmin olun."</string>
@@ -354,7 +354,7 @@
     <string name="miui_penengine_tool_undo">Geri al</string>
     <string name="miui_plus_app_state_description_app_setting">Tətbiq tənzimləmələri</string>
     <string name="miui_plus_app_state_description_home">Əsas səhifə</string>
-    <string name="miui_plus_app_state_description_quick_note_setting">Cəld qeydlər tənzimləmələri</string>
+    <string name="miui_plus_app_state_description_quick_note_setting">Cəld not ayarları</string>
     <string name="miui_plus_app_state_description_view_note">Qeydə bax</string>
     <string name="miui_plus_relay_waring_data_not_find">"Baxdığınız element başqa bir cihazda tapıla bilmədi. Bütün elementlərin sinxrn. əmin olun."</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -456,7 +456,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçiminə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="new_alert_title_delete">Qeydləri sil</string>
     <string name="new_app_name">Mi Qeydlər</string>
@@ -470,7 +470,7 @@
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="noon">Günorta</string>
     <string name="not_now">İndi yox</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="note_dual_screen_dialog_content">"Deyəsən, indi qeydlərə kompüterinizdə düzəliş edirsiniz. Ziddiyyətli düzəlişlərin qarşısını almaq üçün kompüterinizdə \"Qeydlər\"i bağlayın."</string>
     <string name="note_dual_screen_dialog_title">Screen Combo istifadə edilir…</string>
     <string name="note_gesture_guide_step1">Səsli qeyd yaratmaq üçün üstəgəl düyməsini basılı tutun</string>
@@ -571,7 +571,7 @@
     <string name="pref_remind_type_summary_new_2">Səssiz və ya NE rejimi açıq olsa belə səs oxut</string>
     <string name="pref_remind_type_title_new">Yüksək prioritetli xatırladıcılar</string>
     <string name="pref_title_cloud_trash_bin">Buludda silinən qeydlər</string>
-    <string name="pref_title_common">Əlavə tənzimləmələr</string>
+    <string name="pref_title_common">Əlavə ayarlar</string>
     <string name="pref_title_excerpt_remind">Çıxarış xatırladıcıları</string>
     <string name="pref_title_font_size">Şrift ölçüsü</string>
     <string name="pref_title_note_style">Stil</string>

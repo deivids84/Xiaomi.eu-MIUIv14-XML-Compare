@@ -82,7 +82,7 @@
     <string name="documentmanager_loginView_toastpassword">Parol daxil edin</string>
     <string name="documentmanager_noEmailApp">"Heç bir e-poçt tətbiqi tapıla bilmir, quraşdırdığınıza və hesaba daxil olduğunuza əmin olun."</string>
     <string name="documentmanager_nocall_app">"Heç bir nömrəyığan tətbiqi tapıla bilmir, indi quraşdırın."</string>
-    <string name="documentmanager_phone_setting">Tənzimləmələr</string>
+    <string name="documentmanager_phone_setting">Ayarlar</string>
     <string name="documentmanager_searchbof">Son nəticəyə çatın</string>
     <string name="documentmanager_searcheof">İlk nəticəyə çatın</string>
     <string name="documentmanager_send">Göndər</string>

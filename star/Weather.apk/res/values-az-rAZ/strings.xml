@@ -47,7 +47,7 @@
     <string name="activity_find_city_dialog_message">Dəqiq yerləşmə məlumatı əldə etmək üçün \"Hava\" tətbiqinin yerləşmənizə müraciətinə icazə verin.</string>
     <string name="activity_find_city_dialog_message_global">Yerləşmə xidmətlərini açın və cihazınızın naqilsiz şəbəkələri istifadə edərək yerləşməni aşkarlamasına icazə verin.</string>
     <string name="activity_find_city_dialog_message_location_service">Əlaqəli hava məlumatlarını əldə etmək üçün, \"Hava\" tətbiqinin yerləşmənizə müraciətinə icazə verin.</string>
-    <string name="activity_find_city_dialog_set">Tənzimləmələr</string>
+    <string name="activity_find_city_dialog_set">Ayarlar</string>
     <string name="activity_find_city_dialog_title">Yerləşməyə müraciət</string>
     <string name="activity_main_pub_time">%1$s dərc edildi</string>
     <string name="activity_main_update_time">%1$s güncəlləndi</string>
@@ -137,7 +137,7 @@
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="data_provided_by">Təminatçı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dialog_internet_error_title">Xəta baş verdi</string>
     <string name="dialog_msg_score_midrop">Hava tətbiqi haqqında nə düşünürsünüz?</string>
     <string name="dialog_msg_score_not_good">Bizə əks-əlaqə verərək fikrinizi bildirmək istəyirsiniz?</string>
@@ -313,11 +313,11 @@
     <string name="night_not_disturb_settings_summary">23:00-7:00 arası xəbərdarlıqları əngəllə</string>
     <string name="night_not_disturb_settings_title">"Gecə narahat etmə"</string>
     <string name="no_data">Məlumat yoxdur</string>
-    <string name="no_internet_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="no_internet_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="no_vote_ratio">Əleyhinə %1$s%%</string>
     <string name="non_wifi_environment">Səs effektlərini endirmək üçün Wi-Fi-a qoşulun</string>
     <string name="noon">Günorta</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notif_aqi_title">Bu gün %2$s üçün HKİ %1$d</string>
     <string name="notif_weather_title">Bu gün %2$s üçün %1$s</string>
     <string name="other_settings">Digər tənzimləmələr</string>
@@ -379,7 +379,7 @@
     <string name="send">Göndər</string>
     <string name="setting_notification_manager">Bildirişlər</string>
     <string name="setting_used_to_push_reminder">Hava bildirişi və xəbərdarlıqlarını al</string>
-    <string name="settings">Tənzimləmələr</string>
+    <string name="settings">Ayarlar</string>
     <string name="settings_atmospheric_pressure_atm">Standart atmosfer (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>
     <string name="settings_atmospheric_pressure_inhg">Bir düym civə (inHg)</string>

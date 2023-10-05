@@ -223,7 +223,7 @@
     <string name="bh_used_today">Bu gün istfdə edilən</string>
     <string name="bh_user_agreement">İstifadəçi Razılaşması</string>
     <string name="bh_vs">Mi Roaming</string>
-    <string name="bh_where_to_restart_carrier_services">\"Mi Operator Xidmətləri\"ni həmişə Kontaktlar &gt; Tənzimləmələrdə yenidən aça bilərsiniz.</string>
+    <string name="bh_where_to_restart_carrier_services">\"Mi Operator Xidmətləri\"ni istədiyiniz vaxt Kontaktlar &gt; Ayarlarda yenidən aça bilərsiniz.</string>
     <string name="bh_will_open">%1$s açılır…</string>
     <string name="bh_withdraw_permission_failure_description">Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="bh_withdraw_permission_failure_title">"Razılıq geri götürülə bilmədi"</string>

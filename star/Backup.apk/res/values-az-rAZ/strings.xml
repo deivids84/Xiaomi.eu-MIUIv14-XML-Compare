@@ -231,7 +231,7 @@ Yeni təhlükəsizlik sualı yaradıb doğum tarixinizi təsdiqlədikdən sonra,
     <string name="err_user_abort">İstifadəçi tərəfindən ləğv edildi.</string>
     <string name="err_version_too_old">Nüsxə faylı çox köhnədir.</string>
     <string name="err_version_unsupported">"Nüsxə versiyası dəstəklənmir."</string>
-    <string name="error_permissions">"Bu tətbiqin Təqvimə müraciət etməsi üçün tələb olunan icazələri yoxdur. Tənzimləmələrə gedin və davam etmək üçün icazələri yoxlayın."</string>
+    <string name="error_permissions">"Bu tətbiqin Təqvimə müraciət etməsi üçün tələb olunan icazələri yoxdur. Ayarlara gedin və davam etmək üçün icazələri yoxlayın."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="every_day">Hər gün</string>
     <string name="exchange_account">Hesabları dəyişdir</string>

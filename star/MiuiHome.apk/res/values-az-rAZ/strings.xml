@@ -675,7 +675,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="send">Göndər</string>
     <string name="server_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="service_double_attention">Təkmil axtarışı funksionallığı Branch Metrics Inc. tərəfindən təmi edilir. Bu özəlliyin işləməsi üçün axtarış tələblərinizi, Google Ads ID və IP ünvanınızı Branch Metrics Inc. ilə paylaşmağımız lazımdır. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url1">End User Discovery Şərtləri və Qaydalarını</a></font> və <font color="#B3000000"><a href="http://url2">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
-    <string name="setting_wallpaper_tip">Tənzimləmək üçün çimdiklə və ya sürüşdür</string>
+    <string name="setting_wallpaper_tip">Ayarlamaq üçün çimdiklə və ya sürüşdür</string>
     <string name="settings">Tənzimləmələr</string>
     <string name="settings_shortcut">Tənzimləmələr</string>
     <string name="shake_to_align_icons">Boş xanaları nişanlarla doldurmaq üçün cihazı silkələyin</string>

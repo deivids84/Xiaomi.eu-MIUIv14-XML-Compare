@@ -1715,7 +1715,7 @@ mövcuddur"</string>
     <string name="movie_video_long">Uzun video</string>
     <string name="movie_video_short">%ds</string>
     <string name="multi_view_tip_button_text">Anladım</string>
-    <string name="multi_view_tip_sub_title">Göstərilən elementlərin ölçüsünü tənzimləmək üçün iki barmağınızı bir-birindən uzaqlaşdırın və ya bir-birinə tərəf yaxınlaşdırın.</string>
+    <string name="multi_view_tip_sub_title">Göstərilən elementlərin ölçüsünü ayarlamaq üçün iki barmağınızı bir-birindən uzaqlaşdırın və ya bir-birinə tərəf yaxınlaşdırın.</string>
     <string name="multi_view_tip_title">Yaxınlaşdır və uzaqlaşdır</string>
     <string name="must_pick_file">Foto seçin</string>
     <string name="my_family">Evim</string>
@@ -2334,7 +2334,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="request_qr_code_failed">"QR kod alına bilmədi"</string>
     <string name="request_sms_url_failed">"Məlumat alına bilmədi"</string>
     <string name="request_sms_url_msg">Məlumat tələb edilir…</string>

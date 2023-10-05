@@ -277,7 +277,7 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lks_loop_icon_ask_ok">İşə sal</string>
     <string name="lks_loop_icon_ask_title">Kilid ekranı slayd şousu</string>
     <string name="lks_loop_icon_close_cancle">İmtina</string>
-    <string name="lks_loop_icon_close_dlg">Bu təsviri Kilid ekranı olaraq tənzimləsəniz, Kilid ekranı slayd şousu söndürüləcək. İndi Kilid ekranı olaraq tənzimlənsin?</string>
+    <string name="lks_loop_icon_close_dlg">Bu təsviri Kilid ekranı olaraq ayarlasanız, Kilid ekranı slayd şousu söndürüləcək. İndi Kilid ekranı olaraq ayarlansın?</string>
     <string name="lks_loop_icon_close_ok">Oldu</string>
     <string name="lks_loop_icon_close_title">Diqqət</string>
     <string name="lks_loop_icon_dlg_title">Kilid ekranı slayd şousu</string>
@@ -294,7 +294,7 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="llks_add_cate">%s üçün abunə olun</string>
     <string name="llks_auto_switch_wp">Bəyəndiyiniz kateqoriyalara abunə olun</string>
     <string name="llks_display_error">Tələb olunan icazələr</string>
-    <string name="llks_display_error_des">\"Divar kağızı Karuseli\"nin Tənzimləmələrdən Kilid ekranında göstərilməsinə icazə verin.</string>
+    <string name="llks_display_error_des">Ayarlardakı \"Divar kağızı Karuseli\"nin Kilid ekranında göstərilməsinə icazə verin.</string>
     <string name="llks_learn_more_cate">Daha çox kateqoriya</string>
     <string name="llks_pop_btm_des">Günə təbəssümlə başlayın</string>
     <string name="llks_pop_btm_des_backup">Günə gözəl başlayın</string>

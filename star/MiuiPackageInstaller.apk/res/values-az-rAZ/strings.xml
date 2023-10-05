@@ -538,7 +538,7 @@
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>

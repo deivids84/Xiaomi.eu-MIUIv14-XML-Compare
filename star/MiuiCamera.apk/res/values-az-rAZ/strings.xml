@@ -543,12 +543,12 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="confirm_recording_fail_title">"Yazıla bilmir"</string>
     <string name="confirm_reset_manually_parameter_message">Bütün parametrlər ilkin dəyərlərinə sıfırlansın?</string>
     <string name="confirm_restore_message">"\"Kamera\"nın ilkin tənzimləmələri bərpa edilsin?"</string>
-    <string name="confirm_restore_title">İlkin tənzimləmələrə qaytar</string>
+    <string name="confirm_restore_title">İlkin ayarları bərpa et</string>
     <string name="copy">Kopyala</string>
     <string name="cta_mimoji_msg">\"Fun Cam\"a xoş gəldiniz! Foto və video çəkmək üçün bu tətbiqi istifadə edə bilərsiniz. Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələrə sahib olması lazımdır:</string>
     <string name="cta_mimoji_perm_type">Məcburi icazələr (bu tətbiqin təməl özəllikləri və xidmətləri üçün istifadə edilir)</string>
     <string name="cta_mimoji_user_links"><Data>Bu tətbiqi istifadə etməzdən əvvəl &lt;a href =%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href =%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
-    <string name="cta_mimoji_user_tips">"Məcburi icazələrin verilməsi və ya şəxsi məlumatların paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. İxtiyari icazələri verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Tənzimləmələrdə icazələri məhdudlaşdıra və ya razlığınızı geri götürə bilərsiniz."</string>
+    <string name="cta_mimoji_user_tips">"Məcburi icazələrin verilməsi və ya şəxsi məlumatların paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. İxtiyari icazələri verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya razlığınızı geri götürə bilərsiniz."</string>
     <string name="cta_msg">\"Kamera\"ya xoş gəldiniz! Foto və video çəkmək üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiqin internetə bağlanması lazımdır və aşağıdakı ixtiyari icazələri tələb edir:</string>
     <string name="cta_perm_cam">Kameranı istifadə et</string>
     <string name="cta_perm_cam_desc">Foto çəkmək üçün</string>
@@ -861,7 +861,7 @@ Daha yaxşı effekt üçün linzanı təmizləyin."</string>
     <string name="location_access_allow">Razıyam</string>
     <string name="location_fromkeyguard_not_permission">"Hazırda Kameranın yerləşmənizə müraciətinə icazə verilmir. Əvvəlcə cihazınızın kilidini açın."</string>
     <string name="location_permission_des">Foto və videolar üçün yerləri xatırla</string>
-    <string name="location_permission_not_ask_again">Tənzimləmələrdə \"Kamera\"nın yerləşmənizə müraciətinə icazə verin.</string>
+    <string name="location_permission_not_ask_again">Ayarlarda \"Kamera\"nın yerləşmənizə müraciətinə icazə verin.</string>
     <string name="location_permission_not_ask_again_go_to_settings">İcazə ver</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Uzunluq</string>

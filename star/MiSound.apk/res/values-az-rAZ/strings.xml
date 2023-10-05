@@ -305,7 +305,7 @@
     <string name="multi_music_coexistence_title">Birdən çox səs mənbəyi</string>
     <string name="music_add_my_sound">Özəl ön tənzimləmə əlavə et</string>
     <string name="music_app_unavailable">Mi Musiqi tətbiqinin əlçatan olduğuna əmin olun.</string>
-    <string name="music_audio_effect_optimize">Səs tənzimləmələri</string>
+    <string name="music_audio_effect_optimize">Səs ayarları</string>
     <string name="music_audio_effect_optimize_summary">Dirac, qulaqlıq və digər səs tənzimləmələri</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, qulaqlıq və digər səs tənzimləmələri</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, qulaqlıq və digər səs tənzimləmələri</string>
@@ -409,7 +409,7 @@
     <string name="original_sound">Orijinal səsi oxut</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permission_go_to_settings">Tənzimləmələr</string>
-    <string name="permission_requesr_content">Bu tətbiqə Tənzimləmələrdə yaxınlıqdakı cihazlara bağlanma icazə verin.</string>
+    <string name="permission_requesr_content">Ayarlarda bu tətbiqin yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
     <string name="permission_requesr_title">Tələb olunan icazələr</string>
     <string name="personal_sound">Tətbiq edilən ön tənzim. ilə oxut</string>
     <string name="pm">GS</string>

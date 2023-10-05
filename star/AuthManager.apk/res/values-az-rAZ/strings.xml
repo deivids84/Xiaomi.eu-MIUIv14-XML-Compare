@@ -377,7 +377,7 @@
     <string name="size_tera_byte">TB</string>
     <string name="stop_blur_location">Xeyr</string>
     <string name="storage_policy_notify_both_title">"%1$s üçün sosial media tətbiqlərindəki mesajlara və Qalereyaya müraciətə icazə verilmir"</string>
-    <string name="storage_policy_notify_content">İcazələri tənzimləmək üçün toxunun</string>
+    <string name="storage_policy_notify_content">İcazələri ayarlamaq üçün toxunun</string>
     <string name="storage_policy_notify_gallery_title">"%1$s üçün Qalereyaya müraciətə icazə verilmir"</string>
     <string name="storage_policy_notify_sociality_title">"%1$s üçün sosial media tətbiqlərindəki mesajlara müraciətə icazə verilmir"</string>
     <string name="storage_policy_notify_title">"%1$s üçün Qalereyaya müraciətə icazə verilmir"</string>

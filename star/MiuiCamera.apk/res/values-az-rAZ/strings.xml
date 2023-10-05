@@ -447,7 +447,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="clone_adjust">Tənzimlə</string>
     <string name="clone_copy_mode">Kadrı dondur</string>
     <string name="clone_do_not_move_phone">"Cihazınızı hərəkət etdirməyin"</string>
-    <string name="clone_drag_to_adjust_the_posture">Tənzimləmək üçün seçib sürükləyin</string>
+    <string name="clone_drag_to_adjust_the_posture">Ayarlamaq üçün seçib sürükləyin</string>
     <string name="clone_guide_copy_tip3">"Ekran boyu hərəkət edən bir obyekti çəkin."</string>
     <string name="clone_guide_copy_tip5">Obyekt xizək sürə, basketbol oynaya, rəqs edə və ya sadəcə gəzə bilər.</string>
     <string name="clone_guide_copy_tip6">Video oxudularkən donmuş kadrlar \"götürüləcək\".</string>
@@ -1792,7 +1792,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="super_night_owl_toast">Telefonunuzu sabit saxlayın</string>
     <string name="super_night_se_tip">Gecə rejimi</string>
     <string name="super_night_toast">Foto çəkərkən telefonunuzu sabit saxlayın</string>
-    <string name="tap_to_exposure">Ekspozisiyanı əllə tənzimləmək üçün toxunun</string>
+    <string name="tap_to_exposure">Ekspozisiyanı əllə ayarlamaq üçün toxunun</string>
     <string name="tap_to_focus">Fokuslamaq üçün toxunun</string>
     <string name="text_ai_scene_selector_text_off">TƏRS-İŞIQ</string>
     <string name="text_ai_scene_selector_text_on">SİLUET</string>

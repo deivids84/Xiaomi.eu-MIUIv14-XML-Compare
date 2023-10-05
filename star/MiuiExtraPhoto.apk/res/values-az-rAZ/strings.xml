@@ -37,7 +37,7 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="doc_photo_adjust_section_talkback">Kəs və düzəliş et</string>
-    <string name="doc_photo_adjust_section_title">Tənzimləmək üçün sürüklə</string>
+    <string name="doc_photo_adjust_section_title">Ayarlamaq üçün sürüklə</string>
     <string name="doc_photo_cancel">İmtina</string>
     <string name="doc_photo_close">Söndürülür</string>
     <string name="doc_photo_close_toast">Bu özəlliyi indi söndürsəniz, sildiyiniz qeydlər yenidən görünəcək. Yenə də söndürülsün?</string>
@@ -216,7 +216,7 @@
     <string name="refocus_relighting_dianying">Film</string>
     <string name="refocus_relighting_sahongjie">Holi</string>
     <string name="refocus_relighting_shuye">Yarpaqlar</string>
-    <string name="refocus_relighting_toast">İşıqlandırma bucağını tənzimləmək üçün dairəni hərəkət etdirin</string>
+    <string name="refocus_relighting_toast">İşıqlandırma bucağını ayarlamaq üçün dairəni hərəkət etdirin</string>
     <string name="refocus_relighting_wutai">Səhnə</string>
     <string name="refocus_relighting_ziran">Təbii</string>
     <string name="refocus_save_cancel">İmtina</string>

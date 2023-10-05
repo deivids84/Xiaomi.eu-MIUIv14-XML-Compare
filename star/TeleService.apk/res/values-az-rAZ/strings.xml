@@ -476,10 +476,10 @@
     <string name="cfnry_time_twenty_sec">%d san</string>
     <string name="cfnry_title">Cavablanmadıqda yönləndir</string>
     <string name="cfu_title">Zəngləri həmişə yönləndir</string>
-    <string name="change_data_preference_4g_only_prompt">Deyəsən, SIM kartınız yalnız 4G dəstəkləyir. Normal işlədiyinə əmin olmaq üçün ilkin mobil internet kartı olaraq tənzimləyin. İndi tənzimlənsin?</string>
+    <string name="change_data_preference_4g_only_prompt">Deyəsən, SIM kartınız yalnız 4G dəstəkləyir. Normal işlədiyinə əmin olmaq üçün ilkin mobil internet kartı olaraq ayarlayın. İndi ayarlansın?</string>
     <string name="change_data_sim_4g_only_prompt">"SIM %1$s yalnız 4G dəstəkləyir. SIM %2$s ilkin mobil internet kartınız deyilsə, SIM kart normal işləməyə bilər. İndi dəyişdirilsin?"</string>
     <string name="change_default_data_card">İlkin mobil internet SIM-i</string>
-    <string name="change_default_data_card_summary">Deyəsən, SIM kartınız dəyişdirilib. Bu kart, mobil internet bağlantınız üçün ilkin SIM olaraq tənzimlənsin?</string>
+    <string name="change_default_data_card_summary">Deyəsən, SIM kartınız dəyişdirilib. Bu kart, mobil internet bağlantınız üçün ilkin SIM olaraq ayarlansın?</string>
     <string name="change_num">Güncəllə</string>
     <string name="change_password">Qadağa parolunu dəyişdir</string>
     <string name="change_pin">SIM PIN-ini dəyişdir</string>

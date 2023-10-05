@@ -1888,8 +1888,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="recent_used_microphone">Bu tətbiq mikrofona müraciət etdi</string>
     <string name="remaining_length_format">%1$s qaldı</string>
     <string name="remote_input_image_insertion_text">bir şəkil göndərildi</string>
-    <string name="remove_from_settings">Tənzimləmələrdən sil</string>
-    <string name="remove_from_settings_prompt">Sistem UI Tuner, Tənzimləmələrdən silinib bütün özəlliklərinin istifadəsi dayandırılsın?</string>
+    <string name="remove_from_settings">Ayarlardan sil</string>
+    <string name="remove_from_settings_prompt">Sistem UI Tuner, Ayarlardan silinib bütün özəlliklərinin istifadəsi dayandırılsın?</string>
     <string name="report_rejected_touch">Rədd edilən toxunuşu bildir</string>
     <string name="require_unlock_for_nfc">NFC istifadə etmək üçün kilidi aç</string>
     <string name="reset">Sıfırla</string>

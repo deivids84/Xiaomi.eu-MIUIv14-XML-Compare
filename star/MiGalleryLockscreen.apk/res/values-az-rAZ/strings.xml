@@ -152,7 +152,7 @@
     <string name="cw_deleting">Sil (%1$d/%2$d)</string>
     <string name="cw_local_pic">Şəkilləri seç</string>
     <string name="cw_my_fav">Sevimlilər</string>
-    <string name="cw_permission_tip">\"Divar kağızı Karuseli\"nin Tənzimləmələr &gt; Tətbiq tənzimləmələrində anbara müraciətinə icazə verin.</string>
+    <string name="cw_permission_tip">Ayarlar &gt; \"Tətbiq ayarları\"nda \"Divar kağızı Karuseli\"nin anbara müraciətinə icazə verin.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Anladım</string>
     <string name="cw_wallpaper_empty_dlg_content">"Slayd şousuna heç bir element əlavə etməmisiniz. Tövsiyələrə keçildi."</string>
     <string name="cw_wallpaper_empty_dlg_title">Element yoxdur</string>
@@ -177,7 +177,7 @@
     <string name="detail_menu_favor">Sevimlilər</string>
     <string name="detail_menu_history">Tarixçə</string>
     <string name="detail_menu_home">Başlanğıc səhifəsinə get</string>
-    <string name="detail_menu_setting">Tətbiq tənzimləmələri</string>
+    <string name="detail_menu_setting">Tətbiq ayarları</string>
     <string name="detail_menu_settingbtn_save">Saxla</string>
     <string name="detail_menu_settingbtn_setting">Tənzimləmələr</string>
     <string name="detail_menu_settingbtn_share">Paylaş</string>
@@ -290,7 +290,7 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lks_retry">Yenidən sına</string>
     <string name="lks_subscription_toast">Divar kağızı uğurla dəyişdirildi</string>
     <string name="lks_to_history">Tarixçə</string>
-    <string name="lks_to_setting">Divar kağızı Karuseli tənzimləmələri</string>
+    <string name="lks_to_setting">Divar kağızı Karuseli ayarları</string>
     <string name="llks_add_cate">%s üçün abunə olun</string>
     <string name="llks_auto_switch_wp">Bəyəndiyiniz kateqoriyalara abunə olun</string>
     <string name="llks_display_error">Tələb olunan icazələr</string>
@@ -692,7 +692,7 @@ mm"</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_setting">Gizlilik tənzimləmələri</string>
+    <string name="privacy_setting">Gizlilik ayarları</string>
     <string name="privacy_update_cancel">İmtina</string>
     <string name="privacy_update_confirm">Razıyam</string>
     <string name="privacy_update_quit">Çıx</string>
@@ -780,7 +780,7 @@ mm"</string>
     <string name="shortcut_created">Qısayol uğurla yaradıldı</string>
     <string name="shortcut_exist">Qısayol artıq mövcuddur</string>
     <string name="shortcut_failed">"Qısayol yaradıla bilmədi"</string>
-    <string name="show_wallpaper_loop_entry_title">Slayd şou tənzimləmələri</string>
+    <string name="show_wallpaper_loop_entry_title">Slayd şou ayarları</string>
     <string name="sliding_on_unlock">Kilid açmaq üçün yuxarı sürüşdür</string>
     <string name="sst_auto_recommand_desc">Kilid ekranınıza gündəlik olaraq göndərilən yeni şəkilləri və hekayələri almaq üçün sevimli kateqoriyalarınıza abunə olun.</string>
     <string name="sst_auto_recommand_title">Özəlləşdirilmiş divar kağızları üçün tövsiyələr alın</string>
@@ -937,7 +937,7 @@ mm"</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time_current">İndicə</string>
     <string name="time_interval_dialog_content1">\"Divar kağızı Karuseli\", cihazın kilidini hər açanda yeni bir şəkil görməyinizə imkan verir.</string>
-    <string name="time_interval_dialog_content2">\"Slayd şou tənzimləmələri\"ndə divar kağızı güncəlləmə tezliyini dəyişdirə bilərsiniz.</string>
+    <string name="time_interval_dialog_content2">\"Slayd şou ayarları\"nda divar kağızı güncəlləmə tezliyini dəyişdirə bilərsiniz.</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="toast_ad_down_tip">Tətbiq endirilir…</string>
     <string name="toast_ad_down_tip2">%s endirilir…</string>

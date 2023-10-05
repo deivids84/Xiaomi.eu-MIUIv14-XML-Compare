@@ -2299,8 +2299,8 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="volume_stream_content_description_mute">%1$s. Səsi kəsmək üçün toxunun. Əlçatımlılıq xidmətlərinin səsi kəsilə bilər.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Səsi kəsmək üçün toxunun.</string>
     <string name="volume_stream_content_description_unmute">%1$s. Səsi açmaq üçün toxunun.</string>
-    <string name="volume_stream_content_description_vibrate">%1$s. Titrəməni tənzimləmək üçün toxunun. Əlçatımlılıq xidmətlərinin səsi kəsilə bilər.</string>
-    <string name="volume_stream_content_description_vibrate_a11y">%1$s. Titrəməni tənzimləmək üçün toxunun.</string>
+    <string name="volume_stream_content_description_vibrate">%1$s. Titrəməni ayarlamaq üçün toxunun. Əlçatımlılıq xidmətlərinin səsi kəsilə bilər.</string>
+    <string name="volume_stream_content_description_vibrate_a11y">%1$s. Titrəməni ayarlamaq üçün toxunun.</string>
     <string name="vpn_settings_not_available">VPN tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
     <string name="wait_for_debugger">Sazlayıcını gözləyin</string>
     <string name="wait_for_debugger_summary">Sazlanmış tətbiq, işə salınmazdan əvvəl sazlayıcının əlavə edilməsini gözləyir</string>
@@ -2317,7 +2317,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wapi_auto_sel_cert_fail">Sertifikat avtomatik seçilə bilmir. Lütfən siyahıdan bir sertifikat seçib bağlantı qurmağa çalışın.</string>
     <string name="wapi_cert_is_not_exist">Mövcud sertifikat yoxdur, lütfən əvvəlcə sertifikatı quraşdırın</string>
     <string name="wapi_cert_is_not_selected">Əvvəlcə serifikatı quraşdırın</string>
-    <string name="wapi_cert_manage_error">WAPI sertifikatını tənzimləmək uğursuz oldu.</string>
+    <string name="wapi_cert_manage_error">WAPI sertifikatını ayarlamaq uğursuz oldu.</string>
     <string name="wapi_cert_manage_summary">WAPI sertifikatı əlavə et və ya sil</string>
     <string name="wapi_cert_manage_title">WAPI sertifikat idarəsi</string>
     <string name="wapi_cert_roaming">Bağlantı qurulur…</string>

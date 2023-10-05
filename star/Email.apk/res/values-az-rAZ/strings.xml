@@ -229,7 +229,7 @@ yol prefiksi"</string>
     <string name="attendee_needed">Ən azı bir dəvətçi əlavə edin.</string>
     <string name="auto_login_fail">"Avtomatik giriş edilə bilmədi"</string>
     <string name="auto_login_fail_to_retry">"Avtomatik giriş edilə bilmədi, yenidən sınayın."</string>
-    <string name="auto_start_open_prompt">E-poçtlarınızı sinxronlaşdıra bilməsi üçün tətbiqin avto-başladılmasına icazə verin. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="auto_start_open_prompt">E-poçtlarınızı sinxronlaşdıra bilməsi üçün tətbiqin avto-başladılmasına icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="bContact_list_search_hint">Əngəllənən kontaktları axtar</string>
     <string name="b_contacts">Əngəlli siyahısı</string>
     <string name="b_contacts_remove">Əngəlli siyahısından sil</string>

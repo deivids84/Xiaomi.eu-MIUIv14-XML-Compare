@@ -116,7 +116,7 @@
     <string name="invisible_mode_dialog_negative">İmtina</string>
     <string name="invisible_mode_dialog_positive">Söndür</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
-    <string name="invisible_mode_error_tip">Mikrofonu istifadə edə bilmək üçün Tənzimləmələrdə Gizli rejimi söndürün</string>
+    <string name="invisible_mode_error_tip">Mikrofonu istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="keywords_search_call_record">Zəngləri yaz;Zəngi yaz;Zəng yazma;Zəng səsyazmaları</string>
     <string name="keywords_search_record">Yeni səsyazma;Səsyazma əlavə et;Səsyazma;Səsyazmalar;Transkript;Mətnə çevir;Danışıq səsyazanı;Səsyazan;Səsyazan tətbiqi;Səsyazma tətbiqi;Necə səs yaza bilərəm;Səsi necə yaza bilərəm;Səsyazan haradadır;MIUI Səsyazan</string>

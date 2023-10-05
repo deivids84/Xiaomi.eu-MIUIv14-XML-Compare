@@ -59,7 +59,7 @@
     <string name="wifi_ca_cert_notification_preT_message">%1$s şəbəkəsinin bir sertifikatı əskikdir. Sertifikatların necə əlavə edildiyini öyrənmək üçün toxunun.</string>
     <string name="wifi_ca_cert_notification_preT_title">"Bu şəbəkə doğrulana bilmir"</string>
     <string name="wifi_ca_cert_notification_title">Şəbəkənin doğrulanması lazımdır</string>
-    <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik tənzimləmələrini dəyişdirmək və yenidən sınamaq üçün toxunun</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik ayarlarını dəyişdirmək və yenidən sınamaq üçün toxunun</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"%1$s ilə bağlantı qurula bilmir"</string>
     <string name="wifi_connect_alert_message">%1$s tətbiqi %2$s Wi-Fi şəbəkəsinə bağlanmaq istəyir</string>
     <string name="wifi_connect_alert_title">Bağlantıya icazə verilsin?</string>

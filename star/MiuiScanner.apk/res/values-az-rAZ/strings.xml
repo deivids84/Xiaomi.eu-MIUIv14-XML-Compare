@@ -324,7 +324,7 @@
     <string name="grayscale">Boz ton</string>
     <string name="half_covered_mode">Maskasız</string>
     <string name="hand_query">Sifarişi yoxla</string>
-    <string name="hint_no_permissions_text">Kamera və mobil telefonun anbar icazəsini normal istifadə edə bilməsi üçün Tənzimləmələrdən \"İcazə İi̇darəetməsi\"nə gedin. Skan edin</string>
+    <string name="hint_no_permissions_text">Kamera və mobil telefonun anbar icazəsini normal istifadə edə bilməsi üçün Ayarlarda \"İcazə İi̇darəetməsi\"nə gedin. Skan edin</string>
     <string name="history">Tarixçə</string>
     <string name="history_empty">Burada element yoxdur</string>
     <string name="history_list_is_empty2">Skan etdiyiniz sənədlər burada görünəcək.</string>
@@ -367,7 +367,7 @@
     <string name="local_ocr_recognition">Yerli ocr tanıma</string>
     <string name="local_ocr_recognition_str">Oflayn tərcüməyə keçildi</string>
     <string name="location_permission_message">Wi-Fi ilə bağlantı qurmaq üçün</string>
-    <string name="location_permissions_text">Bu özəlliyi istifadə edə bilmək üçün Tənzimləmələrdən yerləşmə müraciətinə icazə verin.</string>
+    <string name="location_permissions_text">Bu özəlliyi istifadə edə bilmək üçün Ayarlarda yerləşmə müraciətinə icazə verin.</string>
     <string name="logistics">Sürətli çatdırılma</string>
     <string name="logout_service">Razılığı geri götür</string>
     <string name="low_version_tip">Skaner istifadə edə bilmək üçün MIUI-ı ən son versiyaya güncəlləyin.</string>

@@ -55,7 +55,7 @@
     <string name="backup_failed_reason_app_usage_denied">Elementləri nüsxələmək üçün tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Bu nüsxəni saxlamaq üçün yetərli anbar sahəsi yoxdur. Planınızı yüksəldin və ya anbar sahənizdə boş yer açın.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yetərli anbar sahəsi yoxdur. Əvvəlcə anbarı sahəsində yer açın.</string>
-    <string name="backup_failed_reason_get_installed_apps_denied">Elementləri nüsxələmək üçün Tənzimləmələrdə tələb olunan icazələri verin</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Elementləri nüsxələmək üçün Ayarlarda tələb olunan icazələri verin</string>
     <string name="backup_failed_reason_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="backup_finished_notification_content">Nüsxələnmiş Əsas ekran tətbiqləri, sistem ayarları və s.</string>
     <string name="backup_now">İndi nüsxələ</string>
@@ -188,7 +188,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="device_delete_prompt">%s nüsxəsi silinsin?</string>
     <string name="dialog_app_usage_consent_message">Bu özəlliyin WeChat nüsxələrinin həcmini təxmin edə bilməsi üçün tətbiq istifadə verilənlərinə müraciətinə ehtiyacı var.</string>
     <string name="dialog_app_usage_consent_title">Tətbiq istifadəsi verilənlərinə müraciətə icazə verin</string>
-    <string name="dialog_app_usage_denied">Elementləri nüsxələyə bilmək üçün Tənzimləmələrdə Nüsxələmə üçün \"İstifadə müraciəti\" icazəsini verin.</string>
+    <string name="dialog_app_usage_denied">Elementləri nüsxələyə bilmək üçün Ayarlarda Nüsxələmə üçün \"İstifadə müraciəti\" icazəsini verin.</string>
     <string name="dialog_backup_failed">"Nüsxələnə bilmədi"</string>
     <string name="dialog_btn_cancel_backup">İmtina</string>
     <string name="dialog_btn_confirm2">Anladım</string>
@@ -208,7 +208,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="dialog_cloud_space_not_enough">Bu nüsxələmə, %1$s ödənişsiz bulud anbar sahəsi tələb edir. Elementlərin nüsxələnməsi üçün anbar planınızı yüksəldin.</string>
     <string name="dialog_content_cancel_backup">Nüsxəni ləğv etsəniz, artıq yüklənmiş verilənlər itəcək. Yenə də ləğv edilsin?</string>
     <string name="dialog_content_cancel_restore">Bərpa prosesini dayandırsanız, artıq bərpa edilmiş verilənlər saxlanılacaq. Bərpa indi dayandırılsın?</string>
-    <string name="dialog_get_installed_apps_consent_message">Avtomatik nüsxələyə bilmək üçün Tənzimləmələrdə bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
+    <string name="dialog_get_installed_apps_consent_message">Avtomatik nüsxələyə bilmək üçün Ayarlarda bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
     <string name="dialog_get_installed_apps_consent_title">Tələb olunan icazələr</string>
     <string name="dialog_msg_overwrite_backup">Yerli nüsxələmə, Xiaomi Cloud-dan fərqlidir. Əgər davam etsəniz, mövcud nüsxə əvvəlkinin üzərinə yazılacaq.</string>
     <string name="dialog_msg_restore_require_wlan">Nüsxələrin bərpa edilməsi, Wi-Fi-a bağlanma tələb edir.</string>
@@ -277,7 +277,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="managespace_delete_backup">Sil</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Bağla</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Tənzimləmələr</string>
-    <string name="manual_request_permissions_dialog_description">"\"%s\" üçün icazələri verməsəniz, uğursuz nüsxələmələr və digər vacib əməliyyatlar haqqında vaxtında bildirişlər almayacaqsınız. Bu icazəni Tənzimləmələrdə verə bilərsiniz."</string>
+    <string name="manual_request_permissions_dialog_description">"\"%s\" üçün icazələri verməsəniz, uğursuz nüsxələmələr və digər vacib əməliyyatlar haqqında vaxtında bildirişlər almayacaqsınız. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="manual_request_permissions_dialog_title">Tələb olunan icazələr</string>
     <string name="menu_item_managespace">Sahəni idarə et</string>
     <string name="menu_item_sort">Sırala</string>
@@ -454,7 +454,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="session_backup_apk_text">Əsas ekran düzümü və sistem ayarları nüsxələnir…</string>
     <string name="session_ending_backup_text">Demək olar ki, hazırdır…</string>
     <string name="session_ending_restore_text">Demək olar ki, hazırdır…</string>
-    <string name="session_failed_app_usage_denied_detail">Bu tətbiqin tətbiq istifadə statistikalarına müraciət etmək üçün icazəyə ehtiyacı var. Bu icazəni Tənzimləmələrdən verə bilərsiniz.</string>
+    <string name="session_failed_app_usage_denied_detail">Bu tətbiqin tətbiq istifadə statistikalarına müraciət etmək üçün icazəyə ehtiyacı var. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="session_failed_app_usage_denied_title">Tələb olunan icazələr</string>
     <string name="session_failed_cloud_no_space_detail">Bu nüsxənin bulud anbarında ən azı %s sahəyə ehtiyacı var.</string>
     <string name="session_failed_cloud_no_space_title">Yetərsiz bulud anbarı. Anbar sahənizi yüksəldib yenidən sınayın.</string>
@@ -462,7 +462,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="session_failed_disk_no_space_restore_detail">Elementləri bərpa etmək üçün ən azı %s tələb olunur.</string>
     <string name="session_failed_disk_no_space_title">Yetərsiz daxili anbar sahəsi. Anbarı təmizləyib yenidən sınayın.</string>
     <string name="session_failed_dist_no_space_btn_text">Anbarı təmizlə</string>
-    <string name="session_failed_get_installed_apps_denied_detail">Avtomatik nüsxələyə bilmək üçün Tənzimləmələrdə bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Avtomatik nüsxələyə bilmək üçün Ayarlarda bu tətbiqin cihazınızdakı quraşdırılmış tətbiqlərin siyahısına müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin.</string>
     <string name="session_failed_get_installed_apps_denied_title">Tələb olunan icazələr</string>
     <string name="session_failed_no_server_response_title">"Serverə bağlana bilmədi."</string>
     <string name="session_failed_override_detail">Yerli nüsxələmə, Xiaomi Cloud-dan fərqlidir. Əgər davam etsəniz, mövcud nüsxə əvvəlkinin üzərinə yazılacaq. İndi üzərinə yazılsın?</string>

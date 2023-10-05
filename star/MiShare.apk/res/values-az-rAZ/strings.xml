@@ -85,7 +85,7 @@
     <string name="error_p2p_create_group_failure_china">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_p2p_recv_connect_timeout">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_p2p_recv_connect_timeout_china">"Bağlantı qurula bilmədi. Hər iki cihazda Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
-    <string name="error_permission_denied">Bu özəlliyi istifadə edə bilmək üçün, Tənzimləmələrdə Mi Share üçün tələb olunan bütün icazələri verin.</string>
+    <string name="error_permission_denied">Bu özəlliyi istifadə edə bilmək üçün, Ayarlarda Mi Share üçün tələb olunan bütün icazələri verin.</string>
     <string name="error_receive_file_cannot_read">"Fayl alına bilmədi"</string>
     <string name="error_receive_file_changed">"Alına bilmir. Element dəyişdirilib."</string>
     <string name="error_receive_file_file_opened">"Bu element alına bilmədi. Deyəsən, indi istifadə edilir."</string>
@@ -104,8 +104,8 @@
     <string name="error_send_file_service_disabled">Gedən köçürmə ləğv edildi</string>
     <string name="error_send_transfer_error">"Elementlər göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="error_send_transfer_pc_error">Transfer vaxtı bitdi. Kompüterinizdəki fayl paylaşma tətbiqini güncəlləyib yenidən sınayın.</string>
-    <string name="error_slave_wifi_in_use">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Tənzimləmələrdə ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
-    <string name="error_slave_wifi_in_use_china">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Tənzimləmələrdə ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
+    <string name="error_slave_wifi_in_use">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Ayarlarda ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
+    <string name="error_slave_wifi_in_use_china">"İkili Wi-Fi açıq olduqda Mi Share işləməyəcək. Ayarlarda ikili Wi-Fi-ı söndürüb yenidən sınayın."</string>
     <string name="error_timeout">Seansın vaxt bitdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="error_user_refuse">"Göndərilə bilmir. Köçürmə rədd edildi."</string>
     <string name="error_wifi_display_in_use">"Yayım zamanı digər cihazlara fayl göndərilə bilmir"</string>

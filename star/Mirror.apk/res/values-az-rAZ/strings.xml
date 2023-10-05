@@ -460,8 +460,8 @@ telefonun kilidini aç"</string>
     <string name="sunday_shortest">Baz</string>
     <string name="switch_wlan_action">Bağlantı qur</string>
     <string name="switch_wlan_failed">"Bağlantı qurula bilmədi"</string>
-    <string name="switch_wlan_failed_desc">"Bu Wi-Fi şəbəkəsinə bağlana bilmədi. Tənzimləmələrdə əllə bağlantı qurmağa çalışın."</string>
-    <string name="switch_wlan_failed_desc_china">"Bu Wi-Fi şəbəkəsinə bağlana bilmədi. Tənzimləmələrdə əllə bağlantı qurmağa çalışın."</string>
+    <string name="switch_wlan_failed_desc">"Bu Wi-Fi şəbəkəsinə bağlana bilmədi. Ayarlarda əllə bağlantı qurmağa çalışın."</string>
+    <string name="switch_wlan_failed_desc_china">"Bu Wi-Fi şəbəkəsinə bağlana bilmədi. Ayarlarda əllə bağlantı qurmağa çalışın."</string>
     <string name="switch_wlan_success">Uğurla bağlantılıdır</string>
     <string name="switch_wlan_tips">Eyni şəbəkəyə bağlan</string>
     <string name="switch_wlan_tips_china">Eyni şəbəkəyə bağlan</string>

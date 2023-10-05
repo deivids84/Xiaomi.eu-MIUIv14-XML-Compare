@@ -226,7 +226,7 @@
     <string name="error_media_storage_failure">"Foto saxlanıla bilmədi"</string>
     <string name="error_not_found_activity">PDF formatında açmaq üçün heç bir tətbiq tapılmadı</string>
     <string name="error_not_found_excel_activity">"Bu Excel fayllarını aça biləcək tətbiq tapıla bilmədi"</string>
-    <string name="error_permissions">"\"Skaner\"in normal işləməsi üçün tələb olunan icazələri yoxdur. Tənzimləmələrə gedin və davam etmək üçün icazələri yoxlayın."</string>
+    <string name="error_permissions">"\"Skaner\"in normal işləməsi üçün tələb olunan icazələri yoxdur. Ayarlara gedin və davam etmək üçün icazələri yoxlayın."</string>
     <string name="error_server_error">Server xətası baş verdi.</string>
     <string name="evening">Günortadan sonra</string>
     <string name="examples_form_guide">Cədvəllər necə skan edilir</string>
@@ -539,7 +539,7 @@
     <string name="picture_empty_audio_title">"Səs faylı yoxdur"</string>
     <string name="picture_empty_title">"Video və ya foto yoxdur"</string>
     <string name="picture_error">Şəkil zədələnib</string>
-    <string name="picture_go_setting">Tənzimləmələrə get</string>
+    <string name="picture_go_setting">Ayarlara get</string>
     <string name="picture_is_being_saved">Şəkil saxlanılır</string>
     <string name="picture_jurisdiction">Oxuma yaddaş kartı müraciəti rədd edildi</string>
     <string name="picture_know">Oldu</string>

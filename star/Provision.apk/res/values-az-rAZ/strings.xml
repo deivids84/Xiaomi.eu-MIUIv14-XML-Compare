@@ -388,7 +388,7 @@ Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; 
     <string name="permission_make_a_call_fast_application_summary">Cəld tətbiqlərin zəng etməsinə icazə vermək üçün;</string>
     <string name="permission_message_introduction">Əngəllənmiş kontaktlara mesaj göndərmək üçün</string>
     <string name="permission_phone_imei_device">Cihazları müəyyənləşdirmək üzrə IMEI-yə müraciət etmək üçün</string>
-    <string name="permission_phone_network">Endirilə bilən elementləri optimallaşdırmaq və tənzimləmək üzrə şəbəkə növünə müraciət etmək üçün</string>
+    <string name="permission_phone_network">Endirilə bilən elementləri optimallaşdırmaq və ayarlamaq üzrə şəbəkə növünə müraciət etmək üçün</string>
     <string name="permission_phone_service">Telefon nömrəsi, IMEI və IMSI-yə müraciət</string>
     <string name="permission_photo_introduction">Təsvirləri Qalereyada saxlamaq və statusları dərc etmək üçün</string>
     <string name="permission_photo_video">Foto çək və video yaz:</string>

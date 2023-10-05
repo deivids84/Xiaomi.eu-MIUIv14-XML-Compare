@@ -651,7 +651,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="create_album_failed_because_dup">Bu albom artıq mövcuddur. Elementlər bu alboma indi əlavə edilsin?</string>
     <string name="create_baby_album">Körpə albomu yarat</string>
     <string name="create_baby_album_dialog_msg">\"%s\" üçün albom yaradılsın?</string>
-    <string name="create_baby_album_later_toast">İstədiyiniz vaxt Tənzimləmələrdə Körpə albomu yaradın</string>
+    <string name="create_baby_album_later_toast">İstədiyiniz vaxt Ayarlarda Körpə albomu yaradın</string>
     <string name="create_new_album">Albom yarat</string>
     <string name="create_new_album_failed">"Yaradıla bilmədi"</string>
     <string name="create_new_face">Yeni şəxs</string>
@@ -761,7 +761,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="download_type_thumbnail_subtitle">Yüksək keyfiyyətli təsvirlər orijinalları ilə demək olar ki, eyni görünür, ancaq daha az anbar sahəsi tutur</string>
     <string name="download_type_thumbnail_title">Yüksək keyfiyyət</string>
     <string name="download_type_title">Endirmə keyfiyyəti</string>
-    <string name="downloading_dialog_message">Tənzimləmələrdə endirilən təsvirlərin keyfiyyətini seçə bilər və ya avto-endirmələri söndürə bilərsiniz.</string>
+    <string name="downloading_dialog_message">Ayarlarda endirilən təsvirlərin keyfiyyətini seçə bilər və ya avto-endirmələri söndürə bilərsiniz.</string>
     <string name="downloading_title">Fotolar Xiaomi Cloud-dan endirilir</string>
     <string name="downloading_title_file">Elementlər Xiaomi Cloud-dan endirilir…</string>
     <string name="drag_failed_because_baby_album_cant_sort">"Körpə albomu gizlədilə bilmir"</string>
@@ -815,7 +815,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="error_build_thumbnail_msg">"Eskiz endirilə bilmədi. Orijinal faylı endirməyə çalışın."</string>
     <string name="error_build_thumbnail_tip">"Eskiz endirilə bilmədi."</string>
     <string name="error_change_storage_action">Anbarı dəyişdir</string>
-    <string name="error_change_storage_msg">Tənzimləmələrə gedin &gt; Anbar, anbarı dəyişdirib yenidən sınayın.</string>
+    <string name="error_change_storage_msg">Ayarlara &gt; \"Anbar\"a gedin, anbarı dəyişdirib yenidən sınayın.</string>
     <string name="error_check_network_later">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="error_cloud_not_active">Xiaomi Cloud-da foto yoxdur</string>
     <string name="error_connect_timeout_action">Şəbəkə seçin</string>
@@ -826,7 +826,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="error_download_tip">"Endirilə bilmədi"</string>
     <string name="error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Mi Hesabı ilə əlaqələndirilib.</string>
     <string name="error_external_sdcard_write_action">Anbarı dəyişdir</string>
-    <string name="error_external_sdcard_write_msg">Tənzimləmələrə gedin &gt; Anbar, anbarı dəyişdirib yenidən sınayın.</string>
+    <string name="error_external_sdcard_write_msg">Ayarlara &gt; \"Anbar\"a gedin, anbarı dəyişdirib yenidən sınayın.</string>
     <string name="error_external_sdcard_write_tip">"Elementlər SD kartda saxlanıla bilmir."</string>
     <string name="error_forbidden">Xiaomi Hesabınızla bağlı problemlərə görə sinxronlaşdırma sıradan çıxarıldı.</string>
     <string name="error_install_connect_fail">"Qoşma yüklənə bilmədi. Şəbəkə bağlantınızı yoxlayın."</string>
@@ -1241,7 +1241,7 @@ mövcuddur"</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">Oldu</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Hamısı</string>
     <string name="homepage_allphotos_tip_dialog_description_only_camera">Kamera ilə çəkilib</string>
-    <string name="homepage_allphotos_tip_dialog_subtitle">Bunu daha sonra Tənzimləmələrdə də edə bilərsiniz</string>
+    <string name="homepage_allphotos_tip_dialog_subtitle">Bunu daha sonra Ayarlarda da edə bilərsiniz</string>
     <string name="homepage_allphotos_tip_dialog_title">\"Fotolar\"da hansı təsvirləri görmək istərdiniz?</string>
     <string name="how_to_set_relation">Qrup yaratmaq üçün albomu basılı tutun</string>
     <string name="hr_preview_108m">108MP önbaxışına keçildi</string>
@@ -2329,7 +2329,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="rename_fail_msg">"Ad dəyişdirilə bilmədi"</string>
     <string name="rename_from_contact">Kontaktlardan adlar</string>
     <string name="request_agree">İcazə ver</string>
-    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil fotonuzu ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="request_cancel">İmtina</string>
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
@@ -3049,7 +3049,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="to_count">Cəmi %d</string>
     <string name="to_enable_gallery_sync_dialog_message">Əvvəlcə Qalereya üçün sinxronlaşdırmanı işə salın</string>
     <string name="to_enable_sync_dialog_message">Əvvəlcə sinxronlaşdırmanı işə sal</string>
-    <string name="to_enable_sync_dialog_positive_button_text">Tənzimləmələrə get</string>
+    <string name="to_enable_sync_dialog_positive_button_text">Ayarlara get</string>
     <string name="to_enable_sync_dialog_title">Sinxronlaşdır</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
     <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet istifadə edərək endirilsin?"</string>

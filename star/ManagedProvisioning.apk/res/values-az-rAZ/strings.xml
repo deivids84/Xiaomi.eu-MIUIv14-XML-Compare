@@ -46,9 +46,9 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="cancel_provisioning">İmtina</string>
     <string name="cancel_setup">İmtina</string>
     <string name="cancel_setup_and_factory_reset_dialog_cancel">İmtina</string>
-    <string name="cancel_setup_and_factory_reset_dialog_msg">Bu quraşdırmanı sonlandırmaq, cihazınızı fabrik tənzimləmələrinə sıfırlayacaq və sizi ilk ekrana götürəcək.</string>
+    <string name="cancel_setup_and_factory_reset_dialog_msg">Bu quraşdırmanı sonlandırmaq, cihazınızı fabrik ayarlarına sıfırlayacaq və sizi ilk ekrana götürəcək.</string>
     <string name="cancel_setup_and_factory_reset_dialog_ok">Cihazı sıfırla</string>
-    <string name="cancel_setup_and_factory_reset_dialog_title">Quraşdırmanı bitirib fabrik tənzimləmələrinə sıfırlansın?</string>
+    <string name="cancel_setup_and_factory_reset_dialog_title">Quraşdırmanı bitirib fabrik ayarlarına sıfırlansın?</string>
     <string name="cant_add_work_profile">"İş profili əlavə edilə bilmir"</string>
     <string name="cant_replace_or_remove_work_profile">"İş profili dəyişdirilə və ya silinə bilmir"</string>
     <string name="cant_set_up_device">"Cihaz quraşdırıla bilmir"</string>

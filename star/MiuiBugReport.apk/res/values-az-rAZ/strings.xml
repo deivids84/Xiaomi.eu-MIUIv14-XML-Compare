@@ -638,7 +638,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="resend_active_email">Təkrar göndər</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="resend_email_reach_limit_title">Həddən artıq çox cəhd</string>

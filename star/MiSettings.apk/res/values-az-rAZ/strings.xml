@@ -337,7 +337,7 @@
     <string name="in_forbidden_period">İstifadəsi artıq məhdudlaşdırılıb</string>
     <string name="intelligent_radio_btn_summary">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq tənzimləyin</string>
     <string name="intelligent_radio_btn_title">İlkin (tövsiyə edilən)</string>
-    <string name="intelligent_recognition_item_summary">Çatdırılma və taksi xidmətlərindən gələn zənglər üçün təyin edilmiş zəng səsini istifadə edin. Bu özəllik, %s ilkin zəng səsiniz olaraq tənzimlənəndə işləyəcək.</string>
+    <string name="intelligent_recognition_item_summary">Çatdırılma və taksi xidmətlərindən gələn zənglər üçün təyin edilmiş zəng səsini istifadə edin. Bu özəllik, %s ilkin zəng səsiniz olaraq ayarlananda işləyəcək.</string>
     <string name="intelligent_recognition_item_title">Xidmətləri müəyyənləşdir</string>
     <string name="item_anura">Quyruqsuzlar</string>
     <string name="item_artiodactyla">Cütdırnaqlılar</string>

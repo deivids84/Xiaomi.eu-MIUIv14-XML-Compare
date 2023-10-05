@@ -272,7 +272,7 @@
     <string name="focus_mode_timer_pick_dialog_title">Müddəti daxil et</string>
     <string name="focus_time_exception_tip">Deyəsən, sistem vaxtı dəyişdirildi. Fokus rejimi söndürüldü.</string>
     <string name="follow_apps_settings">Tətbiq tənzimləmələri əsasında</string>
-    <string name="follow_sim1">SIM 1 tənzimləmələrini tətbiq et</string>
+    <string name="follow_sim1">SIM 1 ayarlarını tətbiq et</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər tənzimlənə bilər."</string>
     <string name="force_rest">Seans fasilələrini istifadə et</string>

@@ -180,7 +180,7 @@
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Hansı tətbiqləri nə qədər istifadə etdiyinizi öyrənərək maraqlarınız və davranışlarınızla bağlı məlumat yığın</item>
-        <item>Operatorunuzla əlaqəli və dil tənzimləmələrinə, eləcə də digər detallara müraciət edin</item>
+        <item>Operatorunuzla əlaqəli və dil ayarlarına, eləcə də digər detallara müraciət edin</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
         <item>"Doğrulanmamış üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem sabitliyini azalda bilər."</item>

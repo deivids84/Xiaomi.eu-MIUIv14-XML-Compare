@@ -1217,7 +1217,7 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="privacy_request_title">Şərtlər və qaydalar</string>
     <string name="pro_member">Gold üzvü</string>
     <string name="project_device">Mi Telefon</string>
-    <string name="prompt_grant_write_settings_permission">Sistem tənzimləmələrini dəyişdirməyə icazə ver</string>
+    <string name="prompt_grant_write_settings_permission">Sistem ayarlarını dəyişdirməyə icazə ver</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Yüklənə bilmədi"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Uğurla yükləndi</string>
     <string name="pulluprefreshrecyclerview_loading_running">Yüklənir…</string>

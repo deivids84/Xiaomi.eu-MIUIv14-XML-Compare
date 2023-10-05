@@ -735,7 +735,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="wapi_auto_sel_cert_fail">Sertifikat avtomatik seçilə bilmir. Lütfən siyahıdan bir sertifikat seçib bağlantı qurmağa çalışın.</string>
     <string name="wapi_cert_is_not_exist">Mövcud sertifikat yoxdur, lütfən əvvəlcə sertifikatı quraşdırın</string>
     <string name="wapi_cert_is_not_selected">Əvvəlcə serifikatı quraşdırın</string>
-    <string name="wapi_cert_manage_error">WAPI sertifikatını tənzimləmək uğursuz oldu.</string>
+    <string name="wapi_cert_manage_error">WAPI sertifikatını ayarlamaq uğursuz oldu.</string>
     <string name="wapi_cert_manage_summary">WAPI sertifikatı əlavə et və ya sil</string>
     <string name="wapi_cert_manage_title">WAPI sertifikat idarəsi</string>
     <string name="wapi_cert_roaming">Bağlantı qurulur…</string>

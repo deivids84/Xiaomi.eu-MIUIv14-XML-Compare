@@ -94,7 +94,7 @@
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Ailə</string>
     <string name="cloud_storage_info_type_others">Digər</string>
-    <string name="cloud_storage_info_type_pdc">Sistem tənzimləmələri</string>
+    <string name="cloud_storage_info_type_pdc">Sistem ayarları</string>
     <string name="cloud_storage_loading_data">Bir saniyə…</string>
     <string name="cloud_storage_no_data">Məlumat yoxdur</string>
     <string name="confirm">Oldu</string>
@@ -445,7 +445,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="request_permission_external_storage">Cihaz anbarına müraciət</string>
     <string name="request_permission_external_storage_desc">Elementləri önizləmək, yükləmək, endirmək və sinxronlaşdırmaq üçün</string>
     <string name="request_permission_manual_authorized">Tənzimləmələr</string>
-    <string name="request_permission_manual_desc">Bəzi özəllikləri istifadə edə bilmək üçün aşağıdakı icazə tələb olunur: %s. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="request_permission_manual_desc">Bəzi özəllikləri istifadə edə bilmək üçün aşağıdakı icazə tələb olunur: %s. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="request_permission_manual_title">Tələb olunan icazələr</string>
     <string name="request_permission_manual_unauthorized">İmtina</string>
     <string name="request_permission_post_notification">Bildirişlər</string>

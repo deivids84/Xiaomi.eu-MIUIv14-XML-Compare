@@ -110,7 +110,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Rəng korreksiyası</string>
     <string name="accessibility_divider">Bölünmüş ekran ayırıcısı</string>
     <string name="accessibility_enter_hint">cihaz daxil edin</string>
-    <string name="accessibility_enter_lock_setting">\"Divar kağızı Karuseli\" tənzimləmələrini açmaq üçün toxunun</string>
+    <string name="accessibility_enter_lock_setting">\"Divar kağızı Karuseli\" ayarlarını açmaq üçün toxunun</string>
     <string name="accessibility_enter_lock_wallpaper">\"Divar kağızı Karuseli\"ni açmaq üçün toxunun</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet bağlantısı kəsildi.</string>
@@ -195,7 +195,7 @@
     <string name="accessibility_quick_settings_expand">Cəld ayarları aç.</string>
     <string name="accessibility_quick_settings_less_time">Daha az vaxt.</string>
     <string name="accessibility_quick_settings_more_time">Daha çox vaxt.</string>
-    <string name="accessibility_quick_settings_open_settings">%s tənzimləmələrini aç.</string>
+    <string name="accessibility_quick_settings_open_settings">%s ayarlarını aç.</string>
     <string name="accessibility_quick_settings_page">Səhifə %1$d/%2$d</string>
     <string name="accessibility_quick_settings_power_menu">Güc menyusu</string>
     <string name="accessibility_quick_settings_rotation">Ekranı avto-döndərmə</string>
@@ -578,11 +578,11 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="controls_error_failed">Xəta, yenidən sına</string>
     <string name="controls_error_generic">Status yüklənə bilmir</string>
     <string name="controls_error_removed">Tapılmadı</string>
-    <string name="controls_error_removed_message">%1$s cihazına müraciət edilə bilmədi. Nəzarətin hələ də əlçatan olduğuna və tətbiq tənzimləmələrinin dəyişdirilmədiyinə əmin olmaq üçün %2$s tətbiqini yoxlayın.</string>
+    <string name="controls_error_removed_message">%1$s cihazına müraciət edilə bilmədi. Nəzarətin hələ də əlçatan olduğuna və tətbiq ayarlarının dəyişdirilmədiyinə əmin olmaq üçün %2$s tətbiqini yoxlayın.</string>
     <string name="controls_error_removed_title">Kontrol əlçatmazdır</string>
     <string name="controls_error_timeout">Qeyri-aktiv, tətbiqi yoxla</string>
     <string name="controls_favorite_default_title">Kontrollar</string>
-    <string name="controls_favorite_load_error">Kontrollar yüklənə bilmədi. Tətbiq tənzimləmələrinin dəyişmədiyinə əmin olmaq üçün %s tətbiqini yoxlayın.</string>
+    <string name="controls_favorite_load_error">Kontrollar yüklənə bilmədi. Tətbiq ayarlarının dəyişmədiyinə əmin olmaq üçün %s tətbiqini yoxlayın.</string>
     <string name="controls_favorite_load_none">Uyğun kontrollar əlçatmazdır</string>
     <string name="controls_favorite_other_zone_header">Digər</string>
     <string name="controls_favorite_rearrange">Kontrolları yenidən düzmək üçün basılı tutun və sürükləyin</string>
@@ -1399,8 +1399,8 @@ Daha çox məlumat üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="monitoring_description_parental_controls">Bu cihaz valideyniniz tərəfindən idarə olunur. Valideyniniz istifadə etdiyiniz tətbiqlər, yerləşməniz və ekran qarşısında qalma vaxtınız kimi məlumatları görə və idarə edə bilər.</string>
     <string name="monitoring_description_personal_profile_named_vpn">Fərdi tətbiqləriniz %1$s üzərindən internetə bağlanıb. E-poçt və gəzinmə datası daxil olmaqla şəbəkə fəaliyyətiniz IT admininizə görünür.</string>
     <string name="monitoring_description_two_named_vpns">Bu cihaz %1$s və %2$s üzərindən internetə bağlanıb. E-poçt və gəzinmə datası daxil olmaqla şəbəkə fəaliyyətiniz IT admininizə görünür.</string>
-    <string name="monitoring_description_vpn_settings">VPN tənzimləmələrini aç</string>
-    <string name="monitoring_financed_description_named_management">"%1$s, bu cihazla əlaqələndirilmiş datalara müraciət edə, tətbiqləri idarə edə və bu cihazın tənzimləmələrini dəyişdirə bilər.
+    <string name="monitoring_description_vpn_settings">VPN ayarlarını aç</string>
+    <string name="monitoring_financed_description_named_management">"%1$s, bu cihazla əlaqələndirilmiş datalara müraciət edə, tətbiqləri idarə edə və bu cihazın ayarlarını dəyişdirə bilər.
 
 Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="monitoring_subtitle_ca_certificate">CA sertifikatları</string>
@@ -2152,7 +2152,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="tts_engine_network_required">Bu dil, mətndən nitqə çıxış üçün işləyən bir şəbəkə bağlantısı tələb edir.</string>
     <string name="tts_engine_preference_section_title">Tərcih edilən mühərrik</string>
     <string name="tts_engine_security_warning">Bu nitq sintez mühərriki, parollar və kredit kartı nömrələri kimi şəxsi datalar daxil olmaqla danışılan bütün mətni yığa bilər. Bu, %s mühərrikindən gəlir. Bu nitq sintez mühərrikinin istifadəsi fəallaşdırılsın?</string>
-    <string name="tts_engine_settings_button">Mühərrik tənzimləmələrini başlat</string>
+    <string name="tts_engine_settings_button">Mühərrik ayarlarını başlat</string>
     <string name="tts_engine_settings_title">%s üçün tənzimləmələr</string>
     <string name="tts_general_section_title">Ümumi</string>
     <string name="tts_install_data_summary">Nitq sintezi üçün tələb olunan səs datasını quraşdır</string>
@@ -2242,11 +2242,11 @@ Bu tətbiqə səsyazma icazəsi verilməyib, ancaq bu USB cihazı vasitəsilə s
     <string name="user_add_user">İstifadəçi əlavə et</string>
     <string name="user_add_user_item_summary">İstifadəçilərin öz tətbiqləri və məzmunları var</string>
     <string name="user_add_user_item_title">İstifadəçi</string>
-    <string name="user_add_user_message_long">"Əlavə istifadəçilər yaradaraq bu cihazı digərləri ilə paylaşa bilərsiniz. Hər bir istifadəçinin tətbiq, divar kağızı və daha çoxunu özəlləşdirə biləcəyi sahələri var. İstifadəçilər həmçinin, Wi‑Fi kimi hər kəsə təsir edəcək cihaz tənzimləmələrini də tənzimləyə biləcək.
+    <string name="user_add_user_message_long">"Əlavə istifadəçilər yaradaraq bu cihazı digərləri ilə paylaşa bilərsiniz. Hər bir istifadəçinin tətbiq, divar kağızı və daha çoxunu özəlləşdirə biləcəyi sahələri var. İstifadəçilər həmçinin, Wi‑Fi kimi hər kəsə təsir edəcək cihaz ayarlarını da ayarlaya biləcək.
 
 Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdırmalıdır.
 
-İstənilən istifadəçi, tətbiqləri digər bütün istifadəçilər üçün güncəlləyə bilər. Əlçatımlılıq tənzimləmələri və xidmətlər yeni istifadəçiyə transfer edilməyə bilər."</string>
+İstənilən istifadəçi, tətbiqləri digər bütün istifadəçilər üçün güncəlləyə bilər. Əlçatımlılıq ayarları və xidmətlər yeni istifadəçiyə transfer edilməyə bilər."</string>
     <string name="user_add_user_message_short">"Yeni istifadəçi əlavə edəndə, həmin şəxs öz sahəsini quraşdırmalıdır.
 
 İstənilən istifadəçi, bütün digər istifadəçilər üçün tətbiqləri güncəlləyə bilər."</string>

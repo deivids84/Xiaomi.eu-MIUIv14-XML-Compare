@@ -907,7 +907,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
 Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="face_album_empty_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Məlumatları sinxronlaşdırmaq üçün şəbəkəyə bağlanın</string>
-    <string name="face_album_long_tap_tip">Çoxlu şəxs seçmək və ya qrup tənzimləmələrini dəyişdirmək üçün, profil şəklini basılı tutun</string>
+    <string name="face_album_long_tap_tip">Çoxlu şəxs seçmək və ya qrup ayarlarını dəyişdirmək üçün, profil fotosunu basılı tutun</string>
     <string name="face_album_new_name_hint">Yeni ad</string>
     <string name="face_album_not_named">Adsız</string>
     <string name="face_album_rename_hint">Adı daxil edin</string>

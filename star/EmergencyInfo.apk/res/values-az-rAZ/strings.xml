@@ -122,7 +122,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="b_negative">B mənfi</string>
     <string name="b_positive">B müsbət</string>
     <string name="back_navigation_animation">Proqnozlaşdırılan geri animasiyalar</string>
-    <string name="back_navigation_animation_dialog">Bu tənzimləmə, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback tənzimləməsinin true olaraq tənzimlənməsini tələb edir.</string>
+    <string name="back_navigation_animation_dialog">Bu ayar, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback dəyərinin true olaraq ayarlanmasını tələb edir.</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır.</string>
     <string name="battery_info_status_charging">Dolur</string>
     <string name="battery_info_status_charging_fast">Sürətlə dolur</string>

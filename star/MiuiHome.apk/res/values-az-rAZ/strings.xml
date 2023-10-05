@@ -134,7 +134,7 @@
     <string name="app_category_tools">Alətlər</string>
     <string name="app_category_travel">Səyahət</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_drawer_double_confirm_description">"Bu, Əsas ekran düzümünüzü dəyişdirəcək. Bu dəyişiklikləri daha sonra Tənzimləmələrdə geri qaytara biləcəksiniz."</string>
+    <string name="app_drawer_double_confirm_description">"Bu, Əsas ekran düzümünüzü dəyişdirəcək. Bu dəyişiklikləri daha sonra Ayarlarda geri qaytara biləcəksiniz."</string>
     <string name="app_drawer_double_confirm_title">Diqqət</string>
     <string name="app_drawer_feature_description">Tətbiq siyirməsi, bütün tətbiqlərinizi düzmək üçün mükəmməl bir alətdir. Tətbiqləri avtomatik olaraq kateqoriyalara ayırın və lazım olan hər şeyi bir anda tapın!</string>
     <string name="app_drawer_guide_description">"Axtardığınızı sevimli tətbiqlərdə tapın"</string>
@@ -597,7 +597,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="privacy_thumbnail_blur_summary">Sonuncularda tətbiq önbaxışlarını bulanıqlaşdır</string>
     <string name="privacy_thumbnail_blur_title">Tətbiq önbaxışlarını bulanıqlaşdır</string>
     <string name="quick_app">Cəld tətbiqlər</string>
-    <string name="quick_finder_feature_description">Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəlliyi Tənzimləmələrdə söndürə bilərsiniz.</string>
+    <string name="quick_finder_feature_description">Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="quick_finder_tip_title">Ehtiyacınız olan hər şeyi daha tez tapın</string>
     <string name="quick_search_all_app_desc">Bütün tətbiqləri Tətbiq siyirməsində göstər</string>
     <string name="quick_search_desc">Tətbiq siyirməsini açdıqdan sonra axtarışı aç</string>
@@ -722,7 +722,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="task_access_locked_app_msg">Tətbiq kilidi işə salındı</string>
     <string name="term_of_service">Şərtlər və qaydalar</string>
     <string name="terms_of_services_one">\"Tətbiq siyirməsi və \"Quick Finder\"ə xoş gəlmisiniz. Quick Finder, tətbiqləri, tətbiq daxili məzmunu və elementləri onlayn olaraq daha tez tapmağınıza imkan verir. Bu özəllikləri istifadə etməzdən əvvəl Xiaomi-nin <font color="#B3000000"><a href="http://url1">Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
-    <string name="terms_of_services_three">Bu özəlliyi Tənzimləmələrdə söndürə bilərsiniz.</string>
+    <string name="terms_of_services_three">Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="terms_of_services_two">Təkmil axtarışı istifadə etmək, axtarış sorğularınız, Google Advertising Kimliyiniz və IP ünvanınız daxil olmaqla lazımi şəxsi məlumatlarınızın Branch Metrics Inc. ilə paylaşılmasını tələb edir. Branch, şəxsi məlumatlarınızı <font color="#B3000000"><a href="http://url1">Branch Discovery Gizlilik Siyasətinə</a></font> uyğun olaraq emal edəcək. Bu özəlliyi istifadə etməzdən əvvəl <font color="#B3000000"><a href="http://url2">End User Discovery Şərtləri və Qaydaları</a></font> və <font color="#B3000000"><a href="http://url3">Branch Discovery Gizlilik Siyasətini</a></font> oxuyun və razılaşın.</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>

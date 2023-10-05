@@ -271,7 +271,7 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d - %d dəqiqə</string>
     <string name="focus_mode_timer_pick_dialog_title">Müddəti daxil et</string>
     <string name="focus_time_exception_tip">Deyəsən, sistem vaxtı dəyişdirildi. Fokus rejimi söndürüldü.</string>
-    <string name="follow_apps_settings">Tətbiq tənzimləmələri əsasında</string>
+    <string name="follow_apps_settings">Tətbiq ayarları əsasında</string>
     <string name="follow_sim1">SIM 1 ayarlarını tətbiq et</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər tənzimlənə bilər."</string>
@@ -716,7 +716,7 @@ vaxt qalmadı"</string>
     <string name="usage_beat_fans">Mi Fans-ın %s tətbiqindən daha yaxşı</string>
     <string name="usage_continuous_days">Seriya</string>
     <string name="usage_creating_weekly_report">Həftəlik hesabat yaradılır…</string>
-    <string name="usage_cta_desc">"Tənzimləmələrə xoş gəldiniz! Sizi Ekran vaxtı və Fokus rejimi statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı, ekran yandırma sayı və Fokus rejimi tənzimləmələri. Yığılmış məlumatlar yalnız bu cihazın daxili anbarında yerli olaraq saxlanılacaq.
+    <string name="usage_cta_desc">"Ayarlara xoş gəlmisiniz! Sizi Ekran vaxtı və Fokus rejimi statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı, ekran yandırma sayı və Fokus rejimi ayarları. Yığılmış məlumatlar yalnız bu cihazın daxili anbarında yerli olaraq saxlanılacaq.
 "</string>
     <string name="usage_current_week_usage">Son 7 gündə ortalama %s</string>
     <string name="usage_device_limit_app_prolong">Vaxt əlavə et</string>
@@ -732,7 +732,7 @@ vaxt qalmadı"</string>
     <string name="usage_device_limit_time_over">"Bugünkü (%1$s) limitinizə çatdınız"</string>
     <string name="usage_exit">Çıxış</string>
     <string name="usage_focus_focus_premission_main_summary">Fokus rejimi istifadə statistikanızı qeyd etmək üçün bu tətbiq hesab məlumatlarınıza müraciət etməlidir.</string>
-    <string name="usage_focus_focus_premission_second_summary">"Belə icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Tənzimləmələrdə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="usage_focus_focus_premission_second_summary">"Belə icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="usage_focus_new_summary">Daha diqqətli və fokuslanmış olun</string>
     <string name="usage_focus_save_success">Qalareyada uğurla saxlanıldı</string>
     <string name="usage_focus_summary_level1">Diqqəti cəmləməyə bir neçə dəqiqə ayırmaq asandır.</string>

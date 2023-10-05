@@ -167,7 +167,7 @@
     <string name="legal_off_day_message">" (İş günlərində zəngli saat çalmayacaq)"</string>
     <string name="legal_workday">Əlavə iş günü</string>
     <string name="legal_workday_invalidate">Məlumat müddəti bitdi (Zəngli saat B.e.-C. günləri arasında çalacaq)</string>
-    <string name="legal_workday_invalidate_message">(Məlumat müddəti bitdi. Tənzimləmələrdə güncəlləyin.)</string>
+    <string name="legal_workday_invalidate_message">(Məlumat müddəti bitdi. Ayarlarda güncəlləyin.)</string>
     <string name="legal_workday_message">" (Bayramlarda zəngli saat çalmayacaq)"</string>
     <string name="life_post_setting">Səhər hesabatı</string>
     <string name="life_post_setting_FBE_remind">Sistem məhdudiyyətlərinə görə, cihaz yenidən başladıldıqdan sonra səhər hesabatlarındakı hava durumu məlumatları düzgün göstərilməyə bilər.</string>

@@ -540,7 +540,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="perm_read_phone_state">Telefon statusuna müraciət</string>
     <string name="perm_read_sms">Mesajlara müraciət et</string>
     <string name="perm_storage">Elementlərə müraciət etmə və onları anbarda saxlama</string>
-    <string name="perm_write_settings">Sistem tənzimləmələrini dəyişdir</string>
+    <string name="perm_write_settings">Sistem ayarlarını dəyişdir</string>
     <string name="permission_about_contacts">Kontaktlara və zəng tarixçəsinə düzəliş etmək üçün icazə tələb olunur</string>
     <string name="permission_about_storage">Cihaz anbarına müraciət etmək üçün icazə tələb olunur</string>
     <string name="permission_alert_message_usage_access">Mi Mover, tətbiq istifadə statistikalarına müraciət etməlidir. Mi Mover-ə tələb olunan icazəni Tənzimləmələrdə verin.</string>
@@ -756,7 +756,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="title_request_alert_window_perm">Üzən pəncərələrə icazə ver</string>
     <string name="title_request_manage_external_storage_perm">Tələb olunan icazələr</string>
     <string name="title_request_package_stats_perm">Tələb olunan icazələr</string>
-    <string name="title_request_write_settings_perm">Sistem tənzimləmələrini dəyişdirməyə icazə ver</string>
+    <string name="title_request_write_settings_perm">Sistem ayarlarını dəyişdirməyə icazə ver</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="trans_apple">iPhone-nunuza bağlanın</string>

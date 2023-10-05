@@ -182,7 +182,7 @@ Baxmaq üçün toxunun"</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_send">Göndər</string>
     <string name="permission_desc">İcazə detalları</string>
-    <string name="permission_intro_microphone">Səs mənbəyi mikrofona tənzimlənəndə səsləri yazmaq üçün</string>
+    <string name="permission_intro_microphone">Səs mənbəyi mikrofon olaraq ayarlananda səsləri yazmaq üçün</string>
     <string name="permission_intro_storage">Ekran yazılarını saxlamaq üçün</string>
     <string name="permission_microphone_desc">Mikrofonu ekran yazıları üzrə səs mənbəyi olaraq istifadə etmək üçün</string>
     <string name="pm">GS</string>

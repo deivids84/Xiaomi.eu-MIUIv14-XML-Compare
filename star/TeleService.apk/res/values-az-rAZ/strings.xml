@@ -371,7 +371,7 @@
     <string name="call_barring_change_pwd_success">Parol dəyişdirildi</string>
     <string name="call_barring_confirm_pwd">Parolu təsdiqləyin</string>
     <string name="call_barring_deactivate_all">Hamısını deaktiv et</string>
-    <string name="call_barring_deactivate_all_description">Bütün zəng qadağası tənzimləmələrini deaktiv et</string>
+    <string name="call_barring_deactivate_all_description">Bütün zəng qadağası ayarlarını deaktiv et</string>
     <string name="call_barring_deactivate_success">Zəng qadağası deaktiv edildi</string>
     <string name="call_barring_new_pwd">Yeni parol</string>
     <string name="call_barring_old_pwd">Köhnə parol</string>

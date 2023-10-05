@@ -183,7 +183,7 @@
     <string name="ambulance_type_description">Təcili yardım</string>
     <string name="answer_features_setting_category">Cavablandırma və Zənglər</string>
     <string name="answer_state_setting_summary">Əlavə gələn zəng seçimləri</string>
-    <string name="answer_state_setting_title">Gələn zəng tənzimləmələri</string>
+    <string name="answer_state_setting_title">Gələn zəng ayarları</string>
     <string name="antispam_notification_title">Bilinməyən nömrə</string>
     <string name="antispam_setting">Əngəlli siyahısı</string>
     <string name="apn_settings">Müraciət Nöqtəsi Adları</string>
@@ -207,8 +207,8 @@
     <string name="auto_answer_scenario_enteries_bluetooth_only">Yalnız Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth">Yalnız qulaqlıq və ya Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_only">Yalnız qulaqlıq</string>
-    <string name="auto_answer_scenario_title">Avto-cavablandırma tənzimləmələri</string>
-    <string name="auto_answer_setting_title">Avto-cavablandırma tənzimləmələri</string>
+    <string name="auto_answer_scenario_title">Avto-cavablandırma ayarları</string>
+    <string name="auto_answer_setting_title">Avto-cavablandırma ayarları</string>
     <string name="auto_answer_summary_not_enabled">Bağlı</string>
     <string name="auto_record_yellowpage">Kataloq</string>
     <string name="auto_redial_pref_summary">Xətt məşğuldursa, avtomatik olaraq yenidən zəng et</string>
@@ -229,7 +229,7 @@
     <string name="autoip_no_exceptions">"IP prefiksi tələb etməyən nömrələri əlavə edin"</string>
     <string name="autoip_prefix">IP prefiks</string>
     <string name="autoip_prefix_summary">"Operator IP prefiksi: %s"</string>
-    <string name="autoip_setting">Avtomatik IP tənzimləmələri</string>
+    <string name="autoip_setting">Avtomatik IP ayarları</string>
     <string name="autoip_summary">Beynəlxalq nömrələr üçün IP prefiksi əlavə edin</string>
     <string name="autoip_support_local_numbers">Həmişə IP prefiksi istifadə et</string>
     <string name="back">Geri</string>
@@ -249,7 +249,7 @@
     <string name="bf_news_settings">Biznes və maliyyə xəbərləri</string>
     <string name="c_iwlan_exit_notification_description">Onu söndürmək xidməti əldə etməyə kömək edə bilər.</string>
     <string name="c_iwlan_exit_notification_negative_button">RƏDD ET</string>
-    <string name="c_iwlan_exit_notification_positive_button">TƏNZİMLƏMƏLƏRİ AÇ</string>
+    <string name="c_iwlan_exit_notification_positive_button">AYARLARI AÇ</string>
     <string name="c_iwlan_exit_notification_title">Mobil İnternet üzərindən Səs əlçatmazdır</string>
     <string name="callEnded_pulled">Zəng başqa cihaza yönləndirildi.</string>
     <string name="callFailed_NetworkBusy">Şəbəkə məşğuldur. Sonra yenidən zəng edin.</string>
@@ -378,7 +378,7 @@
     <string name="call_barring_pwd_not_match">Parollar uyğun gəlmir</string>
     <string name="call_barring_right_pwd_number">4 rəqəmli parolu daxil edin</string>
     <string name="call_barring_settings">Zəng qadağası tənzimləmələri</string>
-    <string name="call_barring_sum">Səsli zəng qadağası tənzimləmələri</string>
+    <string name="call_barring_sum">Səsli zəng qadağası ayarları</string>
     <string name="call_category">Zəng edilir</string>
     <string name="call_description_recording">Səs yazılır…</string>
     <string name="call_fold_setting">Qatlama və açma</string>
@@ -386,7 +386,7 @@
     <string name="call_forward_option">Zəng yönləndirmə</string>
     <string name="call_forwarding_number_hint">Zəngləri yönləndir</string>
     <string name="call_forwarding_settings">Zəng yönləndirmə</string>
-    <string name="call_forwarding_settings_with_label">Zəngin yönləndirilməsi tənzimləmələri (%s)</string>
+    <string name="call_forwarding_settings_with_label">Zəng yönləndirmə ayarları (%s)</string>
     <string name="call_quality_notification_bluetooth_details">Bluetooth siqnalınız zəifdir. Dinamikə keçməyə çalışın.</string>
     <string name="call_quality_notification_name">Zəng keyfiyyəti bildirişi</string>
     <string name="call_record_add_numbers">Nömrə əlavə et</string>
@@ -410,9 +410,9 @@
     <string name="call_recording_notification_title_error">"Zəngin səsi yazıla bilmədi"</string>
     <string name="call_recording_notification_toggle_title">Zəng səsyazma bildirişi</string>
     <string name="call_recording_setting">Zəng səsyazması</string>
-    <string name="call_settings">Zəng tənzimləmələri</string>
-    <string name="call_settings_admin_user_only">Zəng tənzimləmələri yalnız admin tərəfindən dəyişdirilə bilər.</string>
-    <string name="call_settings_primary_user_only">Zəng tənzimləmələri yalnız əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
+    <string name="call_settings">Zəng ayarları</string>
+    <string name="call_settings_admin_user_only">Zəng ayarları yalnız admin tərəfindən dəyişdirilə bilər.</string>
+    <string name="call_settings_primary_user_only">Zəng ayarları yalnız əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
     <string name="call_settings_with_label">Tənzimləmələr (%s)</string>
     <string name="call_waiting_summary">Zəng əsnasında, digər gələn zəngləri bildir</string>
     <string name="call_waiting_title">Zəng gözlətmə</string>
@@ -438,8 +438,8 @@
     <string name="carrier_mmi_msg_title">%s Mesajı</string>
     <string name="carrier_provisioning">Operator təməl hazırlıq məlumatı</string>
     <string name="carrier_settings_euicc">Operator</string>
-    <string name="carrier_settings_title">Operator tənzimləmələri</string>
-    <string name="cb_sms_settings">Hüceyrəvi Yayım SMS tənzimləmələri</string>
+    <string name="carrier_settings_title">Operator ayarları</string>
+    <string name="cb_sms_settings">Hüceyrəvi Yayım SMS ayarları</string>
     <string name="cbrs_data_switch_string">Cbrs Datası</string>
     <string name="cdma_activate_device">Cihazı aktivləşdirin</string>
     <string name="cdma_alert_message">"Əgər başqa kartı, ilkin mobil internet kartı olaraq seçsəniz, China Telecom UIM kartınızı (rouminq istisna) istifadə edə bilməyəcəksiniz."</string>
@@ -500,7 +500,7 @@
     <string name="china_mobile_palm_title">CMCC Onlayn Xidmət Zalı</string>
     <string name="choose_network_title">Şəbəkə seçin</string>
     <string name="clear_all_set_button">tənzimləməni təmizlə</string>
-    <string name="clear_all_set_title">bu düymə, bütün tənzimləmələri təmizləmək üçündür</string>
+    <string name="clear_all_set_title">bu düymə, bütün ayarları təmizləmək üçündür</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">"Zəng tamamlana bilmədi. Xəta kodu: 68."</string>
     <string name="clh_callFailed_access_information_discarded_txt">"Zəng tamamlana bilmədi. Xəta kodu: 43."</string>
@@ -589,7 +589,7 @@
     <string name="copy">Kopyala</string>
     <string name="crescendo_ringer_summary">Zəng səsi səviyyəsi tədricən təyin etdiyiniz səviyyəyə qədər artacaq</string>
     <string name="crescendo_ringer_title">Artan zəng səsi</string>
-    <string name="ct_ut_not_support_close_4glte">UT əlçatmazdır, lütfən Tənzimləmələrdə Təkmilləşdirilmiş 4G LTE rejimini söndürün</string>
+    <string name="ct_ut_not_support_close_4glte">UT əlçatmazdır, lütfən Ayarlarda Təkmilləşdirilmiş 4G LTE rejimini söndürün</string>
     <string name="data_disable_warning_no_mms">"Mobil interneti söndürsəniz, MMS göndərə və ala bilməyəcəksiniz (WCDMA/LTE). Bununla belə, cihazınız Wi-Fi şəbəkəsi ilə bağlantı qurduqda bunu edə biləcəksiniz."</string>
     <string name="data_disable_warning_with_mms">"Mobil interneti söndürsəniz, yenə də MMS göndərə və ala biləcəksiniz (WCDMA/LTE). İnterneti istifadə etmək üçün Wi-Fi şəbəkəsi ilə bağlantı qurun."</string>
     <string name="data_enable_always_warn">Mobil internetin istifadə edilib-edilməyəcəyini soruş</string>
@@ -763,7 +763,7 @@
     <string name="eo_enable">İş imkanları fəallaşdırıldı</string>
     <string name="eras_ad">E.S.</string>
     <string name="eras_bc">E.Ə.</string>
-    <string name="error_updating_title">Zəng tənzimləmələri xətası</string>
+    <string name="error_updating_title">Zəng ayarları xətası</string>
     <string name="esim_goto_active">Aktivləşdir</string>
     <string name="esim_inactive_message">eSIM aktiv deyil</string>
     <string name="esim_inactive_notification_message">SIM kart aşkarlanmadı. eSIM-i aktivləşdirmək üçün toxunun.</string>
@@ -771,7 +771,7 @@
     <string name="esim_inactive_notification_title_global">İkili SIM və mobil şəbəkələr</string>
     <string name="esim_inactive_settings_title">İkili SIM və mobil şəbəkələr</string>
     <string name="esim_is_activating_notification_message_for_o2">Mobil plan aktivləşdirilir…</string>
-    <string name="esim_setting_title">eSIM tənzimləmələri</string>
+    <string name="esim_setting_title">eSIM ayarları</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exception_error">Şəbəkə və ya SIM kart xətası.</string>
     <string name="expand_button_title">Qabaqcıl</string>
@@ -859,7 +859,7 @@
     <string name="full_forwarding_settings">Tam yönləndirmə</string>
     <string name="fw_change_failed">"Yönləndirmə nömrəsi dəyişdirilə bilmədi.
 Bu problem davam etsə, mobil operatorunuzla əlaqə saxlayın."</string>
-    <string name="fw_get_in_vm_failed">"Hazırkı yönləndirmə nömrəsi tənzimləmələri alına və saxlanıla bilmədi.
+    <string name="fw_get_in_vm_failed">"Hazırkı yönləndirmə nömrəsi ayarları alına və saxlanıla bilmədi.
 Yenə də yeni provayderə keçilsin?"</string>
     <string name="general_news_settings">Ümumi xəbərlər</string>
     <string name="general_setting">Tənzimləmələr</string>
@@ -882,7 +882,7 @@ Yenə də yeni provayderə keçilsin?"</string>
     <string name="importSimEntry">Daxilə köçür</string>
     <string name="importToFDNfromContacts">Kontaktlardan daxilə köçür</string>
     <string name="importingSimContacts">SIM kontaktları daxilə köçürülür</string>
-    <string name="ims_settings">IMS Tənzimləmələri</string>
+    <string name="ims_settings">IMS Ayarları</string>
     <string name="incall_error_call_failed">Zəng edilə bilmədi.</string>
     <string name="incall_error_cannot_add_call">Zəng hal-hazırda əlavə edilə bilmir. Mesaj göndərərək əlaqə saxlaya bilərsiniz.</string>
     <string name="incall_error_ecm_emergency_only">Fövqəladə olmayan zəng etmək üçün fövqəladə geri zəng rejimindən çıxın.</string>
@@ -932,10 +932,10 @@ Hələ də fövqəladə hal zəngləri edə bilərsiniz.\"</string>
     <string name="invalid_secretcode_format_txt">Yararsız gizli kod formatı!</string>
     <string name="ivr_mo_area_code_settings">Hazırkı ərazi kodu</string>
     <string name="ivr_mo_area_code_settings_hint">Hazırkı ərazi kodunu daxil edin</string>
-    <string name="ivr_parameter_settings">IVR parametr tənzimləmələri</string>
+    <string name="ivr_parameter_settings">IVR parametr ayarları</string>
     <string name="ivr_type_cm_3">Easy own</string>
     <string name="ivr_type_ct_2">China Telecom müştəri</string>
-    <string name="ivr_type_settings">İnternet planı tənzimləmələri</string>
+    <string name="ivr_type_settings">İnternet planı ayarları</string>
     <string name="ivr_type_settings_hint">İnternet plan kodunuzu daxil edin</string>
     <string name="jp_sb_label_ndp">"digər operatorun USIM-i daxil edildi
 kilid açma kodunu daxil edilməsi gözlənilir"</string>
@@ -1850,7 +1850,7 @@ Lütfən ilkin zəng hesabı ayarınızı təsdiqləyin."</string>
     <string name="smart_forwarding_settings_menu_summary">"Bir nömrəyə zəng çatmadıqda, zənglər həmişə digər nömrənizə yönləndirilir"</string>
     <string name="smart_multinetwork_acceleration_title">Ağıllı şəbəkə sürətləndirmə</string>
     <string name="smart_switch_dual_sim_diag_cancel">İmtina</string>
-    <string name="smart_switch_dual_sim_diag_message">"Deyəsən, hazırkı data SIM, stabil şəbəkə bağlantısı təmin etmir. Data SIM kartlar arasında avtomatik keçid bağlantı keyfiyyətini yaxşılaşdıra bilər. Bunu Tənzimləmələrdə işə sala bilərsiniz."</string>
+    <string name="smart_switch_dual_sim_diag_message">"Deyəsən, hazırkı data SIM, stabil şəbəkə bağlantısı təmin etmir. Data SIM kartlar arasında avtomatik keçid bağlantı keyfiyyətini yaxşılaşdıra bilər. Bunu Ayarlarda işə sala bilərsiniz."</string>
     <string name="smart_switch_dual_sim_diag_ok">Ayarlar</string>
     <string name="smart_switch_dual_sim_diag_title">Diqqət</string>
     <string name="smart_switch_dual_sim_prompt">SIM %1$s istifadə edərək mobil internet şəbəkəsinə bağlanmaq, əlavə internet xərcləri yarada bilər. Əlavə xərcləri önləmək üçün internet istifadə limiti təyin edin.</string>

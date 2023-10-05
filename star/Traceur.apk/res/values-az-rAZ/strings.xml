@@ -729,11 +729,11 @@ seçimi"</string>
     <string name="user_add_user">İstifadəçi əlavə et</string>
     <string name="user_add_user_item_summary">İstifadəçilərin öz tətbiqləri və məzmunları var</string>
     <string name="user_add_user_item_title">İstifadəçi</string>
-    <string name="user_add_user_message_long">"Əlavə istifadəçilər yaradaraq bu cihazı digərləri ilə paylaşa bilərsiniz. Hər bir istifadəçinin tətbiq, divar kağızı və daha çoxunu özəlləşdirə biləcəyi sahələri var. İstifadəçilər həmçinin, Wi‑Fi kimi hər kəsə təsir edəcək cihaz tənzimləmələrini də tənzimləyə biləcək.
+    <string name="user_add_user_message_long">"Əlavə istifadəçilər yaradaraq bu cihazı digərləri ilə paylaşa bilərsiniz. Hər bir istifadəçinin tətbiq, divar kağızı və daha çoxunu özəlləşdirə biləcəyi sahələri var. İstifadəçilər həmçinin, Wi‑Fi kimi hər kəsə təsir edəcək cihaz ayarlarını da ayarlaya biləcək.
 
 Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdırmalıdır.
 
-İstənilən istifadəçi, tətbiqləri digər bütün istifadəçilər üçün güncəlləyə bilər. Əlçatımlılıq tənzimləmələri və xidmətlər yeni istifadəçiyə transfer edilməyə bilər."</string>
+İstənilən istifadəçi, tətbiqləri digər bütün istifadəçilər üçün güncəlləyə bilər. Əlçatımlılıq ayarları və xidmətlər yeni istifadəçiyə transfer edilməyə bilər."</string>
     <string name="user_add_user_message_short">"Yeni istifadəçi əlavə edəndə, həmin şəxs öz sahəsini quraşdırmalıdır.
 
 İstənilən istifadəçi, bütün digər istifadəçilər üçün tətbiqləri güncəlləyə bilər."</string>

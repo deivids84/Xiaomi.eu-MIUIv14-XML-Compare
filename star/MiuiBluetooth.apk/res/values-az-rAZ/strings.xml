@@ -351,8 +351,8 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="notify_device_lose_connection_text">%1$s - ayırmaq üçün toxunun</string>
     <string name="notify_device_lose_connection_title">%1$s ilə bağlantı itdi</string>
     <string name="ok_button">Oldu</string>
-    <string name="perm_ble_des">BLE tənzimləmələrinə müraciət et</string>
-    <string name="perm_ble_lab">BLE tənzimləmələrinə müraciət et</string>
+    <string name="perm_ble_des">BLE ayarlarına müraciət et</string>
+    <string name="perm_ble_lab">BLE ayarlarına müraciət et</string>
     <string name="plugin_alert_cancel">Daha sonra</string>
     <string name="plugin_alert_kill">Yenidən başlat</string>
     <string name="plugin_alert_text">Bluetooth qoşmaları uğurla güncəlləndi. Dəyişiklikləri tətbiq etmək üçün Bluetooth-u açıb bağlayın.</string>

@@ -1591,7 +1591,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_privacy_watermark_switch">Filiqran keçidini göstər</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_ai_scene">AI kamera</string>
-    <string name="pref_retain_ai_scene_description">Əvvəlki seans əsnasında tənzimlənən AI kamera statusunu qoru</string>
+    <string name="pref_retain_ai_scene_description">Əvvəlki seans zamanı ayarlanan AI kamera statusunu qoru</string>
     <string name="pref_retain_beauty">Gözəlləşdir</string>
     <string name="pref_retain_beauty_description">Əvvəlki seans əsnasında seçilmiş Gözəlləşdirmə tərcihlərini qoru</string>
     <string name="pref_retain_camera_common_mode_summary">\"Foto\"ya keçmək əvəzinə Kameranı daha əvvəl istifadə edilmiş rejimdə açın</string>
@@ -1602,7 +1602,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_retain_camera_status_description">İlkin tərcihlərə avtomatik sıfırlamaq əvəzinə daha əvvəl istifadə olunan rejimi qoru</string>
     <string name="pref_retain_camera_status_title">Tənzimləmələri qoru</string>
     <string name="pref_retain_live_shot">Dinamik çəkilişlər</string>
-    <string name="pref_retain_live_shot_description">Əvvəlki seans əsnasında tənzimlənən dinamik çəkiliş statusunu qoru</string>
+    <string name="pref_retain_live_shot_description">Əvvəlki seans əsnasında ayarlanan dinamik çəkiliş statusunu qoru</string>
     <string name="pref_s_n_r_s_c">Səhnədən asılı olaraq videolardakı səs-küyü azaldın</string>
     <string name="pref_scan_qrcode_summary">\"Foto\" rejimində yalnız arxa kamera QR kodları skan edə bilər.</string>
     <string name="pref_scan_qrcode_title">QR kodları skan et</string>

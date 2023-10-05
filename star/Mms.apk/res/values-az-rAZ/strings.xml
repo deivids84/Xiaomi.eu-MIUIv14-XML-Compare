@@ -835,7 +835,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_search_result_server_data_empty">"Axtarışınıza uyğun onlayn söhbət botları tapıla bilmədi"</string>
     <string name="rcs_send_hello">Salam!</string>
     <string name="rcs_send_rms_remind_change">Tənzimləmələr</string>
-    <string name="rcs_send_rms_remind_desp">5G Mesajlaşma, China Mobile tərəfindən təqdim edilən ani mesajlaşma xidmətidir. Bu özəlliyi Tənzimləmələrdə söndürə bilərsiniz.</string>
+    <string name="rcs_send_rms_remind_desp">5G Mesajlaşma, China Mobile tərəfindən təqdim edilən ani mesajlaşma xidmətidir. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="rcs_send_rms_remind_title">\"5G Mesajlaşma\"nı istifadə et</string>
     <string name="rcs_service_agreement">Xidmət Razılaşması</string>
     <string name="rcs_service_clear_all">hamısını təmizlə</string>
@@ -1123,9 +1123,9 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="toast_not_show_call_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün zəng etməsinə icazə ver</string>
     <string name="toast_not_show_camera_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə edə bilməsi üçün kameranı istifadə etməsinə icazə ver</string>
     <string name="toast_not_show_location_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün yerləşmənizə müraciətinə icazə verin</string>
-    <string name="toast_not_show_read_mms_perm_req">Alınmış mesajlara baxa bilmək üçün, \"Mesajlaşma\"ya SMS və MMS-i oxuma icazəsi verməlisiniz. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="toast_not_show_read_mms_perm_req">Alınmış mesajlara baxa bilmək üçün, \"Mesajlaşma\"ya SMS və MMS-i oxuma icazəsi verməlisiniz. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="toast_not_show_send_sms_perm_req">Bu özəlliyi istifadə edə bilməsi üçün, əvvəlcə bu tətbiqin mesaj göndərməsinə icazə verin.</string>
-    <string name="toast_not_show_storage_perm_req">Bu özəlliyi istifadə etmək üçün icazələr tələb olunur. Bu icazəni Tənzimləmələrdə verə bilərsiniz.</string>
+    <string name="toast_not_show_storage_perm_req">Bu özəlliyi istifadə etmək üçün icazələr tələb olunur. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="toast_not_show_write_contacts_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün kontaktlara düzəliş etməsinə icazə verin</string>
     <string name="toast_pending_hangup_msg">Zəng bitdikdən sonra mesaj göndəriləcək</string>
     <string name="today">Bu gün</string>

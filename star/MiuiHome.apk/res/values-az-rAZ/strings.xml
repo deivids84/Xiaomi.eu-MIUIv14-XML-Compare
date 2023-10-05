@@ -32,7 +32,7 @@
     <string name="accessibility_all_app_custom_category_item_remove">Kateqoriyadan \"%1$s\" sil</string>
     <string name="accessibility_clear_search_bar_text">Axtarış çubuğunu təmizlə</string>
     <string name="accessibility_enter_all_app_mode">Tətbiq siyirməsini aç</string>
-    <string name="accessibility_enter_all_app_settings">Tətbiq siyirmə tənzimləmələrini aç</string>
+    <string name="accessibility_enter_all_app_settings">Tətbiq siyirmə ayarlarını aç</string>
     <string name="accessibility_menu_item_smallwindow_disable">"Bu tətbiq üzən pəncərələri dəstəkləmir"</string>
     <string name="accessibility_menu_item_smallwindow_enable">Bu tətbiq üzən pəncərələri dəstəkləyir</string>
     <string name="accessibility_menu_item_split_disable">"Tətbiq, Ekran bölünməsini dəstəkləmir."</string>
@@ -579,10 +579,10 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="permdesc_install_shortcut">Bir tətbiqin istifadəçi müdaxiləsi olmadan qısayollar əlavə etməsinə icazə verir.</string>
     <string name="permdesc_install_widget">Bir tətbiqin istifadəçidən əlavə əməliyyatlar tələb etmədən vicetləri əlavə etməsinə icazə verir.</string>
-    <string name="permdesc_read_settings">"Bir tətbiqin Əsas ekran tənzimləmələrini və qısayolları oxumasına icazə verir."</string>
+    <string name="permdesc_read_settings">"Bir tətbiqin Əsas ekran ayarlarını və qısayolları oxumasına icazə verir."</string>
     <string name="permdesc_uninstall_shortcut">Bir tətbiqin istifadəçi müdaxiləsi olmadan qısayolları silməsinə icazə verir.</string>
     <string name="permdesc_uninstall_widget">Bir tətbiqin istifadəçidən əlavə əməliyyatlar tələb etmədən vicetləri silməsinə icazə verir.</string>
-    <string name="permdesc_write_settings">"Bir tətbiqin Əsas ekran tənzimləmələrini və qısayolları dəyişdirməsinə icazə verir."</string>
+    <string name="permdesc_write_settings">"Bir tətbiqin Əsas ekran ayarlarını və qısayolları dəyişdirməsinə icazə verir."</string>
     <string name="permlab_install_shortcut">Qısayolları quraşdır</string>
     <string name="permlab_install_widget">Vicetləri quraşdır</string>
     <string name="permlab_read_settings">Əsas ekran tənzimləmələri və qısayollarını oxu</string>

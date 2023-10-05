@@ -126,9 +126,9 @@
     <string name="accessibility_floating_button_action_move_top_left">Sol üstə daşı</string>
     <string name="accessibility_floating_button_action_move_top_right">Sağ üstə daşı</string>
     <string name="accessibility_floating_button_docking_tooltip">Müvəqqəti gizlətmək üçün düyməni kənara daşı</string>
-    <string name="accessibility_floating_button_migration_tooltip">\"Əlçatımlılıq özəlliklərini açmaq üçün toxunun. Bu düyməni Tənzimləmələrdə özəlləşdirin və ya dəyişdirin.
+    <string name="accessibility_floating_button_migration_tooltip">\"Əlçatımlılıq özəlliklərini açmaq üçün toxunun. Bu düyməni Ayarlarda özəlləşdirin və ya dəyişdirin.
 
-\"<annotation id="link">Tənzimləmələrə bax</annotation></string>
+\"<annotation id="link">Ayarlara bax</annotation></string>
     <string name="accessibility_home">Əsas ekran</string>
     <string name="accessibility_ime_switch_button">Giriş üsulunu dəyişdir</string>
     <string name="accessibility_key">Özəl naviqasiya düyməsi</string>
@@ -624,7 +624,7 @@ Yenidən qoşmaq üçün toxunun"</string>
 
 Cihazdakı tətbiqiniz, telefonunuzun və ya planşetinizin kilidini açmadan bəzi cihazları idarə etməyinizə imkan verə bilər.
 
-Tənzimləmələrdə istənilən vaxt dəyişiklik edə bilərsiniz."</string>
+Ayarlarda istənilən vaxt dəyişiklik edə bilərsiniz."</string>
     <string name="controls_settings_show_controls_dialog_title">Cihazlar kilid ekranında göstərilib idarə edilsin?</string>
     <string name="controls_settings_trivial_controls_dialog_message">"Telefonunuzun və ya planşetinizin kilidini açmadan bəzi cihazları idarə edə bilərsiniz.
 
@@ -680,7 +680,7 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı datasını silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
     <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
-    <string name="dev_settings_warning_title">Tərtibatçı tənzimləmələrinə icazə verilsin?</string>
+    <string name="dev_settings_warning_title">Tərtibatçı ayarlarına icazə verilsin?</string>
     <string name="development_settings_enable">Tərtibatçı seçimlərini fəallaşdır</string>
     <string name="development_settings_not_available">Tərtibatçı seçimləri bu istifadəçi üçün əlçatan deyil</string>
     <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri tənzimlə</string>
@@ -1538,8 +1538,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="notification_channel_summary_automatic_demoted">&lt;b&gt;Status:&lt;/b&gt; Aşağı Sıralandı</string>
     <string name="notification_channel_summary_automatic_promoted">&lt;b&gt;Status:&lt;/b&gt; Yuxarı Sıralandı</string>
     <string name="notification_channel_summary_automatic_silenced">&lt;b&gt;Status:&lt;/b&gt; \"Səssiz\"ə salındı</string>
-    <string name="notification_channel_summary_default">Telefon tənzimləmələrinə görə zəng çala və ya titrəyə bilər</string>
-    <string name="notification_channel_summary_default_with_bubbles">Telefon tənzimləmələrinə görə zəng çala və ya titrəyə bilər. İlkin olaraq %1$s qabarcığından gələn danışıqlar.</string>
+    <string name="notification_channel_summary_default">Telefon ayarlarına görə zəng çala və ya titrəyə bilər</string>
+    <string name="notification_channel_summary_default_with_bubbles">Telefon ayarlarına görə zəng çala və ya titrəyə bilər. İlkin olaraq %1$s qabarcığından gələn danışıqlar.</string>
     <string name="notification_channel_summary_low">Səs və ya titrəmə yoxdur</string>
     <string name="notification_channel_summary_priority_all">Danışıq bildirişlərinin üstündə və kilid ekranında bir profil şəkli olaraq göstərilir, qabarcıq kimi görünür, \"Narahat etməyin\"i yarımçıq kəsir</string>
     <string name="notification_channel_summary_priority_baseline">Danışıq bildirişlərinin üstündə və kilid ekranında profil şəkli olaraq göstərilir</string>
@@ -1739,7 +1739,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="qs_open_night_mode_alert_summary">"Bəzi ekran tənzimləmələri Qaranlıq rejimlə uyğunlaşmır. Ekran tənzimləmələri, Qaranlıq rejimi söndürdükdən sonra bərpa olunacaq."</string>
     <string name="qs_tile_request_dialog_add">Xana əlavə edin</string>
     <string name="qs_tile_request_dialog_not_add">Xana əlavə etməyin</string>
-    <string name="qs_tile_request_dialog_text">%1$s, Cəld Tənzimləmələrə aşağıdakı xananı əlavə etmək istəyir</string>
+    <string name="qs_tile_request_dialog_text">%1$s, Cəld Ayarlara aşağıdakı xananı əlavə etmək istəyir</string>
     <string name="qs_traffic_message_type_exceed">%1$s %2$s limit aşıldı</string>
     <string name="qs_traffic_message_type_remain">%1$s %2$s qaldı</string>
     <string name="qs_traffic_message_type_used">%1$s %2$s istifadə edildi</string>
@@ -2189,7 +2189,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="tuner_plus">Üstəgəl</string>
     <string name="tuner_right">Sağ</string>
     <string name="tuner_time">Vaxt</string>
-    <string name="tuner_toast">Təbriklər! Sistem UI Tuner Tənzimləmələrə əlavə edildi</string>
+    <string name="tuner_toast">Təbriklər! Sistem UI Tuner Ayarlara əlavə edildi</string>
     <string name="tuner_warning">Sistem UI Tuner, sizə Android istifadəçi interfeysini dəyişdirmək və özəlləşdirmək üçün əlavə yollar təqdim edir. Bu təcrübi özəlliklər gələcəkdəki versiyalarda dəyişə, zədələnə və ya yoxa çıxa bilər. Diqqətlə davam edin.</string>
     <string name="tuner_warning_title">Bəziləri üçün əyləncəlidir, amma hər kəs üçün deyil</string>
     <string name="turn_off_airplane_mode">Təyyarə rejimini söndür</string>

@@ -411,7 +411,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="menu_item_sort_type">Növü</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Divar kağızı olaraq tənzimlə</string>
-    <string name="message_request_manage_external_storage_perm">Fayl Menecerinin cihazınızdakı faylları idarə edə bilməsi üçün fayllara müraciət icazəsinə ehtiyacı var. Bunu Tənzimləmələrdən icazə verə bilərsiniz.</string>
+    <string name="message_request_manage_external_storage_perm">Fayl Menecerinin cihazınızdakı faylları idarə edə bilməsi üçün fayllara müraciət icazəsinə ehtiyacı var. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="mi_router_label">Ruter</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Gecə</string>
@@ -677,9 +677,9 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="permission_account_desc_pad">Cihazınızda saxlanılan hesab məlumatlarına müraciət etmək üçün</string>
     <string name="permission_account_title">Cihaz hesablarına müraciət</string>
     <string name="permission_account_title_pad">Cihaz hesablarına müraciət</string>
-    <string name="permission_denial">"Fayllara müraciət edilə bilmədi. Tənzimləmələrdən Fayl Menecerinin fayllara müraciətinə icazə verin."</string>
+    <string name="permission_denial">"Fayllara müraciət edilə bilmədi. Ayarlarda Fayl Menecerinin fayllara müraciətinə icazə verin."</string>
     <string name="permission_description">İcazə detalları</string>
-    <string name="permission_required">"Fayllara müraciət edilə bilmədi. Tənzimləmələrdən Fayl Menecerinin fayllara müraciətinə icazə verin."</string>
+    <string name="permission_required">"Fayllara müraciət edilə bilmədi. Ayarlarda Fayl Menecerinin fayllara müraciətinə icazə verin.​"</string>
     <string name="permission_storage_desc_pad">Fotoları və sənədləri cihazınızda saxlamaq üçün</string>
     <string name="permission_storage_title">Cihaz anbarına müraciət</string>
     <string name="permission_storage_title_pad">Cihaz anbarına müraciət</string>
@@ -723,7 +723,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="private_folder_no_file_hints">Faylı və ya qovluğu şəxsi etmək üçün basılı tutun</string>
     <string name="private_folder_update">Şəxsi fayllar güncəllənir…</string>
     <string name="private_folder_update_msg">Fayl Meneceri, əlavə təhlükəsizlik tədbirini təqdim edir: artıq şəxsi faylları şifrələyə bilərsiniz!</string>
-    <string name="private_folder_update_msg_summary">Şifrənin açılması, şəxsi qovluqdakı faylların çıxarılmasını yavaşladacaq. Tənzimləmələrdən şifrələməni aça və ya bağlaya bilərsiniz.</string>
+    <string name="private_folder_update_msg_summary">Şifrənin açılması, şəxsi qovluqdakı faylların çıxarılmasını yavaşladacaq. Ayarlarda şifrələməni aça və ya bağlaya bilərsiniz.</string>
     <string name="private_folder_update_tips">Yeni özəllik</string>
     <string name="promot_enctypt_password">Cihazın kilidini açmaq üçün istifadə olunan parolu daxil edin</string>
     <string name="pull_to_enter_private">Şəxsi qovluğu açmaq üçün aşağı çəkin</string>

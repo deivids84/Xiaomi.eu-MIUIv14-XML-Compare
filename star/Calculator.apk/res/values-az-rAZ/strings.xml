@@ -158,7 +158,7 @@
     <string name="global_search_key_weight_convertion">Çəki vahidi çevirmə;Çəki çevirmə;Çəki çevirici;Kilo;Kq;Kiloqram;Funt;Funt;lbs</string>
     <string name="global_search_key_word_figure">Maliyyə xarakterləri</string>
     <string name="golbal_search_calculator_setting">Hesablayıcı;Hesablayıcı ayarları;Ayarlar</string>
-    <string name="golbal_search_path_calculator_setting">Sistem tətbiqləri/Hesablayıcı/Tənzimləmələr</string>
+    <string name="golbal_search_path_calculator_setting">Sistem tətbiqləri/Hesablayıcı/Ayarlar</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Hündürlük</string>
     <string name="help_content_desc">Kömək</string>
@@ -255,7 +255,7 @@
     <string name="loading_fail_refresh">Təzələ</string>
     <string name="loading_message">Tətbiq yüklənir…</string>
     <string name="loading_slogan">Tətbiqləri quraşdırmadan istifadə edin</string>
-    <string name="loading_tips">Tənzimləmələr uğurla endirildi. Tətbiq etmək üçün Hesablayıcı tətbiqini yenidən başladın.</string>
+    <string name="loading_tips">Ayarlar uğurla endirildi. Tətbiq etmək üçün Hesablayıcı tətbiqini yenidən başladın.</string>
     <string name="loan_basic_point">Əsas nöqtə</string>
     <string name="loan_edittext_hint_commercial">Miqdarı daxil edin</string>
     <string name="loan_edittext_hint_commercial_combined">Kommersiya (×10K)</string>
@@ -377,7 +377,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="network_confirm_content">Pul vahidi çevirici, vergi və ipoteka hesablama özəlliklərinin normal işləməsi üçün internetə bağlanması və yerləşmə xidmətlərinə müraciət etməsi lazımdır.</string>
     <string name="network_confirm_title">İcazələr tələb edilir</string>
     <string name="network_purpose">Hesablayıcıya xoş gəldiniz! Hesablayıcı sizə pul vahidini çevirmək, ipoteka ödənişlərini hesablamaq və daha çox imkanlar verir.</string>
-    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəldiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Tənzimləmələrdən geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="new_privacy_string"><Data>\"Hesablayıcıya xoş gəlmisiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl hesablayıcı&lt;br/&gt;• Elmi hesablayıcı&lt;br/&gt;• Universal hesablayıcı (e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Hesablayıcı\"nı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Hesablayıcı\"nın Gizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="night">Axşam</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>

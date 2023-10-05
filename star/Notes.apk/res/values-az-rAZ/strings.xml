@@ -164,7 +164,7 @@
     <string name="doodle_brush_pencil">Karandaş</string>
     <string name="doodle_brush_watercolor">Suluboya qələm</string>
     <string name="doodle_feature">Qaralamalar</string>
-    <string name="doodle_guide_brush_config_hint">Ştrix eni və şəffaflığını tənzimləmək üçün yenidən toxunun</string>
+    <string name="doodle_guide_brush_config_hint">Ştrixin enini və şəffaflığını ayarlamaq üçün yenidən toxunun</string>
     <string name="doodle_guide_dialog_confirm">Oldu</string>
     <string name="doodle_guide_dialog_skip">Ötür</string>
     <string name="doodle_guide_dialog_title">Eskiz</string>

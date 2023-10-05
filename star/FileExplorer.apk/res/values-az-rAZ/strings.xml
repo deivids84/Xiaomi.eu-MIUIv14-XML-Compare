@@ -130,7 +130,7 @@
     <string name="cloud_copy_to_local_title">Saxla…</string>
     <string name="cloud_drive_files">Mi Drive faylları</string>
     <string name="cloud_drive_not_login_summary">Daxil olunmadı</string>
-    <string name="cloud_drive_settings">Mi Drive tənzimləmələri</string>
+    <string name="cloud_drive_settings">Mi Drive ayarları</string>
     <string name="cloud_empty_hint_text">"Burada hələ heç nə yoxdur.
 Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="cloud_empty_hint_text_pad">"Burada hələ heç nə yoxdur.

@@ -189,7 +189,7 @@
     <string name="miplay_headset_lc3_hint">Səs çıxışını bu cihaza keçirə bilmək üçün LC3-ü söndürün</string>
     <string name="miplay_service_timeout_toast">Bağlantının vaxtı bitdi. Yenidən sınayın.</string>
     <string name="miplay_song_title_empty">Mahnı yoxdur</string>
-    <string name="miui_dnd_count_down">Taymeri tənzimləmək üçün sürüşdür</string>
+    <string name="miui_dnd_count_down">Taymeri ayarlamaq üçün sürüşdür</string>
     <string name="miui_ringer_standard">Səssiz</string>
     <string name="miui_ringer_total">Narahat etməyin</string>
     <string name="miui_screen_rotation_freeze_message">Mənzərə rejimində kilidlənmiş ekran istiqaməti</string>

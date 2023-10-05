@@ -142,7 +142,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_advance_settings_edge_suppression_summary">Toxunuş kontrollarının tətiklənməsini önləmək üçün kənarlara yaxın toxunuş həssaslığını azaldın. Dinamikləri açıq saxlamaq üçün cihazınızı göstərilən yerlərdən tutun.</string>
     <string name="gb_advance_settings_finger_up">Davamlı toxunuşlara qarşı həssaslıq</string>
     <string name="gb_advance_settings_follow_up">Toxunuş reaksiyası</string>
-    <string name="gb_advance_settings_reset">İlkin tənzimləmələrə qaytar</string>
+    <string name="gb_advance_settings_reset">İlkin ayarları bərpa et</string>
     <string name="gb_advance_settings_reset_button">Bərpa et</string>
     <string name="gb_advance_settings_reset_dialog_content">İlkin tənzimləmələr indi bərpa edilsin?</string>
     <string name="gb_advance_settings_reset_dialog_title">İlkin tənzimləmələr</string>

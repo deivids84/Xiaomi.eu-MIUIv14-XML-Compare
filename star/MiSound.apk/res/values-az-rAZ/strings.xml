@@ -101,7 +101,7 @@
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="first_note">Səs səviyyəsini tənzimləmək üçün eşitmə qavrayışınızı test edin.</string>
+    <string name="first_note">Səs səviyyəsini ayarlamaq üçün eşitmə qavrayışınızı test edin.</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>

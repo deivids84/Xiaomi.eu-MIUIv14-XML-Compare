@@ -14,14 +14,14 @@
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
         <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
-        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
+        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı ayarlayın və ruterin şəbəkə ayarlarını yoxlayın."</item>
         <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
         <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
-        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı tənzimləyin və ruterin şəbəkə tənzimləmələrini yoxlayın."</item>
+        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı ayarlayın və ruterin şəbəkə ayarlarını yoxlayın."</item>
         <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
         <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
         <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
@@ -56,6 +56,6 @@
         <item>Wi-Fi əhatə dairəsi yaxşı olan bir əraziyə keçin</item>
     </string-array>
     <string-array name="net_diag_err_network_topology">
-        <item>"Ruterin DHCP tənzimləmələrini və naqilli bağlantısını yoxlayın"</item>
+        <item>"Ruterin DHCP ayarlarını və naqilli bağlantısını yoxlayın"</item>
     </string-array>
 </resources>

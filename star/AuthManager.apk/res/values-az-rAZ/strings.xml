@@ -92,7 +92,7 @@
     <string name="HIPS_Perm_install_shortcut">Əsas ekran qısayolları</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Əsas ekrana qısayollar əlavə edər</string>
     <string name="HIPS_Perm_mediaVolume">Medianın səs həcmini tənzimlə</string>
-    <string name="HIPS_Perm_mediaVolume_Desc">Tətbiqin media səsini tənzimləməsinə icazə verin</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Tətbiqin media səs səviyyəsini ayarlamasına icazə verin</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Daxil olmaq üçün telefon nömrəsinə müraciət</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Daxil olmaq üçün operatordan telefon nömrəsini alır</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"İndi bir toxunuşla daxil ola bilmirsinizsə, daxil olma səhifəsinə geri qayıdın və yenidən sınayın."</string>
@@ -301,7 +301,7 @@
     <string name="perm_action_deny">Heç vaxt icazə vermə</string>
     <string name="perm_educate_post_notification">Bildirişlər, Bildiriş panelində və Əsas ekran nişanlarında göründüyü üçün səs və titrəmə ilə müşayiət oluna bilər. Bildiriş tərcihlərinizi Ayarlarda dəyişdirə bilərsiniz.</string>
     <string name="perm_manager_suggest_operation">İcazələri idarə et</string>
-    <string name="perm_manager_suggest_title">İcazələr tənzimlənsin?</string>
+    <string name="perm_manager_suggest_title">İcazələr ayarlansın?</string>
     <string name="perm_modem_location">Yerləşmənizə müraciət</string>
     <string name="perm_modem_location_desc">Operatorunuz yerləşmə məlumatlarınıza müraciət etməyə çalışır. Yerləşmə məlumatları operatorunuzla paylaşılsın?</string>
     <string name="permdesc_add_voicemail">%1$s üçün sistem səsli mesajı əlavə etmə icazəsi verilsin?</string>

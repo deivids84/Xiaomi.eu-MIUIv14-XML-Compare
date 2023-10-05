@@ -404,7 +404,7 @@
     <string name="night">Axşam</string>
     <string name="no_check_risk">Heç bir risk aşkarlanmadı</string>
     <string name="no_install_permission_tip">"%1$s elementləri quraşdırmaq icazənizə sahib deyil"</string>
-    <string name="no_set_lock_screen_tip">"Hələ də Kilid ekranı parolu, barmaq izi və ya Üzlə kilid açma quraşdırmamısınızsa, bunu Tənzimləmələrdə edə bilərsiniz."</string>
+    <string name="no_set_lock_screen_tip">"Hələ də Kilid ekranı parolu, barmaq izi və ya Üzlə kilid açma quraşdırmamısınızsa, bunu Ayarlarda edə bilərsiniz."</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="ok">Oldu</string>
@@ -533,7 +533,7 @@
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
-    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil fotonuzu ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Ayarlarda həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>

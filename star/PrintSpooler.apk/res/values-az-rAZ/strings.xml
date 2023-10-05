@@ -169,7 +169,7 @@
     <string name="notification_channel_progress">Davam edən çap işləri</string>
     <string name="open">İşə sal</string>
     <string name="open_print_service">Çapı fəallaşdır</string>
-    <string name="open_print_service_tips">Bu özəlliyi istifadə edə bilmək üçün, əvvəlcə Tənzimləmələrdə çap prosesini fəallaşdırın.</string>
+    <string name="open_print_service_tips">Bu özəlliyi istifadə edə bilmək üçün əvvəlcə Ayarlarda çap prosesini fəallaşdırın.</string>
     <string name="open_wlan">Wi-Fi-ı aç</string>
     <string name="open_wlan_tips">Printerləri tapmaq üçün Wi-Fi-ı açın</string>
     <string name="other_printer">Digər printerlər</string>

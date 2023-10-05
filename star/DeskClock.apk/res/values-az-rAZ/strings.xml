@@ -331,7 +331,7 @@ d/M"</string>
     <string name="privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="privacy_settings_title">Gizlilik</string>
     <string name="query_privacy_policy">Gizlilik Siyasətinə bax</string>
-    <string name="read_external_storage_permission_desc">Özəl zəng səsləri tənzimləmək üçün</string>
+    <string name="read_external_storage_permission_desc">Özəl zəng səsləri ayarlamaq üçün</string>
     <string name="read_internal_storage">Anbara müraciət</string>
     <string name="remark_hint">Etiket daxil edin</string>
     <string name="repeat_count">Təkrar</string>

@@ -1230,7 +1230,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_guide_schedule_hint_one">"Yatmaq vaxtı rejiminiz olmasa, statistikalarınız dəqiq olmayacaq. "</string>
     <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini tənzimləyin.</string>
     <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
-    <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi tənzimlənəndə, yuxunuz avtomatik izləniləcək. "</string>
+    <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi ayarlananda, yuxunuz avtomatik izləniləcək. "</string>
     <string name="sleep_detection_guide_three_title">Statistikaları avtomatik yarat</string>
     <string name="sleep_detection_guide_two_description">"Dəqiq statistikalar əldə etmək üçün, cihazınızı yastığın yanına və ya altına qoyun və bədəninizdən ən çox 50 sm uzaqda olduğuna əmin olun."</string>
     <string name="sleep_detection_guide_two_title">Cihazı yastığınızın yanına qoyun</string>

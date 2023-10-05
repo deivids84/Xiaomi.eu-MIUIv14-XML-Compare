@@ -126,7 +126,7 @@
     <string name="class_bird">Quşlar</string>
     <string name="class_breast_feeding">Məməlilər</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="click_to_save">Ümumi zəng səsini tənzimləmək üçün \"Hazırdır\"a toxunun.</string>
+    <string name="click_to_save">Ümumi zəng səsini ayarlamaq üçün \"Hazırdır\"a toxunun.</string>
     <string name="close">Bağla</string>
     <string name="closed_high_refresh_options">Yüksək yeniləmə sürəti istifadə etməyən tətbiqlər</string>
     <string name="color_gamut">Rəng qamması</string>
@@ -668,7 +668,7 @@ vaxt qalmadı"</string>
     <string name="title_activity_easy_mode">Lite rejimi</string>
     <string name="title_mix_match_sound">Təbiət qarışığı</string>
     <string name="title_mix_match_tips">Demoları dinləmək üçün heyvanlara toxunun. Qarışığa 5-ə qədər heyvan əlavə edə bilərsiniz.</string>
-    <string name="title_submit_mix_match">Ümumi bir zəng səsi tənzimləmək üçün \"Tətbiq et\"ə toxunun.</string>
+    <string name="title_submit_mix_match">Ümumi bir zəng səsi ayarlamaq üçün \"Tətbiq et\"ə toxunun.</string>
     <string name="to_authorize">İcazələri ver</string>
     <string name="toco_toucan">Böyük tukan</string>
     <string name="today">Bu gün</string>

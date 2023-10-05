@@ -462,8 +462,8 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="settings_notification_from_second_space_title">İkinci sahə bildirişlərini göstər</string>
     <string name="settings_notification_second_space_show_in_locked_summary">Kilid ekranında İkinci sahədən bildirişlərini göstər</string>
     <string name="settings_notification_second_space_show_in_locked_title">Kilid ekranı bildirişlərini göstər</string>
-    <string name="settings_second_space_entrance_summary">İkinci sahə qısayolunu Tənzimləmələrdə göstər</string>
-    <string name="settings_second_space_entrance_title">Tənzimləmələrdə qısayol</string>
+    <string name="settings_second_space_entrance_summary">İkinci sahə qısayolunu Ayarlarda göstər</string>
+    <string name="settings_second_space_entrance_title">Ayarlardakı qısayol</string>
     <string name="settings_set_password_for_owner_space">Birinci sahəyə ekran kilidi təyin et</string>
     <string name="settings_set_password_for_owner_space_desc">Qısayolu Ayarlardan silmək üçün Birinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_set_password_for_sec_space">İkinci sahəyə ekran kilidi təyin et</string>

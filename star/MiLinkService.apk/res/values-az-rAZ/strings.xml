@@ -155,10 +155,10 @@ başqa cihaza sürüklə"</string>
 2. Ekran yandıqdan sonra qulaqlıqlara yenidən bağlanmağa çalışın."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Hər iki qulaqlığı qutuya qoyun.
 2. Qutudakı düyməni basılı tutun.
-3. Bluetooth tənzimləmələrində və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
+3. Bluetooth ayarlarında və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
     <string name="circulate_headset_back_to_box_desc_phone">"1. Hər iki qulaqlığı qutuya qoyun.
 2. Qutudakı düyməni basılı tutun.
-3. Bluetooth tənzimləmələrində və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
+3. Bluetooth ayarlarında və ya bu cihazdakı bir açılan pəncərə dialoqunu istifadə edərək cütləşdirməni tamamlayın."</string>
     <string name="circulate_headset_back_to_box_desc_tv">"1. Hər iki qulaqlığı doldurma qutusuna qoyun.
 2. Qutudakı düyməni basılı tutun.
 3. Tv-nizdəki mövcud Bluetooth cihazlarının siyahısını açın və cütləşdirməni təsdiqləyin."</string>
@@ -220,7 +220,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="close_hotspot_hint">Yayımdan əvvəl portativ hotspot-u söndürün</string>
     <string name="close_hotspot_hint_DFS">Elementləri televizora köçürmək üçün əvvəlcə hotspot-u söndürün.</string>
     <string name="close_invisible_mode_dialog_cancel">İmtina</string>
-    <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\"i indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Tənzimləmələrdə Gizli rejimi söndürün."</string>
+    <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\", indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün."</string>
     <string name="close_invisible_mode_dialog_ok">Tənzimləmələr</string>
     <string name="close_invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="close_slave_wifi_hint">Yayımdan əvvəl köməkçi Wi-Fi şəbəkələri ilə bağlantını kəsin</string>
@@ -328,7 +328,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="global_privacy_negative">"Razı deyiləm"</string>
     <string name="global_privacy_positive">Razıyam</string>
     <string name="global_privacy_screencast">Səs və ekran videosunu yazarkən və ya ekranı yayımlayarkən, bu özəlliyi təqdim edən xidmət, səs, parollar, ödəniş məlumatı, fotolar və mesajlar kimi həssas məlumatlar daxil olmaqla ekranınızda görüntülənən və ya cihazınızda oynadılan istənilən həssas məlumatı ələ keçirə bilər.</string>
-    <string name="global_privacy_tip"><Data>Sizi təməl xidmətlərlə təmin etmək və yayımlama prosesini optimallaşdırmaq üçün şəxsi məlumatların yığılmasına ehtiyacımız var. &lt;a href=%1$s&gt;Gizlilik Siyasətimizdə&lt;/a&gt; yığdığımız məlumatları necə ələ aldığımızı öyrənə bilərsiniz. İstənilən vaxt Tənzimləmələrdə Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.</Data></string>
+    <string name="global_privacy_tip"><Data>Sizi təməl xidmətlərlə təmin etmək və yayımlama prosesini optimallaşdırmaq üçün şəxsi məlumatların yığılmasına ehtiyacımız var. &lt;a href=%1$s&gt;Gizlilik Siyasətimizdə&lt;/a&gt; yığdığımız məlumatları necə ələ aldığımızı öyrənə bilərsiniz. İstənilən vaxt Ayarlarda Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.</Data></string>
     <string name="guide_confirm_button_text">Başla</string>
     <string name="guide_exit_button_content_description">Çıxış</string>
     <string name="guide_next_button_text">Daha ətraflı</string>
@@ -681,7 +681,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="privacy_text_1"><Data>\"Yayım\"a xoş gəlmisiniz! Yayım, telefonunuzun ekranındakı elementlərin daha böyük bir xarici monitorda əks etdirməyə imkan verir.
 Şəxsi məlumatlarınızı müvafiq qaydalara, qanunlara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Bəzi özəlliklər üçüncü tərəf xidməti olan HappyCast provayderi tərəfindən təmin edilir. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%2$s&gt;HappyCast Hüquqi Bəyanatını&lt;/a&gt; və &lt;a href=%1$s&gt;HappyCast Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.
 Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb etməsi lazımdır.\"</Data></string>
-    <string name="privacy_text_2"><Data>\"Bu cür icazələrin verilməsinə və ya şəxsi məlumatlarınızın paylaşılmasına və yüklənməsinə razılıq vermirsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda, Tənzimləmələrdə bu tətbiqi silməyi, hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.
+    <string name="privacy_text_2"><Data>\"Bu cür icazələrin verilməsinə və ya şəxsi məlumatlarınızın paylaşılmasına və yüklənməsinə razılıq vermirsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda, Ayarlarda bu tətbiqi silməyi, hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.
 Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="privacy_text_pemission">"　　•Bu elementləri xarici monitorlarda əks etdirmək üçün cihazınızdakı şəkillərə müraciət edin və onları saxlayın
 　　•Səsi xarici cihazlarda yayımlamaq üçün zəngləri və səsi yazın
@@ -791,7 +791,7 @@ Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Raz�
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="trust_device_desc">"Bu cihazlar yaxınlıqda olduqda əvvəlcə burada görünəcəklər"</string>
-    <string name="trust_device_dialog_desc"><Data>\"Güvənli olaraq işarələsəniz, yaxınlıqdakı olduqda əlçatan cihazlar arasında əvvəlcə %s görünəcək.&lt;br&gt;&lt;br&gt;Tənzimləmələrdə &lt;a href=milink://com.milink.service/trust&gt;güvənli cihazları&lt;/a&gt; idarə edə bilərsiniz.\"</Data></string>
+    <string name="trust_device_dialog_desc"><Data>\"Güvənli olaraq işarələsəniz, yaxınlıqdakı olduqda əlçatan cihazlar arasında əvvəlcə %s görünəcək.&lt;br&gt;&lt;br&gt;Ayarlarda &lt;a href=milink://com.milink.service/trust&gt;güvənli cihazları&lt;/a&gt; idarə edə bilərsiniz.\"</Data></string>
     <string name="trust_device_dialog_pos">Güvən</string>
     <string name="trust_device_dialog_title">Bu cihaza güvən?</string>
     <string name="trust_device_manager">Güvənilən cihazları idarə et</string>

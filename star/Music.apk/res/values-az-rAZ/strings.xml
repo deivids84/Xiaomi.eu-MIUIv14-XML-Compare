@@ -133,7 +133,7 @@
     <string name="audio_ad_pass">Reklamı ötür</string>
     <string name="audio_picker_title">Bir mahnı seçin</string>
     <string name="auto_play_switch">Videoları avto-oxutma</string>
-    <string name="auto_play_toast">Avto-oxutma açıqdır. Bunu Tənzimləmələrdə söndürə bilərsiniz.</string>
+    <string name="auto_play_toast">Avto-oxutma açıqdır. Bunu Ayarlarda söndürə bilərsiniz.</string>
     <string name="auto_recommend">Avto (tövsiyə edilən)</string>
     <string name="auto_sound_quality">Avto</string>
     <string name="auto_update">Avto-güncəlləmə</string>
@@ -174,7 +174,7 @@
     <string name="choose_stream_quality">Axın keyfiyyətini seçin</string>
     <string name="clause_content_first">Qanuni tələblərə əsasən, \"Mi Musiqi\"nin sizə müvafiq xidmətləri təqdim etməsi üçün razılığınıza ehtiyacı var.</string>
     <string name="clause_content_second">"Şəxsi məlumatlarınızı sənaye güvənlik standartlarına uyğun olaraq qoruyacağıq."</string>
-    <string name="clause_content_third">İstənilən vaxt Tənzimləmələrdə rrazılığınızı geri götürə bilərsiniz.</string>
+    <string name="clause_content_third">İstənilən vaxt Ayarlarda razılığınızı geri götürə bilərsiniz.</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_and_watch_video_tip">Musiqili videonu oxutmaq üçün toxunun</string>
@@ -311,7 +311,7 @@
     <string name="download_auto_after_favorite_summary">Sevimli mahnılarınızı avtomatik endirin</string>
     <string name="download_auto_after_favorite_title">Sevimliləri endir</string>
     <string name="download_auto_cancel">Sevimliləri endirmə bağlıdır</string>
-    <string name="download_auto_message">"Sevimli mahnılarınız Wi-Fi-a bağlananda avtomatik olaraq endiriləcək. Bunu Tənzimləmələrdə dəyişdirə bilərsiniz."</string>
+    <string name="download_auto_message">"Sevimli mahnılarınız Wi-Fi-a bağlananda avtomatik olaraq endiriləcək. Bunu Ayarlarda dəyişdirə bilərsiniz."</string>
     <string name="download_auto_when_free_network">Yalnız Wi-Fi istifadə et</string>
     <string name="download_auto_when_free_network_summary">Sevimli mahnılarınız üçün əlavə ayarlar</string>
     <string name="download_complete">Endirmə tamamlandı</string>
@@ -1097,7 +1097,7 @@
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
-    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil fotonuzu ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Ayarlarda həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
@@ -1207,7 +1207,7 @@
     <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Tənzimləmələrdə \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
+    <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
 Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
 Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.\"</Data></string>
     <string name="privacy_request_subtitle">"\"Mi Musiqi\"yə xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri göstərir:
@@ -1502,7 +1502,7 @@ Xoşbəxt ol"</string>
     <string name="upgrade_music">\"Musiqi\"ni güncəllə</string>
     <string name="upgrade_music_message">Güncəlləmələr hazırdır. Güncəlləmək üçün yenidən başladın.</string>
     <string name="upgrading_in_backstage">Arxaplanda güncəllənir…</string>
-    <string name="upload_favorite_dialog_title">Digər sinxronlaşdırılmış cihazlarda müraciət etmək üçün mahnılarınızı buluda yükləyin. Bu özəlliyi Tənzimləmələrdə söndürə bilərsiniz.</string>
+    <string name="upload_favorite_dialog_title">Digər sinxronlaşdırılmış cihazlarda müraciət etmək üçün mahnılarınızı buluda yükləyin. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="upload_favorite_setting_summary">Onlayn mahnıların sevimlilərə əlavə edilməsi, onları buluda yükləyərək digər cihazlarda müraciət etməyinizə imkan verir</string>
     <string name="upload_favorite_setting_title">Mahnıları sinxronlaşdır</string>
     <string name="upload_playlist_to_hungama_negative_text">"Sinxronlaşdırma"</string>
@@ -1557,7 +1557,7 @@ Delta güncəlləmə həcmi: %2$s"</string>
     <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
     <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>
     <string name="yesterday">Dünən</string>
-    <string name="you_can_switch_mode_in_settings">Tənzimləmələrdə rejimlər arasında keçid edə bilərsiniz</string>
+    <string name="you_can_switch_mode_in_settings">Ayarlarda rejimlər arasında keçid edə bilərsiniz</string>
     <string name="you_may_like">Bunları da bəyənə bilərsiniz</string>
     <string name="you_might_like_it">Bəyənə bilərsiniz</string>
     <string name="youtube_download_canl">İmtina</string>

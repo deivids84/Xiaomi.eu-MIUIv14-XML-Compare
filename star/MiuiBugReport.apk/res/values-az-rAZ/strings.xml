@@ -498,7 +498,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="net_diag_toast_other_networks_china">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın və digər şəbəkələrlə bağlantını kəsin.</string>
     <string name="net_diag_toast_wifi_disconnected">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın.</string>
     <string name="net_diag_toast_wifi_disconnected_china">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın.</string>
-    <string name="net_error_info">Şəbəkə bağlantısı yoxdur, Tənzimləmələrə getmək üçün bura toxunun</string>
+    <string name="net_error_info">Şəbəkə bağlantısı yoxdur, Ayarlara getmək üçün bura toxunun</string>
     <string name="network_err">"Şəbəkəyə bağlana bilmir."</string>
     <string name="network_error_info">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
@@ -633,7 +633,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="reply_successful">Uğurla cavablandı</string>
     <string name="report_miui">Xəta bildir</string>
     <string name="request_agree">İcazə ver</string>
-    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil şəkilinizi təyin etmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadə edilir (profil fotonuzu ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="request_cancel">İmtina</string>
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>

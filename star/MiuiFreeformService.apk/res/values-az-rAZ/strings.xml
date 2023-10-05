@@ -157,8 +157,8 @@
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
-    <string name="multi_window_cvw_summary">Üzən pəncərəyə keçmək və ölçüsünü tənzimləmək üçün küncü sürükləyin</string>
-    <string name="multi_window_cvw_summary_global">Üzən pəncərəyə keçmək və ölçüsünü tənzimləmək üçün küncü sürükləyin</string>
+    <string name="multi_window_cvw_summary">Üzən pəncərəyə keçmək və ölçüsünü ayarlamaq üçün küncü sürükləyin</string>
+    <string name="multi_window_cvw_summary_global">Üzən pəncərəyə keçmək və ölçüsünü ayarlamaq üçün küncü sürükləyin</string>
     <string name="multi_window_cvw_title">Üzən pəncərə</string>
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>

@@ -425,7 +425,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="search_result_text">"Heç bir tətbiq tapıla bilmədi"</string>
     <string name="secondSpace">İkinci sahə</string>
     <string name="second_owner_finger_print">İkinci sahə barmaq izi</string>
-    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması nişanları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Tənzimləmələrdən müraciət edə biləcəksiniz.</string>
+    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması nişanları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda müraciət edə biləcəksiniz.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Anladım</string>
     <string name="second_space_desktop_tips_dialog_title">Vacib güncəlləmə</string>
     <string name="second_space_finger_printf_desc">İkinci sahəyə daxil olmaq üçün özəl olaraq istifadə edilən barmaq izi əlavə edin</string>
@@ -465,9 +465,9 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="settings_second_space_entrance_summary">İkinci sahə qısayolunu Tənzimləmələrdə göstər</string>
     <string name="settings_second_space_entrance_title">Tənzimləmələrdə qısayol</string>
     <string name="settings_set_password_for_owner_space">Birinci sahəyə ekran kilidi təyin et</string>
-    <string name="settings_set_password_for_owner_space_desc">Qısayolu Tənzimləmələrdən silmək üçün, Birinci sahəyə ekran kilidi təyin edin.</string>
+    <string name="settings_set_password_for_owner_space_desc">Qısayolu Ayarlardan silmək üçün Birinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_set_password_for_sec_space">İkinci sahəyə ekran kilidi təyin et</string>
-    <string name="settings_set_password_for_sec_space_desc">Qısayolu Tənzimləmələrdən silmək üçün, İkinci sahəyə ekran kilidi təyin edin.</string>
+    <string name="settings_set_password_for_sec_space_desc">Qısayolu Ayarlardan silmək üçün İkinci sahəyə ekran kilidi ayarlayın.</string>
     <string name="settings_space_data">Verilənlər</string>
     <string name="settings_status_icon_summary">İkinci sahə nişanını status çubuğunda göstər</string>
     <string name="settings_status_icon_title">İkinci sahə nişanı</string>

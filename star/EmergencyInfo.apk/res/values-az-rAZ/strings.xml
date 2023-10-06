@@ -324,7 +324,7 @@ seçimi"</string>
     <string name="delete_blob_text">Paylaşılan verilənləri sil</string>
     <string name="dev_logpersist_clear_warning_message">Davamlı jurnal qeydiyyatçısı ilə izləmə etmədiyinizdə, cihazınızda olan jurnal qeydiyyatçı datasını silməyimiz lazımdır.</string>
     <string name="dev_logpersist_clear_warning_title">Jurnal qeydiyyatçısının davamlı anbar sahəsi təmizlənsin?</string>
-    <string name="dev_settings_warning_message">Bu tənzimləmələr yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
+    <string name="dev_settings_warning_message">Bu ayarlar yalnız tərtibatçılar üçün nəzərdə tutulmuşdur. Cihazınızın və cihazdakı tətbiqlərin zədələnməsinə və ya xətalı işləməsinə səbəb ola bilər.</string>
     <string name="dev_settings_warning_title">Tərtibatçı ayarlarına icazə verilsin?</string>
     <string name="development_settings_enable">Tərtibatçı seçimlərini fəallaşdır</string>
     <string name="development_settings_not_available">Tərtibatçı seçimləri bu istifadəçi üçün əlçatan deyil</string>
@@ -593,7 +593,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="select_webview_provider_dialog_title">WebView tətbiqini tənzimlə</string>
     <string name="select_webview_provider_title">WebView tətbiqi</string>
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
-    <string name="settings_label">Tənzimləmələr</string>
+    <string name="settings_label">Ayarlar</string>
     <string name="settings_suggestion_body">İlk cavab verənlərin məlumatlarınıza baxmasına icazə verin</string>
     <string name="settings_suggestion_title">Fövqəladə hal məlumatı əlavə et</string>
     <string name="settingslib_learn_more_text">Daha ətraflı</string>
@@ -664,7 +664,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tts_engine_preference_section_title">Tərcih edilən mühərrik</string>
     <string name="tts_engine_security_warning">Bu nitq sintez mühərriki, parollar və kredit kartı nömrələri kimi şəxsi datalar daxil olmaqla danışılan bütün mətni yığa bilər. Bu, %s mühərrikindən gəlir. Bu nitq sintez mühərrikinin istifadəsi fəallaşdırılsın?</string>
     <string name="tts_engine_settings_button">Mühərrik ayarlarını başlat</string>
-    <string name="tts_engine_settings_title">%s üçün tənzimləmələr</string>
+    <string name="tts_engine_settings_title">%s üçün ayarlar</string>
     <string name="tts_general_section_title">Ümumi</string>
     <string name="tts_install_data_summary">Nitq sintezi üçün tələb olunan səs datasını quraşdır</string>
     <string name="tts_install_data_title">Səs datasını quraşdır</string>

@@ -32,14 +32,14 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_name">MIUI+ Beta</string>
-    <string name="app_no_storage_permission">Əvvəlcə %1$s üçün Tənzimləmələr &gt; Tətbiqlər &gt; %2$s &gt; \"İcazələr\"də anbara müraciət icazəsi verin</string>
+    <string name="app_no_storage_permission">Əvvəlcə %1$s üçün Ayarlar &gt; Tətbiqlər &gt; %2$s &gt; \"İcazələr\"də anbara müraciət icazəsi verin</string>
     <string name="app_opened_in_new_window">Bu tətbiqi yeni bir pəncərədə açdı</string>
     <string name="call_error_notify_button">Keç</string>
     <string name="call_error_notify_content">Bu zəngə davam etmək üçün telefonunuza qayıda bilərsiniz</string>
     <string name="call_error_notify_title">Qeyri-sabit şəbəkə bağlantısı</string>
     <string name="cancel">İmtina</string>
     <string name="cast_mcc_tips_button_cancel">Yox say</string>
-    <string name="cast_mcc_tips_button_ok">Tənzimləmələr</string>
+    <string name="cast_mcc_tips_button_ok">Ayarlar</string>
     <string name="cast_mcc_tips_message">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
     <string name="cast_mcc_tips_message_china">MIUI+ ilə gecikmələri önləmək üçün, hər iki cihazı eyni Wi-Fi şəbəkəsinə bağlayın.</string>
     <string name="cast_mcc_tips_title">Wi-Fi ayarlarını dəyişdir</string>
@@ -236,8 +236,8 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
     <string name="nfc_account_number_is_inconsistent">Deyəsən, telefonunuz və planşetiniz fərqli Xiaomi Hesablarını istifadə edir. Elementləri köçürmək üçün hər iki cihaz eyni Xiaomi Hesabına daxil olmalıdır.</string>
-    <string name="nfc_check_the_touch_device">Cihazları bir-birinə bağlamaq üçün Wi-Fi və Bluetooth digər cihazda da açıq olmalıdır. Tənzimləmələr &gt; Bağlantı və paylaşım &gt; \"Bağlantılı cihazlar\"da digər cihaz üçün bağlantıya icazə verildiyini yoxlayıb yenidən sınayın.</string>
-    <string name="nfc_check_the_touch_device_china">Cihazları bir-birinə bağlamaq üçün Wi-Fi və Bluetooth digər cihazda da açıq olmalıdır. Tənzimləmələr &gt; Bağlantı və paylaşım &gt; \"Bağlantılı cihazlar\"da digər cihaz üçün bağlantıya icazə verildiyini yoxlayıb yenidən sınayın.</string>
+    <string name="nfc_check_the_touch_device">Cihazları bir-birinə bağlamaq üçün Wi-Fi və Bluetooth digər cihazda da açıq olmalıdır. Ayarlar &gt; Bağlantı və paylaşım &gt; \"Bağlantılı cihazlar\"da digər cihaz üçün bağlantıya icazə verildiyini yoxlayıb yenidən sınayın.</string>
+    <string name="nfc_check_the_touch_device_china">Cihazları bir-birinə bağlamaq üçün Wi-Fi və Bluetooth digər cihazda da açıq olmalıdır. Ayarlar &gt; Bağlantı və paylaşım &gt; \"Bağlantılı cihazlar\"da digər cihaz üçün bağlantıya icazə verildiyini yoxlayıb yenidən sınayın.</string>
     <string name="nfc_check_wifi_and_bluetooth">Wi-Fi və Bluetooth statusunu yoxlayın</string>
     <string name="nfc_check_wifi_and_bluetooth_china">Wi-Fi və Bluetooth statusunu yoxlayın</string>
     <string name="nfc_circulation_failed">"Köçürülə bilmədi"</string>

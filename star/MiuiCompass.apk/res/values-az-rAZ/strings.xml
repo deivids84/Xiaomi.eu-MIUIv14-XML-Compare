@@ -54,7 +54,7 @@
     <string name="cancel">İmtina</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
-    <string name="compass_settings">Tənzimləmələr</string>
+    <string name="compass_settings">Ayarlar</string>
     <string name="copy">Kopyala</string>
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmasına və bütün özəllikləri istifadə edə bilməsi üçün ixtiyari icazələri verməsinə icazə ver.</string>
     <string name="cta_v2_app_purpose">istiqamətlər, koordinatlar, atmosfer təzyiqi və mövcud yüksəklik göstərilir</string>
@@ -118,7 +118,7 @@
     <string name="guide_toast">Kalibrləmək üçün, cihazınızı aşağıdakı kimi hərəkət etdirin.</string>
     <string name="invisible_mode_dialog_message">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Tənzimləmərdəki Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_negative">İmtina</string>
-    <string name="invisible_mode_dialog_positive">Tənzimləmələr</string>
+    <string name="invisible_mode_dialog_positive">Ayarlar</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="keywords_search_compass">Kompas;Kompası
 kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanışı;MIUI Kompası;Kompas tətbiqi;MIUI Kompas tətbiqi;Kompas haradadır;Kompası endir;Atmosfer təzyiqi;Yüksəklik yoxlanışı;Hündürlük nə qədərdir</string>
@@ -127,7 +127,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="location_east">Şə</string>
     <string name="location_enable">İcazə ver</string>
     <string name="location_enable_later">Daha sonra</string>
-    <string name="location_enabled">Yerləşmə xidmətlərini istənilən vaxt Tənzimləmələr menyusundan bağlaya bilərsiniz.</string>
+    <string name="location_enabled">Yerləşmə xidmətlərini istənilən vaxt \"Ayarlar\"da söndürə bilərsiniz.</string>
     <string name="location_north">Şm</string>
     <string name="location_not_enabled_summary">Kompasın koordinatları və yüksəkliyi görüntüləməsi üçün yerləşmənizə müraciətinə ehtiyacı var.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Kompasın hazırkı koordinantlarınızı görüntüləməsi üçün yerləşmənizə müraciətinə ehtiyacı var.</string>

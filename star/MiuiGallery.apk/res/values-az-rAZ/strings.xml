@@ -303,7 +303,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="baby_face_desc">Körpə albomu</string>
     <string name="baby_lock_wallpaper">Kilid ekranı divar kağızı</string>
     <string name="baby_lock_wallpaper_cancelled">İlkin Kilid ekranı divar kağızına keçildi</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">Hazırkı tənzimləmələr tətbiq edilsin?</string>
+    <string name="baby_lock_wallpaper_save_settings_msg">Hazırkı ayarlar tətbiq edilsin?</string>
     <string name="baby_lock_wallpaper_title">Albomları seçin. Seçilmiş albomlardakı fotolar Kilid ekranınızda təsadüfi sırada görünəcək.</string>
     <string name="baby_name_cannot_empty">Adı daxil edin</string>
     <string name="baby_name_cannot_start_with">"Ad '%s' ilə başlaya bilməz"</string>
@@ -317,7 +317,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="back_up_gp_btn_no_again">"Təkrar göstərmə"</string>
     <string name="back_up_gp_btn_no_migrating">Xeyr, təşəkkürlər</string>
     <string name="back_up_gp_btn_setup">Nüsxələməni işə sal</string>
-    <string name="back_up_gp_btn_setup_migrating">Tənzimləmələr</string>
+    <string name="back_up_gp_btn_setup_migrating">Ayarlar</string>
     <string name="back_up_gp_msg">"\"Google Fotolar\"da nüsxələməni işə salaraq foto və videolarınızı avtomatik olaraq Google Hesabınızda saxlayın.
 • Gələcəkdəki özəlliklər, həm \"Xiaomi Qalereyası\"nda, həm də \"Google Fotolar\"da əlavə icazələr tələb edə bilər."</string>
     <string name="back_up_gp_msg_migrating">Buluddakı elementlər indi \"Google Fotolar\"a köçürülür. Yeni elementləri sinxronlaşdırmağa davam edə bilmək üçün \"Google Fotolar\"da nüsxələməni quraşdırın.</string>
@@ -346,7 +346,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_immediately">Nüsxələ</string>
     <string name="backup_need_sync_desc">Nüsxələməyə davam etmək üçün toxunun</string>
     <string name="backup_need_sync_title">Nüsxələmə dayandırıldı</string>
-    <string name="backup_no_network_btn_text">Tənzimləmələr</string>
+    <string name="backup_no_network_btn_text">Ayarlar</string>
     <string name="backup_no_network_desc">Elementləri nüsxələmək üçün şəbəkəyə bağlanın</string>
     <string name="backup_no_network_title">"\"Xiaomi Cloud\"a bağlana bilmir"</string>
     <string name="backup_no_wifi_btn_text">Mobil internet istifadə et</string>
@@ -1164,7 +1164,7 @@ mövcuddur"</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="functions_are_being_developed">Bu özəllik tezliklə əlçatan olacaq. Bizimlə qalın!</string>
-    <string name="gallery_setting">Tənzimləmələr</string>
+    <string name="gallery_setting">Ayarlar</string>
     <string name="gallery_sync_disable_toast">Sinxronlaşdırma Qalereya üçün bağlıdır</string>
     <string name="gallery_uninstall_description_content">"Qalereya, bütün bağlantılı cihazlarda foto və videoları görməyə, idarə etməyə və sinxronlaşdırmağa imkan verən bir sistem tətbiqidir. Qalereyanı silsəniz, şəxsi etdiyiniz elementləri itirəcəksiniz və Qalereya elementlərini görmə və seçmə ilə əlaqəli digər özəlliklər də artıq sizin üçün əlçatan olmayacaq. Yenə də silinsin?"</string>
     <string name="gallery_uninstall_description_title">Qalereya silinsin?</string>
@@ -1186,8 +1186,8 @@ mövcuddur"</string>
     <string name="global_phone">Telefonum</string>
     <string name="google_login_btn_content_description">Google ilə daxil olun</string>
     <string name="grant_permission_go_and_set">Tənzimlə</string>
-    <string name="grant_permission_go_and_set_2">Tənzimləmələr</string>
-    <string name="grant_permission_go_and_set_3">Tənzimləmələr</string>
+    <string name="grant_permission_go_and_set_2">Ayarlar</string>
+    <string name="grant_permission_go_and_set_3">Ayarlar</string>
     <string name="grant_permission_manage_storage">Tələb olunan icazələr</string>
     <string name="grant_permission_manage_storage_unlock">Cihazın kilidini açın və elementlərə baxa bilmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
     <string name="grant_permission_shortcut">Əvvəlcə bu tətbiqin Əsas ekran qısayolları yaratmasına icazə verin.</string>
@@ -1236,7 +1236,7 @@ mövcuddur"</string>
     <string name="home_page_empty_action_new">Köhnə cihazdan daxilə köçür</string>
     <string name="home_page_label">Fotolar</string>
     <string name="home_sdcard_op_tip_msg">"Bu əməliyyat bütün seçilmiş şəkillər üçün tamamlana bilmədi. SD kartı çıxarıb yenidən taxın."</string>
-    <string name="home_sdcard_tip_msg">Deyəsən, SD kartınız \"yalnız oxunan\"dır. Tənzimləmələr &gt; Telefon haqqında &gt; \"Anbar\"da çıxarıb yenidən taxın.</string>
+    <string name="home_sdcard_tip_msg">Deyəsən, SD kartınız \"yalnız oxunan\"dır. Ayarlar &gt; Telefon haqqında &gt; \"Anbar\"da çıxarıb yenidən taxın.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Ötür</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">Oldu</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Hamısı</string>
@@ -1368,7 +1368,7 @@ mövcuddur"</string>
     <string name="loading_video_fail_sync_without_network">Meta datanı endirmək üçün şəbəkəyə bağlanın</string>
     <string name="loading_video_fail_syncing">Metadata tam endirilə qədər gözləyin və yenidən sınayın</string>
     <string name="loading_video_thumbnail">Video örtüyü endirilir…</string>
-    <string name="local_secret_tip">Bütün şəxsi elementləri buludla sinxronlaşdırmadan bu cihazda saxlaya bilərsiniz. Tərcihlərinizi Tənzimləmələr &gt; Buludla sinxronlaşdır &gt; \"Sinxronlaşdırılmış albomları idarə et\"də dəyişdirə bilərsiniz.</string>
+    <string name="local_secret_tip">Bütün şəxsi elementləri buludla sinxronlaşdırmadan bu cihazda saxlaya bilərsiniz. Tərcihlərinizi Ayarlar &gt; Buludla sinxronlaşdır &gt; \"Sinxronlaşdırılmış albomları idarə et\"də dəyişdirə bilərsiniz.</string>
     <string name="login_and_enable_service">Xiaomi Hesabı ilə daxil olun</string>
     <string name="login_by_local_phone_long_text">İndi daxil ol</string>
     <string name="login_by_local_phone_short_text">Daxil ol</string>
@@ -1800,7 +1800,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="open">İşə sal</string>
     <string name="open_public_message">Dostlarınızla paylaşmaq üçün URL yaradın</string>
     <string name="open_public_title">Paylaş</string>
-    <string name="open_settings">Tənzimləmələr</string>
+    <string name="open_settings">Ayarlar</string>
     <string name="operate_processing_file_error">Bütün fotolar emal olunana qədər gözləyin.</string>
     <string name="operate_with_metered_network_msg">Cihazınız ödənişli bir şəbəkəyə bağlanıb. Yenə də davam edilsin?</string>
     <string name="operation_add_album">Alboma əlavə et</string>

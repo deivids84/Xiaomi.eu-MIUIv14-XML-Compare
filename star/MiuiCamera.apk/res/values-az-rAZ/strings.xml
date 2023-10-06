@@ -542,7 +542,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="confirm_recording_fail_recorder_busy_alert">"Başqa bir tətbiq, artıq yazmaq üçün cihazın mikrofonunu istifadə edə bilər."</string>
     <string name="confirm_recording_fail_title">"Yazıla bilmir"</string>
     <string name="confirm_reset_manually_parameter_message">Bütün parametrlər ilkin dəyərlərinə sıfırlansın?</string>
-    <string name="confirm_restore_message">"\"Kamera\"nın ilkin tənzimləmələri bərpa edilsin?"</string>
+    <string name="confirm_restore_message">"\"Kamera\"nın ilkin ayarları bərpa edilsin?"</string>
     <string name="confirm_restore_title">İlkin ayarları bərpa et</string>
     <string name="copy">Kopyala</string>
     <string name="cta_mimoji_msg">\"Fun Cam\"a xoş gəldiniz! Foto və video çəkmək üçün bu tətbiqi istifadə edə bilərsiniz. Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələrə sahib olması lazımdır:</string>
@@ -1185,7 +1185,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_peak_raw_description">Bu təsvir formatı, foto çəkdikdə sensor tərəfindən yazılan bütün təsvir datasını yaxalayır. Sıxılmamış data, emal sonrasında sizə daha çox seçim verir.</string>
     <string name="parameter_peak_raw_title">RAW formatı</string>
     <string name="parameter_videos_title">Film effektləri</string>
-    <string name="parameter_wb_description">Ağ balansının ön tənzimləmələrindən (közərmə, gündüz işığı, flüoresan, buludlu) başqa, həmçinin ağ balansını %1$d-%2$d Kelvin aralığında özəl bir dəyərə tənzimləyə bilərsiniz.</string>
+    <string name="parameter_wb_description">Ağ balansının ön ayarlarından (közərmə, gündüz işığı, flüoresan, buludlu) başqa, həmçinin ağ balansını %1$d-%2$d Kelvin aralığında özəl bir dəyərə ayarlaya bilərsiniz.</string>
     <string name="parameter_wb_title">Ağ balansı</string>
     <string name="parameter_zoom_slider_description">Çəkişinizi uzun plandan yaxın plana daha yumşaq dəyişdirmək üçün yaxınlaşdırma diyircəyini üfüqi şəkildə sürükləyin.</string>
     <string name="parameter_zoom_slider_title">Yaxınlaşdır</string>
@@ -1260,7 +1260,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_beauty_nvs_wp_title">Xalları sil</string>
     <string name="pref_burst_shoot_title">Ardıcıl çəkiliş</string>
     <string name="pref_camcorder_settings">Video</string>
-    <string name="pref_camcorder_settings_category">Kamera tənzimləmələri</string>
+    <string name="pref_camcorder_settings_category">Kamera ayarları</string>
     <string name="pref_camera_ai_scene_title">AI kamera</string>
     <string name="pref_camera_ai_shutter_description">Sürgü düyməsinə basdıqda ən yaxşı anı avtomatik seçin</string>
     <string name="pref_camera_ai_shutter_title">AI sürgü</string>
@@ -1278,7 +1278,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Mərkəz ağırlıqlı</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Çərçivə ortalama</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Nöqtə ölçmə</string>
-    <string name="pref_camera_autoexposure_title">Avto-ekspozisiya tənzimləmələri</string>
+    <string name="pref_camera_autoexposure_title">Avto-ekspozisiya ayarları</string>
     <string name="pref_camera_auxiliary_close">Bağlı</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Ekspozisiya doğrulaması</string>
     <string name="pref_camera_auxiliary_focus_peak">Fokus zirvəsi</string>
@@ -1453,7 +1453,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_scenemode_entry_sunset">Gün batımı</string>
     <string name="pref_camera_scenemode_title">Səhnə</string>
     <string name="pref_camera_settings">Cihaz</string>
-    <string name="pref_camera_settings_category">Kamera tənzimləmələri</string>
+    <string name="pref_camera_settings_category">Kamera ayarları</string>
     <string name="pref_camera_settings_title">Tənzimləmələr</string>
     <string name="pref_camera_sharpness_title">Kəskinlik</string>
     <string name="pref_camera_show_gender_age_config_title">Yaş və cins</string>
@@ -1571,7 +1571,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_more_mode_style_title">Kamera rejimləri</string>
     <string name="pref_multi_camera_dual_video_front">Ön kamera</string>
     <string name="pref_multi_camera_dual_video_remote">İkili telefon yazısı</string>
-    <string name="pref_n_s_a">Səs tənzimləmələri</string>
+    <string name="pref_n_s_a">Səs ayarları</string>
     <string name="pref_n_s_o_l">Açıq</string>
     <string name="pref_n_s_o_m">Bağlı</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">240 kadr/san ilə yalnız 720p videolar yaza bilərsiniz</string>
@@ -1600,7 +1600,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_retain_camera_mode_summary">Tətbiqi açdığınız zaman kameranı daha əvvəl istifadə edilən rejimə keçir.</string>
     <string name="pref_retain_camera_mode_title">Əvvəlki rejimi saxla</string>
     <string name="pref_retain_camera_status_description">İlkin tərcihlərə avtomatik sıfırlamaq əvəzinə daha əvvəl istifadə olunan rejimi qoru</string>
-    <string name="pref_retain_camera_status_title">Tənzimləmələri qoru</string>
+    <string name="pref_retain_camera_status_title">Ayarları qoru</string>
     <string name="pref_retain_live_shot">Dinamik çəkilişlər</string>
     <string name="pref_retain_live_shot_description">Əvvəlki seans əsnasında ayarlanan dinamik çəkiliş statusunu qoru</string>
     <string name="pref_s_n_r_s_c">Səhnədən asılı olaraq videolardakı səs-küyü azaldın</string>
@@ -1723,7 +1723,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="screen_on_proximity_sensor_hint">Bu özəlliyi söndürmək üçün, Səs artırma və Geri düymələrinə eyni vaxtda basın.</string>
     <string name="screen_on_proximity_sensor_summary">"Qulaqlıq sahəsini örtməyin"</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="search_settings">Kamera tənzimləmələri;Keyfiyyət;Təsvir keyfiyyəti;Təsvir yerləşməsi;Şəkil yerləşməsi;Üz aşkarlama;Kamera səsi</string>
+    <string name="search_settings">Kamera ayarları;Keyfiyyət;Təsvir keyfiyyəti;Təsvir yerləşməsi;Şəkil yerləşməsi;Üz aşkarlama;Kamera səsi</string>
     <string name="see_qrcode_detals">QR kodu detallarına bax</string>
     <string name="send">Göndər</string>
     <string name="settings_camera_detect_card_description">AI kamerası bir kimlik aşkarladıqda bir qısayol göstər</string>

@@ -107,7 +107,7 @@
     <string name="bt_plugin_update_dialog_title">Bluetooth güncəlləmə</string>
     <string name="bt_plugin_update_dialog_update">Güncəllə</string>
     <string name="bt_plugin_update_done_dialog_exit">Tətbiq et</string>
-    <string name="bt_plugin_update_done_dialog_msg">Dəyişiklikləri tətbiq etmək üçün Tənzimləmələr bağlanılacaq və Bluetooth bağlantısı kəsiləcək.</string>
+    <string name="bt_plugin_update_done_dialog_msg">Dəyişiklikləri tətbiq etmək üçün Ayarlar bağlanılacaq və Bluetooth bağlantısı kəsiləcək.</string>
     <string name="bt_plugin_update_done_dialog_title">Dəyişiklikləri tətbiq et</string>
     <string name="bt_plugin_update_done_toast">Uğurla güncəlləndi</string>
     <string name="bt_plugin_update_notification_updating">Bluetooth güncəlləmə</string>
@@ -143,7 +143,7 @@ Detallar üçün Ayarları yoxlayın."</string>
     <string name="fast_connect_device_connect_cancel">İmtina</string>
     <string name="fast_connect_device_connect_ok">Bağlantı qur</string>
     <string name="fast_connect_device_connect_retry">Yenidən sına</string>
-    <string name="fast_connect_device_connect_setup">Tənzimləmələr</string>
+    <string name="fast_connect_device_connect_setup">Ayarlar</string>
     <string name="fast_connect_device_connect_success">Hazırdır</string>
     <string name="fast_connect_device_headset_l">Sol</string>
     <string name="fast_connect_device_headset_r">Sağ</string>

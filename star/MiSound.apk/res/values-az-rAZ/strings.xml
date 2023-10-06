@@ -306,10 +306,10 @@
     <string name="music_add_my_sound">Özəl ön tənzimləmə əlavə et</string>
     <string name="music_app_unavailable">Mi Musiqi tətbiqinin əlçatan olduğuna əmin olun.</string>
     <string name="music_audio_effect_optimize">Səs ayarları</string>
-    <string name="music_audio_effect_optimize_summary">Dirac, qulaqlıq və digər səs tənzimləmələri</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, qulaqlıq və digər səs tənzimləmələri</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, qulaqlıq və digər səs tənzimləmələri</string>
-    <string name="music_audio_effect_settings">Effekt tənzimləmələri</string>
+    <string name="music_audio_effect_optimize_summary">Dirac, qulaqlıq və digər səs ayarları</string>
+    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, qulaqlıqlar və digər səs ayarları</string>
+    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, qulaqlıqlar və digər səs ayarları</string>
+    <string name="music_audio_effect_settings">Effekt ayarları</string>
     <string name="music_audio_visual_wake_lock">Ekranı açıq saxla</string>
     <string name="music_audio_visual_wake_lock_summary">"Vizual effektlər göstərildikdə ekranı söndürməyin"</string>
     <string name="music_below_thirty_years">%d yaşa qədər</string>
@@ -393,7 +393,7 @@
     <string name="music_sound">Ön tənzimləmə</string>
     <string name="music_sound_for_mine">Özəl ön tənzimləmələr</string>
     <string name="music_sound_num">Özəl ön tənzimləmə %s</string>
-    <string name="music_sound_sample">Sistem ön tənzimləmələri</string>
+    <string name="music_sound_sample">Sistem ön ayarları</string>
     <string name="music_sure_to_delete_sound_msg">Seçilmiş ön tənzimləmələr indi silinsin?</string>
     <string name="music_thirty_to_sixty_years" formatted="false">%d-%d yaş</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>

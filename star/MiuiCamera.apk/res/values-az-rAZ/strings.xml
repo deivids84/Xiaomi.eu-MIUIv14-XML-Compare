@@ -175,7 +175,7 @@
     <string name="accessibility_select_all">Hamısını seç</string>
     <string name="accessibility_select_all_end">Hamısı seçildi</string>
     <string name="accessibility_selected">Seçildi</string>
-    <string name="accessibility_setting">Tənzimləmələr</string>
+    <string name="accessibility_setting">Ayarlar</string>
     <string name="accessibility_shutter_button">Çəkiliş düyməsi</string>
     <string name="accessibility_shutter_capture_button">Bir video çəkərkən foto çəkin</string>
     <string name="accessibility_shutter_complete_button">Uğurla çəkildi</string>
@@ -526,7 +526,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="config_name_magic">Sehr</string>
     <string name="config_name_mimovie">Film kadrı</string>
     <string name="config_name_scene">Səhnə</string>
-    <string name="config_name_setting">Tənzimləmələr</string>
+    <string name="config_name_setting">Ayarlar</string>
     <string name="config_name_sound">Səs</string>
     <string name="config_name_straighten">Düzləşdir</string>
     <string name="config_name_super_resolution">Super dəqiqlik</string>
@@ -587,7 +587,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="dialog_button_connect">Bağlantı qur</string>
     <string name="dialog_button_disconnect">Çıxış</string>
     <string name="dialog_button_exit">Söndür</string>
-    <string name="dialog_button_goto">Tənzimləmələr</string>
+    <string name="dialog_button_goto">Ayarlar</string>
     <string name="dialog_button_ok">Oldu</string>
     <string name="dialog_button_reject">Rədd et</string>
     <string name="dialog_button_scan">Cihazları axtar</string>
@@ -785,7 +785,7 @@ Kopyanı A4 kağızında naqilsiz çap edin."</string>
     <string name="invisible_mode_dialog_cancel">İmtina</string>
     <string name="invisible_mode_dialog_summary">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Tənzimləmərdəki Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
-    <string name="invisible_mode_dialog_to_close">Tənzimləmələr</string>
+    <string name="invisible_mode_dialog_to_close">Ayarlar</string>
     <string name="kaleidoscope_fragment_tab_name">Kaleydoskop</string>
     <string name="latitude_text">Eni</string>
     <string name="lens_dirty_detected_content">"Deyəsən, kameranızın linzası çirklənib.
@@ -874,7 +874,7 @@ Daha yaxşı effekt üçün linzanı təmizləyin."</string>
     <string name="lunch_camera_permission_des">Foto çəkmək və video yazmaq üçün</string>
     <string name="lunch_camera_permission_not_ask_again">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin kameranı istifadə etməsinə icazə verin.</string>
     <string name="lunch_camera_storge_permission_not_ask_again">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin kameranı istifadə etməsinə və anbara müraciətinə icazə verin.</string>
-    <string name="lunch_dialog_setting">Tənzimləmələr</string>
+    <string name="lunch_dialog_setting">Ayarlar</string>
     <string name="lunch_fromkeyguard_not_permission">"Kameranın hazırda bu əməliyyatı icra etmək üçün icazəsi yoxdur. Əvvəlcə cihazınızın kilidini açın."</string>
     <string name="lunch_fromkeyguard_not_permission_dialog_ok">Anladım</string>
     <string name="lunch_permission_not_ask_again">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin kameranı istifadə etməsinə, anbara müraciətinə və səs yazmasına icazə verin.</string>
@@ -1189,7 +1189,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_wb_title">Ağ balansı</string>
     <string name="parameter_zoom_slider_description">Çəkişinizi uzun plandan yaxın plana daha yumşaq dəyişdirmək üçün yaxınlaşdırma diyircəyini üfüqi şəkildə sürükləyin.</string>
     <string name="parameter_zoom_slider_title">Yaxınlaşdır</string>
-    <string name="path_settings">Sistem tətbiqləri/Kamera/Tənzimləmələr</string>
+    <string name="path_settings">Sistem tətbiqləri/Kamera/Ayarlar</string>
     <string name="photo_assistance_tips_title">Canlı məsləhətlər</string>
     <string name="pic_flaw_blink_more">Deyəsən, kadrda kimsə gözlərini yumub</string>
     <string name="pic_flaw_blink_one">Deyəsən, kadrdakı şəxs gözlərini yumub</string>
@@ -1307,7 +1307,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analoq</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Tutqun</string>
     <string name="pref_camera_coloreffect_title">Filtrlər</string>
-    <string name="pref_camera_common_settings">Ümumi tənzimləmələr</string>
+    <string name="pref_camera_common_settings">Ümumi ayarlar</string>
     <string name="pref_camera_contrast_title">Kontrast</string>
     <string name="pref_camera_delay_capture_10s">%d san gecikmə</string>
     <string name="pref_camera_delay_capture_3s">%d san gecikmə</string>
@@ -1454,7 +1454,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_scenemode_title">Səhnə</string>
     <string name="pref_camera_settings">Cihaz</string>
     <string name="pref_camera_settings_category">Kamera ayarları</string>
-    <string name="pref_camera_settings_title">Tənzimləmələr</string>
+    <string name="pref_camera_settings_title">Ayarlar</string>
     <string name="pref_camera_sharpness_title">Kəskinlik</string>
     <string name="pref_camera_show_gender_age_config_title">Yaş və cins</string>
     <string name="pref_camera_show_gender_age_entry_alias">Gözəlləşdirmə açıq olduqda yaşı göstər</string>

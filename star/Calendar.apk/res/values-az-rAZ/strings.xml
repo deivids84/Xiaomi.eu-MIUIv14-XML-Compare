@@ -574,7 +574,7 @@
     <string name="panchang_yog">Yoq</string>
     <string name="partner_compatibility">Tərəfdaş uyğunluğu</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="path_calendar_settings">Sistem tətbiqləri/Təqvim/Tənzimləmələr</string>
+    <string name="path_calendar_settings">Sistem tətbiqləri/Təqvim/Ayarlar</string>
     <string name="permission_denial">Bu özəlliyi istifadə edə bilmək üçün icazələri verin</string>
     <string name="permission_description">İcazə detalları</string>
     <string name="picker_day">Seçilmiş gün: %1$d. Seçmək üçün şaquli olaraq sürüşdür.</string>

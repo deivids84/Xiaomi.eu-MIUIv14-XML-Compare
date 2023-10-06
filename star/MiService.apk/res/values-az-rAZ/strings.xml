@@ -55,7 +55,7 @@
     <string name="i_get_it">Anladım</string>
     <string name="icon_add_description">Əsas ekrana bir qısayol əlavə et</string>
     <string name="icon_remove_confirm">Sil</string>
-    <string name="icon_remove_description_content">"\"Xidmətlər və əks-əlaqə\", bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra onu hələ də Tənzimləmələr vasitəsilə istifadə edə biləcəksiniz."</string>
+    <string name="icon_remove_description_content">"\"Xidmətlər və əks-əlaqə\", bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra onu hələ də Ayarlar vasitəsilə istifadə edə biləcəksiniz."</string>
     <string name="icon_remove_description_title">\"Xidmətlər və əks-əlaqə\", Əsas kerandan silinsin?</string>
     <string name="mi_service_app_name">Xidmətlər və əks-əlaqə</string>
     <string name="mi_service_back">Geri</string>
@@ -163,7 +163,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_main_bottom_bar_guide">"Başlanğıc bələdçisi"</string>
     <string name="miui_main_bottom_bar_mine">Xidmətlərim</string>
     <string name="miui_main_continue">Növbəti</string>
-    <string name="miui_main_control_center_desc">Və ya Tənzimləmələr &gt; Bildirişlər &amp; \"İdarəetmə mərkəzi\"ndə köhnə versiyaya keçin</string>
+    <string name="miui_main_control_center_desc">Və ya Ayarlar &gt; Bildirişlər &amp; \"İdarəetmə mərkəzi\"ndə köhnə versiyaya keçin</string>
     <string name="miui_main_control_center_open">Yeni İdarəetmə mərkəzi</string>
     <string name="miui_main_control_center_title">Bildiriş paneli ilə İdarəetmə mərkəzi arasında keçid etmək üçün sürüşdürün</string>
     <string name="miui_main_icon_callback">Əsas ekran qısayolu</string>
@@ -298,7 +298,7 @@ E-poçt: service.jp@xiaomi.com"</string>
 %2$s
 Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."</string>
     <string name="privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
-    <string name="public_authorize_now">Tənzimləmələr</string>
+    <string name="public_authorize_now">Ayarlar</string>
     <string name="public_loading_text">Bir saniyə…</string>
     <string name="public_net_error_retry">Yenidən sına</string>
     <string name="public_net_error_sub_title">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>

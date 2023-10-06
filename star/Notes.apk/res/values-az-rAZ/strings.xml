@@ -38,7 +38,7 @@
     <string name="action_expand">Daha çox göstər</string>
     <string name="action_mode_switcher_grid_description">Dama görünüşü</string>
     <string name="action_mode_switcher_list_description">Siyahı görünüşü</string>
-    <string name="action_settings_description">Tənzimləmələr</string>
+    <string name="action_settings_description">Ayarlar</string>
     <string name="action_to_link">URL-ni aç</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="actionbar_close_description">Bağla</string>
@@ -352,7 +352,7 @@
     <string name="miui_penengine_tool_ruler">Xətkeş</string>
     <string name="miui_penengine_tool_text_hint">Mətn daxil etmək üçün toxunun</string>
     <string name="miui_penengine_tool_undo">Geri al</string>
-    <string name="miui_plus_app_state_description_app_setting">Tətbiq tənzimləmələri</string>
+    <string name="miui_plus_app_state_description_app_setting">Tətbiq ayarları</string>
     <string name="miui_plus_app_state_description_home">Əsas səhifə</string>
     <string name="miui_plus_app_state_description_quick_note_setting">Cəld not ayarları</string>
     <string name="miui_plus_app_state_description_view_note">Qeydə bax</string>

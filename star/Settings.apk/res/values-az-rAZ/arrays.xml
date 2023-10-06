@@ -102,7 +102,7 @@
         <item>SMS/MMS göndər</item>
         <item>SMS/MMS oxu</item>
         <item>SMS/MMS yaz</item>
-        <item>Tənzimləmələri dəyişdir</item>
+        <item>Ayarları dəyişdir</item>
         <item>Üstdə çək</item>
         <item>Bildirişlərə müraciət</item>
         <item>Kamera</item>
@@ -169,7 +169,7 @@
         <item>SMS göndər</item>
         <item>ICC SMS oxu</item>
         <item>ICC SMS yaz</item>
-        <item>tənzimləmələri dəyişdir</item>
+        <item>ayarları dəyişdir</item>
         <item>üstdə çək</item>
         <item>bildirişlərə müraciət</item>
         <item>kamera</item>
@@ -1085,7 +1085,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Axtar</item>
-        <item>Tənzimləmələr</item>
+        <item>Ayarlar</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Heç biri</item>

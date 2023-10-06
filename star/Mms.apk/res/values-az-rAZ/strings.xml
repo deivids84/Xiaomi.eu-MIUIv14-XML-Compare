@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="action_settings">Tənzimləmələr</string>
+    <string name="action_settings">Ayarlar</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_not_found">Bu əməliyyatı edə biləcək heç bir tətbiq tapılmadı</string>
     <string name="activity_not_found_uri">Bu əməliyyatı edə biləcək heç bir tətbiq tapılmadı</string>
@@ -298,7 +298,7 @@ siyahısına əlavə edildi"</string>
     <string name="friday_shortest">Cüm</string>
     <string name="from_label">"Kimdən: "</string>
     <string name="from_pkg_name">Tətbiqdən:</string>
-    <string name="go_close">Tənzimləmələr</string>
+    <string name="go_close">Ayarlar</string>
     <string name="group_already_kicked_hint">"Mesajlar göndərilə bilmir. Bu qrup söhbətinin üzvü deyilsiniz."</string>
     <string name="group_member_is_composing">Yazır…</string>
     <string name="group_message">Qrup mesajı</string>
@@ -353,7 +353,7 @@ siyahısına əlavə edildi"</string>
     <string name="menu_multi_select">Seç</string>
     <string name="menu_new_manual">Telefon nömrəsini daxil edin</string>
     <string name="menu_pick_from_contact">Kontaktlardan seçin</string>
-    <string name="menu_preferences">Tənzimləmələr</string>
+    <string name="menu_preferences">Ayarlar</string>
     <string name="menu_report">Əks-əlaqə</string>
     <string name="menu_sms_block">Əngəlli siyahısı</string>
     <string name="menu_traffic_destination">Hədəf</string>
@@ -504,13 +504,13 @@ Bu, istənilməyən mesaj ola bilər."</string>
     <string name="mx_auto_resend_sms_summary">"Wi-Fi-a bağlı olmadığınız halda mesajları mobil internet bağlantısı üzərindən SMS olaraq göndərin. Operatorunuz müntəzəm olaraq xidmət haqqı alacaq."</string>
     <string name="mx_btn_enable_now">Aktivləşdir</string>
     <string name="mx_count_dspt">"Ödənişsiz %1$d SMS və %2$d MMS göndərdiniz"</string>
-    <string name="mx_current_status">Tənzimləmələr</string>
+    <string name="mx_current_status">Ayarlar</string>
     <string name="mx_dspt">"Wi-Fi-a bağlı olmadığınız halda heç bir ödəniş etmədən digər MIUI cihazlarına SMS və MMS mesajları göndərin."</string>
     <string name="mx_dspt_listview">Digər MIUI cihazlarına ödəniş etmədən mesajlar göndərin</string>
     <string name="mx_dspt_provision_ex2">Gizlilik Siyasəti</string>
     <string name="mx_enable">Mi Mesaj</string>
     <string name="mx_filter_message_from_stranger">Bilinməyən nömrələrdən gələn Mi Mesajları əngəllə</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">"Bilinməyən nömrələrdən gələn adi SMS-ləri yenə də alacaqsınız. Bu özəlliyi istənilən vaxt Mesajlar &gt; \"Tənzimləmələr\"də işə sala və ya söndürə bilərsiniz."</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">"Bilinməyən nömrələrdən gələn adi SMS-ləri yenə də alacaqsınız. Bu özəlliyi istənilən vaxt Mesajlar &gt; \"Ayarlar\"da işə sala və ya söndürə bilərsiniz."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bilinməyən nömrələrdən gələn Mi Mesajları əngəllə</string>
     <string name="mx_filter_message_from_stranger_summary">Kontaktlarınızdan yalnız \"Mi Mesajlar\"a icazə ver</string>
     <string name="mx_main_purpose">"Mi Mesaj, internet üzərindən digər Mi Mesaj istifadəçilərinə heç bir ödəniş etmədən mesaj göndərməyinizə imkan verir.
@@ -579,9 +579,9 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="perm_purpose_rcs_account">"Yeni istifadəçilərə başlanğıc təlimatını göstərmək üçün"</string>
     <string name="perm_purpose_rcs_storage">Şəkilləri, videoları, faylları və digər RCS qoşmalarını saxlamaq üçün</string>
     <string name="permission_error">Bu tətbiq, cihazınızda saxlanılan fayllara müraciət etmək üçün icazə tələb edir</string>
-    <string name="permission_new_retry_dialog_msg">Mesajlaşma, normal işləyə bilməsi üçün kontaktlara müraciət etməlidir. İcazələri Tənzimləmələr &gt; Tətbiqlər &gt; \"Sistem tətbiq tənzimləmələri\"ndə dəyişdirə bilərsiniz.</string>
+    <string name="permission_new_retry_dialog_msg">Mesajlaşma, normal işləyə bilməsi üçün kontaktlara müraciət etməlidir. İcazələri Ayarlar &gt; Tətbiqlər &gt; \"Sistem tətbiq ayarları\"nda dəyişdirə bilərsiniz.</string>
     <string name="permission_retry_deny">İmtina</string>
-    <string name="permission_retry_setting">Tənzimləmələr</string>
+    <string name="permission_retry_setting">Ayarlar</string>
     <string name="phrase_confirm_delete_message">Bu cavab silinəcək.</string>
     <string name="phrase_empty">Cavab yoxdur</string>
     <string name="phrase_from">Mənbə: %1s</string>
@@ -717,12 +717,12 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="private_message">Şəxsi mesajlaşma</string>
     <string name="private_new_notification">Mesaj bildirişləri</string>
     <string name="private_protect">Gizlilik qoruması</string>
-    <string name="private_settings">Tənzimləmələr</string>
+    <string name="private_settings">Ayarlar</string>
     <string name="processing">İşləyir…</string>
     <string name="prvate_contact">Şəxsi kontaktlar</string>
     <string name="quick_reply">Cavabla</string>
     <string name="rate_limit_surpassed">Oldu</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">Tənzimləmələri dəyişdir</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Ayarları dəyişdir</string>
     <string name="rcs_auto_resend_as_sms_remind_desp">"Şəbəkə zəif olduqda 900B-ə qədər olan mesajlar çevrilib SMS olaraq göndərilə bilər. Mesajlarınızı SMS-ə çevirmək istəmirsinizsə, \"Ayarları dəyişdir\"ə toxunun."</string>
     <string name="rcs_auto_resend_as_sms_remind_title">SMS-ə çevir</string>
     <string name="rcs_auto_resend_mms">MMS-ə çevir</string>
@@ -822,7 +822,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_offline_hint">"5G Mesajlaşma xətdən kənardadır. Bu mesaj yönləndirilə bilmir."</string>
     <string name="rcs_pref_category_rcs">RCS mesajlaşma</string>
     <string name="rcs_pref_login_rcs">RCS mesajlaşma</string>
-    <string name="rcs_pref_setting_entrance">RCS mesajlaşma tənzimləmələri</string>
+    <string name="rcs_pref_setting_entrance">RCS mesajlaşma ayarları</string>
     <string name="rcs_recipient_type_contact">Kontakta yönləndir</string>
     <string name="rcs_recipient_type_group">Qrup söhbətinə yönləndir</string>
     <string name="rcs_recipient_type_pc">Kompüterə yönləndir</string>
@@ -834,7 +834,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_search_result_empty">"Axtarışınıza uyğun söhbət botları tapıla bilmədi"</string>
     <string name="rcs_search_result_server_data_empty">"Axtarışınıza uyğun onlayn söhbət botları tapıla bilmədi"</string>
     <string name="rcs_send_hello">Salam!</string>
-    <string name="rcs_send_rms_remind_change">Tənzimləmələr</string>
+    <string name="rcs_send_rms_remind_change">Ayarlar</string>
     <string name="rcs_send_rms_remind_desp">5G Mesajlaşma, China Mobile tərəfindən təqdim edilən ani mesajlaşma xidmətidir. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
     <string name="rcs_send_rms_remind_title">\"5G Mesajlaşma\"nı istifadə et</string>
     <string name="rcs_service_agreement">Xidmət Razılaşması</string>
@@ -842,7 +842,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_service_dm_url_runner">Runner</string>
     <string name="rcs_service_dm_url_runner_maap">Runner Maap</string>
     <string name="rcs_service_register">qeydiyyat</string>
-    <string name="rcs_setting">5G Mesajlaşma tənzimləmələri</string>
+    <string name="rcs_setting">5G Mesajlaşma ayarları</string>
     <string name="rcs_silence_message">Səssiz mesaj bildirişləri</string>
     <string name="rcs_summary_auto_resend_mms">"Orijinal mesaj göndərilə bilməyəndə 5G multimedia mesajlarını MMS-ə çevirin. Operatorunuz bu mesaj üçün sizdən ödəniş alacaq."</string>
     <string name="rcs_summary_auto_resend_sms">"Orijinal mesaj göndərilə bilməyəndə 5G mətn mesajlarını SMS-ə çevirin. Operatorunuz bu mesaj üçün sizdən ödəniş alacaq."</string>
@@ -970,7 +970,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="set">Tənzimlə</string>
     <string name="share">Paylaş</string>
     <string name="shortcut_new_msg">Yeni mesaj</string>
-    <string name="shortcut_setting">Tənzimləmələr</string>
+    <string name="shortcut_setting">Ayarlar</string>
     <string name="show_delivery_status">Çatdırılma statusunu göstər</string>
     <string name="sim_card1">SIM kart 1</string>
     <string name="sim_card2">SIM kart 2</string>

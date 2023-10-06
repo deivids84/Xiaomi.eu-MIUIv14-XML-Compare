@@ -414,7 +414,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="module_communication">Rabitə</string>
     <string name="module_data">Anbar və İkili tətbiqlər</string>
     <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Çökmələr və yenidən başlatmalar\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"İsinmə\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobil şəbəkələr\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Digər xətalar\",\"categoryId\":10,\"order\":2}]</string>
-    <string name="module_desktop">Əsas ekran və tənzimləmələr</string>
+    <string name="module_desktop">Əsas ekran və ayarlar</string>
     <string name="module_finance">Maliyyə və Mi Pulqabı</string>
     <string name="module_google_apps">Google tətbiqləri</string>
     <string name="module_item_less">Gizlət</string>
@@ -512,7 +512,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_service_in_maintenance_mode">Bu xidmət, texniki xidmət rejimində dəstəklənmir</string>
     <string name="open_feedback_main">Daha çox</string>
-    <string name="open_settings">Tənzimləmələr</string>
+    <string name="open_settings">Ayarlar</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
@@ -683,7 +683,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="tab_title_chat">TVS</string>
     <string name="tab_title_my_reports">Əks-əlaqəm</string>
-    <string name="tab_title_preferences">Tənzimləmələr</string>
+    <string name="tab_title_preferences">Ayarlar</string>
     <string name="tab_title_report">Əks-əlaqə</string>
     <string name="temporary_not_available">"Bu özəllik hələ mövcud deyil"</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>

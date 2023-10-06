@@ -68,7 +68,7 @@
     <string name="input_method_clipboard_delete_success">Uğurla silindi</string>
     <string name="input_method_clipboard_move_cursor_guide1">Kursoru hərəkət etdirmək üçün mavi sahəni basılı tutun</string>
     <string name="input_method_clipboard_move_cursor_guide2">Barmağınızı üfüqi şəkildə hərəkət etdirin</string>
-    <string name="input_method_clipboard_settings_button">Tənzimləmələr</string>
+    <string name="input_method_clipboard_settings_button">Ayarlar</string>
     <string name="input_method_clipboard_tips">Kopyalanmış elementlər 48 saat sonra lövhədən silinəcək</string>
     <string name="input_method_edit_phrase_text">Çox işlədilən ifadələrə düzəliş et</string>
     <string name="input_method_function_clipboard">Lövhə və çox işlədilən ifadələr</string>

@@ -50,7 +50,7 @@
     <string name="cloud_staging_addr">Hazırlıq server verilənlərini güncəllə</string>
     <string name="config_classify">Tətbiq ayarlarına görə sırala</string>
     <string name="config_description">"MIUI, müəyyən arxaplan proseslərinə sahib tətbiqləri (məs. mesajlaşma və naviqasiya tətbiqləri, media pleyerlər) müəyyən edə və vacib arxaplan fəaliyyətinə təsir etməyəcək şəkildə Batareya qənaətini tətbiq edə bilər."</string>
-    <string name="config_mode_title">Arxaplan tənzimləmələri</string>
+    <string name="config_mode_title">Arxaplan ayarları</string>
     <string name="config_no_restrict_description">"Batareya qənaəti tətbiqlərin fəaliyyətini məhdudlaşdırmır"</string>
     <string name="config_no_restrict_title">Məhdudiyyət yoxdur</string>
     <string name="config_restrict_function_description">10 dəqiqəlik arxaplan fəaliyyətindən sonra tətbiqləri bağla</string>

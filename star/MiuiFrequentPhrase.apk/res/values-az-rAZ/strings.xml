@@ -81,7 +81,7 @@
     <string name="input_method_function_voice">Səs girişi</string>
     <string name="input_method_function_xiaoai">Mi AI səs girişi</string>
     <string name="input_method_no_content_text">Burada element yoxdur</string>
-    <string name="input_method_switch_settings_text">Klaviatura tənzimləmələri</string>
+    <string name="input_method_switch_settings_text">Klaviatura ayarları</string>
     <string name="input_method_tab_clipboard_text">Lövhə</string>
     <string name="input_method_tab_phrase_text">Çox işlədilən ifadələr</string>
     <string name="menu_delete">Sil</string>

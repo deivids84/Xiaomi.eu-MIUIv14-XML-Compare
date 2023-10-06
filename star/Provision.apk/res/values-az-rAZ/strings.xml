@@ -75,7 +75,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clock_introduction">Bu tətbiqi, saata baxmaq, həmçinin taymeri, dünya saatını, saniyəölçəni istifadə etmək, zəngli saat qurmaq və daha çoxu üçün istifadə edə bilərsiniz.</string>
     <string name="close">Bağla</string>
-    <string name="close_location_service_setting">Yerləşmə müraciətini Tənzimləmələr &gt; Gizlilik qoruması &gt; \"İdarə et\"də söndürə və ya \"Güvənlik\"də hər bir tətbiq üçün icazələri məhdudlaşdıra bilərsiniz.</string>
+    <string name="close_location_service_setting">Yerləşmə müraciətini Ayarlar &gt; Gizlilik qoruması &gt; \"İdarə et\"də söndürə və ya \"Güvənlik\"də hər bir tətbiq üçün icazələri məhdudlaşdıra bilərsiniz.</string>
     <string name="cm_terms_content">"Sizə göstərilən xidmətləri təkmilləşdirmək üçün seçdiyiniz mobil şəbəkə operatoru Wi-Fi şəbəkələrini və ya mobil internet bağlantısını istifadə edərək şəxsi məlumatlarınızı və bu cihaz haqqında məlumatları öz serverlərinə yükləyə bilər. Bu məlumatlar, xidmətlərin keyfiyyətini artırmaq və daha fərdiləşdirilmiş məzmun təqdim etmək üçün yalnız statistik məqsədlərə görə isitfadə olunacaq. Bu məlumatlar, şəxsiyyətinizi müəyyənləşdirmək üçün istifadə olunmayacq və üçüncü tərəflərə açıqlanmayacaq."</string>
     <string name="cm_terms_title">Mobil Şəbəkə Operator Razılaşması</string>
     <string name="compass_introduction">Bu tətbiqi naviqasiya ilə birlikdə koordinatlara, atmosfer təzyiqinə, və yüksəkliyə baxmaq üçün istifadə edə bilərsiniz.</string>
@@ -111,7 +111,7 @@
     <string name="disagreement_fast_pairing_abnormal">"Bu icazələri verməyə razı deyilsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Bu xidməti istənilən vaxt Ayarlar &gt; Bluetooth &gt; Əlavə ayarlar &gt; \"Mi Link\"də işə sala və ya söndürə bilərsiniz."</string>
     <string name="disagreement_function">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu özəlliyi istifadə edə bilməyəcəksiniz. Belə hallarda bu özəlliyi istifadə etməməyi seçə bilərsiniz."</string>
     <string name="disagreement_location_service">"Bu cür icazələrin verilməsi, şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz."</string>
-    <string name="disagreement_location_service_abnormal">"Bu icazələrin verilməsi ilə razılaşmasanız, yerləşmə xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Tənzimləmələr &gt; \"Gizlilik qoruması\"nda yerləşmə xidmətlərini açıb bağlaya bilərsiniz."</string>
+    <string name="disagreement_location_service_abnormal">"Bu icazələrin verilməsi ilə razılaşmasanız, yerləşmə xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Ayarlar &gt; \"Gizlilik qoruması\"nda yerləşmə xidmətlərini açıb bağlaya bilərsiniz."</string>
     <string name="disagreement_mi_account_abnormal">"Bu icazələrin verilməsi ilə razılaşmasanız, Mi Hesabı xidmətlərini istifadə edə bilməyəcəksiniz. İstənilən vaxt Ayarlar &gt; \"Mi Hesabı\"nda Mi Hesabı xidmətlərini açıb bağlaya bilərsiniz."</string>
     <string name="disagreement_service_not_working_properly">"Bu icazələrin verilməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>
     <string name="disagreement_terminate_bluetooth">"Bu icazələri vermək istəmirsinizsə, Bluetooth-u istifadə edə bilməyəcəksiniz. Ayarlarda Bluetooth-u aça və ya bağlaya və Bluetooth cihazı əlavə edə bilərsiniz."</string>
@@ -292,7 +292,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="move_data_dialog_use">İstifadə et</string>
     <string name="msim_setting_default_data">İnternet SIM</string>
     <string name="msim_setting_default_voice">Zənglər üçün ilkin SIM</string>
-    <string name="multisim_settings_category">SIM kart tənzimləmələri</string>
+    <string name="multisim_settings_category">SIM kart ayarları</string>
     <string name="multisim_settings_sb_title">%d SIM kart aşkarlanmadı</string>
     <string name="multisim_settings_title">2 SIM kart aşkarlandı</string>
     <string name="navigation_picker_gesture_guide">Jest bələdçisi</string>
@@ -304,7 +304,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="note_introduction">Bu tətbiq qeydləri yaratmağınıza, onlara baxmağınıza və düzəliş etməyinizə imkan verir.</string>
-    <string name="other_settings">Təməl tənzimləmələr</string>
+    <string name="other_settings">Təməl ayarlar</string>
     <string name="other_settings_ad_dialog_agree">İşə sal</string>
     <string name="other_settings_ad_dialog_content">"Fərdiləşdirilmiş reklam tövsiyələri bağlı olduqda, özəllik açıq olduğu vaxtlardakı qədər reklam görməyə davam edəcəksiniz. Ancaq reklamlar, şəxsi tərcihlərinizə əsaslanmadığından artıq əlaqəli olmayacaq."</string>
     <string name="other_settings_ad_dialog_content_for_global">"Fərdiləşdirilmiş reklam tövsiyələri bağlı olduqda, MIUI sistem tətbiqlərində özəllik açıq olduğu vaxtlardakı qədər reklam görməyə davam edəcəksiniz. Ancaq Xiaomi və üçüncü tərəf platformalarının reklamları, şəxsi tərcihlərinizə əsaslanmadığından artıq əlaqəli olmayacaq."</string>
@@ -326,7 +326,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="other_settings_enhanced_lockscreen_summary_index">Son İstifadəçi Lisenziya Razılaşması</string>
     <string name="other_settings_get_apps">Tətbiqləri avtomatik güncəllə</string>
     <string name="other_settings_get_apps_summary">"Ən son özəllikləri istifadə edə bilmək üçün sistem və üçüncü tərəf tərəfdaş tətbiqləri GetApps vasitəsilə güncəlləyin.
-Avto-güncəlləmələri GetApps &gt; Tənzimləmələr &gt; \"Avto-güncəlləmələr\"də söndürə bilərsiniz."</string>
+Avto-güncəlləmələri GetApps &gt; Ayarlar &gt; \"Avto-güncəlləmələr\"də söndürə bilərsiniz."</string>
     <string name="other_settings_location">Yerləşmə</string>
     <string name="other_settings_location_summary">Yerləşmə əsaslı xidmətləri təmin etmək üçün tətbiqlərin və veb saytların yerləşmənizə müraciət etməsinə icazə verin</string>
     <string name="other_settings_quality_service">MIUI Daemon icazələri</string>
@@ -334,7 +334,7 @@ Avto-güncəlləmələri GetApps &gt; Tənzimləmələr &gt; \"Avto-güncəlləm
     <string name="other_settings_upload_debug_log_detail">"Diaqnostika, cihaz və tətbiq istifadə məlumatlarını Xiaomi-yə avtomatik göndərərək MIUI cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, MIUI sistemini və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.
 Göndərəcəyiniz məlumatlar cihazınızla və onu necə istifadə etdiyinizlə bağlı ümumi məlumatlar ehtiva edəcək (məs. batareya səviyyəsi, sistem və tətbiq fəaliyyəti və xətalar).
 Bu özəlliyin söndürülməsi, cihazınızın sistem güncəlləmələri və güvənlik kimi təməl xidmətlər üçün lazım olan məlumatları göndərmə qabiliyyətinə təsir etmir.
-Bu özəlliyi Tənzimləmələr &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadə və diaqnostika\"da idarə edə bilərsiniz."</string>
+Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadə və diaqnostika\"da idarə edə bilərsiniz."</string>
     <string name="other_settings_upload_debug_log_summary">Diaqnostika, cihaz və tətbiq istifadə datalarını avtomatik olaraq Xiaomi-yə göndərərək MIUI cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, MIUI sistemini və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.</string>
     <string name="other_settings_upload_debug_log_title">İstifadə və diaqnostika datalarını göndər</string>
     <string name="other_settings_user_experience">İstifadəçi Təcrübə Proqramı</string>
@@ -678,7 +678,7 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="wc_dialog_title">Yenidən qurulmuş Kilid ekranı</string>
     <string name="wc_double_check_agree">Sına</string>
     <string name="wc_double_check_reject">Xeyr, təşəkkürlər</string>
-    <string name="wc_double_check_summary">Sizin üçün işə yaradığını yoxlamaq üçün Divar kağızı Karuselini işə sala bilərsiniz. Unutmayın ki, Tənzimləmələr &gt; \"Kilid ekranı\"nda Divar kağızı Karuselini istənilən vaxt işə sala və ya söndürə bilərsiniz.</string>
+    <string name="wc_double_check_summary">Sizin üçün işə yaradığını yoxlamaq üçün Divar kağızı Karuselini işə sala bilərsiniz. Unutmayın ki, Ayarlar &gt; \"Kilid ekranı\"nda Divar kağızı Karuselini istənilən vaxt işə sala və ya söndürə bilərsiniz.</string>
     <string name="wc_double_check_title">Divar kağızı Karuselini sına</string>
     <string name="wc_notice_link_announcement_summary">"Bu özəlliyi istifadə etməzdən əvvəl, üçüncü tərəf məzmun provayderimizin &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmasını&lt;/a&gt; oxuyun və razılaşın."</string>
     <string name="wednesday">Çərşənbə</string>

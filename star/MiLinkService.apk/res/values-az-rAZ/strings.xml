@@ -221,7 +221,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="close_hotspot_hint_DFS">Elementləri televizora köçürmək üçün əvvəlcə hotspot-u söndürün.</string>
     <string name="close_invisible_mode_dialog_cancel">İmtina</string>
     <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\", indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün."</string>
-    <string name="close_invisible_mode_dialog_ok">Tənzimləmələr</string>
+    <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="close_slave_wifi_hint">Yayımdan əvvəl köməkçi Wi-Fi şəbəkələri ilə bağlantını kəsin</string>
     <string name="close_slave_wifi_hint_china">Yayımdan əvvəl köməkçi Wi-Fi şəbəkələri ilə bağlantını kəsin</string>
@@ -249,8 +249,8 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="dialog_connecting">Bağlantı qurulur…</string>
     <string name="dialog_location_permission_message">Bu tətbiqin, yaxınlıqdakı xarici monitorları tapa bilməsi üçün yerləşmənizə müraciət etməsi lazımdır. Mümkün xətalardan qaçmaq üçün bu icazəni verərkən \"Həmişə icazə ver\"i seçin.</string>
     <string name="dialog_location_permission_title">Tələb olunan icazələr</string>
-    <string name="dialog_miplay_permission_message">Bu özəlliyi normal şəkildə istifadə edə bilmək üçün \"Yayım\"ın səs yazmağına, daxili anbardakı fayllara müraciətinə və yerləşmənizə müraciət etməsinə icazə verin. Davam etmək üçün \"Tənzimləmələr\"ə toxunub \"Tətbiq icazələri\"ni seçin.</string>
-    <string name="dialog_miplay_permission_positive">Tənzimləmələr</string>
+    <string name="dialog_miplay_permission_message">Bu özəlliyi normal şəkildə istifadə edə bilmək üçün \"Yayım\"ın səs yazmağına, daxili anbardakı fayllara müraciətinə və yerləşmənizə müraciət etməsinə icazə verin. Davam etmək üçün \"Ayarlar\"a toxunub \"Tətbiq icazələri\"ni seçin.</string>
+    <string name="dialog_miplay_permission_positive">Ayarlar</string>
     <string name="dialog_miplay_permission_title">Tələb olunan icazələr</string>
     <string name="dialog_nearbydevice_permission_message">Yayım özəlliklərini istifadə edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara müraciət etməsinə icazə verin.</string>
     <string name="dialog_nearbydevice_permission_title">Tələb olunan icazələr</string>
@@ -402,7 +402,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="help_page_text_25">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bu özəllik, müxtəlif modellərdə ilkin olaraq açıqdır.</string>
     <string name="help_page_text_26">Philips müştəri dəstəyi: 400-880-0008</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bəzi modellərdə pultdakı [MENU] düyməsinə basa bilər, daha sonra Tənzimləmələr &gt; Bağlantı &gt; Şəbəkə &gt; \"Çoxlu ekranlar\"ı seçin.</string>
+    <string name="help_page_text_28">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bəzi modellərdə pultdakı [MENU] düyməsinə basa bilər, daha sonra Ayarlar &gt; Bağlantı &gt; Şəbəkə &gt; \"Çoxlu ekranlar\"ı seçin.</string>
     <string name="help_page_text_29">TPV müştəri dəstəyi: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
     <string name="help_page_text_31">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bəzi modellərdə pultdakı [SMART] düyməsinə basa bilər, daha sonra Naqilsiz ekran &gt; \"Yayımla\"nı seçə bilərsiniz. Həmçinin bəzi modellərdə oyunlar üçün yayımlama da dəstəklənir: Hi Cast &gt; Oyunları yayımla &gt; Android.</string>
@@ -426,7 +426,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="help_page_text_49">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. bu özəlliyi işə salmaq üçün, \"Tətbiqlərim\" &gt; \"WiFi Ekranı\"na gedin.</string>
     <string name="help_page_text_50">AODIN müştəri dəstəyi: 400-810-5858</string>
     <string name="help_page_text_51">LeEco</string>
-    <string name="help_page_text_52">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bəzi modellərdə bu özəllik Tənzimləmələr &gt; Şəbəkələr &gt; Çoxlu ekranlar &gt; \"Naqilsiz ekran\"da açılır.</string>
+    <string name="help_page_text_52">Əvvəlcə, cihazınızda Miracast funksionallığının dəstəkləndiyinə əmin olun. Bəzi modellərdə bu özəllik Ayarlar &gt; Şəbəkələr &gt; Çoxlu ekranlar &gt; \"Naqilsiz ekran\"da açılır.</string>
     <string name="help_page_text_53">LeEco müştəri dəstəyi: 10109000</string>
     <string name="help_page_text_55">"Şəbəkəyə bağlana bilmirsinizsə, xarici monitorunuzun Miracast funksionallığını dəstəklədiyinə və bu funksiyanın açıq olduğuna əmin olun. Bəzi modellərdə, bu özəllik \"Naqilsiz ekran\", \"Ekranı əks etdir\" və ya \"Çoxlu ekran\" olaraq adlandırılır. Miracast-i necə işə salacağınızı öyrənmək üçün aşağıdakı məlumatlara baxın.
 %1$d. Hər hansısa problemlə üzləşsəniz, \"Xidmətlər və əks-əlaqə\" tətbiqimizi istifadə edərək onları bildirə bilərsiniz."</string>

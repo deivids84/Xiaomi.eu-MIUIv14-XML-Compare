@@ -144,8 +144,8 @@ proqramımıza qoşulun"</string>
     <string name="gb_advance_settings_follow_up">Toxunuş reaksiyası</string>
     <string name="gb_advance_settings_reset">İlkin ayarları bərpa et</string>
     <string name="gb_advance_settings_reset_button">Bərpa et</string>
-    <string name="gb_advance_settings_reset_dialog_content">İlkin tənzimləmələr indi bərpa edilsin?</string>
-    <string name="gb_advance_settings_reset_dialog_title">İlkin tənzimləmələr</string>
+    <string name="gb_advance_settings_reset_dialog_content">İlkin ayarlar indi bərpa edilsin?</string>
+    <string name="gb_advance_settings_reset_dialog_title">İlkin ayarlar</string>
     <string name="gb_advance_settings_screen_display">Ekran</string>
     <string name="gb_advance_settings_screen_hdr">Təkmilləşdirilmiş vizuallar</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Orijinal</string>
@@ -160,13 +160,13 @@ proqramımıza qoşulun"</string>
     <string name="gb_alipays_can_not_complete">"Ödəniş tamamlana bilmir. Davam etmək üçün quraşdırın."</string>
     <string name="gb_dialog_game_speed_close">İşıq sürəti rejimi söndürülür…</string>
     <string name="gb_dialog_game_speed_exist">İşıq sürəti rejimində yalnız bir oyun istifadə edə bilərsiniz. \"%s\" indi dəyişdirilsin?</string>
-    <string name="gb_game_control">GPU tənzimləmələri</string>
+    <string name="gb_game_control">GPU ayarları</string>
     <string name="gb_game_settings">Əlavə ayarlar</string>
     <string name="gb_game_speed_closed">İşıq sürəti rejimi bağlıdır</string>
     <string name="gb_game_speed_closed_fail">"İşıq sürəti rejimi söndürülə bilmədi"</string>
     <string name="gb_game_speed_open">İşıq sürəti rejimi açıqdır</string>
     <string name="gb_game_speed_open_fail">"İşıq sürəti rejimi açıla bilmədi"</string>
-    <string name="gb_global_settings">Ümumi tənzimləmələr</string>
+    <string name="gb_global_settings">Ümumi ayarlar</string>
     <string name="gb_gpu_control_anisotropic_filtering">Anizotrop filtrləmə</string>
     <string name="gb_gpu_control_anti_aliasing">Kənar yumşaltma</string>
     <string name="gb_gpu_control_fps">Kadr tezliyi</string>
@@ -175,8 +175,8 @@ proqramımıza qoşulun"</string>
     <string name="gb_gpu_control_texture_filtering_quality">Toxuma filtrləmə keyfiyyəti</string>
     <string name="gb_gpu_dialog_button">Anladım</string>
     <string name="gb_gpu_dialog_button_countdown">Anladım (%s)</string>
-    <string name="gb_gpu_dialog_message">Hazırkı GPU tənzimləmələri \"%s\" üzərində tətbiq edilir. Tənzimləmələri tətbiq etmək üçün oyunu yenidən başladın.</string>
-    <string name="gb_gpu_dialog_titile">GPU tənzimləmələri</string>
+    <string name="gb_gpu_dialog_message">Hazırkı GPU ayarları \"%s\" üzərində tətbiq edilir. Ayarları tətbiq etmək üçün oyunu yenidən başladın.</string>
+    <string name="gb_gpu_dialog_titile">GPU ayarları</string>
     <string name="gb_gpu_rader_graph">Şəkil keyfiyyəti</string>
     <string name="gb_gpu_rader_maxfps">Yüksək kadr tezliyi</string>
     <string name="gb_gpu_rader_remain">Performans</string>

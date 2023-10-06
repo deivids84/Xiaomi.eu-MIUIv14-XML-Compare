@@ -293,7 +293,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="baby_album_needs_auto_backup_tip">"Körpə albomu üçün avto-sinxronlaşdırma söndürülə bilmir"</string>
     <string name="baby_album_new_photo_remind">Körpə albomunuzda yeni fotolar var.</string>
     <string name="baby_album_setting_title">Körpə albom məlumatını idarə et</string>
-    <string name="baby_album_settings">Körpə albomu tənzimləmələri</string>
+    <string name="baby_album_settings">Körpə albomu ayarları</string>
     <string name="baby_album_sharer_accept_dialog_msg">"Hörmətli %1$s %2$s,
 %3$s %4$s, %5$s məxsus albomu sizinlə paylaşdı"</string>
     <string name="baby_album_sharer_recommand_face">%1$s - mövcud fotoları əlavə edilsin?</string>
@@ -891,7 +891,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="expand_desc">Daha çox</string>
     <string name="expand_people">Daha çox şəxs göstər</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">Qalereya, bunun əvəzində elementləri daxili anbarda saxlayacaq. Bunu Tənzimləmələr &gt; Anbar &gt; Anbar tənzimləmələrində dəyişdirə bilərsiniz.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Qalereya, bunun əvəzində elementləri daxili anbarda saxlayacaq. Bunu Ayarlar &gt; Anbar &gt; \"Anbar ayarları\"nda dəyişdirə bilərsiniz.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">"İcazələr verilə bilmədi."</string>
     <string name="ext_sdcard_guide_first_page_button_text">Növbəti</string>
     <string name="ext_sdcard_guide_last_page_button_text">İcazələri ver</string>
@@ -3578,7 +3578,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="widget_label_custom">Seçilən şəkillər</string>
     <string name="widget_label_recommend">Xatirələr</string>
     <string name="widget_recommend_default_description_no_story">Burada hələ heç bir xatirə yoxdur</string>
-    <string name="widget_recommend_default_description_open_story">Tənzimləmələri açmaq və \"Xatirələr\"i işə salmaq üçün toxunun</string>
+    <string name="widget_recommend_default_description_open_story">Ayarları açmaq və \"Xatirələr\"i işə salmaq üçün toxunun</string>
     <string name="widget_recommend_default_description_shop">Ən parlaq anlarınıza yenidən ziyarət edin</string>
     <string name="widget_recommend_default_example">Demo</string>
     <string name="widget_recommend_default_title_on_story">Xatirələr</string>

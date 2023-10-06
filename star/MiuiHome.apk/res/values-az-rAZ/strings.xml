@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Icon_name_classic_mode">Əsas ekran tənzimləmələri</string>
+    <string name="Icon_name_classic_mode">Əsas ekran ayarları</string>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
     <string name="abc_action_bar_up_description">Yuxarı keç</string>
     <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
@@ -89,7 +89,7 @@
     <string name="announce_for_app_move_in_folder">Qovluqda %1$d mövqeyinə daşındı</string>
     <string name="announce_for_checked">%1$s, yoxlanıldı</string>
     <string name="announce_for_choose_default_screen">%1$d ekranını ilkin Əsas ekran olaraq tənzimlə</string>
-    <string name="announce_for_close_default_preview">İlkin Əsas ekran tənzimləmələri bağlandı</string>
+    <string name="announce_for_close_default_preview">İlkin Əsas ekran ayarları bağlandı</string>
     <string name="announce_for_create_folder_with_app">%1$s ilə qovluq yaradıldı</string>
     <string name="announce_for_delete_gadget_and_widget">Vicet</string>
     <string name="announce_for_delete_item">%1$s silindi</string>
@@ -107,7 +107,7 @@
     <string name="announce_for_edit_mode_disable">Düzəliş rejimindən çıxıldı</string>
     <string name="announce_for_move">%1$d sırasına %2$d sütununa get</string>
     <string name="announce_for_move_hotseat">%1$d yuva mövqeyinə get</string>
-    <string name="announce_for_open_default_preview">İlkin Əsas ekran tənzimləmələri açıldı</string>
+    <string name="announce_for_open_default_preview">İlkin Əsas ekran ayarları açıldı</string>
     <string name="announce_for_open_folder">%1$s qovluğu açıldı</string>
     <string name="announce_for_search_bar">Axtarış çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Silinmə dialoqu göründü. Ləğv et və ya təsdiqlə.</string>
@@ -361,7 +361,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="launcher_slide_up_title">Əsas ekranda yuxarı sürüşdür</string>
     <string name="launcher_sliding_up_gesture">Axtarışı açmaq üçün Əsas ekranda yuxarı sürüşdür</string>
     <string name="launcher_title">Əsas ekran və Sonuncular</string>
-    <string name="layout_guide_description">"Tətbiq siyirməsini bəyənməsəniz, istənilən vaxt klassik Əsas ekrana qayıda bilərsiniz. Sadəcə olaraq \"Əsas ekran tənzimləmələri\" qsaıyolunu istifadə edin və iki rejim arasında keçid edin."</string>
+    <string name="layout_guide_description">"Tətbiq siyirməsini bəyənməsəniz, istənilən vaxt klassik Əsas ekrana qayıda bilərsiniz. Sadəcə olaraq \"Əsas ekran ayarları\" qsaıyolunu istifadə edin və iki rejim arasında keçid edin."</string>
     <string name="layout_guide_tip_title">Tək toxunuşla köhnə üsullara qayıda bilərsiniz</string>
     <string name="layout_guide_title">Tətbiq siyirməsi necə çıxarılır</string>
     <string name="like">Sevimlilərə əlavə et</string>
@@ -414,7 +414,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="mi_wallpaper">MIUI Temalar</string>
     <string name="midnight">Gecə</string>
     <string name="minus_one_screen">Tətbiq kassası</string>
-    <string name="miui_screen_config_title">Əsas ekran tənzimləmələri</string>
+    <string name="miui_screen_config_title">Əsas ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Dəyişdir</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Tətbiq kassası bu ölçüdəki vicetləri dəstəkləmir"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -570,7 +570,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="open_personal_assistant_dialog_desc">"Tətbiq kassasını söndürdükdən sonra Tətbiq kassası vicetlərini görə və ya istifadə edə bilməyəcəksiniz. Onların güncəllənmiş versiyaları da sizin üçün əlçatan olmayacaq. Yenə də söndürülsün?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Bu özəlliyi söndürdükdən sonra, Tətbiq kassası kartlarını (Fondlar, Qısayollar və s.) istifadə edə bilməyəcək və güncəlləmələri almayacaqsınız."</string>
     <string name="open_personal_assistant_dialog_title">Tətbiq kassasını söndür</string>
-    <string name="open_personal_assistant_settings">Tətbiq kassası tənzimləmələri</string>
+    <string name="open_personal_assistant_settings">Tətbiq kassası ayarları</string>
     <string name="open_personal_assistant_settings_off">Bağlı</string>
     <string name="open_personal_assistant_settings_on">Açıq</string>
     <string name="open_personal_assistant_settings_simplified">Tətbiq kassası</string>
@@ -585,10 +585,10 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="permdesc_write_settings">"Bir tətbiqin Əsas ekran ayarlarını və qısayolları dəyişdirməsinə icazə verir."</string>
     <string name="permlab_install_shortcut">Qısayolları quraşdır</string>
     <string name="permlab_install_widget">Vicetləri quraşdır</string>
-    <string name="permlab_read_settings">Əsas ekran tənzimləmələri və qısayollarını oxu</string>
+    <string name="permlab_read_settings">Əsas ekran ayarları və qısayollarını oxu</string>
     <string name="permlab_uninstall_shortcut">Qısayolları sil</string>
     <string name="permlab_uninstall_widget">Vicetləri sil</string>
-    <string name="permlab_write_settings">Əsas ekran tənzimləmələri və qısayollarına düzəliş et</string>
+    <string name="permlab_write_settings">Əsas ekran ayarlarına və qısayollarına düzəliş et</string>
     <string name="please_slide_agian">Yenidən sürüşdür</string>
     <string name="pm">GS</string>
     <string name="popular_search">Məşhur</string>

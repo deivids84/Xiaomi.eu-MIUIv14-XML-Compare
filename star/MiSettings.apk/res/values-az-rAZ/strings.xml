@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="adaptive_fps_tip">- Yeniləmə sürətini dinamik olaraq nizamlamaqla hərəkətin hamarlığı və batareya ömrü arasında ən yaxşı balansı əldə edin.</string>
-    <string name="advanced_mode">Qabaqcıl tənzimləmələr</string>
+    <string name="advanced_mode">Qabaqcıl ayarlar</string>
     <string name="africa_introduction">"Afrikada vəhşi təbiət inkişaf edir - dünyanın ən məşhur heyvanlarının bir çoxunun yaşadığı yer."</string>
     <string name="african_bush_elephant">Afrika kolu fili</string>
     <string name="africans_white_backed_vulture">Ağ bel qarğa</string>
@@ -48,7 +48,7 @@
     <string name="anti_flicker_mode_categroy">Rejimlər</string>
     <string name="anti_flicker_mode_summary">Zəif işıq şəraitində aşırı titrəməni önləyin və göz yorğunluğunu azaldın</string>
     <string name="anti_flicker_title">Titrəməsiz rejim</string>
-    <string name="app_name">Tənzimləmələr</string>
+    <string name="app_name">Ayarlar</string>
     <string name="application_sound">Tətbiq bildirişləri</string>
     <string name="apply_ringtone">Tətbiq et</string>
     <string name="arctic_fox">Arktik tülkü</string>
@@ -209,7 +209,7 @@
     <string name="exo_controls_rewind_by_amount_description">%d saniyə geri çək</string>
     <string name="exo_controls_rewind_description">Geri çək</string>
     <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
-    <string name="exo_controls_settings_description">Tənzimləmələr</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
     <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
     <string name="exo_controls_shuffle_off_description">Qarışdırma bağlıdır</string>
     <string name="exo_controls_shuffle_on_description">Qarışdırma açıqdır</string>
@@ -468,7 +468,7 @@
     <string name="more">Daha çox</string>
     <string name="more_ringtone">Bütün zəng səsləri</string>
     <string name="more_ringtones">Daha çox zəng səsi</string>
-    <string name="more_settings">Tənzimləmələr</string>
+    <string name="more_settings">Ayarlar</string>
     <string name="morning">Səhər</string>
     <string name="most_unlock_week_day">"Ən çox kilid açma: "</string>
     <string name="mus_ox">Müşk öküzü</string>
@@ -709,7 +709,7 @@ vaxt qalmadı"</string>
     <string name="usage_app_over_content">"Bu tətbiqi bu gün artıq %s istifadə etdiniz."</string>
     <string name="usage_app_over_summary">"Limitə çatdınız. Vaxt bitdi!"</string>
     <string name="usage_app_set_limit_time">Limit təyin et</string>
-    <string name="usage_app_stop_desc">Fərdi tənzimləmələr daxil olmaqla, bütün Ekran vaxtı məlumatları və icazələri ilə yerli olaraq saxlanılan əlaqəli elementlər, bu özəlliyi söndürdükdən sonra silinəcək.</string>
+    <string name="usage_app_stop_desc">Fərdi ayarlar daxil olmaqla, bütün Ekran vaxtı məlumatları və icazələri ilə yerli olaraq saxlanılan əlaqəli elementlər, bu özəlliyi söndürdükdən sonra silinəcək.​</string>
     <string name="usage_app_system_app_summary">"Sistem tətbiqləri üçün ekran vaxtı məhdudlaşdırıla bilmir"</string>
     <string name="usage_app_weekday_limit">Həftə içi</string>
     <string name="usage_app_weekend_limit">Həftə sonları</string>
@@ -757,9 +757,9 @@ Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı 
 Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yığması lazımdır: Ekran vaxtı statistikalarını yaratmaq üçün telefon kilidinin açılma sayı, tətbiq adları və tətbiq istifadə müddətləri tələb olunur.
 Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="usage_home_premission_second_summary">Normal işləyə bilməsi üçün bu tətbiqin şəxsi məlumatlarınızı yığması lazımdır. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Tənzimləmələr &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Ayarlar &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>\"Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Privacy Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
-    <string name="usage_home_premission_second_summary_new">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Tənzimləmələr &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz. Gizlilik haqqında daha çox sualınız varsa privacy@xiaomi.com üzərindən bizimlə əlaqə saxlaya bilərsiniz."</string>
+    <string name="usage_home_premission_second_summary_new">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmasanız, bu tətbiqi istifadə edə bilməyəcəksiniz. Ekran vaxtı &gt; Ayarlar &gt; \"Ekran vaxtını söndür\" ilə səlahiyyəti ləğv edə bilərsiniz. Gizlilik haqqında daha çox sualınız varsa privacy@xiaomi.com üzərindən bizimlə əlaqə saxlaya bilərsiniz."</string>
     <string name="usage_new_category_limit_summary">Bu kateqoriyadakı bütün tətbiqlər üçün gündəlik istifadə limiti təyin edin</string>
     <string name="usage_new_category_limit_title">Tətbiq kateqoriyası üçün istifadəni məhdudlaşdır</string>
     <string name="usage_new_home_app_limit_summary">Bu tətbiq üçün gündəlik ekran vaxtı limitini təyin edin</string>

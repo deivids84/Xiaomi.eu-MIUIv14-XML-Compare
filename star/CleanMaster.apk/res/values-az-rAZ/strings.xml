@@ -685,7 +685,7 @@
     <string name="output_videos">Videoları xaricə köçür</string>
     <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İmtina</string>
-    <string name="permission_dialog_storage_content">Təmizləyicinin normal işləməsi üçün daxili anbara müraciət icazəsinə ehtiyacı var. Anbar icazələrini idarə etmək üçün \"Tənzimləmələr\"ə toxunun.</string>
+    <string name="permission_dialog_storage_content">Təmizləyicinin normal işləməsi üçün daxili anbara müraciət icazəsinə ehtiyacı var. Anbar icazələrini idarə etmək üçün \"Ayarlar\"a toxunun.</string>
     <string name="permission_dialog_storage_title">Tələb olunan icazələr</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">GS</string>

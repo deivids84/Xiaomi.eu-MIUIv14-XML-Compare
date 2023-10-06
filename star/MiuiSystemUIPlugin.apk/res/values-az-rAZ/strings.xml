@@ -48,7 +48,7 @@
     <string name="accessibility_qs_edit_tile_moved">%1$s, %2$d mövqeyinə daşındı</string>
     <string name="accessibility_qs_edit_tile_removed">%1$s silindi</string>
     <string name="accessibility_quick_settings_page">Səhifə %1$d/%2$d</string>
-    <string name="accessibility_settings">Tənzimləmələr</string>
+    <string name="accessibility_settings">Ayarlar</string>
     <string name="accessibility_volume_collapse">Yığcamlaşdır</string>
     <string name="accessibility_volume_expand">Genişləndir</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -72,7 +72,7 @@
     <string name="close">Bağla</string>
     <string name="close_invisible_mode_dialog_cancel">İmtina</string>
     <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\", indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün."</string>
-    <string name="close_invisible_mode_dialog_ok">Tənzimləmələr</string>
+    <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="control_center_notification_switch_guide">İdarəetmə mərkəzi və Bildiriş paneli arasında keçid etmək üçün sürüşdürün</string>
     <string name="controls_add_device_guide">"Hələ heç bir ağıllı ev cihazı əlavə etməmisiniz"</string>
@@ -85,10 +85,10 @@
     <string name="controls_dialog_title">Cihaz kontrollarına əlavə et</string>
     <string name="controls_dismiss_dialog_cancel">Xeyr, təşəkkürlər</string>
     <string name="controls_dismiss_dialog_cancel_international">İmtina</string>
-    <string name="controls_dismiss_dialog_confirm">Tənzimləmələr</string>
+    <string name="controls_dismiss_dialog_confirm">Ayarlar</string>
     <string name="controls_dismiss_dialog_confirm_international">Sil</string>
     <string name="controls_dismiss_dialog_message">İdarəetmə mərkəzindəki bir neçə tətbiqdən ağıllı ev cihazlarını idarə edin</string>
-    <string name="controls_dismiss_dialog_message_international">"\"Ağıllı ev\" kartı indi silinsin? Tənzimləmələr &gt; \"İdarəetmə mərkəzi\"ndə bərpa edə biləcəksiniz."</string>
+    <string name="controls_dismiss_dialog_message_international">"\"Ağıllı ev\" kartı indi silinsin? Ayarlar &gt; \"İdarəetmə mərkəzi\"ndə bərpa edə biləcəksiniz."</string>
     <string name="controls_dismiss_dialog_title">Ağıllı ev cihazları</string>
     <string name="controls_dismiss_dialog_title_international">Kartı çıxart</string>
     <string name="controls_edit_add_device_guide">Burada hələ heç bir cihaz yoxdur</string>
@@ -323,7 +323,7 @@
     <string name="qs_control_expand_detail_title">Verilənlərim</string>
     <string name="qs_control_header_tiles_title">İdarəetmə mərkəzi</string>
     <string name="qs_customize_title">Düzəliş et</string>
-    <string name="qs_open_night_mode_alert_summary">"Bəzi ekran tənzimləmələri Qaranlıq rejimlə uyğunlaşmır. Ekran tənzimləmələri, Qaranlıq rejimi söndürdükdən sonra bərpa olunacaq."</string>
+    <string name="qs_open_night_mode_alert_summary">"Bəzi ekran ayarları Qaranlıq rejimlə uyğunlaşmır. Ekran ayarları, Qaranlıq rejimi söndürdükdən sonra bərpa olunacaq."</string>
     <string name="quick_controls_subtitle">Bağlantılı cihazlarınız üçün kontrollar əlavə edin</string>
     <string name="quick_controls_title">Cihaz kontrolları</string>
     <string name="quick_settings_aitranslate_label">MI AI Tərcümə</string>
@@ -468,7 +468,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="wifi_is_off">Wi-Fi bağlıdır</string>
     <string name="wireless_charging_connected_message">"Cihazınız naqilsiz doldurularkən tərsinə naqilsiz doldurmanı istifadə edə bilməzsiniz."</string>
     <string name="wireless_charging_fg_control_cancel">İmtina</string>
-    <string name="wireless_charging_fg_control_messgae">"Batareya %d%% dən az qaldığı üçün tərsinə naqilsiz doldurma söndürüldü. Tərsinə naqilsiz doldurmanın daha uzun müddət işləməsinə imkan vermək üçün tənzimləmələri nizamlaya bilərsiniz."</string>
+    <string name="wireless_charging_fg_control_messgae">"Batareya %d%% dən az qaldığı üçün tərsinə naqilsiz doldurma söndürüldü. Tərsinə naqilsiz doldurmanın daha uzun müddət işləməsinə imkan vermək üçün ayarları nizamlaya bilərsiniz."</string>
     <string name="wireless_charging_fg_control_ok">Tənzimlə</string>
     <string name="wireless_charging_low_battery_level_message">"Batareya %d%% dən aşağı olduqda tərsinə naqilsiz doldurma istifadə edilə bilməz."</string>
     <string name="wireless_charging_ok">Anladım</string>

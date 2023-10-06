@@ -691,7 +691,7 @@
     <string name="setting_function_sort">Özəllikləri yenidən düz</string>
     <string name="setting_preference_pay">Tərcih edilən ödəniş üsulu</string>
     <string name="setting_preference_weixin_process_method">WeChat kodları</string>
-    <string name="setting_title">Tənzimləmələr</string>
+    <string name="setting_title">Ayarlar</string>
     <string name="setting_use_last_choose">Əvvəlki seçimi xatırla</string>
     <string name="setting_wechat">WeChat</string>
     <string name="share">Paylaş</string>
@@ -832,7 +832,7 @@
     <string name="ucrop_menu_crop">Kəs</string>
     <string name="ucrop_rotate">Döndər</string>
     <string name="ucrop_scale">Miqyas</string>
-    <string name="uninstall_prompt">Quraşdırma zamanı problem yaranarsa, Tənzimləmələr &gt; Tətbiqlər &gt; Tətbiqlər idarə et &gt; \"Skaner\"ə gedin, \"Sil\"ə toxunun və tətbiqi yenidən quraşdırın.</string>
+    <string name="uninstall_prompt">Quraşdırma zamanı problem yaranarsa, Ayarlar &gt; Tətbiqlər &gt; Tətbiqlər idarə et &gt; \"Skaner\"ə gedin, \"Sil\"ə toxunun və tətbiqi yenidən quraşdırın.</string>
     <string name="url_is_phish">Bu fişinq saytı ola bilər</string>
     <string name="url_is_safety">Bu sayt, güvənlidir</string>
     <string name="url_is_unknown">"Bu veb saytın güvənliyi yoxlana bilmir"</string>

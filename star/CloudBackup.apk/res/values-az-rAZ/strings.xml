@@ -233,7 +233,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="dialog_wechat_data_close_title">WeChat nüsxələmələri</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Ölçü hesablanır…</string>
-    <string name="doing_restore_home">Əsas ekran və tənzimləmələr bərpa edilir…</string>
+    <string name="doing_restore_home">Əsas ekran və ayarlar bərpa edilir…</string>
     <string name="done_remove">Uğurla silindi</string>
     <string name="download_meta_again">"Nüsxə yüklənə bilmədi, yenidən sınayın."</string>
     <string name="download_meta_failed">"Data yüklənə bilmədi."</string>
@@ -276,7 +276,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="loading_user_backup">İstifadəçi nüsxələri yüklənir…</string>
     <string name="managespace_delete_backup">Sil</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Bağla</string>
-    <string name="manual_request_notification_permission_dialog_positive_button">Tənzimləmələr</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Ayarlar</string>
     <string name="manual_request_permissions_dialog_description">"\"%s\" üçün icazələri verməsəniz, uğursuz nüsxələmələr və digər vacib əməliyyatlar haqqında vaxtında bildirişlər almayacaqsınız. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="manual_request_permissions_dialog_title">Tələb olunan icazələr</string>
     <string name="menu_item_managespace">Sahəni idarə et</string>
@@ -407,7 +407,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="restore_detail_category_app_data_summary_disable">WeChat datasını bərpa edə bilmək üçün WeChat-ı silin</string>
     <string name="restore_detail_category_apps">Əsas ekran düzümü və tətbiqlər</string>
     <string name="restore_detail_category_apps_size">Ölçü: %s</string>
-    <string name="restore_detail_category_settings">Tənzimləmələr</string>
+    <string name="restore_detail_category_settings">Ayarlar</string>
     <string name="restore_detail_category_settings_size">Ölçüsü: ＜%.1f GB</string>
     <string name="restore_detail_more">Daha çox</string>
     <string name="restore_detail_title">Bərpa ediləcək elementləri seçin</string>
@@ -438,7 +438,7 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="restoring_data">Data bərpa edilir…</string>
     <string name="restoring_file_title_no_progress">Tətbiqlər bərpa edilir…</string>
     <string name="restoring_home_screen_apps">Xiaomi Cloud-dan bərpa edilir…</string>
-    <string name="restoring_settings">Tənzimləmələr bərpa edilir…</string>
+    <string name="restoring_settings">Ayarlar bərpa edilir…</string>
     <string name="retry">Yenidən sına</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>

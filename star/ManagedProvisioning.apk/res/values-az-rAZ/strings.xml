@@ -33,10 +33,10 @@
     <string name="access_terms">Şərtlərə müraciət</string>
     <string name="account_management_disclaimer_header">Hesabınız idarə edilir</string>
     <string name="account_management_disclaimer_subheader">İT admininiz, güvənlik siyasətlərini tətbiq etmək üçün mobil cihaz idarəetməsini istifadə edir</string>
-    <string name="admin_has_ability_to_monitor_device">"IT admininiz cihazınızın yerləşməsi, zəng tarixçəsi və əlaqə axtarış tarixçəsindən əlavə şəbəkə fəaliyyəti daxil olmaqla bu cihazla əlaqələndirilmiş tənzimləmələri, korporativ müraciəti, tətbiqləri, icazələri və dataları izləyə və idarə edə bilər.
+    <string name="admin_has_ability_to_monitor_device">"IT admininiz cihazınızın yerləşməsi, zəng tarixçəsi və əlaqə axtarış tarixçəsindən əlavə şəbəkə fəaliyyəti daxil olmaqla bu cihazla əlaqələndirilmiş ayarları, korporativ müraciəti, tətbiqləri, icazələri və dataları izləyə və idarə edə bilər.
 
 Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məlumat üçün IT admininizlə əlaqə saxlayın."</string>
-    <string name="admin_has_ability_to_monitor_profile">"IT admininiz bu profillə əlaqələndirilmiş tənzimləmələri, korporativ müraciəti, tətbiqləri, icazələri, məlumatları və şəbəkə fəaliyyətini, həmçinin zəng tarixçənizi və kontakt axtarış tarixçənizi izləyə və idarə edə bilər. Daha çox məlumat və təşkilatınızın gizlilik siyasətləri haqqında daha ətraflı öyrənmək üçün IT admininizlə əlaqə saxlayın."</string>
+    <string name="admin_has_ability_to_monitor_profile">"IT admininiz bu profillə əlaqələndirilmiş ayarları, korporativ müraciəti, tətbiqləri, icazələri, məlumatları və şəbəkə fəaliyyətini, həmçinin zəng tarixçənizi və kontakt axtarış tarixçənizi izləyə və idarə edə bilər. Daha çox məlumat və təşkilatınızın gizlilik siyasətləri haqqında daha ətraflı öyrənmək üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="app_label">İş profili quraşdırma</string>
     <string name="back">Geri</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>

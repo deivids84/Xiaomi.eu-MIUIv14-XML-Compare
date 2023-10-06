@@ -197,7 +197,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="general_mode_setting">Ümumi qoruma tənzimləmələri</string>
+    <string name="general_mode_setting">Ümumi qoruma ayarları</string>
     <string name="general_mode_setting_subtitle">Riskli tətbiqlərə və gizlilik pozuntularına qarşı qoruyun</string>
     <string name="general_mode_subtitle">Riskli tətbiqlərə və gizlilik pozuntularına qarşı qoruyun</string>
     <string name="general_mode_title">Ümumi qoruma</string>
@@ -750,7 +750,7 @@
     <string name="security_mode_guide_about_security_mode_2">Mi Protect nədir?</string>
     <string name="security_mode_guide_do_not_show_again">"Təkrar göstərmə"</string>
     <string name="security_mode_introduce">Güvənli rejim özəllikləri</string>
-    <string name="security_mode_introduce_setting">Güvənli rejim tənzimləmələri</string>
+    <string name="security_mode_introduce_setting">Güvənli rejim ayarları</string>
     <string name="security_mode_off_suggestion_msg">Tövsiyə edilən</string>
     <string name="security_mode_on_suggestion_msg">Açıq</string>
     <string name="security_mode_open_guide_elder_action_button">İşə sal</string>

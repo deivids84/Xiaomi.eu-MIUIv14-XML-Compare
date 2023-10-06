@@ -113,7 +113,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="allow_turn_screen_on">Ekranı açmağa icazə ver</string>
     <string name="allow_turn_screen_on_description">Bir tətbiqin ekranı açmasına icazə verin. İcazə versəniz, tətbiq istənilən vaxt sizin müdaxiləniz olmadan ekranı aça bilər.</string>
     <string name="animator_duration_scale_title">Animator müddəti miqyası</string>
-    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) tənzimləmələri bu istifadəçi üçün əlçatan deyil</string>
+    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) ayarları bu istifadəçi üçün əlçatan deyil</string>
     <string name="app_label">Fövqəladə hal məlumatı</string>
     <string name="app_process_limit_title">Arxaplan proses limiti</string>
     <string name="available_via_carrier">%1$s vasitəsilə əlçatandır</string>
@@ -643,14 +643,14 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tether_settings_title_wifi">Portativ hotspot</string>
     <string name="tethering_hardware_offload">İnternet paylaşımı avadanlıq sürətləndirmə</string>
     <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı avadanlıq sürətləndirməni istifadə et</string>
-    <string name="tethering_settings_not_available">İnternet paylaşım tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
+    <string name="tethering_settings_not_available">İnternet paylaşım ayarları bu istifadəçi üçün əlçatmazdır</string>
     <string name="time_unit_just_now">İndicə</string>
     <string name="track_frame_time">Profile HWUI renderləmə</string>
     <string name="transcode_default">Tətbiqlərin müasir formatları dəstəklədiyini düşünün</string>
     <string name="transcode_disable_cache">Transkodlaşdırma keşini söndür</string>
     <string name="transcode_enable_all">Transkodlaşdırmanı fəallaşdır</string>
     <string name="transcode_notification">Transkodlaşdırma bildirişlərini göstər</string>
-    <string name="transcode_settings_title">Media transkodlaşdırma tənzimləmələri</string>
+    <string name="transcode_settings_title">Media transkodlaşdırma ayarları</string>
     <string name="transcode_user_control">Transkodlaşdırma ilkin seçimlərini yararsız et</string>
     <string name="transition_animation_scale_title">Keçid animasiya miqyası</string>
     <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi tənzimləyir</string>
@@ -674,7 +674,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="tts_play_example_title">Bir nümunə dinləyin</string>
     <string name="tts_reset_speech_pitch_summary">Mətnin danışıldığı səviyyəni ilkin halına sıfırla.</string>
     <string name="tts_reset_speech_pitch_title">Nitq səviyyəsini sıfırla</string>
-    <string name="tts_settings">Mətndən nitqə tənzimləmələri</string>
+    <string name="tts_settings">Mətndən nitqə ayarları</string>
     <string name="tts_settings_title">Mətndən nitqə çıxış</string>
     <string name="tts_status_checking">Yoxlanılır...</string>
     <string name="tts_status_not_supported">%1$s dəstəklənmir</string>
@@ -728,7 +728,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT vasitəsilə quraşdırılan tətbiqləri zərərli davranışa qarşı yoxlayın.</string>
     <string name="verify_apps_over_usb_title">Tətbiqləri USB üzərindən doğrula</string>
-    <string name="vpn_settings_not_available">VPN tənzimləmələri bu istifadəçi üçün əlçatmazdır</string>
+    <string name="vpn_settings_not_available">VPN ayarları bu istifadəçi üçün əlçatmazdır</string>
     <string name="wait_for_debugger">Sazlayıcını gözləyin</string>
     <string name="wait_for_debugger_summary">Sazlanmış tətbiq, işə salınmazdan əvvəl sazlayıcının əlavə edilməsini gözləyir</string>
     <string name="wapi_all_sel_mode">Rejim seçin</string>

@@ -75,7 +75,7 @@
     <string name="cancel_mi_drive_confirm_button">Xidmətlərdən imtina</string>
     <string name="cancel_mi_drive_confirm_description">"Davam etsəniz, Mi Drive xidmətlərini ləğv edəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
     <string name="cancel_mi_drive_confirm_hint">"Mi Drive xidmətlərinin ləğv edilməsi, digər Xiaomi məhsul və xidmətlərinin istifadəsinə təsir etməyəcək. Xiaomi Hesabınızı silmək istəyirsinizsə, &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;burada&lt;/a&gt;&lt;/font&gt; edə bilərsiniz."</string>
-    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Xidmətlərin ləğv edilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, tənzimləmələr və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Xidmətlərin ləğv edilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
     <string name="cancel_mi_drive_privacy_revoked_retry">Mi Drive-ı işə salıb yenidən sınayın</string>
     <string name="cancel_mi_drive_success">Xidmətlər uğurla ləğv edildi</string>
     <string name="cancel_mi_drive_title">Xidmətlərdən imtina</string>
@@ -200,7 +200,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="des_show_pwd">Parolu göstər</string>
     <string name="dialog_account_permission_denied_msg">Mi Drive-a daxil ola bilmək üçün bu tətbiqin cihaz hesablarına müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="dialog_account_permission_denied_negative_button">İmtina</string>
-    <string name="dialog_account_permission_denied_positive_button">Tənzimləmələr</string>
+    <string name="dialog_account_permission_denied_positive_button">Ayarlar</string>
     <string name="dialog_account_permission_denied_title">Tələb olunan icazələr</string>
     <string name="dialog_keep_choice">Seçimimi xatırla</string>
     <string name="dialog_open_mi_drive_button">Anladım</string>
@@ -389,7 +389,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="local_image">Təsvirlər</string>
     <string name="local_music">Səs faylları</string>
     <string name="local_video">Video fayllar</string>
-    <string name="main_button_continue">Tənzimləmələr</string>
+    <string name="main_button_continue">Ayarlar</string>
     <string name="main_button_ok">Oldu</string>
     <string name="main_button_quit">İmtina</string>
     <string name="make_private">Şəxsi et</string>
@@ -714,7 +714,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Yadda saxlayın ki, təzəlikcə silinmiş elementlər silindikdən sonra geri qaytarıla bilməz."</string>
     <string name="privacy_recall_confirm_button">Geri götür</string>
     <string name="privacy_recall_confirm_description">"Davam etsəniz, \"Fayl Meneceri\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
-    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Razılığın geri götürülməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, \"Mi Drive\"dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, tənzimləmələr və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424&gt;Razılığın geri götürülməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, \"Mi Drive\"dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
     <string name="privacy_recall_success">Razılıq uğurla geri götürüldü</string>
     <string name="privacy_recall_title">Razılığın geri götürülməsi</string>
     <string name="privacy_recalling">Razılıq geri götürülür…</string>
@@ -789,9 +789,9 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="select_video">Video faylları</string>
     <string name="select_volume">Anbar yerini seçin</string>
     <string name="send">Göndər</string>
-    <string name="server_control_advanced_settings">Əlavə tənzimləmələr</string>
+    <string name="server_control_advanced_settings">Əlavə ayarlar</string>
     <string name="server_control_charset">Köçürmə kodlaşdırması</string>
-    <string name="server_control_settings">Tənzimləmələr</string>
+    <string name="server_control_settings">Ayarlar</string>
     <string name="set_pattern">Parolu təkmilləşdir</string>
     <string name="set_pattern_btn">Tənzimlə</string>
     <string name="set_pattern_msg">Parolu yenidən təyin edin. Gizlilik qoruması parolu foto, mesaj və qeydlər üçün də işləyir.</string>
@@ -891,8 +891,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="title_recent">Sonuncu</string>
     <string name="title_request_manage_external_storage_perm">Tələb olunan icazələr</string>
     <string name="title_select_volume">Qovluq seçin</string>
-    <string name="to_open">Tənzimləmələr</string>
-    <string name="to_setting">Tənzimləmələr</string>
+    <string name="to_open">Ayarlar</string>
+    <string name="to_setting">Ayarlar</string>
     <string name="toast_copy_clipboard">Lövhəyə əlavə edildi</string>
     <string name="toast_file_not_can_read">Bu əməliyyatı idarə etmək üçün heç bir tətbiq tapılmadı.</string>
     <string name="today">Bu gün</string>

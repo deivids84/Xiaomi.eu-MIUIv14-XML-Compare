@@ -290,7 +290,7 @@ siyahısına əlavə edildi"</string>
     <string name="found_old_messages">%1$s üzərindəki mesajlar bura yüklənsin: %2$s?</string>
     <string name="found_old_messages_title">Digər SIM kartlarınızdan mesajlar yüklənsin?</string>
     <string name="found_wild_messages_guide_cloud_desc">Mesajları Xiaomi Cloud-dan sinxronlaşdırmaq üçün Mi Hesabınıza daxil olub SMS sinxronlaşdırmasını işə salın.</string>
-    <string name="found_wild_messages_guide_settings_desc">Mesajlaşma tənzimləmələrindəki Xiaomi Cloud-dan gələn mesajları sinxronlaşdır.</string>
+    <string name="found_wild_messages_guide_settings_desc">Mesajlaşma ayarlarındakı Xiaomi Cloud-dan gələn mesajları sinxronlaşdır.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sinxronlaşdırma hələ başlamayıb</string>
     <string name="found_wild_messages_title">Xiaomi Cloud-dan gələn mesajları sinxronlaşdır</string>
     <string name="friday">Cümə</string>
@@ -1041,7 +1041,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="system_permission_declare_no_say_no">"Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq.
 Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılması və yüklənməsi ilə razılaşmırsınızsa, bu tətbiqi istifadə edə bilməyəcəksiniz."</string>
     <string name="system_permission_declare_rcs">\"5G Mesajlaşma\"ya xoş gəldiniz!</string>
-    <string name="system_permission_declare_revoke_path">Mesajlaşma tənzimləmələrindən səlahiyyəti ləğv edib xidmətləri söndürə bilərsiniz.</string>
+    <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarında səlahiyyəti ləğv edə və xidmətləri söndürə bilərsiniz.</string>
     <string name="system_permission_declare_single_link">Bu özəlliyi istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %1s.</string>
     <string name="system_permission_declare_smart_message">\"Ağıllı Mesajlaşma\"ya xoş gəldiniz!</string>
     <string name="system_permission_declare_user_agree">Razıyam</string>

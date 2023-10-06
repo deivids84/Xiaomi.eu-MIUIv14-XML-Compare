@@ -294,7 +294,7 @@ d/M"</string>
     <string name="more">Daha çox</string>
     <string name="more_alert_setting">Əlavə zəngli saat ayarları</string>
     <string name="more_setting">Daha çox tənzimləmə</string>
-    <string name="more_settings">Tənzimləmələr</string>
+    <string name="more_settings">Ayarlar</string>
     <string name="morning">Səhər</string>
     <string name="net_permission_cancel">"Razı deyiləm"</string>
     <string name="net_permission_ok">Razıyam</string>
@@ -306,7 +306,7 @@ d/M"</string>
     <string name="no_alarm_setting">Zəngli saat yoxdur</string>
     <string name="no_worldclock">Saat yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="normal_settings">Ümumi tənzimləmələr</string>
+    <string name="normal_settings">Ümumi ayarlar</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_set_temporarily">Xeyr, təşəkkürlər</string>
     <string name="not_update">İndi yox</string>

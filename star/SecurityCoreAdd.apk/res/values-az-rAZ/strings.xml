@@ -40,7 +40,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="air_space_created">İş sahəsi uğurla yaradıldı</string>
     <string name="air_space_deleted">İş sahəsi uğurla silindi</string>
     <string name="air_space_exit">Sahədən çıx</string>
-    <string name="air_space_setting">Sahə tənzimləmələri</string>
+    <string name="air_space_setting">Sahə ayarları</string>
     <string name="airspace_users_full">"Daha çox iş sahəsi yaradılmadı"</string>
     <string name="alwaysUsePrompt">Seçimimi xatırla</string>
     <string name="am">GƏ</string>
@@ -76,7 +76,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="close_second_space_success">İkinci sahə silindi</string>
     <string name="closed">Bağlı</string>
     <string name="complete_setting">Bitir</string>
-    <string name="complete_setting_sub_title">Tənzimləmələri nizamlamaq üçün daha sonra geri qayıda bilərsiniz.</string>
+    <string name="complete_setting_sub_title">Ayarları nizamlamaq üçün daha sonra geri qayıda bilərsiniz.</string>
     <string name="complete_setting_title">"Artıq hazırsınız!"</string>
     <string name="confirm">Oldu</string>
     <string name="confirmClose">Söndür</string>
@@ -372,7 +372,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="openSuccess">İşə salındı</string>
     <string name="opened">Açıq</string>
     <string name="other">Digər</string>
-    <string name="otherSettings">Digər tənzimləmələr</string>
+    <string name="otherSettings">Digər ayarlar</string>
     <string name="passWordGuardSummary">Kilid ekranından İkinci sahəyə daxil olmaq üçün bir parol istifadə edin</string>
     <string name="passwordProtect">Parol</string>
     <string name="please_diff_finger_print">"Birinci sahə və İkinci sahədə fərqli barmaq izlərinin istifadə edildiyinə əmin olun.
@@ -456,8 +456,8 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="settings_msg_add_shortcut_to_second_space">İkinci sahədə qısayol yaradıldı</string>
     <string name="settings_msg_remove_shortcut_from_owner_space">Birinci sahədən qısayol silindi</string>
     <string name="settings_msg_remove_shortcut_from_second_space">Qısayol ikinci sahədən silindi</string>
-    <string name="settings_notification_and_switch_owner_space">Birinci sahə tənzimləmələri</string>
-    <string name="settings_notification_and_switch_second_space">İkinci sahə tənzimləmələri</string>
+    <string name="settings_notification_and_switch_owner_space">Birinci sahə ayarları</string>
+    <string name="settings_notification_and_switch_second_space">İkinci sahə ayarları</string>
     <string name="settings_notification_from_owner_space_title">Birinci sahə bildirişlərini göstər</string>
     <string name="settings_notification_from_second_space_title">İkinci sahə bildirişlərini göstər</string>
     <string name="settings_notification_second_space_show_in_locked_summary">Kilid ekranında İkinci sahədən bildirişlərini göstər</string>
@@ -485,7 +485,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="show_private_msg">Şəxsi mesajları göstər</string>
     <string name="show_private_msg_summary">Şəxsi mesajları İkinci sahədə göstər</string>
     <string name="skip">Ötür</string>
-    <string name="spaceSetting">Tənzimləmələr</string>
+    <string name="spaceSetting">Ayarlar</string>
     <string name="space_create_guide_desc_1">Tətbiqləri və fotoları güvəndə saxlayın</string>
     <string name="space_create_guide_desc_2">İstifadəyə tam hazır ayrı bir sahə</string>
     <string name="space_create_guide_desc_3">"İkinci sahə cihazınızdakı digər elementlərə təsir etmir"</string>
@@ -512,7 +512,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="sunday_shortest">Baz</string>
     <string name="sure_to_use">Təsdiqlə</string>
     <string name="switchDataSummary">Elementləri sahələr arasında daşıyın</string>
-    <string name="switch_apps_settings">Tətbiq tənzimləmələri</string>
+    <string name="switch_apps_settings">Tətbiq ayarları</string>
     <string name="switch_data_app">Elementləri İkinci sahəyə daşıyın</string>
     <string name="switch_data_settings">Məlumat daşı</string>
     <string name="switch_download_space">İş sahəsinə keç</string>
@@ -611,7 +611,7 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_notification_error">İkili WeChat-a daxil olun və yenidən sınayın</string>
     <string name="xspace_remove">"İkili tətbiq hesablarını silin"</string>
     <string name="xspace_resolver_activity_title">Tətbiq seçin</string>
-    <string name="xspace_setting_label">İkili tətbiq tənzimləmələri</string>
+    <string name="xspace_setting_label">İkili tətbiq ayarları</string>
     <string name="xspace_settins">Tənzimlə</string>
     <string name="xspace_start">Yarat</string>
     <string name="xspace_uninstall_completed">İkili tətbiq uğurla silindi</string>

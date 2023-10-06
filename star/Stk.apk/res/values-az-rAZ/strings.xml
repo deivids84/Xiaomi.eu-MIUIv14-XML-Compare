@@ -210,7 +210,7 @@
     <string name="stk_dialog_accept">BƏLİ</string>
     <string name="stk_dialog_reject">XEYR</string>
     <string name="stk_dialog_title">SIM Alət dəsti</string>
-    <string name="stk_ic_remove_content">"Əsas ekran qısayolunu sildikdən sonra, hələ də Tənzimləmələr tətbiqi vasitəsilə USIM alət dəstini istifadə edə biləcəksiniz."</string>
+    <string name="stk_ic_remove_content">"Əsas ekran qısayolunu sildikdən sonra, hələ də Ayarlar tətbiqi vasitəsilə USIM alət dəstini istifadə edə biləcəksiniz."</string>
     <string name="stk_ic_remove_title">USIM alət dəsti Əsas ekrandan silisin?</string>
     <string name="stk_no_service">Xidmət mümkün deyil</string>
     <string name="sunday">Bazar</string>

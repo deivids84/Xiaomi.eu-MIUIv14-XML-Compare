@@ -49,7 +49,7 @@
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="chip_text">Çip mətni</string>
-    <string name="clear_data_dialog_content">Keşlənmiş elementlər, tətbiq verilənləri və özəlləşdirilmiş tənzimləmələr silinəcək, ancaq səsyazmalarınız yerində qalacaq.</string>
+    <string name="clear_data_dialog_content">Keşlənmiş elementlər, tətbiq datası və özəlləşdirilmiş ayarlar silinəcək, ancaq səsyazmalarınız yerində qalacaq.</string>
     <string name="clear_data_dialog_title">Məlumatlar indi təmizlənsin?</string>
     <string name="clear_records">Sinxronlaşdırılmış səsyazmaları sil</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
@@ -289,7 +289,7 @@
     <string name="path_soundrecorder_setting">Sistem tətbiqləri/Səsyazan</string>
     <string name="permission_desc">İcazə detalları</string>
     <string name="permission_dialog_cancel">İmtina</string>
-    <string name="permission_dialog_ok">Tənzimləmələr</string>
+    <string name="permission_dialog_ok">Ayarlar</string>
     <string name="permission_notification_description">Səs yazarkən, oxudarkən və məzmun endirərkən xəbərdarlıqlar göndərmək üçün</string>
     <string name="permission_notification_dialog_description">"Tətbiqin hazırkı statusu haqqında xəbərdarlıqlar göndərmək üçün"</string>
     <string name="permission_notification_title">Tələb olunan icazələr</string>
@@ -387,7 +387,7 @@
     <string name="rename_duplicate">Eyni adla başqa bir səsyazma artıq mövcuddur.</string>
     <string name="rename_no_more_tip">"Təkrar göstərmə"</string>
     <string name="retry">Yenidən sına</string>
-    <string name="saf_permission_dialog_grant_permission_immediately">Tənzimləmələr</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
     <string name="saf_permission_dialog_later">Xeyr, təşəkkürlər</string>
     <string name="saf_permission_dialog_no_more_tip">"Təkrar göstərmə"</string>
     <string name="saf_permission_dialog_title">Tələb olunan icazələr</string>
@@ -413,7 +413,7 @@
     <string name="shortcut_records">Səsyazmalar</string>
     <string name="shortcut_start_record">Səsyazmanı başlat</string>
     <string name="shortcut_stop_record">Səsyazmanı dayandır</string>
-    <string name="sound_recorder_settings">Tənzimləmələr</string>
+    <string name="sound_recorder_settings">Ayarlar</string>
     <string name="status_bar_back">\"Səsyazan\"a qayıtmaq üçün toxunun</string>
     <string name="status_bar_recording">Səs yazılır…</string>
     <string name="status_bar_recording_pause">\"Səsyazan\"a fasilə verildi</string>

@@ -891,7 +891,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="xiaomi_calculator_delete_title">Hesablayıcı silinsin?</string>
     <string name="xiaomi_calculator_remove_icon_description">"Hesablayıcı, bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra bir neçə çeviricini və əlavə funksiyaları istifadə edə bilməyəcəksiniz."</string>
     <string name="xiaomi_calculator_remove_icon_title">\"Hesablayıcı\" Əsas ekrandan silinsin?</string>
-    <string name="xiaomi_connect_download_manager_fail">"Endirilənlərə bağlana bilmədi. Tənzimləmələr &gt; Quraşdırılmış tətbiqlər bölməsində tətbiqə lazımi icazələrin verilib-verilmədiyini yoxlayın."</string>
+    <string name="xiaomi_connect_download_manager_fail">"Endirilənlərə bağlana bilmədi. Ayarlar &gt; Quraşdırılmış tətbiqlər bölməsində tətbiqə lazımi icazələrin verilib-verilmədiyini yoxlayın."</string>
     <string name="xiaomi_external_storage_unavailable">"Anbar mövcud deyil. SD kartınızı yoxlayın."</string>
     <string name="xiaomi_update_dialog_message">"%1$s versiyasını təqdim edirik
 Həcmi: %2$s"</string>

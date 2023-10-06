@@ -751,7 +751,7 @@ vaxt qalmadı"</string>
     <string name="usage_home_permission_phone_title">Cihaz məlumatlarına müraciət</string>
     <string name="usage_home_premission_main_summary">"\"Ekran vaxtı\"na xoş gəldiniz! Bu tətbiqi ekran vaxtı limitlərini təyin etmək, statistikalara baxmaq və Fokus rejiminə keçmək üçün istifadə edə bilərsiniz. Bu tətbiqin normal işləməsi üçün ekran vaxtı məlumatlarını (məs. telefon kilidinin açılma sayı və ekran yandırma sayı, həmçinin tətbiqlərin istifadə edilmə vaxtı) yığması lazımdır."</string>
     <string name="usage_home_premission_main_summary_new">"\"Ekran vaxtı\"na xoş gəldiniz!
-Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yığması lazımdır: Ekran vaxtı statistikalarını yaratmaq üçün telefon kilidinin açılma sayı, tətbiq adları və tətbiq istifadə müddətləri tələb olunur; Fokus rejimi statistikalarını yaratmaq üçün Fokus rejimi tənzimləmələri tələb olunur.
+Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yığması lazımdır: Ekran vaxtı statistikalarını yaratmaq üçün telefon kilidinin açılma sayı, tətbiq adları və tətbiq istifadə müddətləri tələb olunur; Fokus rejimi statistikalarını yaratmaq üçün Fokus rejimi ayarları tələb olunur.
 Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb edir:"</string>
     <string name="usage_home_premission_main_summary_new_o">"\"Ekran vaxtı\"na xoş gəldiniz!
 Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yığması lazımdır: Ekran vaxtı statistikalarını yaratmaq üçün telefon kilidinin açılma sayı, tətbiq adları və tətbiq istifadə müddətləri tələb olunur.
@@ -805,7 +805,7 @@ Bu tətbiqin internetə bağlanması lazımdır və şəxsi məlumatlarınızı 
     <string name="usage_optional_summary">"Əlavə özəllikləri istifadə edərkən bu icazələr tələb olunur."</string>
     <string name="usage_optional_title">İxtiyari icazələr</string>
     <string name="usage_permisison_agree_desc_o">Sizi Ekran vaxtı statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı.</string>
-    <string name="usage_permisison_agree_desc_p">Sizi Ekran vaxtı və Fokus rejimi statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı, ekran yandırma sayı və Fokus rejimi tənzimləmələri.</string>
+    <string name="usage_permisison_agree_desc_p">Sizi Ekran vaxtı və Fokus rejimi statistikaları ilə təmin etmək üçün, bu tətbiqin aşağıdakı məlumatları yığması lazımdır: cihaz kilidinin açılma sayı, müvafiq istifadə müddətləri ilə tətbiqlərinizin siyahısı, ekran yandırma sayı və Fokus rejimi ayarları.</string>
     <string name="usage_permission_double_link" formatted="false"><Data>\"Bu tətbiqin normal işləyə bilməsi üçün internetə bağlanması və tələb olunan şəxsi məlumatları yığması lazımdır. Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamaq üçün &lt;a href=\'%1s\'&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\'%2s\'&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
     <string name="usage_permission_main_desc">"\"Ekran vaxtı\"na xoş gəldiniz!
 Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aşağıdakı icazələri tələb edir:"</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_settings">Tənzimləmələr</string>
+    <string name="action_settings">Ayarlar</string>
     <string name="activity_title_fakecell">Saxta baza stansiyalarından qorunma</string>
     <string name="app_name">Addım provayderi</string>
     <string name="booster_config_version">"Hazırkı versiya: "</string>

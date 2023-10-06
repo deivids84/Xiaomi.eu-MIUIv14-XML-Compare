@@ -364,7 +364,7 @@
     <string name="micloud_manual_pausing">Sinxrn. fasilə verildi</string>
     <string name="micloud_manual_reactivate">Yenidən aktivləşdir</string>
     <string name="micloud_manual_request_permission_cancel">İmtina</string>
-    <string name="micloud_manual_request_permission_confirm">Tənzimləmələr</string>
+    <string name="micloud_manual_request_permission_confirm">Ayarlar</string>
     <string name="micloud_manual_request_permission_content">Xidmətlərimizi istifadə edə bilmək üçün, Ayarlarda Xiaomi Cloud-a aşağıdakı icazələri verin: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">Əvvəlcə \"Güvənlik\"də tələb edilən icazələri verin</string>
     <string name="micloud_manual_request_permission_title">Tələb olunan icazələr</string>

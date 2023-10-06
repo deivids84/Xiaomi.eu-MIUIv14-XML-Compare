@@ -490,8 +490,8 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="device_pairing_dialog_message">Cütləşdirilir…</string>
     <string name="device_transfer_by_bluetooth_message">"%1$d. Digər cihazda Bluetooth-u açın. 
 
-- Bluetooth-u Android cihazlarında şəbəkə tənzimləmələrində tapa bilərsiniz.
-- iOS cihazlarında, Bluetooth Tənzimləmələr menyusundadır.
+- Bluetooth, Android cihazlarındakı şəbəkə ayarlarında tapıla bilər.
+- iOS cihazlarında, Bluetooth Ayarlar menyusundadır.
 
 %2$d. Kəşf oluna bilən rejimi, Android cihazlarında da açılmalıdır.
 
@@ -968,7 +968,7 @@ Səbəb: \"%s\""</string>
     <string name="preference_smart_group_location_title">Yerləşmələr</string>
     <string name="preference_smart_group_title">Ağıllı qruplar</string>
     <string name="preference_tone_title">Tonlar</string>
-    <string name="preference_yellowpage_function_setting">Sarı səhifələr tənzimləmələri</string>
+    <string name="preference_yellowpage_function_setting">Sarı səhifələr ayarları</string>
     <string name="presentation_payphone">Taksafon</string>
     <string name="presentation_private">Gizli nömrə</string>
     <string name="presentation_unknown">Bilinməyən nömrə</string>

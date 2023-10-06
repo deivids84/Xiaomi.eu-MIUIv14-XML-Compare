@@ -65,7 +65,7 @@
     <string-array name="settings_search_backup_setting">
         <item>Əsas ekranı Xiaomi Cloud-a nüsxələyin</item>
         <item>Əsas ekran düzümünü, quraşdırılmış tətbiqlərin siyahısını və sistem ayarlarını nüsxələyin</item>
-        <item>Cloud;Nüsxələ;Nüsxələmə;Cloud xidmətləri;Xiaomi Cloud;Əsas ekran;Düzüm;Tətbiqlər;Tənzimləmələr;Nüsxələmə tezliyi;Nüsxələri idarə et;Bərpa et</item>
+        <item>Cloud;Nüsxələ;Nüsxələmə;Cloud xidmətləri;Xiaomi Cloud;Əsas ekran;Düzüm;Tətbiqlər;Ayarlar;Nüsxələmə tezliyi;Nüsxələri idarə et;Bərpa et</item>
     </string-array>
     <string-array name="settings_search_browser">
         <item>Brauzeri Xiaomi Cloud ilə sinxronlaşdır</item>

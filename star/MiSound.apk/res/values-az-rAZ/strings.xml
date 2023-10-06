@@ -54,7 +54,7 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="dolby_atoms">Dolby Atmos</string>
-    <string name="dolby_dax_geq_select_title">Ön tənzimləmələr</string>
+    <string name="dolby_dax_geq_select_title">Ön ayarlar</string>
     <string name="dolby_dax_geq_title">Qrafik tarazlayıcı</string>
     <string name="dolby_dax_profile_dynamic">Dinamik</string>
     <string name="dolby_dax_setting">Dolby effektləri</string>
@@ -316,7 +316,7 @@
     <string name="music_customized_sound_summary">Səs səviyyəsini eşitmə qavrayışınıza görə özəlləşdirin</string>
     <string name="music_customized_sound_title">Səs tənzimləməsi</string>
     <string name="music_delete">Sil</string>
-    <string name="music_delete_sound_title">Ön tənzimləmələr silinir</string>
+    <string name="music_delete_sound_title">Ön ayarlar silinir</string>
     <string name="music_dirac_control">Səs keyfiyyətini optimallaşdır</string>
     <string name="music_dirac_mode_bluetooth_collar">Mi Bluetooth Boyun bandı qulaqlıqlığı</string>
     <string name="music_dirac_mode_bluetooth_linefree">Mi Bluetooth Qulaqlıqları (Line Ödənişsiz Buraxılışı)</string>
@@ -352,11 +352,11 @@
     <string name="music_headset_button_settings">Düymələri təyin et</string>
     <string name="music_headset_calibrate">Düymələri təyin et</string>
     <string name="music_headset_calibrate_apply">İstifadə et</string>
-    <string name="music_headset_calibrate_confirm">Tənzimləmələr tətbiq edilsin?</string>
+    <string name="music_headset_calibrate_confirm">Ayarlar tətbiq edilsin?</string>
     <string name="music_headset_calibrate_hint">Yuxarı düyməsinə basın</string>
     <string name="music_headset_calibrate_next_track">Növbəti mahnı</string>
     <string name="music_headset_calibrate_prev_track">Əvvəlki mahnı</string>
-    <string name="music_headset_calibrate_success">Tənzimləmələr tətbiq edildi</string>
+    <string name="music_headset_calibrate_success">Ayarlar tətbiq edildi</string>
     <string name="music_headset_calibrate_volume_down">Səsi azalt</string>
     <string name="music_headset_calibrate_volume_up">Səsi artır</string>
     <string name="music_headset_calibrate_wrong_key">"Bu yanlış düymədir"</string>
@@ -391,10 +391,10 @@
     <string name="music_rename_for_sound">Ön tənzimləməni yenidən adlandır</string>
     <string name="music_save">Saxla</string>
     <string name="music_sound">Ön tənzimləmə</string>
-    <string name="music_sound_for_mine">Özəl ön tənzimləmələr</string>
+    <string name="music_sound_for_mine">Özəl ön ayarlar</string>
     <string name="music_sound_num">Özəl ön tənzimləmə %s</string>
     <string name="music_sound_sample">Sistem ön ayarları</string>
-    <string name="music_sure_to_delete_sound_msg">Seçilmiş ön tənzimləmələr indi silinsin?</string>
+    <string name="music_sure_to_delete_sound_msg">Seçilmiş ön ayarlar indi silinsin?</string>
     <string name="music_thirty_to_sixty_years" formatted="false">%d-%d yaş</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"USB qulaqlıqları dəstəkləmir"</string>
@@ -408,7 +408,7 @@
     <string name="now_here">Bəs indi?</string>
     <string name="original_sound">Orijinal səsi oxut</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="permission_go_to_settings">Tənzimləmələr</string>
+    <string name="permission_go_to_settings">Ayarlar</string>
     <string name="permission_requesr_content">Ayarlarda bu tətbiqin yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
     <string name="permission_requesr_title">Tələb olunan icazələr</string>
     <string name="personal_sound">Tətbiq edilən ön tənzim. ilə oxut</string>

@@ -145,7 +145,7 @@
     <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Yerləşmə tələbləri aktivdir</string>
     <string name="accessibility_lock_icon">Cihaz kilidlənib</string>
-    <string name="accessibility_long_click_tile">Tənzimləmələri aç</string>
+    <string name="accessibility_long_click_tile">Ayarları aç</string>
     <string name="accessibility_managed_profile">İş profili</string>
     <string name="accessibility_manual_zen_less_time">Daha az vaxt.</string>
     <string name="accessibility_manual_zen_more_time">Daha çox vaxt.</string>
@@ -199,7 +199,7 @@
     <string name="accessibility_quick_settings_page">Səhifə %1$d/%2$d</string>
     <string name="accessibility_quick_settings_power_menu">Güc menyusu</string>
     <string name="accessibility_quick_settings_rotation">Ekranı avto-döndərmə</string>
-    <string name="accessibility_quick_settings_settings">Tənzimləmələri aç.</string>
+    <string name="accessibility_quick_settings_settings">Ayarları aç.</string>
     <string name="accessibility_quick_settings_user">%s kimi daxil olunub</string>
     <string name="accessibility_recent">İcmal</string>
     <string name="accessibility_ringer_silent">Zəng səsi səssizdədir.</string>
@@ -219,7 +219,7 @@
     <string name="accessibility_unlock_button">Kilidi aç</string>
     <string name="accessibility_voice_assist_button">Səsli kömək</string>
     <string name="accessibility_volume_close_odi_captions_tip">Altyazı məsləhəti</string>
-    <string name="accessibility_volume_settings">Səs tənzimləmələri</string>
+    <string name="accessibility_volume_settings">Səs ayarları</string>
     <string name="accessibility_vpn_on">VPN açıqdır.</string>
     <string name="accessibility_wallet_button">Pulqabı</string>
     <string name="accessibility_wifi_off">Wi-Fi bağlıdır.</string>
@@ -292,7 +292,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="animator_duration_scale_title">Animator müddəti miqyası</string>
     <string name="anniversary_status">İldönümü</string>
     <string name="anniversary_status_content_description">"%1$s - ildönümüdür"</string>
-    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) tənzimləmələri bu istifadəçi üçün əlçatan deyil</string>
+    <string name="apn_settings_not_available">Müraciət Nöqtəsi Adı (APN) ayarları bu istifadəçi üçün əlçatan deyil</string>
     <string name="app_info">Tətbiq məlumatı</string>
     <string name="app_label">Sistem interfeysi</string>
     <string name="app_process_limit_title">Arxaplan proses limiti</string>
@@ -492,7 +492,7 @@ seçimi"</string>
     <string name="bubble_overflow_button_content_description">Daşma</string>
     <string name="bubble_overflow_empty_subtitle">Son qabarcıqlar və rədd edilən qabarcıqlar burada görünəcək</string>
     <string name="bubble_overflow_empty_title">Son qabarcıqlar yoxdur</string>
-    <string name="bubbles_app_settings">%1$s tənzimləmələri</string>
+    <string name="bubbles_app_settings">%1$s ayarları</string>
     <string name="bubbles_dont_bubble_conversation">Danışığı qabarcıqlandırma</string>
     <string name="bubbles_settings_button_description">%1$s qabarcıq üçün tənzimləmələr</string>
     <string name="bubbles_user_education_description">Yeni danışıqlar üzən nişanlar və ya qabarcıqlar kimi görünür. Şarı qabarcığı üçün toxunun. Daşımaq üçün sürükləyin.</string>
@@ -1385,14 +1385,14 @@ EEE"</string>
     <string name="monitoring_description_managed_profile_network_logging">Admininiz, iş profilinizdəki trafiki izləyən, ancaq şəxsi profilinizdəki trafiki izləməyən şəbəkə jurnalını işə saldı.</string>
     <string name="monitoring_description_management">"Bu cihaz təşkilatınıza aiddir.
 
-IT admininiz tənzimləmələri, korpotativ müraciətləri, tətbiqləri, cihazınızla əlaqələndirilmiş dataları və cihazınızın yerləşmə məlumatlarını izləyə və idarə edə bilər.
+IT admininiz ayarları, korpotativ müraciətləri, tətbiqləri, cihazınızla əlaqələndirilmiş dataları və cihazınızın yerləşmə məlumatlarını izləyə və idarə edə bilər.
 
 Daha çox məlumat üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="monitoring_description_management_ca_certificate">Təşkilatınız, bu cihazda bir sertifikat səlahiyyəti quraşdırıb. Güvənli şəbəkə trafikiniz izlənə və ya dəyişdirilə bilər.</string>
     <string name="monitoring_description_management_network_logging">Admininiz, cihazınızdakı trafiki izləyən şəbəkə jurnalını işə saldı.</string>
     <string name="monitoring_description_named_management">"Bu cihaz %1$s aiddir.
 
-IT admininiz tənzimləmələri, korpotativ müraciətləri, tətbiqləri, cihazınızla əlaqələndirilmiş dataları və cihazınızın yerləşmə məlumatlarını izləyə və idarə edə bilər.
+IT admininiz ayarları, korpotativ müraciətləri, tətbiqləri, cihazınızla əlaqələndirilmiş dataları və cihazınızın yerləşmə məlumatlarını izləyə və idarə edə bilər.
 
 Daha çox məlumat üçün IT admininizlə əlaqə saxlayın."</string>
     <string name="monitoring_description_named_vpn">Bu cihaz %1$s üzərindən internetə bağlanıb. E-poçt və gəzinmə datası daxil olmaqla şəbəkə fəaliyyətiniz IT admininizə görünür.</string>
@@ -1629,7 +1629,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="pip_fullscreen">Tam ekran</string>
     <string name="pip_menu_title">Menyu</string>
     <string name="pip_move">Daşı</string>
-    <string name="pip_notification_message">"%s üçün bu özəlliyin istifadə olunmasını istəmirsinizsə, toxunaraq tənzimləmələri açın və həmin özəlliyi bağlayın."</string>
+    <string name="pip_notification_message">"%s üçün bu özəlliyin istifadə olunmasını istəmirsinizsə, toxunaraq ayarları açın və həmin özəlliyi bağlayın."</string>
     <string name="pip_notification_title">%s, \"şəkil daxilində şəkil\"i istifadə edir</string>
     <string name="pip_notification_unknown_title">(Başlıqsız proqram)</string>
     <string name="pip_pause">Fasilə ver</string>

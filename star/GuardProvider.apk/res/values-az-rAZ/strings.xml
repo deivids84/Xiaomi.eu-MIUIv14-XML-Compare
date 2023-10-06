@@ -24,7 +24,7 @@
     <string name="common_ids_permission_label">Avast ortaq kimliklər icazəsi</string>
     <string name="guid_hint">GUID</string>
     <string name="hello_world">Salam dünya!</string>
-    <string name="menu_settings">Tənzimləmələr</string>
+    <string name="menu_settings">Ayarlar</string>
     <string name="set_button">SET</string>
     <string name="tencent_dialog_cloudscan">Onlayn virus təriflərini istifadə edərək tətbiq adlarını və detallarını yükləyib skan edin.</string>
     <string name="tencent_dialog_dbupdate">Virus təriflərini avto-güncəllə</string>

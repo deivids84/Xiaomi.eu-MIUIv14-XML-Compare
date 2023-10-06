@@ -326,7 +326,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_send">Göndər</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
     <string name="pa_express_send_provider_xiaomi">Mi Express</string>
-    <string name="pa_express_setting">Sürətli çatdırılma tənzimləmələri</string>
+    <string name="pa_express_setting">Sürətli çatdırılma ayarları</string>
     <string name="pa_express_setting_authorized_number_limit">Ən çox 4 telefon nömrəsi əlavə edə bilərsiniz</string>
     <string name="pa_express_setting_dialog_delete_failed">"Telefon nömrəsi silinə bilmədi"</string>
     <string name="pa_express_setting_dialog_delete_success">Telefon nömrəsi silindi</string>
@@ -486,7 +486,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_state_error_retry">Nəsə səhv getdi. Yenidən sınayın.</string>
     <string name="pa_picker_detail_suit_price_already_bought">Satın alındı</string>
     <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
-    <string name="pa_picker_detail_theme_app_cta">Tənzimləmələr</string>
+    <string name="pa_picker_detail_theme_app_cta">Ayarlar</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Bu vicet istifadə edə bilmək üçün əvvəlcə \"Temalar\"ın internetə bağlanmasına icazə verin. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Daxil olun</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Əvvəlcə Xiaomi Hesabınıza daxil olun. "</string>
@@ -530,7 +530,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_picker_recommend_bottom_button_download_and_add">Vicet əlavə et</string>
     <string name="pa_picker_recommend_download_tip">Bir vicet əlavə etdikdə, əlaqələndirilmiş tətbiq avtomatik endiriləcək</string>
     <string name="pa_picker_recommend_title">Sizin üçün tövsiyə edilən</string>
-    <string name="pa_picker_request">Tənzimləmələr</string>
+    <string name="pa_picker_request">Ayarlar</string>
     <string name="pa_picker_retry">Yenidən sına</string>
     <string name="pa_picker_search">Axtar</string>
     <string name="pa_picker_search_card_filter_button_text">Bütün vicetlər</string>
@@ -582,7 +582,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_search_hint">Axtar</string>
     <string name="pa_search_summary">Axtarış çubuğunu göstər</string>
     <string name="pa_search_title">Axtar</string>
-    <string name="pa_setting">Tənzimləmələr</string>
+    <string name="pa_setting">Ayarlar</string>
     <string name="pa_setting_app_usage_auth_close_auth">Söndür</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Bu özəlliyi söndürdürdən sonra \"Tətbiq təklifləri\" vicetini istifadə edə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Diqqət</string>
@@ -654,7 +654,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Bu özəlliyi istifadə edə bilmək üçün Alış-veriş Gizlilik Siyasəti ilə razılaşın. Baxmaq üçün toxunun.</string>
     <string name="pa_shopping_widget_no_privacy_content_main_desc">Alış-veriş</string>
     <string name="pa_shopping_widget_no_privacy_content_sub_desc">Sevimli e-ticarət platformalarınız üzrə kuponlar və təkliflər əldə etmək üçün bu vicetə icazələr verin</string>
-    <string name="pa_shopping_widget_no_setting_content_desc">Tənzimləmələr</string>
+    <string name="pa_shopping_widget_no_setting_content_desc">Ayarlar</string>
     <string name="pa_shopping_widget_np_privacy_bottom_text">İcazə ver</string>
     <string name="pa_shopping_widget_title">Alış-veriş</string>
     <string name="pa_shortcut_accessibility_description">"Tətbiq kassası, seçilmiş üçüncü tərəf tətbiqlər üçün qısayollar təmin edir. Bu özəlliyi söndürsəniz, bu qısayollar işləməyəcək."</string>

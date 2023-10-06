@@ -152,7 +152,7 @@
     <string name="additional_gsm_call_settings_with_label">Əlavə ayarlar (%s)</string>
     <string name="administrative_disable">Administrativ sıradan çıxarıldı</string>
     <string name="administrative_enable">Administrativ fəallaşdırıldı</string>
-    <string name="advanced_mobile_settings">Qabaqcıl tənzimləmələr</string>
+    <string name="advanced_mobile_settings">Qabaqcıl ayarlar</string>
     <string name="advanced_options_title">Qabaqcıl</string>
     <string name="advanced_settings_hide">▽ Hamısını gizlətmək üçün toxunun</string>
     <string name="advanced_settings_show">▷ Hamısını göstərmək üçün toxunun</string>
@@ -348,7 +348,7 @@
     <string name="callFailed_wfc_service_not_available_in_this_location">Bu yerləşmədə Wi-Fi zəngi əlçatmazdır.</string>
     <string name="callFailed_wifi_lost">Wi-Fi bağlantısı itdi. Zəng sonlandırıldı.</string>
     <string name="callUnanswered_forwarded">Zəng cavablanmadı və yönləndirildi</string>
-    <string name="call_advanced_setting_title">Qabaqcıl tənzimləmələr</string>
+    <string name="call_advanced_setting_title">Qabaqcıl ayarlar</string>
     <string name="call_barring">Zəng qadağası</string>
     <string name="call_barring_baic">Bütün gələn zənglər</string>
     <string name="call_barring_baic_disabled">Bütün gələn zənglər əngəllənsin?</string>
@@ -377,7 +377,7 @@
     <string name="call_barring_old_pwd">Köhnə parol</string>
     <string name="call_barring_pwd_not_match">Parollar uyğun gəlmir</string>
     <string name="call_barring_right_pwd_number">4 rəqəmli parolu daxil edin</string>
-    <string name="call_barring_settings">Zəng qadağası tənzimləmələri</string>
+    <string name="call_barring_settings">Zəng qadağası ayarları</string>
     <string name="call_barring_sum">Səsli zəng qadağası ayarları</string>
     <string name="call_category">Zəng edilir</string>
     <string name="call_description_recording">Səs yazılır…</string>
@@ -413,7 +413,7 @@
     <string name="call_settings">Zəng ayarları</string>
     <string name="call_settings_admin_user_only">Zəng ayarları yalnız admin tərəfindən dəyişdirilə bilər.</string>
     <string name="call_settings_primary_user_only">Zəng ayarları yalnız əsas istifadəçi tərəfindən dəyişdirilə bilər.</string>
-    <string name="call_settings_with_label">Tənzimləmələr (%s)</string>
+    <string name="call_settings_with_label">Ayarlar (%s)</string>
     <string name="call_waiting_summary">Zəng əsnasında, digər gələn zəngləri bildir</string>
     <string name="call_waiting_title">Zəng gözlətmə</string>
     <string name="call_waiting_tone_continuously">Bildiriş səsini davamlı oxut</string>
@@ -566,7 +566,7 @@
     <string name="cloud_sim_enabled_preferred_network_summary">"Mi Rouminq istifadə edərkən şəbəkə tərcihləri dəyişdirilə bilmir"</string>
     <string name="cmcc_ut_data_enable_prompt">Bu xidmət, mobil internet bağlantısı tələb edir. Davam etmək işə salın.</string>
     <string name="command_error_fdn_failure">Əvvəlcə FDN-ni söndürməlisiniz</string>
-    <string name="config_default_data_sim">Tənzimləmələr</string>
+    <string name="config_default_data_sim">Ayarlar</string>
     <string name="confirmPin2Label">Yeni PIN2-ni təsdiqləyin</string>
     <string name="confirmPinLabel">Yeni PIN-i təsdiqləyin</string>
     <string name="confirm_password_label">Yeni parolu təsdiqlə</string>
@@ -862,7 +862,7 @@ Bu problem davam etsə, mobil operatorunuzla əlaqə saxlayın."</string>
     <string name="fw_get_in_vm_failed">"Hazırkı yönləndirmə nömrəsi ayarları alına və saxlanıla bilmədi.
 Yenə də yeni provayderə keçilsin?"</string>
     <string name="general_news_settings">Ümumi xəbərlər</string>
-    <string name="general_setting">Tənzimləmələr</string>
+    <string name="general_setting">Ayarlar</string>
     <string name="general_settings_category">Ümumi</string>
     <string name="get_pin2">PIN2-ni daxil edin</string>
     <string name="get_smsc_address_error">"Şəbəkə ilə bağlantı qurula bilmir."</string>
@@ -2140,7 +2140,7 @@ Fövqəladə hal zəngləri, yalnız şəbəkənin əhatə dairəsində olan ər
     <string name="wifi_call_help">Kömək</string>
     <string name="wifi_call_help_message_1">"Wi-Fi Zəngi, Orange tərəfindən sizə Wi-Fi vasitəsilə zəng etmək və almaq imkanı verən xidmətdir. Bu özəllik mobil şəbəkənin əhatə dairəsi zəif olan ərazilərdə istifadə edilə bilər.
 
-Wi-Fi Zəngini istifadə etmək üçün onu Tənzimləmələr &gt; \"Wi-Fi Zəngi\"ndə işə salın.
+Wi-Fi Zəngini istifadə etmək üçün onu Ayarlar &gt; \"Wi-Fi Zəngi\"ndə işə salın.
 
 Xidməti aktivləşdirmək üçün Orange, xidmət əlçatan olduqda sizə təsdiq mesajı göndərəcək. Bundan sonra Wi-Fi şəbəkəsinə bağlanıb zəng edə biləcəksiniz.
 

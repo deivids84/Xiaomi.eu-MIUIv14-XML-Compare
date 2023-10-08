@@ -644,7 +644,7 @@ seçimi"</string>
     <string name="start_new_trace">Yeni izləmə başlat</string>
     <string name="status_unavailable">Əlçatmazdır</string>
     <string name="stop_on_bugreport">Xəta hesabatları üçün izləməni dayandır</string>
-    <string name="stop_on_bugreport_summary">Xəta hesabatı başladılanda aktiv izləmə qeydlərini bitirir</string>
+    <string name="stop_on_bugreport_summary">Xəta hesabatı başladılanda aktiv izləmə yazılarını bitirir</string>
     <string name="stop_tracing">İzləməni dayandır</string>
     <string name="storage_category">Anbar</string>
     <string name="strict_mode">Sərt rejim fəaldır</string>

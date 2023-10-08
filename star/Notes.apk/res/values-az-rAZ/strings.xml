@@ -113,8 +113,8 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_alarm_reminder">Zəngli saat</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="date_time_picker_has_not_set_alarm">"Zəngli saat ayarlanmadı"</string>
-    <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla ayarlandı</string>
+    <string name="date_time_picker_has_not_set_alarm">"Zəngli saat qurulmadı"</string>
+    <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla quruldu</string>
     <string name="db_downgrade_clear_button">Tətbiq datasını təmizlə</string>
     <string name="db_downgrade_clear_date_reminder">"Fərqli bir MIUI versiyasına keçmək, Qeydlər üçün tətbiq datasının təmizlənməsini tələb edir. Bunu etməzdən əvvəl, qeydlərinizi buluda nüsxələdiyinizə əmin olun."</string>
     <string name="default_folder_name">Adsız qovluq</string>
@@ -642,7 +642,7 @@
     <string name="select_account_prompt">Qeydləri sinxronlaşdır</string>
     <string name="send">Göndər</string>
     <string name="send_notifications_for_reminder">Xatırladıcı göndərmək üçün</string>
-    <string name="set_alarm_description">Zəngli saatı ayarla</string>
+    <string name="set_alarm_description">Zəngli saat qur</string>
     <string name="setting_big_screen_layout_columns">Yan çubuğu</string>
     <string name="setting_big_screen_layout_flat">Xanalar</string>
     <string name="setting_big_screen_layout_title">Böyük ekran düzümü</string>

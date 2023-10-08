@@ -40,7 +40,7 @@
     <string name="alarm_clock_more_setting">Əlavə ayarlar</string>
     <string name="alarm_disabled">Bağlı</string>
     <string name="alarm_in_furture_new">Zəngli saat %d dəqiqədən az vaxtda çalacaq</string>
-    <string name="alarm_klaxon_service_desc">Saat tətbiqində ayarlanan zəngli saatlar üçün səs oxutma xidməti.</string>
+    <string name="alarm_klaxon_service_desc">Saat tətbiqində qurulan zəngli saatlar üçün səs oxutma xidməti.</string>
     <string name="alarm_list_title">Zəngli saat</string>
     <string name="alarm_notify_snooze_label">%s ertələmə</string>
     <string name="alarm_permanent_alert">Zəng çalır</string>

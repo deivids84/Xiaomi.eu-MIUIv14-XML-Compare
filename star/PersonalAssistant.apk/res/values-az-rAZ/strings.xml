@@ -271,7 +271,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_edit_not_repeat">"Təkrarlamayın"</string>
     <string name="pa_edit_repeat">Təkrarla</string>
     <string name="pa_edit_select_image">Format</string>
-    <string name="pa_edit_set_time">Vaxtı tənzimlə</string>
+    <string name="pa_edit_set_time">Vaxtı ayarla</string>
     <string name="pa_edit_state_onoff">Kontrol statusu</string>
     <string name="pa_edit_switch">Dəyişdir</string>
     <string name="pa_edit_text">Görüntülənən element</string>
@@ -815,7 +815,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="today">Bu gün</string>

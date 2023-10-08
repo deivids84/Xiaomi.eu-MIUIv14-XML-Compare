@@ -1179,7 +1179,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Mesajlar</item>
         <item>Fotolar</item>
         <item>Fayllar</item>
-        <item>Qeydlər</item>
+        <item>Notlar</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>

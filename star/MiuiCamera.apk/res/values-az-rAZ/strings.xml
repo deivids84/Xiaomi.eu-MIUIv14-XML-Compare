@@ -43,7 +43,7 @@
     <string name="accessibility_beauty_panel_open">Gözəlləşdirmə menyusu açıldı</string>
     <string name="accessibility_beauty_switch_closed">Gözəlləşdirmə bağlıdır</string>
     <string name="accessibility_beauty_switch_open">Gözəlləşdirmə açıqdır</string>
-    <string name="accessibility_bokeh_adjust">Arxaplan bulanıqlığı nizamlanır</string>
+    <string name="accessibility_bokeh_adjust">Arxaplan bulanıqlığını ayarlama</string>
     <string name="accessibility_bokeh_level">F%1$s açıqlıq</string>
     <string name="accessibility_bokeh_normal">Ön kameranın arxaplan bulanıqlığı bağlıdır</string>
     <string name="accessibility_bokeh_on">Ön kameranın arxaplan bulanıqlığı açıqdır</string>
@@ -185,7 +185,7 @@
     <string name="accessibility_shutter_process_button">Çəkilir</string>
     <string name="accessibility_shutter_resume_button">Davam et</string>
     <string name="accessibility_shutter_saving_button">Saxlanılır</string>
-    <string name="accessibility_stereo_button">Fokus tənzimləməsi</string>
+    <string name="accessibility_stereo_button">Fokus ayarı</string>
     <string name="accessibility_super_eis_off">Sabit video bağlıdır</string>
     <string name="accessibility_super_eis_on">Sabit video açıqdır</string>
     <string name="accessibility_super_eis_pr_on">Sabit video PRO açıqdır</string>
@@ -197,7 +197,7 @@
     <string name="accessibility_time">Vaxt</string>
     <string name="accessibility_timer_burst_image_off">Vaxtlı ardıcıl çəkiliş sönülüdür</string>
     <string name="accessibility_timer_burst_image_on">Vaxtlı ardıcıl çəkiliş işə salındı</string>
-    <string name="accessibility_timer_burst_text">Vaxtlı ardıcıl çəkiliş tənzimləmə paneli</string>
+    <string name="accessibility_timer_burst_text">Vaxtlı ardıcıl çəkiliş ayarlama paneli</string>
     <string name="accessibility_touch_focus_fail">"Fokuslana bilmədi"</string>
     <string name="accessibility_touch_focus_success">Uğurla fokuslandı</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD bağlıdır</string>
@@ -208,7 +208,7 @@
     <string name="accessibility_video_capture_button">Video yazarkən foto çəkmək üçün düymə</string>
     <string name="accessibility_video_pause_button">Video yazmaya fasilə verildi</string>
     <string name="accessibility_video_resume_button">Video yazma davam etdirilir</string>
-    <string name="accessibility_whitebalance_custom_panel_on">Əllə tənzimləmə paneli</string>
+    <string name="accessibility_whitebalance_custom_panel_on">Əllə ayarlama paneli</string>
     <string name="accessibility_zoom_button">Yaxınlaşdırma rejimi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -288,7 +288,7 @@
     <string name="ai_scene_mode_tutuk">Üç təkərli</string>
     <string name="ai_scene_mode_unknown">Bilinmir</string>
     <string name="ai_scene_mode_use_hint_text">"AI ilə səhnələri tanıyın
-və tərcihləri avtomatik tənzimləyin"</string>
+və tərcihləri avtomatik ayarlayın"</string>
     <string name="ai_scene_top_moon_off">Zəif işıq rejimi</string>
     <string name="ai_scene_top_tip">Ay rejimi</string>
     <string name="ai_shanghai">Şanxay</string>
@@ -317,7 +317,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="ambilight_intro_crowd_moving_part1">İzdihamlı küçədə şəkil çəkərkən, obyektdən sabit dayanmağını istəyin. Digər insanlar bulanıq izlər kimi görünəcək.</string>
     <string name="ambilight_intro_crowd_moving_part2">Həmçinin sıx trafikin və hərəkətdə olan izdihamın şəkillərini çəkə bilərsiniz. Uzun ekspozisiya, binaları canlı saxlayacaq, ancaq bütün hərəkət edən obyektlər bulanıq olacaq.</string>
     <string name="ambilight_intro_light_track">Bütün işıqlı parçaları tək bir təsvirdə bir araya gətirmək məqsədilə qaranlıq bir səhnəni \"boyamaq\" üçün işıq mənbəyini istifadə edin.</string>
-    <string name="ambilight_intro_magic_star">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə tənzimlənəcək, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
+    <string name="ambilight_intro_magic_star">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə ayarlanacaq, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
     <string name="ambilight_intro_magic_star_ae">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə qədər ayarlana bilər, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
     <string name="ambilight_intro_silky_water_part1">Hərəkətli buludları çəkərkən bu rejimi istifadə edin. Səmaya \"yağlı boya\" effekti verəcək.</string>
     <string name="ambilight_intro_silky_water_part2">Bu rejim hərəkətli suyun (çaylar, şəlalələr və göllər) atlaz kimi görünməsini təmin edir.</string>

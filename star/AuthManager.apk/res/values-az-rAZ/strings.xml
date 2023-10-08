@@ -91,7 +91,7 @@
     <string name="HIPS_Perm_get_tasks_Desc">tapşırıqları alar</string>
     <string name="HIPS_Perm_install_shortcut">Əsas ekran qısayolları</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Əsas ekrana qısayollar əlavə edər</string>
-    <string name="HIPS_Perm_mediaVolume">Medianın səs həcmini tənzimlə</string>
+    <string name="HIPS_Perm_mediaVolume">Medianın səs həcmini ayarla</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Tətbiqin media səs səviyyəsini ayarlamasına icazə verin</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Daxil olmaq üçün telefon nömrəsinə müraciət</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Daxil olmaq üçün operatordan telefon nömrəsini alır</string>

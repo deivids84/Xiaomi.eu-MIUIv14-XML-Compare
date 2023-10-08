@@ -73,8 +73,8 @@
     <string name="input_method_edit_phrase_text">Çox işlədilən ifadələrə düzəliş et</string>
     <string name="input_method_function_clipboard">Lövhə və çox işlədilən ifadələr</string>
     <string name="input_method_function_select_guide_title">Daha çox seçim üçün basılı tutun</string>
-    <string name="input_method_function_select_left_view_title">Sol düymə üçün funksiyanı tənzimlə</string>
-    <string name="input_method_function_select_right_view_title">Sağ düymə üçün funksiyanı tənzimlə</string>
+    <string name="input_method_function_select_left_view_title">Sol düymə üçün funksiyanı ayarla</string>
+    <string name="input_method_function_select_right_view_title">Sağ düymə üçün funksiyanı ayarla</string>
     <string name="input_method_function_switch">Klaviaturalar arasında keçid</string>
     <string name="input_method_function_switch_keyboard_language">Dilləri dəyişdir</string>
     <string name="input_method_function_switch_keyboard_type">Klaviaturanı dəyişdir</string>
@@ -169,7 +169,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>

@@ -152,9 +152,9 @@
     <string name="saturday_shortest">Şən</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
-    <string name="set_password_main_user">Əsas istifadəçi üçün parol tənzimlə</string>
+    <string name="set_password_main_user">Əsas istifadəçi üçün parolu ayarla</string>
     <string name="set_password_main_user_context">Datanızın güvənliyini təmin etmək üçün lütfən bir kilid ekranı parolu təyin edin. Unutmayın, parol geri alına bilmir. Baxım rejimini bağlayarkən, təyin etdiyiniz kilid ekranı parolunu doğrulamağınız lazımdır.</string>
-    <string name="setting">Tənzimləmə</string>
+    <string name="setting">Ayar</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>

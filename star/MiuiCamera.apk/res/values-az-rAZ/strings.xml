@@ -318,7 +318,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="ambilight_intro_crowd_moving_part2">Həmçinin sıx trafikin və hərəkətdə olan izdihamın şəkillərini çəkə bilərsiniz. Uzun ekspozisiya, binaları canlı saxlayacaq, ancaq bütün hərəkət edən obyektlər bulanıq olacaq.</string>
     <string name="ambilight_intro_light_track">Bütün işıqlı parçaları tək bir təsvirdə bir araya gətirmək məqsədilə qaranlıq bir səhnəni \"boyamaq\" üçün işıq mənbəyini istifadə edin.</string>
     <string name="ambilight_intro_magic_star">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə tənzimlənəcək, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
-    <string name="ambilight_intro_magic_star_ae">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə qədər tənzimlənə bilər, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
+    <string name="ambilight_intro_magic_star_ae">Bu rejimi az işıq kirliliyi olan məkanlarda istifadə edin. Ekspozisiya %d saniyəyə qədər ayarlana bilər, buna görə tripod istifadə etmək yaxşı bir fikirdir.</string>
     <string name="ambilight_intro_silky_water_part1">Hərəkətli buludları çəkərkən bu rejimi istifadə edin. Səmaya \"yağlı boya\" effekti verəcək.</string>
     <string name="ambilight_intro_silky_water_part2">Bu rejim hərəkətli suyun (çaylar, şəlalələr və göllər) atlaz kimi görünməsini təmin edir.</string>
     <string name="ambilight_intro_star_track">"Ulduzlu səmanı uzun müddət çəkmək ulduzların traektoriyalarını yaxalaya bilər. Tripod istifadə etməyi və ən azı %d dəqiqə fasiləsiz çəkməyi unutmayın."</string>
@@ -334,7 +334,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Bir tripod istifadə edin</string>
     <string name="ambilight_tips_for_using_tripod">Bir tripod istifadə edin</string>
     <string name="audio_focus_exit_button_text">Səs fokusunu söndür</string>
-    <string name="audio_map_summary_tip">Sol və sağ kanalların səs səviyyələrini real vaxtda izləyin və diyircəyi istifadə edərək tənzimləyin</string>
+    <string name="audio_map_summary_tip">Sol və sağ kanalların səs səviyyələrini real vaxtda izləyin və diyircəyi istifadə edərək ayarlayın</string>
     <string name="auto_hibernation_enter_tip">Ekran sönmək üzrədir…</string>
     <string name="autozoom_click_hint">"Hərəkətdə olarkən fokusda tutmaq üçün bir obyektə toxunun. Ən yaxşı effekt üçün ən azı %d metr uzaqda qalın."</string>
     <string name="autozoom_disabled_hint">Hərəkət edən obyektin izlənilməsi dayandırıldı</string>
@@ -444,7 +444,7 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="ccc_temperature_warning_title">Cihaz aşırı isinib</string>
     <string name="center_mark">Mərkəz işarəsi</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="clone_adjust">Tənzimlə</string>
+    <string name="clone_adjust">Ayarla</string>
     <string name="clone_copy_mode">Kadrı dondur</string>
     <string name="clone_do_not_move_phone">"Cihazınızı hərəkət etdirməyin"</string>
     <string name="clone_drag_to_adjust_the_posture">Ayarlamaq üçün seçib sürükləyin</string>
@@ -476,8 +476,8 @@ və tərcihləri avtomatik tənzimləyin"</string>
     <string name="close">Bağla</string>
     <string name="close_back_flash_toast">Aşırı isinməyə görə fənər söndürüldü</string>
     <string name="close_front_flash_toast">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
-    <string name="close_night_algo_toast_low_power">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı doldurun</string>
-    <string name="close_night_algo_toast_thermal">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı soyudun</string>
+    <string name="close_night_algo_toast_low_power">Ekspozisiyanı ayarlaya bilmək üçün cihazınızı doldurun</string>
+    <string name="close_night_algo_toast_thermal">Ekspozisiyanı ayarlaya bilmək üçün cihazınızı soyudun</string>
     <string name="color_effect_entry_berry">Giləmeyvələr</string>
     <string name="color_effect_entry_blackgold">Qızıl titrəmələr</string>
     <string name="color_effect_entry_blackgold_describe">Bu yüksək kontrastlı filtr yalnız sarı və tünd mavi rəngləri saxlayır. Onu gecə şəhərinin yaxşı işıqlandırılmış küçələrində istifadə edin.</string>
@@ -783,7 +783,7 @@ Kopyanı A4 kağızında naqilsiz çap edin."</string>
     <string name="id_card_mode_use_hint_text_title">Kimliyi skan et</string>
     <string name="install_confirmed">Quraşdır</string>
     <string name="invisible_mode_dialog_cancel">İmtina</string>
-    <string name="invisible_mode_dialog_summary">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Tənzimləmərdəki Gizli rejimi söndürün."</string>
+    <string name="invisible_mode_dialog_summary">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Ayarlardakı Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="invisible_mode_dialog_to_close">Ayarlar</string>
     <string name="kaleidoscope_fragment_tab_name">Kaleydoskop</string>
@@ -824,7 +824,7 @@ Daha yaxşı effekt üçün linzanı təmizləyin."</string>
     <string name="live_edit_exit_message">Çəkiliş indi dayandırılsın?</string>
     <string name="live_edit_exit_message_draft">Qaralama kimi saxla</string>
     <string name="live_edit_share_title">Paylaş</string>
-    <string name="live_error_confirm">Vaxtı tənzimlə</string>
+    <string name="live_error_confirm">Vaxtı ayarla</string>
     <string name="live_error_message">Sistem vaxtı yanlış olduqda bəzi özəlliklər düzgün işləməyə bilər.</string>
     <string name="live_error_title">"Sistem vaxtı doğru deyil"</string>
     <string name="live_music_author">Xiaomi Qısa Video</string>
@@ -1138,7 +1138,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="only_mimoji_multi_window_mode_not_supported">"Bu özəllik çoxlu pəncərə rejimində istifadə edilə bilməz"</string>
     <string name="pad_cannot_connect_camera_twice">"Kameraya hələ də bağlana bilmir. Cihazınızı yenidən başlatmağa çalışın."</string>
     <string name="pad_close_back_flash_toast">"Cihazınız aşırı isinib. İndi fənər istifadə edilə bilmir."</string>
-    <string name="pad_close_night_algo_toast_thermal">Ekspozisiyanı tənzimləyə bilmək üçün cihazınızı soyudun</string>
+    <string name="pad_close_night_algo_toast_thermal">Ekspozisiyanı ayarlaya bilmək üçün cihazınızı soyudun</string>
     <string name="pad_pref_camera_lying_summary">Cihaz yerə paralel olduqda hazırkı istiqaməti bildir</string>
     <string name="pad_super_night_toast">Foto çəkərkən cihazınızı sabit saxlayın</string>
     <string name="pano_click_to_toggle_direction">İstiqaməti dəyişdirmək üçün oxa toxunun</string>
@@ -1152,12 +1152,12 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_description_pro_capture_title">Foto çəkmək üçün Pro özəlliklər</string>
     <string name="parameter_description_pro_video_title">Video çəkmək üçün Pro özəlliklər</string>
     <string name="parameter_description_sub_title">Foto və videolarınız üzərində daha yaradıcı nəzarətə sahib olun</string>
-    <string name="parameter_ef_split_description">Ekspozisiya halqasını fokus halqasından uzağa sürükləyə və iki parametri ayrıca tənzimləyə bilərsiniz.</string>
+    <string name="parameter_ef_split_description">Ekspozisiya halqasını fokus halqasından uzağa sürükləyə və iki parametri ayrıca ayarlaya bilərsiniz.</string>
     <string name="parameter_ef_split_title">Ayrıca fokuslama və ekspozisiya ölçmə</string>
     <string name="parameter_et_description">"Avtomatik sürgü sürəti, kameranın işıqölçəni tərəfindən müəyyən edilir. Sürgü sürətini əllə seçdiyiniz zaman yadda saxlayın ki, sürgü nə qədər uzun müddət açıq qalsa sensora bir o qədər çox işıq daxil olur və bu da, şəklinizi daha parlaq edir."</string>
     <string name="parameter_et_title">Çəkiliş sürəti</string>
     <string name="parameter_exposure_description">Bu özəllik şəklinizin, miqyasın təklif etdiyindən daha parlaq və ya daha qaranlıq olmasını istədiyiniz zaman ekspozisiyanı kompensasiya etməyinizə icazə verir.</string>
-    <string name="parameter_exposure_feecback_description">Ekspozisiyanı düzgün tənzimləyə bilmək üçün az ekspozisiya edilmiş əraziləri mavi rənglə, çox ekspozisiya edilmiş əraziləri isə qırmızı rənglə vurğulayın.</string>
+    <string name="parameter_exposure_feecback_description">Ekspozisiyanı düzgün ayarlaya bilmək üçün az ekspozisiya edilmiş əraziləri mavi rənglə, çox ekspozisiya edilmiş əraziləri isə qırmızı rənglə vurğulayın.</string>
     <string name="parameter_exposure_feecback_title">Ekspozisiya doğrulaması</string>
     <string name="parameter_exposure_title">Ekspozisiya kompensasiyası</string>
     <string name="parameter_focus_description">Həm əllə, həm də avtomatik olaraq fokuslaya bilərsiniz. Diyircəkdə seçdiyiniz fokus dəyəri nə qədər böyük olsa, fokuslanan sahə linzadan bir o qədər uzaq olacaq.</string>
@@ -1177,7 +1177,7 @@ göstərmək üçün Makro rejimi istifadə edin"</string>
     <string name="parameter_lens_w">WIDE (geniş bucaqlı linza)</string>
     <string name="parameter_log_format_description">Bu format, parlaq nöqtələrdə və kölgələrdə daha çox detal əldə etmək üçün ekspozisiya əyrisinə tətbiq edilən loqarifmik funksiya ilə videonu yazır və sizə son emalda daha çox seçim imkanı verir.</string>
     <string name="parameter_log_format_title">LOG formatı</string>
-    <string name="parameter_manual_picturestyle_description">Doydurma, rənglərin dərinliyini və intensivliyini idarə etməyinizə imkan verir, kontrastın tənzimlənməsi açıq və qaranlıq arasındakı fərqi ortaya çıxarır və ya minimuma endirir, kəskinlik isə detalları konturlar boyunca emal edir.</string>
+    <string name="parameter_manual_picturestyle_description">Doydurma, rənglərin dərinliyini və intensivliyini idarə etməyinizə imkan verir, kontrastın ayarlanması açıq və qaranlıq arasındakı fərqi ortaya çıxarır və ya minimuma endirir, kəskinlik isə detalları konturlar boyunca emal edir.</string>
     <string name="parameter_metering_description">Ortalama ölçmə, təsvirinizin bütün sahələrini nəzərə alır, bərabər işıqlandırılmış səhnələr üçün ən yaxşı nəticəni verir. Mərkəz ağırlıqlı ölçmə, əsasən kadrın mərkəzi sahəsinə fokuslanır və ətraf ərazinin parlaqlığına lazımi diqqət yetirir, bu da obyektləri kadrın mərkəzində çəkmək üçün uyğundur. Nöqtə ölçmə, yalnız bir nöqtədəki ərazini əhatə edərək sizə ekspozisiya üzərində dəqiq nəzarət imkan verir.</string>
     <string name="parameter_metering_title">Ölçmə rejimləri</string>
     <string name="parameter_peak_focus_description">"Əllə fokuslandığınız zaman, fokuslanan sahəyə qırmızı bir vurğu yerləşdirmək üçün fokus zirvəsini istifadə edin."</string>
@@ -1254,8 +1254,8 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_audio_focus_title">Səs fokusu</string>
     <string name="pref_auto_boot">Avto-başlatma</string>
     <string name="pref_auto_boot_summary">Avto-başladılmasına icazə verərək Kameranı daha həssas edin. Tətbiq detallarında avto-başlatma icazələrini idarə edə bilərsiniz.</string>
-    <string name="pref_beauty_me_mp_switch_desc">Qrup fotolarında kişilər üçün makiyaj effektlərini tənzimləyin</string>
-    <string name="pref_beauty_me_mp_switch_title">Kişilər üçün makiyaj elementlərini tənzimləyin</string>
+    <string name="pref_beauty_me_mp_switch_desc">Qrup fotolarında kişilər üçün makiyaj effektlərini ayarlayın</string>
+    <string name="pref_beauty_me_mp_switch_title">Kişilər üçün makiyaj elementlərini ayarlayın</string>
     <string name="pref_beauty_nvs_wp_desc">Dəri hamarlaşdırıcı effektləri istifadə edərkən xalları silin</string>
     <string name="pref_beauty_nvs_wp_title">Xalları sil</string>
     <string name="pref_burst_shoot_title">Ardıcıl çəkiliş</string>
@@ -1319,7 +1319,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_dual_sat_enable_title">İkili SAT kameranı aç</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Video keyfiyyətini təkmilləşdirmək üçün aşağı zəif və ya yüksək temperatur şəraitində kadr sürəti avtomatik olaraq endirilir</string>
     <string name="pref_camera_dynamic_frame_rate_summary_new">Zəif işıqlı və ya yüksək temperaturlu mühitlərdə videolar üçün kadr sürətini avtomatik azalt</string>
-    <string name="pref_camera_dynamic_frame_rate_title">Kadr sürətini zəif işığa tənzimlə</string>
+    <string name="pref_camera_dynamic_frame_rate_title">Kadr sürətini zəif işığa ayarla</string>
     <string name="pref_camera_dynamic_frame_rate_title_new">Avto-kadr tezliyi</string>
     <string name="pref_camera_eis_entry_normal">Sabit video</string>
     <string name="pref_camera_eis_entry_off">Bağlı</string>
@@ -1473,7 +1473,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_camera_sound_title">Çəkiliş səsi</string>
     <string name="pref_camera_square_mode_title">Kvadrat</string>
     <string name="pref_camera_sr_enable_title">SR-i işə sal</string>
-    <string name="pref_camera_stereo_mode_title">Fokus tənzimləməsi</string>
+    <string name="pref_camera_stereo_mode_title">Fokus ayarı</string>
     <string name="pref_camera_super_resolution_title">SR-i işə sal</string>
     <string name="pref_camera_tap_shoot_summary">Foto çəkmək üçün önbaxış ekranına toxun</string>
     <string name="pref_camera_tap_shoot_title">Foto çəkmək üçün toxun</string>
@@ -1557,7 +1557,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Rəngləri və dinamik aralığı optimallaşdırmaq üçün HDR10+/HDR10-da yüksək dəqiqlikli videolar yazın. Yazılmış videolar yalnız HDR10+/HDR10 uyğun cihazlarda oxudula bilər.</string>
     <string name="pref_hdr10_video_mode_description">4K və 8K videolar üçün rəngləri və kontrastı avtomatik optimallaşdır. Optimallaşdırılmış videolar yalnız HDR10 uyğun cihazlarda oxudula bilər.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
-    <string name="pref_hdr10plus_video_mode_description">4K və 8K videolar üçün rəngləri optimallaşdır və kontrastı tənzimlə. Bu özəllik yalnız HDR10+ uyğun cihazlarda işləyir.</string>
+    <string name="pref_hdr10plus_video_mode_description">4K və 8K videolar üçün rəngləri optimallaşdır və kontrastı ayarla. Bu özəllik yalnız HDR10+ uyğun cihazlarda işləyir.</string>
     <string name="pref_hybrid_video_mode_description">Yüksək ölçülərdə yazılmış videoların rənglərini və dinamik aralığını təkmilləşdirmək üçün HLG texnologiyasını istifadə edin</string>
     <string name="pref_i_n_r_b">Ağıllı səs-küy azaltma</string>
     <string name="pref_k_h">Canlı qulaq içi monitor</string>
@@ -1747,7 +1747,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="simple_mode_button_text_scene">Səhnə rejimini söndür</string>
     <string name="simple_mode_button_text_slow_video">\"Sürətləndirilmiş\"i söndür</string>
     <string name="simple_mode_button_text_square">Kvadrat rejimini söndür</string>
-    <string name="simple_mode_button_text_stereo_mode">Fokus tənzimləməsini söndür</string>
+    <string name="simple_mode_button_text_stereo_mode">Fokus ayarını söndür</string>
     <string name="simple_mode_button_text_tilt_shift">Tilt-shift rejimini söndür</string>
     <string name="simple_mode_button_text_ubifocus">Yenidən fokuslamanı söndür</string>
     <string name="slow_shutter_tip1">Zəif işıqda hərəkət edən obyektləri izləyin.</string>
@@ -1848,10 +1848,10 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_freeze_action_end_tip">Arxaplanın donunu açmaq üçün düyməyə toxunun</string>
     <string name="time_freeze_action_start_tip">Arxaplanı dondurmaq üçün düyməyə toxunun</string>
-    <string name="time_freeze_adjust_button_title">Tənzimlə</string>
+    <string name="time_freeze_adjust_button_title">Ayarla</string>
     <string name="time_freeze_clipbox_tint">Dondur</string>
     <string name="time_lapse_error">"Sürətləndirilmiş yazı üçün bu video ölçüsü istifadə edilə bilmir"</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">Çəkilişdən əvvəl və ya çəkiliş zamanı istənilən vaxt arxaplanı dondura və aça bilərsiniz.</string>
     <string name="timefreeze_guide_tip3">Obyektinizdən çərçivənin mərkəzində qalmasını istəyin.</string>

@@ -88,7 +88,7 @@
     <string name="animation_rate_title">Animasiya sürəti</string>
     <string name="announce_for_app_move_in_folder">Qovluqda %1$d mövqeyinə daşındı</string>
     <string name="announce_for_checked">%1$s, yoxlanıldı</string>
-    <string name="announce_for_choose_default_screen">%1$d ekranını ilkin Əsas ekran olaraq tənzimlə</string>
+    <string name="announce_for_choose_default_screen">%1$d ekranını ilkin Əsas ekran olaraq ayarla</string>
     <string name="announce_for_close_default_preview">İlkin Əsas ekran ayarları bağlandı</string>
     <string name="announce_for_create_folder_with_app">%1$s ilə qovluq yaradıldı</string>
     <string name="announce_for_delete_gadget_and_widget">Vicet</string>
@@ -143,7 +143,7 @@
     <string name="app_edit_icon">Nişana düzəliş et</string>
     <string name="app_install_state">Quraşdırıldı</string>
     <string name="application_name">Sistem başladıcı</string>
-    <string name="apply">Tənzimlə</string>
+    <string name="apply">Ayarla</string>
     <string name="apply_as_lock_screen">Kilid ekranına tətbiq et</string>
     <string name="apply_as_wallpaper">Əsas ekrana tətbiq et</string>
     <string name="apply_both">İkisinə də tətbiq et</string>
@@ -242,7 +242,7 @@
     <string name="default_folder_title_services">Xidmətlər</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Alətlər</string>
-    <string name="default_screen_preview_title">İlkin ekranı tənzimlə</string>
+    <string name="default_screen_preview_title">İlkin ekranı ayarla</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Sil</string>
     <string name="delete_category_dialog_content">"Silsəniz bu kateqoriyanı bərpa edə bilməyəcəksiniz. Yenə də silinsin?"</string>
@@ -333,7 +333,7 @@
     <string name="home_slide_up_action">Əsas ekranda yuxarı sürüşdürün</string>
     <string name="home_switch_personal_assistant">-1 ekran</string>
     <string name="icon_content_description">Dialoq nişanı</string>
-    <string name="icon_customize_summary">Stili seçin və ölçüsünü tənzimləyin</string>
+    <string name="icon_customize_summary">Stili seçin və ölçüsünü ayarlayın</string>
     <string name="icon_form">Nişanlar</string>
     <string name="icon_reorganize_channel">Nişanları nizamla</string>
     <string name="icon_size">Nişan ölçüsü</string>
@@ -402,7 +402,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="menu_auto_fill_of_uninstall">Silinən tətbiqlərin xanalarını doldur</string>
     <string name="menu_back_desktop">Əsas ekrana qayıt</string>
     <string name="menu_cell_setting">Əsas ekran düzümü</string>
-    <string name="menu_default_screen_preview">İlkin ekranı tənzimlə</string>
+    <string name="menu_default_screen_preview">İlkin ekranı ayarla</string>
     <string name="menu_finish">Hazırdır</string>
     <string name="menu_lock">Əsas ekran düzümünü kilidlə</string>
     <string name="menu_more">Daha çox</string>
@@ -727,7 +727,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="title_jeejen">Jeejen Əsas ekran</string>
     <string name="toast_drag_to_assistant_reject">Tətbiq kasası quraşdırılır…</string>
     <string name="toast_screen_icons_misplaced">Digər mənbədən geri yükləndi, bəzi nişanlar səhv yerləşdirilmiş ola bilər.</string>

@@ -57,12 +57,12 @@
         <item quantity="one">%1$s qovluq</item>
     </plurals>
     <plurals name="format_move_notes_out_folder">
-        <item quantity="other">%1$s qeyd qovluqdan silindi</item>
-        <item quantity="one">%1$s qeyd qovluqdan silindi</item>
+        <item quantity="other">%1$s not qovluqdan silindi</item>
+        <item quantity="one">%1$s not qovluqdan silindi</item>
     </plurals>
     <plurals name="format_move_notes_to_folder">
-        <item quantity="other">%1$s qeyd %2$s qovluğuna daşındı</item>
-        <item quantity="one">%1$s qeyd %2$s qovluğuna daşındı</item>
+        <item quantity="other">%1$s not %2$s qovluğuna daşındı</item>
+        <item quantity="one">%1$s not %2$s qovluğuna daşındı</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
@@ -97,16 +97,16 @@
         <item quantity="one">%d yeni bildiriş</item>
     </plurals>
     <plurals name="note_terms">
-        <item quantity="other">%1$s qeyd</item>
-        <item quantity="one">%1$s qeyd</item>
+        <item quantity="other">%1$s not</item>
+        <item quantity="one">%1$s not</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="pc_notes_search_result">
-        <item quantity="other">%1$s qeyd tapıldı</item>
-        <item quantity="one">%1$s qeyd tapıldı</item>
+        <item quantity="other">%1$s not tapıldı</item>
+        <item quantity="one">%1$s not tapıldı</item>
     </plurals>
     <plurals name="pc_todo_search_result">
         <item quantity="other">%1$s tapşırıq tapıldı</item>
@@ -117,8 +117,8 @@
         <item quantity="one">%d saniyə qaldı</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">%1$s qeyd uğurla göstərildi</item>
-        <item quantity="one">%1$s qeyd uğurla göstərildi</item>
+        <item quantity="other">%1$s not uğurla göstərildi</item>
+        <item quantity="one">%1$s not uğurla göstərildi</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">%1$d gün ərzində</item>

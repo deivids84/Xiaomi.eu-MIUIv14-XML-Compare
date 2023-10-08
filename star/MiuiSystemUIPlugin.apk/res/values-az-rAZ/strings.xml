@@ -268,7 +268,7 @@
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">"Zəng əsnasında tənzimlənə bilmir"</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Zəng zamanı ayarlana bilmir"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">%1$d ədəddən çox yeni bildiriş</string>
@@ -337,7 +337,7 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Oldu</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Söndür</string>
     <string name="quick_settings_cellular_detail_title">Mobil internet</string>
-    <string name="quick_settings_cellular_detail_unable_change">"Zəng əsnasında tənzimlənə bilmir"</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Zəng zamanı ayarlana bilmir"</string>
     <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Avtomobil rejimi</string>
     <string name="quick_settings_edit_label">Düzəliş et</string>
@@ -347,7 +347,7 @@
     <string name="quick_settings_hang_on">Artıq üzən pəncərələri istifadə edə bilərsiniz</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_location_label">Yerləşmə</string>
-    <string name="quick_settings_more_settings">Daha çox tənzimləmə</string>
+    <string name="quick_settings_more_settings">Daha çox ayar</string>
     <string name="quick_settings_mute_label">Səsi kəs</string>
     <string name="quick_settings_nightmode_label">Qaranlıq rejim</string>
     <string name="quick_settings_papermode_label">Oxuma rejimi</string>
@@ -444,7 +444,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="timer_1_hour">%d saat</string>
@@ -469,7 +469,7 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="wireless_charging_connected_message">"Cihazınız naqilsiz doldurularkən tərsinə naqilsiz doldurmanı istifadə edə bilməzsiniz."</string>
     <string name="wireless_charging_fg_control_cancel">İmtina</string>
     <string name="wireless_charging_fg_control_messgae">"Batareya %d%% dən az qaldığı üçün tərsinə naqilsiz doldurma söndürüldü. Tərsinə naqilsiz doldurmanın daha uzun müddət işləməsinə imkan vermək üçün ayarları nizamlaya bilərsiniz."</string>
-    <string name="wireless_charging_fg_control_ok">Tənzimlə</string>
+    <string name="wireless_charging_fg_control_ok">Ayarla</string>
     <string name="wireless_charging_low_battery_level_message">"Batareya %d%% dən aşağı olduqda tərsinə naqilsiz doldurma istifadə edilə bilməz."</string>
     <string name="wireless_charging_ok">Anladım</string>
     <string name="wireless_charging_saver_cancel">Söndür</string>

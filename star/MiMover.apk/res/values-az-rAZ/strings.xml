@@ -675,7 +675,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="set_new_device_account">Xiaomi Hesabı ilə sinxronizasiya</string>
     <string name="set_new_device_lock">Ekran kilidini təyin et</string>
     <string name="set_new_device_more">Daha çox sistem ayarları…</string>
-    <string name="set_new_device_navigationbar">Sistem naviqasiyasını tənzimlə</string>
+    <string name="set_new_device_navigationbar">Sistem naviqasiyasını ayarla</string>
     <string name="set_new_device_title">Yeni cihaz quraşdırılır…</string>
     <string name="set_new_device_wlan">Wi-Fi-ı quraşdır</string>
     <string name="settings_phone">Telefon ayarları</string>

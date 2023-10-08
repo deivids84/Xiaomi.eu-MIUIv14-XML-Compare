@@ -146,7 +146,7 @@
     <string name="created">Yaradıldı</string>
     <string name="created_successfully">Uğurla yaradıldı</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
-    <string name="cu_confirm">Tənzimlə</string>
+    <string name="cu_confirm">Ayarla</string>
     <string name="customize_high_refresh_summary">Bu özəllik, %d Hz-ə qədər yeniləmə sürəti dəstəkləyir. Uyğun yeniləmə tezliyi, cihazın tərcihlərinə əsasən avtomatik seçilə bilər.</string>
     <string name="customize_high_refresh_title">Yüksək yeniləmə sürəti istifadə edən tətbiqlər</string>
     <string name="customize_radio_btn_summary">Seçilmiş yeniləmə sürətini tərcih edin</string>
@@ -162,7 +162,7 @@
     <string name="dc_light_hint_other">DC qaralma, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_unnormal_low">Zəif işıq titrəməsiz rejimi, bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
     <string name="dc_light_hint_unnormal_other">Zəif işıq titrəməsiz rejim, yeniləmə sürətinə və bəzi elementlərin göstərilmə formasına təsir edə bilər.</string>
-    <string name="dc_lignt_enable_hint">Titrəməsiz rejimi, yeniləmə sürətini 60 Hz olaraq tənzimləyəcək. Titrəməsiz rejimə dəyişdirilsin?</string>
+    <string name="dc_lignt_enable_hint">Titrəməsiz rejimi, yeniləmə sürətini 60 Hz olaraq ayarlayacaq. Titrəməsiz rejimə dəyişdirilsin?</string>
     <string name="delete_first_to_add_animal">Yeni element əlavə etmək üçün əvvəlcə birini silin.</string>
     <string name="desktop_widget_authorization">Statistikalara baxa bilmək üçün icazə vermək üçün toxunun</string>
     <string name="desktop_widget_authorization_new">Ekran vaxtı statistikalarına baxmaq üçün toxunun</string>
@@ -274,7 +274,7 @@
     <string name="follow_apps_settings">Tətbiq ayarları əsasında</string>
     <string name="follow_sim1">SIM 1 ayarlarını tətbiq et</string>
     <string name="footer_max_fps" formatted="false">"
-%d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər tənzimlənə bilər."</string>
+%d. Yeniləmə sürəti dəstəklənən tətbiqlər və oyunlar üçün %s Hz-ə qədər ayarlana bilər."</string>
     <string name="force_rest">Seans fasilələrini istifadə et</string>
     <string name="force_rest_summary">Seanslar təyin edilən limitə çatanda məcburi fasilələr verin</string>
     <string name="force_rest_time">Fasilə müddəti</string>
@@ -290,7 +290,7 @@
     <string name="fps_standard_title">Standart</string>
     <string name="fps_user_tip">- Bu demo animasiyalar istinadınız üçün aşağı sürətlə oynadılır. Gerçək performans, dəyişən amillərə əsasən fərqli görünə bilər.</string>
     <string name="fps_user_tip_footer">"%1$d. Daha yüksək və daha aşağı yeniləmə sürəti arasındakı fərqi anlamağınız üçün buradakı demolar daha yavaş oynadılır. Müntəzəm istifadə zamanı fərqi görmək sizin üçün çətin ola bilər.
-%2$d. Bəzi hallarda, yeniləmə sürəti, hansı elementlərin göstərildiyinə əsasən dinamik olaraq tənzimlənə bilər."</string>
+%2$d. Bəzi hallarda, yeniləmə sürəti, hansı elementlərin göstərildiyinə əsasən dinamik olaraq ayarlaya bilər."</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
@@ -335,7 +335,7 @@
     <string name="hsv_space_color_saturation">Doydurma</string>
     <string name="hsv_space_color_value">Dəyər</string>
     <string name="in_forbidden_period">İstifadəsi artıq məhdudlaşdırılıb</string>
-    <string name="intelligent_radio_btn_summary">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq tənzimləyin</string>
+    <string name="intelligent_radio_btn_summary">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq ayarlayın</string>
     <string name="intelligent_radio_btn_title">İlkin (tövsiyə edilən)</string>
     <string name="intelligent_recognition_item_summary">Çatdırılma və taksi xidmətlərindən gələn zənglər üçün təyin edilmiş zəng səsini istifadə edin. Bu özəllik, %s ilkin zəng səsiniz olaraq ayarlananda işləyəcək.</string>
     <string name="intelligent_recognition_item_title">Xidmətləri müəyyənləşdir</string>
@@ -583,7 +583,7 @@
     <string name="snowy_owl">Qütb bayquşu</string>
     <string name="southern_elephant_seal">Cənub dəniz fili</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
-    <string name="split_page_authorization">\"Ekran vaxtı\"na xoş gəldiniz! Burada ekran vaxtı limitlərini tənzimləyə və statistikalara baxa bilərsiniz. Bu özəlliyi işə salmaq üçün \"Başlat\"a toxunun.</string>
+    <string name="split_page_authorization">\"Ekran vaxtı\"na xoş gəlmisiniz! Burada ekran vaxtı limitlərini ayarlaya və statistikalara baxa bilərsiniz. Bu özəlliyi işə salmaq üçün \"Başlat\"a toxunun.</string>
     <string name="split_page_start">Başlat</string>
     <string name="spotted_hyaena">Xallı kaftar</string>
     <string name="spotted_hyaena_info">Kaftarlar, ən mürəkkəb sosial davranışlara malik gecə yırtıcılarıdır.</string>
@@ -604,7 +604,7 @@
     <string name="stop_app_timer_tip">Fərdi ayarlar daxil olmaqla, bütün Ekran vaxtı məlumatları və icazələri ilə yerli olaraq saxlanılan və buludda sinxronlaşdırılan elementlər, bu özəlliyi söndürdükdən sonra silinəcək.</string>
     <string name="stop_summary">Bu özəlliyi söndürdükdə, bütün Ekran vaxtı statistikaları və məlumatları silinəcək</string>
     <string name="suggestion">Əks-əlaqə</string>
-    <string name="summary_max_fps_for_intelligent">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq %s Hz-ə qədər tənzimləyin</string>
+    <string name="summary_max_fps_for_intelligent">Performans ilə enerji sərfiyyatını tarazlaşdırmaq üçün ssenarilərə görə yeniləmə sürətini dinamik olaraq %s Hz-ə qədər ayarlayın</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
@@ -916,7 +916,7 @@ Bu tətbiq internetə bağlanmalıdır və normal işləyə bilməsi üçün aş
     <string name="usage_state_work_day">Həftə içi</string>
     <string name="usage_state_work_day_hour_minute">Həftə içi: %1$d saat %2$d dəq</string>
     <string name="usage_stats_device_limit">Gündəlik ekran vaxtı limiti</string>
-    <string name="usage_stats_device_limit_summary">İstifadə üçün gündəlik limit tənzimlə</string>
+    <string name="usage_stats_device_limit_summary">İstifadə üçün gündəlik limit ayarlayın</string>
     <string name="usage_stats_experience_text">Sınamaq üçün toxun (1 dəq)</string>
     <string name="usage_stats_limit_time_accuracy_title">Qalan vaxt təxmininin dəqiqliyi</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Qalan vaxtı bir dəqiqəyə qədər dəqiqliklə göstər. Bu, enerji sərfiyyatını artırır.</string>

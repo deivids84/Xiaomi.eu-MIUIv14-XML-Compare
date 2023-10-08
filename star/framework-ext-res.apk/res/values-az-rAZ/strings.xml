@@ -83,7 +83,7 @@
     <string name="candy">Şəkər</string>
     <string name="carousel">Karusel</string>
     <string name="celesta">Çelesta</string>
-    <string name="change_brightness">Parlaqlığı tənzimlə</string>
+    <string name="change_brightness">Parlaqlığı ayarla</string>
     <string name="child">Uşaqlıq</string>
     <string name="childhood">Uşaqlıq</string>
     <string name="chimes">Zəng səsləri</string>
@@ -300,7 +300,7 @@
     <string name="miui_device_name">Android</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Söndürülə bilmir, cihaz kilidlidir."</string>
     <string name="miui_landscape_compat_toast">"Tətbiqi üfüqi rejimdə istifadə edərkən qatlama cihazı üçün uyğun ola bilməz, onu şaquli rejimdə istifadə etmək məsləhət görülür"</string>
-    <string name="miui_multiwindow_not_support_cvw">"Bu tətbiq üçün pəncərə ölçüsü tənzimlənmir"</string>
+    <string name="miui_multiwindow_not_support_cvw">"Bu tətbiq üçün pəncərə ölçüsü ayarlana bilmir"</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s, üzən pəncərələri dəstəkləmir"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s, bölünmüş ekranı dəstəkləmir"</string>
     <string name="miui_screen_ratio_hint">Ekran nisbəti problemləri</string>

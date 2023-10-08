@@ -478,7 +478,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="select_new_folder">Yeni qovluq</string>
     <string name="select_upload_title">Yüklə</string>
     <string name="send">Göndər</string>
-    <string name="set_lock_password_dialog_msg">Fotolar, qeydlər və fayllar üçün gizlilik qoruma parolu istifadə olunacaq.</string>
+    <string name="set_lock_password_dialog_msg">Fotolar, notlar və fayllar üçün gizlilik qoruma parolu istifadə olunacaq.</string>
     <string name="set_lock_password_dialog_title">Yeni bir parol ayarla</string>
     <string name="setting_clear_cache">Keşi təmizlə</string>
     <string name="setting_create_shortcut">Əsas ekran qısayolu</string>
@@ -528,7 +528,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="unlock_password_dialog_msg">Gizlilik qoruma parolu istifadə olunacaq. Fotolar, qeydlər və fayllar üçün işləyir.</string>
+    <string name="unlock_password_dialog_msg">Gizlilik qoruma parolu istifadə olunacaq. Fotolar, notlar və fayllar üçün işləyir.</string>
     <string name="unlock_password_dialog_title">Gizlilik qoruma parolu</string>
     <string name="update_dialog_button_cancel">İndi yox</string>
     <string name="update_dialog_button_ok">Güncəllə</string>

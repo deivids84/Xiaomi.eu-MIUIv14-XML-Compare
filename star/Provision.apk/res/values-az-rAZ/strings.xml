@@ -303,7 +303,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="note_introduction">Bu tətbiq qeydləri yaratmağınıza, onlara baxmağınıza və düzəliş etməyinizə imkan verir.</string>
+    <string name="note_introduction">Bu tətbiq notları yaratmağınıza, onlara baxmağınıza və düzəliş etməyinizə imkan verir.</string>
     <string name="other_settings">Təməl ayarlar</string>
     <string name="other_settings_ad_dialog_agree">İşə sal</string>
     <string name="other_settings_ad_dialog_content">"Fərdiləşdirilmiş reklam tövsiyələri bağlı olduqda, özəllik açıq olduğu vaxtlardakı qədər reklam görməyə davam edəcəksiniz. Ancaq reklamlar, şəxsi tərcihlərinizə əsaslanmadığından artıq əlaqəli olmayacaq."</string>
@@ -404,7 +404,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="permission_read_device_store_summary">Endirilmiş mənbə fayllarına və mənbə konfiqurasiya fayllarına müraciət etmək üçün;</string>
     <string name="permission_read_message">Mətn mesajlarına müraciət</string>
     <string name="permission_read_message_introduction">Cihazınızın sahibliyini doğrulamaq üçün</string>
-    <string name="permission_read_note_introduction">Qeydləri və qoşmalara müraciət etmək üçün</string>
+    <string name="permission_read_note_introduction">Notlara və qoşmalara müraciət etmək üçün</string>
     <string name="permission_read_send_message">SMS göndər və al</string>
     <string name="permission_read_send_message_fast_application_summary">Cəld tətbiqlərin SMS göndərməsinə və almasına imkan vermək üçün;</string>
     <string name="permission_read_send_message_sim_activation_summary">Aktivləşdirmə SMS-i göndərmək və almaq üçün;</string>
@@ -511,7 +511,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="service_name_location">Yerləşmə xidmətləri</string>
     <string name="service_name_lockscreen">Divar kağızı Karuseli</string>
     <string name="service_name_message">Mesajlaşma</string>
-    <string name="service_name_note">Qeydlər</string>
+    <string name="service_name_note">Notlar</string>
     <string name="service_name_recorder">Səsyazan</string>
     <string name="service_name_screen_recording">Ekran Yazıcı</string>
     <string name="service_name_security">Güvənlik</string>

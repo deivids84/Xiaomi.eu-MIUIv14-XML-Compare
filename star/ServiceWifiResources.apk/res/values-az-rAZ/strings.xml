@@ -70,8 +70,8 @@
 
 Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfindən izlənilməsinə icazə verə bilər."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Şəbəkə tapılmadı</string>
-    <string name="wifi_disable_mac_randomization_dialog_success">Tənzimləmə güncəlləndi. Yenidən bağlantı qurmağa çalışın.</string>
-    <string name="wifi_disable_mac_randomization_dialog_title">Gizlilik tənzimləməsi dəyişdirilsin?</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Ayar güncəlləndi. Yenidən bağlantı qurmağa çalışın.</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">Gizlilik ayarı dəyişdirilsin?</string>
     <string name="wifi_eap_error_message_code_16384">%1$s : EAP kimlik doğrulama xətası 16384</string>
     <string name="wifi_eap_error_message_code_16385">%1$s : EAP kimlik doğrulama xətası 16385</string>
     <string name="wifi_eap_error_message_code_32756">%1$s : EAP kimlik doğrulama xətası 32756</string>

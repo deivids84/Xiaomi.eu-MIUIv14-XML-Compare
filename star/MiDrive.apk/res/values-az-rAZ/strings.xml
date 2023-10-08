@@ -123,7 +123,7 @@ Daha çox anbar sahəsi əldə etmək üçün planınızı yüksəldin."</string
     <string name="dialog_immediately_open">Aç</string>
     <string name="dialog_new_folder_hint">Qovluq adını daxil edin</string>
     <string name="dialog_new_folder_title">Yeni qovluq</string>
-    <string name="dialog_open_ai_recommend_ppt_to_pdf_content">Buludda saxlanılan slaydların fotoları avtomatik olaraq tənzimlənə və PDF-ə çevrilə bilər. Bu özəllik indi açılsın?</string>
+    <string name="dialog_open_ai_recommend_ppt_to_pdf_content">Buludda saxlanılan slaydların fotoları avtomatik olaraq ayarlana və PDF-ə çevrilə bilər. Bu özəllik indi işə salınsın?</string>
     <string name="dialog_select_photo_title">Şəkil mənbəyini seçin</string>
     <string name="dialog_select_type">Fayl növünü seçin</string>
     <string name="dialog_storage_full_upgrade">Yüksəlt</string>
@@ -479,7 +479,7 @@ MIUI sistem hesabı kimi hazırkı Xiaomi Hesabınızı istifadə etdiyinizə ə
     <string name="select_upload_title">Yüklə</string>
     <string name="send">Göndər</string>
     <string name="set_lock_password_dialog_msg">Fotolar, qeydlər və fayllar üçün gizlilik qoruma parolu istifadə olunacaq.</string>
-    <string name="set_lock_password_dialog_title">Yeni bir parol tənzimlə</string>
+    <string name="set_lock_password_dialog_title">Yeni bir parol ayarla</string>
     <string name="setting_clear_cache">Keşi təmizlə</string>
     <string name="setting_create_shortcut">Əsas ekran qısayolu</string>
     <string name="setting_title">Ayarlar</string>

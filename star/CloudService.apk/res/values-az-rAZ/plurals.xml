@@ -69,12 +69,12 @@
         <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d qeyd</item>
-        <item quantity="one">%d qeyd</item>
+        <item quantity="other">%d not</item>
+        <item quantity="one">%d not</item>
     </plurals>
     <plurals name="dirty_note_count_v2">
-        <item quantity="other">%d qeyd</item>
-        <item quantity="one">%d qeyd</item>
+        <item quantity="other">%d not</item>
+        <item quantity="one">%d not</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d Tətbiq kassasına giriş</item>

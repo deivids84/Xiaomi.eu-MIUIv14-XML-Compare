@@ -250,8 +250,8 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="import_photo">Fotoları daxilə köçür</string>
     <string name="import_photo_desc">İkinci sahədə paylaşılan elementlərə bax</string>
     <string name="import_photo_suc">Fotolar daxilə köçürüldü</string>
-    <string name="input_space_finger">İndi tənzimlə</string>
-    <string name="input_space_password">İndi tənzimlə</string>
+    <string name="input_space_finger">İndi ayarla</string>
+    <string name="input_space_password">İndi ayarla</string>
     <string name="instagram_send">Instagram-da paylaş</string>
     <string name="install">Quraşdır</string>
     <string name="install_error">"Quraşdırıla bilmədi. Yenidən sınayın."</string>
@@ -343,13 +343,13 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="msg_switch_file">Bu fayllar daşındıqdan sonra Birinci sahədən silinsin?</string>
     <string name="msg_switch_file_second">Bu fayllar daşındıqdan sonra İkinci sahədən silinsin?</string>
     <string name="msg_switch_photo">Bu fotolar daşındıqdan sonra Birinci sahədən silinsin?</string>
-    <string name="needSetKeyguardFirst">Birinci sahə parolunu tənzimlə</string>
-    <string name="needSetKeyguardFirstDes">İkinci sahə parolunu tənzimləməzdən əvvəl Birinci sahə parolunu tənzimləyin</string>
+    <string name="needSetKeyguardFirst">Birinci sahə parolunu ayarla</string>
+    <string name="needSetKeyguardFirstDes">İkinci sahə parolunu ayarlamazdan əvvəl Birinci sahə parolunu ayarlayın</string>
     <string name="need_network_when_bind">Cihaz əlavə etməzdən əvvəl şəbəkəyə bağlanın</string>
     <string name="need_network_when_create">İş sahəsi yaratmazdan əvvəl şəbəkəyə bağlanın</string>
     <string name="need_reset_passwd">İş sahəsinə daxil olmazdan əvvəl İş sahəsi parolunu sıfırlayın</string>
     <string name="need_set_second_space_desc">İkinci sahədə barmaq izi əlavə etməzdən əvvəl İkinci sahəyə parol əlavə edin</string>
-    <string name="need_set_second_space_pwd_first">Əvvəlcə İkinci sahə parolunu tənzimləyin</string>
+    <string name="need_set_second_space_pwd_first">Əvvəlcə İkinci sahə parolunu ayarlayın</string>
     <string name="newSecondSpace">İkinci sahəni işə sal</string>
     <string name="next_setp">Növbəti</string>
     <string name="night">Axşam</string>
@@ -497,7 +497,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="space_des_default">Şifrələnmiş verilənlərlə təcrid olunmuş sahə</string>
     <string name="space_finger_sub_text">Daha sürətli keçid etmək üçün İkinci sahə barmaq izi təyin edin</string>
     <string name="space_name_default">İş sahəsi</string>
-    <string name="startSet">Tənzimlə</string>
+    <string name="startSet">Ayarla</string>
     <string name="startTransfer">Daşı</string>
     <string name="start_input_finger_print">Barmaq izi əlavə et</string>
     <string name="start_new_fingerprint">Yeni barmaq izi əlavə et</string>
@@ -541,7 +541,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="title_choose_app_status">Tətbiq növünü seçin</string>
     <string name="title_switch_file">Bu fayllar silinsin?</string>
     <string name="title_switch_photo">Bu fotolar silinsin?</string>
@@ -612,7 +612,7 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_remove">"İkili tətbiq hesablarını silin"</string>
     <string name="xspace_resolver_activity_title">Tətbiq seçin</string>
     <string name="xspace_setting_label">İkili tətbiq ayarları</string>
-    <string name="xspace_settins">Tənzimlə</string>
+    <string name="xspace_settins">Ayarla</string>
     <string name="xspace_start">Yarat</string>
     <string name="xspace_uninstall_completed">İkili tətbiq uğurla silindi</string>
     <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>

@@ -87,7 +87,7 @@
     <string name="birthday_notification_title_today">"%1$s üçün %3$s"</string>
     <string name="birthday_saved">Doğum günü saxlanıldı</string>
     <string name="birthday_term">doğum günü</string>
-    <string name="button_record_menstruation">Qeyd</string>
+    <string name="button_record_menstruation">Qeyd et</string>
     <string name="calendar_account_settings">Hesab ayarları</string>
     <string name="calendar_permission_desc">Tədbirləri idarə et</string>
     <string name="calendar_privacy_policy">Gizlilik Siyasəti</string>
@@ -534,9 +534,9 @@
     <string name="not_more_than_three_weekday">%d günə qədər seçə bilərsiniz</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notes_hint">Tapşırıq əlavə etmək üçün toxunun</string>
-    <string name="notes_reminders_channel">Qeyd xatırladıcıları</string>
-    <string name="notes_settings_summary">Gündəlik tapşırıqları və qeydləri Təqvimə əlavə edin</string>
-    <string name="notes_title">Qeydlər</string>
+    <string name="notes_reminders_channel">Not xatırladıcıları</string>
+    <string name="notes_settings_summary">Gündəlik tapşırıqları və notları Təqvimə əlavə edin</string>
+    <string name="notes_title">Notlar</string>
     <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s və %5$s</string>
     <string name="notes_week_name_four">%1$s, %2$s, %3$s və %4$s</string>
     <string name="notes_week_name_seven">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s və %7$s</string>
@@ -693,7 +693,7 @@
     <string name="setting_about_summary">Versiya:</string>
     <string name="setting_accounts">Təqvim hesabları</string>
     <string name="setting_change_language">Təqvim dilini seçin</string>
-    <string name="setting_desc_import_todo">\"Qeydlər\"dən vaxta həssas tapşırıqları daxilə köçürün</string>
+    <string name="setting_desc_import_todo">\"Not\"lardan vaxt həssaslı tapşırıqları daxilə köçür</string>
     <string name="setting_features_title">Özəllik ayarları</string>
     <string name="setting_holiday_display_desc">Bayram kartları əsas səhifədə gündəliyinizin altında yerləşir</string>
     <string name="setting_holiday_reminder">Bayram xatırladıcı</string>
@@ -806,7 +806,7 @@ Həmçinin vacib bir şeyi qaçırmamaq üçün xatırladıcılar əlavə edə b
     <string name="title_click_record_menstruation">Period qeyd edin</string>
     <string name="title_menstruation_predict_start_today">Periodunuz çox güman ki, bu gün başlayacaq</string>
     <string name="title_menstruation_predict_start_tomorrow">Periodunuz çox güman ki, sabah başlayacaq</string>
-    <string name="title_no_record_menstruation">"Periodlarınızı hələ ki, qeyd etməmisiniz."</string>
+    <string name="title_no_record_menstruation">"Hələ periodlarınızı qeyd etməmisiniz."</string>
     <string name="title_p_tracker">Menstruasiya</string>
     <string name="title_start_use_menstruation_assistant">Menstruasiya dövrünüzü qeyd edin</string>
     <string name="today">Bu gün</string>

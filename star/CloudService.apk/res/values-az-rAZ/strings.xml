@@ -214,7 +214,7 @@
     <string name="keybag_password_screen_lock_wrong">Daxil etdiyiniz ekran kilidi yanlışdır</string>
     <string name="keybag_password_too_short">Parol formatı yanlışdır</string>
     <string name="keybag_set_password_content">Parol menecerini istifadə edə bilmək üçün bir parol təyin edin. Cihazları dəyişdirsəniz, bu parol kimliyinizi doğrulamağımıza imkan verəcək.</string>
-    <string name="keybag_set_password_negative">Tənzimlə</string>
+    <string name="keybag_set_password_negative">Ayarla</string>
     <string name="keybag_set_password_positive">Ekran kilidi istifadə et</string>
     <string name="keybag_set_password_success_get">Anladım</string>
     <string name="keybag_set_password_success_tip">"Uğurla ayarlandı. Şifrələnmiş elementlərə müraciət edə bilmək üçün bu parolu digər cihazlarda daxil etməyiniz lazımdır."</string>

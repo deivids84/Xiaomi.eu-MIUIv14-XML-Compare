@@ -170,7 +170,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_headset_back_to_box_title_phone">Qulaqları bu cihazla cütləşdirin</string>
     <string name="circulate_headset_back_to_box_title_tv">Qulaqlıqlarınızı cütləşdirin</string>
     <string name="circulate_headset_control_anc_clear">Şəffaflıq</string>
-    <string name="circulate_headset_control_anc_disable_hint">Qulaqlıqlarınız iki cihaza bağlanıb. Səs səviyyəsini yalnız bu cihazdan tənzimləyə bilərsiniz.</string>
+    <string name="circulate_headset_control_anc_disable_hint">Qulaqlıqlarınız iki cihaza bağlanıb. Səs səviyyəsini yalnız bu cihazdan ayarlaya bilərsiniz.</string>
     <string name="circulate_headset_control_anc_noise_cancel">Səs-küy əngəlləmə</string>
     <string name="circulate_headset_control_anc_off">Bağlı</string>
     <string name="circulate_headset_control_battery_case">Qutu</string>
@@ -209,7 +209,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_ringfind_title">Səs oxut</string>
     <string name="circulate_ringfind_title_stop">Səs oxutmanı dayandır</string>
     <string name="circulate_title">Mi Smart Hub</string>
-    <string name="circulate_tv_power_alter_text">"TV-nizi söndürmək və ya ekranı söndürmək üzrə tənzimlədiniz. TV söndürüldükdən sonra pultlar və TV-lər buradan itəcək."</string>
+    <string name="circulate_tv_power_alter_text">"TV-nizi söndürmək və ya ekranı söndürmək üzrə ayarlamısınız. TV söndürüldükdən sonra pultlar və TV-lər buradan itəcək."</string>
     <string name="circulate_tv_power_alter_title">Diqqət</string>
     <string name="circulate_video_capture_fail">"Ekran şəkli çəkilə bilmədi"</string>
     <string name="circulate_video_capture_success">Ekran şəkli uğurla çəkildi</string>

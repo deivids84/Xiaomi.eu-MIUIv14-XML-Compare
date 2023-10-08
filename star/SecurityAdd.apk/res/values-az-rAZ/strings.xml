@@ -171,7 +171,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_gpu_control_anti_aliasing">Kənar yumşaltma</string>
     <string name="gb_gpu_control_fps">Kadr tezliyi</string>
     <string name="gb_gpu_control_optimization_graph">Qrafikləri optimallaşdırın</string>
-    <string name="gb_gpu_control_resolution">Ölçülər</string>
+    <string name="gb_gpu_control_resolution">Dəqiqlik</string>
     <string name="gb_gpu_control_texture_filtering_quality">Toxuma filtrləmə keyfiyyəti</string>
     <string name="gb_gpu_dialog_button">Anladım</string>
     <string name="gb_gpu_dialog_button_countdown">Anladım (%s)</string>
@@ -187,7 +187,7 @@ proqramımıza qoşulun"</string>
     <string name="gb_gpu_tips_graph">GPU performansını artırmaq və enerjiyə qənaət etmək üçün qrafikləri optimallaşdırın. Bu özəllik, seçilmiş oyunlar tərəfindən dəstəklənir.</string>
     <string name="gb_gpu_tips_lod">Uzaq obyektlərin toxumalarını optimallaşdıraraq şəkil aydınlığını təkmilləşdirin</string>
     <string name="gb_gpu_tips_render">Oyun performansını optimallaşdırmaq üçün multithreaded renderləməni istifadə et</string>
-    <string name="gb_gpu_tips_resolution">"İlkin ölçü müəyyən oyun tərəfindən müəyyən edilir. Bəzi oyunlar ölçüləri tənzimləməyə icazə vermir."</string>
+    <string name="gb_gpu_tips_resolution">"İlkin dəqiqlik xüsusi oyun tərəfindən müəyyən edilir. Bəzi oyunlar dəqiqliyi ayarlamağa icazə vermir."</string>
     <string name="gb_gpu_tips_texture">Performans və ya görüntü keyfiyyətinə üstünlük verin</string>
     <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
     <string name="gb_gputuner_multi_render">Multithreaded renderləmə</string>

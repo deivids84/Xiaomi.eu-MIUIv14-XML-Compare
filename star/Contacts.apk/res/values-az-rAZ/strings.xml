@@ -437,7 +437,7 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="delete_call_log_selected_title">Seçilmiş zəng tarixçəsi təmizlənsin?</string>
     <string name="delete_call_log_title">Zəng tarixçəsini təmizlə</string>
     <string name="delete_conference_call_log_message">Bu kontaktla əlaqələndirilmiş bütün konfrans zəng yazıları silinsin?</string>
-    <string name="delete_conference_call_log_title">Konfrans zənginin qeydlərini sil</string>
+    <string name="delete_conference_call_log_title">Konfrans zəngi qeydlərini sil</string>
     <string name="delete_duplicate">Birləşdir</string>
     <string name="delete_duplicate_message">"Kontaktlar birləşdirilir… "</string>
     <string name="delete_group_dialog_message">"\"%1$s\" silinsin? Kontaktlar silinməyəcək."</string>
@@ -1053,7 +1053,7 @@ Səbəb: \"%s\""</string>
     <string name="saf_permission_dialog_content">"Android, ilkin olaraq \"Kontaktlar\" və \"Telefon\"un zəng qeydlərinə daxil olmasına icazə vermir. Bu tətbiqin baxa bilməsi üçün zəng qeydlərinə müraciət etməsinə icazə verin."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">İcazə ver</string>
     <string name="saf_permission_dialog_later">Daha sonra</string>
-    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng qeydlərinə müraciətinə icazə ver</string>
+    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng yazılarına müraciətinə icazə ver</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>

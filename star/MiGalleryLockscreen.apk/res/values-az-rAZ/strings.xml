@@ -498,7 +498,7 @@ mm"</string>
     <string name="open_btn_next">Növbəti</string>
     <string name="open_btn_start">\"Divar kağızı Karuseli\"ni aç</string>
     <string name="open_des">Kilid ekranınıza gündəlik olaraq göndərilən yeni şəkilləri və hekayələri almaq üçün \"Divar kağızı Karuseli\"ni işə salın.</string>
-    <string name="open_freq_title">Divar kağızı güncəlləmə tezliyini tənzimlə</string>
+    <string name="open_freq_title">Divar kağızı güncəlləmə tezliyini ayarla</string>
     <string name="open_gallery">Divar kağızı Karuseli</string>
     <string name="open_gallery_tips">\"Divar kağızı Karuseli\"ni açmaq üçün bura toxunun</string>
     <string name="open_guid_des">Ayarlar &gt; İcazələr &gt; Digər icazələr &gt; \"Divar kağızı Karuseli\"nə gedin və tətbiqə tələb olunan bütün icazələri verin.</string>
@@ -797,7 +797,7 @@ mm"</string>
     <string name="sst_custom_wallpaper_title">Özəl slayd şou</string>
     <string name="sst_custom_wallpaper_title2">Slayd şou</string>
     <string name="sst_disable_unopen">Beta özəllik</string>
-    <string name="sst_effect_next_wallpaper">Dəyişiklikləri tətbiq etmək üçün yeni divar kağızı tənzimlə</string>
+    <string name="sst_effect_next_wallpaper">Dəyişiklikləri tətbiq etmək üçün yeni divar kağızı ayarla</string>
     <string name="sst_favor_desc">Sevimli divar kağızlarına baxın</string>
     <string name="sst_favor_title">Sevimlilər</string>
     <string name="sst_feedback_title">Əks-əlaqə</string>
@@ -828,7 +828,7 @@ mm"</string>
     <string name="sst_show_lockscreen_entry_title">Kilid ekranı qısayolu</string>
     <string name="sst_sliding_checkbox_checked">Açıq</string>
     <string name="sst_sliding_checkbox_unchecked">Bağlı</string>
-    <string name="sst_sti_desc">Divar kağızı güncəlləmə tezliyini tənzimlə</string>
+    <string name="sst_sti_desc">Divar kağızı güncəlləmə tezliyini ayarla</string>
     <string name="sst_sti_title">Güncəlləmə tezliyi</string>
     <string name="sst_subscribe_title">Abunəliklər</string>
     <string name="sst_subscrible_manager_title_bar_text">Abunəliyi idarə et</string>
@@ -863,7 +863,7 @@ mm"</string>
     <string name="subscribe_success_content_per_quarter">Divar kağızını hər 15 dəqiqədə bir dəyişdir</string>
     <string name="subscribe_success_content_per_three_hour">Divar kağızını hər 3 saatda bir dəyişdir</string>
     <string name="subscribe_success_content_per_unlock">Divar kağızını hər cihaz kilidlənəndə dəyişdir</string>
-    <string name="subscribe_update_time_setting">Fərqli bir interval tənzimlə</string>
+    <string name="subscribe_update_time_setting">Fərqli bir interval ayarla</string>
     <string name="summary">"Onlayn məzmuna baxmaq üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul edin. Razı deyilsinizsə, yerli divar kağızları hələ də əlçatan olacaq."</string>
     <string name="summary2">"Bu özəlliyi istifadə edərək &lt;font color='#0D84FF'&gt;&lt;a href ='%1$s'&gt;İstifadəçi Razılaşmamız&lt;/font&gt;&lt;/a&gt; və &lt;font color='#0D84FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizlə&lt;/font&gt;&lt;/a&gt; razılaşırsınız. Bu özəlliyin normal işləməsi üçün internetə bağlanması lazımdır.​"</string>
     <string name="summary3">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. Bu tətbiq, normal işləməsi üçün internetə bağlanmalı və tələb olunan şəxsi məlumatları yığmalıdır.&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik.&lt;br&gt;Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamağınız üçün, tətbiqi istifadə etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyun və razılaşın."</string>

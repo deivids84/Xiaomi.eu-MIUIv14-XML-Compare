@@ -45,7 +45,7 @@
     <string name="early_morning">Səhər</string>
     <string name="edge_distance_pref_summary">\"Cəld top\"u görünən etmək üçün ekran kənarlarına yaxın oyandırma sahələrinə toxunun</string>
     <string name="edge_distance_pref_title">Oyandırma sahələri</string>
-    <string name="edge_mode_custom_summary">Ekran kənarlarına yaxın olan oyandırma sahələrinin ölçüsünü tənzimləyin</string>
+    <string name="edge_mode_custom_summary">Ekran kənarlarına yaxın olan oyandırma sahələrinin ölçüsünü ayarla</string>
     <string name="edge_mode_custom_title">Özəl</string>
     <string name="edge_mode_default_title">İlkin</string>
     <string name="enable_touch_assistant">\"Cəld top\"u işə sal</string>

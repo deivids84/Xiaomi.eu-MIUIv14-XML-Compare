@@ -309,7 +309,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="avatar_picker_title">Bir profil şəkli seçin</string>
     <string name="back">Geri</string>
     <string name="back_navigation_animation">Proqnozlaşdırılan geri animasiyalar</string>
-    <string name="back_navigation_animation_dialog">Bu tənzimləmə, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback tənzimləməsinin true olaraq tənzimlənməsini tələb edir.</string>
+    <string name="back_navigation_animation_dialog">Bu ayar, proqnozlaşdırılan jest animasiyaları üçün sistem animasiyalarını fəallaşdırır. Bu, manifest faylında hər bir tətbiq üçün enableOnBackInvokedCallback dəyərinin true olaraq ayarlanmasını tələb edir.</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır.</string>
     <string name="basic_status">Danışığı aç</string>
     <string name="battery">Batareya</string>
@@ -475,7 +475,7 @@ seçimi"</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI müşahidə jurnalını fəallaşdır</string>
-    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu tənzimləməni dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
+    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu ayarı dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
     <string name="bt_is_off">Bluetooth bağlıdır</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Çıxışı dəyişdir</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">%1$s yayımlasanız və ya çıxışı dəyişdirsəniz, hazırkı yayımınız dayandırılacaq</string>
@@ -560,7 +560,7 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="clock_title_default">İlkin</string>
     <string name="close">Bağla</string>
     <string name="confirm">Oldu</string>
-    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu tənzimləmə açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
+    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu ayar açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
     <string name="confirm_enable_oem_unlock_title">OEM kilidinin açılmasına icazə verilsin?</string>
     <string name="confirm_pin_msg">PIN-i yenidən daxil edin</string>
     <string name="connected_to_metered_access_point">Ölçülmüş şəbəkəyə bağlandı</string>
@@ -683,7 +683,7 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="dev_settings_warning_title">Tərtibatçı ayarlarına icazə verilsin?</string>
     <string name="development_settings_enable">Tərtibatçı seçimlərini fəallaşdır</string>
     <string name="development_settings_not_available">Tərtibatçı seçimləri bu istifadəçi üçün əlçatan deyil</string>
-    <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri tənzimlə</string>
+    <string name="development_settings_summary">Tətbiq inkişafı üçün seçimləri ayarla</string>
     <string name="development_settings_title">Tərtibatçı seçimləri</string>
     <string name="device_locked_without_biometric">"Üçüncü tərəf ekran kilidi istifadə edərkən bu cihazın kilidi barmaq izi və ya üz datası ilə açıla bilməz"</string>
     <string name="device_locked_without_biometric_face">"Üçüncü tərəf ekran kilidi istifadə edərkən bu cihazın kilidi üz datası ilə açıla bilməz"</string>
@@ -698,7 +698,7 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="disabled_by_admin">Admin tərəfindən sıradan çıxarıldı</string>
     <string name="disabled_by_admin_summary_text">Admin tərəfindən nəzarət olunur</string>
-    <string name="disabled_by_app_ops_text">Məhdud Tənzimləmə tərəfindən idarə olunur</string>
+    <string name="disabled_by_app_ops_text">Məhdud Ayar tərəfindən idarə olunur</string>
     <string name="dnd_is_off">\"Narahat Etməyin\" bağlıdır</string>
     <string name="dnd_notification_warnings_title">\"Narahat etməyin\" açıqdır. Bildirişlər susdurulub, titrəmə söndürüldü.</string>
     <string name="dnd_suppressing_shade_text">Bildirişlərə \"Narahat Etməyin\" tərəfindən fasilə verildi</string>
@@ -903,7 +903,7 @@ Kilidi açmaq üçün PIN-nizi daxil edin."</string>
     <string name="gxzw_try_more_again">Yenidən sına</string>
     <string name="gxzw_use_password">Kilidi açmaq üçün parolunuzu istifadə edin</string>
     <string name="gxzw_use_password_to_unlock">Parolu daxil edin</string>
-    <string name="hdcp_checking_dialog_title">HDCP yoxlanış davranışını tənzimlə</string>
+    <string name="hdcp_checking_dialog_title">HDCP yoxlanış davranışını ayarla</string>
     <string name="hdcp_checking_title">HDCP yoxlanışı</string>
     <string name="hdmi_cec_set_menu_language_accept">Dili dəyişdir</string>
     <string name="hdmi_cec_set_menu_language_decline">Hazırkı dili saxla</string>
@@ -1139,7 +1139,7 @@ Yeni bir SIM kart üçün xidmət provayderinizlə əlaqə saxlayın."</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="label_view">Göstər</string>
     <string name="launch_defaults_none">Heç bir ilkin dəyər ayarlanmadı</string>
-    <string name="launch_defaults_some">Bəzi ilkin tərcihlər tənzimlənib</string>
+    <string name="launch_defaults_some">Bəzi ilkin dəyərlər ayarlandı</string>
     <string name="lb_guidedaction_continue_title">Davam</string>
     <string name="lb_guidedaction_finish_title">Bitir</string>
     <string name="lb_media_player_error">Media Pleyer xəta kodu %1$d ekstra %2$d</string>
@@ -1471,7 +1471,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="mr_dialog_transferable_header">Bir qrupda oxut</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Cihazlar</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">"Zəng əsnasında tənzimlənə bilmir"</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Zəng zamanı ayarlana bilmir"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">%1$d ədəddən çox yeni bildiriş</string>
@@ -1557,7 +1557,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="notification_menu_gear_description">bildiriş kontrolları</string>
     <string name="notification_menu_snooze_action">Xatırlat</string>
     <string name="notification_menu_snooze_description">bildiriş ertələmə seçimləri</string>
-    <string name="notification_more_settings">Daha çox tənzimləmə</string>
+    <string name="notification_more_settings">Daha çox ayar</string>
     <string name="notification_multichannel_desc">Bu bildiriş qrupu burada konfiqurasiya edilə bilməz</string>
     <string name="notification_priority_title">Prioritet</string>
     <string name="notification_section_header_alerting">Bildirişlər</string>
@@ -1778,7 +1778,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_cellular_detail_over_limit">Limit aşılıb</string>
     <string name="quick_settings_cellular_detail_remaining_data">Qalan internet</string>
     <string name="quick_settings_cellular_detail_title">Mobil internet</string>
-    <string name="quick_settings_cellular_detail_unable_change">"Zəng əsnasında tənzimlənə bilmir"</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Zəng zamanı ayarlana bilmir"</string>
     <string name="quick_settings_close_user_panel">Bağla</string>
     <string name="quick_settings_color_correction_label">Rəng korreksiyası</string>
     <string name="quick_settings_connected">Bağlantılıdır</string>
@@ -1825,7 +1825,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_low_battery_toast_text">"Fənər istifadə edilə bilmir. Batareya çox azdır."</string>
     <string name="quick_settings_media_device_label">Media cihazı</string>
     <string name="quick_settings_mic_label">Mikrofon müraciəti</string>
-    <string name="quick_settings_more_settings">Daha çox tənzimləmə</string>
+    <string name="quick_settings_more_settings">Daha çox ayar</string>
     <string name="quick_settings_more_user_settings">İstifadəçi ayarları</string>
     <string name="quick_settings_mute_label">Səsi kəs</string>
     <string name="quick_settings_networks_available">Şəbəkələr əlçatandır</string>
@@ -1986,7 +1986,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="select_private_dns_configuration_title">Şəxsi DNS</string>
     <string name="select_usb_configuration_dialog_title">USB konfiqurasiyasını seçin</string>
     <string name="select_usb_configuration_title">USB konfiqurasiyasını seçin</string>
-    <string name="select_webview_provider_dialog_title">WebView tətbiqini tənzimlə</string>
+    <string name="select_webview_provider_dialog_title">WebView tətbiqini ayarla</string>
     <string name="select_webview_provider_title">WebView tətbiqi</string>
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
     <string name="send">Göndər</string>
@@ -2121,7 +2121,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="tile_disabled">Sıradan çıxarıldı</string>
     <string name="tile_unavailable">Əlçatmazdır</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_unit_just_now">İndicə</string>
     <string name="tip_close_flares">"Bu seans əsnasında tətbiq davranışı ilə bağlı bildirişlər almayacaqsınız"</string>
     <string name="title_usb_accessory">USB aksesuar</string>
@@ -2142,7 +2142,7 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="transcode_settings_title">Media transkodlaşdırma ayarları</string>
     <string name="transcode_user_control">Transkodlaşdırma ilkin seçimlərini yararsız et</string>
     <string name="transition_animation_scale_title">Keçid animasiya miqyası</string>
-    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi tənzimləyir</string>
+    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi ayarlayır</string>
     <string name="tts_default_lang_title">Dil</string>
     <string name="tts_default_pitch_summary">Sintez olunmuş nitqin tonuna təsir edir</string>
     <string name="tts_default_pitch_title">Ton</string>
@@ -2264,7 +2264,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="user_remove_user_message">Bu istifadəçinin bütün tətbiqləri və məlumatları silinəcək.</string>
     <string name="user_remove_user_remove">Sil</string>
     <string name="user_remove_user_title">İstifadəçi silinsin?</string>
-    <string name="user_set_lock_button">Kilid tənzimlə</string>
+    <string name="user_set_lock_button">Kilid ayarla</string>
     <string name="user_setup_button_setup_later">İndi yox</string>
     <string name="user_setup_button_setup_now">İndi quraşdır</string>
     <string name="user_setup_dialog_message">Şəxsin cihazı götürüb öz sahəsini quraşdıra bilməsi üçün müsait olduğuna əmin olun</string>

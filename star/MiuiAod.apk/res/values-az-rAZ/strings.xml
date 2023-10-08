@@ -369,7 +369,7 @@ dd/M"</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time_location">Saat mövqeyi</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_style">Stil</string>
     <string name="time_style_layout">Düzülüş</string>
     <string name="tip_to_open_aod_mode">Həmişə açıq ekran bağlıdır. İndi açılsın?</string>

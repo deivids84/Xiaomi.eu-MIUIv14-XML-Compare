@@ -244,7 +244,7 @@ seçimi"</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI müşahidə jurnalını fəallaşdır</string>
-    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu tənzimləməni dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
+    <string name="bt_hci_snoop_log_summary">Bluetooth paketlərini yaxala. (Bu ayarı dəyişdirdikdən sonra Bluetooth-u aç/bağla)</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Çıxışı dəyişdir</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">%1$s yayımlasanız və ya çıxışı dəyişdirsəniz, hazırkı yayımınız dayandırılacaq</string>
     <string name="bt_le_audio_broadcast_dialog_switch_app">%1$s yayımla</string>
@@ -270,7 +270,7 @@ seçimi"</string>
     <string name="clear_all">Hamısını təmizlə</string>
     <string name="clear_all_message">Bütün məlumat və kontaktlar silinsin?</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
-    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu tənzimləmə açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
+    <string name="confirm_enable_oem_unlock_text">XƏBƏRDARLIQ: Bu ayar açıq olduqda cihaz qoruma özəllikləri bu cihazda işləməyəcək.</string>
     <string name="confirm_enable_oem_unlock_title">OEM kilid açmaya icazə verilsin?</string>
     <string name="connected_to_metered_access_point">Ölçülmüş şəbəkəyə bağlandı</string>
     <string name="connected_via_app">%1$s vasitəsilə bağlantılıdır</string>
@@ -590,7 +590,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="select_private_dns_configuration_title">Şəxsi DNS</string>
     <string name="select_usb_configuration_dialog_title">USB konfiqurasiyasını seçin</string>
     <string name="select_usb_configuration_title">USB konfiqurasiyasını seçin</string>
-    <string name="select_webview_provider_dialog_title">WebView tətbiqini tənzimlə</string>
+    <string name="select_webview_provider_dialog_title">WebView tətbiqini ayarla</string>
     <string name="select_webview_provider_title">WebView tətbiqi</string>
     <string name="select_webview_provider_toast_text">Bu seçim artıq etibarlı deyil. Yenidən sınayın.</string>
     <string name="settings_label">Ayarlar</string>
@@ -653,7 +653,7 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="transcode_settings_title">Media transkodlaşdırma ayarları</string>
     <string name="transcode_user_control">Transkodlaşdırma ilkin seçimlərini yararsız et</string>
     <string name="transition_animation_scale_title">Keçid animasiya miqyası</string>
-    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi tənzimləyir</string>
+    <string name="tts_default_lang_summary">Danışılan mətn üçün dilə xas səsi ayarlayır</string>
     <string name="tts_default_lang_title">Dil</string>
     <string name="tts_default_pitch_summary">Sintez olunmuş nitqin tonuna təsir edir</string>
     <string name="tts_default_pitch_title">Ton</string>

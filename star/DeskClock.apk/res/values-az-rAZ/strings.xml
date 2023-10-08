@@ -51,7 +51,7 @@
     <string name="alert_ringtone">Zəngli saat səsi</string>
     <string name="alert_vibrate_enable_summary">Zəngli saat çalanda titrət</string>
     <string name="alert_volume">Zəng səsi səviyyəsi</string>
-    <string name="alert_volume_summary">Zəngli saat və taymerlər üçün səsin səviyyəsini tənzimlə</string>
+    <string name="alert_volume_summary">Zəngli saat və taymerlər üçün səsin səviyyəsini ayarla</string>
     <string name="alert_xiaoai_ringtone_desc">Mi AI danışır…</string>
     <string name="am">GƏ</string>
     <string name="app_label">Saat</string>
@@ -63,7 +63,7 @@
     <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> dəqiqə</string>
     <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> dəqiqə</string>
     <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> dəqiqə</string>
-    <string name="auto_silence_summary">Zəngli saat və taymerlər susdurulduqdan sonra vaxtı tənzimlə</string>
+    <string name="auto_silence_summary">Zəngli saat və taymerlər susdurulduqdan sonra vaxtı ayarla</string>
     <string name="auto_silence_title">Avto-susdurma</string>
     <string name="back">Çıx</string>
     <string name="bedtime">Yatmaq vaxtı</string>
@@ -293,7 +293,7 @@ d/M"</string>
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
     <string name="more_alert_setting">Əlavə zəngli saat ayarları</string>
-    <string name="more_setting">Daha çox tənzimləmə</string>
+    <string name="more_setting">Daha çox ayar</string>
     <string name="more_settings">Ayarlar</string>
     <string name="morning">Səhər</string>
     <string name="net_permission_cancel">"Razı deyiləm"</string>
@@ -352,11 +352,11 @@ d/M"</string>
     <string name="send">Göndər</string>
     <string name="set_alarm">Vaxt seçin</string>
     <string name="set_alarm_done">Hazırdır</string>
-    <string name="set_now">Tənzimlə</string>
+    <string name="set_now">Ayarla</string>
     <string name="setting_alarm_arriving_subtitle">Zəngli saat çalmazdan əvvəl bildirişləri göstər</string>
     <string name="setting_alarm_arriving_title">Zəng çalmazdan əvvəl bildiriş</string>
     <string name="setting_complete">Hazırdır</string>
-    <string name="shortcut_new_alarm">Zəngli saatı tənzimlə</string>
+    <string name="shortcut_new_alarm">Zəngli saat qur</string>
     <string name="shortcut_start_timer">Taymeri başlat</string>
     <string name="shortcut_stop_watch">Saniyəölçəni başlat</string>
     <string name="show_life_post_desc">"Bu özəlliyi bağlasanız, səhər hesabatları görüntülənməyəcək"</string>
@@ -381,8 +381,8 @@ d/M"</string>
     <string name="sleep_notification_title">Yatmaq vaxtıdır</string>
     <string name="sleep_record">Yuxunu izlə</string>
     <string name="sleep_record_desc">Yuxu verilənlərini yazmağa başlamaq üçün açın</string>
-    <string name="sleep_record_desc_detailed">Yuxu izləmə funksionallığı, Xiaomi Health tərəfindən təmin edilir. Bir dəfə işə saldıqdan sonra, Xiaomi Heath, telefon istifadənizə, fəaliyyət statistikalarına, tənzimlədiyiniz yatma və oyanma saatlarına görə yuxunuzu avtomatik olaraq yazır və statistikalarınızı qrafik şəklində göstərir. Yuxunu daha dəqiq izləmək üçün Xiaomi Health-ın avto-başlamasına icazə verin. Bütün əlaqəli datalar, asan idarə üçün cihazınızın yerli anbarında saxlanılacaq.</string>
-    <string name="sleep_record_desc_detailed_new">Yuxu izləmə, Mi Fitness Sleep özəlliyi tərəfindən təmin edilir. Bu özəlliyi açsanız, Mi Fitness, telefon istifadənizə, fəaliyyət statistikalarına, tənzimlədiyiniz yuxulama və oyanma saatlarına görə verilənləri avtomatik yığacaq və görüntüləyəcək. Yuxunu daha dəqiq izləmək üçün Mi Fitness-in avto-başlamasına icazə verin.</string>
+    <string name="sleep_record_desc_detailed">Yuxu izləmə funksionallığı, Xiaomi Health tərəfindən təmin edilir. Bir dəfə işə saldıqdan sonra, Xiaomi Heath, telefon istifadənizə, fəaliyyət statistikalarına, ayarladığınız yatma və oyanma saatlarına görə yuxunuzu avtomatik olaraq yazır və statistikalarınızı qrafik şəklində göstərir. Yuxunu daha dəqiq izləmək üçün Xiaomi Health-ın avto-başlamasına icazə verin. Bütün əlaqəli datalar, asan idarə üçün cihazınızın yerli anbarında saxlanılacaq.</string>
+    <string name="sleep_record_desc_detailed_new">Yuxu izləmə, Mi Fitness Sleep özəlliyi tərəfindən təmin edilir. Bu özəlliyi açsanız, Mi Fitness, telefon istifadənizə, fəaliyyət statistikalarına, ayarladığınız yuxulama və oyanma saatlarına görə verilənləri avtomatik yığacaq və görüntüləyəcək. Yuxunu daha dəqiq izləmək üçün Mi Fitness-in avto-başlamasına icazə verin.</string>
     <string name="sleep_record_no_data">Xiaomi Health, yetərli verilənləri təhlil etdikdən sonra statistikalarınız burada görünəcək</string>
     <string name="sleep_remind">Yuxu vaxtı xatırladıcısı</string>
     <string name="sleep_time">Yuxuya getmə</string>
@@ -399,7 +399,7 @@ d/M"</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="system_permission_agree_desc">Bütün özəlliklərə müraciət etmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
-    <string name="system_permission_main_purpose">Saata baxma, zəngli saatları və taymerləri tənzimləmə, saniyəölçəni istifadə etmə</string>
+    <string name="system_permission_main_purpose">Saata baxma, zəngli saatları və taymerləri qurma, saniyəölçəni istifadə etmə</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

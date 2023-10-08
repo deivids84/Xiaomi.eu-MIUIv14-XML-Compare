@@ -404,7 +404,7 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>İlkin sistem tənzimləməsini istifadə et: %1$d</item>
+        <item>Sistemin ilkin dəyərini istifadə et: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -818,7 +818,7 @@
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Son 30 gün</item>
-        <item>İstifadə dövrünü tənzimlə...</item>
+        <item>İstifadə dövrünü ayarla...</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Bu gün (mobil internet) "</item>
@@ -1234,7 +1234,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Menyunu göstər</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Göstərilən məzmuna görə rəngləri tənzimlə</item>
+        <item>Rəngləri göstərilən məzmuna görə ayarla</item>
         <item>Rəngləri həmişə artır</item>
         <item>Kontrast sabit qalacaq</item>
     </string-array>
@@ -1397,7 +1397,7 @@ Qeyd: Yalnız Ubuntu 8.04 üçün!"</item>
         <item>Animasiya miqyası 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Göstərilən məzmuna görə rəngləri tənzimlə</item>
+        <item>Rəngləri göstərilən məzmuna görə ayarla</item>
         <item>Rəngləri həmişə artır</item>
         <item>Ekran məzmununun standart rəngini rəng dərəcələndirmə ilə bərpa et</item>
     </string-array>

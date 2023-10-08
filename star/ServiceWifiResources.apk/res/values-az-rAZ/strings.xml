@@ -64,9 +64,9 @@
     <string name="wifi_connect_alert_message">%1$s tətbiqi %2$s Wi-Fi şəbəkəsinə bağlanmaq istəyir</string>
     <string name="wifi_connect_alert_title">Bağlantıya icazə verilsin?</string>
     <string name="wifi_connect_default_application">Tətbiq</string>
-    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Tənzimləməni dəyişdir</string>
-    <string name="wifi_disable_mac_randomization_dialog_failure">"Gizlilik tənzimləməsi dəyişdirilə bilmir"</string>
-    <string name="wifi_disable_mac_randomization_dialog_message">"Bağlantı qurmaq üçün %1$s, unikal identifikator olan cihazın MAC ünvanını istifadə etməlidir. Hazırda, bu şəbəkə üçün gizlilik tənzimləməniz təsadüfi bir identifikator istifadə edir.
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Ayarı dəyişdir</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">"Gizlilik ayarı dəyişdirilə bilmir"</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"Bağlantı qurmaq üçün %1$s, unikal identifikator olan cihazın MAC ünvanını istifadə etməlidir. Hazırda, bu şəbəkə üçün gizlilik ayarınız təsadüfi bir identifikator istifadə edir.
 
 Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfindən izlənilməsinə icazə verə bilər."</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Şəbəkə tapılmadı</string>

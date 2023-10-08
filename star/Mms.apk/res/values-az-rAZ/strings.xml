@@ -550,7 +550,7 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_audio_forward">"Səsli mesajlar yönləndirilə bilmir"</string>
     <string name="not_support_file">"Bu növ fayllar göndərilə bilmir"</string>
-    <string name="notes_not_found">Əvvəlcə \"Qeydlər\"i quraşdırın</string>
+    <string name="notes_not_found">Əvvəlcə \"Notlar\"ı quraşdır</string>
     <string name="notification_add_todo">Xatırlat</string>
     <string name="notification_add_todo_content">Alıcı kodu: %s</string>
     <string name="notification_channel_msg_description">Mesajlarla bağlı bildirişlər</string>
@@ -691,9 +691,9 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
 %s
 Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul edin."</string>
     <string name="privacy_dialog_title_update">Güncəllənmiş Gizlilik Siyasəti</string>
-    <string name="privacy_password_message1">Gizlilik qoruma parolu foto, qeyd və gizli qovluqlar üçün işləyir.</string>
-    <string name="privacy_password_message2">Gizlilik qoruma parolunu istifadə edin. Foto, qeyd və gizli qovluqlar üçün işləyir.</string>
-    <string name="privacy_password_message3">Mesajlaşma parolu, fotolar, qeydlər və gizli qovluqlar üçün işləyən Gizlilik qoruma parolu ilə əvəzlənəcək.</string>
+    <string name="privacy_password_message1">Gizlilik qoruma parolu fotolar, notlar və gizli qovluqlar üçün işləyir.</string>
+    <string name="privacy_password_message2">Gizlilik qoruma parolunu istifadə edin. Fotolar, notlar və gizli qovluqlar üçün işləyir.</string>
+    <string name="privacy_password_message3">Mesajlaşma parolu, fotolar, notlar və gizli qovluqlar üçün işləyən Gizlilik qoruma parolu ilə əvəzlənəcək.</string>
     <string name="privacy_password_set_password">Ayarla</string>
     <string name="privacy_password_title1">Parol təyin et</string>
     <string name="privacy_password_title2">Gizlilik qoruma parolunu istifadə et</string>

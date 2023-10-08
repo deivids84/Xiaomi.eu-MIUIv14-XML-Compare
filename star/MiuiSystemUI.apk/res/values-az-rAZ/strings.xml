@@ -182,7 +182,7 @@
     <string name="accessibility_qs_edit_tile_removed">%1$s silindi</string>
     <string name="accessibility_qs_edit_tile_start_add">Qutu əlavə et</string>
     <string name="accessibility_qs_edit_tile_start_move">Qutunu daşı</string>
-    <string name="accessibility_quick_settings_alarm">%s üçün zəngli saat ayarlandı.</string>
+    <string name="accessibility_quick_settings_alarm">%s üçün zəngli saat quruldu.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihazınızın batareyası %d faizdir.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth açıqdır.</string>
@@ -880,8 +880,8 @@ Kilidi açmaq üçün PIN-nizi daxil edin."</string>
     <string name="gxzw_quick_close">Bağla</string>
     <string name="gxzw_quick_open_add_event">Tədbir əlavə et</string>
     <string name="gxzw_quick_open_add_event_sub">Təqvim</string>
-    <string name="gxzw_quick_open_add_note">Qeyd əlavə et</string>
-    <string name="gxzw_quick_open_add_note_sub">Qeydlər</string>
+    <string name="gxzw_quick_open_add_note">Not əlavə et</string>
+    <string name="gxzw_quick_open_add_note_sub">Notlar</string>
     <string name="gxzw_quick_open_alipay_pay">Ödəniş kodu</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">Skaner</string>
@@ -1714,7 +1714,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="profile_connect_timeout_subtext">Bağlantı problemi. Cihazın söndürüb yenidən açın</string>
     <string name="profile_info_settings_title">Profil məlumatı</string>
     <string name="qr_code_scanner_title">QR kodu skan et</string>
-    <string name="qs_alarm_tile_no_alarm">Zəngli saat ayarlanmadı</string>
+    <string name="qs_alarm_tile_no_alarm">Zəngli saat qurulmayıb</string>
     <string name="qs_control_big_tile_state_closed">Bağlı</string>
     <string name="qs_control_big_tile_state_closing">Söndürülür…</string>
     <string name="qs_control_big_tile_state_connected">Bağlantılıdır</string>

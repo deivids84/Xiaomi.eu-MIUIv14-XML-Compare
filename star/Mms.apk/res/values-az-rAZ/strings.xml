@@ -604,7 +604,7 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="pref_edit_smsc_address">Qısa Mesaj xidmət mərkəzi (SMSC)</string>
     <string name="pref_forward_title">Yönləndir</string>
     <string name="pref_hide_verification_code_summary">Güvənli Kilid ekranındakı mesaj bildirişlərində birdəfəlik parolları avtomatik gizlət</string>
-    <string name="pref_messages_to_save">Saxlanılacaq mesaj sayını tənzimlə</string>
+    <string name="pref_messages_to_save">Saxlanılacaq mesaj sayını ayarla</string>
     <string name="pref_mms_settings_title">Multimedia (MMS) mesajları</string>
     <string name="pref_msg_trash_bin_title">Silinmiş mesajlar</string>
     <string name="pref_notification_settings_title">Bildirişlər</string>
@@ -694,7 +694,7 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="privacy_password_message1">Gizlilik qoruma parolu foto, qeyd və gizli qovluqlar üçün işləyir.</string>
     <string name="privacy_password_message2">Gizlilik qoruma parolunu istifadə edin. Foto, qeyd və gizli qovluqlar üçün işləyir.</string>
     <string name="privacy_password_message3">Mesajlaşma parolu, fotolar, qeydlər və gizli qovluqlar üçün işləyən Gizlilik qoruma parolu ilə əvəzlənəcək.</string>
-    <string name="privacy_password_set_password">Tənzimlə</string>
+    <string name="privacy_password_set_password">Ayarla</string>
     <string name="privacy_password_title1">Parol təyin et</string>
     <string name="privacy_password_title2">Gizlilik qoruma parolunu istifadə et</string>
     <string name="privacy_password_title3">Parolu güncəllə</string>
@@ -967,7 +967,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="service_message_not_found">Mesajın vaxtı bitdi və ya mesaj əlçatmazdır</string>
     <string name="service_network_problem">"Şəbəkə probleminə görə göndərilə bilmədi"</string>
     <string name="service_not_activated">Xidmət şəbəkə üzərində aktivləşdirilməyib</string>
-    <string name="set">Tənzimlə</string>
+    <string name="set">Ayarla</string>
     <string name="share">Paylaş</string>
     <string name="shortcut_new_msg">Yeni mesaj</string>
     <string name="shortcut_setting">Ayarlar</string>
@@ -1098,7 +1098,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="timed_message_expired_title_2">İndi göndərilsin?</string>
@@ -1112,7 +1112,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="title_show_list_avatar">Profil şəkillərini göstər</string>
     <string name="title_show_photo_word">Kontakt fotolarını təyin et</string>
     <string name="title_show_sms_template">Ağıllı Mesajlaşma</string>
-    <string name="title_timed_message_dialog">Vaxtlı mesajları tənzimlə</string>
+    <string name="title_timed_message_dialog">Vaxtlı mesajları ayarla</string>
     <string name="title_use_gsm_alphabet">GSM əlifbasını istifadə et</string>
     <string name="to_address_label">"Kimə: "</string>
     <string name="to_send_wrapper">%s göndəriləcək</string>

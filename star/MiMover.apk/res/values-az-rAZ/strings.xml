@@ -485,7 +485,7 @@ Söndürmək üçün https://appleid.apple.com/#!&amp;page=signin ünvanını zi
     <string name="not_support_data_summary3">"Sistem məhdudiyyətlərinə görə, İkinci sahədəki elementlər Mi Mover ilə köçürülə bilməz."</string>
     <string name="not_support_data_summary4">"İkili tətbiqlər və onların verilənləri köçürülə bilməz. Ancaq, müvafiq əsas tətbiqləri köçürə bilərsiniz."</string>
     <string name="not_support_data_title">"Köçürülə bilməyən elementlər"</string>
-    <string name="note">Qeydlər</string>
+    <string name="note">Notlar</string>
     <string name="nothing_chosen">Əvvəlcə elementləri seçin</string>
     <string name="notif_icloud_canceled_summary">Ləğv edildi</string>
     <string name="notif_icloud_canceling_summary">Ləğv edilir…</string>
@@ -655,7 +655,7 @@ Daxilə köçürülməyən verilənlər yenidən daxilə köçürülməlidir."</
     <string name="select_item_calendar">Təqvim</string>
     <string name="select_item_contacts">Kontaktlar</string>
     <string name="select_item_empty_summary">Burada element yoxdur</string>
-    <string name="select_item_notes">Qeydlər</string>
+    <string name="select_item_notes">Notlar</string>
     <string name="select_item_photos">Fotolar</string>
     <string name="select_item_remind">Xatırladıcılar</string>
     <string name="select_item_summary_loading">Bir saniyə…</string>

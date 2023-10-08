@@ -243,9 +243,9 @@
     <string name="bad_puk2">Daxil etdiyiniz PUK2 yanlışdır.</string>
     <string name="band_mode_failed">Uğursuz</string>
     <string name="band_mode_loading">Bant siyahısı yüklənir…</string>
-    <string name="band_mode_set">Tənzimlə</string>
+    <string name="band_mode_set">Ayarla</string>
     <string name="band_mode_succeeded">Uğurlu</string>
-    <string name="band_mode_title">Radio bant rejimini tənzimlə</string>
+    <string name="band_mode_title">Radio bant rejimini ayarla</string>
     <string name="bf_news_settings">Biznes və maliyyə xəbərləri</string>
     <string name="c_iwlan_exit_notification_description">Onu söndürmək xidməti əldə etməyə kömək edə bilər.</string>
     <string name="c_iwlan_exit_notification_negative_button">RƏDD ET</string>
@@ -424,7 +424,7 @@
     <string name="caller_id_title">Zəng edən kimliyi</string>
     <string name="calling_via_template">%s üzərindən</string>
     <string name="callwait_open_hint">\"Zəng gözlətmə\" özəlliyi operatorunuz tərəfindən təmin edilir. Bir xəta bildirişi alsanız, bu özəlliyin dəstəkləndiyinə əmin olmaq üçün operatorunuzla əlaqə saxlayın.</string>
-    <string name="can_not_use_for_not_data_sim">"(İstifadə edilə bilmir: İlkin data SIM kartı olaraq tənzimlənməlidir)"</string>
+    <string name="can_not_use_for_not_data_sim">"(İstifadə edilə bilmir: İlkin data SIM kartı olaraq ayarlanmalıdır)"</string>
     <string name="cancel">İmtina</string>
     <string name="card_title_call_ended">Zəng sonlandırıldı</string>
     <string name="card_title_conf_call">Konfrans zəngi</string>
@@ -469,7 +469,7 @@
     <string name="cfnrc_title_cta">Əlçatmaz olduqda yönləndir</string>
     <string name="cfnry_time_fifteen_sec">%d san</string>
     <string name="cfnry_time_five_sec">%d san</string>
-    <string name="cfnry_time_setting_title">Gözləmə vaxtını tənzimlə</string>
+    <string name="cfnry_time_setting_title">Gözləmə vaxtını ayarla</string>
     <string name="cfnry_time_ten_sec">%d san</string>
     <string name="cfnry_time_thirty_sec">%d san</string>
     <string name="cfnry_time_twenty_five_sec">%d san</string>
@@ -494,12 +494,12 @@
     <string name="change_pin_enter_old_pin_hint">Davam etmək üçün səsli mesaj PIN kodunuzu daxil edin.</string>
     <string name="change_pin_ok_label">Oldu</string>
     <string name="change_pin_succeeded">Səsli mesaj PIN-i güncəlləndi</string>
-    <string name="change_pin_system_error">PIN tənzimlənə bilmir</string>
+    <string name="change_pin_system_error">PIN ayarlana bilmir</string>
     <string name="change_pin_title">Səsli mesaj PIN-ini dəyişdir</string>
     <string name="china_mobile_palm_category">Operator xidmətləri</string>
     <string name="china_mobile_palm_title">CMCC Onlayn Xidmət Zalı</string>
     <string name="choose_network_title">Şəbəkə seçin</string>
-    <string name="clear_all_set_button">tənzimləməni təmizlə</string>
+    <string name="clear_all_set_button">ayarı təmizlə</string>
     <string name="clear_all_set_title">bu düymə, bütün ayarları təmizləmək üçündür</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">"Zəng tamamlana bilmədi. Xəta kodu: 68."</string>
@@ -556,7 +556,7 @@
     <string name="clh_card_title_call_ended_txt">Zəng sonlandırıldı</string>
     <string name="clh_incall_error_out_of_service_txt">Mobil şəbəkə əlçatmazdır</string>
     <string name="clir_choices_hide_number">Nömrəni gizlət</string>
-    <string name="clir_choices_network_default">Şəbəkə ilkin tənzimləməsi</string>
+    <string name="clir_choices_network_default">Şəbəkə ilkin dəyəri</string>
     <string name="clir_choices_show_number">Nömrəni göstər</string>
     <string name="close">Söndür</string>
     <string name="close_dialog">Oldu</string>
@@ -669,12 +669,12 @@
     <string name="dsda_title">\"5G+4G DSDA\"nı işə sal</string>
     <string name="dsds_dialog_cancel">İmtina</string>
     <string name="dsds_dialog_confirm">Yenidən başlat</string>
-    <string name="dsds_dialog_message">Bu tənzimləməni dəyişdirmək üçün cihazınızı yenidən başlatmalısınız.</string>
+    <string name="dsds_dialog_message">Bu ayarı dəyişdirmək üçün cihazınızı yenidən başlatmalısınız.</string>
     <string name="dsds_dialog_title">Cihaz yenidən başladılsın?</string>
     <string name="dsds_switch_string">DSDS-i fəallaşdır</string>
     <string name="dtmf_tone_entries_long">Uzun</string>
     <string name="dtmf_tone_entries_normal">Normal</string>
-    <string name="dtmf_tones_summary">DTMF tonlarının uzunluğunu tənzimlə</string>
+    <string name="dtmf_tones_summary">DTMF tonlarının uzunluğunu ayarla</string>
     <string name="dtmf_tones_title">DTMF tonları</string>
     <string name="dual_4g_switch_summary">Hər iki SIM kart yuvası üçün 4G bağlantısına icazə ver</string>
     <string name="dual_4g_switch_title">İkili 4G</string>
@@ -740,7 +740,7 @@
     <string name="enable_pin_ok">PIN ayarlandı</string>
     <string name="enable_proximity_summary">"Zəng əsnasında cihazı qulağınıza aparanda ekran avtomatik sönür"</string>
     <string name="enable_proximity_title">Yaxınlıq sensoru</string>
-    <string name="enable_sim_pin">SIM PIN-i tənzimlə</string>
+    <string name="enable_sim_pin">SIM PIN-i ayarla</string>
     <string name="enable_vice_volte_if_dual_ct">İki China Telecom SIM kartı taxılanda, ikinci SIM üçün VoLTE-ni avtomatik işə sal.</string>
     <string name="enable_video_calling_dialog_close">Bağla</string>
     <string name="enable_video_calling_dialog_msg">Görüntülü zəngi işə salmaq üçün, şəbəkə ayarlarında Təkmilləşdirilmiş 4G LTE rejimini fəallaşdırmaq lazımdır.</string>
@@ -781,7 +781,7 @@
     <string name="fdn">Sabit Yığım Nömrələri</string>
     <string name="fdnListLabel">FDN siyahısı</string>
     <string name="fdn_activation">FDN aktivləşdirmə</string>
-    <string name="fdn_check_failure">"Telefon tətbiqinizin Sabit Yığım Nömrələri tənzimləməsi açıqdır. Nəticədə, zənglə əlaqəli bəzi özəlliklər işləmir."</string>
+    <string name="fdn_check_failure">"Telefon tətbiqinizin Sabit Yığım Nömrələri ayarı açıqdır. Nəticədə, zənglə əlaqəli bəzi özəlliklər işləmir."</string>
     <string name="fdn_contact_added">Sabit yığım nömrəsi əlavə edildi.</string>
     <string name="fdn_contact_deleted">Sabit yığım nömrəsi silindi.</string>
     <string name="fdn_contact_updated">Sabit yığım nömrəsi güncəlləndi.</string>

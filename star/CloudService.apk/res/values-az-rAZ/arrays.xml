@@ -15,29 +15,29 @@
         <item>Anbar</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
+        <item>Kontaktlarınızı, mesajlarınızı, notlarınızı, təqviminizi və daha çoxunu sinxronlaşdırın</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
         <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
+        <item>Kontaktlarınızı, mesajlarınızı, notlarınızı, təqviminizi və daha çoxunu sinxronlaşdırın</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
         <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
+        <item>Kontaktlarınızı, mesajlarınızı, notlarınızı, təqviminizi və daha çoxunu sinxronlaşdırın</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
         <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
-        <item>Fotolarınızı, qeydlərinizi, səsyazmalarınızı və daha çoxunu sinxronlaşdırın</item>
+        <item>Fotolarınızı, notlarınızı, səsyazmalarınızı və daha çoxunu sinxronlaşdırın</item>
         <item>"Cihazınızı itirsəniz uzaqdan kilidləyin"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
-        <item>Kontaktları, mesajları, qeydləri, təqvimi və daha çoxunu sinxronlaşdır</item>
+        <item>Kontaktlarınızı, mesajlarınızı, notlarınızı, təqviminizi və daha çoxunu sinxronlaşdırın</item>
         <item>Tətbiqləri, Əsas ekran düzümünü və divar kağızını nüsxələyin</item>
         <item>Wi-Fi və ekran daxil olmaqla vacib ayarları nüsxələyin</item>
         <item>"Əgər cihazınızı itirsəniz uzaqdan kilidləyin"</item>
@@ -103,14 +103,14 @@
         <item>Qalereya;Fotolar;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Qeydləri Xiaomi Cloud ilə sinxronlaşdırın</item>
+        <item>Notları Xiaomi Cloud ilə sinxronlaşdır</item>
         <item>Sinxrn. aç</item>
-        <item>Qeydlər;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
+        <item>Notlar;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
-        <item>Qeydləri Xiaomi Cloud ilə sinxronlaşdırın</item>
+        <item>Notları Xiaomi Cloud ilə sinxronlaşdır</item>
         <item>Sinxrn. aç</item>
-        <item>Qeydlər;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
+        <item>Notlar;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Tətbiq kassasını Xiaomi Cloud ilə sinxronlaşdır</item>
@@ -134,7 +134,7 @@
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
         <item>Xiaomi Cloud-dakı silinən elementlər</item>
-        <item>Fotoları, qeydləri və daha çoxunu bərpa edin</item>
+        <item>Fotoları, notları və daha çoxunu bərpa et</item>
         <item>Tullantı;Silinən elementlər;Tullantı qutusu;Bərpa et;Cloud xidmətləri;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
@@ -169,7 +169,7 @@
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
         <item>Xiaomi Cloud. Bütün Mi xidmətləri bir yerdə.</item>
-        <item>Fotolarınıza, qeydlərinizə və cihazlarınıza istənilən yerdən müraciət edin</item>
+        <item>Fotolarınıza, notlarınıza və cihazlarınıza istənilən yerdən müraciət edin</item>
         <item>Yetərsiz anbar;Üzvlük;Anbar;Anbar sahəsi;Cloud;Sinxronlaşdırma;Cloud xidmətləri;Xiaomi Cloud;Tullantı;Silinən elementlər;Güvənlik</item>
     </string-array>
     <string-array name="settings_search_wlan">

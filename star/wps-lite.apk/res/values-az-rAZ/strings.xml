@@ -165,7 +165,7 @@
     <string name="ppt_sharedplay_miracast_device_list_title">Cihazlar</string>
     <string name="ppt_sharedplay_search_failed_toast">Görünən Miracast cihazları tapılmadı</string>
     <string name="ppt_sharedplay_wireless_display">\"Naqilsiz ekranı fəallaşdır\" seçimini işarələdikdən sonra Miracast cihazı ilə bağlantı qurula bilər</string>
-    <string name="ppt_show_note">Qeydləri göstər</string>
+    <string name="ppt_show_note">Notları göstər</string>
     <string name="ppt_turn_the_page_by_click">Səhifənin soluna və ya sağına toxunaraq səhifə dəyişdirə bilərsiniz</string>
     <string name="ppt_video_cannot_find_external_video">Video fayl yoxdur, faylların eyni qovluqda olub-olmadığını yoxlayın.</string>
     <string name="ppt_video_cannot_play_online_video">"Onlayn video dəstəklənmir"</string>
@@ -341,7 +341,7 @@
     <string name="writer_characters">Simvollar (boşluqsuz)</string>
     <string name="writer_characters_with_spaces">Simvollar (boşluqla)</string>
     <string name="writer_comment_modify_username_tip">Adınızı daxil etdikdən sonra rəylərdə və təftişlərdə göstəriləcəkdir.</string>
-    <string name="writer_count_include_textboxes_footnotes_and_endnotes">Mətn qutuları, alt qeydlər və son qeydləri ehtiva edir</string>
+    <string name="writer_count_include_textboxes_footnotes_and_endnotes">Mətn qutuları, alt notlar və son notlar daxildir</string>
     <string name="writer_count_words">Söz sayı</string>
     <string name="writer_edit_mode">Düzəliş rejimi</string>
     <string name="writer_end_note">Son qeyd</string>

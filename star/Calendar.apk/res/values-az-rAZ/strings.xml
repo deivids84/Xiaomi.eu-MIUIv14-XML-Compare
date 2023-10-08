@@ -684,8 +684,8 @@
     <string name="select_menstruation_end_date">Bu periodun bitmə tarixini seçin</string>
     <string name="select_weekly_off_dialog_title">İstirahət günlərini seçin</string>
     <string name="send">Göndər</string>
-    <string name="set_interval">Aralığı tənzimlə</string>
-    <string name="set_reminder">Xatırladıcını tənzimlə</string>
+    <string name="set_interval">Aralığı ayarla</string>
+    <string name="set_reminder">Xatırladıcı qur</string>
     <string name="setting">Ayarlar</string>
     <string name="setting_about_calendar_version">Təqvim versiyası:</string>
     <string name="setting_about_imei">IMEI:</string>

@@ -486,7 +486,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="toast_max_record_time">%1$s, təxminən %2$s səs yaza bilər</string>
     <string name="toast_uninstall_fileexplorer">"Fayl Meneceri quraşdırılmayıb"</string>
     <string name="today">Bu gün</string>

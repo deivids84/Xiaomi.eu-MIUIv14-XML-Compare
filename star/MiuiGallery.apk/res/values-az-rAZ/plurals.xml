@@ -121,8 +121,8 @@
         <item quantity="one">%d dəq ərzində davam edəcək</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Fotoların, videoların, kontaktların, qeydlərin və digər elementlərin buludla sinxronlaşdırılmasına %d dəqiqəlik fasilə verin.</item>
-        <item quantity="one">Fotoların, videoların, kontaktların, qeydlərin və digər elementlərin buludla sinxronlaşdırılmasına %d dəqiqəlik fasilə verin.</item>
+        <item quantity="other">Fotoların, videoların, kontaktların, qeydlərin və digər elementlərin buludla sinxr.sına %d dəqiqəlik fasilə verin.</item>
+        <item quantity="one">Fotoların, videoların, kontaktların, notların və digər elementlərin buludla sinxr.sına %d dəqiqəlik fasilə verin.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d foto və ya video | %2$s</item>

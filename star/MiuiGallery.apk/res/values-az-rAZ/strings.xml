@@ -1185,7 +1185,7 @@ mövcuddur"</string>
     <string name="global_pc">Noutbukum</string>
     <string name="global_phone">Telefonum</string>
     <string name="google_login_btn_content_description">Google ilə daxil olun</string>
-    <string name="grant_permission_go_and_set">Tənzimlə</string>
+    <string name="grant_permission_go_and_set">Ayarla</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
     <string name="grant_permission_go_and_set_3">Ayarlar</string>
     <string name="grant_permission_manage_storage">Tələb olunan icazələr</string>
@@ -1195,9 +1195,9 @@ mövcuddur"</string>
     <string name="grant_permission_storage_unlock">Cihazınızın kilidiin açın və əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
     <string name="grant_permission_text">"Qalereyanın normal işləməsi üçün 
 %s
- müraciətinə ehtiyacı var, İcazələrə getmək üçün \"Tənzimlə\"yə toxunun."</string>
+ müraciətinə ehtiyacı var, İcazələrə getmək üçün \"Ayarla\"ya toxunun."</string>
     <string name="grant_permission_title">Müraciətə icazə ver</string>
-    <string name="grant_permission_unlock_and_set">Kilidi aç və tənzimlə</string>
+    <string name="grant_permission_unlock_and_set">Kilidi aç və ayarla</string>
     <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
     <string name="grant_permission_write_clipboard">Elementləri kopyalaya bilmək üçün bu tətbiqin elementləri lövhədə saxlamasına icazə verin.</string>
     <string name="group_header_title_immutable_album">Fotoları düz</string>
@@ -1549,7 +1549,7 @@ mövcuddur"</string>
     <string name="migrate_gp_msg_link">Detallara bax</string>
     <string name="migrate_gp_title">Buludla sinxronlaşdırma artıq əlçatmazdır</string>
     <string name="migrate_msg">Bəzi albomlar, bir sistem güncəlləməsindən sonra elementləri daşımaq üçün icazə tələb edir.</string>
-    <string name="miplay_adjust_volume">Səsi %d olaraq tənzimlə</string>
+    <string name="miplay_adjust_volume">Səsi %d olaraq ayarla</string>
     <string name="miplay_circulate_failed">"Oxutma ötürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="miplay_circulating_msg">Oxutma ötürülür…</string>
     <string name="miplay_pause_video">Fasilə ver</string>
@@ -1814,7 +1814,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="operation_delete_all_albums_from_rubbish_page_tip">"Sildikdən sonra albomları bərpa edə bilməyəcəksiniz. Yenə də silinsin?"</string>
     <string name="operation_detail">Detallar</string>
     <string name="operation_disable_auto_upload">Buludla sinxronlaşdırmanı söndür</string>
-    <string name="operation_doc_correction">Tənzimlə</string>
+    <string name="operation_doc_correction">Ayarla</string>
     <string name="operation_download">Orijinalı endir (%s)</string>
     <string name="operation_edit">Düzəliş et</string>
     <string name="operation_edit_video">Düzəliş et</string>
@@ -1848,10 +1848,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="operation_replace_album_cover_status_success">Albom üzü uğurla dəyişdirildi</string>
     <string name="operation_save">Saxla</string>
     <string name="operation_send">Göndər</string>
-    <string name="operation_set_contact_photo">Kontakt fotosu olaraq tənzimlə</string>
-    <string name="operation_set_slide_wallpaper">Slayd şou divar kağızı olaraq tənzimlə</string>
+    <string name="operation_set_contact_photo">Kontakt fotosu olaraq ayarla</string>
+    <string name="operation_set_slide_wallpaper">Slayd şou divar kağızı olaraq ayarla</string>
     <string name="operation_set_video_wallpaper">Video divar kağızı et</string>
-    <string name="operation_set_wallpaper">Divar kağızı olaraq tənzimlə</string>
+    <string name="operation_set_wallpaper">Divar kağızı olaraq ayarla</string>
     <string name="operation_share">Paylaş</string>
     <string name="operation_share_manage">Paylaşılan elementləri idarə et</string>
     <string name="operation_show_in_photos_tab">Fotolarda göstər</string>
@@ -2007,7 +2007,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo">Fotolar</string>
     <string name="photoPickerNotFoundText">İstifadə ediləcək foto yoxdur.</string>
     <string name="photo_edit_file_not_exits_tip">Düzəliş etməzdən əvvəl fotonu endir</string>
-    <string name="photo_editor_adjust">Tənzimlə</string>
+    <string name="photo_editor_adjust">Ayarla</string>
     <string name="photo_editor_beautify">Gözəlləşdirmə</string>
     <string name="photo_editor_beautify_auto">Avto</string>
     <string name="photo_editor_beauty_compare">Orijinal</string>
@@ -2521,19 +2521,19 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="send_secret_file_space_low">Yetərsiz anbar sahəsi</string>
     <string name="service_error">Server xətası</string>
     <string name="service_is_provided_by_miui_cloud_service">Bu xidmət Xiaomi Cloud tərəfindən təmin edilir</string>
-    <string name="set_as_baby_lock_wallpaper">Kilid ekranı divar kağızı olaraq tənzimlə</string>
+    <string name="set_as_baby_lock_wallpaper">Kilid ekranı divar kağızı olaraq ayarla</string>
     <string name="set_as_slide_wallpaper_description">Bu təsvir bir eksizdir, orijinalı endirilsin?</string>
-    <string name="set_as_slide_wallpaper_title">Slayd şou divar kağızı olaraq tənzimlə</string>
+    <string name="set_as_slide_wallpaper_title">Slayd şou divar kağızı olaraq ayarla</string>
     <string name="set_as_video_wallpaper_description">Bu elementi endirib video divar kağızı olaraq istifadə edirsiniz?</string>
     <string name="set_as_video_wallpaper_title">Video divar kağızı et</string>
     <string name="set_as_wallpaper_description">Bu təsvir bir eksizdir, orijinalı endirilsin?</string>
-    <string name="set_as_wallpaper_title">Divar kağızı olaraq tənzimlə</string>
+    <string name="set_as_wallpaper_title">Divar kağızı olaraq ayarla</string>
     <string name="set_face_group_toast_msg_new_user">Birləşdirmək və ya yox saymaq üçün bir şəxsi basılı tutun.</string>
     <string name="set_face_group_toast_msg_old_user">"Qrup yaratmaq üçün bir şəxsin fotosunu basılı tutun (Ailə, Dostlar, Sinif yoldaşları və s.)"</string>
     <string name="set_face_group_toast_title_new_user">Təklif</string>
     <string name="set_face_group_toast_title_old_user">İnsanlar qrup halında düzülə bilər</string>
-    <string name="set_face_image">Yeni bir profil şəkli tənzimlə</string>
-    <string name="set_group">Qrupu tənzimlə</string>
+    <string name="set_face_image">Yeni bir profil şəkli ayarla</string>
+    <string name="set_group">Qrupu ayarla</string>
     <string name="set_video_wallpaper_failed">"Bu element video divar kağızı olaraq istifadə edilə bilmir"</string>
     <string name="set_wallpaper_get_image_failed">"Şəkil endirilə bilmədi, daha sonra yenidən sınayın"</string>
     <string name="setup_network_connection">Şəbəkə ayarları</string>
@@ -3031,7 +3031,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="time_burst_save_dialog_title">Elementləri xaricə köçür</string>
     <string name="time_burst_save_select">Seçilmiş fotoları xaricə köçür</string>
     <string name="time_burst_save_video">Video olaraq saxla</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="tip_capture_location">Yerləşmə:</string>
@@ -3275,7 +3275,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_editor_not_support_8k_tips">"%dK videolara düzəliş edilə bilmir"</string>
     <string name="video_editor_not_support_tips">"Belə video fayllar dəstəklənmir"</string>
     <string name="video_editor_ok">Oldu</string>
-    <string name="video_editor_regulator">Tənzimlə</string>
+    <string name="video_editor_regulator">Ayarla</string>
     <string name="video_editor_res_download_failed_tips">"Endirilə bilmədi, şəbəkə ayarlarınızı yoxlayıb yenidən sınayın"</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Film musiqisi mobil internet ilə endirilsin?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Mobil internet istifadə edilir</string>
@@ -3294,9 +3294,9 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_editor_smart_effect_radical">Upbeat</string>
     <string name="video_editor_smart_effect_rhythm">Yanıb sönmə</string>
     <string name="video_editor_smart_effect_street">Metropolis</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Bu effekt %d saniyədən uzun olmayan videolara tətbiq edilə bilər. Müddəti avtomatik tənzimlənir.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Bu effekt %d saniyədən uzun olmayan videolara tətbiq edilə bilər. Müddəti avtomatik ayarlanır.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Bu effekti ən azı %d saniyə uzunluğunda olan videolara tətbiq edə bilərsiniz.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Bu effekt %d saniyədən uzun olmayan videolara tətbiq edilə bilər. Müddəti avtomatik tənzimlənir.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Bu effekt %d saniyədən uzun olmayan videolara tətbiq edilə bilər. Müddəti avtomatik ayarlanır.</string>
     <string name="video_editor_template_family">Ailə</string>
     <string name="video_editor_template_forbidden_tips">"Bir şablon istifadə edərkən bunu edə bilməzsiniz"</string>
     <string name="video_editor_template_oldfilm">Köhnə</string>
@@ -3473,7 +3473,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_support_max_number">Bir layihəyə ən çox %1$d video əlavə edə bilərsiniz</string>
     <string name="vlog_talkback_audio_local">Yerli musiqi</string>
     <string name="vlog_talkback_audio_null">Film musiqisi yoxdur</string>
-    <string name="vlog_talkback_audio_seekbar">Səsi tənzimlə</string>
+    <string name="vlog_talkback_audio_seekbar">Səsi ayarla</string>
     <string name="vlog_talkback_audio_seekbar_adjust">Səs səviyyəsi %d olaraq ayarlandı</string>
     <string name="vlog_talkback_audio_voice">Orijinal fim musiqisi</string>
     <string name="vlog_talkback_caption_add_view">Mətn əlavə et</string>
@@ -3493,7 +3493,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_talkback_ratio_3_4">Üçə dörd</string>
     <string name="vlog_talkback_ratio_4_3">Dördə üç</string>
     <string name="vlog_talkback_ratio_9_16">Doqquza on altı</string>
-    <string name="vlog_talkback_speed_view">Sürəti tənzimlə</string>
+    <string name="vlog_talkback_speed_view">Sürəti ayarla</string>
     <string name="vlog_talkback_template_none">Şablon yoxdur</string>
     <string name="vlog_talkback_text_add">Mətn daxil edin</string>
     <string name="vlog_talkback_text_baby_vlog">Böyümə</string>
@@ -3529,7 +3529,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="vlog_template_rixi">Pastel</string>
     <string name="vlog_template_rule_downloading">Qoşma endirilir…</string>
     <string name="vlog_template_rule_importing">Daxilə köçürülür…</string>
-    <string name="vlog_template_rule_matching">Şabon tənzimlənir…</string>
+    <string name="vlog_template_rule_matching">Şablon ayarlanır…</string>
     <string name="vlog_template_shikong">Vaxt</string>
     <string name="vlog_template_summer">Yay</string>
     <string name="vlog_template_travel">Səyahət</string>
@@ -3593,7 +3593,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="yes">Bəli</string>
     <string name="yesterday">Dünən</string>
     <string name="you_are">"Körpə ilə əlaqəniz"</string>
-    <string name="yuzhitiaojie">Qalınlıq tənzimləmə şkalası</string>
+    <string name="yuzhitiaojie">Qalınlıq ayarı şkalası</string>
     <string name="zi_ding_yi_wenben">Özəl ölçü</string>
     <string name="zman_title">Güvənli paylaşım</string>
 </resources>

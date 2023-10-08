@@ -192,7 +192,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="title_bluetooth_pair">Bluetooth cihazını cütləşdir</string>
     <string name="title_confirm_url_open">Keçid indi açılsın?</string>
     <string name="title_connect_network">Şəbəkəyə bağlan</string>

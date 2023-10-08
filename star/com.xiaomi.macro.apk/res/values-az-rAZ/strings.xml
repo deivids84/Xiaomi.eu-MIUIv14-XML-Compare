@@ -46,7 +46,7 @@
     <string name="gb_game_macro_apply">Tətbiq et</string>
     <string name="gb_game_macro_button_alpha">Düymə şəffaflığı</string>
     <string name="gb_game_macro_button_big">Böyük</string>
-    <string name="gb_game_macro_button_config">Tənzimləmə düyməsi</string>
+    <string name="gb_game_macro_button_config">Ayarlama düyməsi</string>
     <string name="gb_game_macro_button_size">Düymə ölçüsü</string>
     <string name="gb_game_macro_button_small">Kiçik</string>
     <string name="gb_game_macro_config_prefix">Kombinasiya %d</string>

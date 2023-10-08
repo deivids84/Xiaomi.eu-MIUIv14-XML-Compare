@@ -128,7 +128,7 @@
     <string name="bh_get_charge_phone_number">Kontaktlardan seçin</string>
     <string name="bh_goto_granted">İcazə vermə</string>
     <string name="bh_goto_open">İcazə verilmədi</string>
-    <string name="bh_goto_set">Tənzimlə</string>
+    <string name="bh_goto_set">Ayarla</string>
     <string name="bh_i_got_it">Anladım</string>
     <string name="bh_input_hint">Telefon nömrəsi daxil edin</string>
     <string name="bh_input_total_limit">Data miqdarı daxil edin</string>
@@ -181,7 +181,7 @@
     <string name="bh_pkg_data_cant_query">"Operator məhdudiyyətlərinə görə detallara baxıla bilmir"</string>
     <string name="bh_please_complete_sim_before_charge">Artırmaq üçün əvvəlcə bir telefon nömrəsi əlavə edin.</string>
     <string name="bh_please_fill_total_limit">Planınıza daxil olan mobil interneti əlavə edin</string>
-    <string name="bh_please_set_pkg">Balansınızı yoxlaya bilmək üçün planınızı tənzimləyin.</string>
+    <string name="bh_please_set_pkg">Balansınızı yoxlaya bilmək üçün planınızı ayarlayın.</string>
     <string name="bh_privacy_policy">Gizlilik Siyasəti</string>
     <string name="bh_qualification_and_certificate">Lisenziyalar və sertifikatlaşdırma</string>
     <string name="bh_receive_zero_card">Ödənişsiz SIM</string>
@@ -235,7 +235,7 @@
     <string name="bh_withdrawal_of_consent_result">"Davam etsəniz, \"Mi Operator Xidmətləri\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Bundan sonra, şəxsi məlumatlarınızın yığılmasını və istifadə edilməsini dayandıracağıq və sifariş tarixçənizi həmişəlik siləcəyik. Razılığı geri götürməzdən əvvəl bütün əməliyyatlarınızın tamamlandığına əmin olun."</string>
     <string name="bh_wrong_number_hint">Yararlı bir telefon nömrəsi daxil edin</string>
     <string name="bind_simcard_default">Zənglər üçün ilkin SIM</string>
-    <string name="bind_simcard_menu">Zənglər üçün ilkin SIM olaraq tənzimlə</string>
+    <string name="bind_simcard_menu">Zənglər üçün ilkin SIM olaraq ayarla</string>
     <string name="bind_simcard_no_dual">"İkili SIM tapıla bilmədi"</string>
     <string name="bind_simcard_not_set">Ayarlanmadı</string>
     <string name="bind_simcard_title">Zənglər üçün ilkin SIM</string>
@@ -931,8 +931,8 @@ Səbəb: \"%s\""</string>
     <string name="pref_key_sdn_manage1">SDN kart 1 göstər</string>
     <string name="pref_key_sdn_manage2">SDN kart 2 göstər</string>
     <string name="pref_key_sim_manage">SIM kartlar</string>
-    <string name="pref_key_sim_manage1">SIM kart 1-i tənzimlə</string>
-    <string name="pref_key_sim_manage2">SIM kart 2-ni tənzimlə</string>
+    <string name="pref_key_sim_manage1">SIM kart 1-i ayarla</string>
+    <string name="pref_key_sim_manage2">SIM kart 2-ni ayarla</string>
     <string name="pref_summary_import_from_account">Kontaktları Google və Exchange hesablarından Xiaomi Hesabıma köçür</string>
     <string name="pref_title_account_import">Kontaktları daxilə köçür</string>
     <string name="pref_title_import_from_account">Xiaomi Hesabına köçür</string>
@@ -1029,7 +1029,7 @@ Səbəb: \"%s\""</string>
     <string name="recentCallsIconLabel">Zəng jurnalı</string>
     <string name="recent_contacts_label">Sonuncular</string>
     <string name="recent_number">Sonuncu</string>
-    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu tənzimləməzdən əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Poçt qutusunu ayarlamazdan əvvəl, mobil şəbəkə provayderinizlə aranızdakı müqavilənin şərt və qaydalarını yoxlayın.</string>
     <string name="redirect_calls_to_vm_confirm_text">Oldu</string>
     <string name="relationLabelsGroup">Münasibət</string>
     <string name="removePhoto">Fotonu sil</string>
@@ -1086,7 +1086,7 @@ Səbəb: \"%s\""</string>
     <string name="separatorJoinAggregateSuggestions">Təklif olunan kontaktlar</string>
     <string name="service_provider">Kataloq</string>
     <string name="service_provider_detail">Kataloq detalları</string>
-    <string name="set_default">İlkin olaraq tənzimlə</string>
+    <string name="set_default">İlkin olaraq ayarla</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Kontaktı paylaş</string>
     <string name="share_error">"Bu kontakt paylaşıla bilmir"</string>
@@ -1268,7 +1268,7 @@ Səbəb: \"%s\""</string>
     <string name="unknown_details_add_to_contact">Mövcud</string>
     <string name="unknown_details_new_contact">Yeni</string>
     <string name="unshow_qr_code_in_narrow_screen_split">"Bölünmüş ekranı istifadə edərkən QR kodlar göstərilə bilmir"</string>
-    <string name="update_sim_contact_photo_toast">"SIM kontaktları üçün profil şəkli tənzimləmənə bilmir"</string>
+    <string name="update_sim_contact_photo_toast">"SIM kontaktları üçün profil fotosu ayarlana bilmir"</string>
     <string name="upgrade_in_progress">Kontakt siyahısı güncəllənir.</string>
     <string name="upgrade_out_of_memory">"Kontaktlar güncəllənmə prosesindədir. 
 

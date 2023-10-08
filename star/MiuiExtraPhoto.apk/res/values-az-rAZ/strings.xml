@@ -51,8 +51,8 @@
     <string name="doc_photo_enhance_color">Təkmilləşdirilmiş</string>
     <string name="doc_photo_enhance_color_desc">Təkmilləşdirilmiş rəng skanı</string>
     <string name="doc_photo_enhance_crop">Kəs</string>
-    <string name="doc_photo_enhance_dehandwrite">Qeydləri sil</string>
-    <string name="doc_photo_enhance_dehandwrite_desc">Əllə yazılmış qeydləri tək toxunuşda silin</string>
+    <string name="doc_photo_enhance_dehandwrite">Notları sil</string>
+    <string name="doc_photo_enhance_dehandwrite_desc">Əllə yazılmış notları tək toxunuşda silin</string>
     <string name="doc_photo_enhance_effect">Effektlər</string>
     <string name="doc_photo_enhance_handmode_remove">Əllə silin</string>
     <string name="doc_photo_enhance_moer">Muanı çıxart</string>

@@ -398,9 +398,9 @@
     <string name="eq_jazz">Caz</string>
     <string name="eq_metal">Metal</string>
     <string name="eq_pop">Pop</string>
-    <string name="eq_preset_format">İstifadəçi ön tənzimləməsi %d</string>
+    <string name="eq_preset_format">İstifadəçi ön ayarı %d</string>
     <string name="eq_preset_hint">Effekt adı</string>
-    <string name="eq_preset_select">Ön tənzimləmə seçin</string>
+    <string name="eq_preset_select">Bir ön ayar seçin</string>
     <string name="eq_rock">Rok</string>
     <string name="equalizer">Tarazlayıcı</string>
     <string name="eras_ad">E.S.</string>
@@ -626,7 +626,7 @@
     <string name="joox_auth_message_update_vip_to_download">Endirmək üçün VIP üzvlük alın</string>
     <string name="joox_auth_message_update_vip_to_listen_offline">VIP üzvlüyünüzün müddəti bitdi. İndi mahnıları onlayn dinləyə bilərsiniz. Mahnıları endirə bilmək üçün VIP üzvlük əldə edin.</string>
     <string name="joox_auth_message_update_vip_to_play_on_demand">"Müəllif hüququ məhdudiyyətlərinə görə bu mahnı oxudula bilmir. Digər mahnıları dinləmək üçün qarışıq oxutmanı sınayın və ya bunu oxutmaq üçün VIP üzvlük əldə edin."</string>
-    <string name="joox_auth_message_update_vip_to_seek_progress">"Müəllif hüququ məhdudiyyətlərinə görə oxutma irəliləyişi tənzimlənə bilmir. Məhdudiyyətləri aradan qaldırmaq üçün VIP üzvlük alın."</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">"Müəllif hüququ məhdudiyyətlərinə görə oxutma irəliləyişi ayarlana bilmir. Məhdudiyyətləri aradan qaldırmaq üçün VIP üzvlük alın."</string>
     <string name="joox_auth_message_update_vip_to_switch_songs">Mahnılar arasında keçid etmək üçün VIP üzvlük əldə edin</string>
     <string name="joox_auth_message_update_vip_to_use_function">Bu özəlliyi istifadə etmək üçün VIP üzvlük alın</string>
     <string name="joox_auth_title_download_song">Mahnı endir</string>
@@ -928,7 +928,7 @@
     <string name="notification_play_title">Bildiriş paneli viceti</string>
     <string name="notification_recommend_summary">Yeni musiqi trendləri və tətbiq promosyonları haqqında ətraflı öyrən</string>
     <string name="notification_recommend_title">Vacib bildirişlər</string>
-    <string name="notification_setting">Bildiriş tənzimlənmələri</string>
+    <string name="notification_setting">Bildiriş ayarları</string>
     <string name="nowplaying_circle_style">Oxut düyməsi stili</string>
     <string name="nowplaying_circle_style_rainbow">Göy qurşağı</string>
     <string name="nowplaying_circle_style_wave">Dalğa</string>
@@ -1307,10 +1307,10 @@ Xoşbəxt ol"</string>
     <string name="send_to_title">Göndər: %1$s</string>
     <string name="service_and_settings">Xidmət və ayarlar</string>
     <string name="set_as_alarm_clock_ringtone">Zəngli saat</string>
-    <string name="set_as_ring">Zəng səsi olaraq tənzimlə</string>
+    <string name="set_as_ring">Zəng səsi olaraq ayarla</string>
     <string name="set_online_home_subtitle">Tətbiq açılanda onlayn tövsiyələri aç</string>
     <string name="set_online_home_title">Başlanğıcda onlayn tövsiyələri göstər</string>
-    <string name="set_ringtones_failed">"Zəngi səsi olaraq tənzimlənə bilmədi"</string>
+    <string name="set_ringtones_failed">"Zəngi səsi olaraq ayarlana bilmədi"</string>
     <string name="set_ringtones_successful">%s, zəng səsi olaraq ayarlandı</string>
     <string name="setting_feature_setting">Özəllik ayarları</string>
     <string name="settings">Ayarlar</string>
@@ -1392,7 +1392,7 @@ Xoşbəxt ol"</string>
     <string name="tab_track">Mahnılar</string>
     <string name="tab_track_list">Mahnılar</string>
     <string name="tab_video">Videolar</string>
-    <string name="take_effect_afater_restart">Bu tənzimləmənin qüvvəyə minməsi üçün tətbiqi yenidən başlatmağınız lazımdır.</string>
+    <string name="take_effect_afater_restart">Bu ayarın qüvvəyə minməsi üçün tətbiqi yenidən başlatmağınız lazımdır.</string>
     <string name="talkback_back">Geri qayıt</string>
     <string name="talkback_batch_process">Çoxlu elementlər</string>
     <string name="talkback_clear">Təmizlə</string>
@@ -1439,7 +1439,7 @@ Xoşbəxt ol"</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="ticket_summary">Şoular, konsertlər, tamaşalar və digər tədbirlər üçün bilet alın</string>
     <string name="ticket_title">Biletləri göstər</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="time_to_upgrade">Bir güncəlləmə var</string>

@@ -718,7 +718,7 @@
     <string name="pref_summary_garbage_auto_clean_content">Avtomatik təmizlənəcək elementləri seçin</string>
     <string name="pref_summary_garbage_cleanup_check_size">Tullantı həcmi müəyyən ölçüyə çatanda avtomatik təmizlə</string>
     <string name="pref_summary_garbage_cleanup_check_time">Müntəzəm təmizləməni planlaşdır</string>
-    <string name="pref_summary_garbage_process_mode">Təmizləyici işlək olduqda bildirişləri tənzimlə</string>
+    <string name="pref_summary_garbage_process_mode">Təmizləyici işlək olduqda bildirişləri ayarla</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Bilinməyən fayl adlarını yükləyin və onlayn təriflərlə müqayisə edin</string>
     <string name="pref_title_apps_cleanup_size">Keş, bu ölçüyə çatdıqda</string>
     <string name="pref_title_auto_clean_content_choose">Təmizlənəcək elementləri seçin</string>
@@ -869,7 +869,7 @@
     <string name="tips_of_garbage_data_set">Cihazınızda daha çox tullantı tapmaq üçün Təmizləyici verilənlər bazasını güncəlləyin</string>
     <string name="tips_of_network_speed_set">Şəbəkə sürətinə status çubuğunda bax</string>
     <string name="tips_of_operators_set">İnternet istifadə statistikalarını avto-nizamla</string>
-    <string name="tips_of_package_set">İnternet planınızı tənzimləyin və istifadə etdiyiniz trafik miqdarına nəzarət edin</string>
+    <string name="tips_of_package_set">İnternet planınızı ayarlayın və istifadə etdiyiniz trafik miqdarını idarə edin</string>
     <string name="tips_of_traffic_notification">Bildiriş panelində mobil internet statistikalarını göstər</string>
     <string name="tips_of_traffic_pack_threshold">"Trafik limitinə çatmaq üzrə olduğunuz vaxt daha çox internet satın alın"</string>
     <string name="tips_of_virus_scan">Cihazınızı güvənli saxlamaq üçün müntəzəm olaraq virus üzrə skan edin</string>

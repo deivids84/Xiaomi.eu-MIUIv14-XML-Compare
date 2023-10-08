@@ -49,7 +49,7 @@
     <string name="bmi_normal">Normal</string>
     <string name="bmi_over_weight">Artıq çəki</string>
     <string name="bmi_underweight">Zəif</string>
-    <string name="btn_float_window_alpha">Şəffaflığı nizamla</string>
+    <string name="btn_float_window_alpha">Şəffaflığı ayarla</string>
     <string name="btn_float_window_back_to_app">Hesablayıcını böyüt</string>
     <string name="btn_float_window_close">Kiçildilmiş Hesablayıcını bağlayın</string>
     <string name="btn_float_window_resize">Kiçildilmiş hesablayıcını ölçüləndir</string>

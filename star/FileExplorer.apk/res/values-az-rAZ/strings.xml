@@ -410,7 +410,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="menu_item_sort_name">Ad</string>
     <string name="menu_item_sort_type">Növü</string>
     <string name="menu_item_usb">USB</string>
-    <string name="menu_set_wallpaper">Divar kağızı olaraq tənzimlə</string>
+    <string name="menu_set_wallpaper">Divar kağızı olaraq ayarla</string>
     <string name="message_request_manage_external_storage_perm">Fayl Menecerinin cihazınızdakı faylları idarə edə bilməsi üçün fayllara müraciət icazəsinə ehtiyacı var. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="mi_router_label">Ruter</string>
     <string name="mi_share">Mi Share</string>
@@ -641,7 +641,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_retry">Yenidən sına</string>
     <string name="operation_send">Göndər</string>
     <string name="operation_send_to_pc">Kompüterə daşı</string>
-    <string name="operation_set_pic_wallpaper">Divar kağızı olaraq tənzimlə</string>
+    <string name="operation_set_pic_wallpaper">Divar kağızı olaraq ayarla</string>
     <string name="operation_show_privacy_policy">Gizlilik Siyasətini göstər</string>
     <string name="operation_show_sys">Gizli faylları göstər</string>
     <string name="operation_sync_cloud_data_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
@@ -793,7 +793,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="server_control_charset">Köçürmə kodlaşdırması</string>
     <string name="server_control_settings">Ayarlar</string>
     <string name="set_pattern">Parolu təkmilləşdir</string>
-    <string name="set_pattern_btn">Tənzimlə</string>
+    <string name="set_pattern_btn">Ayarla</string>
     <string name="set_pattern_msg">Parolu yenidən təyin edin. Gizlilik qoruması parolu foto, mesaj və qeydlər üçün də işləyir.</string>
     <string name="size_lv1">%d KB-dan kiçik</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>

@@ -117,7 +117,7 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="fully_managed_device_provisioning_accept_header">"İş cihazını quraşdıraq"</string>
     <string name="fully_managed_device_provisioning_permissions_header">Fəaliyyətləriniz və datalarınız</string>
     <string name="fully_managed_device_provisioning_permissions_secondary_header">Tətbiq icazələri</string>
-    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">IT admininiz, bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri tənzimləyə bilər.</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">IT admininiz, bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri ayarlaya bilər.</string>
     <string name="fully_managed_device_provisioning_privacy_body">IT admininiz, bu cihazdakı datanızı və fəaliyyətlərinizi görə bilər</string>
     <string name="fully_managed_device_provisioning_privacy_title">Gizlilik xatırladıcısı</string>
     <string name="fully_managed_device_provisioning_progress_label">Cihazınız quraşdırılır…</string>
@@ -128,7 +128,7 @@ Təşkilatınızın gizlilik siyasətləri daxil olmaqla, daha ətraflı məluma
     <string name="fully_managed_device_provisioning_step_2_subheader">IT admininiz, bu cihazdakı datanızı və fəaliyyətlərinizi görə bilər.</string>
     <string name="fully_managed_device_provisioning_summary">"İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz verilənlərinizi və fəaliyyətinizi görə bilər."</string>
     <string name="fully_managed_device_reset_and_return_button">Cihazı sıfırla və qaytar</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz verilənlərinizi və fəaliyyətinizi görə bilər. Həmçinin IT admininiz bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri tənzimləyə bilər.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">İş tətbiqlərinizə asanlıqla müraciət etmək üçün bu cihazı istifadə edin. Bu cihaz şəxsi deyil, ona görə də IT admininiz datanızı və fəaliyyətinizi görə bilər. Həmçinin IT admininiz bu cihazdakı tətbiqlər üçün mikrofon, kamera və yerləşmə kimi icazələri ayarlaya bilər.</string>
     <string name="icon_content_description">Dialoq nişanı</string>
     <string name="if_questions_contact_admin">Sualınız varsa, IT admininizlə əlaqə saxlayın</string>
     <string name="info_anim_title_0">İşləmə tərzinizi dəyişdirin</string>

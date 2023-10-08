@@ -190,8 +190,8 @@
     <string name="document_recognize_fail_tip">"Sənəd oxuna bilmədi"</string>
     <string name="document_recognize_null_tip">"Sənəd tanına bilmədi"</string>
     <string name="document_recognize_text">Mətni tanı</string>
-    <string name="document_rectify">Tənzimlə</string>
-    <string name="document_rectify_tip_msg">Tənzimlənir…</string>
+    <string name="document_rectify">Ayarla</string>
+    <string name="document_rectify_tip_msg">Ayarlanır…</string>
     <string name="document_region">Avtomatik seç</string>
     <string name="document_region_tips">Avtomatik seç</string>
     <string name="document_rename">Adı dəyişdir</string>
@@ -775,7 +775,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="title">Başlıq:</string>

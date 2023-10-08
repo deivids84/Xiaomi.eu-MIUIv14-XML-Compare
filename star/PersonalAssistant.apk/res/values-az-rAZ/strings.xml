@@ -408,8 +408,8 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_lite_setting_service_memory_summary">Bir toxunuşda yaddaşı təmizləyin</string>
     <string name="pa_lite_setting_service_my_schedule">Planlaşdır</string>
     <string name="pa_lite_setting_service_my_schedule_summary">Yaxınlaşan tədbirlərə bax</string>
-    <string name="pa_lite_setting_service_note">Qeydlər</string>
-    <string name="pa_lite_setting_service_note_summary">Qeydlərinizə baxın</string>
+    <string name="pa_lite_setting_service_note">Notlar</string>
+    <string name="pa_lite_setting_service_note_summary">Notlarınıza baxın</string>
     <string name="pa_lite_setting_service_quick_func">Qısayollar</string>
     <string name="pa_lite_setting_service_quick_func_summary">Tez-tez istifadə edilən tətbiqləri və xidmətləri aç</string>
     <string name="pa_lite_setting_service_search">Axtar</string>

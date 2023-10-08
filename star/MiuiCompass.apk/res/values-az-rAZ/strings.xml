@@ -116,7 +116,7 @@
     <string name="get_location">Yerləşməyə müraciət</string>
     <string name="gradienter_title">Səviyyə</string>
     <string name="guide_toast">Kalibrləmək üçün, cihazınızı aşağıdakı kimi hərəkət etdirin.</string>
-    <string name="invisible_mode_dialog_message">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Tənzimləmərdəki Gizli rejimi söndürün."</string>
+    <string name="invisible_mode_dialog_message">"İndi kamera istifadə edilə bilmir. Kameranı istifadə edə bilmək üçün Ayarlardakı Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_negative">İmtina</string>
     <string name="invisible_mode_dialog_positive">Ayarlar</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
@@ -290,7 +290,7 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="today">Bu gün</string>

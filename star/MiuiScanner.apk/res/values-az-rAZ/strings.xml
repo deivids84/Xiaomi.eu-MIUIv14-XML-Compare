@@ -184,7 +184,7 @@
     <string name="document_ocr_fail">"Mətn tanına bilmədi. Şəkli cihazınızın istiqamətinə uyğun gələn şəkildə döndərib yenidən sınayın."</string>
     <string name="document_ocr_fail_no_text">"Mətn tanına bilmədi. Yenidən seçib təzədən başladın."</string>
     <string name="document_ocr_result_copy">Mətni kopyala</string>
-    <string name="document_ocr_result_save">Qeydlərdə saxla</string>
+    <string name="document_ocr_result_save">\"Notlar\"da saxla</string>
     <string name="document_ocr_tip_msg">Oxunur…</string>
     <string name="document_read">Oxundu</string>
     <string name="document_recognize_fail_tip">"Sənəd oxuna bilmədi"</string>
@@ -797,7 +797,7 @@
     <string name="translate_loading">Tərcümə edilir…</string>
     <string name="translate_long_screen">Sürüşən tərcümə</string>
     <string name="translate_parallel_2_lines">Mətnin ekrandakı xətlərə paralel olduğuna əmin olun</string>
-    <string name="translate_save_fail">"Qeyd saxlanıla bilmədi"</string>
+    <string name="translate_save_fail">"Not saxlanıla bilmədi"</string>
     <string name="translate_src_lang">Mənbə dil</string>
     <string name="translate_text_compare">Müqayisə</string>
     <string name="translate_text_compare_copy">Kopyala</string>

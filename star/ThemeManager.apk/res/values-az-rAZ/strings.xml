@@ -1099,7 +1099,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_ringtone_default">Zəng səsləri</string>
     <string name="resource_ringtone_playing_error">Xəta</string>
     <string name="resource_ringtone_volume_mute">Zəng səsi susduruldu</string>
-    <string name="resource_save_to_note">Qeydlərdə saxla</string>
+    <string name="resource_save_to_note">\"Notlar\"da saxla</string>
     <string name="resource_search_color_hint_blue">Göy</string>
     <string name="resource_search_color_hint_green">Yaşıl</string>
     <string name="resource_search_color_hint_orange">Narıncı</string>

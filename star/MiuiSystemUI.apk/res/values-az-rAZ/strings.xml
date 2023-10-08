@@ -1655,7 +1655,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="power_discharge_by_only_short">%1$s olana qədər</string>
     <string name="power_discharging_duration">Təxminən %1$s qalıb (%2$s)</string>
     <string name="power_discharging_duration_enhanced">İstifadənizə görə təxminən %1$s qalıb (%2$s)</string>
-    <string name="power_notification_controls_description">"Güc bildirişi kontrolları ilə tətbiq bildirişlər üçün 0-dan 5-ə qədər vaciblik səviyyəsi tənzimləyə bilərsiniz. 
+    <string name="power_notification_controls_description">"Güc bildirişi kontrolları ilə tətbiq bildirişlər üçün 0-dan 5-ə qədər vaciblik səviyyəsi ayarlaya bilərsiniz. 
 
 \"<b>Səviyyə 5</b>\" 
 - Bildiriş siyahısının üstündə göstər 

@@ -520,7 +520,7 @@
     <string name="sunlight_notification_content">Parlaqlığı avtomatik olaraq güclü ətraf mühit işığına uyğunlaşdırın</string>
     <string name="sunlight_notification_title">Günəş işığı rejimini açın</string>
     <string name="sunrise">Gün doğumu</string>
-    <string name="super_resolution_maintain_tips">"Super ölçülər hələ mövcud deyil."</string>
+    <string name="super_resolution_maintain_tips">"Super dəqiqlik hələ mövcud deyil."</string>
     <string name="surprise">Sürpriz</string>
     <string name="swipe_up_to_continue_using">Davam etmək üçün yuxarı sürüşdür</string>
     <string name="switch_brand_desc_tv">Güvənlik xidmətləri Spaces Mobile tərəfindən təmin edilir</string>

@@ -498,7 +498,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="noon">Günorta</string>
     <string name="not_enough_storage_tips">Anbar sahəsi yetərsizdir. Bir az yer açıb yenidən sınayın.</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="note_title">Qeydlər</string>
+    <string name="note_title">Notlar</string>
     <string name="nothing_searched">Nəticə yoxdur.</string>
     <string name="notif_backup_complete_title">Uğurla nüsxələndi</string>
     <string name="notif_backup_content">İstifadəçi dataları nüsxələnir</string>
@@ -651,7 +651,7 @@ Wi-Fi-ı bağlamayın"</string>
     <string name="select_item_calendar">Təqvim</string>
     <string name="select_item_contacts">Kontaktlar</string>
     <string name="select_item_empty_summary">Element yoxdur</string>
-    <string name="select_item_notes">Qeydlər</string>
+    <string name="select_item_notes">Notlar</string>
     <string name="select_item_photos">Fotolar</string>
     <string name="select_item_summary_loading">Data yüklənir…</string>
     <string name="select_item_summary_wait">Gözlənilir…</string>

@@ -337,7 +337,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="tile_state_active">Açıq</string>
     <string name="tile_state_inactive">Bağlı</string>
     <string name="tile_state_unavailable">Əlçatmazdır</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_p2p_support_use5g">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>
     <string name="tips_p2p_support_use5g_china">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>

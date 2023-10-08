@@ -1228,7 +1228,7 @@ Məlumatlarınızı paylaşmaq istəmirsinizsə, bu özəlliyi bağlayın."</str
     <string name="sleep_detection_guide_one_description">Bədən hərəkətlərini izləmək və yuxu dövrü statistikasını yaratmaq üçün yatdığınız zaman cihazınızı yanınıza qoyun.</string>
     <string name="sleep_detection_guide_one_title">Yuxunuzu izləyin</string>
     <string name="sleep_detection_guide_schedule_hint_one">"Yatmaq vaxtı rejiminiz olmasa, statistikalarınız dəqiq olmayacaq. "</string>
-    <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini tənzimləyin.</string>
+    <string name="sleep_detection_guide_schedule_hint_two">Yatmaq vaxtı rejimini ayarla.</string>
     <string name="sleep_detection_guide_schedule_hint_two_details">Yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
     <string name="sleep_detection_guide_three_description">"Yatmaq vaxtı rejimi ayarlananda, yuxunuz avtomatik izləniləcək. "</string>
     <string name="sleep_detection_guide_three_title">Statistikaları avtomatik yarat</string>
@@ -1335,7 +1335,7 @@ tapıla bilmədi"</string>
     <string name="snore_detection_enable">Xoruldama və danışmanı aşkarla</string>
     <string name="snore_detection_guide_one_description">Siz yatarkən səs yazılacaq. Maşın öyrənməsi, Xiaomi Health-ın xoruldamanı, danışmanı və yüksək səsi aşkarlamasına və yazılan səsləri cihazınızda saxlamasına icazə verir.</string>
     <string name="snore_detection_guide_one_title">Səsi mikrofon istifadə edərək yazın</string>
-    <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi tənzimləyin&gt;</string>
+    <string name="snore_detection_guide_schedule_suggest">Mikrofon yatmaq vaxtı rejiminizə uyğun olaraq açılıb bağlanılacaq. İşləməsi üçün yuxu vaxtı cədvəlinizi ayarlayın&gt;</string>
     <string name="snore_detection_guide_schedule_suggest_details">Yuxu dövrünüzü təhlil etmək üçün yatmaq vaxtı zamanı mikrofon açılacaq. Statistikalarınızı daha dəqiq etmək üçün yatmaq vaxtınızı \"Saat\"da ayarlayın.</string>
     <string name="snore_detection_guide_three_description">Yatmazdan əvvəl cihazınızın yetərincə dolu olduğuna əmin olun. Zəif batareya səs yazılmasını yarımçıq kəsə bilər.</string>
     <string name="snore_detection_guide_three_title">Cihazın batareyasını dolu saxlayın</string>

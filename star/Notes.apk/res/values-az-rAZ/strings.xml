@@ -189,7 +189,7 @@
     <string name="error_contact_not_exist">"Kontakt mövcud deyil"</string>
     <string name="error_hide_empty_note">"Boş qeyd gizlədilə bilmir"</string>
     <string name="error_icon_content_description">Xəta</string>
-    <string name="error_note_empty_for_clock">"Boş qeyd üçün xatırlatma vaxtı tənzimlənə bilmir"</string>
+    <string name="error_note_empty_for_clock">"Boş not üçün xatırlatma vaxtı ayarlana bilmir"</string>
     <string name="error_note_empty_for_send_to_desktop">"Boş qeydlər Əsas ekranda yerləşdirilə bilməz"</string>
     <string name="error_note_not_exist">"Qeyd mövcud deyil"</string>
     <string name="error_send_empty_note">"Boş qeyd göndərilə bilmir"</string>
@@ -518,8 +518,8 @@
     <string name="pc_action_search_notes_hint">Qeyd axtar</string>
     <string name="pc_action_search_todo_hint">Tapşırıq axtar</string>
     <string name="pc_all_folder_name">Hamısı</string>
-    <string name="pc_date_time_picker_set_date">Tarixi tənzimlə</string>
-    <string name="pc_date_time_picker_set_time">Vaxtı tənzimlə</string>
+    <string name="pc_date_time_picker_set_date">Tarixi ayarla</string>
+    <string name="pc_date_time_picker_set_time">Vaxtı ayarla</string>
     <string name="pc_module_notes_name">Qeydlər</string>
     <string name="pc_module_todo_name">Tapşırıqlar</string>
     <string name="pc_note_dual_screen_dialog_content">"Deyəsən, indi telefonunuzda qeydlərə düzəliş edirsiniz. Ziddiyyətli düzəlişlərin qarşısını almaq üçün telefonunuzda \"Qeydlər\"i bağlayın."</string>
@@ -533,12 +533,12 @@
     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Telefonla foto çəkilir…</string>
     <string name="pc_note_edit_take_photo_by_phone">Telefonla foto çəkin</string>
     <string name="pc_note_edit_text_format_body">Gövdə</string>
-    <string name="pc_note_edit_text_format_des">Mətn ölçüsünü tənzimlə</string>
+    <string name="pc_note_edit_text_format_des">Mətn ölçüsünü ayarla</string>
     <string name="pc_note_edit_text_format_title_level1">Başlıq</string>
     <string name="pc_note_edit_text_format_title_level2">Başlıq</string>
     <string name="pc_note_trash_folder_remind">Bu qeyd silinib. Düzəliş etmək üçün bərpa edin.</string>
     <string name="pc_todo_fast_create_hint">Bitməmiş bir tapşırıq əlavə etmək üçün mətn daxil edin və \"Enter\"ə basın</string>
-    <string name="pc_todo_set_remind_time_hint">Vaxtı tənzimlə</string>
+    <string name="pc_todo_set_remind_time_hint">Vaxtı ayarla</string>
     <string name="permdesc_accessNote">Zərərli tətbiqlər şəxsi məlumatlarınıza müraciət etmək üçün bunu istifadə edə bilər.</string>
     <string name="permission_data_shared_desc">Qeydlər Üçüncü Tərəf Data Paylaşma Bəyanatı</string>
     <string name="permission_get_account_desc">Qeydlər buludla sinxronlaşdırılır</string>
@@ -642,7 +642,7 @@
     <string name="select_account_prompt">Qeydləri sinxronlaşdır</string>
     <string name="send">Göndər</string>
     <string name="send_notifications_for_reminder">Xatırladıcı göndərmək üçün</string>
-    <string name="set_alarm_description">Zəngli saatı tənzimlə</string>
+    <string name="set_alarm_description">Zəngli saatı ayarla</string>
     <string name="setting_big_screen_layout_columns">Yan çubuğu</string>
     <string name="setting_big_screen_layout_flat">Xanalar</string>
     <string name="setting_big_screen_layout_title">Böyük ekran düzümü</string>
@@ -741,7 +741,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="toast_cancel_to_insert_image">"Təsvir əlavə edilə bilmədi."</string>
     <string name="toast_excerpt_end">Çıxarış uğurla yaradıldı</string>
     <string name="toast_excerpt_no_content">Burada heç bir çıxarış yoxdur</string>
@@ -772,7 +772,7 @@ Səs yazmaq üçün \"Qeydlər\"ə icazə verin."</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">dd-MM-yyyy HH:mm</string>
     <string name="todo_edit_audio_hint">Tapşırığınızı deyin</string>
     <string name="todo_edit_btn_cancel_remind">Xatırladıcını ləğv et</string>
-    <string name="todo_edit_btn_custom">Xatırladıcını tənzimlə</string>
+    <string name="todo_edit_btn_custom">Xatırladıcını ayarla</string>
     <string name="todo_edit_btn_done">Hazırdır</string>
     <string name="todo_edit_btn_today">Bu gün</string>
     <string name="todo_edit_btn_tomorrow">Sabah</string>
@@ -812,7 +812,7 @@ Səs yazmaq üçün \"Qeydlər\"ə icazə verin."</string>
     <string name="todo_schedule_time_yesterday">Dünən</string>
     <string name="todo_schedule_time_ymdhm">dd-MM-yyyy HH:mm</string>
     <string name="todo_search_hint">Tapşırıq axtar</string>
-    <string name="todo_time_picker_title">Xatırladıcını tənzimlə</string>
+    <string name="todo_time_picker_title">Xatırladıcı qur</string>
     <string name="todo_user_guide_tip1">\"Tapşırıqlar\"a xoş gəldiniz!</string>
     <string name="todo_user_guide_tip2">Burada mətn və səsli tapşırıqlar əlavə edə bilərsiniz.</string>
     <string name="todo_user_guide_tip3">Mətn tapşırığına düzəliş etmək üçün, sadəcə ona toxunun.</string>

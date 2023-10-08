@@ -415,7 +415,7 @@ və tərcihləri avtomatik ayarlayın"</string>
     <string name="button_front_camera_title">Selfi çək</string>
     <string name="button_normal_video_title">Video yaz</string>
     <string name="camcorder_tip_8k_max_video_duration">8K-də %1$d dəqiqəyə qədər yaza bilərsiniz</string>
-    <string name="camcorder_tip_current_max_video_duration">Hazırkı ölçülərdə %d dəqiqəlik video yaza bilərsiniz</string>
+    <string name="camcorder_tip_current_max_video_duration">Hazırkı dəqiqlikdə %d dəqiqəlik video yaza bilərsiniz</string>
     <string name="camcorder_tip_super_night_video_4k_max_video_duration">4K-da %d dəqiqəyə qədər yaza bilərsiniz</string>
     <string name="camera_disabled">Kamera sıradan çıxarıldı</string>
     <string name="camera_error_title">Kamera xətası</string>
@@ -1558,7 +1558,7 @@ Arxaplanı bulanıqlaşdırarkən obyekti kəskin saxlayın."</string>
     <string name="pref_hdr10_video_mode_description">4K və 8K videolar üçün rəngləri və kontrastı avtomatik optimallaşdır. Optimallaşdırılmış videolar yalnız HDR10 uyğun cihazlarda oxudula bilər.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">4K və 8K videolar üçün rəngləri optimallaşdır və kontrastı ayarla. Bu özəllik yalnız HDR10+ uyğun cihazlarda işləyir.</string>
-    <string name="pref_hybrid_video_mode_description">Yüksək ölçülərdə yazılmış videoların rənglərini və dinamik aralığını təkmilləşdirmək üçün HLG texnologiyasını istifadə edin</string>
+    <string name="pref_hybrid_video_mode_description">Yüksək dəqiqlikdə yazılmış videoların rənglərini və dinamik aralığını təkmilləşdirmək üçün HLG texnologiyasını istifadə edin</string>
     <string name="pref_i_n_r_b">Ağıllı səs-küy azaltma</string>
     <string name="pref_k_h">Canlı qulaq içi monitor</string>
     <string name="pref_k_s_i">Bağlantılı olduqda naqilli qulaqlıqları istifadə edərək yazılmış səsi izləyin</string>

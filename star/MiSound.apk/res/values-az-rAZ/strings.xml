@@ -425,8 +425,8 @@
     <string name="second_note">Qulaqlıqlarınızı taxın.</string>
     <string name="see_details">Detallar</string>
     <string name="send">Göndər</string>
-    <string name="sound_assist_key_summary">Birdən çox tətbiq eyni anda səs oynadarkən fərdi tətbiqlər üçün səsi tənzimləyin</string>
-    <string name="sound_assist_key_title">Bir neçə tətbiqdə media səsini tənzimləyin</string>
+    <string name="sound_assist_key_summary">Birdən çox tətbiq eyni anda səs oxudarkən fərdi tətbiqlər üçün səsi ayarlayın</string>
+    <string name="sound_assist_key_title">Bir neçə tətbiqdə media səsini ayarla</string>
     <string name="sound_assist_title">Səs köməkçisi</string>
     <string name="sound_effect_hall">Salon</string>
     <string name="sound_effect_original">Orijinal</string>
@@ -559,7 +559,7 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">Sa</string>
     <string name="time_picker_label_minute">Dəq</string>
     <string name="today">Bu gün</string>

@@ -274,7 +274,7 @@
     <string name="call_work">İşə zəng et</string>
     <string name="call_work_mobile">İş mobilinə zəng et</string>
     <string name="call_work_pager">İş çağırış cihazına zəng et</string>
-    <string name="calllog_call_note_menu">Zəng qeydləri</string>
+    <string name="calllog_call_note_menu">Zəng notları</string>
     <string name="calllog_call_record_menu">Yazılan zənglər</string>
     <string name="calllog_menu_blacklist">Əngəllə</string>
     <string name="calllog_menu_edit_before_call">Düzəliş et</string>
@@ -292,7 +292,7 @@
     <string name="callrecordview_item_op_time_xiaoai_call">Mi AI Zəng Köməkçisi</string>
     <string name="callrecordview_item_op_time_xiaoai_manual_answer">Əllə götürmə</string>
     <string name="callrecordview_item_op_video">Video</string>
-    <string name="callrecordview_menu_add_call_note">Zəng qeydi əlavə et</string>
+    <string name="callrecordview_menu_add_call_note">Zəng notu əlavə et</string>
     <string name="callrecordview_menu_aiphone">AI zəngləri</string>
     <string name="callrecordview_menu_batch_delete">Toplu sil</string>
     <string name="callrecordview_menu_blocklist">Əngəlli siyahısı</string>
@@ -365,7 +365,7 @@
     <string name="contact_clear_search_history">Tarixçəni təmizlə</string>
     <string name="contact_delete_toast">Kontaktlar uğurla silindi</string>
     <string name="contact_detail_action_item_calllog">Zəng tarixçəsi</string>
-    <string name="contact_detail_calllog_call_note_tips">Qeydlər</string>
+    <string name="contact_detail_calllog_call_note_tips">Notlar</string>
     <string name="contact_detail_calllog_call_record_tips">Yazılan zənglər</string>
     <string name="contact_detail_calllog_correct_yellow_page">Düzəlt və ya bildir</string>
     <string name="contact_detail_calllog_empty">Tarixçə yoxdur</string>
@@ -673,7 +673,7 @@ Səbəb: \"%s\""</string>
     <string name="know">Anladım</string>
     <string name="label_custom_type">Xüsusi</string>
     <string name="label_no_duplicate_contacts">Dublikat tapılmadı</string>
-    <string name="label_notes">Qeydlər</string>
+    <string name="label_notes">Notlar</string>
     <string name="label_sip_address">İnternet zəngi</string>
     <string name="launcherDialer">Telefon</string>
     <string name="listCustomView">Xüsusi görünüşdəki kontaktlar</string>
@@ -1233,7 +1233,7 @@ Səbəb: \"%s\""</string>
     <string name="time_picker_label_minute">D</string>
     <string name="titleJoinContactDataWith">Kontaktları birləşdir</string>
     <string name="toast_call_no_SoundRecorder">"Səsyazan əlçatmazdır"</string>
-    <string name="toast_call_no_notes">"Qeydlər tətbiqi əlçatmazdır"</string>
+    <string name="toast_call_no_notes">"Notlar tətbiqi əlçatmazdır"</string>
     <string name="toast_copy_done">Hazırdır</string>
     <string name="toast_copying">Kopyalanır…</string>
     <string name="toast_finish_delete_call_log">Uğurla təmizləndi</string>

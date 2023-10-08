@@ -58,7 +58,7 @@
     <string name="back">Geri</string>
     <string name="backup_introduction">Bu tətbiqi, cihazınızdakı elementləri nüsxələmək və bərpa etmək üçün istifadə edə bilərsiniz.</string>
     <string name="bluetooth_introduction">Bluetooth, sistem tərəfindən naqilsiz rabitə üçün istifadə olunur. Normal işləyə bilməsi üçün, Bluetooth-un aşağıdakı icazələrə ehtiyacı var:</string>
-    <string name="bluetooth_usage_desc">İlk quraşdırma, bu cihaz üçün təməl tərcihlərinizi tənzimləməyinizə icazə verir. Cihazı uğurla quraşdırmaq üçün Bluetooth sistem xidmətləri, aşağıdakı icazələri istifadə edəcək:</string>
+    <string name="bluetooth_usage_desc">İlk quraşdırma, bu cihaz üçün təməl tərcihlərinizi ayarlamağa icazə verir. Cihazı uğurla quraşdırmaq üçün Bluetooth sistem xidmətləri, aşağıdakı icazələri istifadə edəcək:</string>
     <string name="boot_video_replay">Yenidən oxut</string>
     <string name="boot_video_skip">Ötür</string>
     <string name="calculator_introduction">Bu tətbiqi hesablamalar, vahidləri və pul vahidlərini çevirmək və ipoteka ödənişlərinizi təxmin etmək üçün istifadə edə bilərsiniz.</string>
@@ -195,7 +195,7 @@ Bu cür icazələri verməklə razılaşmasanız, \"Xiaomi Ara Bağlantı Xidmə
     <string name="item_fingerprint">Barmaq izi</string>
     <string name="item_lock_screen_password">Yalnız ekran kilidi</string>
     <string name="item_lock_screen_password_only">Ekran kilidi</string>
-    <string name="item_return">Tənzimlə</string>
+    <string name="item_return">Ayarla</string>
     <string name="item_skip">Ötür</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Fövqəladə hal xilasetmə qurumları ilə yerləşmə məlumatlarının paylaşılması</string>
@@ -524,7 +524,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="service_security_over_r"><Data>&lt;a href=%1$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;br/&gt;&lt;br/&gt;Android &lt;xliff:g id=version_number example=11&gt;%2$d&lt;/xliff:g&gt; standartlarına uyğun olaraq, müvafiq tətbiq işləməyi dayandırdıqdan sonra müəyyən bir müddət ərzində (təxminən &lt;xliff:g example=5 seconds id=short&gt;%3$s&lt;/xliff:g&gt;) birdəfəlik icazə geri götürüləcək. Bu qısa müddət ərzində tətbiqi açsanız, icazə geri götürüləcək.</Data></string>
     <string name="service_sim_activation">SIM kartın aktivləşdirilməsi</string>
     <string name="servicestate_title">Təməl xidmətlər haqqında bəyanat</string>
-    <string name="setting_locale">Bölgə tənzimlənir…</string>
+    <string name="setting_locale">Bölgə ayarlanır…</string>
     <string name="shut_down">Söndür</string>
     <string name="sim_activation_introduction">SIM kart aktivləşdirmə xidməti, MIUI xidmətlərinin normal işləyə bildiyinə əmin olmaq üçün hazırda daxil edilmiş SIM kartın məlumatlarını doğrulayır. Bu xidmətlərə \"Cihazı tap\", Mi Mesaj, telefon nömrələrini istifadə edərək Mi Hesablarını yaratma və mesaj və zəng tarixçəsinin sinxronlaşdırılması daxildir.</string>
     <string name="sim_card_detecting">SIM kart yoxlanılır…</string>
@@ -580,7 +580,7 @@ Bu özəlliyi Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifad
     <string name="terms_of_use_label_mi_account">Mi Hesab tərkibi</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
-    <string name="terms_of_use_label_os">OS AI Tənzimləməsi</string>
+    <string name="terms_of_use_label_os">OS AI Ayarı</string>
     <string name="terms_of_use_label_package">Paket quraşdırıcı</string>
     <string name="terms_of_use_label_parallel_windows">Paralel pəncərələr</string>
     <string name="terms_of_use_label_phrase">Çox işlədilən ifadələr</string>
@@ -655,8 +655,8 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
-    <string name="title_fingerprint">Ekran kilidini tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
+    <string name="title_fingerprint">Ekran kilidini ayarla</string>
     <string name="title_set_fingerprint">Ekran kilidi</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>

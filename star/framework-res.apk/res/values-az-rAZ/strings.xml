@@ -5,7 +5,7 @@
     <string name="CLIRDefaultOffNextCallOn">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılmayıb. Növbəti zəng: Məhdudlaşdırılıb</string>
     <string name="CLIRDefaultOnNextCallOff">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılıb. Növbəti zəng: Məhdudlaşdırılmayıb</string>
     <string name="CLIRDefaultOnNextCallOn">Zəng edən kimliyi ilkin olaraq məhdudlaşdırılıb. Növbəti zəng: Məhdudlaşdırılıb</string>
-    <string name="CLIRPermanent">"Zəng kimliyi tənzimləməsini dəyişdirə bilməzsiniz."</string>
+    <string name="CLIRPermanent">"Zəng edənin kimliyi ayarını dəyişdirə bilməzsiniz."</string>
     <string name="CfMmi">Zəng yönləndirmə</string>
     <string name="ClipMmi">Gələn zəng edən kimliyi</string>
     <string name="ClirMmi">Gedən zəng edən kimliyini gizlət</string>
@@ -176,13 +176,13 @@
 
 Hazırkı özəlliklər:
 %1$s
-Tənzimləmələr &gt; \"Əlçatımlılıq\"da seçilmiş özəllikləri dəyişdirə bilərsiniz."</string>
+Ayarlar &gt; \"Əlçatımlılıq\"da seçilmiş özəllikləri dəyişdirə bilərsiniz."</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">Əlçatımlılıq özəllikləri üçün qısayol işə salınsın?</string>
     <string name="accessibility_shortcut_off">İşə salınmasın</string>
     <string name="accessibility_shortcut_on">İşə sal</string>
     <string name="accessibility_shortcut_single_service_warning">"Hər iki səs düyməsini bir neçə saniyə basılı tutmaq, %1$s işə salınacaq. Bu cihazın işləmə formasını dəyişdirə bilər.
 
-Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyişdirə bilərsiniz."</string>
+Ayarlar &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəlliklə dəyişdirə bilərsiniz."</string>
     <string name="accessibility_shortcut_single_service_warning_title">%1$s qısayolu işə salınsın?</string>
     <string name="accessibility_shortcut_spoken_feedback">%1$s istifadə etmək üçün hər iki səs düyməsini üç saniyə basılı tutun</string>
     <string name="accessibility_shortcut_toogle_warning">Qısayol açıq olanda, hər iki səs düyməsini 3 saniyə basılı tutmaq, əlçatımlılıq xidmətini başladacaq.</string>
@@ -238,7 +238,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="aerr_wait">Gözlə</string>
     <string name="alert_windows_notification_channel_group_name">Digər tətbiqlərin üzərində göstər</string>
     <string name="alert_windows_notification_channel_name">%s digər tətbiqlərin üzərində göstərilir</string>
-    <string name="alert_windows_notification_message">%s tətbiqinin bu özəlliyi istifadə etməsini istəmirsinizsə, toxunaraq tənzimləmələri açın və özəlliyi söndürün.</string>
+    <string name="alert_windows_notification_message">%s tətbiqinin bu özəlliyi istifadə etməsini istəmirsinizsə, toxunaraq ayarları açın və özəlliyi söndürün.</string>
     <string name="alert_windows_notification_title">%s digər tətbiqlərin üzərində göstərilir</string>
     <string name="alert_windows_notification_turn_off_action">Söndür</string>
     <string name="allow">İcazə ver</string>
@@ -279,7 +279,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="app_streaming_blocked_title_for_fingerprint_dialog">Telefonda davam et</string>
     <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon əlçatmazdır</string>
     <string name="app_streaming_blocked_title_for_permission_dialog">İcazə lazımdır</string>
-    <string name="app_streaming_blocked_title_for_settings_dialog">Telefon tənzimləmələri əlçatmazdır</string>
+    <string name="app_streaming_blocked_title_for_settings_dialog">Telefon ayarları əlçatmazdır</string>
     <string name="app_suspended_default_message">%1$s, hal-hazırda əlçatmazdır. Bu, %2$s tərəfindən idarə olunur.</string>
     <string name="app_suspended_more_details">Daha ətraflı</string>
     <string name="app_suspended_title">Tətbiq əlçatmazdır</string>
@@ -347,7 +347,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="biometric_dialog_default_subtitle">Davam etmək üçün biometrik istifadə edin</string>
     <string name="biometric_dialog_default_title">Siz olduğunuzu doğrulayın</string>
     <string name="biometric_error_canceled">Kimlik doğrulama ləğv edildi</string>
-    <string name="biometric_error_device_not_secured">PIN, naxış və ya parol tənzimlənməyib</string>
+    <string name="biometric_error_device_not_secured">PIN, naxış və ya parol ayarlanmadı</string>
     <string name="biometric_error_generic">Kimlik doğrulama xətası</string>
     <string name="biometric_error_hw_unavailable">Biometrik avadanlıq təminatı əlçatmazdır</string>
     <string name="biometric_error_user_canceled">Kimlik doğrulama ləğv edildi</string>
@@ -408,7 +408,7 @@ Tənzimləmələr &gt; \"Əlçatımlılıq\"da bu qısayolu başqa bir özəllik
     <string name="chooser_all_apps_button_label">Tətbiq siyahısı</string>
     <string name="chooser_no_direct_share_targets">Paylaşmaq üçün tövsiyə edilən insan yoxdur</string>
     <string name="chooser_wallpaper">Divar kağızını dəyişdir</string>
-    <string name="clearDefaultHintMsg">Sistem tənzimləmələri &gt; Tətbiq &gt; \"Endirilənlər\"də ilkin tənzimləməni təmizləyin.</string>
+    <string name="clearDefaultHintMsg">Sistem ayarları &gt; Tətbiq &gt; \"Endirilənlər\"də ilkin dəyəri təmizləyin.</string>
     <string name="close_button_text">Bağla</string>
     <string name="color_correction_feature_name">Rəng düzəltmə</string>
     <string name="color_inversion_feature_name">Rəngi inversiyası</string>
@@ -456,7 +456,7 @@ kontakt yarat"</string>
     <string name="date_picker_decrement_day_button">Günü azalt</string>
     <string name="date_picker_decrement_month_button">Ayı azalt</string>
     <string name="date_picker_decrement_year_button">İli azalt</string>
-    <string name="date_picker_dialog_title">Tarixi tənzimlə</string>
+    <string name="date_picker_dialog_title">Tarixi ayarla</string>
     <string name="date_picker_increment_day_button">Günü artır</string>
     <string name="date_picker_increment_month_button">Ayı artır</string>
     <string name="date_picker_increment_year_button">İli artır</string>
@@ -464,7 +464,7 @@ kontakt yarat"</string>
     <string name="date_picker_next_month_button">Növbəti ay</string>
     <string name="date_picker_prev_month_button">Keçən ay</string>
     <string name="date_time_done">Hazırdır</string>
-    <string name="date_time_set">Tənzimlə</string>
+    <string name="date_time_set">Ayarla</string>
     <string name="day">gün</string>
     <string name="days">gün</string>
     <string name="decline">Rədd et</string>
@@ -638,7 +638,7 @@ nömrəni yığın"</string>
     <string name="face_recalibrate_notification_content">Üz modelini silmək üçün toxunun, daha sonra üzünüzü yenidən əlavə edin</string>
     <string name="face_recalibrate_notification_name">Üzlə kilid açma</string>
     <string name="face_recalibrate_notification_title">Üzlə kilid açma problemi</string>
-    <string name="face_sensor_privacy_enabled">Üzlə kilid açmanı istifadə etmək üçün Tənzimləmələr &gt; \"Gizlilik\"də <b>Kamera müraciətini</b> işə salın</string>
+    <string name="face_sensor_privacy_enabled">Üzlə kilid açmanı istifadə etmək üçün Ayarlar &gt; \"Gizlilik\"də <b>Kamera müraciətini</b> işə salın</string>
     <string name="face_setup_notification_content">Telefona baxaraq kilidi açın</string>
     <string name="face_setup_notification_title">Üzlə kilid açmanı quraşdırın</string>
     <string name="faceunlock_multiple_failures">Üzlə kilid açma üçün maksimum cəhd sayı keçildi</string>
@@ -680,7 +680,7 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_error_lockout">Həddindən çox cəhd edildi. Daha sonra yenidən sınayın.</string>
     <string name="fingerprint_error_lockout_permanent">Həddindən çox cəhd edildi. Barmaq izi sensoru sıradan çıxarıldı.</string>
     <string name="fingerprint_error_no_fingerprints">Heç bir barmaq izi yazılmayıb.</string>
-    <string name="fingerprint_error_no_space">Barmaq izi tənzimlənə bilmir</string>
+    <string name="fingerprint_error_no_space">Barmaq izi qurula bilmir</string>
     <string name="fingerprint_error_not_match">Barmaq izi tanınmadı</string>
     <string name="fingerprint_error_security_update_required">Sensor müvəqqəti olaraq sıradan çıxarıldı.</string>
     <string name="fingerprint_error_timeout">Barmaq izinin vaxtı bitdi. Yenidən sınayın.</string>
@@ -695,7 +695,7 @@ Sualınız varsa, təşkilat admininizlə əlaqə saxlayın."</string>
     <string name="fingerprint_recalibrate_notification_name">Barmaq izi ilə kilid açma</string>
     <string name="fingerprint_recalibrate_notification_title">Barmaq izi sensoru istifadə edilə bilmir</string>
     <string name="fingerprint_setup_notification_content">Barmaq izi əlavə etmək üçün toxunun</string>
-    <string name="fingerprint_setup_notification_title">Kilidi açmaq üçün daha çox üsul tənzimləyin</string>
+    <string name="fingerprint_setup_notification_title">Kilidi açmağın başqa yollarını quraşdırın</string>
     <string name="fingerprint_udfps_error_not_match">Barmaq izi tanınmadı</string>
     <string name="fingerprints">Barmaq izləri:</string>
     <string name="floating_toolbar_close_overflow_description">Daşmanı bağla</string>
@@ -797,7 +797,7 @@ Barmaq izinizi quraşdırarkən yüngülcə toxunmağa çalışın."</string>
     <string name="immersive_cling_positive">Anladım</string>
     <string name="immersive_cling_title">Tam ekran baxışı</string>
     <string name="importance_from_person">Bu, daxil olan insanlara görə vacibdir.</string>
-    <string name="importance_from_user">Bu bildirişlərin vaciblik dərəcəsini tənzimləyin.</string>
+    <string name="importance_from_user">Bu bildirişlərin vaciblik dərəcəsini ayarlayın.</string>
     <string name="in_progress">davam edir</string>
     <string name="inputMethod">Giriş üsulu</string>
     <string name="input_method_binding_label">Giriş üsulu</string>
@@ -1083,12 +1083,12 @@ Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsən
     <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d təmin edilməyib</string>
     <string name="mmiComplete">MMI tamamdır.</string>
     <string name="mmiError">Bağlantı problemi və ya yararsız MMI kodu.</string>
-    <string name="mmiErrorWhileRoaming">Roaminqdə olarkən zəng yönləndirmə tənzimləmələri telefonunuzdan dəyişdirilə bilməz.</string>
+    <string name="mmiErrorWhileRoaming">Rouminqdə olarkən zəng yönləndirmə ayarları telefonunuzdan dəyişdirilə bilməz.</string>
     <string name="mmiFdnError">Əməliyyat yalnız səbit yığım nömrələri ilə məhdudlaşdırılıb.</string>
     <string name="mobile_no_internet">Mobil şəbəkənin internetə müraciəti yoxdur</string>
     <string name="more_item_label">Daha çox</string>
     <string name="move_button_text">Bütün pəncərəni hərəkət etdirmək üçün çərçivə düyməsinə toxunun</string>
-    <string name="mte_override_notification_message">Performans və stabillik təsirlənə bilər. Sıradan çıxartmaq üçün yenidən başladın. Əgər arm64.memtag.bootctl istifadə edərək fəallaşdırılıbsa, onu əvvəlcədən yoxdur olaraq tənzimləyin.</string>
+    <string name="mte_override_notification_message">Performans və stabillik təsirlənə bilər. Sıradan çıxartmaq üçün yenidən başladın. Əgər arm64.memtag.bootctl istifadə edərək fəallaşdırılıbsa, onu \"əvvəlcədən yoxdur\" olaraq ayarlayın.</string>
     <string name="mte_override_notification_title">Təcrübi MTE fəaldır</string>
     <string name="music_recognition_manager_service">Musiqi Tanıma Meneceri Xidməti</string>
     <string name="muted_by">%1$s, bəzi səsləri söndürür</string>
@@ -1283,9 +1283,9 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_manageNetworkPolicy">Tətbiqin, şəbəkə siyasətlərini idarə etməsinə və tətbiqə xas qaydaları müəyyən etməsinə icazə verir.</string>
     <string name="permdesc_manageOngoingCalls">Tətbiqə, cihazınızda davam zənglərlə bağlı detalları görmə və bu zənglərə nəzarət etmə icazəsi verir.</string>
     <string name="permdesc_manageOwnCalls">Tətbiqə, zəng təcrübəsini təkmilləşdirmək üçün sistem vasitəsilə zəngləri yönləndirmə icazəsi verir.</string>
-    <string name="permdesc_manageProfileAndDeviceOwners">Tətbiqə, profil sahiblərini və cihaz sahibini tənzimləmə icazəsi verir.</string>
+    <string name="permdesc_manageProfileAndDeviceOwners">Tətbiqin profil sahiblərini və cihaz sahibini ayarlamasına imkan verir.</string>
     <string name="permdesc_mediaLocation">Tətbiqə, media kolleksiyanızdan yerləşmələri oxuma icazəsi verir.</string>
-    <string name="permdesc_modifyAudioSettings">Tətbiqə, səs səviyyəsi və hansi dinamikin çıxış üçün istifadə edildiyi barədə məlumatlar kimi qlobal səs tənzimləmələrini dəyişdirmə icazəsi verir.</string>
+    <string name="permdesc_modifyAudioSettings">Tətbiqin səs səviyyəsi və hansı dinamikin çıxış üçün istifadə edildiyi barədə məlumatlar kimi qlobal səs ayarlarını dəyişdirməsinə imkan verir.</string>
     <string name="permdesc_modifyNetworkAccounting">Tətbiqə, şəbəkə istifadəsinin tətbiqlərə qarşı necə hesablandığını dəyişdirmə icazəsi verir. Normal tətbiqlər tərəfindən istifadə olunmur.</string>
     <string name="permdesc_nearby_wifi_devices">Tətbiqin yaxınlıqdakı Wi‑Fi cihazlarının reklamını etmək, onlara bağlanmaq və nisbi mövqeyini müəyyən etməyinə imkan verir</string>
     <string name="permdesc_nfc">Tətbiqə, Yaxın Sahə Rabitəsi (NFC) etiketləri, kartları və oxuyucuları ilə əlaqə qurma icazəsi verir.</string>
@@ -1308,7 +1308,7 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_readPhoneNumbers">Tətbiqə, cihazın telefon nömrələrinə müraciət etmə icazəsi verir.</string>
     <string name="permdesc_readPhoneState">Tətbiqə, cihazın telefon özəlliklərinə müraciət etmə icazəsi verir. Bu icazə, tətbiqin telefon nömrələrini və cihaz kimliklərini, bir zəngin aktiv olub-olmadığını və bir zəngə qoşulmuş uzaq nömrəni müəyyən etməsinə imkan verir.</string>
     <string name="permdesc_readSms">Bu tətbiq, telefonunuzda saxlanılan bütün SMS (mətn) mesajlarını oxuya bilər.</string>
-    <string name="permdesc_readSyncSettings">Tətbiqə, bir hesab üçün sinxronlaşdırma tənzimləmələrini oxuma icazəsi verir. Nümunə üçün, bu, Kontaktlar tətbiqin bir hesabla sinxron olub-olmadığını müəyyən edə bilər.</string>
+    <string name="permdesc_readSyncSettings">Tətbiqin bir hesab üçün sinxr. ayarlarını oxumasına icazə verir. Nümunə üçün, bu, Kontaktlar tətbiqin bir hesabla sinxron olub-olmadığını müəyyən edə bilər.</string>
     <string name="permdesc_readSyncStats">Tətbiqə, sinxron tədbirlərin tarixçəsi və nə qədər verilənlərin sinxron olduğu daxil olmaqla bir hesab üçün sinxronlaşdırma statistikalarını oxuma icazəsi verir.</string>
     <string name="permdesc_receiveBootCompleted">Tətbiqin, sistem yüklənməsinin bitməsindən dərhal sonra özünü başlatmasına icazə verir. Bu, telefonun açılmasını ləngidə və tətbiqin həmişə işləyərək telefonun ümumi sürətini yavaşlandırmasına imkan verə bilər.</string>
     <string name="permdesc_receiveMms">Tətbiqə, MMS mesajlarını alma və emal etmə icazəsi verir. Bu o deməkdir ki, tətbiq, cihazınıza göndərilən mesajları sizə göstərmədən izləyə və ya silə bilər.</string>
@@ -1332,8 +1332,8 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_setAlarm">Tətbiqin, quraşdırılmış zəngli saat tətbiqində bir zəngli saat qurmasına icazə verir. Bəzi zəngli saatlar bu özəlliyi tətbiq etməyə bilər.</string>
     <string name="permdesc_setInputCalibration">Tətbiqə, toxunaqlı ekranın dərəcələndirmə parametrlərini dəyişdirmə icazəsi verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_setTimeZone">"Tətbiqə, telefonun saat qurşağını dəyişdirmə icazəsi verir."</string>
-    <string name="permdesc_setWallpaper">Tətbiqə, sistem divar kağızını tənzimləmə icazəsi verir.</string>
-    <string name="permdesc_setWallpaperHints">Tətbiqə, sistem divar kağızı üçün ölçü göstərişlərini tənzimləmə icazəsi verir.</string>
+    <string name="permdesc_setWallpaper">Tətbiqin sistem divar kağızını ayarlamasına icazə verir.</string>
+    <string name="permdesc_setWallpaperHints">Tətbiqin sistem divar kağızı üçün ölçü ipucularını ayarlamasına icazə verir.</string>
     <string name="permdesc_sim_communication">Tətbiqə, SIM-ə əmr göndərmə icazəsi verir. Bu, çox təhlükəlidir.</string>
     <string name="permdesc_startReviewPermissionDecisions">Sahibin, icazə qərarlarını incələməsi üçün ekran başlatmasına icazə verir. Normal tətbiqlər, heç vaxt bu icazəyə ehtiyac duymur.</string>
     <string name="permdesc_startViewAppFeatures">Sahibin, bir tətbiq üçün özəllik məlumatlarına baxmağa başlamasına icazə verir.</string>
@@ -1359,8 +1359,8 @@ Təkmil bildirişlər, kontakt adları və mesajlar kimi şəxsi məlumatlar dax
     <string name="permdesc_writeContacts">Tətbiqə, telefonunuzda saxlanılan kontaktlarınız haqqında olan verilənləri dəyişdirmə icazəsi veir. Bu icazə, tətbiqin kontakt verilənlərini silməsinə imkan verir.</string>
     <string name="permdesc_writeGeolocationPermissions">"Tətbiqə, Brauzerin coğrafi yerləşmə icazələrini dəyişdirmə icazəsi verir. Zərərli tətbiqlər, bu icazəni istədiyi veb saytlara yerləşmə məlumatlarını göndərmək üçün istifadə edə bilər."</string>
     <string name="permdesc_writeHistoryBookmarks">"Tətbiqə, Brauzerin tarixçəsini və ya telefonunuzda saxlanılan əlfəcinləri dəyişdirmə icazəsi verir. Bu, tətbiqin Brauzer verilənlərini silməsinə və ya dəyişdirməsinə imkan verir. Unutmayın: bu icazə, üçüncü tərəf brauzerlər və ya vebdə gəzinmə bacarıqları olan digər tətbiqlər tərəfindən məcburi istənilməyə bilər."</string>
-    <string name="permdesc_writeSettings">"Tətbiqə, sistem tənzimləmələr verilənlərini dəyişdirmə icazəsi verir. Zərərli tətbiqlər, sistem konfiqurasiyalarını zədələyə bilər."</string>
-    <string name="permdesc_writeSyncSettings">Tətbiqə, bir hesab üçün sinxronlaşdırma tənzimləmələrini dəyişdirmə icazəsi verir. Nümunə üçün, bu, Kontaktlar tətbiqinin bir hesabla sinxronlaşdırılmasını fəallaşdırmaq üçün istifadə edilə bilər.</string>
+    <string name="permdesc_writeSettings">"Tətbiqin sistem ayar datasını dəyişdirməsinə imkan verir. Zərərli tətbiqlər, sistemin konfiqurasiyasını zədələyə bilər."</string>
+    <string name="permdesc_writeSyncSettings">Tətbiqin bir hesab üçün sinxr. ayarlarını dəyişdirməsinə imkan verir. Məsələn bu, Kontaktlar tətbiqinin bir hesabla sinxr.nı fəallaşdırmaq üçün istifadə edilə bilər.</string>
     <string name="permgroupdesc_activityRecognition">fiziki fəaliyyətə müraciət et</string>
     <string name="permgroupdesc_calendar">təqvimə müraciət et</string>
     <string name="permgroupdesc_calllog">telefon zəng jurnalını oxu və jurnala yaz</string>
@@ -1423,7 +1423,7 @@ icazə tələb olundu"</string>
     <string name="permlab_bind_connection_service">telefoniya xidmətləri ilə qarşılıqlı əlaqədə ol</string>
     <string name="permlab_bind_incall_service">zəng ekranı ilə qarşılıqlı əlaqədə ol</string>
     <string name="permlab_bluetooth">Bluetooth cihazları ilə cütləşdir</string>
-    <string name="permlab_bluetoothAdmin">Bluetooth tənzimləmələrinə müraciət et</string>
+    <string name="permlab_bluetoothAdmin">Bluetooth ayarlarına müraciət</string>
     <string name="permlab_bluetooth_advertise">yaxınlıqdakı Bluetooth cihazlarına yayımla</string>
     <string name="permlab_bluetooth_connect">cütləşmiş Bluetooth cihazları ilə bağlantı qur</string>
     <string name="permlab_bluetooth_scan">yaxınlıqdakı Bluetooth cihazlarını kəşf et və cütləşdir</string>
@@ -1463,7 +1463,7 @@ icazə tələb olundu"</string>
     <string name="permlab_manageOwnCalls">zəngləri sistem üzərindən yönləndir</string>
     <string name="permlab_manageProfileAndDeviceOwners">profili və cihaz sahiblərini idarə et</string>
     <string name="permlab_mediaLocation">media kolleksiyasından yerləşmələri oxu</string>
-    <string name="permlab_modifyAudioSettings">səs tənzimləmələrini dəyişdir</string>
+    <string name="permlab_modifyAudioSettings">səs ayarlarınızı dəyişdirmə</string>
     <string name="permlab_modifyNetworkAccounting">şəbəkə istifadə hesablamasını dəyişdir</string>
     <string name="permlab_nearby_wifi_devices">yaxınlıqdakı Wi‑Fi cihazları ilə qarşılıqlı əlaqə</string>
     <string name="permlab_nfc">Yaxın Sahə Rabitəsinə (NFC) nəzarət et</string>
@@ -1509,8 +1509,8 @@ icazə tələb olundu"</string>
     <string name="permlab_sendSms">SMS mesajlarını göndər və görüntülə</string>
     <string name="permlab_setAlarm">zəngli saat qur</string>
     <string name="permlab_setInputCalibration">giriş cihaz dərəcələndirməsini dəyişdir</string>
-    <string name="permlab_setTimeZone">saat qurşağını tənzimlə</string>
-    <string name="permlab_setWallpaper">divar kağızı tənzimlə</string>
+    <string name="permlab_setTimeZone">saat qurşağını ayarla</string>
+    <string name="permlab_setWallpaper">divar kağızını ayarla</string>
     <string name="permlab_setWallpaperHints">divar kağızının ölçüsünü nizamla</string>
     <string name="permlab_sim_communication">SIM-ə əmrlər göndər</string>
     <string name="permlab_startReviewPermissionDecisions">icazə qərarlarına baxmağa başla</string>
@@ -1536,7 +1536,7 @@ icazə tələb olundu"</string>
     <string name="permlab_writeContacts">kontaktları dəyişdir</string>
     <string name="permlab_writeGeolocationPermissions">Brauzer coğrafi yerləşmə icazələrini dəyişdir</string>
     <string name="permlab_writeHistoryBookmarks">ven əlfəcinlərə və tarixçəyə yaz</string>
-    <string name="permlab_writeSettings">sistem tənzimləmələrini dəyişdir</string>
+    <string name="permlab_writeSettings">sistem ayarlarını dəyişdir</string>
     <string name="permlab_writeSyncSettings">sinxronlaşdırmanı aç/bağla</string>
     <string name="perms_description_app">%1$s tərəfindən təmin edilir.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">YENİ: </font></string>
@@ -1569,23 +1569,23 @@ icazə tələb olundu"</string>
     <string name="policydesc_disableCamera">Bütün cihaz kameralarının istifadəsini əngəllə.</string>
     <string name="policydesc_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərinin istifadəsini önlə.</string>
     <string name="policydesc_encryptedStorage">Saxlanılmış tətbiq verilənlərinin şifrələnmiş olmasını tələb et.</string>
-    <string name="policydesc_expirePassword">Ekran kilidi parolu, PIN və ya naxışın hansı tezliklə dəyişməli olduğunu tənzimlə.</string>
+    <string name="policydesc_expirePassword">Ekran kilidi parolu, PIN və ya naxışın hansı tezliklə dəyişməli olduğunu ayarla.</string>
     <string name="policydesc_forceLock">Ekranın necə və nə vaxt kilidlənəcəyinə nəzarət et.</string>
     <string name="policydesc_limitPassword">Ekran kilidi parollarında və PIN-lərində icazə verilən uzunluğa və simvollara nəzarət et.</string>
     <string name="policydesc_resetPassword">Ekran kilidini dəyişdir.</string>
-    <string name="policydesc_setGlobalProxy">Siyasət fəal olanda istifadə ediləcək cihazın qlobal proksisini tənzimlə. Yalnız cihaz sahibi, qlobal proksini tənzimləyə bilər.</string>
+    <string name="policydesc_setGlobalProxy">Siyasət fəal olduqda istifadə ediləcək cihazın qlobal proksisini ayarla. Yalnız cihaz sahibi, qlobal proksini ayarlaya bilər.</string>
     <string name="policydesc_watchLogin">"Ekran kilidini açarkən yazılan yanlış parolların sayını izlə və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bütün telefon datanı sil."</string>
     <string name="policydesc_watchLogin_secondaryUser">"Ekran kilidini açarkən yazılan yanlış parolların sayını izlə və həddindən çox yanlış parol yazılıbsa, telefonu kilidlə və ya bu istifadəçinin bütün datanı sil."</string>
     <string name="policydesc_wipeData">"Fabrik datasını sıfırlama prosesini icra edərək xəbərdarlıq olmadan telefonun datasını sil."</string>
     <string name="policydesc_wipeData_secondaryUser">"Xəbərdarlıq olmadan bu istifadəçinin verilənlərini sil."</string>
     <string name="policylab_disableCamera">Kameraları sıradan çıxart</string>
     <string name="policylab_disableKeyguardFeatures">Bəzi ekran kilidi özəlliklərini sıradan çıxart</string>
-    <string name="policylab_encryptedStorage">Anbar şifrələməsini tənzimlə</string>
-    <string name="policylab_expirePassword">Ekran kilidi parolunun istifadə müddətini tənzimlə</string>
+    <string name="policylab_encryptedStorage">Anbar şifrələməsini ayarla</string>
+    <string name="policylab_expirePassword">Ekran kilidi parolunun yararlılıq müddətini ayarla</string>
     <string name="policylab_forceLock">Ekran kilidlə</string>
-    <string name="policylab_limitPassword">Parol qaydalarını tənzimlə</string>
+    <string name="policylab_limitPassword">Parol qaydalarını ayarla</string>
     <string name="policylab_resetPassword">Ekran kilidini dəyişdir</string>
-    <string name="policylab_setGlobalProxy">Cihazın qlobal proksisini tənzimlə</string>
+    <string name="policylab_setGlobalProxy">Cihazın qlobal proksisini ayarla</string>
     <string name="policylab_watchLogin">Ekran kilidi cəhdlərini izlə</string>
     <string name="policylab_wipeData">Bütün verilənləri sil</string>
     <string name="policylab_wipeData_secondaryUser">İstifadəçi verilənlərini sil</string>
@@ -1667,7 +1667,7 @@ icazə tələb olundu"</string>
     <string name="review_notification_settings_dismiss">Bağla</string>
     <string name="review_notification_settings_remind_me_action">Daha sonra xatırlat</string>
     <string name="review_notification_settings_text">Android 13-dən başlayaraq, quraşdırdığınız tətbiqlərin bildiriş göndərməsi üçün icazənizə ehtiyacı var. Mövcud tətbiqlərdə bu icazəni dəyişdirmək üçün toxunun.</string>
-    <string name="review_notification_settings_title">Bildiriş tənzimləmələrini incələ</string>
+    <string name="review_notification_settings_title">Bildiriş ayarlarını incələ</string>
     <string name="revoke">Ləğv et</string>
     <string name="ringtone_default">İlkin zəng səsi</string>
     <string name="ringtone_default_with_actual">İlkin (%1$s)</string>
@@ -1699,7 +1699,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="save_password_never">Heç vaxt</string>
     <string name="save_password_notnow">İndi yox</string>
     <string name="save_password_remember">Xatırla</string>
-    <string name="screen_compat_mode_hint">Bunu, Sistem tənzimləmələri &gt; Tətbiqlər &gt; \"Endirilənlər\"də yenidən fəallaşdırın.</string>
+    <string name="screen_compat_mode_hint">Bunu, Sistem ayarları &gt; Tətbiqlər &gt; \"Endirilənlər\"də yenidən fəallaşdırın.</string>
     <string name="screen_compat_mode_scale">Miqyas</string>
     <string name="screen_compat_mode_show">Həmişə göstər</string>
     <string name="screen_lock">Ekran kilidi</string>
@@ -1799,7 +1799,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="sms_short_code_confirm_never_allow">Heç vaxt icazə vermə</string>
     <string name="sms_short_code_details">Bu, mobil hesabınızdan <b>ödəniş alınmasına səbəb ola bilər</b>.</string>
     <string name="sms_short_code_remember_choice">Seçimimi xatırla</string>
-    <string name="sms_short_code_remember_undo_instruction">Bunu daha sonra Tənzimləmələr &gt; \"Tətbiqlər\"də dəyişdirə bilərsiniz</string>
+    <string name="sms_short_code_remember_undo_instruction">Bunu daha sonra Ayarlar &gt; \"Tətbiqlər\"də dəyişdirə bilərsiniz</string>
     <string name="smv_application">%1$s tətbiqi (%2$s prosesi) özünün tətbiq etdiyi StrictMode siyasətini pozdu.</string>
     <string name="smv_process">%1$s prosesi özünün tətbiq etdiyi StrictMode siyasətini pozdu.</string>
     <string name="splash_screen_view_branding_description">Tətbiq marka şəkli</string>
@@ -1813,7 +1813,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="status_bar_mute">status_bar_mute</string>
     <string name="status_bar_screen_record">ekran_qeydi</string>
     <string name="status_communication_speaker_summary">Dinamik açıqdır. Qulaqlıq taxılanda səs hələ də dinamikdən çıxacaq.</string>
-    <string name="status_communication_summary">Zəng davam edir. Artıq yalnız zəng səsi səviyyəsini tənzimləyə bilərsiniz.</string>
+    <string name="status_communication_summary">Zəng davam edir. Artıq yalnız zəng səsi səviyyəsini ayarlaya bilərsiniz.</string>
     <string name="stk_cc_ss_to_dial">SS tələbi, müntəzəm zəngə dəyişdirildi</string>
     <string name="stk_cc_ss_to_dial_video">SS tələbi, görüntülü zəngə dəyişdirildi</string>
     <string name="stk_cc_ss_to_ss">Yeni SS tələbinə dəyişdirildi</string>
@@ -1853,13 +1853,13 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="text_copied">Mətn lövhəyə kopyalandı.</string>
     <string name="time_picker_decrement_hour_button">Saatı azalt</string>
     <string name="time_picker_decrement_minute_button">Dəqiqəni azalt</string>
-    <string name="time_picker_decrement_set_am_button">GƏ tənzimlə</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
-    <string name="time_picker_header_text">Vaxt tənzimlə</string>
+    <string name="time_picker_decrement_set_am_button">GƏ ayarla</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
+    <string name="time_picker_header_text">Vaxtı ayarla</string>
     <string name="time_picker_hour_label">saat</string>
     <string name="time_picker_increment_hour_button">Saatı artır</string>
     <string name="time_picker_increment_minute_button">Dəqiqəni artır</string>
-    <string name="time_picker_increment_set_pm_button">GS tənzimlə</string>
+    <string name="time_picker_increment_set_pm_button">GS ayarla</string>
     <string name="time_picker_input_error">Yararlı bir vaxt daxil edin</string>
     <string name="time_picker_minute_label">dəqiqə</string>
     <string name="time_picker_mode">saat</string>
@@ -1869,7 +1869,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="tooltip_popup_title">Məsləhət</string>
     <string name="turn_off_radio">Naqilsiz bağlantını söndür</string>
-    <string name="turn_on_magnification_settings_action">Tənzimləmələrdə aç</string>
+    <string name="turn_on_magnification_settings_action">Ayarlarda aç</string>
     <string name="turn_on_radio">Naqilsiz bağlantını işə sal</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Yaxınlaşdırma kontrolu üçün cüt toxunun</string>
     <string name="twilight_service">Alatoranlıq xidməti</string>
@@ -1882,7 +1882,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="unsupported_compile_sdk_check_update">Güncəlləməni yoxla</string>
     <string name="unsupported_compile_sdk_message">%1$s, Android ƏS-nin uyğun gəlməyən versiyası üçün quruldu və gözlənilməz şəkildə davrana bilər. Tətbiqin güncəl versiyası mövcud ola bilər.</string>
     <string name="unsupported_compile_sdk_show">Həmişə göstər</string>
-    <string name="unsupported_display_size_message">%1$s, hazırkı Ekran ölçüsü tənzimləməsini dəstəkləmir və gözlənilməz şəkildə davrana bilər.</string>
+    <string name="unsupported_display_size_message">%1$s, hazırkı Ekran ölçüsü ayarını dəstəkləmir və gözlənilməz şəkildə davrana bilər.</string>
     <string name="unsupported_display_size_show">Həmişə göstər</string>
     <string name="untitled">&lt;Adsız&gt;</string>
     <string name="upload_file">Faylı seçin</string>
@@ -1931,7 +1931,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="validity_period">Etibarlılıq:</string>
     <string name="vdm_camera_access_denied">%1$s tərəfindən telefonun kamerasına müraciət edilə bilmir</string>
     <string name="view_and_control_notification_content">%s ekranınıza baxa və nəzarət edə bilər. İncələmək üçün toxunun.</string>
-    <string name="view_and_control_notification_title">Müraciət tənzimləmələrini yoxla</string>
+    <string name="view_and_control_notification_title">Müraciət ayarlarını yoxla</string>
     <string name="volume_alarm">Zəngli saat səs səviyyəsi</string>
     <string name="volume_bluetooth_call">Bluetooth gələn zəng səs səviyyəsi</string>
     <string name="volume_call">Gələn zəng səs səviyyəsi</string>
@@ -1944,7 +1944,7 @@ Uzun müddət yüksək səs səviyyəsində dinləmək eşitmə qabiliyyətiniz�
     <string name="volume_icon_description_ringer">Zəng səsi</string>
     <string name="volume_music">Media səs səviyyəsi</string>
     <string name="volume_music_hint_playing_through_bluetooth">Bluetooth ilə oxudulur</string>
-    <string name="volume_music_hint_silent_ringtone_selected">Səssiz zəng səsi tənzimləndi</string>
+    <string name="volume_music_hint_silent_ringtone_selected">Səssiz zəng səsi ayarlandı</string>
     <string name="volume_notification">Bildiriş səs səviyyəsi</string>
     <string name="volume_ringtone">Zəng səsi səviyyəsi</string>
     <string name="volume_unknown">Səs səviyyəsi</string>
@@ -2013,7 +2013,7 @@ Bağlamaq istəyirsiniz?"</string>
     <string name="wifi_no_internet">%1$s şəbəkəsinin internetə müraciəti yoxdur</string>
     <string name="wifi_no_internet_detailed">Seçimlər üçün toxunun</string>
     <string name="window_magnification_prompt_content">Artıq ekranınızın bir hissəsini böyüdə bilərsiniz</string>
-    <string name="window_magnification_prompt_title">Yeni böyütmə tənzimləmələri</string>
+    <string name="window_magnification_prompt_title">Yeni böyütmə ayarları</string>
     <string name="wireless_display_route_description">Naqilsiz ekran</string>
     <string name="work_mode_off_message">İş tətbiqlərinizə və bildirişlərinizə müraciət əldə edin</string>
     <string name="work_mode_off_title">İş tətbiqləri açılsın?</string>

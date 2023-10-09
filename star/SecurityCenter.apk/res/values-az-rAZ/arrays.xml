@@ -205,14 +205,14 @@
     </string-array>
     <string-array name="sort_title_new">
         <item>Tətbiq adına görə sırala</item>
-        <item>İstifadə tezliyinə görə sırala</item>
-        <item>İstifadə sahəsinə görə sırala</item>
+        <item>Ən son istfdə edlnlərə görə sırala</item>
+        <item>İstfd. etdy. anbar sahəsinə görə sırala</item>
         <item>Quraşdırma vaxtına görə sırala</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Tətbiq adı</item>
-        <item>İstifadə tezliyi</item>
-        <item>İstifadə olunan sahə</item>
+        <item>Təzəlikcə istifadə edilən</item>
+        <item>İstifadə edilən anbar sahəsi</item>
         <item>Quraşdırma vaxtı</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

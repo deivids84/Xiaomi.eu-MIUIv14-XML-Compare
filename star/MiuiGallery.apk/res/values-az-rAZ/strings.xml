@@ -327,6 +327,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_automatically_title">Avto-sinxronlaşdırma</string>
     <string name="backup_battery_low_desc">Batareya az olduqda sinxronlaşdırmağa davam edə bilərsiniz</string>
     <string name="backup_battery_low_title">Batareya az olduğu üçün nüsxələməyə fasilə verildi</string>
+    <string name="backup_category_title">NÜSXƏ</string>
     <string name="backup_close">Nüsxələməni bağla</string>
     <string name="backup_cloud_space_low_btn_text">Daha çox alın</string>
     <string name="backup_cloud_space_low_desc">%1$s Xiaomi Cloud | %2$s əlçatandır</string>
@@ -342,7 +343,10 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_dirty_num">Cəmi: %s</string>
     <string name="backup_dirty_tip">Nüsxələnmiş foto və ya video yoxdur</string>
     <string name="backup_disable_message">Buludla sinxronlaşdırmanı söndürdüyünüz üçün Qalereya tətbiq keşini təmizləməlidir.</string>
+    <string name="backup_display">Anbar sahəsi xatırladıcıları</string>
     <string name="backup_file_over_size_desc">"Həcmi %1$s dəyərindən böyük olan foto və %2$s dəyərindən böyük olan videolar nüsxələnə bilmir."</string>
+    <string name="backup_google_description">Fotolarınızı Google Hesabınıza nüsxələyərək onları güvəndə saxlayın</string>
+    <string name="backup_google_name">Google Fotolar</string>
     <string name="backup_immediately">Nüsxələ</string>
     <string name="backup_need_sync_desc">Nüsxələməyə davam etmək üçün toxunun</string>
     <string name="backup_need_sync_title">Nüsxələmə dayandırıldı</string>
@@ -352,6 +356,10 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_no_wifi_btn_text">Mobil internet istifadə et</string>
     <string name="backup_no_wifi_desc">Mobil internet istifadə edərkən sinxronlaşdırmağa davam edə bilərsiniz</string>
     <string name="backup_no_wifi_title">Sinxronlaşdırma, Wi-Fi-ya bağlandıqdan sonra davam edəcək</string>
+    <string name="backup_off_des">Foto və videoları avtomatik nüsxələmək üçün buludla sinxronlaşdırmanı işə salın</string>
+    <string name="backup_onedrive_description">Buludda fotolarınızı qoruyun və onlara istənilən cihazdan müraciət edin</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Foto və videoları sinxronlaşdırmaq üçün yalnız Wi-Fi istifadə edin</string>
     <string name="backup_only_in_wifi_summary">Foto və videoları sinxronlaşdırmaq üçün heç vaxt mobil internet istifadə etmə</string>
     <string name="backup_only_wifi_dialog_message">Foto və videoları sinxronlaşdırmaq üçün mobil internet istifadə edilsin?</string>
@@ -662,6 +670,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="creativity_title">Yaradıcılıq</string>
     <string name="crop_label">Kəsilmiş fotolar</string>
     <string name="cta_agreement_declare"><Data>Bu tətbiqi istifadə etməzdən əvvəl, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı istifadə etmə yollarımızı tam anlamaq üçün bunları oxuyun və razılaşın: &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Ən geniş yayılmış problemlərin həllinə baxmaq üçün əvvəlcə bu tətbiqin şəbəkəyə bağlanmasına icazə verin.</string>
     <string name="cta_network_declare">Foto və videoları Xiaomi Cloud ilə sinxronlaşdırmaq üçün bu tətbiq internetə bağlanmalıdır.</string>
     <string name="cta_screenthrow_declare">"Bu cihazın ekranını xarici monitorlarda yayımlaya bilmək üçün, bu tətbiqin internetə bağlanması lazımdır."</string>
     <string name="custom_select_title_deselect_all">Seçmə</string>
@@ -1181,6 +1190,8 @@ mövcuddur"</string>
     <string name="get_user_info_top_hint_text">Xiaomi Hesabı ilə dəvət et</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_cloud_action_upgrade_onedrive">OneDrive-ı yüksəlt</string>
+    <string name="global_cloud_full_space_tip_message">Bütün foto və videolarınızı buluda nüsxələyə bilmək üçün bulud anbar sahəsi planını yüksəldin.</string>
     <string name="global_pad">Planşetim</string>
     <string name="global_pc">Noutbukum</string>
     <string name="global_phone">Telefonum</string>
@@ -1481,6 +1492,7 @@ mövcuddur"</string>
     <string name="main_save_compress">Sıxışdır və saxla</string>
     <string name="main_save_error_msg">"Bir xətaya görə dəyişikliklər saxlanıla bilmədi"</string>
     <string name="main_save_origin">Orijinal faylı saxla</string>
+    <string name="manager_backup">İdarə et</string>
     <string name="manual_hide_manage">\".nomedia\" fayllarını əlavə et</string>
     <string name="manual_hide_state">\".nomedia\" faylları uğurla əlavə edildi</string>
     <string name="map_album">Xəritə</string>
@@ -1798,6 +1810,7 @@ mövcuddur"</string>
     <string name="online_video_vip_transcoding">"VIP yayım başlamaq üzrədir…
 Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt apara bilər."</string>
     <string name="open">İşə sal</string>
+    <string name="open_backup">İşə sal</string>
     <string name="open_public_message">Dostlarınızla paylaşmaq üçün URL yaradın</string>
     <string name="open_public_title">Paylaş</string>
     <string name="open_settings">Ayarlar</string>
@@ -2188,6 +2201,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="picker_title_specify_format">%d foto seçin</string>
     <string name="picker_title_specify_format_one">%d foto seçin</string>
     <string name="picker_title_unlimit">Foto seçin</string>
+    <string name="picture_not_support_privacy_watermark">"Filiqran əlavə edilə bilmir. Bu təsvir çox kiçikdir."</string>
     <string name="places_album_empty_title">Fotolar yerə görə sıralana bilər</string>
     <string name="play_gif_desc">GIF-i oxut</string>
     <string name="play_video_desc">Videonu oxut</string>
@@ -2421,6 +2435,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_clear_histories">Axtarış tarixçəsini təmizlə</string>
     <string name="search_connection_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="search_connection_error_and_set">Şəbəkə ayarlarını yoxlamaq üçün toxunun</string>
+    <string name="search_domestic_edit_hint">Fotoları və videoları axtar</string>
     <string name="search_edit_hint">Faylları və ya albomları axtarın</string>
     <string name="search_empty_title">Qalereyanızdakı müəyyən şəxslərin, məkanların və obyektlərin olduğu fotoları tapın</string>
     <string name="search_error">Xəta baş verdi</string>
@@ -2502,6 +2517,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="see_ignore_faces">"Yox saydığınız şəxslərə baxın"</string>
     <string name="see_more_settings">Əlavə ayarlar</string>
     <string name="select_all">Hamısını seç</string>
+    <string name="select_backup">Nüsxəni seçin</string>
     <string name="select_image_operation">Fotolar əlavə edilir</string>
     <string name="select_item_face">"Bu \"%s\" dır?"</string>
     <string name="select_origin_tip">Orijinal fayl (%s)</string>

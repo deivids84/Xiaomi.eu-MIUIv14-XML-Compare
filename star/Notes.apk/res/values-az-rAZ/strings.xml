@@ -541,7 +541,6 @@
     <string name="pc_todo_set_remind_time_hint">Vaxtı ayarla</string>
     <string name="permdesc_accessNote">Zərərli tətbiqlər şəxsi məlumatlarınıza müraciət etmək üçün bunu istifadə edə bilər.</string>
     <string name="permission_data_shared_desc">Notlar üçün Üçüncü Tərəf Data Paylaşma Bəyanatı</string>
-    <string name="permission_get_account_desc">Notlar buludla sinxronlaşdırılır</string>
     <string name="permission_intro_contact">Zəng zaman yazılmış notları işarələmək üçün</string>
     <string name="permission_intro_microphone">Səsli qeydləri yazmaq üçün</string>
     <string name="permission_intro_phone">Zəng zaman yazılmış notları işarələmək üçün</string>

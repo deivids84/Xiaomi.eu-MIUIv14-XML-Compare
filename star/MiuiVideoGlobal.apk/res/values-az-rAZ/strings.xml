@@ -66,8 +66,8 @@
     <string name="action_add_phone">Telefon nömrəsi əlavə et</string>
     <string name="action_setting_ab_playing">Dövr…</string>
     <string name="action_setting_ab_reset">Sıfırla</string>
-    <string name="action_setting_ab_set_end">Son nöqtəni tənzimlə</string>
-    <string name="action_setting_ab_set_start">Başlanğıc nöqtəni tənzimlə</string>
+    <string name="action_setting_ab_set_end">Son nöqtəni ayarla</string>
+    <string name="action_setting_ab_set_start">Başlanğıc nöqtəni ayarla</string>
     <string name="action_update_phone">Telefon nömrəsini dəyişdir</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_email_notice">24 saat ərzində hesabınızın aktivləşdiriləcəyinə əmin olun</string>
@@ -98,7 +98,7 @@
     <string name="apk_download_click_resume">Endirməyə davam etmək üçün toxunun</string>
     <string name="apk_download_finish">Endirmə tamamlandı</string>
     <string name="apk_download_finish_title">Oyununuz/tətbiqiniz</string>
-    <string name="apk_download_no_permission_title">Anbar icazəsi fəal olmadığı üçün bu funksiya istifadə edilə bilmir, fəallaşdırmaq üçün tənzimləmələrə gedin</string>
+    <string name="apk_download_no_permission_title">Anbar icazəsi fəal olmadığı üçün bu funksiya istifadə edilə bilmir, fəallaşdırmaq üçün ayarlara gedin</string>
     <string name="app_description_content">"Mi Video, yerli video pleyeri ehtiva edən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra hələ də video faylları oxuda biləcəksiniz."</string>
     <string name="app_description_title">\"Mi Video\" Əsas ekrandan silinsin?</string>
     <string name="app_inner_open">APP=də açın</string>
@@ -199,7 +199,7 @@
     <string name="columbus_player_speed_video">VİDEONU ötür</string>
     <string name="columbus_player_unit_sec">san</string>
     <string name="columbus_skip_ad">Ötür</string>
-    <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Tənzimləmələrdə müraciətə icazə verin."</string>
+    <string name="com_permission_desc">"Mi Video cihazınızdakı videolara müraciət edə bilmir. Ayarlarda müraciətə icazə verin."</string>
     <string name="com_permission_title">Tələb olunan icazələr</string>
     <string name="comment_model_add_comment">Bir rəy əlavə et</string>
     <string name="comment_model_bg_add_comment">Fikirlərinizi cəmiyyətimizlə paylaşın</string>
@@ -234,7 +234,7 @@
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
     <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_update_button">Güncəllə</string>
     <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləyənə qədər %1$s işləməyəcək."</string>
@@ -255,7 +255,7 @@
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="data_empty">Burada element yoxdur</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="day">gün</string>
     <string name="default_message_body">mesaj gövdəsi</string>
     <string name="default_title">Başlıq</string>
@@ -306,13 +306,13 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dialog_privacy_info">"\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri təqdim edir:
 - Onlayn yayım
 - Yerli bir video pleyer
-\"Mi Video\"nun sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Yığdığımız məlumatları necə idarə etdiyimizi Gizlilik Siyasətimizdə öyrənə bilərsiniz. Əlaqəli tənzimləmələri Profil &gt; \"Tənzimləmələr\"də dəyişdirə bilərsiniz."</string>
-    <string name="dialog_privacy_info_new4">"\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri təqdim edir:&lt;br&gt;&lt;/br&gt; - Onlayn axın xidmətləri&lt;br&gt;&lt;/br&gt;- Yerli bir video pleyer&lt;br&gt;&lt;/br&gt;\"Mi Video\"nun sizə təməl xidmətləri təqdim etməsi üçün şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətimizdə yığdığımız məlumatları necə idarə edildiyini öyrənə bilərsiniz. Əlaqəli tənzimləmələri Tənzimləmələr &gt; Parollar və güvənlik bölməsində dəyişdirə bilərsiniz.&lt;br&gt;&lt;/br&gt;\"Mi Video\"nu istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın."</string>
-    <string name="dialog_privacy_info_new5">\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri təqdim edir:&lt;br&gt;&lt;/br&gt; - Onlayn axın xidmətləri&lt;br&gt;&lt;/br&gt;- Yerli bir video pleyeri&lt;br&gt;&lt;/br&gt;Sizə təməl xidmətləri təqdim etməsi üçün bu tətbiqin şəxsi məlumatları yığması lazımdır. Detallar üçün Gizlilik Siyasətimizə baxa bilərsiniz. Tənzimləmələri istənilən vaxt Profil &gt; \"Tənzimləmələr\"də dəyişdirə bilərsiniz.&lt;br&gt;&lt;/br&gt;\"Mi Video\"nu istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</string>
+\"Mi Video\"nun sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Yığdığımız məlumatları necə idarə etdiyimizi Gizlilik Siyasətimizdə öyrənə bilərsiniz. Əlaqəli ayarları Profil &gt; \"Ayarlar\"da dəyişdirə bilərsiniz."</string>
+    <string name="dialog_privacy_info_new4">"\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri təqdim edir:&lt;br&gt;&lt;/br&gt; - Onlayn axın xidmətləri&lt;br&gt;&lt;/br&gt;- Yerli bir video pleyer&lt;br&gt;&lt;/br&gt;\"Mi Video\"nun sizə təməl xidmətləri təqdim etməsi üçün şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətimizdə yığdığımız məlumatları necə idarə edildiyini öyrənə bilərsiniz. Əlaqəli ayarları Ayarlar &gt; Parollar və güvənlik bölməsində dəyişdirə bilərsiniz.&lt;br&gt;&lt;/br&gt;\"Mi Video\"nu istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın."</string>
+    <string name="dialog_privacy_info_new5">\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri təqdim edir:&lt;br&gt;&lt;/br&gt; - Onlayn axın xidmətləri&lt;br&gt;&lt;/br&gt;- Yerli bir video pleyeri&lt;br&gt;&lt;/br&gt;Sizə təməl xidmətləri təqdim etməsi üçün bu tətbiqin şəxsi məlumatları yığması lazımdır. Detallar üçün Gizlilik Siyasətimizə baxa bilərsiniz. Ayarları istənilən vaxt Profil &gt; \"Ayarlar\"da dəyişdirə bilərsiniz.&lt;br&gt;&lt;/br&gt;\"Mi Video\"nu istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</string>
     <string name="dialog_privacy_revoke_cancel">İmtina</string>
     <string name="dialog_privacy_revoke_count_down">Geri götür (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">"\"Mi Video\"nun Gizlilik Siyasətinə verdiyiniz razılığı geri götürmək üzrəsiniz. Şəxsi məlumatlarınızın yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan onlayn xidmətləri qəbul etməyi rədd etmək olaraq nəzərə alınacaq."</string>
-    <string name="dialog_privacy_revoke_fail">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="dialog_privacy_revoke_fail">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="dialog_privacy_revoke_ok">Geri götür</string>
     <string name="dialog_privacy_revoke_success">Uğurla geri götürüldü</string>
     <string name="dialog_privacy_revoke_title">Razılığın geri götürülməsi</string>
@@ -321,8 +321,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dialog_select_folder_content">Bütün gələcək endirmələr bu qovluqda saxlanılsın?</string>
     <string name="dialog_select_folder_title">Qovluq seçin</string>
     <string name="dialog_set_default_later">Xeyr, təşəkkürlər</string>
-    <string name="dialog_set_default_set">Tənzimlə</string>
-    <string name="dialog_set_default_text">Mi Video ilkin video pleyeri kimi tənzimlənsin?</string>
+    <string name="dialog_set_default_set">Ayarla</string>
+    <string name="dialog_set_default_text">Mi Video ilkin video pleyeri olaraq ayarlansın?</string>
     <string name="dialog_title_delete_folder">Bu qovluğu silsəniz, içindəki bütün fayllar həmişəlik silinəcək. Qovluq indi silinsin?</string>
     <string name="dialog_title_hidden_folder">"Bu qovluğu gizlətsəniz, içində fayllar videolarınızın arasında görünməyəcək. Qovluq indi gizlədilsin?"</string>
     <string name="dialog_video_change">Dəyişdir</string>
@@ -345,7 +345,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="download_guide_known">Anladım</string>
     <string name="download_is_caching">Endirmə keşlənir</string>
     <string name="download_no_permission_cancel">dəstəklənmir</string>
-    <string name="download_no_permission_sure">Tənzimləmələrə get</string>
+    <string name="download_no_permission_sure">Ayarlara get</string>
     <string name="download_paused">Fasilə verildi</string>
     <string name="download_pending">Gözlənilir…</string>
     <string name="download_power_off_tips">"Bu özəllik hələlik mövcud deyil"</string>
@@ -372,8 +372,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
     <string name="exo_controls_hide">Pleyer kontrollarını gizlət</string>
     <string name="exo_controls_next_description">Növbəti</string>
-    <string name="exo_controls_overflow_hide_description">Əlavə tənzimləmələri gizlət</string>
-    <string name="exo_controls_overflow_show_description">Əlavə tənzimləmələri göstər</string>
+    <string name="exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
     <string name="exo_controls_pause_description">Fasilə ver</string>
     <string name="exo_controls_play_description">Oxut</string>
     <string name="exo_controls_playback_speed">Sürət</string>
@@ -384,7 +384,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="exo_controls_repeat_one_description">Birini təkrarla</string>
     <string name="exo_controls_rewind_description">Geri çək</string>
     <string name="exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
-    <string name="exo_controls_settings_description">Tənzimləmələr</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
     <string name="exo_controls_show">Pleyer kontrollarını göstər</string>
     <string name="exo_controls_shuffle_off_description">Qarışdırma bağlıdır</string>
     <string name="exo_controls_shuffle_on_description">Qarışdırma açıqdır</string>
@@ -444,14 +444,14 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-poçt</string>
     <string name="feedback_hint_text">"Rastlaşdığınız problemi açıqlayın."</string>
     <string name="feedback_input_tip">Burada problemləri açıqlaya və ya təkliflər verə bilərsiniz.</string>
-    <string name="feedback_net_error">"Göndərilə bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="feedback_net_error">"Göndərilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="feedback_problem">Əks-əlaqə</string>
     <string name="feedback_sent">Göndər</string>
     <string name="feedback_success">Uğurla göndərildi</string>
     <string name="feedback_success_toast">Uğurla göndərildi. Əks-əlaqəniz üçün təşəkkürlər!</string>
     <string name="feedback_tag_title">Kateqoriya</string>
     <string name="feedback_text_empty_toast">Əvvəlcə əks-əlaqənizi daxil edin.</string>
-    <string name="file_cant_rename">%1$s adlı fayl artıq mövcuddur. Zəhmət olmasa adını dəyişdirin</string>
+    <string name="file_cant_rename">%1$s adlı fayl artıq mövcuddur. Lütfən adını dəyişdirin</string>
     <string name="file_not_exists">fayl mövcud deyil</string>
     <string name="file_space_not_enough_tip">Yetərsiz anbar sahəsi. Ən azı %d MB yer boşaldıb tətbiqi yenidən başladın.</string>
     <string name="find_psw">Parolu unutdum</string>
@@ -490,10 +490,10 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Hamısı</string>
     <string name="galleryplus_already_cloud_member">Oynamaq üçün VIP üzvlük istifadə etmə</string>
-    <string name="galleryplus_check_network">Tənzimləmələr</string>
+    <string name="galleryplus_check_network">Ayarlar</string>
     <string name="galleryplus_chose_play_speed">%1$.1fX sürəti ilə oxudulur</string>
     <string name="galleryplus_chose_play_speed_2">%1$.2fX sürəti ilə oxudulur</string>
-    <string name="galleryplus_chose_play_speed_failure">"Oxutma sürəti tənzimlənə bilmədi"</string>
+    <string name="galleryplus_chose_play_speed_failure">"Oxutma sürəti ayarlana bilmədi"</string>
     <string name="galleryplus_click_to_higher_definition">HD önbaxışını açmaq üçün cüt toxunun</string>
     <string name="galleryplus_copyright_unsported_audio">"Müəllif hüququ məhdudiyyətlərinə görə səs trek videosu oxudula bilmir"</string>
     <string name="galleryplus_copyright_unsported_video">"Müəllif hüququ məhdudiyyətlərinə görə bu video oxudula bilmir"</string>
@@ -502,7 +502,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Dəstəklənməyən kadr tezliyi. Normal sürətə qayıdıldı.</string>
     <string name="galleryplus_gallery_fold_tags">İşarələri gizlət</string>
     <string name="galleryplus_gallery_video_adjust_hint">Yalnız %d fps dəstəklənir</string>
-    <string name="galleryplus_gallery_video_adjust_text">Tənzimlə</string>
+    <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
     <string name="galleryplus_gallery_video_default_music_text">Avto</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
     <string name="galleryplus_gallery_video_icon_is_record_log">LOG</string>
@@ -514,7 +514,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_gallery_video_music_format_error">"Seçilmiş videoya üçün film musiqisi əlavə edilə bilmir"</string>
     <string name="galleryplus_gallery_video_music_text">Film musiqisi</string>
     <string name="galleryplus_gallery_video_no_music_text">Yoxdur</string>
-    <string name="galleryplus_gallery_video_operate_text">Yavaş hərəkətli tənzimləmələri</string>
+    <string name="galleryplus_gallery_video_operate_text">Yavaş hərəkətli ayarları</string>
     <string name="galleryplus_gallery_video_save_video">Video yaradılır…</string>
     <string name="galleryplus_gallery_video_slow_edit">Yavaş hərəkətli</string>
     <string name="galleryplus_gallery_view_tags">İşarələri göstər</string>
@@ -523,7 +523,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_globalvideo_controller_tip">Əlavə özəlliklərə baxın</string>
     <string name="galleryplus_is_higher_definition">HD önbaxışı</string>
     <string name="galleryplus_network_connect_check">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="galleryplus_network_connect_confirm">Wi-Fi-ya bağlanın və ya şəbəkə tənzimləmələrində mobil interneti açın.</string>
+    <string name="galleryplus_network_connect_confirm">Wi-Fi-ya bağlanın və ya şəbəkə ayarlarında mobil interneti açın.</string>
     <string name="galleryplus_network_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="galleryplus_network_not_wifi">Video yayımı üçün mobil internet istifadəsi, əlavə operator xərcləri yarada bilər</string>
     <string name="galleryplus_next_step">Növbəti</string>
@@ -551,15 +551,15 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="galleryplus_orientation_lock">İstiqamət uğurla kilidləndi</string>
     <string name="galleryplus_orientation_unlock">Ekran istiqamətinin kilidi açıldı</string>
     <string name="galleryplus_permission_content">Bu özəlliyi istifadə edə bilmək üçün tələb olunan icazələri \"Mi Video\"ya verin.</string>
-    <string name="galleryplus_permission_content_opt">\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Tənzimləmərdə tətbiq məlumatlarını təmizləyib tətbiqi yenidən açın.</string>
-    <string name="galleryplus_permission_content_opt2">"\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Tənzimləmələrdə bütün tətbiq datasını təmizləyib tətbiqi yenidən açın.
+    <string name="galleryplus_permission_content_opt">\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Ayarlarda tətbiq məlumatlarını təmizləyib tətbiqi yenidən açın.</string>
+    <string name="galleryplus_permission_content_opt2">"\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Ayarlarda bütün tətbiq datasını təmizləyib tətbiqi yenidən açın.
 Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
-    <string name="galleryplus_permission_content_xms">\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Tənzimləmələrə gedib \"Mi Video\"ya tələb olunan icazələri verin.</string>
-    <string name="galleryplus_permission_open_settings">Tənzimləmələr</string>
+    <string name="galleryplus_permission_content_xms">\"Mi Video\"nun normal işləməsi üçün icazələrə ehtiyacı var. Ayarlara gedib \"Mi Video\"ya tələb olunan icazələri verin.</string>
+    <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">İmtina</string>
-    <string name="galleryplus_permission_retry">Tənzimləmələr</string>
+    <string name="galleryplus_permission_retry">Ayarlar</string>
     <string name="galleryplus_permission_storage_content_reshowable_video_player">Yerli video pleyer istifadə edə bilmək üçün əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Yerli video pleyer istifadə edə bilmək üçün Tənzimləmələrin \"İcazələr\" bbölməsində bu tətbiqin anbara müraciətinə icazə verin.</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Yerli video pleyer istifadə edə bilmək üçün Ayarların \"İcazələr\" bbölməsində bu tətbiqin anbara müraciətinə icazə verin.</string>
     <string name="galleryplus_permission_storage_title">Anbara müraciət tələb olunur</string>
     <string name="galleryplus_permission_title">Diqqət</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
@@ -633,7 +633,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="history_online_video">Onlayn</string>
     <string name="i_know">Oldu</string>
     <string name="icon_content_description">Dialoq nişanı</string>
-    <string name="identity">Kimlik təsdiqləmə</string>
+    <string name="identity">Kimlik</string>
     <string name="incentive_details">Detallar</string>
     <string name="incentive_dialog_cancel_not_interested">Xeyr, təşəkkür</string>
     <string name="incentive_dialog_ok_receive_task">Tamamlandı</string>
@@ -677,7 +677,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="init_channels">İlkin halına qaytar</string>
     <string name="init_error">Başladılmadı</string>
     <string name="inline_auto_play_tip">"Mobil internet istifadə edilir… "</string>
-    <string name="inline_auto_play_to_set">Tənzimləmələr</string>
+    <string name="inline_auto_play_to_set">Ayarlar</string>
     <string name="inline_mute_click_tip">Səsi açmaq üçün toxunun</string>
     <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="input_new_pwd">Yeni parolu daxil edin</string>
@@ -691,7 +691,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="item_card_related">Əlaqəli</string>
     <string name="item_download_only_wify">Yalnız Wi-Fi üzərindən endir</string>
     <string name="item_download_path">Endirmə yeri</string>
-    <string name="item_download_path_setting">Endirmə yeri tənzimləmələri</string>
+    <string name="item_download_path_setting">Endirmə yeri ayarları</string>
     <string name="item_setting_go_back">Razılığın geri götürülməsi</string>
     <string name="item_title_for_search_page_hot">Məşhur</string>
     <string name="item_title_unknown">Bilinməyən başlıq</string>
@@ -728,8 +728,8 @@ seçin"</string>
     <string name="local_folder_select_count">%s seçildi</string>
     <string name="local_hide_folder_dialog_content">"Gizli videolar pleylistlərinizdə görünməyəcək"</string>
     <string name="local_hide_folder_dialog_title">Gizli videolar</string>
-    <string name="local_hide_folder_setting_goto">Tənzimləmələr</string>
-    <string name="local_hide_folder_setting_tip">Gizli videolarınızı Profil &gt; Tənzimləmələr &gt; \"Gizli videoları idarə et\"də idarə edə bilərsiniz.</string>
+    <string name="local_hide_folder_setting_goto">Ayarlar</string>
+    <string name="local_hide_folder_setting_tip">Gizli videolarınızı Profil &gt; Ayarlar &gt; \"Gizli videoları idarə et\"də idarə edə bilərsiniz.</string>
     <string name="local_play_end_camera_title">Daha çox videoya bax</string>
     <string name="local_play_end_close_tip">"Tövsiyələr bu gün yenidən göstərilməyəcək"</string>
     <string name="local_play_end_download_drag_up_guide">Endirmək üçün toxunun və ya sürüşdürün</string>
@@ -805,7 +805,7 @@ seçin"</string>
     <string name="lv_fullscreen">Tam ekran</string>
     <string name="lv_hide_folder">Gizli videolar</string>
     <string name="lv_history">Tarixçə</string>
-    <string name="lv_home_settings">Tənzimləmələr</string>
+    <string name="lv_home_settings">Ayarlar</string>
     <string name="lv_local_folder">Qovluqlar</string>
     <string name="lv_menu_delete">Sil (%d)</string>
     <string name="lv_menu_hide">Gizlət</string>
@@ -813,7 +813,7 @@ seçin"</string>
     <string name="lv_screen_shot_failure">"Ekran şəkli çəkilə bilmədi, yenidən sınayın."</string>
     <string name="lv_screen_shot_failure_tips">Ekran şəkillərini çəkmək üçün \"Mi Video\"nu güncəlləyin</string>
     <string name="lv_screen_shot_success">Ekran şəkli uğurla çəkildi</string>
-    <string name="lv_setting">Tənzimləmələr</string>
+    <string name="lv_setting">Ayarlar</string>
     <string name="lv_share_tips">Ekran şəkli uğurla çəkildi. İndi paylaşa bilərsiniz.</string>
     <string name="lv_storage_external_sdcard">Xarici anbar</string>
     <string name="lv_storage_internal_sdcard">Daxili anbar</string>
@@ -897,7 +897,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="mgmi_down_load_app">Endir</string>
     <string name="mgmi_download_is_caching">Keşləmə</string>
     <string name="mgmi_download_no_permission_cancel">dəstəklənmir</string>
-    <string name="mgmi_download_no_permission_sure">Tənzimləmələrə get</string>
+    <string name="mgmi_download_no_permission_sure">Ayarlara get</string>
     <string name="mgmi_enter_app">Tətbiqi aç</string>
     <string name="mgmi_enter_mimiprogram">Mini Proqram</string>
     <string name="mgmi_feed_download">Endir</string>
@@ -1077,8 +1077,8 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="my_feedback_title">Əks-əlaqəm</string>
     <string name="need_update_app">Bütün özəlliklərini istifadə etmək üçün \"Mi Video\"nu güncəlləyin</string>
     <string name="network_connect_info">"Şəbəkəyə bağlana bilmədi."</string>
-    <string name="network_error_and_retry_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
-    <string name="network_error_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayın."</string>
+    <string name="network_error_and_retry_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="network_error_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayın."</string>
     <string name="network_failed">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="newyearfestival_go_to_draw_prizes">Şanslı çəkilişə get</string>
     <string name="nick_name">Ləqəb</string>
@@ -1096,7 +1096,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="no_subscriptions">Burada element yoxdur</string>
     <string name="noon">Günorta</string>
     <string name="not_connect_wifi_tip">Elementləri mobil internet ilə endirmək, əlavə operator xərcləri yarada bilər. Yenə də endirilsin?</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_share">"Bu element hazırda paylaşıla bilmir"</string>
     <string name="notice_comment_action">%s göndərişinizdə rəy yazdı</string>
     <string name="notice_comment_action_deleted">Bu rəy silindi</string>
@@ -1131,7 +1131,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="online_play_start_ready_loading_tip_kb">%.2f KB/s yüklənir</string>
     <string name="online_play_start_ready_loading_tip_mb">%.2f MB/s yüklənir</string>
     <string name="online_play_title">URL daxil edin</string>
-    <string name="open_settings">Tənzimləmələrə get</string>
+    <string name="open_settings">Ayarlara get</string>
     <string name="order_recently_subscribe">Son abunəliklər</string>
     <string name="order_recently_updated">Təzəlikcə güncəllənən</string>
     <string name="out_of_memory_background_playback_is_suspended">Yetərsiz yaddaşa görə arxaplanda oxutmaya fasilə verildi</string>
@@ -1150,7 +1150,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="ovp_navigation_notice">Bildirişlər</string>
     <string name="ovp_navigation_playlist">Pleylistlər</string>
     <string name="ovp_navigation_score">Tətbiqimizi qiymətləndirin</string>
-    <string name="ovp_navigation_setting">Tənzimləmələr</string>
+    <string name="ovp_navigation_setting">Ayarlar</string>
     <string name="ovp_navigation_subscribe">Abunəlik</string>
     <string name="ovp_navigation_version_update">Güncəlləmələri yoxla</string>
     <string name="ovp_player_cached_error_btn">Onlayn videolar</string>
@@ -1241,7 +1241,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_trust_device">Bu, güvənli cihazdır</string>
     <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınır…</string>
     <string name="passport_unknow_error">Bilinməyən bir xəta baş verdi</string>
-    <string name="passport_unknow_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknow_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_unknow_network_error">Şəbəkə xətası baş verdi</string>
     <string name="passport_user_agreement_link">"&lt;Data&gt;Xiaomi-nin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və qəbul edirəm.&lt;/Data&gt;"</string>
     <string name="passport_user_agreement_link_more">"&lt;Data&gt;Bu sənədləri oxudum və qəbul edirəm: Xiaomi-nin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
@@ -1400,7 +1400,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="plus_tab_time">Zaman tuneli</string>
     <string name="pm">GS</string>
     <string name="popup_click_for_download_video">Video endir</string>
-    <string name="popup_pip_activate_button">Tənzimləmələr</string>
+    <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Əvvəlcə \"Mi Video\"nun \"şəkil içində şəkil\"i istifadə etməsinə icazə verin.</string>
     <string name="popup_window_home_tip">Onlayn videoları endir</string>
     <string name="pre_ad">·Reklam</string>
@@ -1433,7 +1433,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="recommend_online_switch">Onlayn tövsiyələr</string>
     <string name="recommend_online_tips">Onlayn video tövsiyələr almaq üçün işə sal</string>
     <string name="recommend_slide_to_more">Daha çoxu üçün sürüşdür</string>
-    <string name="recommend_switch_alert">Bu hissəni silmək üçün, Mi Video-da tənzimləmələrə gedin</string>
+    <string name="recommend_switch_alert">Bu bölməni silmək üçün, Mi Video-da ayarlara gedin</string>
     <string name="recommend_to_you">Sizə tövsiyə edilir</string>
     <string name="reject_all_label">Hamısını rədd et</string>
     <string name="reload_sub_title">Yenidən sınamaq üçün toxunun.</string>
@@ -1455,7 +1455,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="report_content_sexy">Seksual məzmun</string>
     <string name="report_content_violence">Nifrət danışığı</string>
     <string name="report_success">Uğurla bildirildi</string>
-    <string name="request_camera_permission_message">Bu xidmətin sizdən icazə istəməsinə ehtiyacı var, şəxsi məlumatlarınızı qorumaq üçün müvafiq qanunlara ciddi şəkildə əməl edəcəyik: &lt;br&gt;&lt;br&gt;&lt;b&gt; Kameraya Müraciət: Avatarı qurmaq üçün real vaxt rejimində yazı xidmətlərini sınaqdan keçirin &lt;/b&gt;&lt;br&gt;&lt;br&gt; Yuxarıdakı icazələrin çağırılması ilə razılaşmasanız, bu özəllik düzgün işləməyəcək, ancaq bu tətbiqin təməl özəlliklərini istifadə etməyinizə təsir etməyəcək. Razılığınızı geri götürmək üçün sistem tənzimləmələrində yuxarıdakı icazə çağırışını söndürməyi seçə bilərsiniz.</string>
+    <string name="request_camera_permission_message">Bu xidmətin sizdən icazə istəməsinə ehtiyacı var, şəxsi məlumatlarınızı qorumaq üçün müvafiq qanunlara ciddi şəkildə əməl edəcəyik: &lt;br&gt;&lt;br&gt;&lt;b&gt; Kameraya Müraciət: Avatarı qurmaq üçün real vaxt rejimində yazı xidmətlərini sınaqdan keçirin &lt;/b&gt;&lt;br&gt;&lt;br&gt; Yuxarıdakı icazələrin çağırılması ilə razılaşmasanız, bu özəllik düzgün işləməyəcək, ancaq bu tətbiqin təməl özəlliklərini istifadə etməyinizə təsir etməyəcək. Razılığınızı geri götürmək üçün sistem ayarlarında yuxarıdakı icazə çağırışını söndürməyi seçə bilərsiniz.</string>
     <string name="resend_active_email">Təkrar göndər</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="resend_email_reach_limit_title">Həddindən artıq cəhd</string>
@@ -1594,7 +1594,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="t_lv_password_limit_new">Parol ən azı %d simvol uzunluğunda olmalıdır</string>
     <string name="t_lv_password_null">"Parol boş ola bilməz"</string>
     <string name="t_lv_search_null">Axtarış üçün açar sözlərini daxil edin</string>
-    <string name="t_lv_subtitle_padding_default_hint">Altyazılar tənzimlənir…</string>
+    <string name="t_lv_subtitle_padding_default_hint">Altyazılar ayarlanır…</string>
     <string name="t_network_error">Şəbəkə xətası baş verdi.</string>
     <string name="t_password_limit_new">Parol ən azı %d simvol uzunluğunda olmalıdır</string>
     <string name="t_password_null">"Parol boş ola bilməz"</string>
@@ -1666,12 +1666,12 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="ticket_hint">Doğrulama kodu</string>
     <string name="ticket_invalid">Daxil etdiyiniz kod yanlışdır</string>
     <string name="ticket_sign_in">SMS ilə daxil olun</string>
-    <string name="time_picker_dialog_title">Vaxtı tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tip_content_or">VƏ YA</string>
     <string name="tip_download_video_to_save_here">%d. Video endirilənlərinizdə saxlanılacaq</string>
     <string name="tip_enter_the_website">%d. Veb sayt və ya tətbiq açın</string>
-    <string name="tip_local_long_press_for_manager">Videoları idarə etmək üçün basılı saxlayın</string>
-    <string name="tip_local_long_press_for_manager_folder">Qovluqları idarə etmək üçün basılı saxlayın</string>
+    <string name="tip_local_long_press_for_manager">Videoları idarə etmək üçün basılı tutun</string>
+    <string name="tip_local_long_press_for_manager_folder">Qovluqları idarə etmək üçün basılı tutun</string>
     <string name="tip_local_manager_here">Fayllarınızı burada idarə edin</string>
     <string name="tip_login_for_your_online_playlist">Pleylistlərinizə baxmaq üçün daxil olun.</string>
     <string name="tip_play_a_video">%d. Bir video oxut</string>
@@ -1684,7 +1684,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="title_ab_loop">A-B dövrü</string>
     <string name="title_bookmarks">Əlfəcinlər</string>
     <string name="title_continue_to_borwser">Brauzerdə aç</string>
-    <string name="title_download_setting">Endirmə tənzimləmələri</string>
+    <string name="title_download_setting">Endirmə ayarları</string>
     <string name="title_history">Tarixçə</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (Epizod %d)</string>
     <string name="title_mangotv_subtitle_language">Altyazı dili</string>
@@ -1724,14 +1724,14 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="type_content">Məzmun</string>
     <string name="type_issue">Problem</string>
     <string name="type_suggestion">Təklif</string>
-    <string name="ugc_no_net">"Şəbəkəyə bağlana bilmədi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın."</string>
+    <string name="ugc_no_net">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmir</string>
     <string name="update">Güncəllə</string>
     <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_find_new_version">Bir güncəlləmə mövcuddur</string>
-    <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>
+    <string name="update_phone_notice">Güvənlik ayarlarını dəyişdir</string>
     <string name="upload_error_log">Jurnal yüklə</string>
     <string name="user_avatar_update_title">Profil fotosunu dəyişdir</string>
     <string name="user_avatar_uploading">Bir saniyə…</string>

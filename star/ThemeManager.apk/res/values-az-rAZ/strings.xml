@@ -1187,6 +1187,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="selected_resource_file_invalid">"Seçilmiş resurs faylı istifadə edilə bilmir"</string>
     <string name="send">Göndər</string>
     <string name="server_internal_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="server_message">Müştəri xidmətləri qaynar xətti: 400–100–5678</string>
     <string name="set_as_colorring">Özəl zəng səsi olaraq ayarla</string>
     <string name="set_calling">Ayarla</string>
     <string name="set_color_ring_back_tone">Özəl zəng səsi təyin edin</string>

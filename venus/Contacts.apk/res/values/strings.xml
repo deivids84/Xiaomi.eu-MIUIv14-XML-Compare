@@ -1126,6 +1126,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="preference_dial_pad_touch_tone_title">Dial pad tones</string>
     <string name="preference_display_contact">Display options</string>
     <string name="preference_export">Export</string>
+    <string name="preference_feedback_title">Feedback</string>
     <string name="preference_import">Import</string>
     <string name="preference_import_export">Import/Export</string>
     <string name="preference_import_export_title">Import/Export contacts</string>

@@ -947,6 +947,7 @@ Səbəb: \"%s\""</string>
     <string name="preference_dial_pad_touch_tone_title">Nömrə yığım tonları</string>
     <string name="preference_display_contact">Görüntüləmə seçimləri</string>
     <string name="preference_export">Xaricə köçür</string>
+    <string name="preference_feedback_title">Əks-əlaqə</string>
     <string name="preference_import">Daxilə köçür</string>
     <string name="preference_import_export">Daxilə/xaricə köçür</string>
     <string name="preference_import_export_title">Kontaktları daxilə/xaricə köçür</string>

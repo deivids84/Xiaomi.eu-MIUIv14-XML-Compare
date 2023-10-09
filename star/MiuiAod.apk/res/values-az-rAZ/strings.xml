@@ -343,6 +343,8 @@ dd/MM"</string>
     <string name="signature">İmza</string>
     <string name="signature_default_content">"Həmişə gözəl bir şeylərin
 baş verəcəyinə inanın"</string>
+    <string name="smart_style">Ağıllı</string>
+    <string name="smart_style_summary">"Cihazınızın cibinizdə olduğu, mühit işığının uzun müddət zəif olduğu və ya cihazınıza baxmadığınız hallar istisna olmaqla, elementləri həmişə göstər"</string>
     <string name="standard_clock_panel">Standart</string>
     <string name="standard_style">Standart</string>
     <string name="step_component_info_active_tip">Addım sayı Xiaomi Health tərəfindən təmin edilir. Davam etmək üçün Xiaomi Health şərtləri və qaydaları ilə razılaşın.</string>

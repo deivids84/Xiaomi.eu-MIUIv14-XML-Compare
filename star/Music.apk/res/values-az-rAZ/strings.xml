@@ -64,6 +64,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_close">Bağla</string>
     <string name="ad_data_exception">Reklam məlumat xətası</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_recommend">Reklamları göstər</string>
     <string name="ad_setting">Əlavə ayarlar</string>
     <string name="add">Əlavə et</string>
@@ -526,6 +527,7 @@
     <string name="get_more_favorite_content_after_login">Daha çox mahnı və video kəşf etmək üçün daxil olun.</string>
     <string name="get_one_day_vip">%d günlük VIP qazandınız!</string>
     <string name="get_one_hour_vip">%d saatlıq VIP qazandınız!</string>
+    <string name="get_one_minute_vip">%d dəqiqəlik VIP qazandınız!</string>
     <string name="get_vip">VIP əldə et</string>
     <string name="go_agree">Oldu</string>
     <string name="google_account_login">Google ilə daxil olun</string>
@@ -944,6 +946,7 @@
     <string name="ok">Oldu</string>
     <string name="one_day_vip">%d günlük VIP</string>
     <string name="one_hour_vip">%d saatlıq VIP</string>
+    <string name="one_minute_vip">%d dəqiqəlik VIP</string>
     <string name="online_apk_acquired">Yükləndi %d%%</string>
     <string name="online_apk_acquiring">Yüklənir… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Yetərsiz anbar sahəsinə görə endirilə bilmədi."</string>
@@ -1249,6 +1252,7 @@ Xoşbəxt ol"</string>
     <string name="retry">Yenidən sına</string>
     <string name="retry_after_network_available">"Şəbəkəyə bağlana bilmir. Bağlantınızı yoxlayıb yenidən sınayın."</string>
     <string name="retry_download">Yenidən sına</string>
+    <string name="reward_received">Bir VIP üzvlük qazandınız!</string>
     <string name="ringtone_editing">Zəng səsi redaktoru</string>
     <string name="ringtone_not_support">"Bu mahnı formatı dəstəklənmir"</string>
     <string name="ringtone_selected">Seçildi</string>
@@ -1342,6 +1346,7 @@ Xoşbəxt ol"</string>
     <string name="similar_songs">Oxşar mahnılar</string>
     <string name="similar_videos">Oxşar videolar</string>
     <string name="skip">Ötür</string>
+    <string name="skip_ad">Ötür</string>
     <string name="sleep_mode">Yuxu taymeri</string>
     <string name="sleep_mode_canceled">Yuxu rejmi söndürüldü</string>
     <string name="sleep_mode_summary">Müəyyən vaxtdan sonra pleyeri dayandır</string>
@@ -1521,6 +1526,7 @@ Xoşbəxt ol"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="version_info">Versiya</string>
+    <string name="video_loading_fail">"Video yüklənə bilmədi"</string>
     <string name="video_play_cellular">"Cihazınız Wi-Fi-a bağlanmayıb. Mobil internet istifadə edilsin?"</string>
     <string name="video_replay_btn">Yenidən oxut</string>
     <string name="video_retry_btn">Yenidən sına</string>
@@ -1529,6 +1535,8 @@ Xoşbəxt ol"</string>
     <string name="vip_required_with_song">%s yalnız Gold üzvləri üçün əlçatandır. İndilik bu mahnı ötürüldü.</string>
     <string name="voice_search_first_hint">Səsli axtarışı sına!</string>
     <string name="watch_video">Videoya bax</string>
+    <string name="web_reward_dialog_cancle">İmtina</string>
+    <string name="web_reward_dialog_ok">Çıx</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
@@ -1546,13 +1554,6 @@ Xoşbəxt ol"</string>
 
 Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</string>
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, lütfən Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
-Həcmi: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s
-Delta güncəlləmə həcmi: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncəlləməsi!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, lütfən SD kartı yoxlayın.</string>
     <string name="yandex_ads_internal_instream_call_to_action">Get ➔</string>
     <string name="yandex_ads_internal_instream_sponsored_social">SOSİAL REKLAM</string>
     <string name="yandex_ads_internal_instream_sponsored_yandex">REKLAM</string>
@@ -1573,4 +1574,7 @@ Delta güncəlləmə həcmi: %2$s"</string>
     <string name="youtube_share_guide_tip">Artıq videoları dostlarınızla paylaşa bilərsiniz</string>
     <string name="youtube_tab_explore">Kəşf et</string>
     <string name="youtube_tab_playlist">Pleylistlər</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_trend">Trendlər</string>
 </resources>

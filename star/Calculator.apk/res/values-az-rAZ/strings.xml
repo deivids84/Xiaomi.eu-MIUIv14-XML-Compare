@@ -499,7 +499,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="tax_thershold_foreign">%s (Əcnəbi millətlər)</string>
     <string name="tax_thershold_native_new">%s (yeni)</string>
     <string name="tax_thershold_native_new_description">Vergilər 1 Oktyabr, 2018-ci il tarixindən yeni vergi qanununa əsasən hesablanacaq</string>
-    <string name="tax_threshold">Vergisiz ərəfədə</string>
+    <string name="tax_threshold">Vergisiz hədd</string>
     <string name="tax_total_insurance_provident_fund">Sığorta &amp; ev krediti</string>
     <string name="tax_unemployment">İşsizlik</string>
     <string name="tax_update_time_format">Məlumatlar HeXun (%s) tərəfindən təmin edilir</string>

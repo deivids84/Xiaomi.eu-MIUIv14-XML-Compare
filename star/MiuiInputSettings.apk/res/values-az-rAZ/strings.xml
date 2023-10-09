@@ -40,6 +40,7 @@
     <string name="auto_disable_screenbuttons_ask">Sıradan çıxartmaq üçün soruş</string>
     <string name="auto_disable_screenbuttons_auto">Həmişə sıradan çıxart</string>
     <string name="auto_disable_screenbuttons_cancel">İmtina</string>
+    <string name="auto_disable_screenbuttons_dialog_title">%s üçün ekran düymələri sıradan çıxarılsın?</string>
     <string name="auto_disable_screenbuttons_no">Heç vaxt sıradan çıxartma</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Cihazınız mənzərə rejimində olarkən naviqasiya düymələri əngəllənəcək</string>
     <string name="auto_disable_screenbuttons_rotation_title">Mənzərə rejimində naviqasiya düymələrini əngəllə</string>
@@ -208,6 +209,7 @@
     <string name="keyboard_function_summary_first_line">·Qısayolları göstərmək üçün basılı tutun.</string>
     <string name="keyboard_function_summary_second_line">·Ekranı ötürmək üçün eyni hesaba daxil olmuş bir telefonla klaviaturanın NFC sahəsinə toxunun. Cihazlar arasında asanlıqla köçürmək üçün bir fayl və ya foto seçin.</string>
     <string name="keyboard_funtion_key">Funksiya açarı</string>
+    <string name="keyboard_layout_arabic">Ərəbcə</string>
     <string name="keyboard_layout_default_label">İlkin</string>
     <string name="keyboard_layout_dialog_setup_button">Klaviatura düzümlərini quraşdır</string>
     <string name="keyboard_layout_dialog_switch_hint">Keçid etmək üçün Ctrl+Space basın</string>

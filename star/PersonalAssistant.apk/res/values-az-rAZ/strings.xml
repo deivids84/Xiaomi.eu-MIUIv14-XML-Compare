@@ -218,6 +218,8 @@ detallar üçün iki dəfə toxunun,
 daşımaq üçün iki dəfə toxunub basılı tutun."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, quraşdırma statusu: %3$s.
 Detallara baxmaq üçün iki dəfə toxunun."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, quraşdırma statusu: %3$s.
+Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, sətir %2$d, nömrə %3$d. 
 Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">\"Temalar\"ı aç</string>
@@ -387,6 +389,8 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_filter_title">Daha çox vicet</string>
     <string name="pa_finish">Hazırdır</string>
     <string name="pa_get_installed_app_permission_description">Tətbiqləri quraşdırmaq və vicetləri əlavə etmək üçün</string>
+    <string name="pa_global_search_description">Axtar</string>
+    <string name="pa_global_search_hint">Axtar…</string>
     <string name="pa_guide_dialog_desc">Yenidən düzmək üçün viceti basılı tutun. Daha çox vicet əlavə etmək üçün üstəgələ toxunun.</string>
     <string name="pa_guide_dialog_sure">Anladım</string>
     <string name="pa_guide_dialog_title">Vicet mağazamıza nəzər yetirin</string>
@@ -449,9 +453,11 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_add_maml_net_unavailable">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="pa_picker_detail_add_to_home">Əsas ekrana əlavə et</string>
     <string name="pa_picker_detail_add_to_minus">Tətbiq kassasına əlavə et</string>
+    <string name="pa_picker_detail_add_to_stack">Qrupa əlavə et</string>
     <string name="pa_picker_detail_add_widget_success">Uğurla əlavə edildi</string>
     <string name="pa_picker_detail_app_not_in_market">"Bu tətbiq indi heç bir vicet təmin etmir"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Bu tətbiqin vicetləri artıq əlçatan deyil"</string>
+    <string name="pa_picker_detail_app_widget_in_dev">"Bu vicet hələ əlçatmazdır. Bunun əvəzinə digər vicetləri yoxlaya bilərsiniz."</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Əsas ekran</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Tətbiq kassası</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Əsas ekrana əlavə et</string>
@@ -490,6 +496,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_detail_theme_app_cta_pre">"Bu vicet istifadə edə bilmək üçün əvvəlcə \"Temalar\"ın internetə bağlanmasına icazə verin. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Daxil olun</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Əvvəlcə Xiaomi Hesabınıza daxil olun. "</string>
+    <string name="pa_picker_detail_view_more">Daha çoxuna bax</string>
     <string name="pa_picker_detail_vp2_indicator">Seçilmiş səhifə %1$d/%2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Bu element Wi-Fi ilə endiriləcək</string>
     <string name="pa_picker_empty">"Vicetlər tətbiqin bu versiyasında mövcud deyil. 
@@ -546,6 +553,9 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_picker_search_result_type_recommend">Tövsiyə edilən</string>
     <string name="pa_picker_search_result_type_suit">Vicet dəstləri</string>
     <string name="pa_picker_search_result_type_widget">Vicetlər</string>
+    <string name="pa_picker_stack_operate_empty_title">"Burada hələ heç nə yoxdur.
+Başlamaq üçün vicetləri əlavə edin."</string>
+    <string name="pa_picker_stack_operate_title">Qrupa düzəliş et</string>
     <string name="pa_picker_suit_list_activity_title">Fərdiləşdirilmiş paketlər</string>
     <string name="pa_picker_tab_title_category">Kateqoriyalar</string>
     <string name="pa_picker_tab_title_fun">Kəşf et</string>
@@ -553,6 +563,7 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_picker_theme_app_version_error">Xəta baş verdi</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Daha çox vicet əlavə edilə bilmir. Yenisini əlavə etmək üçün köhnə vicetləri silin."</string>
     <string name="pa_picker_toast_add_successfully">Uğurla əlavə edildi</string>
+    <string name="pa_picker_toast_count_limit_for_stack">10-a qədər element əlavə et</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Daha çox vicet əlavə edilə bilmir"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Bu növdə daha çox vicet əlavə edilə bilmir"</string>
     <string name="pa_picker_toast_count_limit_warning">Uğurla əlavə edildi. Unutmayın, Əsas ekranınıza çoxlu vicet əlavə etmək cihazınızı yavaşlada bilər.</string>
@@ -717,6 +728,8 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_sports_widget_empty_football">Futbol</string>
     <string name="pa_sports_widget_empty_game">Kralların Şərəfi</string>
     <string name="pa_sports_widget_empty_recommend">Tövsiyə edilən</string>
+    <string name="pa_stack_summary">Yeni məlumatlara sahib vicetləri üstə daşı</string>
+    <string name="pa_stack_text">Güncəllənən elementləri yuxarı daşı</string>
     <string name="pa_stock_add_stock_button">Əlavə et</string>
     <string name="pa_stock_change_cp_code_alert">Bu əməliyyat məlumatların düzgün göstərilməməsinə səbəb olur</string>
     <string name="pa_stock_change_cp_code_error">"Məlumat mənbəyi dəyişdirilə bilmədi"</string>
@@ -762,7 +775,10 @@ Tətbiq kassasının quraşdırma statusuna müraciəti lazımdır."</string>
     <string name="pa_vertical_right">Şaquli düzüm. Sağa hizalanmış.</string>
     <string name="pa_widget_advert_loading_dialog_message">Bir saniyə…</string>
     <string name="pa_widget_menu_edit">Düzəliş et</string>
+    <string name="pa_widget_menu_edit_card_in_stack">\"%s\" düzəliş et</string>
+    <string name="pa_widget_menu_edit_stack">Qrupa düzəliş et</string>
     <string name="pa_widget_menu_remove">Sil</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Sil: \"%s\"</string>
     <string name="pa_widget_menu_replace">Dəyişdir</string>
     <string name="pa_widget_need_download_dialog_cancel">İmtina</string>
     <string name="pa_widget_need_download_dialog_confirm">Oldu</string>

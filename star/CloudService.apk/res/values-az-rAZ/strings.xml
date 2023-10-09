@@ -191,7 +191,6 @@
     <string name="gallery_service_termination_btn_continue">Davam</string>
     <string name="gallery_service_termination_more_info">Daha çox məlumat üçün baxın: \"%s\"</string>
     <string name="help_and_feedback">Kömək və əks əlaqə</string>
-    <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
     <string name="i_know">Oldu</string>
     <string name="input_password_hint">Parolu daxil edin</string>
     <string name="keybag_create_by_new_passcode_prompt">"Bu parol, cloud-da saxlanılan parolları qoruyur. Bu parolu unutsanız, qorunan parollara müraciət edə bilməyəcəksiniz."</string>
@@ -475,15 +474,16 @@
     <string name="midrive_guide_btn_installing">Quraşdırılır…</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
@@ -533,7 +533,6 @@
     <string name="more">Daha çox</string>
     <string name="morning">Səhər</string>
     <string name="night">Axşam</string>
-    <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_sim">"SIM kart tapıla bilmədi"</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -868,9 +867,11 @@
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="waiting_for_sync">Gözləyir…</string>
-    <string name="web_sso_login_fail">Yenidən daxil olmağınız lazımdır</string>
-    <string name="web_sso_login_message">Daxil olunur…</string>
-    <string name="webview_reload">Yenidən sına</string>
+    <string name="web_view_auto_login_fail">"Daxil oluna bilmədi. Yenidən sınayın."</string>
+    <string name="web_view_login_text">Daxil olunur…</string>
+    <string name="web_view_reload_btn_text">Yenidən sına</string>
+    <string name="web_view_reload_description_text">"Şəbəkəyə bağlana bilmədi.
+Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

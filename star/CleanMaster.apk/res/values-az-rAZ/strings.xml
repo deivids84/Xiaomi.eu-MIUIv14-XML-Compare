@@ -123,6 +123,7 @@
     <string name="auto_clean_time_every_day">Hər gün</string>
     <string name="auto_cleaner_open">Aç</string>
     <string name="back">Geri</string>
+    <string name="be_figuring">Hesablanır…</string>
     <string name="btn_text_done">Hazırdır</string>
     <string name="btn_text_quick_cleanup">Təmizlə</string>
     <string name="btn_text_quick_cleanup_apk">Seçilmiş APK-ləri sil %1$s</string>
@@ -246,6 +247,7 @@
     <string name="dc_item_title_wechat_chat">WeChat tarixçəsini təmizlə</string>
     <string name="dc_storage_cleaned">%s sahə boşaldıldı</string>
     <string name="dc_storage_info">Mövcud %1$s | Cəmi %2$s</string>
+    <string name="dc_storage_info_new">%1$s mövcuddur</string>
     <string name="deep_clean_completed_tips">Uğurla təmizləndi</string>
     <string name="deep_clean_data_path_clean_title">Keşi təmizlə</string>
     <string name="deep_clean_uninstall_completed_tips">Uğurla silindi</string>

@@ -713,6 +713,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="switch_personal_assistant_app_vault">Tətbiq kassası</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Yoxdur</string>
+    <string name="switch_personal_assistant_summary">\"Google Kəşf et\"i açmaq üçün Əsas ekranda sağa sürüşdür</string>
     <string name="switch_screen_button_order">Düymələrin yerini dəyişdir</string>
     <string name="switch_screen_button_order_desc">Geri və Menyu düymələrinin yerini dəyişdir</string>
     <string name="system_shortcuts_edit">Düzəliş et</string>
@@ -731,7 +732,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="title_jeejen">Jeejen Əsas ekran</string>
     <string name="toast_drag_to_assistant_reject">Tətbiq kasası quraşdırılır…</string>
     <string name="toast_screen_icons_misplaced">Digər mənbədən geri yükləndi, bəzi nişanlar səhv yerləşdirilmiş ola bilər.</string>
-    <string name="toast_split_app_unsupported">Tətbiq ekran bölünməsini dəstəkləmir.</string>
+    <string name="toast_split_app_unsupported">Tətbiq ekran bölünməsini dəstəkləmir</string>
     <string name="toast_split_select_app">Ekran bölünməsini istifadə etmək üçün başqa bir tətbiqə toxunun</string>
     <string name="today">Bu gün</string>
     <string name="toggle_title">Keçidlər</string>
@@ -753,7 +754,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="uninstall_xspace_dialog_message">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
     <string name="uninstall_xspace_dialog_title_format">İkili \"%s\" tətbiqi silinsin?</string>
     <string name="unnamed_folder_name">Qovluq</string>
-    <string name="unstable_dialog_message">Bu cihaz Android 13 Developer Preview Proqramına yazılıb. Proqram, Android developerlərin və həvəskərların Android 13-ün buraxılışdan əvvəlki versiyalarını sınamağına imkan verir. Bu ön-buraxılış versiyası, cihazınızın normal işləməsinə təsir edə biləcək xətalar və qüsurlar ehtiva edə bilər.</string>
+    <string name="unstable_dialog_message">Bu cihaz Android 14 Developer Preview Proqramına yazılıb. Proqram, Android developerlərin və həvəskərların Android 14-ün buraxılışdan əvvəlki versiyalarını sınamağına imkan verir. Bu ön-buraxılış versiyası, cihazınızın normal işləməsinə təsir edə biləcək xətalar və qüsurlar ehtiva edə bilər.</string>
     <string name="unstable_dialog_title">Android Tərtibatçı Önbaxış Proqramı</string>
     <string name="upgrade_remove_small_window_in_recents">Tətbiqləri üzən pəncərələrdə açmaq üçün yan çubuğu istifadə edə bilərsiniz</string>
     <string name="v7_preference_off">BAĞLI</string>

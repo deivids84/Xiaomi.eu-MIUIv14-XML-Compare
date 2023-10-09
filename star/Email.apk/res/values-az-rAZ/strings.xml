@@ -1203,8 +1203,8 @@ Tam sinxronlaşdırılana qədər gözləyin və ya mesaja kompüterinizdə bax�
     <string name="user_new_auth_code">Daxil olmaq üçün yeni kodu istifadə edin</string>
     <string name="user_privacy_settings">Gizlilik ayarları</string>
     <string name="user_privacy_settings_agreement_authorization">"(\"Razıyam\"a toxunaraq, \"Poçt\"a bütün tələb edilən icazələri verirsiniz)"</string>
-    <string name="user_privacy_settings_path">Səlahiyyəti ləğv etmək üçün Tənzimləmələr &gt; Gizlilik ayarlarına gedin.</string>
-    <string name="user_privacy_settings_summary">"Android Kimliyinizi şifrəli formada toplayacağıq və onu Mail-dəki unikal istifadəçi identifikatoru kimi istifadə edəcəyik. İstifadə qeydlərini də toplaya bilərik. Səlahiyyətləndirmənizi istənilən vaxt gizlilik tənzimləmələri menyusundan ləğv edə bilərsiniz."</string>
+    <string name="user_privacy_settings_path">Səlahiyyəti ləğv etmək üçün Ayarlar &gt; Gizlilik ayarlarına gedin.</string>
+    <string name="user_privacy_settings_summary">"Android Kimliyinizi şifrəli formada yığacağıq və onu Mail-də unikal istifadəçi identifikatorunuz olaraq istifadə edəcəyik. İstifadə jurnallarını da yığa bilərik. Səlahiyyətləndirmənizi istənilən vaxt gizlilik ayarlarında ləğv edə bilərsiniz."</string>
     <string name="user_privacy_settings_title">E-poçt gizlilik bəyanatı</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>

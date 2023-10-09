@@ -49,16 +49,16 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
-        <item quantity="other">1 saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
-        <item quantity="other">1 saat ərzində</item>
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">Yarım saat ərzində</item>
@@ -70,7 +70,7 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dəq ərzində</item>
-        <item quantity="one">1 dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">İndicə</item>
@@ -78,7 +78,7 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dəq əvvəl</item>
-        <item quantity="one">1 dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d rəy</item>
@@ -198,6 +198,10 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">%d izləyici</item>
         <item quantity="one">%d izləyici</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">%d saniyədə VIP üzvlük</item>
+        <item quantity="one">%d saniyədə VIP üzvlük</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d mahnı göndəriləcək</item>
         <item quantity="one">%d mahnı göndəriləcək</item>
@@ -233,6 +237,10 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d gün qaldı</item>
         <item quantity="one">%d gün qaldı</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">"%d saniyə baxsanız, mükafat olaraq bir VIP üzvlük alacaqsınız. Yenə də çıxılsın?"</item>
+        <item quantity="one">"%d saniyə baxsanız, mükafat olaraq bir VIP üzvlük alacaqsınız. Yenə də çıxılsın?"</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">%d fayl əlavə edildi</item>

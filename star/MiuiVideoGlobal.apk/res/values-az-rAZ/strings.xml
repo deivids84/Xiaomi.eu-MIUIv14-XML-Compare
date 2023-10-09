@@ -107,6 +107,9 @@
     <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="auto_play_next_off">Avto-oxutma bağlıdır</string>
     <string name="auto_play_next_on">Avto-oxutma açıqdır</string>
+    <string name="back_recommend_exchange">Bax</string>
+    <string name="back_recommend_exit">Çıx</string>
+    <string name="back_recommend_title">Daha çox məşhur videolara bax</string>
     <string name="back_to_mainpage">Kəşf et</string>
     <string name="background_playback_enabled">Arxaplanda oxutma açıqdır</string>
     <string name="before_yestoday_new">%d gün əvvəl</string>
@@ -626,6 +629,7 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="have_learned">Anladım</string>
     <string name="hidden_channels">"Aşağıdakı kanallar Əsas ekranda göstərilməyəcək."</string>
     <string name="hide">Gizlət</string>
+    <string name="hide_video_toast">Bu element gizlidir. Gizli elementləri Yerli &gt; Qovluqlar &gt; \"Gizli elementlər\"də tapa və idarə edə bilərsiniz.</string>
     <string name="hint_icon_ad_title">Tövsiyə edilən</string>
     <string name="hint_in_mivideo">İndi əlavə özəlliklər üçün yan paneli yoxlaya bilərsiniz</string>
     <string name="history">Tarixçə</string>
@@ -730,6 +734,7 @@ seçin"</string>
     <string name="local_hide_folder_dialog_title">Gizli videolar</string>
     <string name="local_hide_folder_setting_goto">Ayarlar</string>
     <string name="local_hide_folder_setting_tip">Gizli videolarınızı Profil &gt; Ayarlar &gt; \"Gizli videoları idarə et\"də idarə edə bilərsiniz.</string>
+    <string name="local_new_user_speed_guide">Oxutma sürətini ayarlamaq üçün basılı tutun və sürüşdürün</string>
     <string name="local_play_end_camera_title">Daha çox videoya bax</string>
     <string name="local_play_end_close_tip">"Tövsiyələr bu gün yenidən göstərilməyəcək"</string>
     <string name="local_play_end_download_drag_up_guide">Endirmək üçün toxunun və ya sürüşdürün</string>
@@ -740,6 +745,14 @@ seçin"</string>
     <string name="local_push_setting_power_tag">Yerli videolar haqqında bildirişlər</string>
     <string name="local_push_title">Bu gün məşhur</string>
     <string name="local_push_video_title">Yeni yerli videoları skan edin</string>
+    <string name="local_reset_confirm">Yenidən daxil edin</string>
+    <string name="local_reset_error_dif_info">"Yeni PIN köhnəsi ilə eyni ola bilməz"</string>
+    <string name="local_reset_error_wrong_info">"PIN-lər uyğunlaşmır. Yenidən sınayın."</string>
+    <string name="local_reset_new_password">Yeni PIN-i daxil edin</string>
+    <string name="local_reset_old_password">Hazırkı PIN-i daxil edin</string>
+    <string name="local_reset_password_done">PIN uğurla dəyişdirildi</string>
+    <string name="local_reset_password_title">PIN-i dәyişdir</string>
+    <string name="local_reset_tips">%d rəqəmli PIN daxil edin</string>
     <string name="local_stretch_zoom_mode">Şəkil uzadılıb</string>
     <string name="local_subtitle_choose_language_text">Dil</string>
     <string name="local_subtitle_exemption_hint">opensubtitle.org üzərində altyazıları axtar</string>
@@ -873,6 +886,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="mediation_ad">Reklam</string>
     <string name="mediation_ad_can_not_share">"Bu video paylaşıla bilmir"</string>
+    <string name="mediation_russian_ad">Reklam</string>
     <string name="member">VIP</string>
     <string name="message_notify">Yeni mesaj bildirişi</string>
     <string name="mgmi_ad_mid_wait">Fasilə verin. Daha sonra davam edin.</string>
@@ -1075,6 +1089,9 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="music_new_user_dialog_tip">\"Mi Video\"ya xoş gəldiniz! Bu tətbiq yerli video pleyer və onlayn musiqi və video axın xidmətlərini təqdim edir.</string>
     <string name="my_favorite_channels">Sevimli kannallarım</string>
     <string name="my_feedback_title">Əks-əlaqəm</string>
+    <string name="native_body">Gövdə</string>
+    <string name="native_headline">Başlıq</string>
+    <string name="native_media_view">Media görünüşü</string>
     <string name="need_update_app">Bütün özəlliklərini istifadə etmək üçün \"Mi Video\"nu güncəlləyin</string>
     <string name="network_connect_info">"Şəbəkəyə bağlana bilmədi."</string>
     <string name="network_error_and_retry_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
@@ -1521,6 +1538,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="sign_in_mi_account">Xiaomi Hesabı ilə daxil olun</string>
     <string name="sign_in_progress">Daxil olunur…</string>
     <string name="sign_in_title">Mi Hesabınızla daxil olun</string>
+    <string name="skip_ad">Ötür</string>
     <string name="slid_fail_message">"Saxlanıla bilmədi"</string>
     <string name="slide_save_message">Video yaradılır…</string>
     <string name="small_video_load_more_hint">Daha çox video oxutmaq üçün yuxarı sürüşdür</string>
@@ -1791,6 +1809,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="vp_replay">Yenidən oxut</string>
     <string name="vp_upcoming_auto_play">Avto-oxutma</string>
     <string name="vp_upcoming_title">Növbəti</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="website_button_add_bookmarks">Əlfəcin əlavə et</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>

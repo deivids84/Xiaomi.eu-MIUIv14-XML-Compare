@@ -63,7 +63,7 @@
     <string name="account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="account_token_expired_msg">"Doğrulama kodunun müddəti bitdi, başdan başlayın və ya çıxış edin
  Hesabınız kimliyi: %s"</string>
-    <string name="account_token_expired_title">"Kimlik təsdiqlənə bilmədi"</string>
+    <string name="account_token_expired_title">"Kimlik doğrulana bilmədi"</string>
     <string name="account_user_avatar">Profil şəkli</string>
     <string name="account_user_avatar_activity_not_found">"Qalereya açıla bilmədi"</string>
     <string name="account_user_avatar_from_album">Foto seçin</string>
@@ -184,7 +184,7 @@
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
     <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
-    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Zəhmət olmasa yenidən sınayın.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_update_button">Güncəllə</string>
     <string name="common_google_play_services_update_text">"Google Play xidmətlərini güncəlləyənə qədər %1$s işləməyəcək."</string>
@@ -210,7 +210,7 @@
     <string name="copy_to_clipboard_successful">Uğurla kopyalandı</string>
     <string name="current_account_can_use_pwd_login">Daxil olmaq üçün parolunuzu daxil edin</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
-    <string name="date_time_picker_dialog_title">Tarix və saatı tənzimlə</string>
+    <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_error_message">Yararsız giriş</string>
     <string name="default_popup_window_title">Açılan pəncərə</string>
     <string name="delete_action">Sil</string>
@@ -236,7 +236,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dropdown_menu">Açılan menyu</string>
     <string name="early_morning">Səhər</string>
     <string name="empty_device_list_notice">Cihaz yoxdur</string>
-    <string name="enable">Tənzimləmələr</string>
+    <string name="enable">Ayarlar</string>
     <string name="ep_unsupported">"Cihazınızda Xiaomi Hesabına daxil oluna bilmir"</string>
     <string name="eras_bc">E.Ə.</string>
     <string name="error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
@@ -315,7 +315,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="i_agree">Oldu</string>
     <string name="i_agree_continue">Razıyam</string>
     <string name="icon_content_description">Dialoq nişanı</string>
-    <string name="identity">Kimlik təsdiqləmə</string>
+    <string name="identity">Kimlik</string>
     <string name="in_progress">Davam edir</string>
     <string name="inconsistent_pwd">"Parollar uyğunlaşmır"</string>
     <string name="indeterminate">Nə yoxlanılıb, nə də yoxlanılmayıb</string>
@@ -485,14 +485,14 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="no_install">Quraşdırılmadı</string>
     <string name="no_network_btn">Təzələ</string>
     <string name="no_network_title">"Şəbəkə ilə bağlantı qurula bilmir."</string>
-    <string name="no_password_set">Tənzimlənmədi</string>
+    <string name="no_password_set">Ayarlanmadı</string>
     <string name="no_phone">Telefon nömrəsi yoxdur</string>
     <string name="no_response_retry">Cavab yoxdur, yenidən sınayın.</string>
     <string name="no_sim_card_or_unactivated">"SIM kart quraşdırılmadı və ya aktivləşdirilmədi"</string>
     <string name="nobind">Bağlantı qurulmayıb</string>
     <string name="noon">Günorta</string>
     <string name="not_selected">Seçilmədi</string>
-    <string name="not_set">Tənzimlənmədi</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="notify_bind_security_phone">Geri qaytarma telefonu əlavə et</string>
     <string name="notify_complete_security_info">Geri qaytarma məlumatı əlavə et</string>
     <string name="notify_network_restricted_content_bg_network">"Xiaomi Hesabının internetə müraciəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
@@ -700,7 +700,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_message_dialog_title">Doğrulama kodları olan SMS</string>
     <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
-    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
     <string name="passport_network_timeout">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="passport_new_user_register">Hesab yarat</string>
@@ -708,7 +708,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_no">Xeyr</string>
     <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_notification_title">%1$s üçün hesaba daxil olma xətası</string>
-    <string name="passport_open_settings">Tənzimləmələr</string>
+    <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parolu göstərməyin"</string>
@@ -774,12 +774,12 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_remove_confirm">Çıxış et</string>
     <string name="passport_remove_unactivated_account_notice">"Hesabınız aktivləşdirilməyib."</string>
     <string name="passport_request_agree">İcazə ver</string>
-    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil şəkilinizi tənzimləmək üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Tənzimləmələrdə həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil şəkilinizi ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Ayarlarda istədiyiniz vaxt icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="passport_request_cancel">İmtina</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
-    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın.</string>
+    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil şəklini tənzimləmək üçün</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="passport_resend_active_email">E-poçtu yenidən göndər</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
     <string name="passport_reset_fail_title">"Sıfırlana bilmədi"</string>
@@ -797,9 +797,9 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_send_too_many_code">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. %d saat gözləyib yenidən sınayın.</string>
     <string name="passport_send_vcode_failed">"Kod göndərilə bilmədi"</string>
     <string name="passport_sending_vcode">Kod göndərilir…</string>
-    <string name="passport_set">Tənzimlə</string>
+    <string name="passport_set">Ayarla</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
-    <string name="passport_setting">Tənzimlənir…</string>
+    <string name="passport_setting">Quraşdırılır…</string>
     <string name="passport_skip_login">Ötür</string>
     <string name="passport_skip_query_account">Ötür</string>
     <string name="passport_skip_register">Qeydiyyatı ötür</string>
@@ -827,7 +827,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınır…</string>
     <string name="passport_tz_invalid">Güvənlik riskləri tapıldı. Bu cihaz root edilib və ya proqram təminatı dəyişdirilib. Digər giriş seçimlərini sınayın.</string>
     <string name="passport_unknown_error">Bilinməyən xəta</string>
-    <string name="passport_unknown_host_network_error">Şəbəkə tənzimləmələrinizi yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_uplink_reg">Telefon nömrəsini istifadə et</string>
     <string name="passport_uplink_send_sms_hint">"Yazılmış bir mesajla səhifəyə yönləndirildikdən sonra \"Göndər\"ə toxunun."</string>
     <string name="passport_uplink_slot1_reg">SIM %d istifadə et</string>
@@ -944,19 +944,19 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="saturday_shortest">Şәn</string>
     <string name="scan_barcode_title">Xiaomi Hesabınıza daxil olmaq üçün, QR kodu skan edin</string>
     <string name="search_account_security">Hesab güvənliyi</string>
-    <string name="search_account_security_desc">Hesab tənzimləmələri</string>
+    <string name="search_account_security_desc">Hesab Ayarları</string>
     <string name="search_account_security_key_words">Telefonu dəyişdir,E-poçtu dəyişdir,Hesab qoruması,Hesablar,Sina Weibo,QQ,Səlahiyyətləndirmə,Cihazlar</string>
-    <string name="search_account_security_path">Tənzimləmələr/Xiaomi Hesabı/Hesab güvənliyi</string>
+    <string name="search_account_security_path">Ayarlar/Xiaomi Hesabı/Hesab güvənliyi</string>
     <string name="search_app_name">Xiaomi Hesabı</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_mi_account">Xiaomi Hesabı</string>
     <string name="search_mi_account_desc">Xiaomi Hesabı</string>
-    <string name="search_mi_account_key_words">Xiaomi Cloud,Hesab tənzimləmələri,Mi Pay məlumatı, Çıxış et</string>
-    <string name="search_mi_account_path">Tənzimləmələr/Xiaomi Hesabı</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Hesab ayarları,Mi Pay məlumatı, Çıxış et</string>
+    <string name="search_mi_account_path">Ayarlar/Xiaomi Hesabı</string>
     <string name="search_user_detail">Şəxsi məlumatlar</string>
     <string name="search_user_detail_bottom_key_words">Gəliri dəyişdir,Təhsili dəyişdir,Yerləşməni dəyişdir,Bölgəni dəyişdir</string>
     <string name="search_user_detail_desc">Şəxsi məlumatlar</string>
-    <string name="search_user_detail_path">Tənzimləmələr/Xiaomi Hesabı/Şəxsi məlumatlar</string>
+    <string name="search_user_detail_path">Ayarlar/Xiaomi Hesabı/Şəxsi məlumatlar</string>
     <string name="search_user_detail_top_key_words">Şəxsi məlumatlar,Profil şəkilini dəyişdir,İstifadəçi adını dəyişdir,Ləqəbi dəyişdir,Doğum gününü dəyişdir,Cinsi dəyişdir</string>
     <string name="select_all">Hamısını seç</string>
     <string name="selected">Seçildi</string>
@@ -985,7 +985,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="system_ad_list">Əlaqəli tətbiqləri göstər</string>
     <string name="system_ad_summary">Sistem tətbiqlərində az sayda reklam göstərilməsinə icazə vermək üçün bu özəlliyi açın. Bu reklamlar məhsul və xidmətlərimizi inkişaf etdirməyə və təkmilləşdirməyə kömək edir. İstənilən vaxt bu özəlliyi söndürməyi seçə bilərsiniz.</string>
     <string name="system_ad_switch">Sistem tətbiqlərində reklamlar</string>
-    <string name="system_ad_switch_failed">"Tənzimləmə tətbiq edilə bilmədi"</string>
+    <string name="system_ad_switch_failed">"Ayar tətbiq edilə bilmədi"</string>
     <string name="tab">Vərəq</string>
     <string name="talkback_scan_barcode">QR kodu skan et</string>
     <string name="template_percent">%1$d faiz.</string>
@@ -1034,7 +1034,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="time_picker_dialog_title">Vaxt tənzimlə</string>
+    <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tuesday">Çərşənbə axşamı</string>
@@ -1042,10 +1042,10 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="turn_off_find_device_failed_title">"\"Cihazı tap\" bağlanıla bilmir"</string>
     <string name="turning_off_find_device">\"Cihazı tap\" bağlanılır…</string>
-    <string name="two_factor_auth">İki mərhələli kimlik təsdiqləmə</string>
+    <string name="two_factor_auth">İki faktorlu kimlik doğrulama</string>
     <string name="two_factor_auth_click_confirm">Daxil olmanı təsdiqlə</string>
     <string name="two_factor_auth_click_confirm_summary">"Digər bağlantılı Mi cihazlarında bildiriş görəcəksiniz. Yeni cihazda daxil olmağa icazə vermək üçün bildirişə toxunun."</string>
-    <string name="two_factor_auth_method">Kimlik təsdiqləmə üsulu</string>
+    <string name="two_factor_auth_method">Kimlik doğrulama üsulu</string>
     <string name="two_factor_auth_need_code">Kodu daxil edin</string>
     <string name="two_factor_auth_need_code_summary">"Digər bağlantılı Mi cihazlarında kod görəcəksiniz. Daxil olmaq üçün bu kodu yeni cihazda daxil edin."</string>
     <string name="two_factor_auth_summary">"Yeni bir cihazda və ya yeni bir yerdə daxil olmağa çalışanda, digər bağlantılı cihazlarda bu haqda bildiriş alacaqsınız. Belə daxil olma cəhdlərinin siz tərəfdən icazə verildiyini təsdiqləməlisiniz."</string>
@@ -1060,7 +1060,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="update_apk_version_now">Güncəllə</string>
     <string name="update_email_address_dialog_message">E-poçtu güncəlləyə bilməyiniz üçün əvvəlcə kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="update_email_address_dialog_title">E-poçtu güncəllə</string>
-    <string name="update_phone_notice">Güvənlik tənzimləmələrini dəyişdir</string>
+    <string name="update_phone_notice">Güvənlik ayarlarını dəyişdir</string>
     <string name="update_phone_number_notice_message">Telefon nömrəsini güncəlləyə bilməyiniz üçün əvvəlcə kimliyinizi doğrulamağınız lazımdır.</string>
     <string name="use_google_account_login">Google ilə daxil olun</string>
     <string name="used_cloud_storage_info">İstifadə edilən: %s</string>
@@ -1078,26 +1078,26 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="user_instruction_all_purpose">Xiaomi Hesabına xoş gəldiniz! Hesabınızı Xiaomi və onun Mi.com, Xiaomi Cloud və GetApps kimi əlaqəli şirkətləri tərəfindən təqdim edilən xidmətlərə müraciət etmək üçün istifadə edə bilərsiniz. Mi Coins əldə edə, virtual məhsullar ala və oyunlar, temalar və e-kitablar daxil olmaqla əlavə dəyərli xidmətlərdən həzz ala bilərsiniz.</string>
     <string name="user_instruction_tip">Daxil ola bilmək üçün şərtlər və qaydaları oxuyun və razılaşın.</string>
     <string name="user_license_with_3rd_app"><Data>\"Xiaomi Hesabımla giriş edərək, bunları oxuduğumu və razılaşdığımı təsdiqləyirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Mobil kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.\"</Data></string>
     <string name="user_license_with_3rd_app_no_operator"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.
 \"</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Telecom təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.
+    <string name="user_license_with_3rd_app_telcom"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Telecom kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.
 \"</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Unicom təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.
+    <string name="user_license_with_3rd_app_unicom"><Data>\"Bunları oxudum və razılaşıram: Bu tətbiqin &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%5$s&gt;Çin Unicom kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.
 \"</Data></string>
     <string name="user_license_with_out_3rd_app_no_operator"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.
 \"</Data></string>
     <string name="user_license_without_3rd_app"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Mobil təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.
+    <string name="user_license_without_3rd_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Mobil kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.
 \"</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Telecom təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.
+    <string name="user_license_without_3rd_telcom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Telecom kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.
 \"</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Unicom təsdiqləmə xidmətlərinin şərtləri&lt;/a&gt;.
+    <string name="user_license_without_3rd_unicom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və &lt;a href=%3$s&gt;Çin Unicom kimlik doğrulama xidmətlərinin şərtləri&lt;/a&gt;.
 \"</Data></string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="vip_account_settings">VIP tənzimləmələri</string>
-    <string name="vip_settings_info">VIP tənzimləmələri</string>
+    <string name="vip_account_settings">VIP Ayarları</string>
+    <string name="vip_settings_info">VIP ayarları</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

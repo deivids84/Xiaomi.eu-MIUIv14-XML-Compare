@@ -165,6 +165,8 @@
     <string name="declaration_title">Şərtlər və qaydalar</string>
     <string name="delete_pic">Şəkli sil</string>
     <string name="deny_des">Divar kağızları Karuseli, normal işləyə bilməsi üçün Qalereyaya müraciət etməlidir.</string>
+    <string name="detail_ad_download_btn">Endir</string>
+    <string name="detail_ad_open_btn">Aç</string>
     <string name="detail_ad_type_ad">Reklam</string>
     <string name="detail_ad_type_close_ad">Reklamı bağla</string>
     <string name="detail_ad_type_video">Məşhur videolar</string>
@@ -326,7 +328,6 @@ Bu əlavə ödənişlərə səbəb ola bilər."</string>
     <string name="lockscreen_h5_back_tv">Geri</string>
     <string name="lockscreen_h5_close_tv">Bağlı</string>
     <string name="lockscreen_h5_refresh_btn_tv">Təzələ</string>
-    <string name="lockscreen_h5_refresh_tip">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="lockscreen_magazine_summary">Kateqoriyaları seçin</string>
     <string name="lockscreen_magazine_system_title">İlkin</string>
     <string name="lockscreen_magazine_title">Divar kağızı Karuseli</string>
@@ -367,15 +368,16 @@ mm"</string>
 mm"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha çox</string>
     <string name="miuix_appcompat_cancel_description">İmtina</string>
     <string name="miuix_appcompat_confirm_description">Təsdiqlə</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi ləğv et</string>
+    <string name="miuix_appcompat_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_deselect_all_description">Heç birini seçmə</string>
+    <string name="miuix_appcompat_edit">Düzəliş et</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İmtina</string>
     <string name="miuix_appcompat_search_input_description">Axtar</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>

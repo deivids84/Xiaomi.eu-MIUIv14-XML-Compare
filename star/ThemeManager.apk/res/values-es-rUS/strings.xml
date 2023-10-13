@@ -1189,6 +1189,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="selected_resource_file_invalid">"No puede usarse el archivo de recurso seleccionado"</string>
     <string name="send">Enviar</string>
     <string name="server_internal_error">Se produjo un error en el servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
+    <string name="server_message">Línea telefónica de atención al cliente: 400–100–5678</string>
     <string name="set_as_colorring">Establecer como tono de llamada personalizado</string>
     <string name="set_calling">Establecer</string>
     <string name="set_color_ring_back_tone">Establezca un tono de espera personalizado</string>
